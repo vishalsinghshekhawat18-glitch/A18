@@ -4,7 +4,6 @@ import { KnowledgeItem } from '../schema/knowledge-item';
 import { parseHash, buildHash, RouteState } from './navigation/router';
 import { NavSidebar } from './navigation/NavSidebar';
 import { CommandCenterHome } from './hubs/CommandCenterHome';
-import { SubjectHubView } from './hubs/SubjectHubView';
 import { ReaderShell } from './reader/ReaderShell';
 import { ReadingControls } from './reader/ReadingControls';
 import { SearchModal } from './search/SearchModal';
@@ -80,7 +79,34 @@ export const App: React.FC = () => {
   }, [allCorpusMap]);
 
   // Active Item Resolution
-  const activeItemId = routeState.type === 'read' ? routeState.itemId || allCorpusMap[0].id : allCorpusMap[0].id;
+  const resolveItemForSubject = (subId: string): KnowledgeItem => {
+    const matched = allCorpusMap.filter(i => {
+      if (subId === 'economics') return i.domain === 'economics' || i.id.includes('eco-ch');
+      if (subId === 'polity') return i.domain === 'polity' || i.id.includes('pol-ch');
+      if (subId === 'history') return i.domain === 'history' || i.id.includes('his-ch');
+      if (subId === 'geography') return i.domain === 'geography' || i.id.includes('geo-ch');
+      if (subId === 'science') return i.domain === 'science' || i.id.includes('sci-ch');
+      if (subId === 'revision') return i.domain === 'revision' || i.id.includes('rev-ch');
+      if (subId === 'current-affairs') return i.domain === 'current-affairs' && !i.id.includes('scheme');
+      if (subId === 'schemes') return i.id.includes('scheme');
+      if (subId === 'static-ga') return i.domain === 'static-ga' || i.id.includes('static');
+      if (subId === 'quant') return i.domain === 'quant' && !i.id.includes('pyq');
+      if (subId === 'pyqs') return i.domain === 'pyqs' || i.id.includes('pyq');
+      return i.domain === subId;
+    });
+
+    return matched[0] || allCorpusMap[0];
+  };
+
+  const activeItemId = useMemo(() => {
+    if (routeState.type === 'read' && routeState.itemId) {
+      return routeState.itemId;
+    }
+    if (routeState.type === 'subject' && routeState.subjectId) {
+      return resolveItemForSubject(routeState.subjectId).id;
+    }
+    return allCorpusMap[0].id;
+  }, [routeState, allCorpusMap]);
 
   const activeItem = useMemo(() => {
     return allCorpusMap.find(i => i.id === activeItemId) || allCorpusMap[0];
@@ -92,7 +118,8 @@ export const App: React.FC = () => {
   };
 
   const handleSelectSubject = (subjectId: string) => {
-    window.location.hash = buildHash({ type: 'subject', subjectId });
+    const targetItem = resolveItemForSubject(subjectId);
+    handleSelectItem(targetItem.id);
   };
 
   const handleSelectItem = (itemId: string) => {
@@ -118,7 +145,7 @@ export const App: React.FC = () => {
       <NavSidebar
         items={allCorpusMap}
         activeItemId={activeItemId}
-        activeSubjectId={routeState.type === 'subject' ? routeState.subjectId : undefined}
+        activeSubjectId={routeState.type === 'subject' ? routeState.subjectId : activeItem.domain}
         currentNavDepth={routeState.type}
         onGoHome={handleGoHome}
         onSelectSubject={handleSelectSubject}
@@ -136,36 +163,15 @@ export const App: React.FC = () => {
         />
 
         {/* Level 1: Command Center Home Surface */}
-        {routeState.type === 'home' && (
+        {routeState.type === 'home' ? (
           <CommandCenterHome
             items={allCorpusMap}
             lastOpenedItemId={lastOpenedItemId}
             onSelectSubject={handleSelectSubject}
             onSelectItem={handleSelectItem}
           />
-        )}
-
-        {/* Level 2: Subject Hub Navigation View (Directly renders CAFeedSurface for current-affairs) */}
-        {routeState.type === 'subject' && routeState.subjectId && (
-          routeState.subjectId === 'current-affairs' ? (
-            <ReaderShell
-              item={allCorpusMap.find(i => i.domain === 'current-affairs' && !i.id.includes('scheme')) || activeItem}
-              allItems={allCorpusMap}
-              fontSize={fontSize}
-              onNavigateItem={handleSelectItem}
-            />
-          ) : (
-            <SubjectHubView
-              subjectId={routeState.subjectId}
-              items={allCorpusMap}
-              onBackHome={handleGoHome}
-              onSelectItem={handleSelectItem}
-            />
-          )
-        )}
-
-        {/* Level 3: Content Reader Surface */}
-        {routeState.type === 'read' && (
+        ) : (
+          /* Level 2 & 3: Direct Content Surface Rendering Across All Subjects (Zero Intermediate Index Cards) */
           <ReaderShell
             item={activeItem}
             allItems={allCorpusMap}

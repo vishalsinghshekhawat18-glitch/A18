@@ -989,9 +989,38 @@ body {
   padding: 0;
 }
 
-.ca-side-col-compact ul,
-.ca-side-col ul {
-  padding-left: 1rem;
+.ca-side-col-compact .block-quote,
+.ca-side-col .block-quote,
+.block-quote {
+  padding: 0.55rem 0.75rem;
+  margin: 0.4rem 0;
+  border-radius: 0 4px 4px 0;
+  border-left: 3px solid var(--text-accent);
+  background-color: var(--bg-accent-subtle);
+  font-style: italic;
+  font-size: 0.82rem;
+  line-height: 1.35;
+  color: var(--text-primary);
+}
+
+.quote-label {
+  font-family: var(--font-ui);
+  font-size: 0.74rem;
+  font-weight: 700;
+  color: var(--text-accent);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-style: normal;
+  margin-bottom: 0.2rem;
+}
+
+.quote-author {
+  font-family: var(--font-ui);
+  font-size: 0.76rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  font-style: normal;
+  margin-top: 0.2rem;
 }
 
 .ca-briefing-container {
