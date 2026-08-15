@@ -1,11 +1,11 @@
 {
   "version": "1.0.0-phase5",
   "totalItems": 926,
-  "migratedCount": 125,
-  "pendingCount": 801,
+  "migratedCount": 150,
+  "pendingCount": 776,
   "reviewRequiredCount": 0,
   "failedCount": 0,
-  "lastUpdated": "2026-08-15T09:05:11.292Z",
+  "lastUpdated": "2026-08-15T12:07:58.726Z",
   "entries": [
     {
       "sourceSystem": "Core",
@@ -1429,9 +1429,11 @@
       "sourceDomain": "history",
       "sourceType": "chapter",
       "sourceChecksum": "343805de4b7920bc89163aaa2a9ec9f8e453731b3d06c6b25d26f8de022ce7a1",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:07:58.522Z",
+      "destinationId": "migrated-core-his-ch-57",
+      "batchNumber": 5
     },
     {
       "sourceSystem": "Core",
@@ -1441,9 +1443,11 @@
       "sourceDomain": "geography",
       "sourceType": "chapter",
       "sourceChecksum": "6021eae8c8411fe2fbbe8bdb377286287a679acbf99e0af860af177c60880e92",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:07:58.532Z",
+      "destinationId": "migrated-core-geo-ch-1",
+      "batchNumber": 5
     },
     {
       "sourceSystem": "Core",
@@ -1453,9 +1457,11 @@
       "sourceDomain": "geography",
       "sourceType": "chapter",
       "sourceChecksum": "d9bfb70d35b1e64e86457592b4e8cc72366cc71a7ba36f38d2a93fb907c75cfd",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:07:58.540Z",
+      "destinationId": "migrated-core-geo-ch-2",
+      "batchNumber": 5
     },
     {
       "sourceSystem": "Core",
@@ -1465,9 +1471,11 @@
       "sourceDomain": "geography",
       "sourceType": "chapter",
       "sourceChecksum": "8eccbfeb0b420d9c075eb5eef1cca51a0facf55b5f231c59db7e6e042f0b709e",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:07:58.556Z",
+      "destinationId": "migrated-core-geo-ch-3",
+      "batchNumber": 5
     },
     {
       "sourceSystem": "Core",
@@ -1477,9 +1485,11 @@
       "sourceDomain": "geography",
       "sourceType": "chapter",
       "sourceChecksum": "545facc83ed8ef11274b33a1bc9bd6ae0cf007bbcc61129d92b25deee6cdf840",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:07:58.563Z",
+      "destinationId": "migrated-core-geo-ch-4",
+      "batchNumber": 5
     },
     {
       "sourceSystem": "Core",
@@ -1503,9 +1513,11 @@
       "sourceDomain": "geography",
       "sourceType": "chapter",
       "sourceChecksum": "92a082529d41b094c85f3578af3850fb5399484580c1af78d960c77f96f8329a",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:07:58.571Z",
+      "destinationId": "migrated-core-geo-ch-6",
+      "batchNumber": 5
     },
     {
       "sourceSystem": "Core",
@@ -1515,9 +1527,11 @@
       "sourceDomain": "geography",
       "sourceType": "chapter",
       "sourceChecksum": "30f88ad47b0e0cee85d9ef2734f28c1f93e55b73257a25a74b2686e430a5bb7c",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:07:58.579Z",
+      "destinationId": "migrated-core-geo-ch-7",
+      "batchNumber": 5
     },
     {
       "sourceSystem": "Core",
@@ -1527,9 +1541,11 @@
       "sourceDomain": "geography",
       "sourceType": "chapter",
       "sourceChecksum": "c2ee8e3fcdb24ca067c2d71e640b1ef8ad93fbe9a86c202a04eb8b8bd44c00c0",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:07:58.586Z",
+      "destinationId": "migrated-core-geo-ch-8",
+      "batchNumber": 5
     },
     {
       "sourceSystem": "Core",
@@ -1539,9 +1555,11 @@
       "sourceDomain": "geography",
       "sourceType": "chapter",
       "sourceChecksum": "5845e96b54fdf159f68ec2abf14c6ceaa6979dd764c50416e8c4f82f9de0d6dc",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:07:58.593Z",
+      "destinationId": "migrated-core-geo-ch-9",
+      "batchNumber": 5
     },
     {
       "sourceSystem": "Core",
@@ -1551,9 +1569,11 @@
       "sourceDomain": "geography",
       "sourceType": "chapter",
       "sourceChecksum": "3013c789f0d23faf6f7d48dca73a02187588b08a54abeb2f58f83cdaf9d758e8",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:07:58.600Z",
+      "destinationId": "migrated-core-geo-ch-10",
+      "batchNumber": 5
     },
     {
       "sourceSystem": "Core",
@@ -1563,9 +1583,11 @@
       "sourceDomain": "geography",
       "sourceType": "chapter",
       "sourceChecksum": "02b72a2547f9f9dbd82e7a42a0f768472d2292e559458ad160b593abfdc7f22b",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:07:58.607Z",
+      "destinationId": "migrated-core-geo-ch-11",
+      "batchNumber": 5
     },
     {
       "sourceSystem": "Core",
@@ -1575,9 +1597,11 @@
       "sourceDomain": "geography",
       "sourceType": "chapter",
       "sourceChecksum": "d25f27c693bfa18b2d492234a784781eb416e68cbed04f8a22203cb864dcdb7a",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:07:58.614Z",
+      "destinationId": "migrated-core-geo-ch-12",
+      "batchNumber": 5
     },
     {
       "sourceSystem": "Core",
@@ -1587,9 +1611,11 @@
       "sourceDomain": "science",
       "sourceType": "chapter",
       "sourceChecksum": "4823e9ff2f0ff4cf6e779282f5a5682c6882a18488e6f097165b790805d57858",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:07:58.624Z",
+      "destinationId": "migrated-core-sci-ch-1",
+      "batchNumber": 5
     },
     {
       "sourceSystem": "Core",
@@ -1599,9 +1625,11 @@
       "sourceDomain": "science",
       "sourceType": "chapter",
       "sourceChecksum": "1b69fc51cbcd00c2953d96dfc3f20dfa3effc839daa5a07acec7e3296ac16fba",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:07:58.634Z",
+      "destinationId": "migrated-core-sci-ch-2",
+      "batchNumber": 5
     },
     {
       "sourceSystem": "Core",
@@ -1625,9 +1653,11 @@
       "sourceDomain": "science",
       "sourceType": "chapter",
       "sourceChecksum": "f64fa131cfe9b9998c4c92ddcfe6a87a0832f620ccf300649970f57969b8f797",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:07:58.645Z",
+      "destinationId": "migrated-core-sci-ch-4",
+      "batchNumber": 5
     },
     {
       "sourceSystem": "Core",
@@ -1637,9 +1667,11 @@
       "sourceDomain": "science",
       "sourceType": "chapter",
       "sourceChecksum": "5e1c726937867efccc20e52c41b545d285212e838558455190391d5981742093",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:07:58.655Z",
+      "destinationId": "migrated-core-sci-ch-5",
+      "batchNumber": 5
     },
     {
       "sourceSystem": "Core",
@@ -1649,9 +1681,11 @@
       "sourceDomain": "science",
       "sourceType": "chapter",
       "sourceChecksum": "9b8f1f0cf336de5dc4e35fecca766dc72c73f577848c417ea31cfcd87ed107c1",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:07:58.661Z",
+      "destinationId": "migrated-core-sci-ch-6",
+      "batchNumber": 5
     },
     {
       "sourceSystem": "Core",
@@ -1661,9 +1695,11 @@
       "sourceDomain": "science",
       "sourceType": "chapter",
       "sourceChecksum": "19263eb79147da1de4bd341880d27632acd4ee931d565e224a54d446012fe8bd",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:07:58.668Z",
+      "destinationId": "migrated-core-sci-ch-7",
+      "batchNumber": 5
     },
     {
       "sourceSystem": "Core",
@@ -1673,9 +1709,11 @@
       "sourceDomain": "science",
       "sourceType": "chapter",
       "sourceChecksum": "eb6969715b8b527e402eaeb576f6339917cf8b8c31d6b70d4b2ec0e585507b32",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:07:58.676Z",
+      "destinationId": "migrated-core-sci-ch-8",
+      "batchNumber": 5
     },
     {
       "sourceSystem": "Core",
@@ -1685,9 +1723,11 @@
       "sourceDomain": "science",
       "sourceType": "chapter",
       "sourceChecksum": "d2d9e4a3dd52624b753569f1603407ce06f0118314a3c3a718f13fcd4dcb199a",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:07:58.683Z",
+      "destinationId": "migrated-core-sci-ch-9",
+      "batchNumber": 5
     },
     {
       "sourceSystem": "Core",
@@ -1697,9 +1737,11 @@
       "sourceDomain": "science",
       "sourceType": "chapter",
       "sourceChecksum": "eca213087b0add045e6fd9d6aa47abcda1ed250ce6e43cc347b4c8759e73b801",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:07:58.695Z",
+      "destinationId": "migrated-core-sci-ch-10",
+      "batchNumber": 5
     },
     {
       "sourceSystem": "Core",
@@ -1709,9 +1751,11 @@
       "sourceDomain": "science",
       "sourceType": "chapter",
       "sourceChecksum": "de527abfb3a9f6da8eb58a8c5701cf7a2039dce79d6ee35078a311ce82f48254",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:07:58.702Z",
+      "destinationId": "migrated-core-sci-ch-11",
+      "batchNumber": 5
     },
     {
       "sourceSystem": "Core",
@@ -1721,9 +1765,11 @@
       "sourceDomain": "science",
       "sourceType": "chapter",
       "sourceChecksum": "7a94087d5eb27e134ed460a88578d83eb4c9792b0e9cc19dd81db1dee70f7258",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:07:58.710Z",
+      "destinationId": "migrated-core-sci-ch-12",
+      "batchNumber": 5
     },
     {
       "sourceSystem": "Core",
@@ -1747,9 +1793,11 @@
       "sourceDomain": "revision",
       "sourceType": "chapter",
       "sourceChecksum": "481d4954b6729e8abcf2654ad31ed6649c63b007d3a3eba88d8790b659af1744",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:07:58.717Z",
+      "destinationId": "migrated-core-rev-ch-2",
+      "batchNumber": 5
     },
     {
       "sourceSystem": "Core",
@@ -1759,9 +1807,11 @@
       "sourceDomain": "revision",
       "sourceType": "chapter",
       "sourceChecksum": "caafb6174cbe38c21b9da94210a3756ca1419abf9af949890c3e35aa4e6dfc38",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:07:58.726Z",
+      "destinationId": "migrated-core-rev-ch-3",
+      "batchNumber": 5
     },
     {
       "sourceSystem": "Core",
