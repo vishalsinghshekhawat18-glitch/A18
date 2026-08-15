@@ -1,11 +1,11 @@
 {
   "version": "1.0.0-phase5",
   "totalItems": 926,
-  "migratedCount": 650,
-  "pendingCount": 276,
+  "migratedCount": 675,
+  "pendingCount": 251,
   "reviewRequiredCount": 0,
   "failedCount": 0,
-  "lastUpdated": "2026-08-15T12:19:15.882Z",
+  "lastUpdated": "2026-08-15T12:19:51.802Z",
   "entries": [
     {
       "sourceSystem": "Core",
@@ -8905,9 +8905,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "f758116dbb971888a7491edefbfbc34740132bfcd28e62aefb3caf18354de559",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:19:51.531Z",
+      "destinationId": "migrated-ca-ca-2026-08-10-nse-authorised-person-rules",
+      "batchNumber": 26
     },
     {
       "sourceSystem": "CA",
@@ -8917,9 +8919,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "2ce41a9ac6058d78d793aac81e02e9981352c050017b748e27f046861d8ece97",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:19:51.543Z",
+      "destinationId": "migrated-ca-ca-2026-08-10-paul-merchants-fema-ad2",
+      "batchNumber": 26
     },
     {
       "sourceSystem": "CA",
@@ -8929,9 +8933,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "a2e17f70e774168c7bb2b03cc015b6157575312ef27d5386896ab11b982d40b7",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:19:51.555Z",
+      "destinationId": "migrated-ca-ca-2026-08-10-indusind-stock-broking-subsidiary",
+      "batchNumber": 26
     },
     {
       "sourceSystem": "CA",
@@ -8941,9 +8947,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "c5d3a85403c3907b2f018234e26d4b14eceee471a06572417e2505c7f75a9d52",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:19:51.566Z",
+      "destinationId": "migrated-ca-ca-2026-08-10-kotak-hybrid-home-loan",
+      "batchNumber": 26
     },
     {
       "sourceSystem": "CA",
@@ -8953,9 +8961,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "bf457b167c110735ec37e5207f86a90fe402e39429d9b0974d8e4e821c4d8f25",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:19:51.576Z",
+      "destinationId": "migrated-ca-ca-2026-08-10-gift-city-nri-mf-fund",
+      "batchNumber": 26
     },
     {
       "sourceSystem": "CA",
@@ -8965,9 +8975,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "d6e8334aa1bc1b8ad6da3456a385e6c0dd7dbb6f387e0a1f5cb9d09dee3195ee",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:19:51.590Z",
+      "destinationId": "migrated-ca-ca-2026-08-10-ifc-225cr-ndr-smart-spaces",
+      "batchNumber": 26
     },
     {
       "sourceSystem": "CA",
@@ -8977,9 +8989,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "6b27c3e15949f0860674af8d681e99d348c45e12ae662d59999578e227ec9449",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:19:51.602Z",
+      "destinationId": "migrated-ca-ca-2026-08-10-mithila-makhana-export-australia",
+      "batchNumber": 26
     },
     {
       "sourceSystem": "CA",
@@ -8989,9 +9003,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "fe2ae77b0bddc9d0c053bc8510d9fef3b1ab66c6984eb6fdd30745e1f1a4e246",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:19:51.613Z",
+      "destinationId": "migrated-ca-ca-2026-08-11-boss-scam-warning-i4c",
+      "batchNumber": 26
     },
     {
       "sourceSystem": "CA",
@@ -9001,9 +9017,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "fbbf4b92fa209c1f409b31e438f005ca157e7b89d77bfd7ba5499eb08f1e0d85",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:19:51.625Z",
+      "destinationId": "migrated-ca-ca-2026-08-11-govt-notifies-11-evisa-ports",
+      "batchNumber": 26
     },
     {
       "sourceSystem": "CA",
@@ -9013,9 +9031,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "2ff79746e2a1e4bd71c3b92b01310740aa0943535b952151b220fe69581237d2",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:19:51.637Z",
+      "destinationId": "migrated-ca-ca-2026-08-11-mmdr-amendment-bill-2026",
+      "batchNumber": 26
     },
     {
       "sourceSystem": "CA",
@@ -9025,9 +9045,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "9a2b86b294c07c2dc5378a7abfc6283daf8e0200304660cae441882201ed3ac5",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:19:51.649Z",
+      "destinationId": "migrated-ca-ca-2026-08-11-nabl-mobile-food-testing-scheme",
+      "batchNumber": 26
     },
     {
       "sourceSystem": "CA",
@@ -9037,9 +9059,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "bfef9c9be21d4e211ae670ec21483c9bedcbd9558ab1491bd2062068e00fff96",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:19:51.660Z",
+      "destinationId": "migrated-ca-ca-2026-08-11-pm-vbry-women-enrolment",
+      "batchNumber": 26
     },
     {
       "sourceSystem": "CA",
@@ -9049,9 +9073,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "aac1ea456ba81d66093383cdea77b2fde26f0b7cc27fe133cc496fdea4294a2a",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:19:51.672Z",
+      "destinationId": "migrated-ca-ca-2026-08-11-fao-food-price-index-july",
+      "batchNumber": 26
     },
     {
       "sourceSystem": "CA",
@@ -9061,9 +9087,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "3f7e811a616cc6b462b0fc0baa72bf53638dde98e93cb58293d0b1e931da8729",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:19:51.684Z",
+      "destinationId": "migrated-ca-ca-2026-08-11-colombia-74-earthquake",
+      "batchNumber": 26
     },
     {
       "sourceSystem": "CA",
@@ -9073,9 +9101,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "ec88d8618c83203843860c5a380e7229aee462fff8efd7bb1ec16bc69a3aceee",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:19:51.696Z",
+      "destinationId": "migrated-ca-ca-2026-08-10-digilocker-aaeri-verify-mou",
+      "batchNumber": 26
     },
     {
       "sourceSystem": "CA",
@@ -9085,9 +9115,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "d9973c5fd5e955a1ce917f907c7c91c085e23b9bc37dc6747c809f611c3ff560",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:19:51.707Z",
+      "destinationId": "migrated-ca-ca-2026-08-10-mospi-isi-gdp-nowcasting",
+      "batchNumber": 26
     },
     {
       "sourceSystem": "CA",
@@ -9097,9 +9129,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "8091045494722866d83edfb974126555abc8e4d9dc983fd98c49d710ab233830",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:19:51.717Z",
+      "destinationId": "migrated-ca-ca-2026-08-10-everest-rocket-engine-astrobase",
+      "batchNumber": 26
     },
     {
       "sourceSystem": "CA",
@@ -9109,9 +9143,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "7a1641cfdfe81a7f1262d7a4a13a3163c6b685fef60ce96be0338b3b5a3ec996",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:19:51.727Z",
+      "destinationId": "migrated-ca-ca-2026-08-11-indo-us-eod-exercise-2026",
+      "batchNumber": 26
     },
     {
       "sourceSystem": "CA",
@@ -9121,9 +9157,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "57ecf82fea0fa236d9f743bedeb6b1de41081551d5f8bdbce5efc84d845af362",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:19:51.737Z",
+      "destinationId": "migrated-ca-ca-2026-08-11-dirac-medal-2026-deepak-dhar",
+      "batchNumber": 26
     },
     {
       "sourceSystem": "CA",
@@ -9133,9 +9171,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "2d4dbd4b8afc7c30c4d5a7e2f451c0bd5a7b4c628bcf74a81025e051716dd534",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:19:51.747Z",
+      "destinationId": "migrated-ca-ca-2026-08-11-rahul-navin-director-ed",
+      "batchNumber": 26
     },
     {
       "sourceSystem": "CA",
@@ -9145,9 +9185,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "ce9f1a6edb5e2911789b6d1a8a2cdda2dbc72522160b11bf44aa84468d605554",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:19:51.757Z",
+      "destinationId": "migrated-ca-ca-2026-08-11-bimal-patel-itlos-judge",
+      "batchNumber": 26
     },
     {
       "sourceSystem": "CA",
@@ -9157,9 +9199,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "3eb39a93751c164f169c00d56c29c6943c15b198fbc24a6eb374df6de3c1e69b",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:19:51.767Z",
+      "destinationId": "migrated-ca-ca-2026-08-11-ashwani-bhatia-niva-bupa",
+      "batchNumber": 26
     },
     {
       "sourceSystem": "CA",
@@ -9169,9 +9213,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "1db3ac602d121a8ba300e04cdd2db2e6f229de97347f57c9fc683626ed15bffe",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:19:51.777Z",
+      "destinationId": "migrated-ca-ca-2026-08-11-asian-junior-weightlifting-2026",
+      "batchNumber": 26
     },
     {
       "sourceSystem": "CA",
@@ -9181,9 +9227,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "507433ae28f93a45fe625fd53a5a04b6551808c6097adeef054d3433465c619c",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:19:51.790Z",
+      "destinationId": "migrated-ca-ca-2026-08-11-ashmita-chaliha-korea-masters",
+      "batchNumber": 26
     },
     {
       "sourceSystem": "CA",
@@ -9193,9 +9241,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "2dda04f5264b794fe4050288bee6f124a82222ff6da8ede9b676ec5bc7236910",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:19:51.802Z",
+      "destinationId": "migrated-ca-ca-2026-08-11-tarun-chugh-highest-paid-ceo",
+      "batchNumber": 26
     },
     {
       "sourceSystem": "CA",

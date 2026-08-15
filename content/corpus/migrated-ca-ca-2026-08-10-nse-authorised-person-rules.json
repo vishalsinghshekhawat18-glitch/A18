@@ -41,14 +41,14 @@
     "date": "2026-08-10",
     "category": "SEC2",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:00.597Z",
+    "lastUpdated": "2026-08-15T12:19:51.522Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "ca_app/data.js",
       "sourceId": "ca_2026_08_10_nse_authorised_person_rules",
       "sourceTitle": "NSE Introduces Tighter Net Worth & Deposit Norms for Authorised Persons (APs)",
       "sourceChecksum": "f758116dbb971888a7491edefbfbc34740132bfcd28e62aefb3caf18354de559",
-      "migrationTimestamp": "2026-08-15T12:14:00.597Z",
+      "migrationTimestamp": "2026-08-15T12:19:51.522Z",
       "normalizationRuleVersion": "1.0.0-phase4"
     }
   }
