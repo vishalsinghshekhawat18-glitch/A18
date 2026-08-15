@@ -1,0 +1,49 @@
+{
+  "id": "migrated-ca-note-sec2-112",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India Tops World in IPO Count, Ranks 3rd in Funds Raised (SEBI Annual Report FY26)",
+  "summary": "High domestic equity issuance volume reinforces India's position in global capital markets.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "High domestic equity issuance volume reinforces India's position in global capital markets."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Public Shareholding Timeline: Largest listed companies given up to 10 years to reach mandatory 25% minimum public shareholding.",
+        "Pre-IPO ESOPs: Founders permitted to retain pre-IPO Employee Stock Option Plans."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-07",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:38.419Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-112",
+      "sourceTitle": "India Tops World in IPO Count, Ranks 3rd in Funds Raised (SEBI Annual Report FY26)",
+      "sourceChecksum": "f6f1748150098855c3889e5f1e6acaa58762653527f4a40c9d1e282ccea6aafb",
+      "migrationTimestamp": "2026-08-15T12:11:38.419Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

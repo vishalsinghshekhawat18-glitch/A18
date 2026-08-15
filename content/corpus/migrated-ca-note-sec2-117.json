@@ -1,0 +1,49 @@
+{
+  "id": "migrated-ca-note-sec2-117",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SEBI Revamps Securities Lending Scheme, Launches Setu Portal & Bond Tokenisation Pilot",
+  "summary": "Modernizes securities borrowing infrastructure, digital compliance filing, and blockchain corporate bond issuance.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Modernizes securities borrowing infrastructure, digital compliance filing, and blockchain corporate bond issuance."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Setu Portal: Centralized online compliance and registration portal for SEBI-regulated intermediaries.",
+        "Tokenisation Pilot: Corporate bond tokenisation using Distributed Ledger Technology (DLT)."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-06",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:38.420Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-117",
+      "sourceTitle": "SEBI Revamps Securities Lending Scheme, Launches Setu Portal & Bond Tokenisation Pilot",
+      "sourceChecksum": "f3b89023b9e0a4414caba824e173c94b8b26f5fd17f0fbc774cf148597cec90c",
+      "migrationTimestamp": "2026-08-15T12:11:38.420Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

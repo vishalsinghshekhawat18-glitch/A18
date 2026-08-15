@@ -1,0 +1,52 @@
+{
+  "id": "migrated-ca-note-sec2-116",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Issues Technology-Based Loan Recovery Norms & Phone Lock Restrictions (Effective Jan 1, 2027)",
+  "summary": "Curbs predatory recovery agent practices and regulates digital mobile loan lock mechanisms.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Curbs predatory recovery agent practices and regulates digital mobile loan lock mechanisms."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Implementation Date: Effective January 1, 2027 (extended from October 1, 2026).",
+        "Contact Hours: Recovery agents allowed to contact borrowers only between 8:00 AM and 7:00 PM.",
+        "Phone Lock Restrictions: No restriction activation until 30 days past due; complete loan restrictions permitted only after 60 days past due.",
+        "Mandated Exemptions: Banks CANNOT disable incoming calls, SMS, or emergency SOS functions.",
+        "Compensation Penalty: Restoration required within 1 hour post-payment; bank delay penalty of ₹250/hour capped at loan amount."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-07",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:38.420Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-116",
+      "sourceTitle": "RBI Issues Technology-Based Loan Recovery Norms & Phone Lock Restrictions (Effective Jan 1, 2027)",
+      "sourceChecksum": "973c9d3310943e4d622147eb06f97f55268343f6b59420417e9ba9d7d28db26c",
+      "migrationTimestamp": "2026-08-15T12:11:38.420Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

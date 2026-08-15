@@ -1,0 +1,53 @@
+{
+  "id": "migrated-ca-note-sec2-111",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Regulators Consider Bringing Insurance Surety Bonds Under RBI's CRILC Database",
+  "summary": "Enhances systemic credit risk monitoring across non-bank surety guarantees.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Enhances systemic credit risk monitoring across non-bank surety guarantees."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "CRILC Scope: Database maintained by RBI monitoring aggregate borrower credit exposures of ₹5 crore and above."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "First digital insurance surety bond launched by National E-Governance Services Ltd & New India Assurance."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-06",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:38.419Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-111",
+      "sourceTitle": "Regulators Consider Bringing Insurance Surety Bonds Under RBI's CRILC Database",
+      "sourceChecksum": "72801356a231ca161bc7219dcd80ec3a94cf243ad3189c59f2f799dc1d7bb446",
+      "migrationTimestamp": "2026-08-15T12:11:38.419Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

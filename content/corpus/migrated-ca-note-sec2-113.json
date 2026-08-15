@@ -1,0 +1,49 @@
+{
+  "id": "migrated-ca-note-sec2-113",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SEBI Flags ₹87,124 Crore as Difficult-to-Recover Dues in FY26 (Up 12%)",
+  "summary": "Highlights regulatory enforcement recovery challenges despite record annual fee collections.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Highlights regulatory enforcement recovery challenges despite record annual fee collections."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "SEBI Fee Revenue: Total fee income rose 10% to ₹2,563 crore (stock exchange regulatory fees generated ₹1,349 crore).",
+        "Investor Protection Fund (IPF): Fund balance rose to ₹965 crore; investor education spend stood at ₹2.25 crore."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-06",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:38.419Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-113",
+      "sourceTitle": "SEBI Flags ₹87,124 Crore as Difficult-to-Recover Dues in FY26 (Up 12%)",
+      "sourceChecksum": "977dad007f2cd360a6a074684aa9a4ff7fa9d79300dafafb4046dbda8ffe6d1d",
+      "migrationTimestamp": "2026-08-15T12:11:38.419Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

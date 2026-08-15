@@ -1,0 +1,49 @@
+{
+  "id": "migrated-ca-note-sec1-109",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "EXIM Bank Named Nodal Implementing Agency for Export Credit Interest Subvention Scheme",
+  "summary": "Transfers export credit subvention administration from RBI to EXIM Bank under Export Promotion Mission.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Transfers export credit subvention administration from RBI to EXIM Bank under Export Promotion Mission."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Implementation Date: Effective 1 April 2026.",
+        "Operational Role: Manages pre- and post-shipment export credit interest subvention claims."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-06",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:38.419Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-109",
+      "sourceTitle": "EXIM Bank Named Nodal Implementing Agency for Export Credit Interest Subvention Scheme",
+      "sourceChecksum": "ddc8f504e0a50571557fd71b0acd92e8fc87e31f5cf35720ee37dd111ce1a748",
+      "migrationTimestamp": "2026-08-15T12:11:38.419Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

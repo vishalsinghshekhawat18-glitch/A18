@@ -1,0 +1,49 @@
+{
+  "id": "migrated-ca-note-sec1-105",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Cabinet Approves ₹23,731 Crore GOBARdhan Bioenergy Scheme (FY27 to FY36)",
+  "summary": "Accelerates organic waste conversion into compressed biogas (CBG) under National Circular Bioenergy Scheme.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Accelerates organic waste conversion into compressed biogas (CBG) under National Circular Bioenergy Scheme."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Scheme Name: Galvanizing Organic Bio-Agro Resources Dhan (GOBARdhan).",
+        "Total Financial Outlay: ₹23,731 crore for 10-year implementation (FY 2026-27 to FY 2035-36)."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-06",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:38.419Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-105",
+      "sourceTitle": "Cabinet Approves ₹23,731 Crore GOBARdhan Bioenergy Scheme (FY27 to FY36)",
+      "sourceChecksum": "a3d84be7d389e2e9b876948a78524a5139d1d61ef41a1aa900135810f0ad0c51",
+      "migrationTimestamp": "2026-08-15T12:11:38.419Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

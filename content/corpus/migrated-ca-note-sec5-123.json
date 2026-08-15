@@ -1,0 +1,65 @@
+{
+  "id": "migrated-ca-note-sec5-123",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Pawan Hans Partners with Norway's Noemi Aerospace for Electric Seaplanes",
+  "summary": "Promotes green aviation and regional seaplane connectivity under UDAN framework.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Promotes green aviation and regional seaplane connectivity under UDAN framework."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "State-owned helicopter operator Pawan Hans signed MoU with Norway's Noemi Aerospace to deploy electric seaplanes.",
+        "Aims to enhance regional coastal connectivity under UDAN scheme."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Appointee / Official",
+        "New Position & Organization",
+        "Key Context & Details"
+      ],
+      "rows": [
+        [
+          "Pawan Hans Partners with Norway's Noemi Aerospace for Electric Seaplanes",
+          "Official Appointment",
+          "State-owned helicopter operator Pawan Hans signed MoU with Norway's Noemi Aerospace to deploy electric seaplanes."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Noemi Aerospace (Elfly AS) HQ: Bergen, Norway | Pawan Hans HQ: Noida, UP (Ministry of Civil Aviation)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-06",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:38.420Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec5-123",
+      "sourceTitle": "Pawan Hans Partners with Norway's Noemi Aerospace for Electric Seaplanes",
+      "sourceChecksum": "0d244fcd6870cfb0f28f4144a25a17eca742a3053f63d1008839f93f466c4db7",
+      "migrationTimestamp": "2026-08-15T12:11:38.420Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

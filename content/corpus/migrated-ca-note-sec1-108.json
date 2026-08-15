@@ -1,0 +1,48 @@
+{
+  "id": "migrated-ca-note-sec1-108",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Rajya Sabha Clears ₹54,067 Crore Appropriation Bill 2026 under Article 114",
+  "summary": "Provides constitutional authorization for parliamentary approval of excess expenditure beyond original budget grants.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Provides constitutional authorization for parliamentary approval of excess expenditure beyond original budget grants."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Constitutional Mandate: Article 114 mandates parliamentary approval before withdrawing funds from Consolidated Fund of India (CFI)."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-07",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:38.419Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-108",
+      "sourceTitle": "Rajya Sabha Clears ₹54,067 Crore Appropriation Bill 2026 under Article 114",
+      "sourceChecksum": "432d8884399ae54ea2e9a1ddbcfd6d31a6e57cf64a99cfa989392a5ed2332999",
+      "migrationTimestamp": "2026-08-15T12:11:38.419Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

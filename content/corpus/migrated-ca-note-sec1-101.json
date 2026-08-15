@@ -1,0 +1,50 @@
+{
+  "id": "migrated-ca-note-sec1-101",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Govt Mandates Exporter Registration (EOR) for FDI-Backed E-Commerce Inventory Exports",
+  "summary": "Prevents speculative domestic stockpiling by foreign-funded e-commerce platforms while ensuring complete export traceability.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Prevents speculative domestic stockpiling by foreign-funded e-commerce platforms while ensuring complete export traceability."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Mandatory Registration: Foreign-funded e-commerce inventory exporters must register as Exporter-on-Record (EOR) with DGFT (holding IEC & GSTIN).",
+        "Stockpiling Norms: Stockpiling permitted only against confirmed export orders (speculative stockpiling strictly prohibited).",
+        "Supplier Protection: Payments to Indian sellers cannot be contingent upon receipt of payment from overseas buyers."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-06",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:38.419Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-101",
+      "sourceTitle": "Govt Mandates Exporter Registration (EOR) for FDI-Backed E-Commerce Inventory Exports",
+      "sourceChecksum": "f252e9258bb35a6d727ecb0716a189ba3b72b462f3f2682222671d73221a4966",
+      "migrationTimestamp": "2026-08-15T12:11:38.419Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "migrated-ca-note-sec2-114",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Classifies Tata Sons as Upper-Layer NBFC (NBFC-UL) under Scale-Based Regulation",
+  "summary": "Enforces enhanced capital and mandatory listing requirements on systemic holding companies.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Enforces enhanced capital and mandatory listing requirements on systemic holding companies."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Scale-Based Classification: 17 NBFCs identified in Upper Layer (NBFC-UL).",
+        "Upper Layer Criteria: Asset size ≥ ₹1 lakh crore (₹1 trillion); mandatory public listing within 3 years.",
+        "Standalone Assets: Tata Sons standalone assets exceed ₹2 lakh crore (₹2 trillion).",
+        "Asset Layer Caps: Base Layer (<₹1,000 cr), Middle Layer (≥₹1,000 cr), Upper Layer (≥₹1 lakh cr)."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-07",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:38.420Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-114",
+      "sourceTitle": "RBI Classifies Tata Sons as Upper-Layer NBFC (NBFC-UL) under Scale-Based Regulation",
+      "sourceChecksum": "8c132538e3b883ea2be6d440f33c4a9a5b62b3396997f5c3060331d9ebe40574",
+      "migrationTimestamp": "2026-08-15T12:11:38.420Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

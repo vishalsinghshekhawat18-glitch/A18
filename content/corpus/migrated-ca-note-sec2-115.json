@@ -1,0 +1,49 @@
+{
+  "id": "migrated-ca-note-sec2-115",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SEBI Proposes REITs & InvITs Investment in Under-Construction Third-Party Assets",
+  "summary": "Unlocks institutional capital for greenfield infrastructure and commercial real estate development.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Unlocks institutional capital for greenfield infrastructure and commercial real estate development."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "📌 **Core Policy Directives & Scope:**\nExposure Norms: Allows minority non-controlling stakes within existing exposure limits.",
+        "💰 **Financial Outlays & Operational Rules:**\nCooling-off Period: Proposed reduction from 12 weeks to 8 weeks for illiquid privately placed InvITs."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-06",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:38.420Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-115",
+      "sourceTitle": "SEBI Proposes REITs & InvITs Investment in Under-Construction Third-Party Assets",
+      "sourceChecksum": "e4650a0f1a74d6a8ae47a5a4db24f0ca93c1d92ea5e2c8b4659ef128b3cd930c",
+      "migrationTimestamp": "2026-08-15T12:11:38.420Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "migrated-ca-note-sec1-122",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Niyo Forex Secures Expanded Perpetual AD-II Foreign Exchange Licenses from RBI",
+  "summary": "Expands forex card and remittance distribution permissions under FEMA 2026.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Expands forex card and remittance distribution permissions under FEMA 2026."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Niyo Forex received perpetual Authorised Dealer Category-II (AD-II) foreign exchange licence from RBI.",
+        "Enables Niyo to offer cross-border travel card issuance and foreign currency exchange services directly."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-07",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:38.420Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-122",
+      "sourceTitle": "Niyo Forex Secures Expanded Perpetual AD-II Foreign Exchange Licenses from RBI",
+      "sourceChecksum": "1d22baf3eaa7ef79d1828f971a33adcfc577a459b5fe7b85cf9c0ae84d9f09d3",
+      "migrationTimestamp": "2026-08-15T12:11:38.420Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "migrated-ca-note-sec5-125",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Ministry of Culture & Tourism Partners with Netflix for 'As Seen on Netflix' Section",
+  "summary": "Showcases Indian cultural heritage destinations on Incredible India Portal.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Showcases Indian cultural heritage destinations on Incredible India Portal."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Netflix Co-CEO: Ted Sarandos.",
+        "Union Minister: Gajendra Singh Shekhawat."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Appointee / Official",
+        "New Position & Organization",
+        "Key Context & Details"
+      ],
+      "rows": [
+        [
+          "Ministry of Culture & Tourism Partners with Netflix for 'As Seen on Netflix' Section",
+          "Official Appointment",
+          "Netflix Co-CEO: Ted Sarandos | Union Minister: Gajendra Singh Shekhawat."
+        ]
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-06",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:38.420Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec5-125",
+      "sourceTitle": "Ministry of Culture & Tourism Partners with Netflix for 'As Seen on Netflix' Section",
+      "sourceChecksum": "230802d26a698d6f6b2a817f72784f923dc8f479ec7553225baac8aa68d28074",
+      "migrationTimestamp": "2026-08-15T12:11:38.420Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

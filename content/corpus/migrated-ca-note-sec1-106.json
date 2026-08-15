@@ -1,0 +1,48 @@
+{
+  "id": "migrated-ca-note-sec1-106",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Flags El Niño Weather Risks to Agriculture and Food Inflation",
+  "summary": "Monsoon disruptions from ocean surface warming directly impact vegetable and pulse yields, straining headline CPI inflation.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Monsoon disruptions from ocean surface warming directly impact vegetable and pulse yields, straining headline CPI inflation."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Macro Impact: Below-normal rainfall reduces crop production, driving consumer food price inflation."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-07",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:38.419Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-106",
+      "sourceTitle": "RBI Flags El Niño Weather Risks to Agriculture and Food Inflation",
+      "sourceChecksum": "1a03ccdf43af61ee2b782fc2437712801ee3fb5b99f2fa751b483b09b2d9db5f",
+      "migrationTimestamp": "2026-08-15T12:11:38.419Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

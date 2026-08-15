@@ -1,0 +1,49 @@
+{
+  "id": "migrated-ca-note-sec1-121",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Reliance Brands Partners with Kim Kardashian's SKIMS for Indian Retail Expansion",
+  "summary": "Expands luxury shapewear retail footprint in India via RBL.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Expands luxury shapewear retail footprint in India via RBL."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Reliance Brands Limited partnered with US shapewear brand SKIMS (co-founded by Kim Kardashian) for exclusive Indian retail distribution.",
+        "First SKIMS flagship store planned for Mumbai in late 2026."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-06",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:38.420Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-121",
+      "sourceTitle": "Reliance Brands Partners with Kim Kardashian's SKIMS for Indian Retail Expansion",
+      "sourceChecksum": "062d200df7096616ed1972c94737e4141e15e21d3cddb94be8e1e80c19a5c9a6",
+      "migrationTimestamp": "2026-08-15T12:11:38.420Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "migrated-ca-note-sec3-120",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Standard Chartered Obtains IFSCA Nod for GIFT City Wealth Management Services",
+  "summary": "Expands offshore wealth distribution capabilities from India's International Financial Services Centre.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Expands offshore wealth distribution capabilities from India's International Financial Services Centre."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Standard Chartered received IFSCA approval to offer wealth management services out of its GIFT City IBU branch.",
+        "First foreign bank to establish an onshore wealth management unit in GIFT City."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Standard Chartered was the first foreign bank to commence operations in GIFT City (2020)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-07",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:38.420Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec3-120",
+      "sourceTitle": "Standard Chartered Obtains IFSCA Nod for GIFT City Wealth Management Services",
+      "sourceChecksum": "db3dcd83525f7825241780c95ca6e14e5301c3802f2eb20ad5dd8a3cf5d3490f",
+      "migrationTimestamp": "2026-08-15T12:11:38.420Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

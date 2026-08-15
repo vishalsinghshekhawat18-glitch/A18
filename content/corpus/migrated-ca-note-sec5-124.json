@@ -1,0 +1,60 @@
+{
+  "id": "migrated-ca-note-sec5-124",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "IIFL Capital Adopts Flytxt AI Platform to Accelerate AUM Growth",
+  "summary": "Leverages AI for investor engagement and asset management.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Leverages AI for investor engagement and asset management."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "IIFL Capital deployed Flytxt AI customer data platform across its wealth management operations.",
+        "Designed to hyper-personalise investment recommendations and scale AUM."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Appointee / Official",
+        "New Position & Organization",
+        "Key Context & Details"
+      ],
+      "rows": [
+        [
+          "IIFL Capital Adopts Flytxt AI Platform to Accelerate AUM Growth",
+          "Official Appointment",
+          "IIFL Capital deployed Flytxt AI customer data platform across its wealth management operations."
+        ]
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-07",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:38.420Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec5-124",
+      "sourceTitle": "IIFL Capital Adopts Flytxt AI Platform to Accelerate AUM Growth",
+      "sourceChecksum": "3d5dd820b797f8155a14dcd122704c15e661dee816675aabf407f1e701d2c76e",
+      "migrationTimestamp": "2026-08-15T12:11:38.420Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}
