@@ -1,0 +1,60 @@
+{
+  "id": "migrated-ca-note-sec1-97",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "International Clouded Leopard Day Observed on 4th August",
+  "summary": "International Clouded Leopard Day Observed on 4th August",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Raises global awareness for clouded leopard conservation (Meghalaya state animal)."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Date & Event",
+        "Official Theme / Mandate",
+        "Nodal Body / Significance"
+      ],
+      "rows": [
+        [
+          "International Clouded Leopard Day Observed on 4th August",
+          "Raises global awareness for clouded leopard conservation (Meghalaya state animal).",
+          "Global Observance"
+        ]
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:08.725Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-97",
+      "sourceTitle": "International Clouded Leopard Day Observed on 4th August",
+      "sourceChecksum": "bb093d04adac02727a81b4443c632c49beb824dbd98df6ab936f04df590c2013",
+      "migrationTimestamp": "2026-08-15T12:11:08.725Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

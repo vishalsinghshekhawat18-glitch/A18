@@ -1,0 +1,44 @@
+{
+  "id": "migrated-ca-note-sec1-87",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "World Bank Report Highlights $194 Billion Extreme Heat Risk to India's Economy",
+  "summary": "World Bank Report Highlights $194 Billion Extreme Heat Risk to India's Economy",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Report Title: *\"A Livable Future: Tackling Extreme Heat for Jobs and Growth in South Asia's Cities\"* ($194B/247B hrs lost in India, 66% agriculture, $1.6T cooling market by 2040)."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:08.725Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-87",
+      "sourceTitle": "World Bank Report Highlights $194 Billion Extreme Heat Risk to India's Economy",
+      "sourceChecksum": "b3ec6eaaac0d56262b10e03f88d426c5925e5cc74e1785c36c2f6d26da1314ab",
+      "migrationTimestamp": "2026-08-15T12:11:08.725Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

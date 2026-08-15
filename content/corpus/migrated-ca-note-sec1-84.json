@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec1-84",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "AI Super Apps Concept Explained",
+  "summary": "Platform-based tech conglomerates expanding into unified super apps transform digital service delivery.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Platform-based tech conglomerates expanding into unified super apps transform digital service delivery."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "AI Super Apps combine multiple digital services (payments, shopping, messaging, healthcare, and mobility) within a single AI-driven conversational interface.",
+        "Operate using platform-based network effects and integrated digital identity frameworks."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Popular global AI Super Apps include WeChat (China), KakaoTalk (South Korea), and Grab (Southeast Asia)."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:08.725Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-84",
+      "sourceTitle": "AI Super Apps Concept Explained",
+      "sourceChecksum": "8cec01342a3298cef987ed69f4d5d53bb6e61051122cc9e14fdfc4fbe74fc346",
+      "migrationTimestamp": "2026-08-15T12:11:08.725Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

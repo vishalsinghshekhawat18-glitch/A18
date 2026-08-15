@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec8-95",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "World Breastfeeding Week Observed from 1st to 7th August 2026",
+  "summary": "World Breastfeeding Week Observed from 1st to 7th August 2026",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Theme 2026: *\"Breastfeeding for a sustainable start in life: strengthen what works\"*."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Date & Event",
+        "Official Theme / Mandate",
+        "Nodal Body / Significance"
+      ],
+      "rows": [
+        [
+          "World Breastfeeding Week Observed from 1st to 7th August 2026",
+          "Theme 2026: *\"Breastfeeding for a sustainable start in life: strengthen what works\"*.",
+          "Global Observance"
+        ]
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec8",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC8",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:08.725Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec8-95",
+      "sourceTitle": "World Breastfeeding Week Observed from 1st to 7th August 2026",
+      "sourceChecksum": "3408f9cd5f17b2ec0efb1722fa3cd7b5f49b803884ebba2c0d6c5a8719ef9bc9",
+      "migrationTimestamp": "2026-08-15T12:11:08.725Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "migrated-ca-note-sec1-90",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Tamil Nadu Wins 'Best State' Award for Organ Donations in NOTTO Report 2025-26",
+  "summary": "Tamil Nadu Wins 'Best State' Award for Organ Donations in NOTTO Report 2025-26",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Tamil Nadu won 'Best State' award (266 deceased donors); Delhi ranked #1 in total transplants (4,564)."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Award Title",
+        "Recipient / Winner",
+        "Conferred By / Key Detail"
+      ],
+      "rows": [
+        [
+          "Tamil Nadu Wins 'Best State' Award for Organ Donations in NOTTO Report 2025-26",
+          "Tamil Nadu won 'Best State' award (266 deceased donors); Delhi ranked #1 in total transplants (4,564).",
+          "Annual Recognition"
+        ]
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:08.725Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-90",
+      "sourceTitle": "Tamil Nadu Wins 'Best State' Award for Organ Donations in NOTTO Report 2025-26",
+      "sourceChecksum": "6a1c80485c85d5582dbedd584038edb8e714f94f5470fb3405e1baa32e3b2173",
+      "migrationTimestamp": "2026-08-15T12:11:08.725Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

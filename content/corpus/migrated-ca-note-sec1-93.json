@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec1-93",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Aadi Perukku Monsoon Festival Celebrated in Tamil Nadu",
+  "summary": "Traditional water conservation and river worship festival in Tamil Nadu.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Traditional water conservation and river worship festival in Tamil Nadu."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Aadi Perukku (also known as Aadi18) is a traditional water and monsoon festival celebrated on the 18th day of the Tamil month of Aadi.",
+        "Expresses gratitude to Mother Nature and the Cauvery River for sustaining agriculture and life."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Tamil Nadu Capital: Chennai | Chief Minister: M. K. Stalin | Governor: R. N. Ravi."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:08.725Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-93",
+      "sourceTitle": "Aadi Perukku Monsoon Festival Celebrated in Tamil Nadu",
+      "sourceChecksum": "b447f569df0c20c061de13edfaa819901045baab29367b2e96c1ed2c2863e1cc",
+      "migrationTimestamp": "2026-08-15T12:11:08.725Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "migrated-ca-note-sec1-76",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "ICAR-NIHSAD Bhopal Develops Indigenous African Swine Fever (ASF) Vaccine",
+  "summary": "ICAR-NIHSAD Bhopal Develops Indigenous African Swine Fever (ASF) Vaccine",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "ICAR-NIHSAD in Bhopal, MP developed India's 1st homegrown African Swine Fever vaccine (launched by Agri Minister Shivraj Singh Chouhan)."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:08.725Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-76",
+      "sourceTitle": "ICAR-NIHSAD Bhopal Develops Indigenous African Swine Fever (ASF) Vaccine",
+      "sourceChecksum": "2ed2b5f7786e3271a3a5408a75954ba67b5fcc9c779ba36d97bb36508b13d349",
+      "migrationTimestamp": "2026-08-15T12:11:08.725Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

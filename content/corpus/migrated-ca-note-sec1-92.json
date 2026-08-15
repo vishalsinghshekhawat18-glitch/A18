@@ -1,0 +1,44 @@
+{
+  "id": "migrated-ca-note-sec1-92",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Onam Harvest Festival Celebrated in Kerala",
+  "summary": "Onam Harvest Festival Celebrated in Kerala",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Primary annual harvest festival of Kerala celebrating mythical King Mahabali."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:08.725Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-92",
+      "sourceTitle": "Onam Harvest Festival Celebrated in Kerala",
+      "sourceChecksum": "c58248654eafdb410cd92e7fcad143885b1505f365401df931c4e2fa31dcfce6",
+      "migrationTimestamp": "2026-08-15T12:11:08.725Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

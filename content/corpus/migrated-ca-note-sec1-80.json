@@ -1,0 +1,44 @@
+{
+  "id": "migrated-ca-note-sec1-80",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Bonn Open 2026 Tennis Doubles Championship",
+  "summary": "Bonn Open 2026 Tennis Doubles Championship",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Ramkumar Ramanathan & Vijay Sundar Prashanth won Men's Doubles title at Bonn Open 2026."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:08.725Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-80",
+      "sourceTitle": "Bonn Open 2026 Tennis Doubles Championship",
+      "sourceChecksum": "1fdb0650d964b50f39cb76515fcfb7db563ee8fed3e4e02ce2d9806c2e5a951d",
+      "migrationTimestamp": "2026-08-15T12:11:08.725Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

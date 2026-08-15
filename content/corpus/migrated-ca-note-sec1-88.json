@@ -1,0 +1,44 @@
+{
+  "id": "migrated-ca-note-sec1-88",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "IEA Projects Critical Mineral Demand Surge Through 2040 Requiring $750B Investment",
+  "summary": "IEA Projects Critical Mineral Demand Surge Through 2040 Requiring $750B Investment",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "International Energy Agency report projecting **$750 billion** investment required by 2040 under STEPS for copper and lithium (IEA HQ: Paris)."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:08.725Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-88",
+      "sourceTitle": "IEA Projects Critical Mineral Demand Surge Through 2040 Requiring $750B Investment",
+      "sourceChecksum": "5fdf09caa9152c4bfa47456e566e64f5bfeb3b313550b7207deada93ddde1e7b",
+      "migrationTimestamp": "2026-08-15T12:11:08.725Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

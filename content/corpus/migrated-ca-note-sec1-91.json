@@ -1,0 +1,44 @@
+{
+  "id": "migrated-ca-note-sec1-91",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Book: 'Bringing the Cheetah Back to India' by Prashant Agrawal (IFS)",
+  "summary": "Book: 'Bringing the Cheetah Back to India' by Prashant Agrawal (IFS)",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Book Title: *\"Bringing the Cheetah Back to India: How Diplomacy Made Conservation's Big Mission Possible\"* authored by Prashant Agrawal."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:08.725Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-91",
+      "sourceTitle": "Book: 'Bringing the Cheetah Back to India' by Prashant Agrawal (IFS)",
+      "sourceChecksum": "47a3cd8442c814b2d623ea72dd08be1017a1050aec01b2ef493883594d306849",
+      "migrationTimestamp": "2026-08-15T12:11:08.725Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

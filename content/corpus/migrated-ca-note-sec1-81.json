@@ -1,0 +1,44 @@
+{
+  "id": "migrated-ca-note-sec1-81",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Washington Open 2026 Tennis Championship",
+  "summary": "Washington Open 2026 Tennis Championship",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Alexandra Eala (Philippines) became 1st Filipino player to win a WTA Tour-level singles title; Taylor Fritz (USA) won Men's Singles."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:08.725Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-81",
+      "sourceTitle": "Washington Open 2026 Tennis Championship",
+      "sourceChecksum": "cf9a97eefdc90972e4254ecd73c78ff32b046f4b66e7ef64d7e6bea2653a66c6",
+      "migrationTimestamp": "2026-08-15T12:11:08.725Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

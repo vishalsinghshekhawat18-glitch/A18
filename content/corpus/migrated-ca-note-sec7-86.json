@@ -1,0 +1,75 @@
+{
+  "id": "migrated-ca-note-sec7-86",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Annapurni Subramaniam Conferred COSPAR Vikram Sarabhai Medal 2026",
+  "summary": "Conferred for outstanding contributions to astronomical research and space science leadership.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Conferred for outstanding contributions to astronomical research and space science leadership."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Indian astrophysicist **Annapurni Subramaniam** conferred **COSPAR Vikram Sarabhai Medal 2026**.",
+        "Historic Milestone: **First Indian woman scientist** to receive this award (4th Indian overall).",
+        "Past Laureates: U.",
+        "R.",
+        "Rao (1996), Gurbax Singh Lakhina (2014), Anil Bharadwaj (2024).",
+        "Ceremony: Conferred during 46th COSPAR Scientific Assembly in **Florence, Italy** by COSPAR & ISRO.",
+        "Current Post: Director of **Indian Institute of Astrophysics (IIA)**, Bengaluru."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Award Title",
+        "Recipient / Winner",
+        "Conferred By / Key Detail"
+      ],
+      "rows": [
+        [
+          "Annapurni Subramaniam Conferred COSPAR Vikram Sarabhai Medal 2026",
+          "Indian astrophysicist Annapurni Subramaniam conferred COSPAR Vikram Sarabhai Medal 2026.",
+          "Award instituted 1990 | Awarded biennially | ISRO HQ: Bengaluru."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Award instituted 1990 | Awarded biennially | ISRO HQ: Bengaluru."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "1st Indian woman scientist to win COSPAR Sarabhai Medal (and 4th Indian overall)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec7",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC7",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:08.725Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec7-86",
+      "sourceTitle": "Annapurni Subramaniam Conferred COSPAR Vikram Sarabhai Medal 2026",
+      "sourceChecksum": "efe53b8bf772c4aae06737907e3ad32effe6566cb8e8c1579ddbce8dde724eac",
+      "migrationTimestamp": "2026-08-15T12:11:08.725Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

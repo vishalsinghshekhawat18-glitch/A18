@@ -1,0 +1,44 @@
+{
+  "id": "migrated-ca-note-sec1-83",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Tour de France Femmes Cycling Milestone",
+  "summary": "Tour de France Femmes Cycling Milestone",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Harshita Jakhar (19) became 1st Indian woman cyclist to feature in Tour de France Femmes (Switzerland)."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:08.725Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-83",
+      "sourceTitle": "Tour de France Femmes Cycling Milestone",
+      "sourceChecksum": "d9612be57d4ca38e6093dcde2d463fd1383092785b1b6d51a4116e052a5f4f52",
+      "migrationTimestamp": "2026-08-15T12:11:08.725Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

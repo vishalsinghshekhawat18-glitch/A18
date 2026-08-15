@@ -1,0 +1,44 @@
+{
+  "id": "migrated-ca-note-sec1-79",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "2027 ICC Men's Cricket World Cup to be Co-Hosted Across 12 Venues in South Africa, Zimbabwe & Namibia",
+  "summary": "2027 ICC Men's Cricket World Cup to be Co-Hosted Across 12 Venues in South Africa, Zimbabwe & Namibia",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "12 venues across **South Africa, Zimbabwe, and Namibia** will co-host the 2027 ICC Men's ODI Cricket World Cup."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:08.725Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-79",
+      "sourceTitle": "2027 ICC Men's Cricket World Cup to be Co-Hosted Across 12 Venues in South Africa, Zimbabwe & Namibia",
+      "sourceChecksum": "0b82bb54b833bf566a750515f8ca953f99d8857707129b62b2bbcfbb052ab7a9",
+      "migrationTimestamp": "2026-08-15T12:11:08.725Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

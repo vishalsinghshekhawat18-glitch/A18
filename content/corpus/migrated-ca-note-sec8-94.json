@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec8-94",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "12th National Handloom Day Observed on 7th August",
+  "summary": "12th National Handloom Day Observed on 7th August",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Observed August 7 to commemorate Swadeshi Movement launched August 7, 1905 in Calcutta."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Date & Event",
+        "Official Theme / Mandate",
+        "Nodal Body / Significance"
+      ],
+      "rows": [
+        [
+          "12th National Handloom Day Observed on 7th August",
+          "Observed August 7 to commemorate Swadeshi Movement launched August 7, 1905 in Calcutta.",
+          "Global Observance"
+        ]
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec8",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC8",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:08.725Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec8-94",
+      "sourceTitle": "12th National Handloom Day Observed on 7th August",
+      "sourceChecksum": "d294170422fd4898b8cb515a8d0d9f39aa998ec8f5cf0449fe81fa416c511b6f",
+      "migrationTimestamp": "2026-08-15T12:11:08.725Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

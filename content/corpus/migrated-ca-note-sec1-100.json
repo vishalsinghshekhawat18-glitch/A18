@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec1-100",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Taxation Bill 2026 Grants 15-Year Tax Exemption for Foreign Rough Diamond Trading via SNZs",
+  "summary": "Unlocks global rough diamond trading hubs in Special Notified Zones (SNZs) by providing long-term tax certainty.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Unlocks global rough diamond trading hubs in Special Notified Zones (SNZs) by providing long-term tax certainty."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Inserts Entry 13F in Schedule IV of Income-tax Act 2025.",
+        "Tax Exemption Window: October 1, 2026 to March 31, 2041 (15-year tax holiday)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Income Tax Act 1961 replaced by Income-tax Act 2025."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Rough diamond SNZ tax exemption (15 years: 2026–2041) vs Contract electronics capital goods tax exemption (sunset March 31, 2041)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-07",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:08.725Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-100",
+      "sourceTitle": "Taxation Bill 2026 Grants 15-Year Tax Exemption for Foreign Rough Diamond Trading via SNZs",
+      "sourceChecksum": "79d12ecab45f57b601d1ffc10cb7a1cba41434bc2f29223196413ea8a9f3fed4",
+      "migrationTimestamp": "2026-08-15T12:11:08.725Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}
