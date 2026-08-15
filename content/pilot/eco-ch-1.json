@@ -126,14 +126,14 @@
     ],
     "category": "Book I: Foundations of Economics & National Income",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T05:25:56.062Z",
+    "lastUpdated": "2026-08-15T05:40:25.785Z",
     "provenance": {
       "sourceSystem": "Core",
       "sourceFile": "index.html (rawBookData)",
-      "sourceId": "pilot-eco-ch-1",
+      "sourceId": "eco-ch-1",
       "sourceTitle": "1. What is Economics? Scarcity, Choice & Opportunity Cost",
-      "sourceChecksum": "95206b4f8dcc781f62c924bff972c163ad2b75df6b199c9fcfe6ba1208cd9ee7",
-      "migrationTimestamp": "2026-08-15T05:25:56.062Z",
+      "sourceChecksum": "f4e7947d2f9c80094173f2592ca73994cb5dd6cc33dca676da61fefe908cfe03",
+      "migrationTimestamp": "2026-08-15T05:40:25.785Z",
       "normalizationRuleVersion": "1.0.0-phase4"
     }
   }

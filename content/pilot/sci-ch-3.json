@@ -129,14 +129,14 @@
     ],
     "category": "Biotechnology & Future Tech",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T05:25:56.078Z",
+    "lastUpdated": "2026-08-15T05:40:25.801Z",
     "provenance": {
       "sourceSystem": "Core",
       "sourceFile": "index.html (rawBookData)",
-      "sourceId": "pilot-sci-ch-3",
+      "sourceId": "sci-ch-3",
       "sourceTitle": "3. Recombinant DNA, CRISPR-Cas9 & Gene Editing",
-      "sourceChecksum": "b0d0a118a1ed5c8affa307b52061308deb6edc378faa4f99f9f9190ebf433fa3",
-      "migrationTimestamp": "2026-08-15T05:25:56.078Z",
+      "sourceChecksum": "78dc1953e93ec7a56b6a4fe63d15dd1da5a5e607c6426cf5300cc559a16d4178",
+      "migrationTimestamp": "2026-08-15T05:40:25.801Z",
       "normalizationRuleVersion": "1.0.0-phase4"
     }
   }

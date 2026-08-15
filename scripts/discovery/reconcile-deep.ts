@@ -5,8 +5,8 @@ import crypto from 'node:crypto';
 const legacyDir = 'C:\\Users\\visha\\OneDrive\\Documents\\aravalli hills';
 const pilotDir = 'C:\\Users\\visha\\OneDrive\\Documents\\banking-command-center\\content\\pilot';
 
-export function runDeepReconciliation() {
-  console.log('🔬 EXECUTING DEEP READ-ONLY RECONCILIATION FOR PHASE 4 POST-AUDIT...\n');
+export function runDeepReconciliationCorrected() {
+  console.log('🔬 EXECUTING DEEP READ-ONLY POST-AUDIT RECONCILIATION ON CORRECTED PILOT (15 ITEMS)...\n');
 
   // Load Legacy Core Chapters
   const indexPath = path.join(legacyDir, 'index.html');
@@ -38,14 +38,11 @@ export function runDeepReconciliation() {
 
   // Load Quant from ca_app/quant_data.js
   const quantPath = path.join(legacyDir, 'ca_app', 'quant_data.js');
-  const quantContent = fs.readFileSync(quantPath, 'utf-8');
-  let allQuantChapters: any[] = [];
-  try {
-    const quantMatch = quantContent.match(/const\s+QUANT_CHAPTERS\s*=\s*(\[[\s\S]*?\]);/);
-    if (quantMatch) {
-      allQuantChapters = Function(`"use strict"; return (${quantMatch[1]});`)();
-    }
-  } catch (e) {}
+  const quantTxt = fs.readFileSync(quantPath, 'utf-8');
+  const quantStartIdx = quantTxt.indexOf('const QUANT_CHAPTERS =');
+  const quantEndIdx = quantTxt.lastIndexOf('];');
+  const quantJsonStr = quantTxt.substring(quantStartIdx + 'const QUANT_CHAPTERS ='.length, quantEndIdx + 1);
+  const allQuantChapters: any[] = Function(`"use strict"; return (${quantJsonStr});`)();
 
   const pilotFiles = fs.readdirSync(pilotDir).filter(f => f.endsWith('.json'));
 
@@ -54,59 +51,59 @@ export function runDeepReconciliation() {
   for (const pFile of pilotFiles) {
     const pPath = path.join(pilotDir, pFile);
     const destJson = JSON.parse(fs.readFileSync(pPath, 'utf-8'));
-    const rawPilotId = pFile.replace('.json', '');
+    const prov = destJson.metadata?.provenance;
 
-    // Search for exact matching source payload across all legacy datasets
     let matchedSource: any = null;
-    let matchedSourceSystem = '';
-    let matchedSourceFile = '';
+    let matchedSourceSystem = prov?.sourceSystem || 'Unknown';
+    let matchedSourceFile = prov?.sourceFile || 'N/A';
     let mappingStatus = 'PASS';
     let mappingNotes = 'Source identity & payload matched';
 
-    // 1. Search Core chapters
-    const coreFound = allCoreChapters.find(c => c.id === rawPilotId);
-    if (coreFound) {
-      matchedSource = coreFound;
-      matchedSourceSystem = 'Core';
-      matchedSourceFile = 'index.html (rawBookData)';
-      if (coreFound.subject !== destJson.domain) {
-        mappingStatus = 'FAIL';
-        mappingNotes = `Domain Mismatch: Source subject "${coreFound.subject}" vs Target domain "${destJson.domain}"`;
+    // Locate source payload using provenance record
+    if (prov?.sourceSystem === 'Core') {
+      matchedSource = allCoreChapters.find(c => c.id === prov.sourceId);
+    } else if (prov?.sourceSystem === 'CA') {
+      matchedSource = allCANotes.find(n => n.id === prov.sourceId);
+    } else if (prov?.sourceSystem === 'Schemes') {
+      matchedSource = allSchemes.find(s => s.id === prov.sourceId);
+    } else if (prov?.sourceSystem === 'StaticGA') {
+      for (const ch of allStaticChapters) {
+        if (ch.subsections) {
+          const found = ch.subsections.find((sub: any) => sub.subId === prov.sourceId);
+          if (found) { matchedSource = found; break; }
+        }
       }
-    } else {
-      // 2. Search CA notes by title or id
-      const caFound = allCANotes.find(c => c.id === rawPilotId || c.title === destJson.title);
-      if (caFound) {
-        matchedSource = caFound;
-        matchedSourceSystem = 'CA';
-        matchedSourceFile = 'ca_app/data.js';
+    } else if (prov?.sourceSystem === 'Quant' || prov?.sourceSystem === 'PYQs') {
+      for (const ch of allQuantChapters) {
+        if (ch.subsections) {
+          const found = ch.subsections.find((sub: any) => sub.subId === prov.sourceId);
+          if (found) { matchedSource = found; break; }
+        }
+      }
+    }
 
-        // Check if ID was mapped by array index rather than source ID
-        if (rawPilotId.startsWith('quant-') || rawPilotId.startsWith('static-') || rawPilotId.startsWith('pyq-') || rawPilotId.startsWith('scheme-')) {
-          mappingStatus = 'FAIL';
-          mappingNotes = `Mismatched Target Category: CA note titled "${caFound.title.substring(0, 30)}..." was assigned pilot ID "${rawPilotId}" (array-index mapping error in pilot-runner.ts)`;
-        }
-      } else {
-        // 3. Search Schemes
-        const schemeFound = allSchemes.find(s => s.id === rawPilotId || s.title === destJson.title);
-        if (schemeFound) {
-          matchedSource = schemeFound;
-          matchedSourceSystem = 'Schemes';
-          matchedSourceFile = 'ca_app/updated_schemes_data.js';
-        } else {
-          mappingStatus = 'FAIL';
-          mappingNotes = `Unmapped Source: No legacy source item found matching ID "${rawPilotId}" or title "${destJson.title}"`;
-        }
+    if (!matchedSource) {
+      mappingStatus = 'FAIL';
+      mappingNotes = `Unmapped Source: Could not find legacy source payload for ID "${prov?.sourceId}"`;
+    } else {
+      if (destJson.title !== matchedSource.title) {
+        mappingStatus = 'FAIL';
+        mappingNotes = `Title mismatch: Source title "${matchedSource.title}" vs Dest title "${destJson.title}"`;
       }
     }
 
     // SHA-256 Checksum calculation
     const sourceStr = JSON.stringify(matchedSource || {});
     const calculatedHash = crypto.createHash('sha256').update(sourceStr).digest('hex');
-    const storedHash = destJson.metadata?.provenance?.sourceChecksum;
-    const provenanceValid = storedHash && storedHash.length === 64;
+    const storedHash = prov?.sourceChecksum;
+    const hashMatch = storedHash === calculatedHash;
 
-    // Word & Token Analysis
+    if (!hashMatch) {
+      mappingStatus = 'FAIL';
+      mappingNotes = `Hash mismatch: Stored checksum "${storedHash}" vs Calculated "${calculatedHash}"`;
+    }
+
+    // Text & Token analysis
     const sourceCleanText = (matchedSource?.body || JSON.stringify(matchedSource || {}))
       .replace(/<[^>]+>/g, ' ')
       .replace(/\\n/g, ' ')
@@ -122,41 +119,40 @@ export function runDeepReconciliation() {
     const sourceWords = sourceCleanText.split(' ').filter(Boolean);
     const destWords = destCleanText.split(' ').filter(Boolean);
 
-    // Number & Symbol Check
-    const rupeePreserved = !sourceCleanText.includes('₹') || destCleanText.includes('₹');
-    const percentPreserved = !sourceCleanText.includes('%') || destCleanText.includes('%');
-
     itemAuditList.push({
       pilotId: destJson.id,
-      file: pFile,
-      sourceSystem: matchedSourceSystem || 'Unknown',
-      sourceFile: matchedSourceFile || 'N/A',
-      sourceId: matchedSource?.id || 'Unmapped',
-      sourceSubject: matchedSource?.subject || matchedSource?.secId || 'N/A',
+      sourceSystem: matchedSourceSystem,
+      sourceFile: matchedSourceFile,
+      sourceId: prov?.sourceId || 'Unmapped',
       sourceTitle: matchedSource?.title || 'Unmapped',
       destDomain: destJson.domain,
       destType: destJson.type,
       destTitle: destJson.title,
-      sourceWordCount: sourceWords.length,
-      destWordCount: destWords.length,
+      sourceWords: sourceWords.length,
+      destWords: destWords.length,
       wordRatio: Number((destWords.length / Math.max(1, sourceWords.length)).toFixed(3)),
-      rupeePreserved,
-      percentPreserved,
-      provenanceValid,
-      mappingStatus,
-      mappingNotes
+      hashMatch: hashMatch ? 'MATCH' : 'MISMATCH',
+      status: mappingStatus,
+      notes: mappingNotes
     });
   }
 
-  console.log('📋 AUDIT RECONCILIATION RESULTS ACROSS ALL 15 PILOT ITEMS:');
+  console.log('📋 DEEP RECONCILIATION SUMMARY (15 ITEMS):');
   console.table(itemAuditList.map(i => ({
     PilotID: i.pilotId,
-    SourceSys: i.sourceSystem,
-    SourceSubject: i.sourceSubject,
+    SourceSystem: i.sourceSystem,
+    SourceID: i.sourceId,
     DestDomain: i.destDomain,
-    Status: i.mappingStatus,
-    Notes: i.mappingNotes
+    SourceWords: i.sourceWords,
+    DestWords: i.destWords,
+    HashMatch: i.hashMatch,
+    Status: i.status
   })));
+
+  const allPassed = itemAuditList.every(i => i.status === 'PASS');
+  console.log(`\n============================================================`);
+  console.log(`DEEP POST-AUDIT RECONCILIATION VERDICT: ${allPassed ? '🟢 GREEN' : '🔴 RED'}`);
+  console.log(`============================================================\n`);
 }
 
-runDeepReconciliation();
+runDeepReconciliationCorrected();

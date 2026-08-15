@@ -36,6 +36,8 @@ export function runPostAuditReconciliation() {
 
   let allQuantChapters: any[] = [];
   try {
+    const quantPath = path.join(legacyDir, 'ca_app', 'quant_data.js');
+    const quantContent = fs.readFileSync(quantPath, 'utf-8');
     const quantMatch = quantContent.match(/const\s+QUANT_CHAPTERS\s*=\s*(\[[\s\S]*?\]);/);
     if (quantMatch) {
       allQuantChapters = Function(`"use strict"; return (${quantMatch[1]});`)();

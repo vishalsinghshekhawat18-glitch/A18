@@ -1,55 +1,86 @@
 {
   "id": "pilot-static-ch-1-1",
-  "type": "ca_note",
-  "domain": "current-affairs",
-  "title": "IMF Estimates Indian Economy Will Cross $5 Trillion Mark in FY29",
-  "summary": "Multilateral economic projections validate India's structural growth trajectory toward becoming the world's 3rd largest economy.",
+  "type": "static_note",
+  "domain": "static-ga",
+  "title": "Part 1: Regulatory & Apex Bodies (RBI, SEBI, IRDAI, PFRDA, IFSCA)",
+  "summary": "StaticGA — Part 1: Regulatory & Apex Bodies (RBI, SEBI, IRDAI, PFRDA, IFSCA)",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Multilateral economic projections validate India's structural growth trajectory toward becoming the world's 3rd largest economy."
-    },
-    {
-      "type": "bullet_list",
-      "items": [
-        "FM Sitharaman stated India is on track to cross **USD 5-trillion milestone in FY29 (2028-29)**.",
-        "Data Source: IMF World Economic Outlook database (April 2026 edition).",
-        "Projected Nominal GDP: India's GDP projected to reach **USD 5.1 trillion by FY 2028-29**."
+      "type": "comparison",
+      "title": "Part 1: Regulatory & Apex Bodies (RBI, SEBI, IRDAI, PFRDA, IFSCA)",
+      "headers": [
+        "Person (Appointee)",
+        "Position / Designation",
+        "Entity / Institution",
+        "Effective Date",
+        "Predecessor / Status",
+        "Key Background Details"
+      ],
+      "rows": [
+        [
+          "Sanjay Malhotra",
+          "26th Governor",
+          "Reserve Bank of India (RBI)",
+          "Dec 11, 2024",
+          "Shaktikanta Das",
+          "1990-batch IAS (Rajasthan); served as Revenue Secretary in Ministry of Finance."
+        ],
+        [
+          "Tuhin Kanta Pandey",
+          "Chairperson",
+          "SEBI",
+          "March 1, 2025",
+          "Madhabi Puri Buch",
+          "1987-batch IAS (Odisha); served as Finance Secretary and DIPAM Secretary."
+        ],
+        [
+          "Ajay Seth",
+          "Chairperson",
+          "IRDAI",
+          "Sept 1, 2025",
+          "Debasish Panda",
+          "1987-batch IAS (Karnataka); served as Finance Secretary and Economic Affairs (DEA) Secretary."
+        ],
+        [
+          "Sivasubramanian Ramann",
+          "Chairperson",
+          "PFRDA",
+          "June 20, 2025",
+          "Deepak Mohanty",
+          "Appointed for 5-year term (or till age 65); former SIDBI Chairman."
+        ],
+        [
+          "K. Rajaraman",
+          "Chairperson",
+          "IFSCA",
+          "Aug 1, 2023",
+          "Initial Term",
+          "1989-batch IAS (Tamil Nadu); tenure extended in July 2026 for 27 months (till Oct 2028)."
+        ]
       ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "IMF established 1944 at Bretton Woods | HQ: Washington D.C. | MD: Kristalina Georgieva."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Target fiscal year: **FY29 / 2028-29** (exact projected GDP of $5.1 trillion)."
     }
   ],
   "metadata": {
     "exam": [
+      "Bank PO",
       "RBI Grade B",
-      "NABARD Grade A",
       "SBI PO"
     ],
     "tags": [
-      "sec1",
-      "Current Affairs 2026"
+      "staticga",
+      "general"
     ],
-    "date": "2026-08-01",
-    "category": "SEC1",
+    "category": "StaticGA",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T05:25:56.086Z",
+    "lastUpdated": "2026-08-15T05:40:25.812Z",
     "provenance": {
-      "sourceSystem": "CA",
-      "sourceFile": "ca_app/data.js",
-      "sourceId": "pilot-static-ch-1-1",
-      "sourceTitle": "IMF Estimates Indian Economy Will Cross $5 Trillion Mark in FY29",
-      "sourceChecksum": "bfce378b6a310fd3cbeeee2f9fe496237ab13c7daaf6000f89bc26d8be751dc5",
-      "migrationTimestamp": "2026-08-15T05:25:56.086Z",
-      "normalizationRuleVersion": "1.0.0-phase4"
+      "sourceSystem": "StaticGA",
+      "sourceFile": "ca_app/static_ga_data.js",
+      "sourceId": "ch1-sub1",
+      "sourceTitle": "Part 1: Regulatory & Apex Bodies (RBI, SEBI, IRDAI, PFRDA, IFSCA)",
+      "sourceChecksum": "56e903606a2c56780ca494e3f7cba95c619fcde7d47dc7d74031166892c8d968",
+      "migrationTimestamp": "2026-08-15T05:40:25.812Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
     }
   }
 }

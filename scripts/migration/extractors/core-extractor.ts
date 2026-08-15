@@ -3,6 +3,7 @@ import { KnowledgeItem, SemanticBlock, Domain } from '../../../schema/knowledge-
 
 export interface RawCoreChapter {
   id: string;
+  realSourceId?: string;
   chNum: number;
   subject: string;
   subjectName: string;
@@ -14,8 +15,9 @@ export interface RawCoreChapter {
   body: string;
 }
 
-export function transformCoreChapterToKnowledgeItem(raw: RawCoreChapter): KnowledgeItem {
-  const sourceChecksum = crypto.createHash('sha256').update(JSON.stringify(raw)).digest('hex');
+export function transformCoreChapterToKnowledgeItem(raw: RawCoreChapter, rawSourcePayload?: any): KnowledgeItem {
+  const payloadToHash = rawSourcePayload || raw;
+  const sourceChecksum = crypto.createHash('sha256').update(JSON.stringify(payloadToHash)).digest('hex');
   const nowISO = new Date().toISOString();
 
   const domainMap: Record<string, Domain> = {
@@ -112,7 +114,7 @@ export function transformCoreChapterToKnowledgeItem(raw: RawCoreChapter): Knowle
       provenance: {
         sourceSystem: 'Core',
         sourceFile: 'index.html (rawBookData)',
-        sourceId: raw.id,
+        sourceId: raw.realSourceId || raw.id,
         sourceTitle: raw.title,
         sourceChecksum: sourceChecksum,
         migrationTimestamp: nowISO,

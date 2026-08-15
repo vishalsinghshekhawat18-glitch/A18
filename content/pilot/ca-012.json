@@ -40,14 +40,14 @@
     "date": "2026-08-01",
     "category": "SEC1",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T05:25:56.082Z",
+    "lastUpdated": "2026-08-15T05:40:25.806Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "ca_app/data.js",
-      "sourceId": "pilot-ca-012",
+      "sourceId": "note-sec1-1",
       "sourceTitle": "Gross GST Collections Surge 15.4% to ₹2.11 Trillion in July 2026",
-      "sourceChecksum": "349f36b4d0e43f48b4b383606bd6f6ad999fe3cc90d39b88635ad908e3bdf7de",
-      "migrationTimestamp": "2026-08-15T05:25:56.082Z",
+      "sourceChecksum": "73cc644a1062256981a54c1556d5e7f95a87bf53d81415cb785b19ece4ae5503",
+      "migrationTimestamp": "2026-08-15T05:40:25.806Z",
       "normalizationRuleVersion": "1.0.0-phase4"
     }
   }

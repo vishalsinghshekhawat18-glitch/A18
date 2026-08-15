@@ -67,14 +67,14 @@
     "date": "2026-08-05",
     "category": "SEC1",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T05:25:56.083Z",
+    "lastUpdated": "2026-08-15T05:40:25.808Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "ca_app/data.js",
-      "sourceId": "pilot-ca-045",
+      "sourceId": "note-sec1-2",
       "sourceTitle": "NCGTC Tweaks MFI Credit Guarantee Norms (CGSMFI 2.0) to Boost Scheme Utilisation",
-      "sourceChecksum": "6d3985b5554c8c2fb111dcf0e2c72c768a6e193701e0e62dd7a6e79097e60e5e",
-      "migrationTimestamp": "2026-08-15T05:25:56.083Z",
+      "sourceChecksum": "d064a00a4f22e3c9b74194198d9a8fe1625ac2983d87d2873e67e58dc9c48734",
+      "migrationTimestamp": "2026-08-15T05:40:25.808Z",
       "normalizationRuleVersion": "1.0.0-phase4"
     }
   }

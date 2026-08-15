@@ -193,7 +193,7 @@ export type SemanticBlock =
   | ImageBlock;
 
 export interface MigrationProvenance {
-  sourceSystem: 'Core' | 'CA' | 'StaticGA' | 'Quant' | 'Schemes';
+  sourceSystem: 'Core' | 'CA' | 'StaticGA' | 'Quant' | 'Schemes' | 'PYQs';
   sourceFile: string;
   sourceId: string;
   sourceTitle: string;

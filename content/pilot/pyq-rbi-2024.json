@@ -1,50 +1,46 @@
 {
   "id": "pilot-pyq-rbi-2024",
-  "type": "ca_note",
-  "domain": "current-affairs",
-  "title": "Moody's Assigns First-Time Investment-Grade 'Baa2' Rating to RBL Bank",
-  "summary": "Moody's Assigns First-Time Investment-Grade 'Baa2' Rating to RBL Bank",
+  "type": "pyq_item",
+  "domain": "pyqs",
+  "title": "8.2 Arithmetic PYQs",
+  "summary": "PYQs — 8.2 Arithmetic PYQs",
   "blocks": [
     {
-      "type": "bullet_list",
-      "items": [
-        "Moody's Ratings assigned a first-time rating of **Baa2 / P-2** with 'Stable' outlook to RBL Bank.",
-        "Incorporates 2-notch uplift for affiliate support from Emirates NBD Bank."
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "RBL Bank (HQ: Mumbai | Tagline: \"Apno Ka Bank\")."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "worked_example",
+      "title": "Q1 (SBI PO Mains 2025). A completes work...",
+      "question": "Q1 (SBI PO Mains 2025). A completes work in 20 days. B takes 2x% more days than A, C takes x% more days than B. Time taken by C alone = sum of times taken by A and B alone. Find time for all three together to complete 11× the work.",
+      "given": [],
+      "method": "Step-by-Step Solution",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "explanation": "Time(B)=20(1+2x%), Time(C)=20(1+2x%)(1+x%). Given Time(C)=Time(A)+Time(B):\n(1+2x%)(1+x%) = 2(1+x%) → 1+2x% = 2 → x=50.\nB=40 days, C=60 days. LCM(20,40,60)=120 units work. Efficiencies: A=6, B=3, C=2 → combined=11/day.\nTime for 11× the work = 11×120/11 = 120 days."
+        }
+      ],
+      "answer": "Time(B)=20(1+2x%), Time(C)=20(1+2x%)(1+x%). Given Time(C)=Time(A)+Time(B):\n(1+2x%)(1+x%) = 2(1+x%) → 1+2x% = 2 → x=50.\nB=40 days, C=60 days. LCM(20,40,60)=120 units work. Efficiencies: A=6, B=3, C=2 → combined=11/day.\nTime for 11× the work = 11×120/11 = 120 days."
     }
   ],
   "metadata": {
     "exam": [
+      "Bank PO",
       "RBI Grade B",
-      "NABARD Grade A",
       "SBI PO"
     ],
     "tags": [
-      "sec1",
-      "Current Affairs 2026"
+      "pyqs",
+      "general"
     ],
-    "date": "2026-08-05",
-    "category": "SEC1",
+    "category": "PYQs",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T05:25:56.090Z",
+    "lastUpdated": "2026-08-15T05:40:25.815Z",
     "provenance": {
-      "sourceSystem": "CA",
-      "sourceFile": "ca_app/data.js",
-      "sourceId": "pilot-pyq-rbi-2024",
-      "sourceTitle": "Moody's Assigns First-Time Investment-Grade 'Baa2' Rating to RBL Bank",
-      "sourceChecksum": "66d476907e855da3980f33a0c668df2838cf616c0909fd544a9367845efcd456",
-      "migrationTimestamp": "2026-08-15T05:25:56.090Z",
-      "normalizationRuleVersion": "1.0.0-phase4"
+      "sourceSystem": "PYQs",
+      "sourceFile": "ca_app/quant_data.js",
+      "sourceId": "qsec8-2",
+      "sourceTitle": "8.2 Arithmetic PYQs",
+      "sourceChecksum": "a60a77fc7b4258ad6538ab7c125520fbb8fd4e8f6627e90687273f6073a26494",
+      "migrationTimestamp": "2026-08-15T05:40:25.815Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
     }
   }
 }

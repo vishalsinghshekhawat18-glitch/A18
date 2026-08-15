@@ -189,7 +189,7 @@ export const SemanticBlockSchema = z.discriminatedUnion('type', [
 ]);
 
 export const MigrationProvenanceSchema = z.object({
-  sourceSystem: z.enum(['Core', 'CA', 'StaticGA', 'Quant', 'Schemes']),
+  sourceSystem: z.enum(['Core', 'CA', 'StaticGA', 'Quant', 'Schemes', 'PYQs']),
   sourceFile: z.string().min(1),
   sourceId: z.string().min(1),
   sourceTitle: z.string().min(1),

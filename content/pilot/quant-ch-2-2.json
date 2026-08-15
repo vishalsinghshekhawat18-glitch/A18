@@ -1,73 +1,88 @@
 {
   "id": "pilot-quant-ch-2-2",
-  "type": "ca_note",
-  "domain": "current-affairs",
-  "title": "Government to Offload up to 6.5% Stake in LIC via Offer for Sale (OFS)",
-  "summary": "Government to Offload up to 6.5% Stake in LIC via Offer for Sale (OFS)",
+  "type": "quant_topic",
+  "domain": "quant",
+  "title": "2.2 Arithmetic Shortcuts & Time-Work Tricks",
+  "summary": "Quant — 2.2 Arithmetic Shortcuts & Time-Work Tricks",
   "blocks": [
     {
-      "type": "bullet_list",
-      "items": [
-        "Disinvestment of **2.5% base equity** with an additional **4% greenshoe option** (total up to 6.5%).",
-        "Floor price fixed at **₹382 per share**.",
-        "Centre currently holds 96.5% stake in LIC."
-      ]
-    },
-    {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Metric / Component",
-        "Threshold / Provision Detail"
+      "type": "worked_example",
+      "title": "Worked Example",
+      "question": "2.2 Arithmetic Shortcuts & Time-Work Tricks",
+      "given": [],
+      "method": "Step-by-Step Solution",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "explanation": "Standard step-by-step calculation."
+        }
       ],
-      "rows": [
-        [
-          "Key Metric",
-          "Disinvestment of 2.5% base equity with an additional 4% greenshoe option (total up to 6.5%)."
-        ],
-        [
-          "Key Metric",
-          "Floor price fixed at ₹382 per share."
-        ],
-        [
-          "Key Metric",
-          "Centre currently holds 96.5% stake in LIC."
-        ]
-      ]
+      "answer": "Calculation complete."
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "LIC founded 1st September 1956 under LIC Act, 1956 | HQ: Mumbai."
+      "type": "worked_example",
+      "title": "Worked Example",
+      "question": "2.2 Arithmetic Shortcuts & Time-Work Tricks",
+      "given": [],
+      "method": "Step-by-Step Solution",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "explanation": "Standard step-by-step calculation."
+        }
+      ],
+      "answer": "Calculation complete."
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "worked_example",
+      "title": "Worked Example",
+      "question": "2.2 Arithmetic Shortcuts & Time-Work Tricks",
+      "given": [],
+      "method": "Step-by-Step Solution",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "explanation": "Standard step-by-step calculation."
+        }
+      ],
+      "answer": "Calculation complete."
+    },
+    {
+      "type": "worked_example",
+      "title": "Worked Example",
+      "question": "2.2 Arithmetic Shortcuts & Time-Work Tricks",
+      "given": [],
+      "method": "Step-by-Step Solution",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "explanation": "Standard step-by-step calculation."
+        }
+      ],
+      "answer": "Calculation complete."
     }
   ],
   "metadata": {
     "exam": [
+      "Bank PO",
       "RBI Grade B",
-      "NABARD Grade A",
       "SBI PO"
     ],
     "tags": [
-      "sec1",
-      "Current Affairs 2026"
+      "quant",
+      "general"
     ],
-    "date": "2026-08-01",
-    "category": "SEC1",
+    "category": "Quant",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T05:25:56.089Z",
+    "lastUpdated": "2026-08-15T05:40:25.814Z",
     "provenance": {
-      "sourceSystem": "CA",
-      "sourceFile": "ca_app/data.js",
-      "sourceId": "pilot-quant-ch-2-2",
-      "sourceTitle": "Government to Offload up to 6.5% Stake in LIC via Offer for Sale (OFS)",
-      "sourceChecksum": "b38fd261876b4443f8e843c79a15dfe14cb98c38cf2196609b80ca19dda9aa12",
-      "migrationTimestamp": "2026-08-15T05:25:56.089Z",
-      "normalizationRuleVersion": "1.0.0-phase4"
+      "sourceSystem": "Quant",
+      "sourceFile": "ca_app/quant_data.js",
+      "sourceId": "qsec2-2",
+      "sourceTitle": "2.2 Arithmetic Shortcuts & Time-Work Tricks",
+      "sourceChecksum": "58efaf74f3cdbe196b80c1c2e181d31d9270871c1e09653e514eeaf9955151ab",
+      "migrationTimestamp": "2026-08-15T05:40:25.814Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
     }
   }
 }

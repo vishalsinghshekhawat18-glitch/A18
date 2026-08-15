@@ -14,7 +14,7 @@
     },
     "metrics": {
       "sourceTextLen": 6333,
-      "targetTextLen": 6711,
+      "targetTextLen": 6705,
       "lengthRatio": 1.06,
       "rupeeSymbolsPreserved": true,
       "percentSymbolsPreserved": true,
@@ -40,7 +40,7 @@
     },
     "metrics": {
       "sourceTextLen": 5037,
-      "targetTextLen": 5258,
+      "targetTextLen": 5252,
       "lengthRatio": 1.04,
       "rupeeSymbolsPreserved": true,
       "percentSymbolsPreserved": true,
@@ -66,7 +66,7 @@
     },
     "metrics": {
       "sourceTextLen": 7786,
-      "targetTextLen": 8333,
+      "targetTextLen": 8327,
       "lengthRatio": 1.07,
       "rupeeSymbolsPreserved": true,
       "percentSymbolsPreserved": true,
@@ -79,8 +79,8 @@
   },
   {
     "itemId": "pilot-hist-ch-20",
-    "sourceTitle": "Pilot Chapter hist-ch-20",
-    "targetTitle": "Pilot Chapter hist-ch-20",
+    "sourceTitle": "20. The Making of Regional Cultures",
+    "targetTitle": "20. The Making of Regional Cultures",
     "passed": true,
     "levelResults": {
       "level1Inventory": true,
@@ -91,9 +91,9 @@
       "level6RenderReadiness": true
     },
     "metrics": {
-      "sourceTextLen": 327,
-      "targetTextLen": 882,
-      "lengthRatio": 2.7,
+      "sourceTextLen": 5039,
+      "targetTextLen": 5378,
+      "lengthRatio": 1.07,
       "rupeeSymbolsPreserved": true,
       "percentSymbolsPreserved": true,
       "datesPreserved": true,
@@ -118,7 +118,7 @@
     },
     "metrics": {
       "sourceTextLen": 4852,
-      "targetTextLen": 5192,
+      "targetTextLen": 5186,
       "lengthRatio": 1.07,
       "rupeeSymbolsPreserved": true,
       "percentSymbolsPreserved": true,
@@ -144,8 +144,8 @@
     },
     "metrics": {
       "sourceTextLen": 4742,
-      "targetTextLen": 5102,
-      "lengthRatio": 1.08,
+      "targetTextLen": 5096,
+      "lengthRatio": 1.07,
       "rupeeSymbolsPreserved": true,
       "percentSymbolsPreserved": true,
       "datesPreserved": true,
@@ -170,7 +170,7 @@
     },
     "metrics": {
       "sourceTextLen": 6871,
-      "targetTextLen": 7208,
+      "targetTextLen": 7202,
       "lengthRatio": 1.05,
       "rupeeSymbolsPreserved": true,
       "percentSymbolsPreserved": true,
@@ -195,8 +195,8 @@
       "level6RenderReadiness": true
     },
     "metrics": {
-      "sourceTextLen": 711,
-      "targetTextLen": 1558,
+      "sourceTextLen": 710,
+      "targetTextLen": 1557,
       "lengthRatio": 2.19,
       "rupeeSymbolsPreserved": true,
       "percentSymbolsPreserved": true,
@@ -221,8 +221,8 @@
       "level6RenderReadiness": true
     },
     "metrics": {
-      "sourceTextLen": 1964,
-      "targetTextLen": 2954,
+      "sourceTextLen": 1963,
+      "targetTextLen": 2953,
       "lengthRatio": 1.5,
       "rupeeSymbolsPreserved": true,
       "percentSymbolsPreserved": true,
@@ -247,8 +247,8 @@
       "level6RenderReadiness": true
     },
     "metrics": {
-      "sourceTextLen": 1301,
-      "targetTextLen": 2252,
+      "sourceTextLen": 1300,
+      "targetTextLen": 2251,
       "lengthRatio": 1.73,
       "rupeeSymbolsPreserved": true,
       "percentSymbolsPreserved": true,
@@ -261,8 +261,8 @@
   },
   {
     "itemId": "pilot-scheme-015",
-    "sourceTitle": "Taxation and Other Laws (Amendment) Bill, 2026 Introduced (2041 Sunset & UPI MDR)",
-    "targetTitle": "Taxation and Other Laws (Amendment) Bill, 2026 Introduced (2041 Sunset & UPI MDR)",
+    "sourceTitle": "Pradhan Mantri Vaya Vandana Yojana (PMVVY):",
+    "targetTitle": "Pradhan Mantri Vaya Vandana Yojana (PMVVY):",
     "passed": true,
     "levelResults": {
       "level1Inventory": true,
@@ -273,9 +273,9 @@
       "level6RenderReadiness": true
     },
     "metrics": {
-      "sourceTextLen": 1573,
-      "targetTextLen": 2555,
-      "lengthRatio": 1.62,
+      "sourceTextLen": 337,
+      "targetTextLen": 826,
+      "lengthRatio": 2.45,
       "rupeeSymbolsPreserved": true,
       "percentSymbolsPreserved": true,
       "datesPreserved": true,
@@ -287,8 +287,8 @@
   },
   {
     "itemId": "pilot-static-ch-1-1",
-    "sourceTitle": "IMF Estimates Indian Economy Will Cross $5 Trillion Mark in FY29",
-    "targetTitle": "IMF Estimates Indian Economy Will Cross $5 Trillion Mark in FY29",
+    "sourceTitle": "Part 1: Regulatory & Apex Bodies (RBI, SEBI, IRDAI, PFRDA, IFSCA)",
+    "targetTitle": "Part 1: Regulatory & Apex Bodies (RBI, SEBI, IRDAI, PFRDA, IFSCA)",
     "passed": true,
     "levelResults": {
       "level1Inventory": true,
@@ -299,9 +299,9 @@
       "level6RenderReadiness": true
     },
     "metrics": {
-      "sourceTextLen": 774,
-      "targetTextLen": 1638,
-      "lengthRatio": 2.12,
+      "sourceTextLen": 1077,
+      "targetTextLen": 1855,
+      "lengthRatio": 1.72,
       "rupeeSymbolsPreserved": true,
       "percentSymbolsPreserved": true,
       "datesPreserved": true,
@@ -313,8 +313,8 @@
   },
   {
     "itemId": "pilot-quant-ch-1-1",
-    "sourceTitle": "IMF Flags Financial Stability Risks from BigTech Expansion in Payments",
-    "targetTitle": "IMF Flags Financial Stability Risks from BigTech Expansion in Payments",
+    "sourceTitle": "1.1 2D Shape Formulas & Applications",
+    "targetTitle": "1.1 2D Shape Formulas & Applications",
     "passed": true,
     "levelResults": {
       "level1Inventory": true,
@@ -325,9 +325,9 @@
       "level6RenderReadiness": true
     },
     "metrics": {
-      "sourceTextLen": 1091,
-      "targetTextLen": 2050,
-      "lengthRatio": 1.88,
+      "sourceTextLen": 593,
+      "targetTextLen": 1263,
+      "lengthRatio": 2.13,
       "rupeeSymbolsPreserved": true,
       "percentSymbolsPreserved": true,
       "datesPreserved": true,
@@ -339,8 +339,8 @@
   },
   {
     "itemId": "pilot-quant-ch-2-2",
-    "sourceTitle": "Government to Offload up to 6.5% Stake in LIC via Offer for Sale (OFS)",
-    "targetTitle": "Government to Offload up to 6.5% Stake in LIC via Offer for Sale (OFS)",
+    "sourceTitle": "2.2 Arithmetic Shortcuts & Time-Work Tricks",
+    "targetTitle": "2.2 Arithmetic Shortcuts & Time-Work Tricks",
     "passed": true,
     "levelResults": {
       "level1Inventory": true,
@@ -351,9 +351,9 @@
       "level6RenderReadiness": true
     },
     "metrics": {
-      "sourceTextLen": 931,
-      "targetTextLen": 1756,
-      "lengthRatio": 1.89,
+      "sourceTextLen": 889,
+      "targetTextLen": 1755,
+      "lengthRatio": 1.97,
       "rupeeSymbolsPreserved": true,
       "percentSymbolsPreserved": true,
       "datesPreserved": true,
@@ -365,8 +365,8 @@
   },
   {
     "itemId": "pilot-pyq-rbi-2024",
-    "sourceTitle": "Moody's Assigns First-Time Investment-Grade 'Baa2' Rating to RBL Bank",
-    "targetTitle": "Moody's Assigns First-Time Investment-Grade 'Baa2' Rating to RBL Bank",
+    "sourceTitle": "8.2 Arithmetic PYQs",
+    "targetTitle": "8.2 Arithmetic PYQs",
     "passed": true,
     "levelResults": {
       "level1Inventory": true,
@@ -377,9 +377,9 @@
       "level6RenderReadiness": true
     },
     "metrics": {
-      "sourceTextLen": 591,
-      "targetTextLen": 1363,
-      "lengthRatio": 2.31,
+      "sourceTextLen": 592,
+      "targetTextLen": 1580,
+      "lengthRatio": 2.67,
       "rupeeSymbolsPreserved": true,
       "percentSymbolsPreserved": true,
       "datesPreserved": true,

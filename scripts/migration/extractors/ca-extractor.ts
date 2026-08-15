@@ -3,6 +3,7 @@ import { KnowledgeItem, SemanticBlock } from '../../../schema/knowledge-item';
 
 export interface RawCANote {
   id: string;
+  realSourceId?: string;
   secId: string;
   title: string;
   date: string;
@@ -18,8 +19,9 @@ export interface RawCANote {
   };
 }
 
-export function transformCANoteToKnowledgeItem(raw: RawCANote): KnowledgeItem {
-  const sourceChecksum = crypto.createHash('sha256').update(JSON.stringify(raw)).digest('hex');
+export function transformCANoteToKnowledgeItem(raw: RawCANote, rawSourcePayload?: any): KnowledgeItem {
+  const payloadToHash = rawSourcePayload || raw;
+  const sourceChecksum = crypto.createHash('sha256').update(JSON.stringify(payloadToHash)).digest('hex');
   const nowISO = new Date().toISOString();
 
   const blocks: SemanticBlock[] = [];
@@ -94,7 +96,7 @@ export function transformCANoteToKnowledgeItem(raw: RawCANote): KnowledgeItem {
       provenance: {
         sourceSystem: 'CA',
         sourceFile: 'ca_app/data.js',
-        sourceId: raw.id,
+        sourceId: raw.realSourceId || raw.id,
         sourceTitle: raw.title,
         sourceChecksum: sourceChecksum,
         migrationTimestamp: nowISO,

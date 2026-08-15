@@ -45,14 +45,14 @@
     "date": "2026-08-01",
     "category": "SEC1",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T05:25:56.084Z",
+    "lastUpdated": "2026-08-15T05:40:25.809Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "ca_app/data.js",
-      "sourceId": "pilot-ca-102",
+      "sourceId": "note-sec1-3",
       "sourceTitle": "Government Approves ₹4,687 Crore Interest Subsidies for Ethanol Projects via NABARD",
-      "sourceChecksum": "a0c3c14224274cc25dade42a009d4a1795247666be1f6a388cca44717ff76db6",
-      "migrationTimestamp": "2026-08-15T05:25:56.084Z",
+      "sourceChecksum": "b0d47c04edf135458cd233fee3671f56f8784d47ae58b404f37b5aeb8de2ac45",
+      "migrationTimestamp": "2026-08-15T05:40:25.809Z",
       "normalizationRuleVersion": "1.0.0-phase4"
     }
   }
