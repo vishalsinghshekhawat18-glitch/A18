@@ -145,14 +145,23 @@ export const App: React.FC = () => {
           />
         )}
 
-        {/* Level 2: Subject Hub Navigation View */}
+        {/* Level 2: Subject Hub Navigation View (Directly renders CAFeedSurface for current-affairs) */}
         {routeState.type === 'subject' && routeState.subjectId && (
-          <SubjectHubView
-            subjectId={routeState.subjectId}
-            items={allCorpusMap}
-            onBackHome={handleGoHome}
-            onSelectItem={handleSelectItem}
-          />
+          routeState.subjectId === 'current-affairs' ? (
+            <ReaderShell
+              item={allCorpusMap.find(i => i.domain === 'current-affairs' && !i.id.includes('scheme')) || activeItem}
+              allItems={allCorpusMap}
+              fontSize={fontSize}
+              onNavigateItem={handleSelectItem}
+            />
+          ) : (
+            <SubjectHubView
+              subjectId={routeState.subjectId}
+              items={allCorpusMap}
+              onBackHome={handleGoHome}
+              onSelectItem={handleSelectItem}
+            />
+          )
         )}
 
         {/* Level 3: Content Reader Surface */}
