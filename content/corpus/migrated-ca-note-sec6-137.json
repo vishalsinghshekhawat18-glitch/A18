@@ -1,0 +1,44 @@
+{
+  "id": "migrated-ca-note-sec6-137",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India Successfully Test-Fires Agni-4 Ballistic Missile (4,000 km Strike Range)",
+  "summary": "Validates solid-fuel medium-range surface-to-surface missile capability from Chandipur, Odisha.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Validates solid-fuel medium-range surface-to-surface missile capability from Chandipur, Odisha."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "DRDO successfully flight-tested Agni-4 intermediate-range ballistic missile with a strike range of 4,000 km from APJ Abdul Kalam Island.",
+        "Equipped with advanced ring laser gyro INS and micro-navigation systems."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-06",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:07.934Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec6-137",
+      "sourceTitle": "India Successfully Test-Fires Agni-4 Ballistic Missile (4,000 km Strike Range)",
+      "sourceChecksum": "8eb791d9d9ecafbd3157059d24fa2cb93ab69041671abb80023c71149eefc2df",
+      "migrationTimestamp": "2026-08-15T12:12:07.934Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "migrated-ca-note-sec8-147",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Squadron Leader Bhawana Kanth Becomes First Woman IAF 'Top Gun' Combat Leader",
+  "summary": "1st woman to graduate from IAF Fighter Combat Leader course after 20-week training.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "1st woman to graduate from IAF Fighter Combat Leader course after 20-week training."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Squadron Leader Bhawana Kanth became the first woman fighter pilot in IAF history to qualify as a 'Top Gun' Combat Leader.",
+        "Completed Tactics and Air Combat Development Establishment (TACDE) course."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Date & Event",
+        "Official Theme / Mandate",
+        "Nodal Body / Significance"
+      ],
+      "rows": [
+        [
+          "Squadron Leader Bhawana Kanth Becomes First Woman IAF 'Top Gun' Combat Leader",
+          "Squadron Leader Bhawana Kanth became the first woman fighter pilot in IAF history to qualify as a 'Top Gun' Combat Leader.",
+          "Global Observance"
+        ]
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec8",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-06",
+    "category": "SEC8",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:07.934Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec8-147",
+      "sourceTitle": "Squadron Leader Bhawana Kanth Becomes First Woman IAF 'Top Gun' Combat Leader",
+      "sourceChecksum": "8ad03371f7f19040398d25691acf8f0b3f869ff681b4dcff625ef2eb64e747fa",
+      "migrationTimestamp": "2026-08-15T12:12:07.934Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

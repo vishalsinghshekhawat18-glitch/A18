@@ -1,0 +1,59 @@
+{
+  "id": "migrated-ca-note-sec5-127",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Dr. T.V. Somanathan Gets 1-Year Extension as Cabinet Secretary; Govind Mohan as Home Secretary",
+  "summary": "Key administrative extensions in top civil service posts.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Key administrative extensions in top civil service posts."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "CEO Air India: Tewolde Gebremariam."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Appointee / Official",
+        "New Position & Organization",
+        "Key Context & Details"
+      ],
+      "rows": [
+        [
+          "Dr. T.V. Somanathan Gets 1-Year Extension as Cabinet Secretary; Govind Mohan as Home Secretary",
+          "Official Appointment",
+          "CEO Air India: Tewolde Gebremariam."
+        ]
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-06",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:07.934Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec5-127",
+      "sourceTitle": "Dr. T.V. Somanathan Gets 1-Year Extension as Cabinet Secretary; Govind Mohan as Home Secretary",
+      "sourceChecksum": "887aec7c6c6b3e007e77fbe46ac615231274e76b2e5967bf1e013f7374188810",
+      "migrationTimestamp": "2026-08-15T12:12:07.934Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

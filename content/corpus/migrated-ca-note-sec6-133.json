@@ -1,0 +1,43 @@
+{
+  "id": "migrated-ca-note-sec6-133",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "IIT Hyderabad & Crimson Energy Launch 'ANUGYAN' Nuclear Technology Program",
+  "summary": "India's 1st industry-academia nuclear orientation program.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "India's 1st industry-academia nuclear orientation program."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Capacity Goal: Expand nuclear power capacity from 8.8 GW to 100 GW by 2047."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-06",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:07.934Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec6-133",
+      "sourceTitle": "IIT Hyderabad & Crimson Energy Launch 'ANUGYAN' Nuclear Technology Program",
+      "sourceChecksum": "fa3fe3d3541ac2ca4409f23608c815e86cbf5e1537f0faf904479785fbb6944c",
+      "migrationTimestamp": "2026-08-15T12:12:07.934Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

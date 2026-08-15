@@ -1,0 +1,44 @@
+{
+  "id": "migrated-ca-note-sec6-139",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Arunachal Pradesh to Host Asian Rafting Championships 2026 on Simang River",
+  "summary": "Hosted at Boleng from Oct 5–9, 2026. Official Mascot: Nyami.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Hosted at Boleng from Oct 5–9, 2026. Official Mascot: Nyami."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Arunachal Pradesh selected to host Asian Rafting Championships 2026 on the Simang River in Siang district.",
+        "Organised by International Rafting Federation (IRF) and Indian Rafting Foundation."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-06",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:07.934Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec6-139",
+      "sourceTitle": "Arunachal Pradesh to Host Asian Rafting Championships 2026 on Simang River",
+      "sourceChecksum": "a3dd89ae459d0391e130d6a1b2faba978c7d95a8e6103f9d277064d24184fcbd",
+      "migrationTimestamp": "2026-08-15T12:12:07.934Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

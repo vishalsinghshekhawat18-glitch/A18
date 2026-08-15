@@ -1,0 +1,61 @@
+{
+  "id": "migrated-ca-note-sec5-130",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "UNCCD COP17 to be Hosted by Mongolia in August 2026",
+  "summary": "Global environmental conference on desertification and land restoration.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Global environmental conference on desertification and land restoration."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Location & Dates: Ulaanbaatar, Mongolia (August 17 to 28, 2026).",
+        "Theme: “Restoring Land.",
+        "Restoring Hope”."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Appointee / Official",
+        "New Position & Organization",
+        "Key Context & Details"
+      ],
+      "rows": [
+        [
+          "UNCCD COP17 to be Hosted by Mongolia in August 2026",
+          "Official Appointment",
+          "Location & Dates: Ulaanbaatar, Mongolia (August 17 to 28, 2026)."
+        ]
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-07",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:07.934Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec5-130",
+      "sourceTitle": "UNCCD COP17 to be Hosted by Mongolia in August 2026",
+      "sourceChecksum": "7bc808a8421122ca595d98e4031e2150159b7aeddd22be391b7dab5770537270",
+      "migrationTimestamp": "2026-08-15T12:12:07.934Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "migrated-ca-note-sec5-132",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "9th India Medical Device Conference 2026 Held in New Delhi",
+  "summary": "Promotes India as a global manufacturing hub for quality medical devices.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Promotes India as a global manufacturing hub for quality medical devices."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Organized By: Dept of Pharmaceuticals & FICCI (Aug 7–8, 2026).",
+        "Theme: “Towards Viksit Bharat: Advancing India as a Global Hub for Quality Medical Devices”."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Appointee / Official",
+        "New Position & Organization",
+        "Key Context & Details"
+      ],
+      "rows": [
+        [
+          "9th India Medical Device Conference 2026 Held in New Delhi",
+          "Official Appointment",
+          "Organized By: Dept of Pharmaceuticals & FICCI (Aug 7–8, 2026)."
+        ]
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-07",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:07.934Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec5-132",
+      "sourceTitle": "9th India Medical Device Conference 2026 Held in New Delhi",
+      "sourceChecksum": "7b605b1ce68fc41edfd79605523bb96b56495ba8b86110572bc9efe2adcfaca8",
+      "migrationTimestamp": "2026-08-15T12:12:07.934Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

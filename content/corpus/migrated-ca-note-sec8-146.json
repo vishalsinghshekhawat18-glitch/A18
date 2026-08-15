@@ -1,0 +1,60 @@
+{
+  "id": "migrated-ca-note-sec8-146",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Article 370 Abrogation 7th Anniversary Observed on 5th August 2026",
+  "summary": "Celebrated via dPal rNgam Duston festival at Leh Palace for Ladakh UT declaration anniversary.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Celebrated via dPal rNgam Duston festival at Leh Palace for Ladakh UT declaration anniversary."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "7th anniversary of Article 370 abrogation observed on August 5, 2026, marking constitutional integration of Jammu & Kashmir and Ladakh.",
+        "Article 370 was abrogated by Parliament on August 5, 2019."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Date & Event",
+        "Official Theme / Mandate",
+        "Nodal Body / Significance"
+      ],
+      "rows": [
+        [
+          "Article 370 Abrogation 7th Anniversary Observed on 5th August 2026",
+          "7th anniversary of Article 370 abrogation observed on August 5, 2026, marking constitutional integration of Jammu & Kashmir and Ladakh.",
+          "Global Observance"
+        ]
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec8",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-07",
+    "category": "SEC8",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:07.934Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec8-146",
+      "sourceTitle": "Article 370 Abrogation 7th Anniversary Observed on 5th August 2026",
+      "sourceChecksum": "3bf162f278a0ad146be05c8a82c3dce6c17e9c134bff38c3c9c16a0eeb0eccf5",
+      "migrationTimestamp": "2026-08-15T12:12:07.934Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

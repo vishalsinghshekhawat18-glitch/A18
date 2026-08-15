@@ -1,0 +1,59 @@
+{
+  "id": "migrated-ca-note-sec8-144",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "12th National Handloom Day Observed on 7th August 2026",
+  "summary": "Commemorates 1905 Swadeshi Movement (started 2015).",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Commemorates 1905 Swadeshi Movement (started 2015)."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Awards: 22 total (3 Sant Kabir + 9 National Handloom Awards for 2025)."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Date & Event",
+        "Official Theme / Mandate",
+        "Nodal Body / Significance"
+      ],
+      "rows": [
+        [
+          "12th National Handloom Day Observed on 7th August 2026",
+          "Awards: 22 total (3 Sant Kabir + 9 National Handloom Awards for 2025).",
+          "Global Observance"
+        ]
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec8",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-07",
+    "category": "SEC8",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:07.934Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec8-144",
+      "sourceTitle": "12th National Handloom Day Observed on 7th August 2026",
+      "sourceChecksum": "d74cdaba92894a1c3486a10bd5694e74450a841b76d2a7e5c2fe5bc86b12c82a",
+      "migrationTimestamp": "2026-08-15T12:12:07.934Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

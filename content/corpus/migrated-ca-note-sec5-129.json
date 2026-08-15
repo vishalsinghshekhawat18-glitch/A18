@@ -1,0 +1,59 @@
+{
+  "id": "migrated-ca-note-sec5-129",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India Hosts 2nd National Port Security Conference 2026 in New Delhi",
+  "summary": "Accelerates maritime security digitisation and port workflow standardization.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Accelerates maritime security digitisation and port workflow standardization."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Key Platforms: e-Samudra portal, Maritime Single Window, and One Nation One Port Process."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Appointee / Official",
+        "New Position & Organization",
+        "Key Context & Details"
+      ],
+      "rows": [
+        [
+          "India Hosts 2nd National Port Security Conference 2026 in New Delhi",
+          "Official Appointment",
+          "Key Platforms: e-Samudra portal, Maritime Single Window, and One Nation One Port Process."
+        ]
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-06",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:07.934Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec5-129",
+      "sourceTitle": "India Hosts 2nd National Port Security Conference 2026 in New Delhi",
+      "sourceChecksum": "a3fd54302a7b862f0432fc4d537d695aadb94d1973492fc457e9733c1701cf97",
+      "migrationTimestamp": "2026-08-15T12:12:07.934Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

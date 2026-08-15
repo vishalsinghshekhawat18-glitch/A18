@@ -1,0 +1,45 @@
+{
+  "id": "migrated-ca-note-sec6-138",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "R Praggnanandhaa Wins St. Louis Rapid & Blitz 2026 Chess Tournament",
+  "summary": "Indian Grandmaster defeats Javokhir Sindarov (Uzbekistan).",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Indian Grandmaster defeats Javokhir Sindarov (Uzbekistan)."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Indian Grandmaster R Praggnanandhaa won the St.",
+        "Louis Rapid & Blitz 2026 chess tournament in Missouri, US.",
+        "Defeated Alireza Firouzja and Fabiano Caruana in tie-breaks."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-07",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:07.934Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec6-138",
+      "sourceTitle": "R Praggnanandhaa Wins St. Louis Rapid & Blitz 2026 Chess Tournament",
+      "sourceChecksum": "69d4add636f446910b9af1c8e08d01dac5c8d7102663a09857d083d1cbaff7fe",
+      "migrationTimestamp": "2026-08-15T12:12:07.934Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

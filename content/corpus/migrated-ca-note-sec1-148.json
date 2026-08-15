@@ -1,0 +1,50 @@
+{
+  "id": "migrated-ca-note-sec1-148",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Static GK Highlights: Manas National Park, SpaceX Falcon 9 Lunar Impact, Himalayan Serow",
+  "summary": "Key static environment & space facts.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Key static environment & space facts."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Manas NP: Tiger & Elephant reserve in Assam.",
+        "Himalayan Serow: Dalhousie, HP (IUCN: Near Threatened, CITES Appendix I).",
+        "Mullaperiyar Dam: Masonry gravity dam in Thekkady, Idukki, Kerala."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-07",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:07.934Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-148",
+      "sourceTitle": "Static GK Highlights: Manas National Park, SpaceX Falcon 9 Lunar Impact, Himalayan Serow",
+      "sourceChecksum": "95f380ed9af3fec7e64aa4077ad52034f5827f9ae34a9ed9edc6416820f8293e",
+      "migrationTimestamp": "2026-08-15T12:12:07.934Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

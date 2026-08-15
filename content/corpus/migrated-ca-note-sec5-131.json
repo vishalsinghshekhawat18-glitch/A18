@@ -1,0 +1,59 @@
+{
+  "id": "migrated-ca-note-sec5-131",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Seoul Hosts Global AI and Digital Summit 2026",
+  "summary": "World Bank showcase of sub-national digital sandbox initiatives.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "World Bank showcase of sub-national digital sandbox initiatives."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Haryana AI Sandbox showcased at Korea Digital Summit (October 19–22, 2026)."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Appointee / Official",
+        "New Position & Organization",
+        "Key Context & Details"
+      ],
+      "rows": [
+        [
+          "Seoul Hosts Global AI and Digital Summit 2026",
+          "Official Appointment",
+          "Haryana AI Sandbox showcased at Korea Digital Summit (October 19–22, 2026)."
+        ]
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-06",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:07.934Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec5-131",
+      "sourceTitle": "Seoul Hosts Global AI and Digital Summit 2026",
+      "sourceChecksum": "f58a1952718215b24fa5f6baa988363f80db36bda27d50e3fc409b21df6f6237",
+      "migrationTimestamp": "2026-08-15T12:12:07.934Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

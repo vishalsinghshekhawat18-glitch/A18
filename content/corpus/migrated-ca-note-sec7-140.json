@@ -1,0 +1,59 @@
+{
+  "id": "migrated-ca-note-sec7-140",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Nitin Gadkari Confers Sarvottam Jeevan Raksha Padak to 12 Silkyara Tunnel Rat Miners",
+  "summary": "Ashoka Chakra series gallantry offshoot (instituted 1961).",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Ashoka Chakra series gallantry offshoot (instituted 1961)."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Award Money: Sarvottam (₹2,00,000), Uttam (₹1,50,000), Jeevan Raksha (₹100,000)."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Award Title",
+        "Recipient / Winner",
+        "Conferred By / Key Detail"
+      ],
+      "rows": [
+        [
+          "Nitin Gadkari Confers Sarvottam Jeevan Raksha Padak to 12 Silkyara Tunnel Rat Miners",
+          "Award Money: Sarvottam (₹2,00,000), Uttam (₹1,50,000), Jeevan Raksha (₹100,000).",
+          "Annual Recognition"
+        ]
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec7",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-07",
+    "category": "SEC7",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:07.934Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec7-140",
+      "sourceTitle": "Nitin Gadkari Confers Sarvottam Jeevan Raksha Padak to 12 Silkyara Tunnel Rat Miners",
+      "sourceChecksum": "c9da08fdf6828e186580607789580983bac23950b9bfa19981193843520397ae",
+      "migrationTimestamp": "2026-08-15T12:12:07.934Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

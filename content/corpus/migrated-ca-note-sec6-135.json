@@ -1,0 +1,44 @@
+{
+  "id": "migrated-ca-note-sec6-135",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Chandipura Virus Disease (CHPV) Outbreak Triggers Acute Encephalitis Syndrome Alerts",
+  "summary": "Rare vector-borne viral illness causing AES.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Rare vector-borne viral illness causing AES."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Union Health Ministry issued nationwide alert for Chandipura Virus Disease (CHPV) following acute encephalitis syndrome cases in Gujarat and Rajasthan.",
+        "Transmitted by sandflies; causes high fever and brain inflammation."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-06",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:07.934Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec6-135",
+      "sourceTitle": "Chandipura Virus Disease (CHPV) Outbreak Triggers Acute Encephalitis Syndrome Alerts",
+      "sourceChecksum": "b199f5522dd4ae9885be522b3baa7abded5af3a7cd7f30db27e2f7fc0c3b5f05",
+      "migrationTimestamp": "2026-08-15T12:12:07.934Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

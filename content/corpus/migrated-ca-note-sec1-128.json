@@ -1,0 +1,64 @@
+{
+  "id": "migrated-ca-note-sec1-128",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Rahul Jain Appointed Senior Adviser to Executive Director (India) at IMF",
+  "summary": "Key multilateral appointments.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Key multilateral appointments."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Baldeo Purushartha appointed Senior Adviser to ED at ADB; Satyajit Mohanty appointed Representative of India at ICAO Council."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Appointee / Official",
+        "New Position & Organization",
+        "Key Context & Details"
+      ],
+      "rows": [
+        [
+          "Rahul Jain",
+          "Senior Adviser to Executive Director (India) at IMF",
+          "Baldeo Purushartha appointed Senior Adviser to ED at ADB; Satyajit Mohanty appointed Representative of India at ICAO Council."
+        ]
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-07",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:07.934Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-128",
+      "sourceTitle": "Rahul Jain Appointed Senior Adviser to Executive Director (India) at IMF",
+      "sourceChecksum": "ef2be6a7fbd4fa432a04d1e452cbe72545ba6203b3695ff107a0e61b418375e0",
+      "migrationTimestamp": "2026-08-15T12:12:07.934Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "migrated-ca-note-sec7-141",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "P. Pechiyammal and Govindhammal Honored with Dr. M.S. Swaminathan Award 2026",
+  "summary": "Honored in Chennai by MSSRF, CavinKare & Rotary Club of Madras East for environmental protection.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Honored in Chennai by MSSRF, CavinKare & Rotary Club of Madras East for environmental protection."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Organic farmers P.",
+        "Pechiyammal (Tamil Nadu) and Govindhammal received Dr.",
+        "M.S.",
+        "Swaminathan Award 2026 for sustainable agriculture.",
+        "Conferred by MSSRF for promoting native seed conservation."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Award Title",
+        "Recipient / Winner",
+        "Conferred By / Key Detail"
+      ],
+      "rows": [
+        [
+          "P. Pechiyammal and Govindhammal Honored with Dr. M.S. Swaminathan Award 2026",
+          "Organic farmers P. Pechiyammal (Tamil Nadu) and Govindhammal received Dr. M.S. Swaminathan Award 2026 for sustainable agriculture.",
+          "Annual Recognition"
+        ]
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec7",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-06",
+    "category": "SEC7",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:07.934Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec7-141",
+      "sourceTitle": "P. Pechiyammal and Govindhammal Honored with Dr. M.S. Swaminathan Award 2026",
+      "sourceChecksum": "d6ec0c0bb41ff007b6225931be58ee0f5e5910e247e8bfa195a353fd4772e0d2",
+      "migrationTimestamp": "2026-08-15T12:12:07.934Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

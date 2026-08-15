@@ -1,0 +1,60 @@
+{
+  "id": "migrated-ca-note-sec5-126",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Bajaj General Insurance Partners with Swiss Re for Commercial Structured Coverage",
+  "summary": "Leverages Swiss Re's global underwriting platform for Indian commercial risk solutions.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Leverages Swiss Re's global underwriting platform for Indian commercial risk solutions."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Bajaj Allianz General Insurance partnered with global reinsurer Swiss Re for commercial structured risk coverage.",
+        "Focuses on property, casualty, and renewable energy risk underwriting."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Appointee / Official",
+        "New Position & Organization",
+        "Key Context & Details"
+      ],
+      "rows": [
+        [
+          "Bajaj General Insurance Partners with Swiss Re for Commercial Structured Coverage",
+          "Official Appointment",
+          "Bajaj Allianz General Insurance partnered with global reinsurer Swiss Re for commercial structured risk coverage."
+        ]
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-07",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:07.934Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec5-126",
+      "sourceTitle": "Bajaj General Insurance Partners with Swiss Re for Commercial Structured Coverage",
+      "sourceChecksum": "94d8977aebb5f21bf58b1b4f7e981648723b2396946470083884c256efc428ca",
+      "migrationTimestamp": "2026-08-15T12:12:07.934Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "migrated-ca-note-sec4-136",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Ladakh to Launch India's First High-Altitude Wildlife Safari in Hemis & Changthang",
+  "summary": "First high-altitude safari routes across Hemis National Park, Changthang and Karakoram sanctuaries.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "First high-altitude safari routes across Hemis National Park, Changthang and Karakoram sanctuaries."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Ladakh administration announced India's 1st high-altitude wildlife safari across Hemis National Park and Changthang Wildlife Sanctuary.",
+        "Focuses on eco-guided snow leopard and blue sheep sightings."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-07",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:07.934Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-136",
+      "sourceTitle": "Ladakh to Launch India's First High-Altitude Wildlife Safari in Hemis & Changthang",
+      "sourceChecksum": "90882cf5b3af5637f1cb7701d7d474ae8c0ebbb2162c1aecb56074aee220abce",
+      "migrationTimestamp": "2026-08-15T12:12:07.934Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

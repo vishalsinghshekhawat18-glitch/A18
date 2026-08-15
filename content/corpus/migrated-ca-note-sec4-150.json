@@ -1,0 +1,49 @@
+{
+  "id": "migrated-ca-note-sec4-150",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "President Droupadi Murmu Launches e-Audio Guide, e-Upahaar 3rd Edition, and RAAHI Electric Bus Service",
+  "summary": "Introduces citizen-centric, sustainability-focused, and heritage initiatives marking 4 years of Presidency.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Introduces citizen-centric, sustainability-focused, and heritage initiatives marking 4 years of Presidency."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "📌 **Core Policy Directives & Scope:**\nHeritage & Inclusion: Launched app-based e-Audio Guide (16 Indian languages + sign language) and 3rd edition of e-Upahaar (300 curated gifts for public auction).\nChildcare Facility: Inaugurated 'Bachpan Bal Parisar' comprising 'Kilkari' play zone and 'Samarth Anganwadi-cum-Palna'.",
+        "💰 **Financial Outlays & Operational Rules:**\nGreen Mobility: Flagged off 'RAAHI' (Rashtrapati Bhavan Access and Heritage Interconnector)—a fare-free, 27-seater electric bus operated by women drivers.\nNet Zero Infrastructure: Foundation stone laid for new service block under Net Zero Energy Strategy."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Droupadi Murmu sworn in as 15th President on July 25, 2022 (India's 1st tribal Head of State) | Historic Mughal Gardens renamed Amrit Udyan."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-02",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:07.935Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-150",
+      "sourceTitle": "President Droupadi Murmu Launches e-Audio Guide, e-Upahaar 3rd Edition, and RAAHI Electric Bus Service",
+      "sourceChecksum": "7d1eace67985a48a4fe93740c1c179aa91ed032056e569ff9057f23962ad37fd",
+      "migrationTimestamp": "2026-08-15T12:12:07.935Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

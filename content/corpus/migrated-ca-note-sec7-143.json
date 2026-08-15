@@ -1,0 +1,60 @@
+{
+  "id": "migrated-ca-note-sec7-143",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Google Named India's Most Attractive Employer Brand in REBR 2026 Report",
+  "summary": "Randstad Employer Brand Research 2026 ranking (followed by Tata Group and Amazon).",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Randstad Employer Brand Research 2026 ranking (followed by Tata Group and Amazon)."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Google ranked India's Most Attractive Employer Brand 2026 in Randstad Employer Brand Research (REBR) report.",
+        "Followed by Tata Consultancy Services (TCS) at #2 and Microsoft India at #3."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Award Title",
+        "Recipient / Winner",
+        "Conferred By / Key Detail"
+      ],
+      "rows": [
+        [
+          "Google Named India's Most Attractive Employer Brand in REBR 2026 Report",
+          "Google ranked India's Most Attractive Employer Brand 2026 in Randstad Employer Brand Research (REBR) report.",
+          "Annual Recognition"
+        ]
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec7",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-06",
+    "category": "SEC7",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:07.934Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec7-143",
+      "sourceTitle": "Google Named India's Most Attractive Employer Brand in REBR 2026 Report",
+      "sourceChecksum": "90678ffc24daee3856b0d02bb32cb99fb86e37116a919055b48d64d93759bf72",
+      "migrationTimestamp": "2026-08-15T12:12:07.934Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}
