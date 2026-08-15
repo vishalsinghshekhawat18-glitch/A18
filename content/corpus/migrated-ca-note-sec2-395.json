@@ -59,14 +59,14 @@
     "date": "2026-06-17",
     "category": "SEC2",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:00.122Z",
+    "lastUpdated": "2026-08-15T12:18:04.452Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "ca_app/data.js",
       "sourceId": "note-sec2-395",
       "sourceTitle": "SEBI Introduces Dynamic Price Bands for Equity & Commodity ETFs (Effective Sept 1, 2026)",
       "sourceChecksum": "c2495530bf94255e311ee913354e4424757f9a1f81f554feac84df2742f27e89",
-      "migrationTimestamp": "2026-08-15T12:14:00.122Z",
+      "migrationTimestamp": "2026-08-15T12:18:04.452Z",
       "normalizationRuleVersion": "1.0.0-phase4"
     }
   }
