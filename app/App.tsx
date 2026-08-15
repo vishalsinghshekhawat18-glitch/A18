@@ -2,6 +2,7 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import { KnowledgeItem } from '../schema/knowledge-item';
 import { parseHash, buildHash, RouteState } from './navigation/router';
+import { isItemInSubject } from './navigation/subjectMapper';
 import { NavSidebar } from './navigation/NavSidebar';
 import { CommandCenterHome } from './hubs/CommandCenterHome';
 import { ReaderShell } from './reader/ReaderShell';
@@ -86,21 +87,7 @@ export const App: React.FC = () => {
 
   // Active Item Resolution
   const resolveItemForSubject = (subId: string): KnowledgeItem => {
-    const matched = allCorpusMap.filter(i => {
-      if (subId === 'economics') return i.domain === 'economics' || i.id.includes('eco-ch');
-      if (subId === 'polity') return i.domain === 'polity' || i.id.includes('pol-ch');
-      if (subId === 'history') return i.domain === 'history' || i.id.includes('his-ch');
-      if (subId === 'geography') return i.domain === 'geography' || i.id.includes('geo-ch');
-      if (subId === 'science') return i.domain === 'science' || i.id.includes('sci-ch');
-      if (subId === 'revision') return i.domain === 'revision' || i.id.includes('rev-ch');
-      if (subId === 'current-affairs') return i.domain === 'current-affairs' && !i.id.includes('scheme');
-      if (subId === 'schemes') return i.id.includes('scheme');
-      if (subId === 'static-ga') return i.domain === 'static-ga' || i.id.includes('static');
-      if (subId === 'quant') return i.domain === 'quant' && !i.id.includes('pyq');
-      if (subId === 'pyqs') return i.domain === 'pyqs' || i.id.includes('pyq');
-      return i.domain === subId;
-    });
-
+    const matched = allCorpusMap.filter(i => isItemInSubject(i, subId));
     return matched[0] || allCorpusMap[0];
   };
 

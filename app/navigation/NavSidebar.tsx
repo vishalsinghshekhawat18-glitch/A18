@@ -1,5 +1,6 @@
 import React from 'react';
 import { KnowledgeItem } from '../../schema/knowledge-item';
+import { isItemInSubject } from './subjectMapper';
 
 interface Props {
   items: KnowledgeItem[];
@@ -51,20 +52,7 @@ export const NavSidebar: React.FC<Props> = ({
   // Filter items if inside a subject or reader
   const targetSubject = activeSubjectId || (activeItemId ? items.find(i => i.id === activeItemId)?.domain : undefined);
 
-  const contextItems = targetSubject ? items.filter(i => {
-    if (targetSubject === 'economics') return i.domain === 'economics' || i.id.includes('eco-ch');
-    if (targetSubject === 'polity') return i.domain === 'polity' || i.id.includes('pol-ch');
-    if (targetSubject === 'history') return i.domain === 'history' || i.id.includes('his-ch');
-    if (targetSubject === 'geography') return i.domain === 'geography' || i.id.includes('geo-ch');
-    if (targetSubject === 'science') return i.domain === 'science' || i.id.includes('sci-ch');
-    if (targetSubject === 'revision') return i.domain === 'revision' || i.id.includes('rev-ch');
-    if (targetSubject === 'current-affairs') return i.domain === 'current-affairs' && !i.id.includes('scheme');
-    if (targetSubject === 'schemes') return i.id.includes('scheme');
-    if (targetSubject === 'static-ga') return i.domain === 'static-ga' || i.id.includes('static');
-    if (targetSubject === 'quant') return i.domain === 'quant' && !i.id.includes('pyq');
-    if (targetSubject === 'pyqs') return i.domain === 'pyqs' || i.id.includes('pyq');
-    return i.domain === targetSubject;
-  }) : [];
+  const contextItems = targetSubject ? items.filter(i => isItemInSubject(i, targetSubject)) : [];
 
   return (
     <>
