@@ -1,11 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400..700;1,7..72,400..700&family=Source+Sans+3:ital,wght@0,400..700;1,400..700&display=swap');
+
 /* ==========================================================================
-   BANKING COMMAND CENTER — KINDLE-FIRST DESIGN SYSTEM (V1.0)
-   Default Kindle Reading Aesthetic: Warm off-white paper & charcoal typography
-   Zero external network font dependencies (System web-safe stack)
+   BANKING COMMAND CENTER — KINDLE SEPIA DESIGN SYSTEM (V2.0)
+   Default Kindle Sepia Theme: Warm sepia paper (#f4ecd8) & deep sepia-charcoal typography (#2c221a)
+   Typography: Google Literata / Bookerly / Palatino font stack
    ========================================================================== */
 
 :root {
-  /* Color Palette — Kindle Warm Paper & Deep Charcoal */
+  /* Default Theme: Kindle Sepia */
+  --bg-reading-paper: #f4ecd8;
+  --bg-sidebar: #e8dfc8;
+  --bg-card: #fdfaf3;
+  --bg-accent-subtle: #e6dac1;
+  --bg-warning-subtle: #ebdcb9;
+  
+  --text-primary: #2c221a;
+  --text-secondary: #5a4c3e;
+  --text-muted: #7d6d5c;
+  --text-accent: #6b4d24;
+  --text-warning: #824700;
+
+  --border-subtle: #d9ccb0;
+  --border-strong: #bfae8e;
+  --border-warning: #c28928;
+
+  /* Kindle Typography Stack */
+  --font-reading: "Literata", "Bookerly", "Palatino Linotype", "Palatino", "Georgia", "Cambria", serif;
+  --font-ui: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-mono: SFMono-Regular, Consolas, "Liberation Mono", Menlo, Courier, monospace;
+
+  /* Dynamic Reading Controls Defaults */
+  --reading-font-size: 18px;
+  --reading-line-height: 1.7;
+  --reading-max-width: 68ch;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 3px rgba(44, 34, 26, 0.06);
+  --shadow-md: 0 4px 6px -1px rgba(44, 34, 26, 0.09);
+}
+
+/* Theme Variant 1: Kindle Warm Paper */
+[data-theme="warm"] {
   --bg-reading-paper: #fbf9f5;
   --bg-sidebar: #f2eee5;
   --bg-card: #ffffff;
@@ -21,20 +56,44 @@
   --border-subtle: #e5dec9;
   --border-strong: #c2b69d;
   --border-warning: #e09f3e;
+}
 
-  /* Typography Stack — Fully Offline Capable */
-  --font-reading: "Georgia", "Cambria", "Times New Roman", Times, serif;
-  --font-ui: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  --font-mono: SFMono-Regular, Consolas, "Liberation Mono", Menlo, Courier, monospace;
+/* Theme Variant 2: Kindle Sepia (Explicit) */
+[data-theme="sepia"] {
+  --bg-reading-paper: #f4ecd8;
+  --bg-sidebar: #e8dfc8;
+  --bg-card: #fdfaf3;
+  --bg-accent-subtle: #e6dac1;
+  --bg-warning-subtle: #ebdcb9;
+  
+  --text-primary: #2c221a;
+  --text-secondary: #5a4c3e;
+  --text-muted: #7d6d5c;
+  --text-accent: #6b4d24;
+  --text-warning: #824700;
 
-  /* Dynamic Reading Controls Defaults */
-  --reading-font-size: 18px;
-  --reading-line-height: 1.7;
-  --reading-max-width: 68ch;
+  --border-subtle: #d9ccb0;
+  --border-strong: #bfae8e;
+  --border-warning: #c28928;
+}
 
-  /* Shadows */
-  --shadow-sm: 0 1px 3px rgba(0,0,0,0.05);
-  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.08);
+/* Theme Variant 3: Kindle Night */
+[data-theme="night"] {
+  --bg-reading-paper: #1c1b18;
+  --bg-sidebar: #151412;
+  --bg-card: #252320;
+  --bg-accent-subtle: #332f29;
+  --bg-warning-subtle: #3d3424;
+  
+  --text-primary: #e6decb;
+  --text-secondary: #b3a996;
+  --text-muted: #8c8270;
+  --text-accent: #d9ab66;
+  --text-warning: #f2ba52;
+
+  --border-subtle: #3b352b;
+  --border-strong: #594f41;
+  --border-warning: #9e7529;
 }
 
 body {
@@ -43,6 +102,7 @@ body {
   font-family: var(--font-reading);
   font-size: var(--reading-font-size);
   line-height: var(--reading-line-height);
+  transition: background-color 0.2s ease, color 0.2s ease;
 }
 
 /* App Shell Layout */
@@ -547,10 +607,15 @@ body {
   font-size: 0.85rem;
   cursor: pointer;
   color: var(--text-primary);
+  transition: all 0.15s ease;
+}
 
-  &:hover {
-    border-color: var(--border-strong);
-  }
+.btn-control:hover,
+.btn-control.active-theme {
+  border-color: var(--border-strong);
+  background-color: var(--bg-accent-subtle);
+  color: var(--text-accent);
+  font-weight: 700;
 }
 
 .btn-search {

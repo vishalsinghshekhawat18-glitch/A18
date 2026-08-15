@@ -5,7 +5,7 @@ import { parseHash, buildHash, RouteState } from './navigation/router';
 import { NavSidebar } from './navigation/NavSidebar';
 import { CommandCenterHome } from './hubs/CommandCenterHome';
 import { ReaderShell } from './reader/ReaderShell';
-import { ReadingControls } from './reader/ReadingControls';
+import { ReadingControls, ReadingTheme } from './reader/ReadingControls';
 import { SearchModal } from './search/SearchModal';
 import { FlexSearchProvider } from './search/FlexSearchProvider';
 
@@ -53,14 +53,20 @@ export const App: React.FC = () => {
     return deduplicateKnowledgeItems(rawModulesList);
   }, []);
 
-  // Routing State
+  // Routing State & Reading Controls State
   const [routeState, setRouteState] = useState<RouteState>(() => parseHash(window.location.hash));
   const [fontSize, setFontSize] = useState<number>(18);
+  const [theme, setTheme] = useState<ReadingTheme>('sepia');
   const [isSearchOpen, setIsSearchOpen] = useState<boolean>(false);
   const [isOpenMobile, setIsOpenMobile] = useState<boolean>(false);
   const [lastOpenedItemId, setLastOpenedItemId] = useState<string | null>(() => {
     return localStorage.getItem('bcc_last_opened_item');
   });
+
+  // Apply theme to document root
+  useEffect(() => {
+    document.documentElement.setAttribute('data-theme', theme);
+  }, [theme]);
 
   // Handle Hash Changes
   useEffect(() => {
@@ -157,7 +163,9 @@ export const App: React.FC = () => {
       <div className="main-content">
         <ReadingControls
           fontSize={fontSize}
+          theme={theme}
           onFontSizeChange={setFontSize}
+          onThemeChange={setTheme}
           onOpenSearch={() => setIsSearchOpen(true)}
           onToggleMobileMenu={() => setIsOpenMobile(!isOpenMobile)}
         />

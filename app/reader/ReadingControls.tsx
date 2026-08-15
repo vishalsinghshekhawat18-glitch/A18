@@ -1,15 +1,21 @@
 import React from 'react';
 
+export type ReadingTheme = 'sepia' | 'warm' | 'night';
+
 interface Props {
   fontSize: number;
+  theme: ReadingTheme;
   onFontSizeChange: (newSize: number) => void;
+  onThemeChange: (theme: ReadingTheme) => void;
   onOpenSearch: () => void;
   onToggleMobileMenu: () => void;
 }
 
 export const ReadingControls: React.FC<Props> = ({
   fontSize,
+  theme,
   onFontSizeChange,
+  onThemeChange,
   onOpenSearch,
   onToggleMobileMenu
 }) => {
@@ -24,7 +30,7 @@ export const ReadingControls: React.FC<Props> = ({
           ☰
         </button>
         <div className="reader-header-title">
-          🏛️ Banking Command Center | Exam Study System
+          🏛️ Banking Command Center | Kindle Reading Mode
         </div>
       </div>
 
@@ -33,6 +39,33 @@ export const ReadingControls: React.FC<Props> = ({
           🔍 <span>Search</span> <kbd className="search-kbd">Ctrl+K</kbd>
         </button>
 
+        {/* Theme Selector */}
+        <div className="control-group">
+          <span>Theme:</span>
+          <button
+            className={`btn-control ${theme === 'sepia' ? 'active-theme' : ''}`}
+            onClick={() => onThemeChange('sepia')}
+            title="Kindle Sepia"
+          >
+            📜 Sepia
+          </button>
+          <button
+            className={`btn-control ${theme === 'warm' ? 'active-theme' : ''}`}
+            onClick={() => onThemeChange('warm')}
+            title="Kindle Warm Paper"
+          >
+            📄 Warm
+          </button>
+          <button
+            className={`btn-control ${theme === 'night' ? 'active-theme' : ''}`}
+            onClick={() => onThemeChange('night')}
+            title="Kindle Night"
+          >
+            🌙 Night
+          </button>
+        </div>
+
+        {/* Font Controls */}
         <div className="control-group">
           <span>Font:</span>
           <button className="btn-control" onClick={() => onFontSizeChange(Math.max(14, fontSize - 1))}>A-</button>
