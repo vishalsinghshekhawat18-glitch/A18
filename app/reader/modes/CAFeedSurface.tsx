@@ -1,8 +1,9 @@
-import React, { useEffect, useRef } from 'react';
+import React, { useEffect, useRef, useMemo } from 'react';
 import { KnowledgeItem, SemanticBlock } from '../../../schema/knowledge-item';
 import { BlockRenderer } from '../../components/renderers/BlockRenderer';
 import { formatInlineText } from '../../components/renderers/formatInline';
 import { RelationshipLinks } from '../RelationshipLinks';
+import { isItemInSubject, groupCAItemsByMonth } from '../../navigation/subjectMapper';
 
 interface Props {
   activeItemId: string;
@@ -17,8 +18,16 @@ export const CAFeedSurface: React.FC<Props> = ({
   fontSize,
   onNavigateItem
 }) => {
-  // Extract all Current Affairs notes for continuous feed stream
-  const caNotes = allItems.filter(i => i.domain === 'current-affairs' && !i.id.includes('scheme'));
+  // Extract all Current Affairs notes for continuous feed stream (505 canonical items)
+  const caNotes = useMemo(() => {
+    return allItems.filter(i => isItemInSubject(i, 'current-affairs'));
+  }, [allItems]);
+
+  // Dynamically group notes into month/year sections (Newest month first)
+  const monthGroups = useMemo(() => {
+    return groupCAItemsByMonth(caNotes);
+  }, [caNotes]);
+
   const highlightedRef = useRef<string | null>(null);
 
   // Smooth-scroll & highlight target card when activeItemId changes
@@ -39,6 +48,8 @@ export const CAFeedSurface: React.FC<Props> = ({
     return () => clearTimeout(timer);
   }, [activeItemId]);
 
+  let globalNoteIdx = 0;
+
   return (
     <div className="layout-ca-feed-surface">
       <div className="ca-feed-container" style={{ fontSize: `${fontSize}px` }}>
@@ -46,67 +57,102 @@ export const CAFeedSurface: React.FC<Props> = ({
         <header className="ca-feed-header-compact">
           <div className="ca-feed-badge-row">
             <span className="ca-feed-domain-badge">📰 CURRENT AFFAIRS BRIEFING STREAM</span>
-            <span className="ca-feed-count-badge">August 2026 • {caNotes.length} High-Yield Notes</span>
+            <span className="ca-feed-count-badge">{caNotes.length} High-Yield Notes • {monthGroups.length} Months</span>
           </div>
-          <h1 className="ca-feed-title-compact">August 2026 Continuous Briefing Stream</h1>
+          <h1 className="ca-feed-title-compact">Continuous Banking & Financial CA Feed</h1>
         </header>
 
-        {/* Continuous Feed Stream Stack */}
+        {/* Continuous Feed Stream Stack Divided by Month Sections */}
         <div className="ca-feed-stream-stack">
-          {caNotes.map((item, idx) => {
-            const mainBlocks = item.blocks.filter((b: SemanticBlock) => b.type === 'paragraph' || b.type === 'bullet_list' || b.type === 'table' || b.type === 'comparison' || b.type === 'heading' || b.type === 'statistic' || b.type === 'timeline');
-            const annotationBlocks = item.blocks.filter((b: SemanticBlock) => b.type === 'key_concept' || b.type === 'exam_trap' || b.type === 'quote');
-
-            const isTarget = item.id === activeItemId;
-
-            return (
-              <article
-                key={item.id}
-                id={item.id}
-                className={`ca-feed-card-compact ${isTarget ? 'is-active-target' : ''}`}
-              >
-                {/* Card Header & Title */}
-                <div className="ca-card-header-compact">
-                  <div className="ca-card-meta-bar">
-                    <span className="ca-card-num">NOTE #{idx + 1}</span>
-                    {item.metadata?.date && <span className="ca-date-chip">📅 {item.metadata.date}</span>}
-                    {item.metadata?.category && <span className="ca-category-chip">{item.metadata.category}</span>}
-                  </div>
-
-                  <h2 className="ca-card-title-compact">{item.title}</h2>
-
-                  {item.summary && (
-                    <div className="ca-card-hook-compact">
-                      <span className="ca-hook-label">EXECUTIVE BRIEFING:</span> {formatInlineText(item.summary)}
-                    </div>
-                  )}
+          {monthGroups.map(group => (
+            <section
+              key={group.monthKey}
+              id={`month-section-${group.monthKey}`}
+              className="ca-month-section"
+            >
+              {/* Section Divider / Month Header */}
+              <div className="ca-month-header">
+                <div className="ca-month-title-row">
+                  <span className="ca-month-icon">📅</span>
+                  <span className="ca-month-title">{group.monthLabel}</span>
+                  <span className="ca-month-count-badge">{group.items.length} Briefings</span>
                 </div>
+              </div>
 
-                {/* Main News Content (Full Width Unobstructed Reading) */}
-                <div className="ca-main-news-content">
-                  {mainBlocks.map((block: SemanticBlock, bIdx: number) => (
-                    <BlockRenderer key={bIdx} block={block} blockIndex={bIdx} />
-                  ))}
-                </div>
+              {/* Month Cards Stack */}
+              <div className="ca-month-cards-stack">
+                {group.items.map(item => {
+                  globalNoteIdx += 1;
+                  const noteNumber = globalNoteIdx;
 
-                {/* Supporting Annotation Blocks Placed BELOW Main News Item (Compact Typography) */}
-                {annotationBlocks.length > 0 && (
-                  <div className="ca-bottom-annotations-container">
-                    {annotationBlocks.map((block: SemanticBlock, bIdx: number) => (
-                      <BlockRenderer key={bIdx} block={block} blockIndex={100 + bIdx} />
-                    ))}
-                  </div>
-                )}
+                  const mainBlocks = item.blocks.filter(
+                    (b: SemanticBlock) =>
+                      b.type === 'paragraph' ||
+                      b.type === 'bullet_list' ||
+                      b.type === 'table' ||
+                      b.type === 'comparison' ||
+                      b.type === 'heading' ||
+                      b.type === 'statistic' ||
+                      b.type === 'timeline'
+                  );
+                  const annotationBlocks = item.blocks.filter(
+                    (b: SemanticBlock) =>
+                      b.type === 'key_concept' || b.type === 'exam_trap' || b.type === 'quote'
+                  );
 
-                {/* Relationships if present */}
-                <RelationshipLinks
-                  relationships={item.relationships}
-                  allItems={allItems}
-                  onNavigate={onNavigateItem}
-                />
-              </article>
-            );
-          })}
+                  const isTarget = item.id === activeItemId;
+
+                  return (
+                    <article
+                      key={item.id}
+                      id={item.id}
+                      className={`ca-feed-card-compact ${isTarget ? 'is-active-target' : ''}`}
+                    >
+                      {/* Card Header & Title */}
+                      <div className="ca-card-header-compact">
+                        <div className="ca-card-meta-bar">
+                          <span className="ca-card-num">NOTE #{noteNumber}</span>
+                          {item.metadata?.date && <span className="ca-date-chip">📅 {item.metadata.date}</span>}
+                          {item.metadata?.category && <span className="ca-category-chip">{item.metadata.category}</span>}
+                        </div>
+
+                        <h2 className="ca-card-title-compact">{item.title}</h2>
+
+                        {item.summary && (
+                          <div className="ca-card-hook-compact">
+                            <span className="ca-hook-label">EXECUTIVE BRIEFING:</span> {formatInlineText(item.summary)}
+                          </div>
+                        )}
+                      </div>
+
+                      {/* Main News Content */}
+                      <div className="ca-main-news-content">
+                        {mainBlocks.map((block: SemanticBlock, bIdx: number) => (
+                          <BlockRenderer key={bIdx} block={block} blockIndex={bIdx} />
+                        ))}
+                      </div>
+
+                      {/* Supporting Annotation Blocks Placed BELOW Main News Item */}
+                      {annotationBlocks.length > 0 && (
+                        <div className="ca-bottom-annotations-container">
+                          {annotationBlocks.map((block: SemanticBlock, bIdx: number) => (
+                            <BlockRenderer key={bIdx} block={block} blockIndex={100 + bIdx} />
+                          ))}
+                        </div>
+                      )}
+
+                      {/* Relationships if present */}
+                      <RelationshipLinks
+                        relationships={item.relationships}
+                        allItems={allItems}
+                        onNavigate={onNavigateItem}
+                      />
+                    </article>
+                  );
+                })}
+              </div>
+            </section>
+          ))}
         </div>
       </div>
     </div>

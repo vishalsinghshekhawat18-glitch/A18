@@ -1,6 +1,6 @@
-import React from 'react';
+import React, { useMemo } from 'react';
 import { KnowledgeItem } from '../../schema/knowledge-item';
-import { isItemInSubject } from './subjectMapper';
+import { isItemInSubject, groupCAItemsByMonth } from './subjectMapper';
 
 interface Props {
   items: KnowledgeItem[];
@@ -49,10 +49,27 @@ export const NavSidebar: React.FC<Props> = ({
     if (onCloseMobile) onCloseMobile();
   };
 
+  const handleScrollToMonth = (monthKey: string) => {
+    const el = document.getElementById(`month-section-${monthKey}`);
+    if (el) {
+      el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+    if (onCloseMobile) onCloseMobile();
+  };
+
   // Filter items if inside a subject or reader
   const targetSubject = activeSubjectId || (activeItemId ? items.find(i => i.id === activeItemId)?.domain : undefined);
 
-  const contextItems = targetSubject ? items.filter(i => isItemInSubject(i, targetSubject)) : [];
+  const contextItems = useMemo(() => {
+    return targetSubject ? items.filter(i => isItemInSubject(i, targetSubject)) : [];
+  }, [items, targetSubject]);
+
+  const caMonthGroups = useMemo(() => {
+    if (targetSubject === 'current-affairs') {
+      return groupCAItemsByMonth(contextItems);
+    }
+    return [];
+  }, [targetSubject, contextItems]);
 
   return (
     <>
@@ -107,21 +124,52 @@ export const NavSidebar: React.FC<Props> = ({
             </div>
           )}
 
-          {/* DEPTH 2 & 3: Inside Subject Hub or Reader -> Show Contextual Subject Items Only */}
+          {/* DEPTH 2 & 3: Inside Subject Hub or Reader */}
           {currentNavDepth !== 'home' && (
             <div className="nav-folder-group">
               <div className="nav-section-title">
                 {targetSubject?.toUpperCase() || 'SUBJECT'} INDEX ({contextItems.length})
               </div>
-              {contextItems.map(item => (
-                <button
-                  key={item.id}
-                  className={`nav-item ${activeItemId === item.id ? 'active' : ''}`}
-                  onClick={() => handleSelectItem(item.id)}
-                >
-                  {item.title}
-                </button>
-              ))}
+
+              {/* Special Month-Wise Hierarchy for Current Affairs */}
+              {targetSubject === 'current-affairs' ? (
+                <div className="ca-sidebar-month-groups">
+                  {caMonthGroups.map(group => (
+                    <div key={group.monthKey} className="ca-sidebar-month-block">
+                      <button
+                        className="ca-sidebar-month-header-btn"
+                        onClick={() => handleScrollToMonth(group.monthKey)}
+                      >
+                        <span>📅 {group.monthLabel}</span>
+                        <span className="ca-sidebar-month-badge">{group.items.length}</span>
+                      </button>
+
+                      <div className="ca-sidebar-notes-list">
+                        {group.items.map(item => (
+                          <button
+                            key={item.id}
+                            className={`nav-item ca-note-item ${activeItemId === item.id ? 'active' : ''}`}
+                            onClick={() => handleSelectItem(item.id)}
+                          >
+                            {item.title}
+                          </button>
+                        ))}
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              ) : (
+                /* Standard Subject Index for Non-CA Subjects */
+                contextItems.map(item => (
+                  <button
+                    key={item.id}
+                    className={`nav-item ${activeItemId === item.id ? 'active' : ''}`}
+                    onClick={() => handleSelectItem(item.id)}
+                  >
+                    {item.title}
+                  </button>
+                ))
+              )}
             </div>
           )}
         </nav>

@@ -103,3 +103,51 @@ export function isItemInSubject(item: KnowledgeItem, subjectId: string): boolean
   if (subjectId === 'pyqs') return sys === 'PYQs' || item.domain === 'pyqs';
   return false;
 }
+
+export interface CAMonthGroup {
+  monthKey: string;
+  monthLabel: string;
+  items: KnowledgeItem[];
+}
+
+export function groupCAItemsByMonth(caItems: KnowledgeItem[]): CAMonthGroup[] {
+  const groupsMap = new Map<string, { label: string; items: KnowledgeItem[] }>();
+
+  for (const item of caItems) {
+    const dateStr = item.metadata?.date || '';
+    let monthKey = '9999-99';
+    let monthLabel = 'OTHER BRIEFINGS';
+
+    if (dateStr && dateStr.match(/^\d{4}-\d{2}-\d{2}$/)) {
+      const [y, m] = dateStr.split('-');
+      monthKey = `${y}-${m}`;
+      const dObj = new Date(parseInt(y, 10), parseInt(m, 10) - 1, 1);
+      const mName = dObj.toLocaleString('en-US', { month: 'long' });
+      monthLabel = `${mName.toUpperCase()} ${y}`;
+    }
+
+    if (!groupsMap.has(monthKey)) {
+      groupsMap.set(monthKey, { label: monthLabel, items: [] });
+    }
+    groupsMap.get(monthKey)!.items.push(item);
+  }
+
+  // Sort keys descending (newest month first: 2026-08, 2026-07, 2026-06...)
+  const sortedKeys = Array.from(groupsMap.keys()).sort((a, b) => b.localeCompare(a));
+
+  return sortedKeys.map(key => {
+    const group = groupsMap.get(key)!;
+    // Within each month, keep items in clean date/chronological order (newest date first)
+    const sortedItems = [...group.items].sort((a, b) => {
+      const dA = a.metadata?.date || '';
+      const dB = b.metadata?.date || '';
+      return dB.localeCompare(dA);
+    });
+
+    return {
+      monthKey: key,
+      monthLabel: group.label,
+      items: sortedItems
+    };
+  });
+}
