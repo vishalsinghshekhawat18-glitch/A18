@@ -1,0 +1,117 @@
+{
+  "id": "migrated-core-eco-ch-33",
+  "type": "chapter",
+  "domain": "economics",
+  "title": "33. Monetary Policy Instruments: Quantitative vs. Qualitative Tools",
+  "summary": "RBI regulates money supply and credit through quantitative liquidity controls (Repo, CRR, SLR, OMO) and qualitative credit allocation tools.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "First-Principles Core Truth",
+      "summary": "RBI regulates money supply and credit through quantitative liquidity controls (Repo, CRR, SLR, OMO) and qualitative credit allocation tools."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧠 Visual Mind Map & Structural Diagram"
+    },
+    {
+      "type": "paragraph",
+      "content": "🗺️ RBI Monetary Policy Toolkit Architecture"
+    },
+    {
+      "type": "paragraph",
+      "content": "1. Quantitative Tools (General Credit Control): Affect total volume of money supply: Repo Rate | Standing Deposit Facility (SDF) | Marginal Standing Facility (MSF) | CRR | SLR | Open Market Operations (OMO)."
+    },
+    {
+      "type": "paragraph",
+      "content": "2. Liquidity Corridor (LAF): Ceiling = **MSF Rate** (Repo + 0.25%) | Floor = **SDF Rate** (Repo - 0.25%). SDF requires **NO collateral**!"
+    },
+    {
+      "type": "paragraph",
+      "content": "3. Statutory Reserves: Cash Reserve Ratio (**CRR** - cash held with RBI, zero interest) & Statutory Liquidity Ratio (**SLR** - liquid assets held with banks)."
+    },
+    {
+      "type": "paragraph",
+      "content": "4. Qualitative Tools (Selective Credit Control): Affect direction and allocation of credit: Margin Requirements | Moral Suasion | Credit Rationing."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚡ 1. Quantitative Instruments Comparison Matrix\n| Instrument | Legal Definition / Mechanism | Collateral Needed? | Interest Paid by RBI? |\n|---|---|---|---|\n| **Repo Rate** | Rate at which RBI lends short-term money to banks against Govt securities | **YES** (Approved G-Secs) | N/A (Bank pays Repo interest to RBI) |\n| **Standing Deposit Facility (SDF)** | Floor rate at which RBI absorbs excess liquidity from banks | **NO Collateral Needed!** | YES (RBI pays SDF interest to banks) |\n| **Marginal Standing Facility (MSF)** | Emergency overnight lending rate for banks dipping into SLR quota | **YES** (Dips into SLR portfolio) | N/A (Bank pays MSF interest to RBI) |\n| **Cash Reserve Ratio (CRR)** | Share of NDTL banks must deposit as cash with RBI | N/A (Cash reserve) | **ZERO Interest** paid by RBI! |\n| **Statutory Liquidity Ratio (SLR)** | Share of NDTL banks must maintain in gold, cash, or approved G-Secs | N/A (Self-maintained) | Banks earn yield on G-Sec holdings |"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📖 2. Monetary Policy Committee (MPC) Architecture\n- **Composition:** **6 Members** (3 from RBI: Governor + Deputy Governor + 1 RBI Officer; 3 external experts appointed by Central Govt).\n- **Chairmanship:** RBI Governor (holds casting vote in case of tie).\n- **Mandate:** Meets at least **4 times a year** to fix Policy Repo Rate for maintaining CPI inflation target ($4% pm 2%$)."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** RBI pays **ZERO interest** to commercial banks on their mandatory Cash Reserve Ratio (CRR) deposits!\n- ⚠️ **Exam Trap 2:** Standing Deposit Facility (SDF) introduced in April 2022 allows RBI to absorb liquidity **without providing government securities as collateral**."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 4. Chapter-Specific Active Recall & Practice Questions"
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which monetary policy instrument introduced by RBI in 2022 allows it to absorb excess liquidity from commercial banks WITHOUT providing government securities as collateral?  \n(A) Reverse Repo Rate  \n(B) Standing Deposit Facility (SDF)  \n(C) Open Market Operations (OMO)  \n(D) Marginal Standing Facility (MSF)  \n**Answer:** **(B)** — SDF is a collateral-free liquidity absorption tool."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** RBI increases CRR from 4.5% to 5.0% and conducts OMO sales of government bonds worth ₹20,000 Crore. Explain the impact on bank lending capacity and market interest rates.  \n**Resolution:** Both actions extract liquidity from the banking system. Bank lending capacity contracts, causing short-term market interest rates to **rise**."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Examine the quantitative and qualitative tools of monetary policy. How does the Liquidity Adjustment Facility (LAF) corridor maintain interest rate stability in India?'*"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "UPSC",
+      "RBI Grade B"
+    ],
+    "tags": [
+      "Monetary Policy",
+      "Repo",
+      "Reverse Repo",
+      "SDF",
+      "MSF",
+      "CRR",
+      "SLR",
+      "OMO",
+      "Moral Suasion",
+      "MPC"
+    ],
+    "category": "Book I: Foundations of Economics & National Income",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T09:01:24.628Z",
+    "provenance": {
+      "sourceSystem": "Core",
+      "sourceFile": "index.html (rawBookData)",
+      "sourceId": "eco-ch-33",
+      "sourceTitle": "33. Monetary Policy Instruments: Quantitative vs. Qualitative Tools",
+      "sourceChecksum": "ab905215c7593925d43ae0020340a5e84142e93c4ec933606ea8077306a2ed52",
+      "migrationTimestamp": "2026-08-15T09:01:24.628Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

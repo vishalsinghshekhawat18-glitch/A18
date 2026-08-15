@@ -1,0 +1,125 @@
+{
+  "id": "migrated-core-eco-ch-42",
+  "type": "chapter",
+  "domain": "economics",
+  "title": "42. Union Budget Architecture & Fiscal Deficit Equations",
+  "summary": "The Union Budget divides into Revenue and Capital accounts, measuring fiscal health through Revenue, Fiscal, and Primary Deficits.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "First-Principles Core Truth",
+      "summary": "The Union Budget divides into Revenue and Capital accounts, measuring fiscal health through Revenue, Fiscal, and Primary Deficits."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧠 Visual Mind Map & Structural Diagram"
+    },
+    {
+      "type": "paragraph",
+      "content": "🗺️ Union Budget Architecture & Deficit Equations"
+    },
+    {
+      "type": "paragraph",
+      "content": "1. Constitutional Provision (Art 112): 'Annual Financial Statement' presented to Parliament."
+    },
+    {
+      "type": "paragraph",
+      "content": "2. Two Main Accounts: **Revenue Account** (Current non-asset creating receipts & expenses) vs **Capital Account** (Asset creating / liability changing receipts & expenses)."
+    },
+    {
+      "type": "paragraph",
+      "content": "3. Fiscal Deficit Formula: $\\text{Fiscal Deficit} = \\text{Total Expenditure} - (\\text{Revenue Receipts} + \\text{Non-Debt Capital Receipts})$. Represents total government borrowing!"
+    },
+    {
+      "type": "paragraph",
+      "content": "4. Primary Deficit Formula: $\\mathbf{\\text{Primary Deficit} = \\text{Fiscal Deficit} - \\text{Net Interest Payments}}$. Measures current fiscal effort excluding past debt interest burden."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚡ 1. Revenue Account vs. Capital Account Matrix\n| Budget Account | Receipts Sub-Category | Expenditure Sub-Category |\n|---|---|---|\n| **Revenue Account** | **Tax Revenue:** Income Tax, GST, Corp Tax\n**Non-Tax Revenue:** Dividends from PSUs/RBI, Interest, User fees | Salaries, Pensions, Interest Payments, Subsidies, Defense operational maintenance |\n| **Capital Account** | **Non-Debt Receipts:** Disinvestment proceeds, Loan recoveries\n**Debt Receipts:** Market borrowings (T-Bills/Bonds), Small Savings | Construction of Highways, Railways, Hospitals, Capital equipment, Loans to States |"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📖 2. The 3 Key Budgetary Deficit Formulas"
+    },
+    {
+      "type": "paragraph",
+      "content": "$$\\mathbf{1. \\text{Revenue Deficit (RD)} = \\text{Revenue Expenditure} - \\text{Revenue Receipts}}$$"
+    },
+    {
+      "type": "paragraph",
+      "content": "$$\\mathbf{2. \\text{Fiscal Deficit (FD)} = \\text{Total Expenditure} - (\\text{Revenue Receipts} + \\text{Non-Debt Capital Receipts})}$$"
+    },
+    {
+      "type": "paragraph",
+      "content": "$$\\mathbf{3. \\text{Primary Deficit (PD)} = \\text{Fiscal Deficit} - \\text{Interest Payments}}$$"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Fiscal Deficit equals total **Government Borrowing Requirement** for the year!\n- ⚠️ **Exam Trap 2:** Disinvestment proceeds are **Capital Receipts**, but they are **NON-DEBT Capital Receipts** (they reduce assets, but do NOT create future debt liability)."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 4. Chapter-Specific Active Recall & Practice Questions"
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which of the following equations correctly defines the Primary Deficit of the Union Government?  \n(A) Revenue Expenditure - Revenue Receipts  \n(B) Fiscal Deficit - Interest Payments  \n(C) Total Expenditure - Total Receipts  \n(D) Budget Deficit + Market Borrowings  \n**Answer:** **(B)** — Primary Deficit = Fiscal Deficit minus Interest Payments."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** In a budget year, Total Government Expenditure is ₹40 Lakh Crore. Revenue Receipts are ₹22 Lakh Crore, Disinvestment proceeds are ₹1 Lakh Crore, and Interest Payments are ₹9 Lakh Crore. Calculate Fiscal Deficit and Primary Deficit.  \n**Resolution:**  \n1. Non-Debt Capital Receipts $= 1\text{ Lakh Cr}$.  \n2. $\text{Fiscal Deficit} = 40 - (22 + 1) = 40 - 23 = \\mathbf{₹17\text{ Lakh Crore}}$.  \n3. $\text{Primary Deficit} = \text{Fiscal Deficit} - \text{Interest Payments} = 17 - 9 = \\mathbf{₹8\text{ Lakh Crore}}$."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Demonstrate the mathematical structure of the Union Budget. Explain the economic significance of Revenue Deficit, Fiscal Deficit, and Primary Deficit.'*"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "UPSC",
+      "RBI Grade B"
+    ],
+    "tags": [
+      "Union Budget",
+      "Fiscal Deficit",
+      "Revenue Deficit",
+      "Primary Deficit",
+      "Capital Receipts",
+      "Article 112"
+    ],
+    "category": "Book V: Inclusive Growth, Financial Inclusion & Welfare Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T09:01:24.630Z",
+    "provenance": {
+      "sourceSystem": "Core",
+      "sourceFile": "index.html (rawBookData)",
+      "sourceId": "eco-ch-42",
+      "sourceTitle": "42. Union Budget Architecture & Fiscal Deficit Equations",
+      "sourceChecksum": "7624180625996e88fdaeef9b1b8027c9b538e975398b8d0acad6cb9ce136b0a6",
+      "migrationTimestamp": "2026-08-15T09:01:24.630Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

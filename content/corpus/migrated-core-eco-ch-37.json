@@ -1,0 +1,114 @@
+{
+  "id": "migrated-core-eco-ch-37",
+  "type": "chapter",
+  "domain": "economics",
+  "title": "37. Specialized Financial Institutions & DFI Architecture",
+  "summary": "Development Financial Institutions (DFIs) provide long-term patient capital for infrastructure and sector development, anchored by NaBFID.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "First-Principles Core Truth",
+      "summary": "Development Financial Institutions (DFIs) provide long-term patient capital for infrastructure and sector development, anchored by NaBFID."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧠 Visual Mind Map & Structural Diagram"
+    },
+    {
+      "type": "paragraph",
+      "content": "🗺️ Development Financial Institutions (DFIs) Hierarchy"
+    },
+    {
+      "type": "paragraph",
+      "content": "1. NABARD (July 12, 1982): Established on B. Sivaraman Committee recommendations (Act 61 of 1981). Apex institution for agriculture and rural credit."
+    },
+    {
+      "type": "paragraph",
+      "content": "2. SIDBI (April 2, 1990): Set up under SIDBI Act 1989 as principal financial institution for MSME sector financing and development."
+    },
+    {
+      "type": "paragraph",
+      "content": "3. EXIM Bank & NHB: EXIM Bank (1982 - foreign trade finance); National Housing Bank (NHB - 1988 - housing finance regulator/refinance)."
+    },
+    {
+      "type": "paragraph",
+      "content": "4. NaBFID (NaBFID Act 2021): National Bank for Financing Infrastructure and Development. Apex DFI set up to fund National Infrastructure Pipeline (NIP)."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚡ 1. Primary Specialized Institutions Matrix\n| Institution | Year & Act | Recommending Committee | Nodal Sector Focus |\n|---|---|---|---|\n| **NABARD** | **1982** (Act 61 of 1981) | B. Sivaraman Committee (CRAFICARD) | Agriculture, Rural Infrastructure (RIDF), Microfinance (SHG-BLP) |\n| **SIDBI** | **1990** (Act 39 of 1989) | Wholly owned subsidiary of IDBI initially | MSME credit, venture capital funds, CGTMSE trustee |\n| **EXIM Bank** | **1982** (Act 28 of 1981) | International Trade Policy Group | Export-Import lines of credit, foreign trade finance |\n| **NHB** | **1988** (Act 53 of 1987) | High-Level Group (C. Rangarajan) | Housing refinance (Regulatory powers transferred to RBI in 2019!) |\n| **NaBFID** | **2021** (Act 17 of 2021) | K.V. Kamath Task Force | Infrastructure long-term patient capital financing |"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📖 2. Rural Infrastructure Development Fund (RIDF)\n- Managed by **NABARD**.\n- Funded by commercial banks that **fail to achieve their Priority Sector Lending (PSL) targets**.\n- Funds low-cost loans to State Governments for rural roads, irrigation, and social infrastructure."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** NABARD was established based on the recommendations of the **B. Sivaraman Committee** (NOT Narasimham Committee!).\n- ⚠️ **Exam Trap 2:** Regulatory powers over National Housing Bank (NHB) were transferred from NHB to **RBI in 2019** under the Finance Act 2019."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 4. Chapter-Specific Active Recall & Practice Questions"
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Based on which committee's recommendations was the National Bank for Agriculture and Rural Development (NABARD) established in 1982?  \n(A) Narasimham Committee  \n(B) B. Sivaraman Committee  \n(C) Y.V. Reddy Committee  \n(D) Urjit Patel Committee  \n**Answer:** **(B)** — B. Sivaraman Committee (CRAFICARD) recommended establishing NABARD."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** A foreign commercial bank operating in India falls short of its 40% PSL target by ₹500 Crore. Where does RBI legally direct these shortfall funds?  \n**Resolution:** RBI directs the shortfall to be deposited into the **Rural Infrastructure Development Fund (RIDF)** managed by NABARD (or small enterprise funds with SIDBI/NHB)."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Evaluate the role of specialized DFIs in India's economic history. Why was NaBFID established in 2021 to address the Asset-Liability Mismatch (ALM) in infrastructure financing?'*"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "UPSC",
+      "RBI Grade B"
+    ],
+    "tags": [
+      "DFIs",
+      "NABARD",
+      "NHB",
+      "SIDBI",
+      "EXIM Bank",
+      "NaBFID Act 2021",
+      "Long-Term Infrastructure Finance"
+    ],
+    "category": "Book IV: Monetary Economics, Inflation & RBI Framework",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T09:01:24.629Z",
+    "provenance": {
+      "sourceSystem": "Core",
+      "sourceFile": "index.html (rawBookData)",
+      "sourceId": "eco-ch-37",
+      "sourceTitle": "37. Specialized Financial Institutions & DFI Architecture",
+      "sourceChecksum": "0134b7ce0793c9cfa07c1d8d81b6c520119a639447f4fd1e4d2d51a3c3ad3fef",
+      "migrationTimestamp": "2026-08-15T09:01:24.629Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

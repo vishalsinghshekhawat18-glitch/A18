@@ -1,0 +1,116 @@
+{
+  "id": "migrated-core-eco-ch-45",
+  "type": "chapter",
+  "domain": "economics",
+  "title": "45. International Economic Institutions: IMF, World Bank, WTO & BRICS Bank",
+  "summary": "Global economic architecture is governed by the IMF for balance of payments, World Bank for development, WTO for trade, and NDB for emerging economies.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "First-Principles Core Truth",
+      "summary": "Global economic architecture is governed by the IMF for balance of payments, World Bank for development, WTO for trade, and NDB for emerging economies."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧠 Visual Mind Map & Structural Diagram"
+    },
+    {
+      "type": "paragraph",
+      "content": "🗺️ Global Multilateral Financial & Trade Institutions"
+    },
+    {
+      "type": "paragraph",
+      "content": "1. IMF (Bretton Woods 1944): International Monetary Fund. Focuses on macroeconomic stability & Balance of Payments emergency loans. Conducts **Article IV Consultations**. Uses **SDRs**."
+    },
+    {
+      "type": "paragraph",
+      "content": "2. World Bank Group (5 Institutions): IBRD (middle-income loans) | IDA ('Soft Loan Window' for poorest nations) | IFC (private sector arm) | MIGA (political risk insurance) | ICSID (dispute settlement - India NOT a member!)."
+    },
+    {
+      "type": "paragraph",
+      "content": "3. WTO Subsidy Boxes (Marrakesh 1995): **Amber Box:** Trade-distorting subsidies (subject to De Minimis caps 5%/10%). **Blue Box:** Amber box subsidies with production limits. **Green Box:** Non-trade distorting (R&D, environmental, direct income support - unrestricted!)."
+    },
+    {
+      "type": "paragraph",
+      "content": "4. New Development Bank (NDB - BRICS): Established in 2014 (Fortaleza Declaration). HQs in **Shanghai**. Equal voting share among 5 founding members ($20%$ each)."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚡ 1. Multilateral Institutions Architectural Comparison\n| Institution | Year & Headquarters | Primary Mandate | India's Voting Share / Status |\n|---|---|---|---|\n| **IMF** | **1944** (Washington D.C.) | Financial stability, BoP crisis support, SDR allocation | Quota: **2.75%** (8th largest quota share) |\n| **World Bank (IBRD/IDA)**| **1944** (Washington D.C.) | Poverty reduction, long-term development projects | 7th largest shareholder in IBRD |\n| **WTO** | **1995** (Geneva) | Rules-based international trade agreements | Founding member; utilizes Peace Clause for food security |\n| **NDB (BRICS Bank)** | **2014** (Shanghai) | Infrastructure & sustainable development funding | **Equal 20% voting power** among founding members |\n| **AIIB** | **2016** (Beijing) | Asian infrastructure financing | 2nd largest shareholder after China |"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📖 2. World Bank Group 5 Organizations Detail\n1. **IBRD (International Bank for Reconstruction and Development):** Lends to creditworthy middle-income governments.\n2. **IDA (International Development Association):** Provides interest-free loans ('credits') and grants to poorest developing countries (**'Soft Loan Window'**).\n3. **IFC (International Finance Corporation):** Lends and invests exclusively in **private sector enterprises** in developing nations.\n4. **MIGA (Multilateral Investment Guarantee Agency):** Provides political risk insurance and credit enhancement to foreign investors.\n5. **ICSID (International Centre for Settlement of Investment Disputes):** Settles investment disputes between foreign investors and host states. ***(NOTE: India is NOT a member of ICSID!)***"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** India is a member of 4 World Bank Group institutions, but is **NOT a member of ICSID** (India considers ICSID rules unfair to developing nations).\n- ⚠️ **Exam Trap 2:** Unlike IMF/World Bank where voting power is proportional to capital quota, in the **BRICS New Development Bank (NDB)**, every founding member has **EQUAL voting rights (no veto power)**!"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 4. Chapter-Specific Active Recall & Practice Questions"
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which of the five World Bank Group organizations is India NOT a member of?  \n(A) International Finance Corporation (IFC)  \n(B) Multilateral Investment Guarantee Agency (MIGA)  \n(C) International Centre for Settlement of Investment Disputes (ICSID)  \n(D) International Development Association (IDA)  \n**Answer:** **(C)** — India is not a signatory to the ICSID Convention."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** Under WTO Agreement on Agriculture rules, Country X provides direct price support for rice amounting to 12% of total production value. Classify this subsidy box and evaluate compliance.  \n**Resolution:** This is an **Amber Box** trade-distorting subsidy. For developing nations, the De Minimis limit is **10%**. Exceeding 10% violates WTO rules unless protected by the **Peace Clause** (Bali Ministerial)."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Evaluate the role of IMF and World Bank in global financial governance. How do emerging institutions like NDB and AIIB challenge traditional Bretton Woods dominance?'*"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "UPSC",
+      "RBI Grade B"
+    ],
+    "tags": [
+      "IMF",
+      "World Bank",
+      "WTO",
+      "BRICS NDB",
+      "Amber Box",
+      "Green Box",
+      "Blue Box",
+      "Quota",
+      "Article IV"
+    ],
+    "category": "Book V: Inclusive Growth, Financial Inclusion & Welfare Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T09:01:24.630Z",
+    "provenance": {
+      "sourceSystem": "Core",
+      "sourceFile": "index.html (rawBookData)",
+      "sourceId": "eco-ch-45",
+      "sourceTitle": "45. International Economic Institutions: IMF, World Bank, WTO & BRICS Bank",
+      "sourceChecksum": "2b4f9361f5e6d8b68721b7609bd401d56c165f9507b89dc911993f4b07d04e17",
+      "migrationTimestamp": "2026-08-15T09:01:24.630Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

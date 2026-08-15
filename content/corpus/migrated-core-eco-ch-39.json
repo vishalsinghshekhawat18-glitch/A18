@@ -1,0 +1,113 @@
+{
+  "id": "migrated-core-eco-ch-39",
+  "type": "chapter",
+  "domain": "economics",
+  "title": "39. Money Market vs. Capital Market Architecture",
+  "summary": "The financial market divides into short-term liquid money markets (<1 year) regulated by RBI and long-term capital markets (>1 year) regulated by SEBI.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "First-Principles Core Truth",
+      "summary": "The financial market divides into short-term liquid money markets (<1 year) regulated by RBI and long-term capital markets (>1 year) regulated by SEBI."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧠 Visual Mind Map & Structural Diagram"
+    },
+    {
+      "type": "paragraph",
+      "content": "🗺️ Money Market vs. Capital Market Governance"
+    },
+    {
+      "type": "paragraph",
+      "content": "1. Money Market (<1 Year Maturity): Short-term debt market for liquidity management. Regulated by **RBI**. Primary instruments: Call Money, T-Bills, CPs, CDs."
+    },
+    {
+      "type": "paragraph",
+      "content": "2. Capital Market (>1 Year Maturity): Long-term market for investment capital. Regulated by **SEBI**. Includes Equity Market and Debt Market."
+    },
+    {
+      "type": "paragraph",
+      "content": "3. Money Market Instruments: Treasury Bills (91, 182, 364 days issued by GoI) | Commercial Paper (CP - issued by corporates) | Certificate of Deposit (CD - issued by banks)."
+    },
+    {
+      "type": "paragraph",
+      "content": "4. Capital Market Division: Primary Market (New Issue Market - IPO/FPO) vs Secondary Market (Stock Exchange trading - NSE/BSE)."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚡ 1. Money Market vs. Capital Market Feature Matrix\n| Parameter | Money Market | Capital Market |\n|---|---|---|\n| **Instrument Maturity** | **Short-term** ($ 1 \text{ Year}$, multi-year / equity perpetual) |\n| **Primary Regulator** | **Reserve Bank of India (RBI)** | **Securities and Exchange Board of India (SEBI)** |\n| **Primary Function** | Liquidity adjustment & working capital funding | Fixed capital formation & long-term investment |\n| **Key Instruments** | Call Money, Treasury Bills, CPs, CDs, TREPS | Equity Shares, Preference Shares, Bonds, Debentures |\n| **Risk & Return** | Low risk, low return, highly liquid | Higher risk, higher return, variable liquidity |"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📖 2. Key Money Market Instruments Detailed\n1. **Treasury Bills (T-Bills):** Issued ONLY by Central Government (not State Govts!) in 3 tenors: **91-day, 182-day, 364-day**. Issued at a discount and redeemed at par (Zero Coupon).\n2. **Commercial Paper (CP):** Unsecured promissory note issued by highly-rated **corporates** to raise short-term working capital (maturity: 7 days to 1 year). Min denomination: ₹5 Lakh.\n3. **Certificate of Deposit (CD):** Negotiable money market instrument issued by **Scheduled Commercial Banks** against deposits (maturity: 7 days to 1 year for banks).\n4. **Call Money / Notice Money:** Inter-bank uncollateralized lending (Call Money = 1 day / overnight; Notice Money = 2 to 14 days; Term Money = $>14$ days)."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Treasury Bills (T-Bills) are issued **ONLY by the Central Government**. State Governments do NOT issue T-Bills; they issue **State Development Loans (SDLs)**!\n- ⚠️ **Exam Trap 2:** Commercial Paper (CP) is issued by **corporates**, whereas Certificate of Deposit (CD) is issued by **banks**."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 4. Chapter-Specific Active Recall & Practice Questions"
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which of the following money market instruments is an unsecured short-term promissory note issued specifically by highly-rated corporate entities?  \n(A) Treasury Bill (T-Bill)  \n(B) Certificate of Deposit (CD)  \n(C) Commercial Paper (CP)  \n(D) Sovereign Gold Bond  \n**Answer:** **(C)** — Commercial Paper is issued by corporates."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** State Government X experiences a 60-day revenue shortfall and proposes issuing 91-day Treasury Bills. Evaluate the statutory validity under RBI regulations.  \n**Resolution:** **INVALID**. State Governments cannot issue T-Bills. State Government X must use **Ways and Means Advances (WMA)** from RBI or issue **State Development Loans (SDLs)**."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Compare the structural functions of the Money Market and Capital Market. Explain the key money market instruments used by RBI and commercial banks for short-term liquidity management.'*"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "UPSC",
+      "RBI Grade B"
+    ],
+    "tags": [
+      "Money Market",
+      "Capital Market",
+      "T-Bills",
+      "Commercial Paper",
+      "Certificate of Deposit",
+      "Primary vs Secondary Market"
+    ],
+    "category": "Book V: International Trade, WTO & Global Architecture",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T09:01:24.629Z",
+    "provenance": {
+      "sourceSystem": "Core",
+      "sourceFile": "index.html (rawBookData)",
+      "sourceId": "eco-ch-39",
+      "sourceTitle": "39. Money Market vs. Capital Market Architecture",
+      "sourceChecksum": "5d37facf9ec14f18476e08b498a42ad7c3ac6e1500fa95734148ce461277f90f",
+      "migrationTimestamp": "2026-08-15T09:01:24.629Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

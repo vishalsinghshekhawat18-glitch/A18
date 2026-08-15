@@ -1,0 +1,114 @@
+{
+  "id": "migrated-core-eco-ch-29",
+  "type": "chapter",
+  "domain": "economics",
+  "title": "29. Exchange Rate Regimes & Rupee Convertibility",
+  "summary": "India operates a managed floating exchange rate regime, maintaining full current account convertibility while managing partial capital account convertibility.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "First-Principles Core Truth",
+      "summary": "India operates a managed floating exchange rate regime, maintaining full current account convertibility while managing partial capital account convertibility."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧠 Visual Mind Map & Structural Diagram"
+    },
+    {
+      "type": "paragraph",
+      "content": "🗺️ Exchange Rate Regimes & Convertibility Architecture"
+    },
+    {
+      "type": "paragraph",
+      "content": "1. Managed Float ('Dirty Float'): Market demand/supply determines exchange rate, but RBI intervenes via OMO forex buys/sells to curb extreme volatility."
+    },
+    {
+      "type": "paragraph",
+      "content": "2. NEER vs. REER: Nominal Effective Exchange Rate (NEER) weighted average of rupee against trade partners. Real Effective Exchange Rate (REER) adjusts NEER for relative inflation differentials ($REER > 100 implies$ Currency Overvalued!)."
+    },
+    {
+      "type": "paragraph",
+      "content": "3. Current Account Convertibility: **Full Convertibility** accepted under IMF Article VIII in August 1994. Freedom to convert rupee for trade and travel."
+    },
+    {
+      "type": "paragraph",
+      "content": "4. Capital Account Convertibility (CAC): **Partial Convertibility**. Governed by S.S. Tarapore Committee preconditions (Fiscal Deficit $"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚡ 1. NEER vs. REER Comparison Matrix\n| Parameter | Nominal Effective Exchange Rate (NEER) | Real Effective Exchange Rate (REER) |\n|---|---|---|\n| **Inflation Adjustment** | **NO** (Unadjusted nominal exchange rates) | **YES** (Adjusted for relative inflation rates between India and trade partners) |\n| **Trade Basket** | RBI 40-currency / 6-currency trade-weighted basket | RBI 40-currency / 6-currency trade-weighted basket |\n| **Competitiveness Interpretation** | Measures pure exchange rate movement | Measures **true trade competitiveness** (REER > 100 means Rupee is overvalued; exports lose competitiveness) |"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📖 2. Current vs. Capital Account Convertibility Status\n- **Current Account Convertibility:** **FULL (100%)**. In August 1994, India accepted **IMF Article VIII obligations**, making Rupee fully convertible for trade in goods/services, interest payments, and remittances.\n- **Capital Account Convertibility:** **PARTIAL**. Controlled under Foreign Exchange Management Act (FEMA 1999).\n- **Liberalised Remittance Scheme (LRS):** Resident individuals can freely remit up to **$250,000 per financial year** for permitted capital or current account transactions (education, medical, investment in stocks/property abroad)."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** A REER value **above 100** indicates that the Indian Rupee is **overvalued** relative to trade partners, making exports less competitive!\n- ⚠️ **Exam Trap 2:** India achieved FULL convertibility on the **Current Account** in 1994, but retains PARTIAL convertibility on the **Capital Account**."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 4. Chapter-Specific Active Recall & Practice Questions"
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Under RBI's Liberalised Remittance Scheme (LRS), what is the maximum annual limit up to which a resident individual can freely remit funds abroad for permitted transactions per financial year?  \n(A) $100,000  \n(B) $250,000  \n(C) $500,000  \n(D) $1,000,000  \n**Answer:** **(B)** — LRS cap is $250,000 per resident individual per financial year."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** India's CPI inflation rate is 6% while US inflation is 2%. If the Rupee-Dollar exchange rate remains static in nominal terms, what happens to REER and export competitiveness?  \n**Resolution:** Higher domestic inflation relative to US inflation causes REER to **increase (overvalue)**, making Indian export goods relatively more expensive and **reducing export competitiveness**."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Distinguish between NEER and REER. Evaluate the Tarapore Committee recommendations for achieving full Capital Account Convertibility in India.'*"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "UPSC",
+      "RBI Grade B"
+    ],
+    "tags": [
+      "Exchange Rate",
+      "NEER",
+      "REER",
+      "Managed Float",
+      "Current Account Convertibility",
+      "Tarapore Committee",
+      "LRS"
+    ],
+    "category": "Book II: Poverty, Inequality & Human Capital",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T09:01:24.628Z",
+    "provenance": {
+      "sourceSystem": "Core",
+      "sourceFile": "index.html (rawBookData)",
+      "sourceId": "eco-ch-29",
+      "sourceTitle": "29. Exchange Rate Regimes & Rupee Convertibility",
+      "sourceChecksum": "adbf21d1cf48b8b07a75a64a675cbb4ab0df3c50fccfb0abe0ce5cdcfee8ed2f",
+      "migrationTimestamp": "2026-08-15T09:01:24.628Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "migrated-core-eco-ch-26",
+  "type": "chapter",
+  "domain": "economics",
+  "title": "26. Services Sector & India's Digital Public Infrastructure (DPI)",
+  "summary": "The services sector contributes over 53% of Indian GVA, powered by Digital Public Infrastructure (India Stack) spanning identity, payments, and open commerce.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "First-Principles Core Truth",
+      "summary": "The services sector contributes over 53% of Indian GVA, powered by Digital Public Infrastructure (India Stack) spanning identity, payments, and open commerce."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧠 Visual Mind Map & Structural Diagram"
+    },
+    {
+      "type": "paragraph",
+      "content": "🗺️ India Stack Architecture & Digital Public Infrastructure (DPI)"
+    },
+    {
+      "type": "paragraph",
+      "content": "1. Identity Layer: **Aadhaar** (UIDAI) providing universal digital biometric identity verification."
+    },
+    {
+      "type": "paragraph",
+      "content": "2. Payments Layer: **UPI** (Unified Payments Interface - NPCI) enabling interoperable real-time mobile payment transfers."
+    },
+    {
+      "type": "paragraph",
+      "content": "3. Data / Consent Layer: **Account Aggregator (AA)** ecosystem regulating consent-based sharing of financial data under RBI license."
+    },
+    {
+      "type": "paragraph",
+      "content": "4. Open Commerce Layer: **ONDC** (Open Network for Digital Commerce) democratizing e-commerce by unbundling buyers and sellers."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚡ 1. Economic Weight & Composition of Services Sector\n- **GVA Contribution:** Accounts for **$>53%$ of India's total Gross Value Added (GVA)**.\n- **Employment Share:** Employs $sim 31%$ of total Indian workforce.\n- **FDI Inflows:** Receives highest share ($>50%$) of total Foreign Direct Investment inflows (Financial, Computer Software/Hardware, Business Services).\n- **Net Services Exports:** Consistently surplus (IT software services, Global Capability Centers GCCs), offsetting a large part of merchandise trade deficit!"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📖 2. India Stack Layers & Key Platforms\n| India Stack Layer | Technology / Protocol | Managing Entity | Key Utility |\n|---|---|---|---|\n| **Identity Layer** | Aadhaar / e-KYC | UIDAI | Digital identity authentication |\n| **Payment Layer** | UPI / IMPS / AePS | NPCI (National Payments Corp of India) | Interoperable instant payments |\n| **Data Empowerment Layer** | Account Aggregator (AA) | RBI-regulated NBFC-AA | Consent-based financial data sharing |\n| **Open Network Layer** | ONDC / Beckn Protocol | DPIIT / Section 8 Non-Profit | Decentralized e-commerce network |"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Account Aggregators (AAs) do **NOT** store or aggregate user financial data on their own servers; they act strictly as **pass-through data conduits** based on explicit user consent!\n- ⚠️ **Exam Trap 2:** NPCI is a **not-for-profit company** set up by RBI and Indian Banks Association (IBA) under the Payment and Settlement Systems Act 2007."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 4. Chapter-Specific Active Recall & Practice Questions"
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which non-profit umbrella organization regulated by RBI developed the Unified Payments Interface (UPI) and RuPay card network?  \n(A) NITI Aayog  \n(B) National Payments Corporation of India (NPCI)  \n(C) Unique Identification Authority of India (UIDAI)  \n(D) Security and Exchange Board of India (SEBI)  \n**Answer:** **(B)** — NPCI developed UPI and RuPay."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** A borrower requests a instant digital loan. Instead of submitting physical bank statements, she grants digital consent via an app to transfer encrypted financial statements. Name the DPI layer.  \n**Resolution:** This is the **Account Aggregator (AA)** framework operating under the Data/Consent Layer of India Stack."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Evaluate the contribution of the services sector to India's GDP and exports. How does Digital Public Infrastructure (DPI) foster financial inclusion and e-commerce democratization through ONDC?'*"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "UPSC",
+      "RBI Grade B"
+    ],
+    "tags": [
+      "Services Sector",
+      "India Stack",
+      "DPI",
+      "Aadhaar",
+      "UPI",
+      "Account Aggregator",
+      "ONDC",
+      "Software Exports"
+    ],
+    "category": "Book IV: Industry, Industrial Policy & Manufacturing",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T09:01:24.624Z",
+    "provenance": {
+      "sourceSystem": "Core",
+      "sourceFile": "index.html (rawBookData)",
+      "sourceId": "eco-ch-26",
+      "sourceTitle": "26. Services Sector & India's Digital Public Infrastructure (DPI)",
+      "sourceChecksum": "3aa5fd889ede06adec4daed33742e45efdcf8cd7cdcc1be9f216d5a9f38250e1",
+      "migrationTimestamp": "2026-08-15T09:01:24.624Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

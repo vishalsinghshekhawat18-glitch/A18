@@ -1,0 +1,155 @@
+{
+  "id": "migrated-core-eco-ch-32",
+  "type": "chapter",
+  "domain": "economics",
+  "title": "32. Money Supply Aggregates (M0, M1, M2, M3, M4)",
+  "summary": "Money supply measures the total stock of monetary assets available in an economy, categorized by RBI across liquidity and broadness spectrums.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "First-Principles Core Truth",
+      "summary": "Money supply measures the total stock of monetary assets available in an economy, categorized by RBI across liquidity and broadness spectrums."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧠 Visual Mind Map & Structural Diagram"
+    },
+    {
+      "type": "paragraph",
+      "content": "🗺️ RBI Money Supply Hierarchy & Liquidity Spectrum"
+    },
+    {
+      "type": "paragraph",
+      "content": "1. High-Powered Money ($M0$ / Reserve Money): $M0 = \\text{Currency in Circulation} + \\text{Bankers' Deposits with RBI} + \\text{'Other' Deposits with RBI}$. Foundation for money creation."
+    },
+    {
+      "type": "paragraph",
+      "content": "2. Narrow Money ($M1$): $M1 = \\text{Currency with Public} + \\text{Demand Deposits with Banking System} + \\text{'Other' Deposits with RBI}$. Highest transaction liquidity."
+    },
+    {
+      "type": "paragraph",
+      "content": "3. Broad Money ($M3$): $M3 = M1 + \\text{Time Deposits with Banking System}$. Primary measure used by RBI for monetary policy formulation."
+    },
+    {
+      "type": "paragraph",
+      "content": "4. Post Office Aggregates ($M2, M4$): $M2 = M1 + \\text{Post Office Savings Deposits}$. $M4 = M3 + \\text{Total Post Office Deposits (excl. NSC)}$."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚡ 1. The Liquidity vs. Broadness Trade-off Spectrum\nMonetary aggregates trade off **Liquidity** (ease of immediate transaction) against **Broadness** (inclusion of interest-bearing savings):"
+    },
+    {
+      "type": "paragraph",
+      "content": "$$\\text{Liquidity Spectrum (Highest to Lowest): } \\mathbf{M1 > M2 > M3 > M4}$$"
+    },
+    {
+      "type": "paragraph",
+      "content": "$$\\text{Broadness Spectrum (Narrowest to Broadest): } \\mathbf{M1 < M2 < M3 < M4}$$"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📖 2. RBI Monetary Aggregates Formula Matrix (1977 Framework)\n| Aggregate Name | Formula / Composition | Primary Economic Characteristics |\n|---|---|---|\n| **$M0$ (Reserve / Base Money)** | $\\text{Currency in Circulation} + \\text{Bankers' Deposits with RBI} + \\text{'Other' Deposits with RBI}$ | Base created directly by Central Bank (High-Powered Money) |\n| **$M1$ (Narrow Money)** | $\\text{Currency with Public} + \\text{Demand Deposits} + \\text{'Other' Deposits with RBI}$ | Highly liquid; used for day-to-day medium of exchange |\n| **$M2$** | $M1 + \\text{Savings Deposits with Post Office Savings Banks}$ | Includes small non-chequable postal savings |\n| **$M3$ (Broad Money)** | $M1 + \\text{Net Time Deposits with Commercial Banking System}$ | **Headline Money Supply measure** used by RBI |\n| **$M4$** | $M3 + \\text{Total Post Office Deposits (Excluding National Savings Certificates)}$ | Broadest measure, least liquid |"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧮 3. New Monetary Aggregates (Y.V. Reddy Working Group, 1998)\nThe 1998 RBI Working Group introduced revised Liquidity Aggregates ($L1, L2, L3$) and Monetary Aggregates ($NM0, NM1, NM2, NM3$):"
+    },
+    {
+      "type": "paragraph",
+      "content": "- **$NM1$:** Currency with Public + Demand Deposits + 'Other' Deposits with RBI.\n- **$NM2$:** $NM1 + \\text{Short-Term Time Deposits (up to 1 year maturity)}$.\n- **$NM3$:** $NM2 + \\text{Long-Term Time Deposits (above 1 year maturity)} + \\text{Call/Term Borrowings of Banking System}$.\n- **$L1$:** $NM3 + \\text{Post Office Deposits (excl. NSC)}$.\n- **$L2$:** $L1 + \\text{Term Deposits/CDs with Financial Institutions (NABARD, NHB, SIDBI, EXIM Bank)}$.\n- **$L3$:** $L2 + \\text{NBFC Public Deposits}$."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🏛️ 4. Money Multiplier ($m$) Calculation\nThe relationship between Reserve Money ($M0$) and Broad Money ($M3$) is mediated by the **Money Multiplier ($m$)**:"
+    },
+    {
+      "type": "paragraph",
+      "content": "$$m = \\frac{M3}{M0}$$"
+    },
+    {
+      "type": "paragraph",
+      "content": "Where $m$ depends on:\n1. **Cash Reserve Ratio ($CRR$):** Inverse relationship ($CRR \\uparrow \\implies m \\downarrow$).\n2. **Currency-Deposit Ratio ($c = C/D$):** If public holds more cash, less money is available for bank credit creation ($c \\uparrow \\implies m \\downarrow$).\n3. **Excess Reserve Ratio ($e = ER/D$):** If banks hold excess reserves, credit creation falls ($e \\uparrow \\implies m \\downarrow$)."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚖️ 5. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** $M1$ includes ONLY Demand Deposits (Current Account & Savings Account CASA demand portion). It does NOT include Fixed Deposits (Time Deposits). Fixed Deposits belong to $M3$!\n- ⚠️ **Exam Trap 2:** $M4$ excludes National Savings Certificates (NSC). It includes all other post office deposits."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 6. Chapter-Specific Active Recall & Practice Questions"
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which monetary aggregate is legally defined as 'Broad Money' ($M3$)?  \n(A) $M1 + \\text{Post Office Savings Deposits}$  \n(B) $M1 + \\text{Time Deposits with Banking System}$  \n(C) $\\text{Currency with Public} + \\text{Demand Deposits}$  \n(D) $M0 + \\text{Total Post Office Deposits}$  \n**Answer:** **(B)** — $M3 = M1 + \\text{Net Time Deposits with Commercial Banks}$."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** Reserve Money ($M0$) in an economy is ₹10,000 Crore. Broad Money ($M3$) is ₹35,000 Crore. If the RBI hikes the Cash Reserve Ratio ($CRR$) from 4% to 5%, what happens to the Money Multiplier ($m$)?  \n**Resolution:** Initial $m = \\frac{35000}{10000} = \\mathbf{3.5}$. Increasing $CRR$ reduces commercial banks' credit creation capacity, causing $m$ to **decrease** below 3.5."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Compare the traditional monetary aggregates (M1-M4) with the Y.V. Reddy Working Group recommendations (NM1-NM3, L1-L3). How does digital currency (e-Rupee / CBDC) impact money multiplier dynamics?'*"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "UPSC",
+      "RBI Grade B"
+    ],
+    "tags": [
+      "Money Supply",
+      "M0",
+      "M1",
+      "M2",
+      "M3",
+      "M4",
+      "Narrow Money",
+      "Broad Money",
+      "YV Reddy Committee",
+      "Liquidity Spectrum"
+    ],
+    "category": "Book I: Foundations of Economics & National Income",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T09:01:24.628Z",
+    "provenance": {
+      "sourceSystem": "Core",
+      "sourceFile": "index.html (rawBookData)",
+      "sourceId": "eco-ch-32",
+      "sourceTitle": "32. Money Supply Aggregates (M0, M1, M2, M3, M4)",
+      "sourceChecksum": "c4bdfbb8251f29ab8ba9b20fffe4a3db8117704b049b9c2fc39a78260edba743",
+      "migrationTimestamp": "2026-08-15T09:01:24.628Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "migrated-core-eco-ch-38",
+  "type": "chapter",
+  "domain": "economics",
+  "title": "38. Financial Inclusion Initiatives & Priority Sector Lending Targets",
+  "summary": "Priority Sector Lending mandates commercial banks to allocate specified credit quotas to vulnerable economic sectors, overseen by RBI.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "First-Principles Core Truth",
+      "summary": "Priority Sector Lending mandates commercial banks to allocate specified credit quotas to vulnerable economic sectors, overseen by RBI."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧠 Visual Mind Map & Structural Diagram"
+    },
+    {
+      "type": "paragraph",
+      "content": "🗺️ Priority Sector Lending (PSL) Targets & Sub-Targets"
+    },
+    {
+      "type": "paragraph",
+      "content": "1. Overall PSL Target: Domestic Commercial Banks & Foreign Banks ($ge 20$ branches): **40% of ANBC**. RRBs & Small Finance Banks (SFBs): **75% of ANBC**."
+    },
+    {
+      "type": "paragraph",
+      "content": "2. Agriculture Sub-Target (18%): Mandatory 18% of ANBC for Agriculture, including **10% sub-target for Small and Marginal Farmers (SMFs)**."
+    },
+    {
+      "type": "paragraph",
+      "content": "3. Micro Enterprises & Weaker Sections: Micro Enterprises: **7.5% of ANBC**. Weaker Sections (SC/ST, SHGs, PwD, SMFs): **12% of ANBC**."
+    },
+    {
+      "type": "paragraph",
+      "content": "4. PSL Certificates (PSLC): Tradable digital certificates on RBI e-Kuber portal allowing banks with excess PSL to sell credits to deficit banks without loan transfer."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚡ 1. Master PSL Targets Comparison Table\n| Bank Category | Overall PSL Target (% of ANBC) | Agriculture Sub-Target | Micro Enterprises Sub-Target | Weaker Sections Sub-Target |\n|---|---|---|---|---|\n| **Domestic Commercial Banks** | **40%** | **18%** (10% for SMFs) | **7.5%** | **12%** |\n| **Foreign Banks ($ge 20$ branches)** | **40%** | 18% | 7.5% | 12% |\n| **Foreign Banks ($<20$ branches)** | **40%** | Flexible allocation | Flexible allocation | Flexible allocation |\n| **Regional Rural Banks (RRBs)** | **75%** | 18% (10% for SMFs) | 7.5% | 15% |\n| **Small Finance Banks (SFBs)** | **75%** | 18% (10% for SMFs) | 7.5% | 12% |"
+    },
+    {
+      "type": "paragraph",
+      "content": "*Note:* ANBC = Adjusted Net Bank Credit (or Credit Equivalent of Off-Balance Sheet Exposure, whichever is higher)."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📖 2. Eligible Priority Sectors (8 Categories)\n1. Agriculture\n2. Micro, Small and Medium Enterprises (MSMEs)\n3. Export Credit\n4. Education\n5. Housing\n6. Social Infrastructure (schools, drinking water, sanitation)\n7. Renewable Energy (solar, wind biomass up to ₹30 Cr)\n8. Weaker Sections"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** RRBs and Small Finance Banks (SFBs) must allocate **75% of ANBC** to priority sectors, compared to 40% for regular commercial banks.\n- ⚠️ **Exam Trap 2:** Trading of PSLCs (Priority Sector Lending Certificates) does NOT transfer the underlying loan assets or risk; it transfers **only the PSL compliance credit**!"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 4. Chapter-Specific Active Recall & Practice Questions"
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** What is the mandatory overall Priority Sector Lending (PSL) target as a percentage of ANBC for Regional Rural Banks (RRBs) and Small Finance Banks (SFBs)?  \n(A) 40% of ANBC  \n(B) 50% of ANBC  \n(C) 60% of ANBC  \n(D) 75% of ANBC  \n**Answer:** **(D)** — RRBs and SFBs have a higher mandatory PSL target of 75% of ANBC."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** Bank X exceeds its Micro Enterprises PSL target by ₹100 Crore, while Bank Y falls short by ₹100 Crore. How can Bank Y achieve compliance without transferring loan accounts?  \n**Resolution:** Bank Y purchases ₹100 Crore of **Micro Enterprise PSLCs** from Bank X via RBI's e-Kuber portal."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Examine the role of Priority Sector Lending (PSL) in directing institutional credit to agriculture and MSMEs. How do PSLCs facilitate market-based compliance?'*"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "UPSC",
+      "RBI Grade B"
+    ],
+    "tags": [
+      "PSL",
+      "Priority Sector Lending",
+      "SFBs",
+      "RRBs",
+      "Agriculture Sub-target",
+      "Small Farmers",
+      "Micro Enterprises"
+    ],
+    "category": "Book IV: Monetary Economics, Inflation & RBI Framework",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T09:01:24.629Z",
+    "provenance": {
+      "sourceSystem": "Core",
+      "sourceFile": "index.html (rawBookData)",
+      "sourceId": "eco-ch-38",
+      "sourceTitle": "38. Financial Inclusion Initiatives & Priority Sector Lending Targets",
+      "sourceChecksum": "30d97db9bb7ce49bbe43d4468e92cf5757f18089c082af784910b7176035d7eb",
+      "migrationTimestamp": "2026-08-15T09:01:24.629Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,11 +1,11 @@
 {
   "version": "1.0.0-phase5",
   "totalItems": 926,
-  "migratedCount": 50,
-  "pendingCount": 876,
+  "migratedCount": 75,
+  "pendingCount": 851,
   "reviewRequiredCount": 0,
   "failedCount": 0,
-  "lastUpdated": "2026-08-15T05:52:10.091Z",
+  "lastUpdated": "2026-08-15T09:01:24.872Z",
   "entries": [
     {
       "sourceSystem": "Core",
@@ -365,9 +365,11 @@
       "sourceDomain": "economics",
       "sourceType": "chapter",
       "sourceChecksum": "3aa5fd889ede06adec4daed33742e45efdcf8cd7cdcc1be9f216d5a9f38250e1",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T09:01:24.661Z",
+      "destinationId": "migrated-core-eco-ch-26",
+      "batchNumber": 3
     },
     {
       "sourceSystem": "Core",
@@ -377,9 +379,11 @@
       "sourceDomain": "economics",
       "sourceType": "chapter",
       "sourceChecksum": "b1df41e6bb8cfa41816168230f415c9121cff9921adac20856b425a67febdae7",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T09:01:24.671Z",
+      "destinationId": "migrated-core-eco-ch-27",
+      "batchNumber": 3
     },
     {
       "sourceSystem": "Core",
@@ -389,9 +393,11 @@
       "sourceDomain": "economics",
       "sourceType": "chapter",
       "sourceChecksum": "bcd9290ab1dddd46308ca5b0b563de77896a17daec3a738ad6c5e411adae65f6",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T09:01:24.682Z",
+      "destinationId": "migrated-core-eco-ch-28",
+      "batchNumber": 3
     },
     {
       "sourceSystem": "Core",
@@ -401,9 +407,11 @@
       "sourceDomain": "economics",
       "sourceType": "chapter",
       "sourceChecksum": "adbf21d1cf48b8b07a75a64a675cbb4ab0df3c50fccfb0abe0ce5cdcfee8ed2f",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T09:01:24.690Z",
+      "destinationId": "migrated-core-eco-ch-29",
+      "batchNumber": 3
     },
     {
       "sourceSystem": "Core",
@@ -413,9 +421,11 @@
       "sourceDomain": "economics",
       "sourceType": "chapter",
       "sourceChecksum": "74e20d6bf7a1f71109ff8111a8de6d5ac0b237f9cb42ca3d27ee189e5b556a7e",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T09:01:24.700Z",
+      "destinationId": "migrated-core-eco-ch-30",
+      "batchNumber": 3
     },
     {
       "sourceSystem": "Core",
@@ -425,9 +435,11 @@
       "sourceDomain": "economics",
       "sourceType": "chapter",
       "sourceChecksum": "23e4de1760aaadbe72ce18f1ebe26ba7008408f0665070704a3c9ba705ffb8af",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T09:01:24.709Z",
+      "destinationId": "migrated-core-eco-ch-31",
+      "batchNumber": 3
     },
     {
       "sourceSystem": "Core",
@@ -437,9 +449,11 @@
       "sourceDomain": "economics",
       "sourceType": "chapter",
       "sourceChecksum": "c4bdfbb8251f29ab8ba9b20fffe4a3db8117704b049b9c2fc39a78260edba743",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T09:01:24.719Z",
+      "destinationId": "migrated-core-eco-ch-32",
+      "batchNumber": 3
     },
     {
       "sourceSystem": "Core",
@@ -449,9 +463,11 @@
       "sourceDomain": "economics",
       "sourceType": "chapter",
       "sourceChecksum": "ab905215c7593925d43ae0020340a5e84142e93c4ec933606ea8077306a2ed52",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T09:01:24.726Z",
+      "destinationId": "migrated-core-eco-ch-33",
+      "batchNumber": 3
     },
     {
       "sourceSystem": "Core",
@@ -461,9 +477,11 @@
       "sourceDomain": "economics",
       "sourceType": "chapter",
       "sourceChecksum": "a1da374c93ad8e119c845e3b355168f9e97068cf73c2525d152eaede29706739",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T09:01:24.733Z",
+      "destinationId": "migrated-core-eco-ch-34",
+      "batchNumber": 3
     },
     {
       "sourceSystem": "Core",
@@ -473,9 +491,11 @@
       "sourceDomain": "economics",
       "sourceType": "chapter",
       "sourceChecksum": "aec49e87602b356e256fd3a0b42f569a415dff711d9dacd9fcb788d6510585cc",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T09:01:24.739Z",
+      "destinationId": "migrated-core-eco-ch-35",
+      "batchNumber": 3
     },
     {
       "sourceSystem": "Core",
@@ -485,9 +505,11 @@
       "sourceDomain": "economics",
       "sourceType": "chapter",
       "sourceChecksum": "c6eba31dc4ab8d572647f83262cc2b3323982c7b85fa6758ebdd7cf1cdfd96d9",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T09:01:24.760Z",
+      "destinationId": "migrated-core-eco-ch-36",
+      "batchNumber": 3
     },
     {
       "sourceSystem": "Core",
@@ -497,9 +519,11 @@
       "sourceDomain": "economics",
       "sourceType": "chapter",
       "sourceChecksum": "0134b7ce0793c9cfa07c1d8d81b6c520119a639447f4fd1e4d2d51a3c3ad3fef",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T09:01:24.767Z",
+      "destinationId": "migrated-core-eco-ch-37",
+      "batchNumber": 3
     },
     {
       "sourceSystem": "Core",
@@ -509,9 +533,11 @@
       "sourceDomain": "economics",
       "sourceType": "chapter",
       "sourceChecksum": "30d97db9bb7ce49bbe43d4468e92cf5757f18089c082af784910b7176035d7eb",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T09:01:24.775Z",
+      "destinationId": "migrated-core-eco-ch-38",
+      "batchNumber": 3
     },
     {
       "sourceSystem": "Core",
@@ -521,9 +547,11 @@
       "sourceDomain": "economics",
       "sourceType": "chapter",
       "sourceChecksum": "5d37facf9ec14f18476e08b498a42ad7c3ac6e1500fa95734148ce461277f90f",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T09:01:24.783Z",
+      "destinationId": "migrated-core-eco-ch-39",
+      "batchNumber": 3
     },
     {
       "sourceSystem": "Core",
@@ -533,9 +561,11 @@
       "sourceDomain": "economics",
       "sourceType": "chapter",
       "sourceChecksum": "266edd981a16782b29eef7d940528f913efb6147cde0c6853622d1cb79003f14",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T09:01:24.794Z",
+      "destinationId": "migrated-core-eco-ch-40",
+      "batchNumber": 3
     },
     {
       "sourceSystem": "Core",
@@ -545,9 +575,11 @@
       "sourceDomain": "economics",
       "sourceType": "chapter",
       "sourceChecksum": "3a56b1ed85d61faa8aadc256dade58c06b8545df1b51d9625d34a017443c114d",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T09:01:24.801Z",
+      "destinationId": "migrated-core-eco-ch-41",
+      "batchNumber": 3
     },
     {
       "sourceSystem": "Core",
@@ -557,9 +589,11 @@
       "sourceDomain": "economics",
       "sourceType": "chapter",
       "sourceChecksum": "7624180625996e88fdaeef9b1b8027c9b538e975398b8d0acad6cb9ce136b0a6",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T09:01:24.810Z",
+      "destinationId": "migrated-core-eco-ch-42",
+      "batchNumber": 3
     },
     {
       "sourceSystem": "Core",
@@ -569,9 +603,11 @@
       "sourceDomain": "economics",
       "sourceType": "chapter",
       "sourceChecksum": "d87f7063e108fb734f478ccaebe0e283339a8f07ba52d4a2f3d6f7680c1f2ef1",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T09:01:24.817Z",
+      "destinationId": "migrated-core-eco-ch-43",
+      "batchNumber": 3
     },
     {
       "sourceSystem": "Core",
@@ -581,9 +617,11 @@
       "sourceDomain": "economics",
       "sourceType": "chapter",
       "sourceChecksum": "daa56154f2b696974a8b161d84374aa6b15576de8d5a9463e2f64f80d84c9160",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T09:01:24.824Z",
+      "destinationId": "migrated-core-eco-ch-44",
+      "batchNumber": 3
     },
     {
       "sourceSystem": "Core",
@@ -593,9 +631,11 @@
       "sourceDomain": "economics",
       "sourceType": "chapter",
       "sourceChecksum": "2b4f9361f5e6d8b68721b7609bd401d56c165f9507b89dc911993f4b07d04e17",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T09:01:24.833Z",
+      "destinationId": "migrated-core-eco-ch-45",
+      "batchNumber": 3
     },
     {
       "sourceSystem": "Core",
@@ -605,9 +645,11 @@
       "sourceDomain": "history",
       "sourceType": "chapter",
       "sourceChecksum": "73f488f1067f8fad65bcc33694902124c4b253b753852313d9ad12a7e5c7f402",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T09:01:24.841Z",
+      "destinationId": "migrated-core-his-ch-1",
+      "batchNumber": 3
     },
     {
       "sourceSystem": "Core",
@@ -617,9 +659,11 @@
       "sourceDomain": "history",
       "sourceType": "chapter",
       "sourceChecksum": "5320ce2d83b439a13ce4d501272020913b1c5f850b130faccbb00e71c9199372",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T09:01:24.848Z",
+      "destinationId": "migrated-core-his-ch-2",
+      "batchNumber": 3
     },
     {
       "sourceSystem": "Core",
@@ -629,9 +673,11 @@
       "sourceDomain": "history",
       "sourceType": "chapter",
       "sourceChecksum": "30f6188776de8b0271dfb0232d8f83b272c138df7c98b133562fa4d24c748d3d",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T09:01:24.856Z",
+      "destinationId": "migrated-core-his-ch-3",
+      "batchNumber": 3
     },
     {
       "sourceSystem": "Core",
@@ -641,9 +687,11 @@
       "sourceDomain": "history",
       "sourceType": "chapter",
       "sourceChecksum": "68c87e4122e8fd75ddf2e5e9b9ee7cec3d12cc5dc6384339f2d50b04816e6d8b",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T09:01:24.863Z",
+      "destinationId": "migrated-core-his-ch-4",
+      "batchNumber": 3
     },
     {
       "sourceSystem": "Core",
@@ -653,9 +701,11 @@
       "sourceDomain": "history",
       "sourceType": "chapter",
       "sourceChecksum": "09663f86fe8b53bc752374aed85a48cc92785608beefd16e3d86b792856ae4b8",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T09:01:24.872Z",
+      "destinationId": "migrated-core-his-ch-5",
+      "batchNumber": 3
     },
     {
       "sourceSystem": "Core",

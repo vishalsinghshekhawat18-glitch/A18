@@ -1,0 +1,116 @@
+{
+  "id": "migrated-core-eco-ch-35",
+  "type": "chapter",
+  "domain": "economics",
+  "title": "35. Non-Performing Assets (NPAs) & Insolvency Resolution",
+  "summary": "Non-Performing Assets reflect overdue loans categorized into SMA tiers and NPA classes, resolved through IBC 2016 and NARCL bad bank structures.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "First-Principles Core Truth",
+      "summary": "Non-Performing Assets reflect overdue loans categorized into SMA tiers and NPA classes, resolved through IBC 2016 and NARCL bad bank structures."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧠 Visual Mind Map & Structural Diagram"
+    },
+    {
+      "type": "paragraph",
+      "content": "🗺️ Asset Classification & Insolvency Resolution Pipeline"
+    },
+    {
+      "type": "paragraph",
+      "content": "1. Special Mention Accounts (SMA): SMA-0 (1-30 days overdue) | SMA-1 (31-60 days overdue) | SMA-2 (61-90 days overdue)."
+    },
+    {
+      "type": "paragraph",
+      "content": "2. NPA Classification (>90 Days Overdue): Substandard Asset ($le 12$ months as NPA) | Doubtful Asset ($>12$ months as NPA) | Loss Asset (Uncollectible value identified by audit/RBI)."
+    },
+    {
+      "type": "paragraph",
+      "content": "3. Insolvency & Bankruptcy Code (IBC 2016): Time-bound 180-day Corporate Insolvency Resolution Process (CIRP) under **National Company Law Tribunal (NCLT)**."
+    },
+    {
+      "type": "paragraph",
+      "content": "4. Bad Bank Structure (NARCL / IDRCL): National Asset Reconstruction Company Ltd (NARCL) buys bad loans using a 15:85 structure (15% cash + 85% Govt-guaranteed Security Receipts)."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚡ 1. Asset Classification Timeline Matrix\n| Asset Category | Overdue Period Benchmark | Provisioning Requirement |\n|---|---|---|\n| **Standard Asset** | No default / Up to 30 days | 0.40% general provision |\n| **SMA-0** | 1 to 30 days overdue | Early warning tracking |\n| **SMA-1** | 31 to 60 days overdue | Mandatory reporting to CRILC database |\n| **SMA-2** | 61 to 90 days overdue | Pre-NPA resolution plan initiation |\n| **Substandard NPA** | Overdue $> mathbf{90\text{ days}}$ up to 12 months | 15% provision (secured) / 25% (unsecured) |\n| **Doubtful NPA** | Remained substandard for $> mathbf{12\text{ months}}$ | 25% to 100% provision depending on age |\n| **Loss Asset** | Identified as uncollectible by bank/RBI | **100% Provisioning** / Full write-off |"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📖 2. Key Recovery Mechanisms\n1. **SARFAESI Act 2002:** Allows banks to seize and auction collateralized assets of defaulting borrowers **without court intervention** (applies to secured loans above ₹1 Lakh where NPA $>90$ days).\n2. **IBC 2016:** Creditor-in-control model with a strict **180-day resolution timeline** (extendable by 90 days). NCLT is the Adjudicating Authority for corporates; DRT for individuals.\n3. **NARCL (Bad Bank):** Buys stressed loans $ge ₹500\text{ Cr}$ from commercial banks. Govt provides ₹30,600 Cr guarantee for Security Receipts (SRs)."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** A loan becomes an NPA when interest or principal installment remains overdue for **more than 90 days** (for agricultural crop loans: 2 crop seasons for short-duration crops, 1 season for long-duration crops!).\n- ⚠️ **Exam Trap 2:** Under IBC 2016, the **NCLT** is the adjudicating body for corporate entities, whereas **DRT** (Debt Recovery Tribunal) adjudicates individual/partnership insolvency."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 4. Chapter-Specific Active Recall & Practice Questions"
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** What is the legal adjudicating authority for Corporate Insolvency Resolution Process (CIRP) under the Insolvency and Bankruptcy Code (IBC 2016)?  \n(A) Debt Recovery Tribunal (DRT)  \n(B) National Company Law Tribunal (NCLT)  \n(C) High Court  \n(D) Reserve Bank of India  \n**Answer:** **(B)** — NCLT is the adjudicating authority for corporate entities under IBC."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** An industrial loan interest installment due on January 1 remains unpaid until April 5 (95 days overdue). How is this loan asset classified on April 5?  \n**Resolution:** Since payment is overdue for $>90$ days, the loan transitions from SMA-2 to a **Substandard Non-Performing Asset (NPA)**."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Examine the twin balance sheet problem in India. How do IBC 2016 and NARCL (Bad Bank) address NPA resolution in commercial banks?'*"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "UPSC",
+      "RBI Grade B"
+    ],
+    "tags": [
+      "NPAs",
+      "Substandard",
+      "Doubtful",
+      "Loss Assets",
+      "IBC 2016",
+      "NCLT",
+      "Bad Bank",
+      "NARCL",
+      "SARFAESI Act"
+    ],
+    "category": "Book I: Foundations of Economics & National Income",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T09:01:24.629Z",
+    "provenance": {
+      "sourceSystem": "Core",
+      "sourceFile": "index.html (rawBookData)",
+      "sourceId": "eco-ch-35",
+      "sourceTitle": "35. Non-Performing Assets (NPAs) & Insolvency Resolution",
+      "sourceChecksum": "aec49e87602b356e256fd3a0b42f569a415dff711d9dacd9fcb788d6510585cc",
+      "migrationTimestamp": "2026-08-15T09:01:24.629Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}
