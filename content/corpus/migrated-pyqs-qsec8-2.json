@@ -1,0 +1,46 @@
+{
+  "id": "migrated-pyqs-qsec8-2",
+  "type": "pyq_item",
+  "domain": "pyqs",
+  "title": "8.2 Arithmetic PYQs",
+  "summary": "PYQs — 8.2 Arithmetic PYQs",
+  "blocks": [
+    {
+      "type": "worked_example",
+      "title": "Q1 (SBI PO Mains 2025). A completes work...",
+      "question": "Q1 (SBI PO Mains 2025). A completes work in 20 days. B takes 2x% more days than A, C takes x% more days than B. Time taken by C alone = sum of times taken by A and B alone. Find time for all three together to complete 11× the work.",
+      "given": [],
+      "method": "Step-by-Step Solution Method",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "explanation": "Time(B)=20(1+2x%), Time(C)=20(1+2x%)(1+x%). Given Time(C)=Time(A)+Time(B):\n(1+2x%)(1+x%) = 2(1+x%) → 1+2x% = 2 → x=50.\nB=40 days, C=60 days. LCM(20,40,60)=120 units work. Efficiencies: A=6, B=3, C=2 → combined=11/day.\nTime for 11× the work = 11×120/11 = 120 days."
+        }
+      ],
+      "answer": "Time(B)=20(1+2x%), Time(C)=20(1+2x%)(1+x%). Given Time(C)=Time(A)+Time(B):\n(1+2x%)(1+x%) = 2(1+x%) → 1+2x% = 2 → x=50.\nB=40 days, C=60 days. LCM(20,40,60)=120 units work. Efficiencies: A=6, B=3, C=2 → combined=11/day.\nTime for 11× the work = 11×120/11 = 120 days."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "pyqs",
+      "general"
+    ],
+    "category": "PYQs",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T05:52:09.827Z",
+    "provenance": {
+      "sourceSystem": "PYQs",
+      "sourceFile": "ca_app/quant_data.js",
+      "sourceId": "qsec8-2",
+      "sourceTitle": "8.2 Arithmetic PYQs",
+      "sourceChecksum": "a60a77fc7b4258ad6538ab7c125520fbb8fd4e8f6627e90687273f6073a26494",
+      "migrationTimestamp": "2026-08-15T05:52:09.827Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

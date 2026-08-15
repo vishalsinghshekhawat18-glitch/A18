@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec1-5",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "IMF Estimates Indian Economy Will Cross $5 Trillion Mark in FY29",
+  "summary": "Multilateral economic projections validate India's structural growth trajectory toward becoming the world's 3rd largest economy.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Multilateral economic projections validate India's structural growth trajectory toward becoming the world's 3rd largest economy."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "FM Sitharaman stated India is on track to cross **USD 5-trillion milestone in FY29 (2028-29)**.",
+        "Data Source: IMF World Economic Outlook database (April 2026 edition).",
+        "Projected Nominal GDP: India's GDP projected to reach **USD 5.1 trillion by FY 2028-29**."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "IMF established 1944 at Bretton Woods | HQ: Washington D.C. | MD: Kristalina Georgieva."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Target fiscal year: **FY29 / 2028-29** (exact projected GDP of $5.1 trillion)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T05:52:09.823Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-5",
+      "sourceTitle": "IMF Estimates Indian Economy Will Cross $5 Trillion Mark in FY29",
+      "sourceChecksum": "83048b048e89c81d527d82d9ac30597cfa9aa24ac9865234031e033af71569f8",
+      "migrationTimestamp": "2026-08-15T05:52:09.823Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

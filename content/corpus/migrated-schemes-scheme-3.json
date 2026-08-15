@@ -1,0 +1,36 @@
+{
+  "id": "migrated-schemes-scheme-3",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Pradhan Mantri Suraksha Bima Yojana (PMSBY):",
+  "summary": "Schemes — Pradhan Mantri Suraksha Bima Yojana (PMSBY):",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Content preserved for Pradhan Mantri Suraksha Bima Yojana (PMSBY):."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Ministry of Finance & Financial Inclusion"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T05:52:09.824Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-3",
+      "sourceTitle": "Pradhan Mantri Suraksha Bima Yojana (PMSBY):",
+      "sourceChecksum": "5f15952590b3f53e435280be3bfb34b0faf3eadfe67131f55708b2491cd9c90a",
+      "migrationTimestamp": "2026-08-15T05:52:09.824Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

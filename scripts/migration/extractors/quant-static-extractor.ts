@@ -73,18 +73,31 @@ export function transformQuantStaticToKnowledgeItem(
     }
   }
 
-  // 3. Worked Examples (100% EXPLICIT, NO ACCORDION)
-  const examplesList = raw.workedExamples || (raw.items ? raw.items.map((it: any) => ({
-    title: it.q ? it.q.substring(0, 40) + '...' : 'Worked Example',
-    question: it.q || '',
-    given: [],
-    method: it.method || 'Step-by-Step Solution',
-    steps: [{ stepNumber: 1, explanation: (it.sol && it.sol.trim()) ? it.sol : (it.question || 'Standard step-by-step calculation.') }],
-    answer: it.sol || it.answer || 'Calculation complete.'
-  })) : []);
+  // 3. Bullet list or Worked Examples from raw.items
+  if (raw.items && raw.items.length > 0) {
+    if (raw.type === 'bullets' || typeof raw.items[0] === 'string') {
+      blocks.push({
+        type: 'bullet_list',
+        items: raw.items.map((it: any) => typeof it === 'string' ? it : JSON.stringify(it))
+      });
+    } else {
+      for (const it of raw.items) {
+        blocks.push({
+          type: 'worked_example',
+          title: it.title || (it.q ? it.q.substring(0, 40) + '...' : 'Worked Example'),
+          question: it.q || it.question || raw.title,
+          given: it.given || [],
+          method: it.method || 'Step-by-Step Solution Method',
+          steps: [{ stepNumber: 1, explanation: (it.sol && it.sol.trim()) ? it.sol : (it.question || 'Standard step-by-step calculation.') }],
+          answer: it.sol || it.answer || 'Calculation complete.'
+        });
+      }
+    }
+  }
 
-  if (examplesList && examplesList.length > 0) {
-    for (const ex of examplesList) {
+  // 4. Worked Examples if explicit workedExamples array exists
+  if (raw.workedExamples && raw.workedExamples.length > 0) {
+    for (const ex of raw.workedExamples) {
       blocks.push({
         type: 'worked_example',
         title: ex.title || 'Worked Example',

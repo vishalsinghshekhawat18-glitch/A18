@@ -1,0 +1,36 @@
+{
+  "id": "migrated-schemes-scheme-4",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "PAiSA Portal:",
+  "summary": "Schemes — PAiSA Portal:",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Content preserved for PAiSA Portal:."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "MSME, Industry & Commerce Schemes"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T05:52:09.824Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-4",
+      "sourceTitle": "PAiSA Portal:",
+      "sourceChecksum": "6b4f0793a11ddfdf17b41e88c04e2858eaffea7a8060e220946e6d6b492c9025",
+      "migrationTimestamp": "2026-08-15T05:52:09.824Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

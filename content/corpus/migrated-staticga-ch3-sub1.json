@@ -1,0 +1,101 @@
+{
+  "id": "migrated-staticga-ch3-sub1",
+  "type": "static_note",
+  "domain": "static-ga",
+  "title": "Monetary Policy Stance & Rate Trajectory (2025–2026)",
+  "summary": "StaticGA — Monetary Policy Stance & Rate Trajectory (2025–2026)",
+  "blocks": [
+    {
+      "type": "comparison",
+      "title": "Monetary Policy Stance & Rate Trajectory (2025–2026)",
+      "headers": [
+        "Policy Review Date",
+        "Repo Rate",
+        "Monetary Stance",
+        "FY27 GDP Forecast",
+        "FY27 CPI Forecast"
+      ],
+      "rows": [
+        [
+          "Dec 2024 (Baseline)",
+          "6.50%",
+          "Withdrawal of Accommodation",
+          "—",
+          "—"
+        ],
+        [
+          "Feb 2025 (-25 bps)",
+          "6.25%",
+          "Neutral",
+          "—",
+          "—"
+        ],
+        [
+          "Apr 2025 (-25 bps)",
+          "6.00%",
+          "Neutral",
+          "—",
+          "—"
+        ],
+        [
+          "Jun 2025 (-50 bps)",
+          "5.50%",
+          "Neutral",
+          "—",
+          "—"
+        ],
+        [
+          "Dec 2025 (-25 bps)",
+          "5.25%",
+          "Neutral",
+          "—",
+          "—"
+        ],
+        [
+          "Apr 2026 (Hold)",
+          "5.25%",
+          "Neutral",
+          "6.9%",
+          "4.6%"
+        ],
+        [
+          "Jun 2026 (Hold)",
+          "5.25%",
+          "Neutral",
+          "6.6%",
+          "5.1%"
+        ],
+        [
+          "Aug 2026 (Current)",
+          "5.25%",
+          "Neutral",
+          "6.6%",
+          "5.1%"
+        ]
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "staticga",
+      "general"
+    ],
+    "category": "StaticGA",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T05:52:09.825Z",
+    "provenance": {
+      "sourceSystem": "StaticGA",
+      "sourceFile": "ca_app/static_ga_data.js",
+      "sourceId": "ch3-sub1",
+      "sourceTitle": "Monetary Policy Stance & Rate Trajectory (2025–2026)",
+      "sourceChecksum": "1b7b63c4d7a16d309d63321a28ebade7e8a4d78b0c38fb7a14baea4aaf92b518",
+      "migrationTimestamp": "2026-08-15T05:52:09.825Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

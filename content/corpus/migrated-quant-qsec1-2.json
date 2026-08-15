@@ -1,0 +1,68 @@
+{
+  "id": "migrated-quant-qsec1-2",
+  "type": "quant_topic",
+  "domain": "quant",
+  "title": "1.2 3D Solid Formulas & Worked Methods",
+  "summary": "Quant — 1.2 3D Solid Formulas & Worked Methods",
+  "blocks": [
+    {
+      "type": "comparison",
+      "title": "1.2 3D Solid Formulas & Worked Methods",
+      "headers": [
+        "Solid Shape",
+        "Volume Formula",
+        "Curved Surface Area (CSA)",
+        "Total Surface Area (TSA) & Diagonal"
+      ],
+      "rows": [
+        [
+          "Cube (side a)",
+          "a³",
+          "LSA = 4a²",
+          "TSA = 6a² | Diagonal = a√3"
+        ],
+        [
+          "Cylinder (radius r, height h)",
+          "π r² h",
+          "CSA = 2π r h",
+          "TSA = 2π r (h + r)"
+        ],
+        [
+          "Right Cone (r, h, slant l)",
+          "⅓ π r² h",
+          "CSA = π r l  (where l = √(r²+h²))",
+          "TSA = π r (l + r)"
+        ],
+        [
+          "Sphere (radius r)",
+          "(4/3) π r³",
+          "Surface Area = 4π r²",
+          "TSA = 4π r²"
+        ]
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "quant",
+      "general"
+    ],
+    "category": "Quant",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T05:52:09.826Z",
+    "provenance": {
+      "sourceSystem": "Quant",
+      "sourceFile": "ca_app/quant_data.js",
+      "sourceId": "qsec1-2",
+      "sourceTitle": "1.2 3D Solid Formulas & Worked Methods",
+      "sourceChecksum": "6db23c869d8c920255ad07c8e63c0c6b342e825a55ffa71157dc71dca6c1b233",
+      "migrationTimestamp": "2026-08-15T05:52:09.826Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

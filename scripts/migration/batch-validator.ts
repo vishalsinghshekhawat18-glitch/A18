@@ -131,7 +131,7 @@ export class BatchValidator {
         .replace(/\s+/g, ' ')
         .trim();
 
-      const targetText = JSON.stringify(target.blocks)
+      const targetText = (target.title + ' ' + target.summary + ' ' + JSON.stringify(target.blocks))
         .replace(/<[^>]+>/g, ' ')
         .replace(/\\n/g, ' ')
         .replace(/\s+/g, ' ')

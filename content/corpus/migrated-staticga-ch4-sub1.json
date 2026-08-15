@@ -1,0 +1,73 @@
+{
+  "id": "migrated-staticga-ch4-sub1",
+  "type": "static_note",
+  "domain": "static-ga",
+  "title": "Macroeconomic Modernization: Base Year Revisions (2026)",
+  "summary": "StaticGA — Macroeconomic Modernization: Base Year Revisions (2026)",
+  "blocks": [
+    {
+      "type": "comparison",
+      "title": "Macroeconomic Modernization: Base Year Revisions (2026)",
+      "headers": [
+        "Indicator",
+        "Old Base Year",
+        "New Base Year (Feb 2026)",
+        "Nodal Agency",
+        "Key Data Inputs"
+      ],
+      "rows": [
+        [
+          "Gross Domestic Product (GDP)",
+          "2011–12",
+          "2022–23",
+          "MoSPI (NSO)",
+          "GST databases, MCA-21, PLFS data; implements double deflation."
+        ],
+        [
+          "Index of Industrial Production (IIP)",
+          "2011–12",
+          "2022–23",
+          "MoSPI (NSO)",
+          "Updated production data, renewable energy, electronics/telecom."
+        ],
+        [
+          "Consumer Price Index (CPI)",
+          "2012",
+          "2024",
+          "MoSPI (NSO)",
+          "HCES 2022-23 findings; basket expanded to 358 items."
+        ],
+        [
+          "Wholesale Price Index (WPI)",
+          "2011–12",
+          "2022–23",
+          "DPIIT (Ministry of Commerce)",
+          "Iron Ore added as 9th core industry (32.88% IIP weight)."
+        ]
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "staticga",
+      "general"
+    ],
+    "category": "StaticGA",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T05:52:09.826Z",
+    "provenance": {
+      "sourceSystem": "StaticGA",
+      "sourceFile": "ca_app/static_ga_data.js",
+      "sourceId": "ch4-sub1",
+      "sourceTitle": "Macroeconomic Modernization: Base Year Revisions (2026)",
+      "sourceChecksum": "00257cee195fa5b5cef170b908ce574cf2de1f7555c18087ac1b1a9538f105b3",
+      "migrationTimestamp": "2026-08-15T05:52:09.826Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

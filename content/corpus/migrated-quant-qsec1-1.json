@@ -1,0 +1,68 @@
+{
+  "id": "migrated-quant-qsec1-1",
+  "type": "quant_topic",
+  "domain": "quant",
+  "title": "1.1 2D Shape Formulas & Applications",
+  "summary": "Quant — 1.1 2D Shape Formulas & Applications",
+  "blocks": [
+    {
+      "type": "comparison",
+      "title": "1.1 2D Shape Formulas & Applications",
+      "headers": [
+        "Shape",
+        "Area Formula",
+        "Perimeter / Diagonal Formula",
+        "Key Exam Relationship"
+      ],
+      "rows": [
+        [
+          "Square (side a)",
+          "a²",
+          "Perimeter = 4a | Diagonal = a√2",
+          "Area = ½ × (Diagonal)²"
+        ],
+        [
+          "Rectangle (l, b)",
+          "l × b",
+          "Perimeter = 2(l+b) | Diagonal = √(l²+b²)",
+          "Max area for fixed perimeter is a Square"
+        ],
+        [
+          "Equilateral Triangle (a)",
+          "(√3 / 4) a²",
+          "Perimeter = 3a | Height h = (√3 / 2) a",
+          "Inradius r = a/(2√3) | Circumradius R = a/√3"
+        ],
+        [
+          "Circle (radius r)",
+          "π r²",
+          "Circumference = 2π r",
+          "Area of semi-circle = ½ π r²"
+        ]
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "quant",
+      "general"
+    ],
+    "category": "Quant",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T05:52:09.826Z",
+    "provenance": {
+      "sourceSystem": "Quant",
+      "sourceFile": "ca_app/quant_data.js",
+      "sourceId": "qsec1-1",
+      "sourceTitle": "1.1 2D Shape Formulas & Applications",
+      "sourceChecksum": "ee535ee28da5daa0576d9f2fe668276fd7f59cb7b6be5b0de28b0fc4a6b2ee5b",
+      "migrationTimestamp": "2026-08-15T05:52:09.826Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}
