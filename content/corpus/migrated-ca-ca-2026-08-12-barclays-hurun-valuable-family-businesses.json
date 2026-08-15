@@ -42,14 +42,14 @@
     "date": "2026-08-12",
     "category": "SEC8",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:01.063Z",
+    "lastUpdated": "2026-08-15T12:20:27.538Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "ca_app/data.js",
       "sourceId": "ca_2026_08_12_barclays_hurun_valuable_family_businesses",
       "sourceTitle": "2026 Barclays Hurun Report: Top 300 Indian Family Businesses Worth ₹138 Lakh Crore",
       "sourceChecksum": "fbaf8e416b9185c0b8a753ab7f1e8359b292ed4f6ea18527dbbbb1a8025547cf",
-      "migrationTimestamp": "2026-08-15T12:14:01.063Z",
+      "migrationTimestamp": "2026-08-15T12:20:27.538Z",
       "normalizationRuleVersion": "1.0.0-phase4"
     }
   }

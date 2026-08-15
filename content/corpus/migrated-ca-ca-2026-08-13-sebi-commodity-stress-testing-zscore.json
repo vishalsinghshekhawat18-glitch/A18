@@ -40,14 +40,14 @@
     "date": "2026-08-13",
     "category": "SEC2",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:01.063Z",
+    "lastUpdated": "2026-08-15T12:20:27.537Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "ca_app/data.js",
       "sourceId": "ca_2026_08_13_sebi_commodity_stress_testing_zscore",
       "sourceTitle": "SEBI Lowers Commodity Derivatives Stress-Testing Z-Score Limit to 5",
       "sourceChecksum": "16a48402e9678fe4b946709f339952111077533cd6342ce4ac8d9d52d2a043e1",
-      "migrationTimestamp": "2026-08-15T12:14:01.063Z",
+      "migrationTimestamp": "2026-08-15T12:20:27.537Z",
       "normalizationRuleVersion": "1.0.0-phase4"
     }
   }

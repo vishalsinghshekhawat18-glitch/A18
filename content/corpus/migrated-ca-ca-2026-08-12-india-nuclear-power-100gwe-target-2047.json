@@ -41,14 +41,14 @@
     "date": "2026-08-12",
     "category": "SEC10",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:01.063Z",
+    "lastUpdated": "2026-08-15T12:20:27.538Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "ca_app/data.js",
       "sourceId": "ca_2026_08_12_india_nuclear_power_100gwe_target_2047",
       "sourceTitle": "India Targets 100 GWe Nuclear Capacity by 2047 & 5 Operational Indigenous SMRs by 2033",
       "sourceChecksum": "5dcdf2085c1865b2b9ede3e44610dc386ff4100cd5c412026910d86021ade7bb",
-      "migrationTimestamp": "2026-08-15T12:14:01.063Z",
+      "migrationTimestamp": "2026-08-15T12:20:27.538Z",
       "normalizationRuleVersion": "1.0.0-phase4"
     }
   }

@@ -40,14 +40,14 @@
     "date": "2026-08-12",
     "category": "SEC4",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:01.063Z",
+    "lastUpdated": "2026-08-15T12:20:27.537Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "ca_app/data.js",
       "sourceId": "ca_2026_08_12_nba_abs_mustard_proceeds",
       "sourceTitle": "National Biodiversity Authority Releases ₹15.52 Crore ABS Proceeds from Mustard Genetic Resources",
       "sourceChecksum": "d58dbaf1af8a91f68fed00e503c281bf1d4deaa7c858f001ec2a0fbc3d9e4d91",
-      "migrationTimestamp": "2026-08-15T12:14:01.063Z",
+      "migrationTimestamp": "2026-08-15T12:20:27.537Z",
       "normalizationRuleVersion": "1.0.0-phase4"
     }
   }

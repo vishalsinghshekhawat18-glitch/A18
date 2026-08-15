@@ -40,14 +40,14 @@
     "date": "2026-08-12",
     "category": "SEC2",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:01.063Z",
+    "lastUpdated": "2026-08-15T12:20:27.537Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "ca_app/data.js",
       "sourceId": "ca_2026_08_12_sebi_bullion_etf_vault_norms",
       "sourceTitle": "SEBI Proposes Expanding Vault Managers Regulations to Cover All Bullion Products",
       "sourceChecksum": "f759bbad8598d86b6041adf11329d6d9130cf0794fb07c881624f9e330f519a8",
-      "migrationTimestamp": "2026-08-15T12:14:01.063Z",
+      "migrationTimestamp": "2026-08-15T12:20:27.537Z",
       "normalizationRuleVersion": "1.0.0-phase4"
     }
   }
