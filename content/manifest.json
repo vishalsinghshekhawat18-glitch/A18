@@ -1,11 +1,11 @@
 {
   "version": "1.0.0-phase5",
   "totalItems": 926,
-  "migratedCount": 475,
-  "pendingCount": 451,
+  "migratedCount": 500,
+  "pendingCount": 426,
   "reviewRequiredCount": 0,
   "failedCount": 0,
-  "lastUpdated": "2026-08-15T12:15:06.029Z",
+  "lastUpdated": "2026-08-15T12:15:40.685Z",
   "entries": [
     {
       "sourceSystem": "Core",
@@ -6455,9 +6455,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "3b5f07e7080e04df6ece1240a48b4cced5b17be75a2efe6c73969f9c8a7f13bf",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:15:40.427Z",
+      "destinationId": "migrated-ca-note-sec4-276",
+      "batchNumber": 19
     },
     {
       "sourceSystem": "CA",
@@ -6467,9 +6469,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "5fc770f82050cdd5e7735d62c4222804e6bc1cae21f99fd8740941fef3970480",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:15:40.437Z",
+      "destinationId": "migrated-ca-note-sec7-277",
+      "batchNumber": 19
     },
     {
       "sourceSystem": "CA",
@@ -6479,9 +6483,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "dcda2b3bd3bf408d7b027d4a6f31b4c5b92c355927060435cac21b9b44d7779e",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:15:40.449Z",
+      "destinationId": "migrated-ca-note-sec7-278",
+      "batchNumber": 19
     },
     {
       "sourceSystem": "CA",
@@ -6491,9 +6497,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "f11d08cdf13d3894ee90af7455b4ed4912766fa5517f021b17adc881396487b4",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:15:40.460Z",
+      "destinationId": "migrated-ca-note-sec7-279",
+      "batchNumber": 19
     },
     {
       "sourceSystem": "CA",
@@ -6503,9 +6511,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "3af92c608918b0c0ff522586dedd58564f71df66d83e6d0b64a5005e4c3920d5",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:15:40.471Z",
+      "destinationId": "migrated-ca-note-sec7-280",
+      "batchNumber": 19
     },
     {
       "sourceSystem": "CA",
@@ -6515,9 +6525,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "5730785b8cd377d643fb0f113bce4a8238e1fe109872af3265f7e874dcbddabd",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:15:40.483Z",
+      "destinationId": "migrated-ca-note-sec7-281",
+      "batchNumber": 19
     },
     {
       "sourceSystem": "CA",
@@ -6527,9 +6539,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "05807a046c7ca82b480b90b0bbde0ad6e0039e1323b488ccd08dcd19d35c741f",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:15:40.496Z",
+      "destinationId": "migrated-ca-note-sec6-282",
+      "batchNumber": 19
     },
     {
       "sourceSystem": "CA",
@@ -6539,9 +6553,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "47076e113f5678f8edf986e92d3c5df1f390460442b12ffe3bce97d14b26c63d",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:15:40.507Z",
+      "destinationId": "migrated-ca-note-sec6-283",
+      "batchNumber": 19
     },
     {
       "sourceSystem": "CA",
@@ -6551,9 +6567,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "9e99964f79a6b00bf9f5550ddb25ff706cc6e47512685eeb7642b726164c321e",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:15:40.517Z",
+      "destinationId": "migrated-ca-note-sec6-284",
+      "batchNumber": 19
     },
     {
       "sourceSystem": "CA",
@@ -6563,9 +6581,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "a4c07a9111b185a0e298cf41c3b67cb54e0aa57c1184c6e06645af671af21078",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:15:40.528Z",
+      "destinationId": "migrated-ca-note-sec6-285",
+      "batchNumber": 19
     },
     {
       "sourceSystem": "CA",
@@ -6575,9 +6595,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "06b7e088c9686bbc8bb9c650b7219883bf8af2147c9f3b090617c21cfc1fce37",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:15:40.540Z",
+      "destinationId": "migrated-ca-note-sec5-286",
+      "batchNumber": 19
     },
     {
       "sourceSystem": "CA",
@@ -6587,9 +6609,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "bd5b2c9c9d72b3ff4ac392d4aae0a1519696e4df4e89b764135bf7df4c400e46",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:15:40.551Z",
+      "destinationId": "migrated-ca-note-sec5-287",
+      "batchNumber": 19
     },
     {
       "sourceSystem": "CA",
@@ -6599,9 +6623,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "224524133b57803be01cc673fae8b2011be4922a6cf288e4ce33de70c9c88729",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:15:40.562Z",
+      "destinationId": "migrated-ca-note-sec5-288",
+      "batchNumber": 19
     },
     {
       "sourceSystem": "CA",
@@ -6611,9 +6637,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "581f8dd50cde600b886ac43652aca859e4f43a7f1ff1e1f92e79b3c2dccc306d",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:15:40.571Z",
+      "destinationId": "migrated-ca-note-sec5-289",
+      "batchNumber": 19
     },
     {
       "sourceSystem": "CA",
@@ -6623,9 +6651,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "da11eff33d8336f4232c7566f5e97f79769c6d0e66b4d25651a9d9ec54a2290a",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:15:40.582Z",
+      "destinationId": "migrated-ca-note-sec5-290",
+      "batchNumber": 19
     },
     {
       "sourceSystem": "CA",
@@ -6635,9 +6665,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "ed10160d71a1577a56dac1af66578902c6222ceef2dd682a2e84b2be83070e41",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:15:40.592Z",
+      "destinationId": "migrated-ca-note-sec2-291",
+      "batchNumber": 19
     },
     {
       "sourceSystem": "CA",
@@ -6647,9 +6679,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "2148c93ef07bf658e5bfdcf2811929cc7acaf82e9dfeb96770bafd34e5b5792f",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:15:40.603Z",
+      "destinationId": "migrated-ca-note-sec2-292",
+      "batchNumber": 19
     },
     {
       "sourceSystem": "CA",
@@ -6659,9 +6693,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "e07afb53201b54fa5b638664de9181864033bb1c5f3ccdd58681023adbaee214",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:15:40.613Z",
+      "destinationId": "migrated-ca-note-sec3-293",
+      "batchNumber": 19
     },
     {
       "sourceSystem": "CA",
@@ -6671,9 +6707,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "710599acd28c7bac29ba4df9d99bcd3d9ac335b2a87358e27edeb557cce4d89f",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:15:40.623Z",
+      "destinationId": "migrated-ca-note-sec4-294",
+      "batchNumber": 19
     },
     {
       "sourceSystem": "CA",
@@ -6683,9 +6721,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "e4659b1ecf51b8e66392fd643fa3c0e7b81a33647837c316f93505b71ee31c8c",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:15:40.634Z",
+      "destinationId": "migrated-ca-note-sec4-295",
+      "batchNumber": 19
     },
     {
       "sourceSystem": "CA",
@@ -6695,9 +6735,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "63a11c53d1045e28d98f0bc35d3e00052e7097c911b5d29bb8fff774b3497eff",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:15:40.644Z",
+      "destinationId": "migrated-ca-note-sec4-296",
+      "batchNumber": 19
     },
     {
       "sourceSystem": "CA",
@@ -6707,9 +6749,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "59e1773232b574bb70587c1ecc82151c4a4bb6d1d50e1b44e5d6e7316b39f506",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:15:40.654Z",
+      "destinationId": "migrated-ca-note-sec7-297",
+      "batchNumber": 19
     },
     {
       "sourceSystem": "CA",
@@ -6719,9 +6763,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "b74207c40ee7c3dac1be9e180fd10303de565246a9fa282b6f2c5f2de51f4b59",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:15:40.665Z",
+      "destinationId": "migrated-ca-note-sec5-298",
+      "batchNumber": 19
     },
     {
       "sourceSystem": "CA",
@@ -6731,9 +6777,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "607921d1b67abf073fcb0643bde2584f8f5e304453caa12f392ae67b01347841",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:15:40.673Z",
+      "destinationId": "migrated-ca-note-sec5-299",
+      "batchNumber": 19
     },
     {
       "sourceSystem": "CA",
@@ -6743,9 +6791,11 @@
       "sourceDomain": "current-affairs",
       "sourceType": "ca_note",
       "sourceChecksum": "befdc8383d1fda3013de73a401424c6b83959de2123947bd230d1a9c33fbdc15",
-      "migrationStatus": "pending",
-      "lastValidationStatus": "UNTESTED",
-      "lastUpdated": "2026-08-15T05:46:15.542Z"
+      "migrationStatus": "migrated",
+      "lastValidationStatus": "PASS",
+      "lastUpdated": "2026-08-15T12:15:40.684Z",
+      "destinationId": "migrated-ca-note-sec4-300",
+      "batchNumber": 19
     },
     {
       "sourceSystem": "CA",
