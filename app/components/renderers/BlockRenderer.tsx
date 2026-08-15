@@ -84,7 +84,6 @@ export const BlockRenderer: React.FC<Props> = ({ block, blockIndex = 0 }) => {
         <div id={blockId} className="block-exam-trap block-annotation-compact">
           <div className="annotation-icon">⚠️</div>
           <div className="annotation-content">
-            {block.title && <span className="annotation-title">{formatInlineText(block.title)}: </span>}
             <span>{formatInlineText(block.content)}</span>
             {block.trapDetails && (
               <div className="exam-trap-details">{formatInlineText(block.trapDetails)}</div>
@@ -98,7 +97,6 @@ export const BlockRenderer: React.FC<Props> = ({ block, blockIndex = 0 }) => {
         <div id={blockId} className="block-key-concept block-annotation-compact">
           <div className="annotation-icon">💡</div>
           <div className="annotation-content">
-            {block.title && <span className="annotation-title">{formatInlineText(block.title)}: </span>}
             <span>{formatInlineText(block.summary)}</span>
             {block.details && block.details.length > 0 && (
               <ul className="annotation-details-list">
