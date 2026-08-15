@@ -8,11 +8,12 @@ const __dirname = path.dirname(__filename);
 
 const demoDir = path.resolve(__dirname, '../../content/demo');
 const pilotDir = path.resolve(__dirname, '../../content/pilot');
+const corpusDir = path.resolve(__dirname, '../../content/corpus');
 
 function validateAllDemoFiles() {
-  console.log('🔍 Executing Zod Schema Validation on Demo & Pilot Corpora...\n');
+  console.log('🔍 Executing Zod Schema Validation on Demo, Pilot & Corpus Datasets...\n');
 
-  const dirsToScan = [demoDir, pilotDir].filter(d => fs.existsSync(d));
+  const dirsToScan = [demoDir, pilotDir, corpusDir].filter(d => fs.existsSync(d));
   let totalFiles = 0;
   let passedCount = 0;
   let errorCount = 0;

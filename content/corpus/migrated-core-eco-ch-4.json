@@ -1,0 +1,133 @@
+{
+  "id": "migrated-core-eco-ch-4",
+  "type": "chapter",
+  "domain": "economics",
+  "title": "4. GDP, NDP, GNP & NNP Aggregate Ladder",
+  "summary": "The 8 national income aggregates form a mathematical ladder linking gross to net output and domestic to national income via depreciation and factor income abroad.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "First-Principles Core Truth",
+      "summary": "The 8 national income aggregates form a mathematical ladder linking gross to net output and domestic to national income via depreciation and factor income abroad."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧠 Visual Mind Map & Structural Diagram"
+    },
+    {
+      "type": "paragraph",
+      "content": "🗺️ The 8 National Income Aggregates Mathematical Ladder"
+    },
+    {
+      "type": "paragraph",
+      "content": "1. Gross to Net Transition: $\\text{Net Aggregate} = \\text{Gross Aggregate} - \\text{Depreciation (Consumption of Fixed Capital)}$."
+    },
+    {
+      "type": "paragraph",
+      "content": "2. Domestic to National Transition: $\\text{National Aggregate} = \\text{Domestic Aggregate} + \\text{NFIA (Net Factor Income from Abroad)}$."
+    },
+    {
+      "type": "paragraph",
+      "content": "3. Factor Cost to Market Price Transition: $\\text{Market Price} = \\text{Factor Cost} + \\text{Net Indirect Taxes (Indirect Taxes - Subsidies)}$."
+    },
+    {
+      "type": "paragraph",
+      "content": "4. Legal National Income Definition: $NNP_{FC}$ (Net National Product at Factor Cost) is the official legal definition of **National Income**."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚡ 1. The 3 Fundamental Conversion Rules\n1. **Gross vs. Net:** $\\text{Gross} - \\text{Depreciation} = \\text{Net}$\n2. **Domestic vs. National:** $\\text{Domestic} + \\text{NFIA} = \\text{National}$\n3. **Factor Cost vs. Market Price:** $\\text{Factor Cost} + \\text{Net Indirect Taxes (NIT)} = \\text{Market Price}$"
+    },
+    {
+      "type": "paragraph",
+      "content": "Where:\n- $\\text{NFIA} = \\text{Factor Income earned by domestic residents abroad} - \\text{Factor Income earned by foreign residents in domestic territory}$.\n- $\\text{NIT} = \\text{Indirect Taxes} - \\text{Subsidies}$."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📖 2. Master 8 Aggregates Derivation Matrix\n| Aggregate Abbreviation | Full Name | Derivation Formula from $GDP_{MP}$ |\n|---|---|---|\n| **$GDP_{MP}$** | Gross Domestic Product at Market Price | Baseline total market value of final goods/services within domestic territory |\n| **$NDP_{MP}$** | Net Domestic Product at Market Price | $GDP_{MP} - \\text{Depreciation}$ |\n| **$GNP_{MP}$** | Gross National Product at Market Price | $GDP_{MP} + \\text{NFIA}$ |\n| **$NNP_{MP}$** | Net National Product at Market Price | $GDP_{MP} + \\text{NFIA} - \\text{Depreciation}$ |\n| **$GDP_{FC}$** | Gross Domestic Product at Factor Cost | $GDP_{MP} - \\text{NIT}$ |\n| **$NDP_{FC}$** | Net Domestic Product at Factor Cost | $GDP_{MP} - \\text{Depreciation} - \\text{NIT}$ |\n| **$GNP_{FC}$** | Gross National Product at Factor Cost | $GDP_{MP} + \\text{NFIA} - \\text{NIT}$ |\n| **$NNP_{FC}$** | **Net National Product at Factor Cost (National Income)** | $\\mathbf{GDP_{MP} + NFIA - Depreciation - NIT}$ |"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧮 3. Net Factor Income from Abroad (NFIA) Components\nNFIA consists of **3 sub-components**:\n1. Net compensation of employees.\n2. Net property and entrepreneurial income (interest, dividend, rent).\n3. Net retained earnings of resident companies abroad."
+    },
+    {
+      "type": "paragraph",
+      "content": "*Note for India:* NFIA for India has historically been negative due to heavy interest payments on foreign debt and profit outflows by foreign MNCs exceeding NRI inflows."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚖️ 4. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** $GDP_{MP}$ includes output produced by foreign citizens residing *inside* India's geographic borders, but EXCLUDES output by Indian citizens living abroad.\n- ⚠️ **Exam Trap 2:** $GNP_{MP}$ can be less than $GDP_{MP}$ if NFIA is **negative** (as is typically the case for developing nations with net foreign debt payments)."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 5. Chapter-Specific Active Recall & Practice Questions"
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which specific aggregate among the eight national income metrics is legally and officially designated as 'National Income'?  \n(A) $GDP_{MP}$  \n(B) $GNP_{MP}$  \n(C) $NNP_{FC}$  \n(D) $NDP_{FC}$  \n**Answer:** **(C)** — $NNP_{FC}$ (Net National Product at Factor Cost) is the official National Income."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** An economy has $GDP_{MP} = ₹1,200\text{ Cr}$, Depreciation $= ₹150\text{ Cr}$, NFIA $= -₹30\text{ Cr}$, Indirect Taxes $= ₹180\text{ Cr}$, and Subsidies $= ₹60\text{ Cr}$. Calculate National Income ($NNP_{FC}$).  \n**Resolution:**  \n1. $\text{NIT} = 180 - 60 = mathbf{₹120\text{ Cr}}$.  \n2. $NNP_{FC} = GDP_{MP} + \text{NFIA} - \text{Depreciation} - \text{NIT} = 1200 + (-30) - 150 - 120 = mathbf{₹900\text{ Cr}}$."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Demonstrate the mathematical relationships connecting the 8 national income aggregates. Why is NFIA negative for many developing economies, and how does it affect the gap between GDP and GNP?'*"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "UPSC",
+      "RBI Grade B"
+    ],
+    "tags": [
+      "GDP",
+      "NDP",
+      "GNP",
+      "NNP",
+      "NFIA",
+      "Depreciation",
+      "Factor Cost",
+      "Market Price",
+      "National Income"
+    ],
+    "category": "Book I: Foundations of Economics & National Income",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T05:48:54.509Z",
+    "provenance": {
+      "sourceSystem": "Core",
+      "sourceFile": "index.html (rawBookData)",
+      "sourceId": "eco-ch-4",
+      "sourceTitle": "4. GDP, NDP, GNP & NNP Aggregate Ladder",
+      "sourceChecksum": "43997d781c7c8a63fda416f5ef08e9362cb075bb06be30265083184e657225dd",
+      "migrationTimestamp": "2026-08-15T05:48:54.509Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "id": "migrated-core-eco-ch-6",
+  "type": "chapter",
+  "domain": "economics",
+  "title": "6. Methods of Calculating National Income & Sectoral Scrutiny",
+  "summary": "National income can be calculated through production (value added), factor income generation, or final expenditure, yielding identical theoretical totals.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "First-Principles Core Truth",
+      "summary": "National income can be calculated through production (value added), factor income generation, or final expenditure, yielding identical theoretical totals."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧠 Visual Mind Map & Structural Diagram"
+    },
+    {
+      "type": "paragraph",
+      "content": "🗺️ Three Approaches to Measuring National Income"
+    },
+    {
+      "type": "paragraph",
+      "content": "1. Product / Value Added Method: Measures net contribution of each producing enterprise: $\\text{Value Added} = \\text{Value of Output} - \\text{Intermediate Consumption}$. Avoids double counting."
+    },
+    {
+      "type": "paragraph",
+      "content": "2. Income Method: Measures total factor payments generated: $\\text{Compensation of Employees} + \\text{Operating Surplus (Rent, Interest, Profit)} + \\text{Mixed Income of Self-Employed}$."
+    },
+    {
+      "type": "paragraph",
+      "content": "3. Expenditure Method: Measures total final spending: $GDP_{MP} = C + I + G + (X - M)$."
+    },
+    {
+      "type": "paragraph",
+      "content": "4. Fundamental Identity: $\\text{Total Value Added} \\equiv \\text{Total Factor Income} \\equiv \\text{Total Final Expenditure}$."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚡ 1. The Three National Income Calculation Methods"
+    },
+    {
+      "type": "paragraph",
+      "content": "#### A. Product / Value Added Method\n$$\\text{Gross Value Added (GVA)} = \\text{Value of Output} - \\text{Intermediate Consumption}$$\nWhere $\\text{Value of Output} = \\text{Sales} + \\Delta \\text{Stock (Closing Stock - Opening Stock)}$."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### B. Income Method\n$$NDP_{FC} = \\text{Compensation of Employees (COE)} + \\text{Operating Surplus (OS)} + \\text{Mixed Income (MI)}$$\n- **Operating Surplus:** Rent + Royalty + Interest + Profit (Dividends, Corporate Tax, Undistributed Profit).\n- **Mixed Income:** Income of own-account workers (farmers, doctors, shopkeepers) where labor and capital income cannot be separated."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### C. Expenditure Method\n$$GDP_{MP} = C + I + G + (X - M)$$\nWhere:\n- $C$ = Private Final Consumption Expenditure (PFCE)\n- $G$ = Government Final Consumption Expenditure (GFCE)\n- $I$ = Gross Domestic Capital Formation (GDCF = Gross Fixed Capital Formation + Change in Stocks)\n- $(X - M)$ = Net Exports"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📖 2. The Problem of Double Counting & Solutions\n- **Double Counting:** Counting the value of intermediate goods multiple times at successive stages of production (e.g. counting wheat $\rightarrow$ flour $\rightarrow$ bread).\n- **Solution 1:** Take ONLY the value of the **final good** (Bread price).\n- **Solution 2:** Take the **sum of Value Added** at each stage of production."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🏛️ 3. Data Sources & NSO Sectoral Scrutiny in India\n- **Primary Sector (Agri, Mining):** Uses Product Method (crop yield data from Ministry of Agriculture).\n- **Secondary Sector (Manufacturing, Construction):** Uses Product & Income Methods (MCA-21 corporate database + Annual Survey of Industries ASI).\n- **Tertiary Sector (Services):** Uses Income Method (RBI banking data, GST portal collections, PLFS employment data)."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚖️ 4. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Intermediate consumption (raw materials) MUST be subtracted from output. If a bakery buys flour for ₹40 and sells bread for ₹60, its Value Added is **₹20** (not ₹60!).\n- ⚠️ **Exam Trap 2:** Transfer payments (scholarships, pensions) and sale of **second-hand goods** are EXCLUDED from expenditure method (second-hand goods were already counted in the year of original manufacture)."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 5. Chapter-Specific Active Recall & Practice Questions"
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which component of the Income Method accounts for the earnings of sole proprietors, farmers, and self-employed professionals where factor payments cannot be distinguished?  \n(A) Compensation of Employees  \n(B) Operating Surplus  \n(C) Mixed Income of Self-Employed  \n(D) Net Factor Income from Abroad  \n**Answer:** **(C)** — Mixed Income combines unseparated labor, rent, and profit income of self-employed units."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** A farmer sells wheat to a miller for ₹100. The miller grinds it into flour and sells it to a baker for ₹150. The baker makes bread and sells it to consumers for ₹220. Calculate total Value Added.  \n**Resolution:**  \n1. Farmer Value Added $= 100 - 0 = ₹100$.  \n2. Miller Value Added $= 150 - 100 = ₹50$.  \n3. Baker Value Added $= 220 - 150 = ₹70$.  \n4. Total Value Added $= 100 + 50 + 70 = \\mathbf{₹220}$ (equals final bread price!)."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Compare the Product, Income, and Expenditure methods of estimating National Income. How does NSO address data gaps in India's unorganized sector?'*"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "UPSC",
+      "RBI Grade B"
+    ],
+    "tags": [
+      "Value Added Method",
+      "Income Method",
+      "Expenditure Method",
+      "Double Counting",
+      "MCA-21",
+      "NSO"
+    ],
+    "category": "Book I: Foundations of Economics & National Income",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T05:48:54.510Z",
+    "provenance": {
+      "sourceSystem": "Core",
+      "sourceFile": "index.html (rawBookData)",
+      "sourceId": "eco-ch-6",
+      "sourceTitle": "6. Methods of Calculating National Income & Sectoral Scrutiny",
+      "sourceChecksum": "85024657b0ff3bccb2ab332fdb3cdd46d5f9f24874b945b5b1233e2565f8cb11",
+      "migrationTimestamp": "2026-08-15T05:48:54.510Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

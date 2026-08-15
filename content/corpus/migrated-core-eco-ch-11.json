@@ -1,0 +1,123 @@
+{
+  "id": "migrated-core-eco-ch-11",
+  "type": "chapter",
+  "domain": "economics",
+  "title": "11. Poverty Measurement in India: Historical & Post-Independent Committees",
+  "summary": "Poverty estimation in India evolved from Dadabhai Naoroji's jail cost of living to official calorie intake and state-specific CPI consumption baskets.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "First-Principles Core Truth",
+      "summary": "Poverty estimation in India evolved from Dadabhai Naoroji's jail cost of living to official calorie intake and state-specific CPI consumption baskets."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧠 Visual Mind Map & Structural Diagram"
+    },
+    {
+      "type": "paragraph",
+      "content": "🗺️ Chronological Evolution of Indian Poverty Line Committees"
+    },
+    {
+      "type": "paragraph",
+      "content": "1. Pre-Independence (Dadabhai Naoroji, 1867): *Poverty and Un-British Rule in India*. First estimate based on **Jail Cost of Living** (₹16 to ₹35 per head per year)."
+    },
+    {
+      "type": "paragraph",
+      "content": "2. Y.K. Alagh Task Force (1979): Defined official poverty line strictly on **Calorie Intake**: **2400 kcal/day (Rural)** and **2100 kcal/day (Urban)**."
+    },
+    {
+      "type": "paragraph",
+      "content": "3. D.T. Lakdawala Committee (1993): Retained 2400/2100 kcal criteria. Disaggregated national poverty into **State-Specific Poverty Lines** using CPI-AL (Rural) and CPI-IW (Urban)."
+    },
+    {
+      "type": "paragraph",
+      "content": "4. Planning Commission Framework: Used NSSO 5-yearly Household Consumption Expenditure Survey (MPCE - Monthly Per Capita Consumption Expenditure)."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚡ 1. Historical Timeline of Indian Poverty Committees\n- **Dadabhai Naoroji (1867–70):** Used Jail Cost of Living for adults ($\frac{2}{3}$ of population needing full diet, children $\frac{1}{3}$ needing half diet $implies \frac{3}{4}$ average adult jail diet).\n- **National Planning Committee (1938):** Chaired by Jawaharlal Nehru (initiated by Subhash Chandra Bose). Set poverty line at ₹15 to ₹20 per capita per month.\n- **Bombay Plan (1944):** Proposed a poverty line of ₹75 per capita per year.\n- **Planning Commission Working Group (1962):** Recommended national minimum consumption of ₹20/month (Rural) and ₹25/month (Urban)."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📖 2. Post-Independence Official Committees Matrix\n| Committee & Year | Primary Benchmark Criteria | Inflation Index Used | Key Innovation / Policy Feature |\n|---|---|---|---|\n| **Y.K. Alagh Task Force (1979)** | **Calorie Intake:**\nRural = **2400 kcal/day**\nUrban = **2100 kcal/day** | Fixed monetary equivalent based on 1973-74 prices | First official quantitative calorie-based national poverty line |\n| **D.T. Lakdawala Committee (1993)** | Retained Alagh 2400/2100 kcal calorie benchmarks | **CPI-AL** (Consumer Price Index for Agricultural Laborers) for Rural;\n**CPI-IW** (Industrial Workers) for Urban | **Created State-Specific Poverty Lines** to account for interstate price variation; eliminated uniform national line |"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🏛️ 3. Why Rural Calorie Requirement (2400 kcal) > Urban (2100 kcal)\nRural population engages in heavier manual agricultural physical labor, requiring higher daily caloric expenditure than urban service/industrial workers."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚖️ 4. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Lakdawala Committee did NOT abandon the Alagh calorie criteria; it retained 2400/2100 kcal, but updated price indexation using **CPI-AL and CPI-IW**.\n- ⚠️ **Exam Trap 2:** Dadabhai Naoroji's Jail Cost of Living estimate applied a $\frac{3}{4}$ multiplier to adult jail diet to adjust for child demographic proportions in society."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 5. Chapter-Specific Active Recall & Practice Questions"
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which committee first introduced state-specific poverty lines updated via CPI-AL (Agricultural Laborers) and CPI-IW (Industrial Workers)?  \n(A) Y.K. Alagh Task Force (1979)  \n(B) D.T. Lakdawala Committee (1993)  \n(C) Suresh Tendulkar Committee (2009)  \n(D) C. Rangarajan Committee (2014)  \n**Answer:** **(B)** — Lakdawala Committee introduced state-level price disaggregation using CPI-AL and CPI-IW."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** A researcher evaluates 1995 poverty data using a single uniform national monetary line across all Indian states. Identify the methodological flaw corrected by the Lakdawala Committee.  \n**Resolution:** The researcher ignores interstate price variation. Lakdawala showed that living costs differ across states, necessitating state-specific CPI-adjusted poverty lines."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Trace the evolution of poverty estimation in India from Dadabhai Naoroji's Jail Cost of Living to the Lakdawala Committee. What were the structural limitations of calorie-anchored poverty lines?'*"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "UPSC",
+      "RBI Grade B"
+    ],
+    "tags": [
+      "Poverty Committees",
+      "Dadabhai Naoroji",
+      "YK Alagh 1979",
+      "Lakdawala 1993",
+      "Calorie Criteria",
+      "CPI-AL",
+      "CPI-IW"
+    ],
+    "category": "Book II: Poverty, Inequality & Human Capital",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T05:48:54.511Z",
+    "provenance": {
+      "sourceSystem": "Core",
+      "sourceFile": "index.html (rawBookData)",
+      "sourceId": "eco-ch-11",
+      "sourceTitle": "11. Poverty Measurement in India: Historical & Post-Independent Committees",
+      "sourceChecksum": "089a9e83e44cc5337c770e456459b042ff2c3fee9baab7c04ceb524dd2104f8a",
+      "migrationTimestamp": "2026-08-15T05:48:54.511Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

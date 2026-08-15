@@ -1,0 +1,114 @@
+{
+  "id": "migrated-core-eco-ch-21",
+  "type": "chapter",
+  "domain": "economics",
+  "title": "21. Industrial Policies in India: 1948, 1956 Mahalanobis to 1991",
+  "summary": "India's industrial policy shifted from state-led Mahalanobis heavy industrialization under IPR 1956 to market-driven liberalization under the 1991 reforms.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "First-Principles Core Truth",
+      "summary": "India's industrial policy shifted from state-led Mahalanobis heavy industrialization under IPR 1956 to market-driven liberalization under the 1991 reforms."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧠 Visual Mind Map & Structural Diagram"
+    },
+    {
+      "type": "paragraph",
+      "content": "🗺️ Evolutionary Arc of Indian Industrial Policies"
+    },
+    {
+      "type": "paragraph",
+      "content": "1. Industrial Policy Resolution 1948: First industrial policy statement. Declared India a **Mixed Economy** with 4 categories of industries."
+    },
+    {
+      "type": "paragraph",
+      "content": "2. IPR 1956 ('Economic Constitution of India'): Shaped by Mahalanobis Strategy. Classified industries into Schedule A (17 State Monopolies), Schedule B (12 Mixed), and Schedule C (Private). Ushered in **License Raj** (Industries Dev & Reg Act 1951)."
+    },
+    {
+      "type": "paragraph",
+      "content": "3. New Industrial Policy (July 24, 1991): Abolished License Raj for all except 18 industries. Reduced public sector reservation from 17 to 8 (now only 2: Atomic Energy & Railway Operations!)."
+    },
+    {
+      "type": "paragraph",
+      "content": "4. MRTP & Foreign Equity: Replaced MRTP limits with Competition Act 2002. Allowed up to 51% FDI foreign equity in high-priority industries under automatic route."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚡ 1. IPR 1956 vs. New Industrial Policy 1991 Matrix\n| Feature | IPR 1956 (State-Led Command Model) | New Industrial Policy 1991 (LPG Model) |\n|---|---|---|\n| **Core Philosophy** | State commanding heights of economy | Market-led efficiency & global integration |\n| **Public Sector Reservation** | 17 Exclusive Industries (Schedule A) | Reduced to 8 in 1991 $\rightarrow$ **Currently ONLY 2** (Atomic Energy, Railways) |\n| **Industrial Licensing** | Mandatory license for expanding/setting up firms | **Abolished** for all except 5 hazardous/security industries |\n| **Monopoly Control** | MRTP Act 1969 (Asset cap of ₹20 Cr / ₹100 Cr) | MRTP limits removed; replaced by **Competition Act 2002** |\n| **Foreign Direct Investment** | Restricted; strict tech transfer rules | Automatic approval up to 51% FDI in priority sectors |"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📖 2. Current 5 Industries Requiring Mandatory Industrial Licensing\n1. Distillations and brewing of alcoholic drinks.\n2. Cigars and cigarettes of tobacco & manufactured tobacco substitutes.\n3. Electronic aerospace and defence equipment.\n4. Industrial explosives.\n5. Specified hazardous chemicals."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Currently, only **TWO** industries are reserved exclusively for the public sector: **Atomic Energy** and **Railway Operations** (passenger train operations are being opened up, but core track infrastructure/operations remain reserved).\n- ⚠️ **Exam Trap 2:** The 1991 Industrial Policy abolished the MRTP asset limit threshold, leading to the enactment of the **Competition Act 2002** and setting up of CCI (Competition Commission of India)."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 4. Chapter-Specific Active Recall & Practice Questions"
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which of the following industries is currently reserved EXCLUSIVELY for the Public Sector in India?  \n(A) Telecommunications  \n(B) Defense Equipment Manufacturing  \n(C) Atomic Energy  \n(D) Steel Production  \n**Answer:** **(C)** — Atomic Energy remains strictly reserved for the public sector."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** A private company wishes to establish a commercial solar power generation plant in Rajasthan. Under current industrial policy, does it require an Industrial License from DPIIT?  \n**Resolution:** **NO**. Power generation is not among the 5 industries requiring mandatory licensing, nor is it reserved for the public sector."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Critically analyze the shift from the 1956 Mahalanobis heavy industrialization strategy to the 1991 Liberalization, Privatization, and Globalization (LPG) reforms.'*"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "UPSC",
+      "RBI Grade B"
+    ],
+    "tags": [
+      "Industrial Policy",
+      "IPR 1948",
+      "IPR 1956",
+      "LPG Reforms 1991",
+      "Licensing",
+      "MRTP Act",
+      "De-reservation"
+    ],
+    "category": "Book IV: Industry, Industrial Policy & Manufacturing",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T05:48:54.512Z",
+    "provenance": {
+      "sourceSystem": "Core",
+      "sourceFile": "index.html (rawBookData)",
+      "sourceId": "eco-ch-21",
+      "sourceTitle": "21. Industrial Policies in India: 1948, 1956 Mahalanobis to 1991",
+      "sourceChecksum": "9ce4fd5ff40ad602f05e463c7f0950e05b744d44a73979ca2471686b8fa7b30f",
+      "migrationTimestamp": "2026-08-15T05:48:54.512Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

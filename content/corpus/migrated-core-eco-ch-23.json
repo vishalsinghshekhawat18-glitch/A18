@@ -1,0 +1,123 @@
+{
+  "id": "migrated-core-eco-ch-23",
+  "type": "chapter",
+  "domain": "economics",
+  "title": "23. MSME Sector Architecture & 2020 Composite Criteria",
+  "summary": "Micro, Small, and Medium Enterprises (MSMEs) form the backbone of Indian industrial employment, categorized under the 2020 composite investment and turnover thresholds.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "First-Principles Core Truth",
+      "summary": "Micro, Small, and Medium Enterprises (MSMEs) form the backbone of Indian industrial employment, categorized under the 2020 composite investment and turnover thresholds."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧠 Visual Mind Map & Structural Diagram"
+    },
+    {
+      "type": "paragraph",
+      "content": "🗺️ MSME Regulatory Framework & Policy Support"
+    },
+    {
+      "type": "paragraph",
+      "content": "1. Pre-2020 vs Post-2020 Criteria: Pre-2020 rules used separate investment limits for Manufacturing vs Services. Post-2020 rules created unified composite criteria (Investment AND Turnover) for both sectors."
+    },
+    {
+      "type": "paragraph",
+      "content": "2. Composite Classification Matrix: Micro ($\\le ₹1\\text{ Cr}$ Inv, $\\le ₹5\\text{ Cr}$ Turn) | Small ($\\le ₹10\\text{ Cr}$ Inv, $\\le ₹50\\text{ Cr}$ Turn) | Medium ($\\le ₹50\\text{ Cr}$ Inv, $\\le ₹250\\text{ Cr}$ Turn)."
+    },
+    {
+      "type": "paragraph",
+      "content": "3. Key Institutional Platforms: Udyam Registration (Self-declaration portal) | TReDS (Bill discounting platform) | CGTMSE (Collateral-free credit guarantee) | RAMP (World Bank assisted program)."
+    },
+    {
+      "type": "paragraph",
+      "content": "4. Priority Sector Lending (PSL): 40% PSL target for domestic commercial banks includes specific sub-targets for Micro Enterprises (7.5% of ANBC)."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚡ 1. Historical Evolution of MSME Classification\n- **MSMED Act 2006:** Divided enterprises into Manufacturing and Services, relying *solely on investment in plant & machinery/equipment*. This created a growth disincentive (firms refused to expand investment to avoid losing MSME concessions!).\n- **Gazette Notification June 26, 2020 (Effective July 1, 2020):** Eliminated the distinction between Manufacturing and Services. Introduced **Composite Criteria** combining **Investment** AND **Turnover**."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📖 2. Unified MSME Composite Classification Matrix (2020 Norms)\n| Enterprise Category | Investment Limit (Plant & Machinery / Equipment) | Annual Turnover Limit | Exclusion Benefit |\n|---|---|---|---|\n| **Micro Enterprise** | $\\le \\mathbf{\\text{₹}1\\text{ Crore}}$ | $\\le \\mathbf{\\text{₹}5\\text{ Crore}}$ | Export turnover is **EXCLUDED** from turnover calculation! |\n| **Small Enterprise** | $\\le \\mathbf{\\text{₹}10\\text{ Crore}}$ | $\\le \\mathbf{\\text{₹}50\\text{ Crore}}$ | Export turnover is **EXCLUDED** from turnover calculation! |\n| **Medium Enterprise** | $\\le \\mathbf{\\text{₹}50\\text{ Crore}}$ | $\\le \\mathbf{\\text{₹}250\\text{ Crore}}$ | Export turnover is **EXCLUDED** from turnover calculation! |"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧮 3. Key Policy Schemes & Digital Infrastructure\n1. **Udyam Registration Portal:** Zero-cost paperless portal linked with Income Tax (PAN) and GSTIN databases for automatic MSME verification.\n2. **TReDS (Trade Receivables Discounting System):** Institutional digital platform regulated by RBI under Factoring Regulation Act 2011 to facilitate discounting of trade receivables of MSMEs from corporate buyers (eliminates delayed payment bottlenecks!).\n3. **CGTMSE (Credit Guarantee Fund Trust for Micro and Small Enterprises):** Jointly set up by Ministry of MSME and SIDBI to provide **collateral-free credit guarantees** to lenders.\n4. **RAMP Scheme (Raising and Accelerating MSME Performance):** World Bank-assisted ₹6,062 Cr central sector scheme to strengthen MSME governance, technology, and market access."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚖️ 4. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Under the 2020 rules, a firm MUST fulfill **BOTH** limits (Investment AND Turnover) to remain in a lower category. If it exceeds *either* limit, it is placed in the higher category!\n- ⚠️ **Exam Trap 2:** Exports turnover is **strictly excluded** when calculating the annual turnover limit for MSME classification. This encourages MSMEs to export aggressively without fear of losing MSME status!"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 5. Chapter-Specific Active Recall & Practice Questions"
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Under the 2020 MSME Composite Criteria, what are the maximum Investment and Turnover limits for a 'Small' Enterprise?  \n(A) Inv $\\le ₹1\\text{ Cr}$, Turnover $\\le ₹5\\text{ Cr}$  \n(B) Inv $\\le ₹10\\text{ Cr}$, Turnover $\\le ₹50\\text{ Cr}$  \n(C) Inv $\\le ₹50\\text{ Cr}$, Turnover $\\le ₹250\\text{ Cr}$  \n(D) Inv $\\le ₹25\\text{ Cr}$, Turnover $\\le ₹100\\text{ Cr}$  \n**Answer:** **(B)** — Small Enterprise: Investment $\\le ₹10\\text{ Cr}$ AND Annual Turnover $\\le ₹50\\text{ Cr}$."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** Enterprise A has an investment of ₹8 Crore in plant & machinery. Its total domestic turnover is ₹40 Crore and export turnover is ₹20 Crore (Total turnover = ₹60 Crore). Classify Enterprise A under 2020 MSME rules.  \n**Resolution:**  \n1. Investment $= ₹8\\text{ Cr} \\le ₹10\\text{ Cr}$ (Small category).  \n2. Applicable turnover $= \\text{Total Turnover} - \\text{Export Turnover} = 60 - 20 = \\mathbf{₹40\\text{ Cr}} \\le ₹50\\text{ Cr}$ (Small category).  \n3. Enterprise A is classified as a **Small Enterprise**!"
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Evaluate the structural changes introduced by the 2020 MSME Composite Classification. How do digital platforms like TReDS and Udyam address the twin challenges of credit access and delayed payments for MSMEs?'*"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "UPSC",
+      "RBI Grade B"
+    ],
+    "tags": [
+      "MSME",
+      "MSMED Act 2006",
+      "2020 Composite Criteria",
+      "Investment & Turnover",
+      "Udyam Portal",
+      "CGTMSE",
+      "TReDS"
+    ],
+    "category": "Book I: Foundations of Economics & National Income",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T05:48:54.513Z",
+    "provenance": {
+      "sourceSystem": "Core",
+      "sourceFile": "index.html (rawBookData)",
+      "sourceId": "eco-ch-23",
+      "sourceTitle": "23. MSME Sector Architecture & 2020 Composite Criteria",
+      "sourceChecksum": "d1f85f2cc790efba8d2a0c873797cfd61e59e8d28176719a66af3f14072bf1b1",
+      "migrationTimestamp": "2026-08-15T05:48:54.513Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

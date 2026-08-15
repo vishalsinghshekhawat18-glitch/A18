@@ -1,0 +1,137 @@
+{
+  "id": "migrated-core-eco-ch-15",
+  "type": "chapter",
+  "domain": "economics",
+  "title": "15. Inflation Mechanics, Types & The Phillips Curve",
+  "summary": "Inflation is a sustained increase in the general price level of goods and services, driven by demand pressures, supply shocks, or structural bottlenecks.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "First-Principles Core Truth",
+      "summary": "Inflation is a sustained increase in the general price level of goods and services, driven by demand pressures, supply shocks, or structural bottlenecks."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧠 Visual Mind Map & Structural Diagram"
+    },
+    {
+      "type": "paragraph",
+      "content": "🗺️ Inflation Drivers, Trade-Offs & Categorization"
+    },
+    {
+      "type": "paragraph",
+      "content": "1. Demand-Pull Inflation: Driven by excess aggregate demand ($AD > AS$) due to fiscal expansion, monetary easing, or rapid population growth (\"too much money chasing too few goods\")."
+    },
+    {
+      "type": "paragraph",
+      "content": "2. Cost-Push Inflation: Driven by sudden supply shocks or surge in production input costs (crude oil price spike, agricultural drought, wage increases, indirect tax hikes)."
+    },
+    {
+      "type": "paragraph",
+      "content": "3. The Phillips Curve Trade-Off: Short-Run Phillips Curve shows inverse relationship between Inflation and Unemployment. Long-Run Phillips Curve is vertical at the Natural Rate of Unemployment (NAIRU)."
+    },
+    {
+      "type": "paragraph",
+      "content": "4. Headline vs Core Inflation: Headline Inflation measures total inflation (including volatile food & energy). Core Inflation excludes volatile Food and Fuel components."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚡ 1. Speed Classification of Inflation\n- **Creeping Inflation:** Mild and predictable price rise ($1\\% \\text{ to } 3\\%$ per annum). Considered beneficial for economic growth as it encourages investment.\n- **Walking / Trotting Inflation:** Moderate price rise ($3\\% \\text{ to } 7\\%$ per annum). Warning signal for central bank intervention.\n- **Galloping Inflation:** Dual/triple-digit rapid price rise ($20\\% \\text{ to } 100\\%$ per annum). Severely erodes currency purchasing power.\n- **Hyperinflation:** Out-of-control exponential price surge ($>50\\%$ per month or $>1000\\%$ per annum, e.g. Weimar Germany 1923, Zimbabwe 2008)."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📖 2. Demand-Pull vs. Cost-Push Inflation Matrix\n| Feature | Demand-Pull Inflation | Cost-Push Inflation |\n|---|---|---|\n| **Primary Cause** | Surge in Aggregate Demand ($AD$ shifts right) | Supply disruption / Input cost surge ($AS$ shifts left) |\n| **Output Impact** | Real GDP increases initially above potential | Real GDP decreases (Stagflation risk!) |\n| **Triggers** | High Govt spending, low Repo rates, tax cuts | Crude oil shocks, crop failures, currency depreciation |\n| **Monetary Remedy** | Repo rate hikes, CRR hikes, OMO bond sales | Supply management, tariff cuts, strategic reserve releases |"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧮 3. The Phillips Curve & NAIRU Analysis\nDeveloped by A.W. Phillips (1958) studying UK wage and unemployment data:"
+    },
+    {
+      "type": "paragraph",
+      "content": "- **Short-Run Phillips Curve (SRPC):** Demonstrates an **inverse trade-off** between inflation rate and unemployment rate. To reduce unemployment, central bank allows higher inflation (monetary expansion).\n- **Stagflation Breakdown (1970s Oil Shocks):** High Inflation AND High Unemployment occurring simultaneously, causing SRPC to collapse!\n- **Long-Run Phillips Curve (LRPC):** Proposed by Milton Friedman & Edmund Phelps. In the long run, there is **no trade-off**. LRPC is a **vertical line** at the **NAIRU** (Non-Accelerating Inflation Rate of Unemployment / Natural Rate)."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🏛️ 4. Related Inflationary Concepts\n- **Stagflation:** Stagnant growth (recession/low GDP) + High Inflation + High Unemployment.\n- **Reflation:** Deliberate policy actions to restore prices to normal levels after a period of deflation/recession.\n- **Disinflation:** A reduction in the *rate of inflation* (e.g., inflation falling from 7% to 4%; prices are still rising, but at a slower speed!).\n- **Deflation:** Sustained decrease in general price level (negative inflation rate, e.g., $-1\\%$)."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚖️ 5. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Disinflation is NOT Deflation! Under Disinflation, inflation rate is positive but declining ($6\\% \\rightarrow 4\\%$). Under Deflation, inflation rate is **negative** (prices absolute fall).\n- ⚠️ **Exam Trap 2:** Core Inflation is less volatile than Headline Inflation because it excludes Food and Fuel items. In India, RBI targets **Headline CPI inflation** ($4\\% \\pm 2\\%$) under the Flexible Inflation Targeting framework."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 6. Chapter-Specific Active Recall & Practice Questions"
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** According to modern macroeconomic theory, what is the shape of the Long-Run Phillips Curve (LRPC)?  \n(A) Downward sloping curve  \n(B) Horizontal straight line  \n(C) Vertical straight line at NAIRU  \n(D) Upward sloping curve  \n**Answer:** **(C)** — In the long run, unemployment returns to its natural rate (NAIRU) regardless of inflation."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** An economy experiences a global crude oil price hike of 40%. Concurrently, its central bank notices real GDP contracting while CPI inflation jumps from 4% to 9%. Identify the macroeconomic phenomenon.  \n**Resolution:** This is **Cost-Push Inflation** leading to **Stagflation** (stagnant GDP growth combined with high cost-driven inflation)."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Critically evaluate the trade-offs implied by the Phillips Curve in short-run versus long-run macroeconomics. How does Cost-Push inflation constrain central bank policy under Flexible Inflation Targeting?'*"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "UPSC",
+      "RBI Grade B"
+    ],
+    "tags": [
+      "Inflation",
+      "Demand-Pull",
+      "Cost-Push",
+      "Phillips Curve",
+      "NAIRU",
+      "Core Inflation",
+      "Headline Inflation",
+      "Deflation"
+    ],
+    "category": "Book IV: Monetary Economics, Inflation & RBI Framework",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T05:48:54.511Z",
+    "provenance": {
+      "sourceSystem": "Core",
+      "sourceFile": "index.html (rawBookData)",
+      "sourceId": "eco-ch-15",
+      "sourceTitle": "15. Inflation Mechanics, Types & The Phillips Curve",
+      "sourceChecksum": "8000112b0df1960e4c2d50652ad2b5c08c3818847b88e20c3de9b2699c1a3c02",
+      "migrationTimestamp": "2026-08-15T05:48:54.511Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

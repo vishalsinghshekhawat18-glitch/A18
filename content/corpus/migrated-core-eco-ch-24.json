@@ -1,0 +1,125 @@
+{
+  "id": "migrated-core-eco-ch-24",
+  "type": "chapter",
+  "domain": "economics",
+  "title": "24. Agriculture Sector & MSP Architecture",
+  "summary": "Minimum Support Prices (MSP) protect farmers from distress sales, calculated by CACP across 22 mandated crops plus sugarcane Fair and Remunerative Price (FRP).",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "First-Principles Core Truth",
+      "summary": "Minimum Support Prices (MSP) protect farmers from distress sales, calculated by CACP across 22 mandated crops plus sugarcane Fair and Remunerative Price (FRP)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧠 Visual Mind Map & Structural Diagram"
+    },
+    {
+      "type": "paragraph",
+      "content": "🗺️ Agriculture Price Policy & MSP Framework"
+    },
+    {
+      "type": "paragraph",
+      "content": "1. CACP Role: Commission for Agricultural Costs and Prices (CACP - 1965) recommends MSPs. Final decision taken by **Cabinet Committee on Economic Affairs (CCEA)**."
+    },
+    {
+      "type": "paragraph",
+      "content": "2. 22 Mandated Crops + FRP: 14 Kharif crops, 6 Rabi crops, 2 Commercial crops (Jute, Copra) + Sugarcane **Fair and Remunerative Price (FRP)**."
+    },
+    {
+      "type": "paragraph",
+      "content": "3. Cost Formulas (Swaminathan Commission): $A2$ (Out-of-pocket costs) | $A2+FL$ (Paid out costs + Family Labor) | $C2$ (Comprehensive cost including rental value of land and interest on capital)."
+    },
+    {
+      "type": "paragraph",
+      "content": "4. 1.5x Production Cost Rule: Budget 2018-19 benchmarked MSP at **at least 150% of $A2+FL$ cost**."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚡ 1. CACP Cost Concepts Explained\n1. **Cost A2:** Includes all paid-out expenses directly incurred by farmer (seeds, fertilizers, pesticides, hired labor, fuel, irrigation).\n2. **Cost A2 + FL:** Includes **Cost A2 + Imputed value of Unpaid Family Labor**. *(Official basis for 1.5x MSP formula!)*\n3. **Cost C2:** Comprehensive cost = $\text{Cost A2+FL} + \text{Imputed rental value of owned land} + \text{Interest on owned fixed capital assets}$."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📖 2. 22 Mandated Crops Breakdown Table\n| Season / Category | Number of Crops | Mandated Crops Included |\n|---|---|---|\n| **Kharif Crops** | 14 Crops | Paddy, Jowar, Bajra, Maize, Ragi, Arhar (Tur), Moong, Urad, Cotton, Groundnut, Sunflower seed, Soyabean, Sesamum, Nigerseed |\n| **Rabi Crops** | 6 Crops | Wheat, Barley, Gram, Masur (Lentil), Rapeseed & Mustard, Safflower |\n| **Commercial Crops** | 2 Crops | Raw Jute, Copra (De-husked Coconut) |\n| **Sugarcane (Special Statutory)** | 1 Price | **Fair and Remunerative Price (FRP)** (Fixed under Sugarcane Control Order 1966) |"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🏛️ 3. Digital Agricultural Marketing & e-NAM\n- **e-NAM (National Agriculture Market):** Pan-India electronic trading portal connecting APMC mandis to create a unified national market for agricultural commodities.\n- **Nodal Implementation Agency:** Small Farmers Agribusiness Consortium (SFAC)."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚖️ 4. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** CACP **recommends** MSP, but the final decision to announce MSP is made by the **Cabinet Committee on Economic Affairs (CCEA)** chaired by Prime Minister!\n- ⚠️ **Exam Trap 2:** Official 1.5x MSP rule uses **Cost A2+FL**, NOT Cost C2 (Swaminathan Commission recommended C2 + 50%, but government adopted A2+FL + 50%)."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 5. Chapter-Specific Active Recall & Practice Questions"
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which body approves and officially announces the Minimum Support Prices (MSP) for agricultural crops based on CACP recommendations?  \n(A) Commission for Agricultural Costs and Prices (CACP)  \n(B) Cabinet Committee on Economic Affairs (CCEA)  \n(C) NITI Aayog  \n(D) Ministry of Agriculture and Farmers Welfare  \n**Answer:** **(B)** — CCEA makes the final official announcement."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** A farmer's direct paid-out cost for wheat is ₹800/quintal ($A2$), value of family labor is ₹400/quintal ($FL$), and imputed land rent is ₹300/quintal. Calculate minimum MSP under the official 1.5x $A2+FL$ benchmark.  \n**Resolution:**  \n1. $A2 + FL = 800 + 400 = mathbf{₹1,200\text{/quintal}}$.  \n2. $\text{Minimum MSP} = 1.5 \times (A2+FL) = 1.5 \times 1200 = mathbf{₹1,800\text{/quintal}}$."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Evaluate the structural effectiveness of the MSP framework in India. Compare the A2+FL cost formula with the Swaminathan Commission's C2 recommendation.'*"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "UPSC",
+      "RBI Grade B"
+    ],
+    "tags": [
+      "Agriculture",
+      "MSP",
+      "CACP",
+      "A2+FL",
+      "C2",
+      "Mandated Crops",
+      "Sugarcane FRP",
+      "e-NAM",
+      "APMC"
+    ],
+    "category": "Book V: Agriculture, Rural Economy & Land Reforms",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T05:48:54.513Z",
+    "provenance": {
+      "sourceSystem": "Core",
+      "sourceFile": "index.html (rawBookData)",
+      "sourceId": "eco-ch-24",
+      "sourceTitle": "24. Agriculture Sector & MSP Architecture",
+      "sourceChecksum": "29dfae242d9304b599fdb3f641729854e3283b490144915da5d329662011ebbf",
+      "migrationTimestamp": "2026-08-15T05:48:54.513Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

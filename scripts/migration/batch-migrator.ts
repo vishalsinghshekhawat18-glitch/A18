@@ -1,8 +1,8 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { LegacySourceIndex, SourceEntityRecord } from './source-index';
-import { ManifestManager, ManifestEntry } from './migration-manifest';
+import { LegacySourceIndex } from './source-index';
+import { ManifestManager } from './migration-manifest';
 import { BatchValidator, BatchValidationResult } from './batch-validator';
 import { transformCoreChapterToKnowledgeItem } from './extractors/core-extractor';
 import { transformCANoteToKnowledgeItem } from './extractors/ca-extractor';
@@ -149,7 +149,7 @@ export class BatchMigrator {
           path.join(corpusDir, `${item.id}.json`),
           JSON.stringify(item, null, 2)
         );
-        const prov = item.metadata.provenance;
+        const prov = item.metadata!.provenance!;
         this.manifestManager.updateEntryStatus(prov.sourceSystem, prov.sourceId, 'migrated', item.id, 'PASS', config.batchNumber);
       }
       console.log(`💾 Batch #${config.batchNumber} files written to content/corpus/ and manifest updated.\n`);

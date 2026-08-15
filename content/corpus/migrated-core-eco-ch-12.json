@@ -1,0 +1,118 @@
+{
+  "id": "migrated-core-eco-ch-12",
+  "type": "chapter",
+  "domain": "economics",
+  "title": "12. Tendulkar vs. Rangarajan Committees & NITI Aayog National MPI",
+  "summary": "Tendulkar shifted poverty estimation to uniform mixed reference period consumption, while Rangarajan restored nutrition norms and NITI Aayog adopted multidimensional MPI.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "First-Principles Core Truth",
+      "summary": "Tendulkar shifted poverty estimation to uniform mixed reference period consumption, while Rangarajan restored nutrition norms and NITI Aayog adopted multidimensional MPI."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧠 Visual Mind Map & Structural Diagram"
+    },
+    {
+      "type": "paragraph",
+      "content": "🗺️ Modern Poverty Line Reform: Tendulkar vs. Rangarajan vs. National MPI"
+    },
+    {
+      "type": "paragraph",
+      "content": "1. Suresh Tendulkar Committee (2009): Shifted away from calorie anchor. Used **Urban Basket** as uniform baseline. Adopted **Mixed Recall Period (MRP)**. Poverty line: **₹27/day (Rural)** & **₹33/day (Urban)** [₹816 & ₹1000/month]. 2011-12 Poverty = **21.9%**."
+    },
+    {
+      "type": "paragraph",
+      "content": "2. C. Rangarajan Committee (2014): Restored nutrition norms (calories + protein + fat) + non-food requirements. Adopted **Modified Mixed Recall Period (MMRP)**. Poverty line: **₹32/day (Rural)** & **₹47/day (Urban)** [₹972 & ₹1407/month]. 2011-12 Poverty = **29.5%**."
+    },
+    {
+      "type": "paragraph",
+      "content": "3. NITI Aayog National MPI (2021/2023): Non-monetary multidimensional measure using NFHS data across **12 indicators**."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚡ 1. Tendulkar vs. Rangarajan Committees Benchmark Comparison\n| Parameter | Suresh Tendulkar Committee (2009) | C. Rangarajan Committee (2014) |\n|---|---|---|\n| **Calorie Anchor** | **Abandoned explicit calorie anchor** | **Restored calorie + protein + fat norms** (Rural: 2155 kcal, Urban: 2090 kcal) |\n| **Recall Period Used** | Mixed Recall Period (MRP - 365-day for low-frequency items) | Modified Mixed Recall Period (MMRP - 7-day for edible oil/veg, 30-day for rest) |\n| **Rural Poverty Line (2011-12)** | **₹27 / day** (₹816 per capita per month) | **₹32 / day** (₹972 per capita per month) |\n| **Urban Poverty Line (2011-12)** | **₹33 / day** (₹1,000 per capita per month) | **₹47 / day** (₹1,407 per capita per month) |\n| **Poverty Headcount (2011-12)** | **21.9%** (269.8 million poor) | **29.5%** (363 million poor) |\n| **Price Index Used** | Fisher Ideal Index | Independent State-level CPI-AL and CPI-IW |"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📖 2. NSSO Recall Periods Explained\n- **Uniform Recall Period (URP):** Asks respondents about consumption expenditure over a uniform **30-day recall period** for all goods. *(Used pre-2005)*.\n- **Mixed Recall Period (MRP):** Uses 30-day recall for general goods, but **365-day recall** for 5 non-food low-frequency items (clothing, footwear, durable goods, education, institutional medical). *(Used by Tendulkar)*.\n- **Modified Mixed Recall Period (MMRP):** Uses **7-day recall** for highly volatile food items (edible oil, eggs, meat, vegetables, fruits), 365-day for 5 non-food items, and 30-day for remaining items. *(Used by Rangarajan & current NSO MPCE surveys)*."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🏛️ 3. NITI Aayog National MPI Architecture & Progress\n- **Data Source:** NFHS-4 (2015-16) & NFHS-5 (2019-21) health surveys.\n- **12 Indicators:** Nutrition, Child & Adolescent Mortality, Maternal Health, Years of Schooling, School Attendance, Cooking Fuel, Sanitation, Drinking Water, Electricity, Housing, Assets, Bank Accounts.\n- **Reported Trend (NITI Aayog 2023 Update):** 13.5 Crore Indians exited multidimensional poverty between 2015-16 and 2019-21 (MPI headcount ratio dropped from 24.85% to 14.96%)."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚖️ 4. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Official government poverty estimates in India for 2011-12 are still based on the **Tendulkar Committee line (21.9%)**, because Rangarajan Committee recommendations were NOT formally accepted by government cabinet.\n- ⚠️ **Exam Trap 2:** Tendulkar used the **Urban Consumption Basket** as the universal anchor for both rural and urban poverty lines."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 5. Chapter-Specific Active Recall & Practice Questions"
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which recall period methodology adopted by the C. Rangarajan Committee uses a 7-day recall period for volatile food items alongside 30-day and 365-day recall periods?  \n(A) Uniform Recall Period (URP)  \n(B) Mixed Recall Period (MRP)  \n(C) Modified Mixed Recall Period (MMRP)  \n(D) Annual Expenditure Period (AEP)  \n**Answer:** **(C)** — MMRP uses 7-day recall for volatile food items (vegetables, spices, meat)."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** A commentator states that Rangarajan's poverty estimates showed lower poverty than Tendulkar's for 2011-12. Evaluate this statement against official statistics.  \n**Resolution:** The statement is **FALSE**. Rangarajan set higher monetary lines (₹32/₹47 vs ₹27/₹33), resulting in a **HIGHER** poverty headcount (29.5% vs 21.9%)."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Critically compare the methodology and poverty headcount outcomes of the Tendulkar and Rangarajan Committees. How does NITI Aayog's National MPI address non-monetary deprivations?'*"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "UPSC",
+      "RBI Grade B"
+    ],
+    "tags": [
+      "Tendulkar Committee 2009",
+      "Rangarajan Committee 2014",
+      "NITI Aayog MPI",
+      "MPCE",
+      "NFHS-5",
+      "Poverty Lines"
+    ],
+    "category": "Book II: Poverty, Inequality & Human Capital",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T05:48:54.511Z",
+    "provenance": {
+      "sourceSystem": "Core",
+      "sourceFile": "index.html (rawBookData)",
+      "sourceId": "eco-ch-12",
+      "sourceTitle": "12. Tendulkar vs. Rangarajan Committees & NITI Aayog National MPI",
+      "sourceChecksum": "e597c4601f08d1c3a138c309c3d8f70ed61cc1ed2c4af0801e4d1bd027411385",
+      "migrationTimestamp": "2026-08-15T05:48:54.511Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

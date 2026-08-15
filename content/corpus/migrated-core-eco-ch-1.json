@@ -1,0 +1,140 @@
+{
+  "id": "migrated-core-eco-ch-1",
+  "type": "chapter",
+  "domain": "economics",
+  "title": "1. What is Economics? Scarcity, Choice & Opportunity Cost",
+  "summary": "Economics is the study of how society manages its scarce resources to satisfy unlimited human wants through optimal choice.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "First-Principles Core Truth",
+      "summary": "Economics is the study of how society manages its scarce resources to satisfy unlimited human wants through optimal choice."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧠 Visual Mind Map & Structural Diagram"
+    },
+    {
+      "type": "paragraph",
+      "content": "🗺️ Core Foundation of Economic Decision Making"
+    },
+    {
+      "type": "paragraph",
+      "content": "1. Scarcity & Unlimited Wants: Human desires are infinite, but productive resources (Land, Labor, Capital, Entrepreneurship) are strictly finite."
+    },
+    {
+      "type": "paragraph",
+      "content": "2. The Problem of Choice: Because resources are scarce and have alternative uses, allocating resources to one good implies sacrificing another."
+    },
+    {
+      "type": "paragraph",
+      "content": "3. Opportunity Cost: The value of the next best alternative foregone when a choice is made."
+    },
+    {
+      "type": "paragraph",
+      "content": "4. Production Possibility Frontier (PPF): Graphical curve showing all maximum output combinations of two goods an economy can produce using fixed technology and resources efficiently."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚡ 1. Historical & Conceptual Definitions\n- **Wealth Definition (Adam Smith, 1776):** Economics is an inquiry into the nature and causes of the wealth of nations (*An Inquiry into the Nature and Causes of the Wealth of Nations*).\n- **Welfare Definition (Alfred Marshall, 1890):** Economics is a study of mankind in the ordinary business of life; it examines that part of individual and social action which is connected with the attainment of material requisites of well-being.\n- **Scarcity Definition (Lionel Robbins, 1932):** Economics is the science which studies human behavior as a relationship between ends and scarce means which have alternative uses."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📖 2. Microeconomics vs. Macroeconomics Comparison Matrix\n| Parameter | Microeconomics | Macroeconomics |\n|---|---|---|\n| **Origin & Founder** | Greek *Mikros* (Small); Alfred Marshall | Greek *Makros* (Large); John Maynard Keynes (1936) |\n| **Focus Unit** | Individual economic units (Consumer, Firm, Industry) | Economy as a whole (Aggregate Output, Inflation, Employment) |\n| **Central Problem** | Price Determination & Resource Allocation | Level of Income and Employment Determination |\n| **Key Variables** | Individual Demand, Individual Supply, Market Price | Aggregate Demand ($AD$), Aggregate Supply ($AS$), National Income ($GDP$) |\n| **Methodology** | Partial Equilibrium Analysis (Other things remaining constant) | General Equilibrium Analysis |"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧮 3. Production Possibility Frontier (PPF) & Marginal Rate of Transformation (MRT)\nThe **Production Possibility Frontier (PPF)** illustrates resource constraints."
+    },
+    {
+      "type": "paragraph",
+      "content": "$$\\text{Marginal Rate of Transformation (MRT)} = \\frac{\\Delta \\text{Good Y sacrificed}}{\\Delta \\text{Good X gained}}$$"
+    },
+    {
+      "type": "paragraph",
+      "content": "- **Shape of PPF:** Concave to the origin because MRT increases as more of one good is produced (law of increasing marginal opportunity cost, as resources are specialized and not equally efficient in producing all goods).\n- **Points on PPF:** Efficient resource utilization.\n- **Points Inside PPF:** Underutilization or inefficient allocation of resources / unemployment.\n- **Points Outside PPF:** Unattainable given current resources and technology."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🏛️ 4. Positive vs. Normative Economics\n- **Positive Economics:** Deals with \"what is\" or \"how the economy actually works.\" Statements can be tested, verified, or disproved using empirical data (e.g., *\"An increase in fuel price leads to a decrease in fuel demand\"*).\n- **Normative Economics:** Deals with \"what ought to be\" or value judgments. Statements cannot be empirically tested because they represent subjective opinions (e.g., *\"The government should provide free electricity to marginal farmers\"*)."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚖️ 5. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Opportunity cost is NOT the total sum of all alternatives foregone; it is ONLY the value of the **single next best alternative**.\n- ⚠️ **Exam Trap 2:** A straight-line PPF implies a **constant** MRT (opportunity cost remains constant), which happens only if resources are perfectly adaptable between the two goods."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 6. Chapter-Specific Active Recall & Practice Questions"
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Why is the Production Possibility Frontier (PPF) typically concave to the origin?  \n(A) Opportunity cost remains constant  \n(B) Marginal Rate of Transformation (MRT) increases as output shifts  \n(C) Resources are equally efficient in all activities  \n(D) Technology is continuously improving  \n**Answer:** **(B)** — Concavity is caused by increasing MRT due to resource specialization."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** A farmer can cultivate Wheat (earning ₹50,000), Rice (earning ₹40,000), or Vegetables (earning ₹35,000) on his 1-hectare plot. If he chooses to cultivate Wheat, what is his Opportunity Cost?  \n**Resolution:** The next best alternative is Rice (₹40,000). Thus, his Opportunity Cost is **₹40,000** (not ₹40,000 + ₹35,000!)."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Distinguish between Positive and Normative Economics. How does the concept of Opportunity Cost guide fiscal policy decisions in a developing economy facing resource constraints?'*"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "UPSC",
+      "RBI Grade B"
+    ],
+    "tags": [
+      "Scarcity",
+      "Choice",
+      "Opportunity Cost",
+      "Micro vs Macro",
+      "PPF",
+      "MRT",
+      "Positive vs Normative"
+    ],
+    "category": "Book I: Foundations of Economics & National Income",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T05:48:54.505Z",
+    "provenance": {
+      "sourceSystem": "Core",
+      "sourceFile": "index.html (rawBookData)",
+      "sourceId": "eco-ch-1",
+      "sourceTitle": "1. What is Economics? Scarcity, Choice & Opportunity Cost",
+      "sourceChecksum": "f4e7947d2f9c80094173f2592ca73994cb5dd6cc33dca676da61fefe908cfe03",
+      "migrationTimestamp": "2026-08-15T05:48:54.505Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "migrated-core-eco-ch-16",
+  "type": "chapter",
+  "domain": "economics",
+  "title": "16. CPI vs. WPI Inflation Indices & Food Inflation Dynamics",
+  "summary": "Consumer Price Index (CPI) measures retail buyer price changes across 2012 weights, while Wholesale Price Index (WPI) measures producer bulk transaction prices.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "First-Principles Core Truth",
+      "summary": "Consumer Price Index (CPI) measures retail buyer price changes across 2012 weights, while Wholesale Price Index (WPI) measures producer bulk transaction prices."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧠 Visual Mind Map & Structural Diagram"
+    },
+    {
+      "type": "paragraph",
+      "content": "🗺️ CPI vs. WPI Architectural Comparison"
+    },
+    {
+      "type": "paragraph",
+      "content": "1. Consumer Price Index (CPI): Measures price changes at retail level paid by ultimate consumers. Base year: **2012=100**. Released monthly by **NSO (MoSPI)**."
+    },
+    {
+      "type": "paragraph",
+      "content": "2. Wholesale Price Index (WPI): Measures price changes at wholesale/producer bulk transaction level. Base year: **2011-12=100**. Released monthly by **Office of Economic Adviser (DPIIT)**."
+    },
+    {
+      "type": "paragraph",
+      "content": "3. Food Weightage Divergence: CPI Combined has a massive **45.86% weight for Food & Beverages**. WPI has only **24.38% weight for Food Items**."
+    },
+    {
+      "type": "paragraph",
+      "content": "4. Services Inclusion: Services (Housing, Medical, Education, Transport) are **INCLUDED in CPI**, but **EXCLUDED from WPI** (WPI covers goods only!)."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚡ 1. CPI vs. WPI Comprehensive Feature Matrix\n| Parameter | Consumer Price Index (CPI Combined) | Wholesale Price Index (WPI) |\n|---|---|---|\n| **Level of Measurement** | Retail consumer price level | Wholesale / First point of bulk sale |\n| **Publishing Agency** | National Sample Survey Office (NSO), MoSPI | Office of Economic Adviser, DPIIT (Min of Commerce) |\n| **Current Base Year** | **2012 = 100** | **2011-12 = 100** |\n| **Food Basket Weight** | **45.86%** (High sensitivity to food prices) | **24.38%** (Combined Food Index) |\n| **Manufactured Goods Weight**| 23.80% | **64.23%** (Dominant sector in WPI) |\n| **Services Sector** | **INCLUDED** (Housing 10.07%, Health, Transport) | **EXCLUDED** (Measures goods only) |\n| **RBI Monetary Anchor** | **Primary Anchor** for Flexible Inflation Targeting (4%±2%) | Secondary indicator for producer margins |"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📖 2. 4 Sub-Types of Consumer Price Index (CPI) in India\n1. **CPI (Rural, Urban, Combined):** Base 2012=100, published by NSO (MoSPI).\n2. **CPI for Agricultural Laborers (CPI-AL):** Base 1986-87=100, published by **Labour Bureau (Ministry of Labour & Employment)**. Used for updating minimum wages in farming.\n3. **CPI for Rural Laborers (CPI-RL):** Base 1986-87=100, published by Labour Bureau.\n4. **CPI for Industrial Workers (CPI-IW):** Base **2016=100**, published by Labour Bureau. Used for calculating **Dearness Allowance (DA)** of central government employees!"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** WPI does NOT measure price changes for Services (banking, software, health)! Only CPI includes Services.\n- ⚠️ **Exam Trap 2:** RBI switched its monetary anchor from WPI to **CPI Combined** in 2014 based on Urjit Patel Committee recommendations."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 4. Chapter-Specific Active Recall & Practice Questions"
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which index is published by the Labour Bureau (Ministry of Labour & Employment) and used to determine Dearness Allowance (DA) for central government employees?  \n(A) CPI Combined (NSO)  \n(B) CPI for Industrial Workers (CPI-IW)  \n(C) Wholesale Price Index (WPI)  \n(D) GDP Deflator  \n**Answer:** **(B)** — CPI-IW (Base 2016) is published by Labour Bureau for DA calculation."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** Agricultural drought causes a sharp 30% increase in vegetable prices while global manufacturing metal prices fall by 15%. Explain why CPI inflation spikes while WPI inflation drops.  \n**Resolution:** Food weight in CPI is **45.86%** (dominating retail CPI upwards), whereas Manufactured goods weight in WPI is **64.23%** (pulling wholesale WPI downwards)."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Compare the structural weightage and coverage of CPI and WPI in India. Why did RBI select CPI Combined as its policy anchor under Flexible Inflation Targeting?'*"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "UPSC",
+      "RBI Grade B"
+    ],
+    "tags": [
+      "CPI",
+      "WPI",
+      "Inflation Indices",
+      "NSO",
+      "EA DIT",
+      "Food Weightage",
+      "Base Year",
+      "Headline Inflation"
+    ],
+    "category": "Book IV: Monetary Economics, Inflation & RBI Framework",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T05:48:54.512Z",
+    "provenance": {
+      "sourceSystem": "Core",
+      "sourceFile": "index.html (rawBookData)",
+      "sourceId": "eco-ch-16",
+      "sourceTitle": "16. CPI vs. WPI Inflation Indices & Food Inflation Dynamics",
+      "sourceChecksum": "d6c3dcd56269604c2838002af40bac338e018df904b5c945df8290ff11f673c4",
+      "migrationTimestamp": "2026-08-15T05:48:54.512Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

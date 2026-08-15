@@ -1,0 +1,131 @@
+{
+  "id": "migrated-core-eco-ch-5",
+  "type": "chapter",
+  "domain": "economics",
+  "title": "5. Factor Cost, Market Price & GVA at Basic Prices",
+  "summary": "GVA at Basic Prices includes production taxes and excludes product subsidies, serving as the bridge between producer factor costs and consumer market prices under SNA 2008.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "First-Principles Core Truth",
+      "summary": "GVA at Basic Prices includes production taxes and excludes product subsidies, serving as the bridge between producer factor costs and consumer market prices under SNA 2008."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧠 Visual Mind Map & Structural Diagram"
+    },
+    {
+      "type": "paragraph",
+      "content": "🗺️ Valuation Spectrum: Factor Cost → Basic Prices → Market Price"
+    },
+    {
+      "type": "paragraph",
+      "content": "1. Factor Cost ($FC$): Pure cost of production factors (Rent + Wages + Interest + Profit). Excludes all taxes and subsidies."
+    },
+    {
+      "type": "paragraph",
+      "content": "2. Basic Prices ($BP$): $BP = FC + \\text{Production Taxes} - \\text{Production Subsidies}$. Includes taxes independent of output volume (Land Revenue, Stamp Duty, Registration Fee)."
+    },
+    {
+      "type": "paragraph",
+      "content": "3. Market Price ($MP$): $MP = BP + \\text{Product Taxes} - \\text{Product Subsidies}$. Includes volume-dependent taxes (GST, Excise, Customs Duty)."
+    },
+    {
+      "type": "paragraph",
+      "content": "4. Headline Growth Measure: In 2015, NSO adopted **GVA at Basic Prices** for sectoral growth and **GDP at Market Price** as headline GDP, aligning with UN SNA 2008."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚡ 1. Production vs. Product Taxes & Subsidies\n| Tax / Subsidy Category | Definition & Characteristics | Examples |\n|---|---|---|\n| **Production Taxes** | Paid irrespective of actual volume of production | Land Revenue, Stamp Duty, Registration Fees, Factory License Fees |\n| **Production Subsidies** | Received irrespective of actual volume of production | Subsidies to Small Scale Industries, Farmers' Land Subsidies |\n| **Product Taxes** | Paid per unit of product produced / sold | Goods and Services Tax (GST), Excise Duty, Customs Duty, Sales Tax |\n| **Product Subsidies** | Granted per unit of product produced / sold | Food Subsidy (TPDS), Fertilizer Subsidy, LPG Subsidy |"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📖 2. Mathematical Relationship Equations"
+    },
+    {
+      "type": "paragraph",
+      "content": "$$\\mathbf{GVA \\text{ at Basic Prices} = GVA \\text{ at Factor Cost} + \\text{Production Taxes} - \\text{Production Subsidies}}$$"
+    },
+    {
+      "type": "paragraph",
+      "content": "$$\\mathbf{GDP \\text{ at Market Price} = GVA \\text{ at Basic Prices} + \\text{Product Taxes} - \\text{Product Subsidies}}$$"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🏛️ 3. NSO Base Year 2011-12 Revision (Introduced Jan 2015)\nPrior to 2015, India reported headline GDP growth at **GDP at Factor Cost**. In 2015, CSO/NSO made 3 major changes:\n1. Shifted base year from **2004-05 to 2011-12**.\n2. Headline economic growth switched to **GDP at Market Price** (matching global practice).\n3. Sectoral performance switched to **GVA at Basic Prices**.\n4. Replaced manufacturing census data with **MCA-21 database** (Ministry of Corporate Affairs online filings) for corporate sector income estimation."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚖️ 4. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** GST is a **Product Tax** (volume dependent), whereas Stamp Duty on factory land is a **Production Tax** (volume independent).\n- ⚠️ **Exam Trap 2:** If Product Subsidies exceed Product Taxes in a crisis year, $GDP_{MP}$ will be **LESS** than $GVA \text{ at Basic Prices}$!"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 5. Chapter-Specific Active Recall & Practice Questions"
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which of the following is classified as a 'Production Tax' (independent of actual production volume) under NSO national accounting rules?  \n(A) Goods and Services Tax (GST)  \n(B) Customs Duty  \n(C) Land Revenue & Stamp Duty  \n(D) Central Excise Duty  \n**Answer:** **(C)** — Land Revenue and Stamp Duty are paid irrespective of production volume."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** A manufacturing sector has GVA at Factor Cost $= ₹500\text{ Cr}$. Production Taxes $= ₹30\text{ Cr}$, Production Subsidies $= ₹10\text{ Cr}$, Product Taxes $= ₹80\text{ Cr}$, and Product Subsidies $= ₹40\text{ Cr}$. Calculate GVA at Basic Prices and GDP at Market Price.  \n**Resolution:**  \n1. $\text{GVA at Basic Prices} = 500 + 30 - 10 = mathbf{₹520\text{ Cr}}$.  \n2. $\text{GDP at Market Price} = 520 + 80 - 40 = mathbf{₹560\text{ Cr}}$."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Explain the distinction between Factor Cost, Basic Prices, and Market Price. Why did India adopt GVA at Basic Prices and MCA-21 database in the 2015 NSO base year revision?'*"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "UPSC",
+      "RBI Grade B"
+    ],
+    "tags": [
+      "GVA",
+      "Basic Prices",
+      "Factor Cost",
+      "Market Price",
+      "Production Taxes",
+      "Product Taxes",
+      "NSO 2015 Revision"
+    ],
+    "category": "Book I: Foundations of Economics & National Income",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T05:48:54.509Z",
+    "provenance": {
+      "sourceSystem": "Core",
+      "sourceFile": "index.html (rawBookData)",
+      "sourceId": "eco-ch-5",
+      "sourceTitle": "5. Factor Cost, Market Price & GVA at Basic Prices",
+      "sourceChecksum": "85deb27f93813f224f429c8e8deac152ef27d041d36d23ae3d7b9dcd51855fd7",
+      "migrationTimestamp": "2026-08-15T05:48:54.509Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "id": "migrated-core-eco-ch-2",
+  "type": "chapter",
+  "domain": "economics",
+  "title": "2. The 3 Central Problems & Goods Classification Matrix",
+  "summary": "National income aggregates bridge domestic production and net factor income from abroad, linking Factor Cost to Market Price via Net Indirect Taxes.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "First-Principles Core Truth",
+      "summary": "National income aggregates bridge domestic production and net factor income from abroad, linking Factor Cost to Market Price via Net Indirect Taxes."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧠 Visual Mind Map & Structural Diagram"
+    },
+    {
+      "type": "paragraph",
+      "content": "🗺️ National Income Aggregates Ladder"
+    },
+    {
+      "type": "paragraph",
+      "content": "GDP at Market Price ($GDP_{MP}$): Total market value of all final goods & services produced within economic territory of India in a year."
+    },
+    {
+      "type": "paragraph",
+      "content": "NDP at Market Price ($NDP_{MP}$): $NDP_{MP} = GDP_{MP} - \text{Depreciation}$ (Consumption of Fixed Capital)."
+    },
+    {
+      "type": "paragraph",
+      "content": "GNP at Market Price ($GNP_{MP}$): $GNP_{MP} = GDP_{MP} + \text{NFIA}$ (Net Factor Income from Abroad)."
+    },
+    {
+      "type": "paragraph",
+      "content": "NNP at Factor Cost ($NNP_{FC}$ - NATIONAL INCOME): $NNP_{FC} = NNP_{MP} - \text{Net Indirect Taxes (Product Taxes - Subsidies)}$."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚡ 1. Beginner Jargon Unpack\n- **Factor Cost ($FC$):** Total cost of factors of production (Land, Labor, Capital, Entrepreneurship) paid as Rent, Wages, Interest, and Profit.\n- **Market Price ($MP$):** Price paid by consumer $\rightarrow MP = FC + \text{Product Taxes} - \text{Product Subsidies}$.\n- **Net Factor Income from Abroad (NFIA):** Factor income earned by domestic residents abroad MINUS factor income earned by foreign residents within domestic territory."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📖 2. Layer 1: 8 National Income Aggregates Conversion Matrix\n| Aggregate Target | Starting Formula | Add / Subtract Step 1 | Add / Subtract Step 2 | Final Calculation Formula |\n|---|---|---|---|---|\n| **$NDP_{MP}$** | $GDP_{MP}$ | $-\text{Depreciation}$ | — | $GDP_{MP} - \text{Depreciation}$ |\n| **$GNP_{MP}$** | $GDP_{MP}$ | $+\text{NFIA}$ | — | $GDP_{MP} + \text{NFIA}$ |\n| **$NNP_{MP}$** | $GDP_{MP}$ | $+\text{NFIA}$ | $-\text{Depreciation}$ | $GDP_{MP} + \text{NFIA} - \text{Depreciation}$ |\n| **$NNP_{FC}$ (National Income)** | $GDP_{MP}$ | $+\text{NFIA} - \text{Depreciation}$ | $-\text{Net Indirect Taxes}$ | $NNP_{MP} - (\text{Indirect Taxes} - \text{Subsidies})$ |"
+    },
+    {
+      "type": "paragraph",
+      "content": "🏷️ Itemized Verification Tag\n  ✅ Verified Feb 2026 (Itemized): CSO/NSO base year 2011-12 methodology & GVA at Basic Prices formula verified against NSO National Accounts Statistics."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧠 3. Layer 2: Underlying Reasoning (\"The Why\")\nWhy did NSO switch from **GDP at Factor Cost** to **GVA at Basic Prices** as the primary measure of economic growth in 2015?\n1. **GVA at Basic Prices** includes Production Taxes (e.g. land revenue) minus Production Subsidies, aligning Indian national accounts with **UN System of National Accounts (SNA 2008)**.\n2. It eliminates distortions caused by fluctuations in product subsidies (like fertilizer/food subsidies)."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧮 4. Layer 3: Worked Numerical Calculation (Step-by-Step Resolution)\n**Scenario:** An economy produces: $GDP_{MP} = $1,000\text{ Billion}$, Depreciation $= $100\text{ Billion}$, NFIA $= -$20\text{ Billion}$, Indirect Taxes $= $150\text{ Billion}$, Subsidies $= $50\text{ Billion}$. Calculate National Income ($NNP_{FC}$)."
+    },
+    {
+      "type": "paragraph",
+      "content": "**Step-by-Step Resolution:**\n1. Step 1: Calculate $NNP_{MP} = GDP_{MP} + \text{NFIA} - \text{Depreciation} = 1000 + (-20) - 100 = mathbf{$880\text{ Billion}}$.\n2. Step 2: Calculate Net Indirect Taxes (NIT) $= \text{Indirect Taxes} - \text{Subsidies} = 150 - 50 = mathbf{$100\text{ Billion}}$.\n3. Step 3: Calculate $NNP_{FC} = NNP_{MP} - \text{NIT} = 880 - 100 = mathbf{$780\text{ Billion}}$."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🏛️ 5. Concrete Anchor (Economic Report Landmark)\n**NSO Base Year Revision (2011-12):** NSO introduced Headline GVA at Basic Prices and replaced Census of Manufacturing Industries with MCA-21 database for corporate sector income estimation."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚖️ 6. Debates & Policy Questions\n**GDP as a Welfare Measure:**\n- *The Controversy:* GDP measures market output, but ignores environmental degradation, unpaid domestic labor, income inequality (Gini coefficient), and black economy.\n- *Phase 2 Core Question:* \"GDP growth is a necessary, but insufficient indicator of human development.\" Evaluate alternative indices (HDI, Green GDP)."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 7. 3-Tier Practice & Retention Section\n- **Tier 1 (Recall MCQ):** National Income of a country is legally defined as: (A: $GDP_{MP}$, B: $NDP_{FC}$, **C: $NNP_{FC}$**, D: $GNP_{MP}$) [Correct: C].\n- **Tier 2 (Applied Scenario):** Explain why Net Factor Income from Abroad (NFIA) can be negative for developing nations.\n- **Tier 3 (Mains Prompt):** *'Examine the methodological changes introduced in India's National Accounts Statistics base year 2011-12 revision and their impact on GDP growth estimation.'*"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "UPSC",
+      "RBI Grade B"
+    ],
+    "tags": [
+      "GDP",
+      "NDP",
+      "GNP",
+      "NNP",
+      "Factor Cost",
+      "Market Price",
+      "GVA",
+      "Double Counting"
+    ],
+    "category": "Book I: Foundations of Economics & National Income",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T05:48:54.509Z",
+    "provenance": {
+      "sourceSystem": "Core",
+      "sourceFile": "index.html (rawBookData)",
+      "sourceId": "eco-ch-2",
+      "sourceTitle": "2. The 3 Central Problems & Goods Classification Matrix",
+      "sourceChecksum": "7cfe635013db901aaf93507df722c416567d68f6b34c68281365d2ed8be1e041",
+      "migrationTimestamp": "2026-08-15T05:48:54.509Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

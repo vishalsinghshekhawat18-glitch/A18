@@ -1,0 +1,121 @@
+{
+  "id": "migrated-core-eco-ch-19",
+  "type": "chapter",
+  "domain": "economics",
+  "title": "19. Inclusive Growth, Financial Inclusion & JAM Trinity",
+  "summary": "Inclusive growth ensures broad-based economic participation, accelerated by financial inclusion through the Jan Dhan-Aadhaar-Mobile (JAM) infrastructure.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "First-Principles Core Truth",
+      "summary": "Inclusive growth ensures broad-based economic participation, accelerated by financial inclusion through the Jan Dhan-Aadhaar-Mobile (JAM) infrastructure."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧠 Visual Mind Map & Structural Diagram"
+    },
+    {
+      "type": "paragraph",
+      "content": "🗺️ Financial Inclusion & JAM Welfare Architecture"
+    },
+    {
+      "type": "paragraph",
+      "content": "1. Concept of Inclusive Growth: Economic growth that creates broad-based employment opportunities, reduces poverty, and ensures equitable access to health/education (11th & 12th FYP core mandate)."
+    },
+    {
+      "type": "paragraph",
+      "content": "2. JAM Trinity Components: Jan Dhan Accounts (Universal banking access) + Aadhaar (Biometric identification) + Mobile (Digital transaction interface)."
+    },
+    {
+      "type": "paragraph",
+      "content": "3. PM Jan Dhan Yojana (PMJDY - Aug 28, 2014): Basic Savings Bank Deposit Account (BSBDA) with Zero Balance, RuPay debit card, ₹10,000 overdraft facility, and accidental insurance."
+    },
+    {
+      "type": "paragraph",
+      "content": "4. RBI Financial Inclusion Index (FI-Index): Measures financial inclusion across 3 parameters: Access (35%), Usage (45%), and Quality (20%) on a 0-100 scale (No base year)."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚡ 1. Key Features of PM Jan Dhan Yojana (PMJDY)\n- **Universal Banking Access:** Unbanked households get a Basic Savings Bank Deposit Account (BSBDA).\n- **No Minimum Balance:** Zero-balance account restriction removed.\n- **RuPay Debit Card:** Comes with built-in ₹2 Lakh accidental insurance cover.\n- **Overdraft Facility:** Up to **₹10,000** available for eligible account holders after 6 months of satisfactory operation (age limit: 18 to 65 years).\n- **Direct Benefit Transfer (DBT):** Eliminates middlemen by transferring subsidies directly into Aadhaar-linked accounts."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📖 2. RBI Financial Inclusion Index (FI-Index) Breakdown\nPublished annually by RBI in July (capturing data up to March):"
+    },
+    {
+      "type": "paragraph",
+      "content": "| Sub-Index | Weightage | Key Indicators Covered |\n|---|---|---|\n| **Access** | **35%** | Banking outlets, ATMs, BCs per 100k population |\n| **Usage** | **45%** | Active accounts, digital transactions, credit off-take, insurance penetration |\n| **Quality** | **20%** | Financial literacy, consumer protection, grievance redressal, micro-credit delinquency |"
+    },
+    {
+      "type": "paragraph",
+      "content": "*Key Feature:* The FI-Index has **NO Base Year** (reflects cumulative efforts of all stakeholders)."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Overdraft under PMJDY is NOT available instantly upon account opening; it requires **6 months of satisfactory account operation**.\n- ⚠️ **Exam Trap 2:** RBI FI-Index has NO base year, unlike CPI or WPI."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 4. Chapter-Specific Active Recall & Practice Questions"
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which sub-parameter holds the highest weightage (45%) in the annual Financial Inclusion Index (FI-Index) published by RBI?  \n(A) Access  \n(B) Usage  \n(C) Quality  \n(D) Literacy  \n**Answer:** **(B)** — Usage holds 45% weightage, Access holds 35%, Quality holds 20%."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** A welfare scheme experiences 30% leakage due to ghost beneficiaries and delayed cash distribution. Explain how implementation of the JAM Trinity fixes this leakage.  \n**Resolution:** Aadhaar biometric verification eliminates duplicate/ghost entries; PMJDY accounts provide direct destination endpoints; Mobile networks send instant transaction alerts via Direct Benefit Transfer (DBT)."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Evaluate the role of the JAM Trinity in accelerating financial inclusion and transforming social welfare delivery in India.'*"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "UPSC",
+      "RBI Grade B"
+    ],
+    "tags": [
+      "Inclusive Growth",
+      "Financial Inclusion",
+      "JAM Trinity",
+      "PMJDY",
+      "RBI FII",
+      "Direct Benefit Transfer"
+    ],
+    "category": "Book V: Inclusive Growth, Financial Inclusion & Welfare Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T05:48:54.512Z",
+    "provenance": {
+      "sourceSystem": "Core",
+      "sourceFile": "index.html (rawBookData)",
+      "sourceId": "eco-ch-19",
+      "sourceTitle": "19. Inclusive Growth, Financial Inclusion & JAM Trinity",
+      "sourceChecksum": "25abeaf5cce240fa7bb55ebd720ec5e0fe04cbb8313d81d76ad8f782d442fbe5",
+      "migrationTimestamp": "2026-08-15T05:48:54.512Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}
