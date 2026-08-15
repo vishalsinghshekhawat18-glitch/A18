@@ -1,0 +1,75 @@
+{
+  "id": "ca-2026-08-mpc",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Monetary Policy Committee Decisions — August 2026",
+  "summary": "MPC keeps Repo Rate unchanged at 6.50%; maintains withdrawal of accommodation stance.",
+  "metadata": {
+    "exam": ["RBI Grade B", "NABARD Grade A", "SBI PO", "IBPS PO"],
+    "tags": ["RBI", "MPC", "Monetary Policy", "Repo Rate", "Inflation", "Macroeconomics"],
+    "date": "2026-08-10",
+    "category": "Banking & Financial Awareness",
+    "difficulty": "intermediate"
+  },
+  "relationships": [
+    {
+      "type": "current_affairs_of",
+      "targetId": "pol-ch-35",
+      "label": "Links to Statutory & Governance Framework"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "1. Key Policy Rate Status (August 2026 Review)"
+    },
+    {
+      "type": "paragraph",
+      "content": "The Reserve Bank of India's Monetary Policy Committee (MPC), headed by the RBI Governor, met on August 8-10, 2026, and decided by a 5:1 majority to keep the policy Repo Rate unchanged."
+    },
+    {
+      "type": "statistic",
+      "metric": "Policy Repo Rate",
+      "value": "6.50%",
+      "unit": "Unchanged",
+      "context": "Maintained status quo for the 9th consecutive meeting",
+      "date": "August 2026"
+    },
+    {
+      "type": "statistic",
+      "metric": "Standing Deposit Facility (SDF)",
+      "value": "6.25%",
+      "unit": "Unchanged",
+      "context": "25 bps below Repo Rate",
+      "date": "August 2026"
+    },
+    {
+      "type": "statistic",
+      "metric": "Marginal Standing Facility (MSF)",
+      "value": "6.75%",
+      "unit": "Unchanged",
+      "context": "25 bps above Repo Rate",
+      "date": "August 2026"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Macroeconomic Projections (FY 2026-27)"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Real GDP Growth Projection: Retained at 7.2% for FY 2026-27 (Q1: 7.1%, Q2: 7.2%, Q3: 7.3%, Q4: 7.2%).",
+        "CPI Inflation Projection: Maintained at 4.5% for FY 2026-27 assuming normal monsoon.",
+        "Headline Inflation Target: 4.0% (+/- 2% tolerance band under RBI Act 1934 Section 45ZA)."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap: MPC Composition & Voting Quorum",
+      "content": "The MPC consists of 6 members: 3 from RBI (including Governor as ex-officio Chairperson with casting vote) and 3 external members appointed by Central Govt.",
+      "trapDetails": "Decisions are taken by majority vote. In case of a tie, the RBI Governor has a casting vote."
+    }
+  ]
+}

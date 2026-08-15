@@ -1,0 +1,90 @@
+{
+  "id": "quant-time-work",
+  "type": "quant_topic",
+  "domain": "quant",
+  "title": "Time, Work & Efficiency Principles",
+  "summary": "Core concepts of work rate, efficiency ratios, alternate day working, and pipe-cistern applications.",
+  "metadata": {
+    "exam": ["Bank PO", "RBI Grade B", "SBI PO", "NABARD"],
+    "tags": ["Quant", "Time and Work", "Efficiency", "LCM Method"],
+    "category": "Quantitative Aptitude",
+    "difficulty": "intermediate"
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "1. Fundamental Efficiency Equation"
+    },
+    {
+      "type": "paragraph",
+      "content": "Work done is directly proportional to efficiency and time spent. Assuming total work as 1 unit (or LCM of individual completion days):"
+    },
+    {
+      "type": "formula",
+      "latex": "W = E \\times T \\implies E = \\frac{W}{T}",
+      "caption": "Work = Efficiency × Time",
+      "explanation": "Where W is total work units, E is rate of work per day/hour, and T is time taken."
+    },
+    {
+      "type": "key_concept",
+      "title": "LCM Method for Fast Calculation",
+      "summary": "Instead of working with fractions 1/A and 1/B, assume Total Work = LCM(A, B). Efficiency is then easily calculated as integer units per day.",
+      "details": [
+        "If A takes 10 days and B takes 15 days: Total Work = LCM(10, 15) = 30 units.",
+        "Efficiency of A = 3 units/day, Efficiency of B = 2 units/day.",
+        "Combined Efficiency = 3 + 2 = 5 units/day. Time taken together = 30 / 5 = 6 days."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Explicit Step-by-Step Worked Example"
+    },
+    {
+      "type": "worked_example",
+      "title": "Worked Example 1: Alternate Working Days & Efficiency Shifts",
+      "question": "A can complete a project in 12 days, B in 16 days, and C in 24 days. A and B work together on Day 1, B and C on Day 2, C and A on Day 3, and the cycle repeats. Find the total time taken to complete the project.",
+      "given": [
+        "Time taken by A alone = 12 days",
+        "Time taken by B alone = 16 days",
+        "Time taken by C alone = 24 days",
+        "Cycle: (A+B) Day 1, (B+C) Day 2, (C+A) Day 3"
+      ],
+      "method": "Step 1: Calculate Total Work using LCM. Step 2: Compute individual daily efficiencies. Step 3: Find work done in 1 3-day cycle. Step 4: Determine remaining work and final exact days.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Find Total Work (LCM)",
+          "explanation": "Total Work = LCM(12, 16, 24) = 48 units.",
+          "latex": "\\text{Total Work} = \\text{LCM}(12, 16, 24) = 48\\text{ units}"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Calculate Individual Efficiencies",
+          "explanation": "Efficiency of A = 48/12 = 4 units/day. Efficiency of B = 48/16 = 3 units/day. Efficiency of C = 48/24 = 2 units/day.",
+          "latex": "E_A = 4\\text{ u/d}, \\quad E_B = 3\\text{ u/d}, \\quad E_C = 2\\text{ u/d}"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Calculate 3-Day Cycle Work",
+          "explanation": "Day 1 (A+B) = 4 + 3 = 7 units. Day 2 (B+C) = 3 + 2 = 5 units. Day 3 (C+A) = 2 + 4 = 6 units. Total work in 1 cycle (3 days) = 7 + 5 + 6 = 18 units.",
+          "latex": "W_{\\text{cycle}} = 7 + 5 + 6 = 18\\text{ units in 3 days}"
+        },
+        {
+          "stepNumber": 4,
+          "title": "Compute Full Cycles & Remaining Work",
+          "explanation": "In 2 full cycles (6 days), work completed = 2 × 18 = 36 units. Remaining work = 48 - 36 = 12 units. On Day 7 (A+B), they complete 7 units. Remaining = 12 - 7 = 5 units. On Day 8 (B+C), capacity is 5 units/day, so they complete remaining 5 units in exactly 5/5 = 1 full day.",
+          "latex": "T_{\\text{total}} = 6 + 1 + 1 = 8\\text{ days}"
+        }
+      ],
+      "answer": "Total time taken = Exactly 8 Days."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap: Negative Work in Pipe Cistern Problems",
+      "content": "When dealing with outlet pipes (leaks), their efficiency MUST be subtracted from total positive efficiency. Never add outlet capacity.",
+      "trapDetails": "Net Efficiency = E_inlet - E_outlet. If Net Efficiency <= 0, the cistern will never fill."
+    }
+  ]
+}

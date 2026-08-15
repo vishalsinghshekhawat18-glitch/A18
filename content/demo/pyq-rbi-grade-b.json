@@ -1,0 +1,46 @@
+{
+  "id": "pyq-rbi-2024-eci",
+  "type": "pyq_item",
+  "domain": "pyqs",
+  "title": "RBI Grade B 2024 Phase 2: Statutory Powers & Monetary Stance Questions",
+  "summary": "Previous Year Question on Article 324 and MPC inflation target framework.",
+  "metadata": {
+    "exam": ["RBI Grade B"],
+    "tags": ["PYQ", "RBI Grade B 2024", "ESI", "Polity"],
+    "category": "Past Paper Questions",
+    "difficulty": "advanced"
+  },
+  "relationships": [
+    {
+      "type": "revision_of",
+      "targetId": "pol-ch-35",
+      "label": "References Election Commission Powers"
+    },
+    {
+      "type": "related",
+      "targetId": "ca-2026-08-mpc",
+      "label": "References Monetary Policy Committee Stance"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "RBI Grade B 2024 — Descriptive Question 3 (15 Marks)"
+    },
+    {
+      "type": "paragraph",
+      "content": "Q3. Explain the statutory framework governing the Reserve Bank of India's Monetary Policy Committee under Section 45ZB of the RBI Act, 1934. How does the MPC balance growth objectives with headline CPI inflation targets?"
+    },
+    {
+      "type": "key_concept",
+      "title": "Model Answer Structure & Key Arguments",
+      "summary": "Structure response into statutory provisions, inflation target band (4% +/- 2%), voting mechanism, and recent policy stances.",
+      "details": [
+        "Mention Finance Act 2016 amendment introducing Section 45ZB.",
+        "Highlight flexible inflation targeting (FIT) agreement between GoI and RBI.",
+        "Discuss 6-member structure (3 RBI + 3 GoI appointees) and Governor's casting vote."
+      ]
+    }
+  ]
+}

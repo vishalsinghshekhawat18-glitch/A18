@@ -1,0 +1,89 @@
+{
+  "id": "pol-ch-35",
+  "type": "chapter",
+  "domain": "polity",
+  "title": "Election Commission of India & Electoral Reforms",
+  "summary": "Constitutional provisions under Article 324, composition, powers, and RPA 1950 vs 1951 comparison.",
+  "metadata": {
+    "exam": ["UPSC", "RBI Grade B", "NABARD"],
+    "tags": ["ECI", "Article 324", "RPA 1950", "RPA 1951", "Electoral Reforms"],
+    "category": "Constitutional Bodies",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15"
+  },
+  "relationships": [
+    {
+      "type": "has_pyq",
+      "targetId": "pyq-rbi-2024-eci",
+      "label": "RBI Grade B 2024 Question on ECI Powers"
+    },
+    {
+      "type": "updated_by",
+      "targetId": "ca-2026-08-mpc",
+      "label": "Latest Electoral Trust & Funding Guidelines"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "1. Constitutional Mandate of Article 324"
+    },
+    {
+      "type": "paragraph",
+      "content": "The Election Commission of India (ECI) is a permanent, autonomous constitutional authority responsible for administering election processes in India at national and state levels."
+    },
+    {
+      "type": "key_concept",
+      "title": "Superintendence, Direction & Control",
+      "summary": "Article 324 grants all-encompassing electoral authority over Parliament, State Legislatures, and the offices of President & Vice-President.",
+      "details": [
+        "ECI does NOT conduct elections for Panchayats and Municipalities (managed by State Election Commissions under Art 243K/243ZA).",
+        "Multi-member body since 1993 comprising Chief Election Commissioner (CEC) and 2 Election Commissioners (ECs)."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap: Removal Procedure Differentiation",
+      "content": "The CEC can be removed from office ONLY in like manner and on like grounds as a Supreme Court Judge. However, Election Commissioners can be removed by the President ONLY on the recommendation of the CEC.",
+      "trapDetails": "Do not confuse the removal of CEC (requires Parliamentary impeachment-like process) with ECs (requires CEC recommendation)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Statutory Basis: RPA 1950 vs Representation of the People Act 1951"
+    },
+    {
+      "type": "comparison",
+      "title": "Comparative Analysis of Electoral Legislation",
+      "headers": ["Feature / Provision", "Representation of the People Act, 1950", "Representation of the People Act, 1951"],
+      "rows": [
+        ["Primary Scope", "Preparation for elections (pre-election framework)", "Actual conduct of elections & post-election disputes"],
+        ["Voter Qualifications", "Allocation of seats & delimitation of constituencies, voter registration", "Qualifications & disqualifications of MPs/MLAs"],
+        ["Electoral Roll", "Preparation & annual maintenance of electoral rolls", "Corrupt practices, electoral offences, election petitions"],
+        ["Disqualification", "Registration of electors disallowance", "Disqualification on conviction (Section 8) & office of profit"]
+      ]
+    },
+    {
+      "type": "timeline",
+      "title": "Evolution of Election Commission Structure",
+      "events": [
+        {
+          "date": "25 Jan 1950",
+          "title": "Establishment of ECI",
+          "description": "ECI established as a single-member body with Sukumar Sen as first CEC."
+        },
+        {
+          "date": "16 Oct 1989",
+          "title": "First Expansion",
+          "description": "Converted to 3-member body following lowering of voting age from 21 to 18 (61st Constitutional Amendment Act)."
+        },
+        {
+          "date": "01 Oct 1993",
+          "title": "Permanent Multi-Member Status",
+          "description": "Multi-member structure institutionalized with equal decision-making powers among CEC and ECs."
+        }
+      ]
+    }
+  ]
+}

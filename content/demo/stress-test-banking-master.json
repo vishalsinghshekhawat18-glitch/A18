@@ -1,0 +1,217 @@
+{
+  "id": "stress-test-banking-master",
+  "type": "chapter",
+  "domain": "economics",
+  "title": "Comprehensive Stress-Test Master Chapter: Banking Regulation, Capital Adequacy (Basel III), Monetary Operations & Quantitative Valuation Frameworks",
+  "summary": "Full edge-case architectural stress test exercising nested comparison tables, multi-variable financial formulas, explicit worked calculations, ₹ currency values, percentages, statutory exceptions, complex timelines, and multi-domain relationship links.",
+  "metadata": {
+    "exam": ["UPSC CSE", "RBI Grade B", "NABARD Grade A", "SEBI Grade A", "IBPS PO"],
+    "tags": [
+      "Stress Test", "Basel III", "CRAR", "NPAs", "IBC 2016", "SARFAESI", "KaTeX", 
+      "RBI Act 1934", "Section 45ZB", "Bond Valuation", "Yield to Maturity"
+    ],
+    "category": "Banking System & Financial Architecture",
+    "difficulty": "advanced",
+    "date": "2026-08-15",
+    "lastUpdated": "2026-08-15T10:19:00Z"
+  },
+  "relationships": [
+    {
+      "type": "prerequisite",
+      "targetId": "pol-ch-35",
+      "label": "Constitutional & Statutory Regulation Basis"
+    },
+    {
+      "type": "updated_by",
+      "targetId": "ca-2026-08-mpc",
+      "label": "Monetary Policy Review August 2026"
+    },
+    {
+      "type": "has_pyq",
+      "targetId": "pyq-rbi-2024-eci",
+      "label": "RBI Grade B 2024 Question on Policy Frameworks"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "1. Macro-Prudential Regulatory Architecture & Basel III Framework"
+    },
+    {
+      "type": "paragraph",
+      "content": "The global financial architecture established under the Basel III accord (developed by the Basel Committee on Banking Supervision - BCBS) aims to enhance the banking sector's ability to absorb shocks arising from financial and economic stress. In India, the Reserve Bank of India (RBI) mandated a minimum Capital to Risk-Weighted Assets Ratio (CRAR) of 9.0%, which is higher than the international Basel III requirement of 8.0%."
+    },
+    {
+      "type": "statistic",
+      "metric": "RBI Mandated Minimum CRAR",
+      "value": "9.00%",
+      "unit": "Percentage of RWA",
+      "context": "Basel III global minimum is 8.00%; RBI imposes 100 bps additional buffer",
+      "date": "2026-08-15"
+    },
+    {
+      "type": "statistic",
+      "metric": "Capital Conservation Buffer (CCB)",
+      "value": "2.50%",
+      "unit": "Common Equity Tier 1 (CET1)",
+      "context": "Maintained in the form of CET1 capital, bringing effective minimum CRAR to 11.50%",
+      "date": "2026-08-15"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1.1 Tier-1 and Tier-2 Capital Requirements Breakdown"
+    },
+    {
+      "type": "comparison",
+      "title": "Comprehensive Comparison of Basel III Capital Tiers in India",
+      "headers": ["Capital Category", "Eligible Financial Instruments", "RBI Regulatory Minimum", "Absorptive Capacity & Features"],
+      "rows": [
+        [
+          "Common Equity Tier 1 (CET1)",
+          "Paid-up equity share capital, statutory reserves, retained earnings",
+          "5.50% of RWAs",
+          "Highest quality capital; absorbs losses on an ongoing basis (going-concern)"
+        ],
+        [
+          "Additional Tier 1 (AT1)",
+          "Perpetual Non-Cumulative Preference Shares (PNCPS), AT1 Perpetual Bonds",
+          "1.50% of RWAs",
+          "Going-concern capital; subject to principal write-down or equity conversion upon trigger point"
+        ],
+        [
+          "Tier 2 Capital",
+          "Subordinated debt instruments, general provisions, revaluation reserves (at 55% discount)",
+          "2.00% of RWAs",
+          "Gone-concern capital; absorbs losses upon insolvency or liquidation"
+        ],
+        [
+          "Total CRAR (with CCB)",
+          "Tier 1 Capital + Tier 2 Capital + CCB Buffer (2.5%)",
+          "11.50% of RWAs",
+          "Total regulatory solvency shield mandated by RBI for Indian Commercial Banks"
+        ]
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap: AT1 Bond Write-Down Triggers & Point of Non-Viability (PONV)",
+      "content": "Additional Tier 1 (AT1) bonds can be fully written down or converted into equity by the RBI WITHOUT shareholder consent if the bank reaches a Point of Non-Viability (PONV).",
+      "trapDetails": "AT1 bonds carry higher yields because they do not have fixed maturity dates and coupon payments can be cancelled by the issuer without declaring default."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "2. Mathematical Foundations of Bond Valuation & Yield to Maturity (YTM)"
+    },
+    {
+      "type": "paragraph",
+      "content": "Valuation of fixed-income instruments such as Government Securities (G-Secs), Sovereign Gold Bonds (SGBs), and Corporate Debentures requires computing the Present Value (PV) of discounted cash flows:"
+    },
+    {
+      "type": "formula",
+      "latex": "PV = \\sum_{t=1}^{N} \\frac{C}{(1 + r)^t} + \\frac{F}{(1 + r)^N}",
+      "caption": "Standard Bond Present Value Equation",
+      "explanation": "Where C is annual coupon payment (₹), F is face value (₹), r is required yield to maturity (%), and N is maturity years."
+    },
+    {
+      "type": "formula",
+      "latex": "D_{\\text{mac}} = \\frac{1}{PV} \\left[ \\sum_{t=1}^{N} \\frac{t \\cdot C}{(1 + r)^t} + \\frac{N \\cdot F}{(1 + r)^N} \\right]",
+      "caption": "Macaulay Duration Equation",
+      "explanation": "Measures the weighted average time (in years) until coupon and principal cash flows are received."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2.1 Quantitative Worked Example: Banking Treasury SGB Yield & Price Calculation"
+    },
+    {
+      "type": "worked_example",
+      "title": "Worked Example: Valuation & Macaulay Duration of a 10% Semi-Annual Government Security",
+      "question": "A Scheduled Commercial Bank holds a 3-year Government of India bond with a Face Value of ₹10,00,000, bearing a annual coupon rate of 10% paid semi-annually. If the current market yield (YTM) required by the market is 8% per annum (4% per half-year), calculate: (a) The current market price of the bond, (b) The exact semi-annual cash flow table, and (c) Whether the bond trades at a premium or discount.",
+      "given": [
+        "Face Value (F) = ₹10,00,000",
+        "Annual Coupon Rate = 10% (Semi-Annual Coupon C = ₹50,000 every 6 months)",
+        "Maturity (N) = 3 years (Total periods n = 6 semi-annual periods)",
+        "Market YTM (r) = 8% per annum (Semi-annual rate r_half = 4% = 0.04)"
+      ],
+      "method": "Step 1: Compute periodic coupon payments. Step 2: Discount each of the 6 periodic cash flows using the semi-annual YTM of 4%. Step 3: Discount the final face value principal at period 6. Step 4: Sum all discounted cash flows to arrive at exact market value.",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Calculate Semi-Annual Coupon Payment",
+          "explanation": "Coupon = Face Value × (Annual Coupon Rate / 2) = ₹10,00,000 × 5% = ₹50,000 every 6 months.",
+          "latex": "C = 10,00,000 \\times 0.05 = ₹50,000"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Discount Coupon Stream (Annuity Present Value)",
+          "explanation": "Discount factor for semi-annual rate r = 4% across 6 periods: PV_coupons = ₹50,000 × [(1 - (1+0.04)^-6) / 0.04] = ₹50,000 × 5.242137 = ₹2,62,106.85.",
+          "latex": "PV_{\\text{coupons}} = 50,000 \\times \\left[ \\frac{1 - (1.04)^{-6}}{0.04} \\right] = ₹2,62,106.85"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Discount Face Value Principal Payment",
+          "explanation": "PV_principal = ₹10,00,000 / (1.04)^6 = ₹10,00,000 / 1.265319 = ₹7,90,314.53.",
+          "latex": "PV_{\\text{principal}} = \\frac{10,00,000}{(1.04)^6} = ₹7,90,314.53"
+        },
+        {
+          "stepNumber": 4,
+          "title": "Sum Cash Flows to Determine Bond Market Price",
+          "explanation": "Total Bond Price = PV_coupons + PV_principal = ₹2,62,106.85 + ₹7,90,314.53 = ₹10,52,421.38.",
+          "latex": "PV_{\\text{bond}} = ₹2,62,106.85 + ₹7,90,314.53 = ₹10,52,421.38"
+        }
+      ],
+      "answer": "The market price of the bond is ₹10,52,421.38. Because the Coupon Rate (10%) exceeds the YTM (8%), the bond trades at a PREMIUM of ₹52,421.38 above face value."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "3. Resolution of Stressed Assets: SARFAESI vs IBC 2016 Framework"
+    },
+    {
+      "type": "paragraph",
+      "content": "Non-Performing Assets (NPAs) are classified when interest or principal installment remains overdue for a period of more than 90 days in respect of a term loan. Special provisions apply for agricultural loans (2 crop seasons for short duration crops, 1 crop season for long duration crops)."
+    },
+    {
+      "type": "table",
+      "caption": "Asset Classification & Provisioning Norms prescribed by RBI",
+      "headers": ["Asset Category", "Criteria / Overdue Period", "Secured Provisioning %", "Unsecured Provisioning %"],
+      "rows": [
+        ["Standard Asset", "Overdue 0-90 days (SMA-0, SMA-1, SMA-2)", "0.40% (General)", "0.40% (General)"],
+        ["Sub-Standard Asset", "NPA for period <= 12 months", "15.00%", "25.00%"],
+        ["Doubtful Asset 1 (D1)", "Sub-standard for 1 to 2 years", "25.00%", "100.00%"],
+        ["Doubtful Asset 2 (D2)", "Sub-standard for 2 to 3 years", "40.00%", "100.00%"],
+        ["Doubtful Asset 3 (D3)", "Sub-standard for > 3 years", "100.00%", "100.00%"],
+        ["Loss Asset", "Identified by internal auditor / RBI inspector as uncollectible", "100.00%", "100.00%"]
+      ]
+    },
+    {
+      "type": "timeline",
+      "title": "Evolution of Insolvency & Stressed Asset Resolution Laws in India",
+      "events": [
+        {
+          "date": "2002",
+          "title": "Enactment of SARFAESI Act, 2002",
+          "description": "Empowered banks to enforce security interest without intervention of courts/tribunals."
+        },
+        {
+          "date": "2016",
+          "title": "Insolvency and Bankruptcy Code (IBC) Enactment",
+          "description": "Unified framework creating National Company Law Tribunal (NCLT) and 180-day time-bound resolution (extendable to 270/330 days)."
+        },
+        {
+          "date": "2021",
+          "title": "Pre-Packaged Insolvency Resolution Process (PPIRP)",
+          "description": "Introduced under Section 54A of IBC specifically for Micro, Small and Medium Enterprises (MSMEs) with ₹10,00,000 threshold."
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "quote": "Financial stability is a public good. The regulatory framework must ensure that failure of individual institutions does not cause systemic contagion.",
+      "author": "Reserve Bank of India Monetary Policy Committee Report"
+    }
+  ]
+}
