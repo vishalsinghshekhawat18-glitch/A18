@@ -1,3 +1,4 @@
+/// <reference types="vite/client" />
 import React, { useState, useEffect, useMemo } from 'react';
 import { KnowledgeItem } from '../schema/knowledge-item';
 import { NavSidebar } from './navigation/NavSidebar';
@@ -6,44 +7,29 @@ import { ReadingControls } from './reader/ReadingControls';
 import { SearchModal } from './search/SearchModal';
 import { FlexSearchProvider } from './search/FlexSearchProvider';
 
-import stressTestDoc from '../content/demo/stress-test-banking-master.json';
-import polityDoc from '../content/demo/polity-eci.json';
-import quantDoc from '../content/demo/quant-time-work.json';
-import caDoc from '../content/demo/ca-mpc-august.json';
-import pyqDoc from '../content/demo/pyq-rbi-grade-b.json';
+const demoModules = import.meta.glob('../content/demo/*.json', { eager: true });
+const pilotModules = import.meta.glob('../content/pilot/*.json', { eager: true });
+const corpusModules = import.meta.glob('../content/corpus/*.json', { eager: true });
 
-import pilotEco1 from '../content/pilot/eco-ch-1.json';
-import pilotEco14 from '../content/pilot/eco-ch-14.json';
-import pilotPol35 from '../content/pilot/pol-ch-35.json';
-import pilotCa12 from '../content/pilot/ca-012.json';
-import pilotCa45 from '../content/pilot/ca-045.json';
-
-const syntheticCorpus: KnowledgeItem[] = [
-  stressTestDoc as KnowledgeItem,
-  polityDoc as KnowledgeItem,
-  quantDoc as KnowledgeItem,
-  caDoc as KnowledgeItem,
-  pyqDoc as KnowledgeItem,
-  pilotEco1 as KnowledgeItem,
-  pilotEco14 as KnowledgeItem,
-  pilotPol35 as KnowledgeItem,
-  pilotCa12 as KnowledgeItem,
-  pilotCa45 as KnowledgeItem
+const allCorpusMap: KnowledgeItem[] = [
+  ...Object.values(corpusModules).map((mod: any) => mod.default || mod),
+  ...Object.values(pilotModules).map((mod: any) => mod.default || mod),
+  ...Object.values(demoModules).map((mod: any) => mod.default || mod),
 ];
 
 export const App: React.FC = () => {
-  const [activeItemId, setActiveItemId] = useState<string>(syntheticCorpus[0].id);
+  const [activeItemId, setActiveItemId] = useState<string>(allCorpusMap[0]?.id || '');
   const [fontSize, setFontSize] = useState<number>(18);
   const [isSearchOpen, setIsSearchOpen] = useState<boolean>(false);
 
   const searchService = useMemo(() => {
     const provider = new FlexSearchProvider();
-    provider.indexItems(syntheticCorpus);
+    provider.indexItems(allCorpusMap);
     return provider;
   }, []);
 
   const activeItem = useMemo(() => {
-    return syntheticCorpus.find(i => i.id === activeItemId) || syntheticCorpus[0];
+    return allCorpusMap.find(i => i.id === activeItemId) || allCorpusMap[0];
   }, [activeItemId]);
 
   useEffect(() => {
@@ -60,7 +46,7 @@ export const App: React.FC = () => {
   return (
     <div className="app-container">
       <NavSidebar
-        items={syntheticCorpus}
+        items={allCorpusMap}
         activeItemId={activeItemId}
         onSelectItem={setActiveItemId}
       />
@@ -74,7 +60,7 @@ export const App: React.FC = () => {
 
         <ReaderView
           item={activeItem}
-          allItems={syntheticCorpus}
+          allItems={allCorpusMap}
           fontSize={fontSize}
           onNavigateItem={setActiveItemId}
         />
