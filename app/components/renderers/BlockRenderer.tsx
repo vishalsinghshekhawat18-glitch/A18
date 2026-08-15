@@ -5,13 +5,16 @@ import { WorkedExampleBlockRenderer } from './WorkedExampleBlockRenderer';
 
 interface Props {
   block: SemanticBlock;
+  blockIndex?: number;
 }
 
-export const BlockRenderer: React.FC<Props> = ({ block }) => {
+export const BlockRenderer: React.FC<Props> = ({ block, blockIndex = 0 }) => {
+  const blockId = `block-${blockIndex}`;
+
   switch (block.type) {
     case 'heading': {
       const Tag = `h${block.level}` as keyof JSX.IntrinsicElements;
-      return <Tag className="block-heading">{block.text}</Tag>;
+      return <Tag id={blockId} className="block-heading">{block.text}</Tag>;
     }
     case 'paragraph': {
       return <p className="block-paragraph">{block.content}</p>;
@@ -37,7 +40,7 @@ export const BlockRenderer: React.FC<Props> = ({ block }) => {
     case 'table':
     case 'comparison': {
       return (
-        <div className="block-table-container">
+        <div id={blockId} className="block-table-container">
           {'title' in block && block.title && (
             <div style={{ fontWeight: 'bold', marginBottom: '0.4rem', fontFamily: 'var(--font-ui)' }}>
               {block.title}
@@ -70,14 +73,14 @@ export const BlockRenderer: React.FC<Props> = ({ block }) => {
       );
     }
     case 'formula': {
-      return <FormulaBlockRenderer block={block} />;
+      return <div id={blockId}><FormulaBlockRenderer block={block} /></div>;
     }
     case 'worked_example': {
-      return <WorkedExampleBlockRenderer block={block} />;
+      return <div id={blockId}><WorkedExampleBlockRenderer block={block} /></div>;
     }
     case 'exam_trap': {
       return (
-        <div className="block-exam-trap">
+        <div id={blockId} className="block-exam-trap">
           <div className="exam-trap-header">
             ⚠️ {block.title || 'Exam Trap / Common Misconception'}
           </div>
@@ -90,7 +93,7 @@ export const BlockRenderer: React.FC<Props> = ({ block }) => {
     }
     case 'key_concept': {
       return (
-        <div className="block-key-concept">
+        <div id={blockId} className="block-key-concept">
           <div className="key-concept-title">💡 {block.title}</div>
           <div style={{ fontWeight: 500 }}>{block.summary}</div>
           {block.details && block.details.length > 0 && (

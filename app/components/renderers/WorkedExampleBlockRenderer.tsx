@@ -47,8 +47,9 @@ export const WorkedExampleBlockRenderer: React.FC<Props> = ({ block }) => {
         ))}
       </div>
 
-      <div className="worked-example-answer">
-        🎯 Final Answer: {block.answer}
+      {/* Kindle Warm-Paper Answer Treatment (Zero Green, Zero Accordion, 100% Explicit) */}
+      <div className="worked-example-answer-kindle">
+        <span className="answer-label">FINAL ANSWER:</span> {block.answer}
       </div>
     </div>
   );

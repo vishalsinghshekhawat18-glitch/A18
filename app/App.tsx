@@ -21,6 +21,7 @@ export const App: React.FC = () => {
   const [activeItemId, setActiveItemId] = useState<string>(allCorpusMap[0]?.id || '');
   const [fontSize, setFontSize] = useState<number>(18);
   const [isSearchOpen, setIsSearchOpen] = useState<boolean>(false);
+  const [isOpenMobile, setIsOpenMobile] = useState<boolean>(false);
 
   const searchService = useMemo(() => {
     const provider = new FlexSearchProvider();
@@ -49,6 +50,8 @@ export const App: React.FC = () => {
         items={allCorpusMap}
         activeItemId={activeItemId}
         onSelectItem={setActiveItemId}
+        isOpenMobile={isOpenMobile}
+        onCloseMobile={() => setIsOpenMobile(false)}
       />
 
       <div className="main-content">
@@ -56,6 +59,7 @@ export const App: React.FC = () => {
           fontSize={fontSize}
           onFontSizeChange={setFontSize}
           onOpenSearch={() => setIsSearchOpen(true)}
+          onToggleMobileMenu={() => setIsOpenMobile(!isOpenMobile)}
         />
 
         <ReaderView
