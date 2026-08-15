@@ -46,14 +46,14 @@
     "date": "2026-07-31",
     "category": "SEC1",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:13:59.595Z",
+    "lastUpdated": "2026-08-15T12:17:28.292Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "ca_app/data.js",
       "sourceId": "note-sec1-370",
       "sourceTitle": "DPIIT Revises Index of Core Industries (ICI) Base Year to 2022-23 & Adds 'Iron Ore' as 9th Core Industry",
       "sourceChecksum": "f134cecc4b6c41dbda301e53eb64e4425bf8ecbceb3080c809e394f2e0d1a9c8",
-      "migrationTimestamp": "2026-08-15T12:13:59.595Z",
+      "migrationTimestamp": "2026-08-15T12:17:28.292Z",
       "normalizationRuleVersion": "1.0.0-phase4"
     }
   }
