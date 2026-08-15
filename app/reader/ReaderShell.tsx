@@ -24,61 +24,69 @@ export const ReaderShell: React.FC<Props> = ({
 }) => {
   const mode = resolveLayoutMode(item);
 
-  switch (mode) {
-    case 'news_briefing':
-      return (
-        <CAFeedSurface
-          activeItemId={item.id}
-          allItems={allItems}
-          fontSize={fontSize}
-          onNavigateItem={onNavigateItem}
-        />
-      );
-    case 'scheme_reference':
-      return (
-        <SchemeReferenceView
-          item={item}
-          allItems={allItems}
-          fontSize={fontSize}
-          onNavigateItem={onNavigateItem}
-        />
-      );
-    case 'static_ga_reference':
-      return (
-        <StaticGAReferenceView
-          item={item}
-          allItems={allItems}
-          fontSize={fontSize}
-          onNavigateItem={onNavigateItem}
-        />
-      );
-    case 'quant_studio':
-      return (
-        <QuantStudioView
-          item={item}
-          allItems={allItems}
-          fontSize={fontSize}
-          onNavigateItem={onNavigateItem}
-        />
-      );
-    case 'pyq_practice':
-      return (
-        <PYQPracticeView
-          item={item}
-          allItems={allItems}
-          fontSize={fontSize}
-          onNavigateItem={onNavigateItem}
-        />
-      );
-    case 'book_chapter':
-    default:
-      return (
-        <BookChapterView
-          item={item}
-          allItems={allItems}
-          fontSize={fontSize}
-          onNavigateItem={onNavigateItem}
-        />
-      );
-  }
+  const renderSurface = () => {
+    switch (mode) {
+      case 'news_briefing':
+        return (
+          <CAFeedSurface
+            activeItemId={item.id}
+            allItems={allItems}
+            fontSize={fontSize}
+            onNavigateItem={onNavigateItem}
+          />
+        );
+      case 'scheme_reference':
+        return (
+          <SchemeReferenceView
+            item={item}
+            allItems={allItems}
+            fontSize={fontSize}
+            onNavigateItem={onNavigateItem}
+          />
+        );
+      case 'static_ga_reference':
+        return (
+          <StaticGAReferenceView
+            item={item}
+            allItems={allItems}
+            fontSize={fontSize}
+            onNavigateItem={onNavigateItem}
+          />
+        );
+      case 'quant_studio':
+        return (
+          <QuantStudioView
+            item={item}
+            allItems={allItems}
+            fontSize={fontSize}
+            onNavigateItem={onNavigateItem}
+          />
+        );
+      case 'pyq_practice':
+        return (
+          <PYQPracticeView
+            item={item}
+            allItems={allItems}
+            fontSize={fontSize}
+            onNavigateItem={onNavigateItem}
+          />
+        );
+      case 'book_chapter':
+      default:
+        return (
+          <BookChapterView
+            item={item}
+            allItems={allItems}
+            fontSize={fontSize}
+            onNavigateItem={onNavigateItem}
+          />
+        );
+    }
+  };
+
+  return (
+    <div className="reader-surface-wrapper">
+      {renderSurface()}
+    </div>
+  );
 };
