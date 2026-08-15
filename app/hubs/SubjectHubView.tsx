@@ -16,7 +16,7 @@ const SUBJECT_METADATA: Record<string, { title: string; icon: string; badge: str
   'geography': { title: 'Geography & Environment', icon: '🌍', badge: 'Book Chapter Reader', desc: 'Atmospheric Composition & Physical Geography.' },
   'science': { title: 'Science & Bio-Tech', icon: '🔬', badge: 'Book Chapter Reader', desc: 'CRISPR-Cas9, Recombinant DNA & Bio-Tech.' },
   'revision': { title: 'Rapid Revision Traps', icon: '⚡', badge: 'Book Chapter Reader', desc: 'High-Yield Trap Summaries & Exam Reminders.' },
-  'current-affairs': { title: 'Current Affairs', icon: '📰', badge: 'Briefing Feed', desc: 'Daily Banking & Financial CA Briefings stacked by Month.' },
+  'current-affairs': { title: 'Current Affairs', icon: '📰', badge: 'Briefing Feed Stream', desc: 'Daily Banking & Financial CA Briefings stacked by Month.' },
   'schemes': { title: 'Government Schemes', icon: '🏛️', badge: 'Reference Grid', desc: 'Central Welfare Schemes, Ministries & Guidelines.' },
   'static-ga': { title: 'Static GA Superbook', icon: '📌', badge: 'Reference Sheet', desc: 'Regulatory Bodies (RBI, SEBI) & Base Year Stats.' },
   'quant': { title: 'Quant & Reasoning', icon: '📐', badge: 'Problem Studio', desc: 'Core Formulas, Mensuration & Worked Examples.' },
@@ -31,8 +31,8 @@ export const SubjectHubView: React.FC<Props> = ({
 }) => {
   const meta = SUBJECT_METADATA[subjectId] || {
     title: subjectId.toUpperCase(),
-    icon: '📖',
-    badge: 'Knowledge Surface',
+    icon: '🏛️',
+    badge: 'Study Surface',
     desc: 'Available migrated items for this subject.'
   };
 
@@ -51,6 +51,12 @@ export const SubjectHubView: React.FC<Props> = ({
     if (subjectId === 'pyqs') return i.domain === 'pyqs' || i.id.includes('pyq');
     return i.domain === subjectId;
   });
+
+  // Current Affairs Month-First Grouping
+  const isCA = subjectId === 'current-affairs';
+  const caAugust = subjectItems.filter(i => i.metadata?.date?.startsWith('2026-08') || i.title.includes('August') || i.title.includes('July 2026') || !i.metadata?.date);
+  const caJuly = subjectItems.filter(i => i.metadata?.date?.startsWith('2026-07'));
+  const caJune = subjectItems.filter(i => i.metadata?.date?.startsWith('2026-06'));
 
   return (
     <div className="subject-hub-view">
@@ -74,28 +80,78 @@ export const SubjectHubView: React.FC<Props> = ({
           <p className="hub-desc">{meta.desc}</p>
         </header>
 
-        {/* Available Items List */}
-        <div className="hub-items-list">
-          {subjectItems.map((item, idx) => (
-            <div
-              key={item.id}
-              className="hub-item-card"
-              onClick={() => onSelectItem(item.id)}
-            >
-              <div className="hub-item-index">#{idx + 1}</div>
-              <div className="hub-item-content">
-                <h3 className="hub-item-title">{item.title}</h3>
-                {item.summary && <p className="hub-item-summary">{item.summary}</p>}
-                <div className="hub-item-meta">
-                  {item.metadata?.date && <span className="tag-pill">📅 {item.metadata.date}</span>}
-                  {item.metadata?.category && <span className="tag-pill">{item.metadata.category}</span>}
-                  <span className="tag-pill">ID: {item.id}</span>
+        {/* Month-First Architecture for Current Affairs */}
+        {isCA ? (
+          <div className="ca-month-hub-grid">
+            <div className="ca-month-card">
+              <div className="ca-month-header">
+                <span className="ca-month-title">📅 August 2026 Briefings</span>
+                <span className="ca-month-count">{caAugust.length > 0 ? caAugust.length : subjectItems.length} Briefings</span>
+              </div>
+              <div className="hub-items-list" style={{ marginTop: '1rem' }}>
+                {(caAugust.length > 0 ? caAugust : subjectItems).map((item, idx) => (
+                  <div
+                    key={item.id}
+                    className="hub-item-card"
+                    onClick={() => onSelectItem(item.id)}
+                  >
+                    <div className="hub-item-index">#{idx + 1}</div>
+                    <div className="hub-item-content">
+                      <h3 className="hub-item-title">{item.title}</h3>
+                      {item.summary && <p className="hub-item-summary">{item.summary}</p>}
+                      <div className="hub-item-meta">
+                        {item.metadata?.date && <span className="tag-pill">📅 {item.metadata.date}</span>}
+                        {item.metadata?.category && <span className="tag-pill">{item.metadata.category}</span>}
+                      </div>
+                    </div>
+                    <div className="hub-item-arrow">Open Briefing →</div>
+                  </div>
+                ))}
+              </div>
+            </div>
+
+            {caJuly.length > 0 && (
+              <div className="ca-month-card">
+                <div className="ca-month-header">
+                  <span className="ca-month-title">📅 July 2026 Briefings</span>
+                  <span className="ca-month-count">{caJuly.length} Briefings</span>
                 </div>
               </div>
-              <div className="hub-item-arrow">Read →</div>
-            </div>
-          ))}
-        </div>
+            )}
+
+            {caJune.length > 0 && (
+              <div className="ca-month-card">
+                <div className="ca-month-header">
+                  <span className="ca-month-title">📅 June 2026 Briefings</span>
+                  <span className="ca-month-count">{caJune.length} Briefings</span>
+                </div>
+              </div>
+            )}
+          </div>
+        ) : (
+          /* General Items List for Core, Schemes, Static GA, Quant, PYQs */
+          <div className="hub-items-list">
+            {subjectItems.map((item, idx) => (
+              <div
+                key={item.id}
+                className="hub-item-card"
+                onClick={() => onSelectItem(item.id)}
+              >
+                <div className="hub-item-index">#{idx + 1}</div>
+                <div className="hub-item-content">
+                  <h3 className="hub-item-title">{item.title}</h3>
+                  {item.summary && <p className="hub-item-summary">{item.summary}</p>}
+                  <div className="hub-item-meta">
+                    {item.metadata?.date && <span className="tag-pill">📅 {item.metadata.date}</span>}
+                    {item.metadata?.category && <span className="tag-pill">{item.metadata.category}</span>}
+                    <span className="tag-pill">ID: {item.id}</span>
+                  </div>
+                </div>
+                <div className="hub-item-arrow">Study →</div>
+              </div>
+            ))}
+          </div>
+        )}
       </div>
     </div>
   );

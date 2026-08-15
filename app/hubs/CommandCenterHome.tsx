@@ -142,7 +142,7 @@ export const CommandCenterHome: React.FC<Props> = ({
           </section>
         )}
 
-        {/* Subject Grid (10 Subject Tiles) */}
+        {/* Subject Grid (10 Subject Tiles - Compact & Study-Oriented) */}
         <section className="subjects-grid">
           {SUBJECT_DEFS.map(def => {
             const count = items.filter(def.domainMatch).length;
@@ -151,7 +151,7 @@ export const CommandCenterHome: React.FC<Props> = ({
             return (
               <div
                 key={def.id}
-                className="subject-card"
+                className="subject-card compact-tile"
                 onClick={() => onSelectSubject(def.id)}
               >
                 <div className="subject-card-top">

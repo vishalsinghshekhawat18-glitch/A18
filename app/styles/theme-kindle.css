@@ -424,11 +424,57 @@ body {
   gap: 0.5rem;
 }
 
-.hub-item-arrow {
+.subject-card.compact-tile {
+  padding: 1.1rem 1.2rem;
+}
+
+.subject-card.compact-tile .subject-card-title {
+  font-size: 1.12rem;
+  margin-bottom: 0.3rem;
+}
+
+.subject-card.compact-tile .subject-card-desc {
+  font-size: 0.84rem;
+  line-height: 1.4;
+  margin-bottom: 0.8rem;
+}
+
+.ca-month-hub-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.ca-month-card {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: 8px;
+  padding: 1.4rem;
+  box-shadow: var(--shadow-sm);
+}
+
+.ca-month-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid var(--border-subtle);
+  padding-bottom: 0.8rem;
   font-family: var(--font-ui);
-  font-size: 0.85rem;
+}
+
+.ca-month-title {
+  font-size: 1.2rem;
   font-weight: 700;
+  color: var(--text-primary);
+}
+
+.ca-month-count {
+  font-size: 0.78rem;
+  font-weight: 700;
+  background-color: var(--bg-accent-subtle);
   color: var(--text-accent);
+  padding: 0.2rem 0.6rem;
+  border-radius: 12px;
 }
 
 /* Sidebar Contextual Bar */

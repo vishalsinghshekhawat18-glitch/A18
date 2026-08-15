@@ -24,7 +24,7 @@ export const ReadingControls: React.FC<Props> = ({
           ☰
         </button>
         <div className="reader-header-title">
-          📖 Kindle Reading Mode
+          🏛️ Banking Command Center | Exam Study System
         </div>
       </div>
 
