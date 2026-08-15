@@ -978,80 +978,73 @@ body {
   color: var(--text-primary);
 }
 
-.ca-card-grid-compact {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) 250px;
-  gap: 1.2rem;
-  align-items: start;
+.ca-main-news-content {
+  width: 100%;
+  margin-bottom: 0.8rem;
 }
 
-@media (max-width: 900px) {
-  .ca-card-grid-compact {
-    grid-template-columns: 1fr;
-  }
-}
-
-.ca-main-col-compact {
+/* Supporting Annotations Placed BELOW Main News Item (Ultra-Compact Fonts & Sizes) */
+.ca-bottom-annotations-container {
   display: flex;
   flex-direction: column;
-  min-width: 0;
+  gap: 0.35rem;
+  margin-top: 0.8rem;
+  padding-top: 0.8rem;
+  border-top: 1px dashed var(--border-subtle);
 }
 
-.ca-side-col-compact,
-.ca-side-col {
+.block-annotation-compact {
   display: flex;
-  flex-direction: column;
+  align-items: flex-start;
   gap: 0.45rem;
-  align-self: flex-start;
-}
-
-/* Compact Side Annotation Panels Overrides (Subordinate to Main News) */
-.ca-side-col-compact .block-key-concept,
-.ca-side-col .block-key-concept {
-  padding: 0.55rem 0.75rem;
-  margin-bottom: 0.35rem;
+  padding: 0.4rem 0.65rem !important;
+  margin-bottom: 0.3rem !important;
   border-radius: 4px;
-  border-left: 3px solid var(--text-accent);
+  font-size: 0.8rem !important;
+  line-height: 1.35 !important;
   background-color: var(--bg-accent-subtle);
-  font-size: 0.82rem;
-  line-height: 1.35;
+  border: 1px solid var(--border-subtle);
 }
 
-.ca-side-col-compact .block-exam-trap,
-.ca-side-col .block-exam-trap {
-  padding: 0.55rem 0.75rem;
-  margin-bottom: 0.35rem;
-  border-radius: 4px;
-  border: 1px solid var(--border-warning);
-  border-left: 4px solid var(--border-warning);
+.block-exam-trap.block-annotation-compact {
   background-color: var(--bg-warning-subtle);
-  font-size: 0.82rem;
-  line-height: 1.35;
+  border-color: var(--border-warning);
 }
 
-.ca-side-col-compact .key-concept-title,
-.ca-side-col .key-concept-title,
-.ca-side-col-compact .exam-trap-header,
-.ca-side-col .exam-trap-header {
-  font-size: 0.74rem;
+.annotation-icon {
+  font-size: 0.85rem;
+  line-height: 1;
+  flex-shrink: 0;
+  margin-top: 0.1rem;
+}
+
+.annotation-content {
+  flex: 1;
+  font-size: 0.8rem;
+  line-height: 1.35;
+  color: var(--text-primary);
+}
+
+.annotation-title {
   font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-  margin-bottom: 0.2rem;
+  color: var(--text-accent);
 }
 
-.ca-side-col-compact p,
-.ca-side-col-compact ul,
-.ca-side-col-compact li,
-.ca-side-col-compact .exam-trap-details,
-.ca-side-col p,
-.ca-side-col ul,
-.ca-side-col li,
-.ca-side-col .exam-trap-details {
-  font-size: 0.82rem;
-  line-height: 1.35;
-  margin: 0;
-  padding: 0;
+.annotation-details-list {
+  margin: 0.2rem 0 0 0;
+  padding-left: 1rem;
+  font-size: 0.78rem;
+}
+
+.annotation-quote-text {
+  font-style: italic;
+}
+
+.annotation-author {
+  font-weight: 600;
+  color: var(--text-secondary);
+  font-style: normal;
+  font-size: 0.75rem;
 }
 
 .ca-side-col-compact .block-quote,

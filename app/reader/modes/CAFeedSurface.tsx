@@ -54,8 +54,8 @@ export const CAFeedSurface: React.FC<Props> = ({
         {/* Continuous Feed Stream Stack */}
         <div className="ca-feed-stream-stack">
           {caNotes.map((item, idx) => {
-            const mainBlocks = item.blocks.filter((b: SemanticBlock) => b.type === 'paragraph' || b.type === 'bullet_list' || b.type === 'table' || b.type === 'comparison');
-            const sideBlocks = item.blocks.filter((b: SemanticBlock) => b.type === 'key_concept' || b.type === 'exam_trap' || b.type === 'quote');
+            const mainBlocks = item.blocks.filter((b: SemanticBlock) => b.type === 'paragraph' || b.type === 'bullet_list' || b.type === 'table' || b.type === 'comparison' || b.type === 'heading' || b.type === 'statistic' || b.type === 'timeline');
+            const annotationBlocks = item.blocks.filter((b: SemanticBlock) => b.type === 'key_concept' || b.type === 'exam_trap' || b.type === 'quote');
 
             const isTarget = item.id === activeItemId;
 
@@ -65,7 +65,7 @@ export const CAFeedSurface: React.FC<Props> = ({
                 id={item.id}
                 className={`ca-feed-card-compact ${isTarget ? 'is-active-target' : ''}`}
               >
-                {/* Compact Card Header */}
+                {/* Card Header & Title */}
                 <div className="ca-card-header-compact">
                   <div className="ca-card-meta-bar">
                     <span className="ca-card-num">NOTE #{idx + 1}</span>
@@ -82,25 +82,21 @@ export const CAFeedSurface: React.FC<Props> = ({
                   )}
                 </div>
 
-                {/* Adaptive Grid */}
-                <div
-                  className="ca-card-grid-compact"
-                  style={{ gridTemplateColumns: sideBlocks.length > 0 ? undefined : '1fr' }}
-                >
-                  <div className="ca-main-col-compact">
-                    {mainBlocks.map((block: SemanticBlock, bIdx: number) => (
-                      <BlockRenderer key={bIdx} block={block} blockIndex={bIdx} />
+                {/* Main News Content (Full Width Unobstructed Reading) */}
+                <div className="ca-main-news-content">
+                  {mainBlocks.map((block: SemanticBlock, bIdx: number) => (
+                    <BlockRenderer key={bIdx} block={block} blockIndex={bIdx} />
+                  ))}
+                </div>
+
+                {/* Supporting Annotation Blocks Placed BELOW Main News Item (Compact Typography) */}
+                {annotationBlocks.length > 0 && (
+                  <div className="ca-bottom-annotations-container">
+                    {annotationBlocks.map((block: SemanticBlock, bIdx: number) => (
+                      <BlockRenderer key={bIdx} block={block} blockIndex={100 + bIdx} />
                     ))}
                   </div>
-
-                  {sideBlocks.length > 0 && (
-                    <aside className="ca-side-col-compact">
-                      {sideBlocks.map((block: SemanticBlock, bIdx: number) => (
-                        <BlockRenderer key={bIdx} block={block} blockIndex={100 + bIdx} />
-                      ))}
-                    </aside>
-                  )}
-                </div>
+                )}
 
                 {/* Relationships if present */}
                 <RelationshipLinks
