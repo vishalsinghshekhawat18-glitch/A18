@@ -2,6 +2,7 @@ import React from 'react';
 import { SemanticBlock } from '../../../schema/knowledge-item';
 import { FormulaBlockRenderer } from './FormulaBlockRenderer';
 import { WorkedExampleBlockRenderer } from './WorkedExampleBlockRenderer';
+import { formatInlineText } from './formatInline';
 
 interface Props {
   block: SemanticBlock;
@@ -14,16 +15,16 @@ export const BlockRenderer: React.FC<Props> = ({ block, blockIndex = 0 }) => {
   switch (block.type) {
     case 'heading': {
       const Tag = `h${block.level}` as keyof JSX.IntrinsicElements;
-      return <Tag id={blockId} className="block-heading">{block.text}</Tag>;
+      return <Tag id={blockId} className="block-heading">{formatInlineText(block.text)}</Tag>;
     }
     case 'paragraph': {
-      return <p className="block-paragraph">{block.content}</p>;
+      return <p className="block-paragraph">{formatInlineText(block.content)}</p>;
     }
     case 'bullet_list': {
       return (
         <ul className="block-list">
           {block.items.map((item, i) => (
-            <li key={i}>{item}</li>
+            <li key={i}>{formatInlineText(item)}</li>
           ))}
         </ul>
       );
@@ -32,7 +33,7 @@ export const BlockRenderer: React.FC<Props> = ({ block, blockIndex = 0 }) => {
       return (
         <ol className="block-list">
           {block.items.map((item, i) => (
-            <li key={i}>{item}</li>
+            <li key={i}>{formatInlineText(item)}</li>
           ))}
         </ol>
       );
@@ -43,14 +44,14 @@ export const BlockRenderer: React.FC<Props> = ({ block, blockIndex = 0 }) => {
         <div id={blockId} className="block-table-container">
           {'title' in block && block.title && (
             <div style={{ fontWeight: 'bold', marginBottom: '0.4rem', fontFamily: 'var(--font-ui)' }}>
-              {block.title}
+              {formatInlineText(block.title)}
             </div>
           )}
           <table className="table-custom">
             <thead>
               <tr>
                 {block.headers.map((h, i) => (
-                  <th key={i}>{h}</th>
+                  <th key={i}>{formatInlineText(h)}</th>
                 ))}
               </tr>
             </thead>
@@ -58,7 +59,7 @@ export const BlockRenderer: React.FC<Props> = ({ block, blockIndex = 0 }) => {
               {block.rows.map((row, rIdx) => (
                 <tr key={rIdx}>
                   {row.map((cell, cIdx) => (
-                    <td key={cIdx}>{cell}</td>
+                    <td key={cIdx}>{formatInlineText(cell)}</td>
                   ))}
                 </tr>
               ))}
@@ -82,11 +83,11 @@ export const BlockRenderer: React.FC<Props> = ({ block, blockIndex = 0 }) => {
       return (
         <div id={blockId} className="block-exam-trap">
           <div className="exam-trap-header">
-            ⚠️ {block.title || 'Exam Trap / Common Misconception'}
+            ⚠️ {formatInlineText(block.title || 'Exam Trap / Common Misconception')}
           </div>
-          <div>{block.content}</div>
+          <div>{formatInlineText(block.content)}</div>
           {block.trapDetails && (
-            <div className="exam-trap-details">{block.trapDetails}</div>
+            <div className="exam-trap-details">{formatInlineText(block.trapDetails)}</div>
           )}
         </div>
       );
@@ -94,12 +95,12 @@ export const BlockRenderer: React.FC<Props> = ({ block, blockIndex = 0 }) => {
     case 'key_concept': {
       return (
         <div id={blockId} className="block-key-concept">
-          <div className="key-concept-title">💡 {block.title}</div>
-          <div style={{ fontWeight: 500 }}>{block.summary}</div>
+          <div className="key-concept-title">💡 {formatInlineText(block.title)}</div>
+          <div style={{ fontWeight: 500 }}>{formatInlineText(block.summary)}</div>
           {block.details && block.details.length > 0 && (
             <ul style={{ marginTop: '0.5rem', paddingLeft: '1.2rem', fontSize: '0.95rem' }}>
               {block.details.map((d, i) => (
-                <li key={i}>{d}</li>
+                <li key={i}>{formatInlineText(d)}</li>
               ))}
             </ul>
           )}

@@ -46,8 +46,11 @@ export const CABriefingView: React.FC<Props> = ({
           )}
         </header>
 
-        {/* 2-Column Side-by-Side Grid */}
-        <div className="ca-grid-layout">
+        {/* 2-Column Side-by-Side Grid (Collapses to 1 full-width column when sideBlocks are absent) */}
+        <div
+          className="ca-grid-layout"
+          style={{ gridTemplateColumns: sideBlocks.length > 0 ? undefined : '1fr' }}
+        >
           <div className="ca-main-column">
             {mainBlocks.map((block: SemanticBlock, idx: number) => (
               <BlockRenderer key={idx} block={block} blockIndex={idx} />

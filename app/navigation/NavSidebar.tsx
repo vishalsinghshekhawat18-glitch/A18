@@ -23,6 +23,30 @@ interface TopGroup {
   items?: KnowledgeItem[];
 }
 
+// Numeric-aware chapter sorter (eco-ch-1, eco-ch-2, ..., eco-ch-10)
+function sortChaptersNumerically(items: KnowledgeItem[]): KnowledgeItem[] {
+  return [...items].sort((a, b) => {
+    const aMatch = a.id.match(/ch-(\d+)/) || a.title.match(/^(\d+)\./);
+    const bMatch = b.id.match(/ch-(\d+)/) || b.title.match(/^(\d+)\./);
+    if (aMatch && bMatch) {
+      return parseInt(aMatch[1], 10) - parseInt(bMatch[1], 10);
+    }
+    return a.title.localeCompare(b.title);
+  });
+}
+
+// Chronological date sorter for Current Affairs (newest first)
+function sortChronologically(items: KnowledgeItem[]): KnowledgeItem[] {
+  return [...items].sort((a, b) => {
+    const aDate = a.metadata?.date || '';
+    const bDate = b.metadata?.date || '';
+    if (aDate && bDate) {
+      return bDate.localeCompare(aDate);
+    }
+    return a.id.localeCompare(b.id);
+  });
+}
+
 export const NavSidebar: React.FC<Props> = ({
   items,
   activeItemId,
@@ -30,16 +54,16 @@ export const NavSidebar: React.FC<Props> = ({
   isOpenMobile = false,
   onCloseMobile
 }) => {
-  // 1. CORE Sub-Categories
-  const ecoItems = items.filter(i => i.domain === 'economics' || i.id.includes('eco-ch'));
-  const polItems = items.filter(i => i.domain === 'polity' || i.id.includes('pol-ch'));
-  const hisItems = items.filter(i => i.domain === 'history' || i.id.includes('his-ch'));
-  const geoItems = items.filter(i => i.domain === 'geography' || i.id.includes('geo-ch'));
-  const sciItems = items.filter(i => i.domain === 'science' || i.id.includes('sci-ch'));
-  const revItems = items.filter(i => i.domain === 'revision' || i.id.includes('rev-ch'));
+  // 1. CORE Sub-Categories with Numeric-Aware Chapter Sorting
+  const ecoItems = sortChaptersNumerically(items.filter(i => i.domain === 'economics' || i.id.includes('eco-ch')));
+  const polItems = sortChaptersNumerically(items.filter(i => i.domain === 'polity' || i.id.includes('pol-ch')));
+  const hisItems = sortChaptersNumerically(items.filter(i => i.domain === 'history' || i.id.includes('his-ch')));
+  const geoItems = sortChaptersNumerically(items.filter(i => i.domain === 'geography' || i.id.includes('geo-ch')));
+  const sciItems = sortChaptersNumerically(items.filter(i => i.domain === 'science' || i.id.includes('sci-ch')));
+  const revItems = sortChaptersNumerically(items.filter(i => i.domain === 'revision' || i.id.includes('rev-ch')));
 
-  // 2. CURRENT AFFAIRS Month Grouping
-  const caAll = items.filter(i => i.domain === 'current-affairs' && !i.id.includes('scheme'));
+  // 2. CURRENT AFFAIRS Month Grouping with Chronological Sorting
+  const caAll = sortChronologically(items.filter(i => i.domain === 'current-affairs' && !i.id.includes('scheme')));
   const caAugust = caAll.filter(i => i.metadata?.date?.startsWith('2026-08') || i.title.includes('August') || i.title.includes('July 2026') || !i.metadata?.date);
   const caJuly = caAll.filter(i => i.metadata?.date?.startsWith('2026-07'));
   const caJune = caAll.filter(i => i.metadata?.date?.startsWith('2026-06'));
@@ -47,7 +71,7 @@ export const NavSidebar: React.FC<Props> = ({
   // 3. SCHEMES, STATIC GA, QUANT, PYQS
   const schemeItems = items.filter(i => i.id.includes('scheme'));
   const staticGaItems = items.filter(i => i.domain === 'static-ga' || i.id.includes('static'));
-  const quantItems = items.filter(i => i.domain === 'quant' && !i.id.includes('pyq'));
+  const quantItems = sortChaptersNumerically(items.filter(i => i.domain === 'quant' && !i.id.includes('pyq')));
   const pyqItems = items.filter(i => i.domain === 'pyqs' || i.id.includes('pyq'));
 
   const topGroups: TopGroup[] = [
@@ -120,14 +144,17 @@ export const NavSidebar: React.FC<Props> = ({
     'sub-ca-aug': true
   });
 
-  // Auto-expand group containing active item
+  // Auto-expand complete parent path containing active item
   useEffect(() => {
     topGroups.forEach(g => {
       if (g.subgroups) {
-        const hasActive = g.subgroups.some(sg => sg.items.some(i => i.id === activeItemId));
-        if (hasActive) {
-          setExpandedTop(prev => ({ ...prev, [g.id]: true }));
-        }
+        g.subgroups.forEach(sg => {
+          const hasActive = sg.items.some(i => i.id === activeItemId);
+          if (hasActive) {
+            setExpandedTop(prev => ({ ...prev, [g.id]: true }));
+            setExpandedSub(prev => ({ ...prev, [sg.id]: true }));
+          }
+        });
       } else if (g.items) {
         if (g.items.some(i => i.id === activeItemId)) {
           setExpandedTop(prev => ({ ...prev, [g.id]: true }));
