@@ -1,0 +1,113 @@
+{
+  "id": "migrated-core-rev-ch-5",
+  "type": "chapter",
+  "domain": "revision",
+  "title": "5. Rapid Revision — Science, Technology & Environment Traps",
+  "summary": "High-yield rapid revision matrix targeting biotechnology (CRISPR), ISRO launch vehicle payloads, wildlife protection schedules, and ecological conservation zones.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "First-Principles Core Truth",
+      "summary": "High-yield rapid revision matrix targeting biotechnology (CRISPR), ISRO launch vehicle payloads, wildlife protection schedules, and ecological conservation zones."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧠 Visual Mind Map & Structural Diagram"
+    },
+    {
+      "type": "paragraph",
+      "content": "🗺️ Science, Space Technology & Environmental Protection Architecture"
+    },
+    {
+      "type": "paragraph",
+      "content": "1. CRISPR-Cas9 Gene Editing: Molecular scissors. **Cas9** is the endonuclease enzyme that cuts DNA. **gRNA (guide RNA)** directs Cas9 to exact genomic sequence target."
+    },
+    {
+      "type": "paragraph",
+      "content": "2. ISRO Launch Vehicle Fleet: **PSLV:** 4-stage (Solid-Liquid-Solid-Liquid), places payload in Sun-Synchronous Polar Orbit. **GSLV Mk II:** 3-stage with indigenously developed Cryogenic Upper Stage (CUS). **LVM3 (GSLV Mk III):** 3-stage heavy lifter (S200 solid, L110 liquid, C25 cryogenic) - 4 tonne GTO capacity."
+    },
+    {
+      "type": "paragraph",
+      "content": "3. Wildlife Protection Amendment Act 2022: Reduced 6 Schedules to **4 Schedules**: Schedule I (Highest protection), Schedule II (Lesser protection), Schedule III (Protected Plant species), Schedule IV (CITES species)."
+    },
+    {
+      "type": "paragraph",
+      "content": "4. Conservation Status Comparison: National Parks (Highest protection, NO human activity/grazing allowed) vs Wildlife Sanctuaries (Limited human rights allowed) vs Biosphere Reserves (3 zones: Core, Buffer, Transition)."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚡ 1. ISRO Launch Vehicles Comparison Matrix\n| Launch Vehicle | Number of Stages | Fuel Configuration | Orbit Target & Max Payload | Key Mission Examples |\n|---|---|---|---|---|\n| **PSLV** | 4 Stages | Alternate Solid ($S$) & Liquid ($L$) (S-L-S-L) | Sun-Synchronous Polar Orbit (~1.75 tonnes) | Chandrayaan-1, Mangalyaan (MOM), Aditya-L1 |\n| **GSLV Mk II** | 3 Stages | Solid (S139) + Liquid (L40) + **Cryogenic (C12)** | Geo-synchronous Transfer Orbit (~2.2 tonnes) | INSAT / GSAT communication satellites |\n| **LVM3 (GSLV Mk III)** | 3 Stages | 2 Solid boosters (S200) + Liquid core (L110) + **Cryogenic (C25)** | Heavy GTO (~4 tonnes) & Low Earth Orbit (~8 tonnes) | Chandrayaan-2, Chandrayaan-3, Gaganyaan |"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📖 2. Vaccine Technology Platforms\n1. **Whole Virus (Inactivated):** Uses killed virus (e.g. **Covaxin** by Bharat Biotech).\n2. **Viral Vector:** Uses modified harmless adenovirus carrying spike protein gene (e.g. **Covishield** by Serum Institute / Oxford-AstraZeneca).\n3. **mRNA Vaccine:** Delivers synthetic mRNA encoding spike protein wrapped in lipid nanoparticles (e.g. **Pfizer-BioNTech, Moderna**).\n4. **DNA Plasmid Vaccine:** World's 1st needle-free DNA vaccine for humans: **ZyCoV-D** (Zydus Cadila).\n5. **Protein Subunit:** Uses purified viral spike protein (e.g. **Corbevax**)."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** PSLV is a **4-stage** launch vehicle with alternating solid and liquid propulsion. GSLV Mk III (LVM3) is a **3-stage** launch vehicle!\n- ⚠️ **Exam Trap 2:** Human activities (grazing, private land ownership, forestry) are **STRICTLY PROHIBITED** inside a **National Park**, but may be permitted inside a **Wildlife Sanctuary** under Chief Wildlife Warden permission."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 4. Chapter-Specific Active Recall & Practice Questions"
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** How many schedules are there in the Wildlife Protection (Amendment) Act 2022, following the rationalization from the original six schedules of the 1972 Act?  \n(A) 3 Schedules  \n(B) 4 Schedules  \n(C) 5 Schedules  \n(D) 6 Schedules  \n**Answer:** **(B)** — The 2022 Amendment rationalized the Wildlife Protection Act into 4 schedules."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** A biotechnology lab uses a guide RNA (gRNA) molecule to direct an endonuclease enzyme to cut double-stranded DNA at a specific gene locus. Name the molecular technology.  \n**Resolution:** **CRISPR-Cas9** (Clustered Regularly Interspaced Short Palindromic Repeats - Cas9)."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Compare the stage configurations and payload capabilities of PSLV and LVM3. Explain the 4 schedules introduced under the Wildlife Protection Amendment Act 2022.'*"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "UPSC",
+      "RBI Grade B"
+    ],
+    "tags": [
+      "Science Revision",
+      "CRISPR",
+      "ISRO Launchers",
+      "PSLV vs GSLV",
+      "WPA 2022 Schedules",
+      "Biosphere Reserves"
+    ],
+    "category": "Book V: Science & Tech High-Yield Facts & Exam Traps",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:08:30.631Z",
+    "provenance": {
+      "sourceSystem": "Core",
+      "sourceFile": "index.html (rawBookData)",
+      "sourceId": "rev-ch-5",
+      "sourceTitle": "5. Rapid Revision — Science, Technology & Environment Traps",
+      "sourceChecksum": "82c174aafa77e55a1aec3c82cd7ed9884c861460c7093b3d9802f5dfb5c60849",
+      "migrationTimestamp": "2026-08-15T12:08:30.631Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}
