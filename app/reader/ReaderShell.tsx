@@ -2,11 +2,12 @@ import React from 'react';
 import { KnowledgeItem } from '../../schema/knowledge-item';
 import { resolveLayoutMode } from './modes/layout-resolver';
 import { BookChapterView } from './modes/BookChapterView';
-import { CABriefingView } from './modes/CABriefingView';
 import { SchemeReferenceView } from './modes/SchemeReferenceView';
 import { StaticGAReferenceView } from './modes/StaticGAReferenceView';
 import { QuantStudioView } from './modes/QuantStudioView';
 import { PYQPracticeView } from './modes/PYQPracticeView';
+
+import { CAFeedSurface } from './modes/CAFeedSurface';
 
 interface Props {
   item: KnowledgeItem;
@@ -26,8 +27,8 @@ export const ReaderShell: React.FC<Props> = ({
   switch (mode) {
     case 'news_briefing':
       return (
-        <CABriefingView
-          item={item}
+        <CAFeedSurface
+          activeItemId={item.id}
           allItems={allItems}
           fontSize={fontSize}
           onNavigateItem={onNavigateItem}
