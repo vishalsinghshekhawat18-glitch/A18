@@ -48,6 +48,13 @@ export const CAFeedSurface: React.FC<Props> = ({
     return () => clearTimeout(timer);
   }, [activeItemId]);
 
+  const handleScrollToMonth = (monthKey: string) => {
+    const el = document.getElementById(`month-section-${monthKey}`);
+    if (el) {
+      el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  };
+
   let globalNoteIdx = 0;
 
   return (
@@ -60,6 +67,22 @@ export const CAFeedSurface: React.FC<Props> = ({
             <span className="ca-feed-count-badge">{caNotes.length} High-Yield Notes • {monthGroups.length} Months</span>
           </div>
           <h1 className="ca-feed-title-compact">Continuous Banking & Financial CA Feed</h1>
+
+          {/* Compact Quick Month Jump Navigator */}
+          <div className="ca-top-month-navigator">
+            <span className="ca-nav-label">JUMP TO MONTH:</span>
+            <div className="ca-month-pills-row">
+              {monthGroups.map(group => (
+                <button
+                  key={group.monthKey}
+                  className="ca-month-pill-btn"
+                  onClick={() => handleScrollToMonth(group.monthKey)}
+                >
+                  📅 {group.monthLabel} <span className="ca-pill-count">({group.items.length})</span>
+                </button>
+              ))}
+            </div>
+          </div>
         </header>
 
         {/* Continuous Feed Stream Stack Divided by Month Sections */}

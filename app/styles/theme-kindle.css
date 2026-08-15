@@ -939,6 +939,59 @@ body {
   margin-top: 0.3rem;
 }
 
+/* CA Top Month Quick Jump Navigator Bar */
+.ca-top-month-navigator {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 0.75rem;
+  padding-top: 0.65rem;
+  border-top: 1px solid var(--border-subtle);
+  flex-wrap: wrap;
+}
+
+.ca-nav-label {
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--text-secondary);
+  letter-spacing: 0.04em;
+  font-family: var(--font-sans);
+}
+
+.ca-month-pills-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.ca-month-pill-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  background-color: var(--bg-accent-subtle);
+  border: 1px solid var(--border-subtle);
+  color: var(--text-primary);
+  padding: 0.35rem 0.7rem;
+  border-radius: 16px;
+  font-size: 0.82rem;
+  font-weight: 700;
+  font-family: var(--font-sans);
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.ca-month-pill-btn:hover {
+  background-color: var(--border-subtle);
+  border-color: var(--text-accent);
+  color: var(--text-accent);
+}
+
+.ca-pill-count {
+  color: var(--text-accent);
+  font-weight: 600;
+}
+
 /* CA Month Section Headers & Feed Divider Layout */
 .ca-month-section {
   margin-bottom: 2rem;

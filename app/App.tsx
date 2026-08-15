@@ -27,8 +27,13 @@ const rawModulesList: KnowledgeItem[] = [
  * Ensures duplicate pilot/demo copies do not appear as independent entries.
  */
 function deduplicateKnowledgeItems(rawItems: KnowledgeItem[]): KnowledgeItem[] {
-  const map = new Map<string, KnowledgeItem>();
+  const hasCorpus = rawItems.some(i => i.id.startsWith('migrated-'));
+  if (hasCorpus) {
+    // Isolate canonical migrated corpus items (926 total) and filter out synthetic demo/pilot duplicates
+    return rawItems.filter(i => i.id.startsWith('migrated-'));
+  }
 
+  const map = new Map<string, KnowledgeItem>();
   for (const item of rawItems) {
     const sys = item.metadata?.provenance?.sourceSystem || 'unknown';
     const id = item.metadata?.provenance?.sourceId || item.id;
@@ -36,12 +41,6 @@ function deduplicateKnowledgeItems(rawItems: KnowledgeItem[]): KnowledgeItem[] {
 
     if (!map.has(canonicalKey)) {
       map.set(canonicalKey, item);
-    } else {
-      const existing = map.get(canonicalKey)!;
-      // Prefer official migrated- corpus item over pilot/demo items
-      if (item.id.startsWith('migrated-') && !existing.id.startsWith('migrated-')) {
-        map.set(canonicalKey, item);
-      }
     }
   }
 
