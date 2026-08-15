@@ -1,7 +1,10 @@
 /// <reference types="vite/client" />
 import React, { useState, useEffect, useMemo } from 'react';
 import { KnowledgeItem } from '../schema/knowledge-item';
+import { parseHash, buildHash, RouteState } from './navigation/router';
 import { NavSidebar } from './navigation/NavSidebar';
+import { CommandCenterHome } from './hubs/CommandCenterHome';
+import { SubjectHubView } from './hubs/SubjectHubView';
 import { ReaderShell } from './reader/ReaderShell';
 import { ReadingControls } from './reader/ReadingControls';
 import { SearchModal } from './search/SearchModal';
@@ -21,7 +24,7 @@ const rawModulesList: KnowledgeItem[] = [
 /**
  * Deterministic Deduplication Layer
  * Maps legacy (sourceSystem + sourceId) to exactly ONE canonical KnowledgeItem.
- * Ensures pilot/demo duplicate copies do not appear as independent entries.
+ * Ensures duplicate pilot/demo copies do not appear as independent entries.
  */
 function deduplicateKnowledgeItems(rawItems: KnowledgeItem[]): KnowledgeItem[] {
   const map = new Map<string, KnowledgeItem>();
@@ -51,21 +54,54 @@ export const App: React.FC = () => {
     return deduplicateKnowledgeItems(rawModulesList);
   }, []);
 
-  const [activeItemId, setActiveItemId] = useState<string>(allCorpusMap[0]?.id || '');
+  // Routing State
+  const [routeState, setRouteState] = useState<RouteState>(() => parseHash(window.location.hash));
   const [fontSize, setFontSize] = useState<number>(18);
   const [isSearchOpen, setIsSearchOpen] = useState<boolean>(false);
   const [isOpenMobile, setIsOpenMobile] = useState<boolean>(false);
+  const [lastOpenedItemId, setLastOpenedItemId] = useState<string | null>(() => {
+    return localStorage.getItem('bcc_last_opened_item');
+  });
 
+  // Handle Hash Changes
+  useEffect(() => {
+    const handleHashChange = () => {
+      setRouteState(parseHash(window.location.hash));
+    };
+    window.addEventListener('hashchange', handleHashChange);
+    return () => window.removeEventListener('hashchange', handleHashChange);
+  }, []);
+
+  // Search Service
   const searchService = useMemo(() => {
     const provider = new FlexSearchProvider();
     provider.indexItems(allCorpusMap);
     return provider;
   }, [allCorpusMap]);
 
+  // Active Item Resolution
+  const activeItemId = routeState.type === 'read' ? routeState.itemId || allCorpusMap[0].id : allCorpusMap[0].id;
+
   const activeItem = useMemo(() => {
     return allCorpusMap.find(i => i.id === activeItemId) || allCorpusMap[0];
   }, [allCorpusMap, activeItemId]);
 
+  // Navigation Handlers
+  const handleGoHome = () => {
+    window.location.hash = buildHash({ type: 'home' });
+  };
+
+  const handleSelectSubject = (subjectId: string) => {
+    window.location.hash = buildHash({ type: 'subject', subjectId });
+  };
+
+  const handleSelectItem = (itemId: string) => {
+    localStorage.setItem('bcc_last_opened_item', itemId);
+    setLastOpenedItemId(itemId);
+    window.location.hash = buildHash({ type: 'read', itemId });
+  };
+
+  // Keyboard Shortcuts (Ctrl+K for search)
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
       if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
@@ -82,7 +118,11 @@ export const App: React.FC = () => {
       <NavSidebar
         items={allCorpusMap}
         activeItemId={activeItemId}
-        onSelectItem={setActiveItemId}
+        activeSubjectId={routeState.type === 'subject' ? routeState.subjectId : undefined}
+        currentNavDepth={routeState.type}
+        onGoHome={handleGoHome}
+        onSelectSubject={handleSelectSubject}
+        onSelectItem={handleSelectItem}
         isOpenMobile={isOpenMobile}
         onCloseMobile={() => setIsOpenMobile(false)}
       />
@@ -95,19 +135,42 @@ export const App: React.FC = () => {
           onToggleMobileMenu={() => setIsOpenMobile(!isOpenMobile)}
         />
 
-        <ReaderShell
-          item={activeItem}
-          allItems={allCorpusMap}
-          fontSize={fontSize}
-          onNavigateItem={setActiveItemId}
-        />
+        {/* Level 1: Command Center Home Surface */}
+        {routeState.type === 'home' && (
+          <CommandCenterHome
+            items={allCorpusMap}
+            lastOpenedItemId={lastOpenedItemId}
+            onSelectSubject={handleSelectSubject}
+            onSelectItem={handleSelectItem}
+          />
+        )}
+
+        {/* Level 2: Subject Hub Navigation View */}
+        {routeState.type === 'subject' && routeState.subjectId && (
+          <SubjectHubView
+            subjectId={routeState.subjectId}
+            items={allCorpusMap}
+            onBackHome={handleGoHome}
+            onSelectItem={handleSelectItem}
+          />
+        )}
+
+        {/* Level 3: Content Reader Surface */}
+        {routeState.type === 'read' && (
+          <ReaderShell
+            item={activeItem}
+            allItems={allCorpusMap}
+            fontSize={fontSize}
+            onNavigateItem={handleSelectItem}
+          />
+        )}
       </div>
 
       <SearchModal
         isOpen={isSearchOpen}
         onClose={() => setIsSearchOpen(false)}
         searchService={searchService}
-        onSelectResult={item => setActiveItemId(item.id)}
+        onSelectResult={item => handleSelectItem(item.id)}
       />
     </div>
   );
