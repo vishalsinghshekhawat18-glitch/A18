@@ -1,0 +1,44 @@
+{
+  "id": "migrated-ca-note-sec1-39",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "WSFx GlobalPay Secures RBI AD Category II License under FEMA 2026",
+  "summary": "WSFx GlobalPay Secures RBI AD Category II License under FEMA 2026",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "WSFx Global Pay Limited received RBI Authorised Dealer Cat-II license under FEMA for trade remittances up to **₹25 lakh**."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:02.257Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-39",
+      "sourceTitle": "WSFx GlobalPay Secures RBI AD Category II License under FEMA 2026",
+      "sourceChecksum": "7b86f04d5507c2e07a657e41c848c62cc724d8727a2a91b1cb1c1a16c21b82b1",
+      "migrationTimestamp": "2026-08-15T12:10:02.257Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

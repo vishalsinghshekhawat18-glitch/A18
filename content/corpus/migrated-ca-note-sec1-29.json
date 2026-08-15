@@ -1,0 +1,59 @@
+{
+  "id": "migrated-ca-note-sec1-29",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Public Sector Banks Report Zero Locker Theft Cases in FY26; RBI Security Norms Highlighted",
+  "summary": "Mandatory security upgrades eliminated physical locker breaches across state-owned lenders.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Mandatory security upgrades eliminated physical locker breaches across state-owned lenders."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "📌 **Core Policy Directives & Scope:**\nPSBs reported **zero (0) locker theft cases in FY26 (2025-26)** (down from 40 cases between FY22-FY25).\nActive Lockers: **11,111,077** (1.11 crore) operational lockers across PSBs as on March 31, 2026.",
+        "💰 **Financial Outlays & Operational Rules:**\n**RBI Security Guidelines:** CCTV cameras mandatory at strong room entry/exit; footage preserved for **at least 180 days**.\n**Bank Liability Cap:** Compensation for loss due to bank negligence capped at **100 times prevailing annual locker rent**."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Safe deposit locker rules revised under Sec 35A of Banking Regulation Act, 1949."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Bank liability for negligence (capped at 100x annual rent) vs natural calamities/Acts of God (banks NOT liable)."
+    },
+    {
+      "type": "quote",
+      "quote": "Interview Focus Question: \"What is the compensation cap under RBI guidelines when locker loss occurs due to bank negligence?\"\n💡 **Model Answer: Banks are strictly liable for negligence-related losses, capped at 100 times annual locker rent.**",
+      "author": "Banking & Regulatory Board Panel"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:02.257Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-29",
+      "sourceTitle": "Public Sector Banks Report Zero Locker Theft Cases in FY26; RBI Security Norms Highlighted",
+      "sourceChecksum": "3369d055d6481b05438e8ed38e16d640308f5837e5b782147300fab2ed9d10a7",
+      "migrationTimestamp": "2026-08-15T12:10:02.257Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

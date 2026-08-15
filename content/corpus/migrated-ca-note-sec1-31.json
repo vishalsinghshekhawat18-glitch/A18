@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec1-31",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "UPI Clocks Record 23.66 Billion Transactions Worth ₹29.88 Trillion in July 2026",
+  "summary": "UPI sets new monthly transaction volume and value benchmarks as India's primary retail payment spine.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "UPI sets new monthly transaction volume and value benchmarks as India's primary retail payment spine."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**July 2026 Volume:** Record **23.66 billion transactions** (up 4.1% MoM).",
+        "**July 2026 Value:** Record **₹29.88 trillion** (up 3.3% MoM).",
+        "System Operator: **National Payments Corporation of India (NPCI)**."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "NPCI incorporated in 2008 under Sec 25 of Companies Act 1956 (now Sec 8) | HQ: Mumbai."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "July 2026 Volume (23.66 billion) vs July 2026 Value (₹29.88 trillion)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:02.257Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-31",
+      "sourceTitle": "UPI Clocks Record 23.66 Billion Transactions Worth ₹29.88 Trillion in July 2026",
+      "sourceChecksum": "4060e985962ca46c78af19f8ac488085ede39a57425247508511e38ad7ab6ad8",
+      "migrationTimestamp": "2026-08-15T12:10:02.257Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

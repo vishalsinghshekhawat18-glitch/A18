@@ -1,0 +1,39 @@
+{
+  "id": "migrated-ca-note-sec4-48",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Ladakh Notifies 23 Heritage Sites as Protected Monuments",
+  "summary": "Ladakh Notifies 23 Heritage Sites as Protected Monuments",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Union Territory Administration of Ladakh notified **23 heritage sites** as Protected Monuments under J&K Ancient Monuments Preservation Act Samvat 1977."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:02.257Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-48",
+      "sourceTitle": "Ladakh Notifies 23 Heritage Sites as Protected Monuments",
+      "sourceChecksum": "eabd40974902fdb34fa88251c5036ca898c363daa9b15a5c9d758b4e707388ad",
+      "migrationTimestamp": "2026-08-15T12:10:02.257Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

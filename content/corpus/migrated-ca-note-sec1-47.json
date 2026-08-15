@@ -1,0 +1,44 @@
+{
+  "id": "migrated-ca-note-sec1-47",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "US and India Collaborate on $528K AI Project for Precision Agriculture",
+  "summary": "US and India Collaborate on $528K AI Project for Precision Agriculture",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "US NSF awarded **$528,137** research grant for joint project with MeitY for AI-powered soybean breeding (2026-2029)."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:02.257Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-47",
+      "sourceTitle": "US and India Collaborate on $528K AI Project for Precision Agriculture",
+      "sourceChecksum": "0dc186823e92c448c823b4bbad6d0d40c44a198ef9d2aa2c2d9342ca1d6a7d97",
+      "migrationTimestamp": "2026-08-15T12:10:02.257Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

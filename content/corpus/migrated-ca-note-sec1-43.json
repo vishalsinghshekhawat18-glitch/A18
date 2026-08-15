@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec1-43",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "PM Modi Launches South India's First Semiconductor Chip Plant in Visakhapatnam",
+  "summary": "Establishes domestic semiconductor packaging hubs under India Semiconductor Mission.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Establishes domestic semiconductor packaging hubs under India Semiconductor Mission."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "📌 **Core Policy Directives & Scope:**\nPM laid foundation stone for **ASIP Technologies's ₹2,500 crore** OSAT facility.\nLocation: **Visakhapatnam, Andhra Pradesh**.",
+        "💰 **Financial Outlays & Operational Rules:**\nRegional Milestone: **Andhra Pradesh's and South India's 1st semiconductor plant** under ISM 1.0.\nTech Partner: **APACT Co.** (South Korea)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "India Semiconductor Mission (ISM) launched 2021 under MeitY (outlay ₹76,000 crore)."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "South India's 1st OSAT plant (ASIP Visakhapatnam, AP) vs India's 1st Commercial Fab (Tata Dholera, Gujarat)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:02.257Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-43",
+      "sourceTitle": "PM Modi Launches South India's First Semiconductor Chip Plant in Visakhapatnam",
+      "sourceChecksum": "2fd330b398925a77db72f37db5380b50177f1ad7fb8a22717244d0c807ff85e3",
+      "migrationTimestamp": "2026-08-15T12:10:02.257Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

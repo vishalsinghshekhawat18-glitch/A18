@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec4-42",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Lok Sabha Passes Bill to Increase Supreme Court Judge Strength from 33 to 37",
+  "summary": "Expands Apex Court judicial capacity to tackle case pendency and constitute Constitutional Benches.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Expands Apex Court judicial capacity to tackle case pendency and constitute Constitutional Benches."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Passed **Supreme Court (Number of Judges) Amendment Bill, 2026** amending the 1956 Act.",
+        "Sanctioned Strength Expansion: Increases SC Judges from **33 to 37** (excluding CJI).",
+        "Total Strength with CJI: **38 Judges** (37 Judges + 1 CJI)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Article 124(1) empowers Parliament to alter Supreme Court judge strength by law."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Judge strength excluding CJI (**37 judges**) vs total strength including CJI (**38 judges**)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:02.257Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-42",
+      "sourceTitle": "Lok Sabha Passes Bill to Increase Supreme Court Judge Strength from 33 to 37",
+      "sourceChecksum": "eb6fa398d23346e07a09816e948c109018174653ee79d20c3ab7c052fc694a9e",
+      "migrationTimestamp": "2026-08-15T12:10:02.257Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

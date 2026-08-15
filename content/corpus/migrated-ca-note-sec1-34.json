@@ -1,0 +1,44 @@
+{
+  "id": "migrated-ca-note-sec1-34",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "PNB MetLife Launches 360 Health Saving Plan (ULIP)",
+  "summary": "PNB MetLife Launches 360 Health Saving Plan (ULIP)",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "PNB MetLife India Insurance Company Ltd launched the **PNB MetLife 360 Health Saving Plan**, a health-focused Unit-Linked Insurance Plan (ULIP)."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:02.257Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-34",
+      "sourceTitle": "PNB MetLife Launches 360 Health Saving Plan (ULIP)",
+      "sourceChecksum": "47af339469b923a27002dd1afa4b00bfe90ba66fa8f515af39bcab614f1b5f7a",
+      "migrationTimestamp": "2026-08-15T12:10:02.257Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "migrated-ca-note-sec1-50",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Pacific Nation Nauru Officially Changes Name to Republic of Naoero",
+  "summary": "Pacific Nation Nauru Officially Changes Name to Republic of Naoero",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Nauru officially changed its name to **Republic of Naoero** (3rd-smallest country by population after Vatican City & Tuvalu; Currency: Australian Dollar)."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:02.257Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-50",
+      "sourceTitle": "Pacific Nation Nauru Officially Changes Name to Republic of Naoero",
+      "sourceChecksum": "d1b654cc2da7dfb5e2bf77bd1eed32bd3bb93b5b6db1f7148c38aed4bf3871f8",
+      "migrationTimestamp": "2026-08-15T12:10:02.257Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec1-32",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Private Banks Lead FCNR(B) Deposit Drive; ICICI, HSBC & SBI Top Performers",
+  "summary": "Forex swap windows incentivize private and foreign banks to mobilize non-resident foreign currency deposits.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Forex swap windows incentivize private and foreign banks to mobilize non-resident foreign currency deposits."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "📌 **Core Policy Directives & Scope:**\nPrivate banks led FCNR(B) mobilization under RBI's limited-period USD-INR forex swap window.\nForeign banks led by **HSBC and Standard Chartered** mobilized nearly the same volume as all 12 PSBs combined.",
+        "💰 **Financial Outlays & Operational Rules:**\n**>$1B Private Banks:** 4 lenders (**ICICI, Kotak, Axis, HDFC**).\n**>$1B PSBs:** Only 2 lenders (**SBI and Bank of Baroda**)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "FCNR(B) accounts maintained in designated foreign currencies by NRIs; interest tax-free in India and fully repatriable."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "PSBs crossing $1B mark (only 2: SBI & BoB) vs Private banks (4: ICICI, Kotak, Axis, HDFC)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:02.257Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-32",
+      "sourceTitle": "Private Banks Lead FCNR(B) Deposit Drive; ICICI, HSBC & SBI Top Performers",
+      "sourceChecksum": "9c1ea58fe8c13c20baf56c58224dbcab57bb7e0ea73c1bdd8f5f8c2174d9b812",
+      "migrationTimestamp": "2026-08-15T12:10:02.257Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

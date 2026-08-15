@@ -1,0 +1,44 @@
+{
+  "id": "migrated-ca-note-sec1-37",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "HDFC Bank Launches 'Max for Seniors' and 'Max for Her' Savings Account Variants",
+  "summary": "HDFC Bank Launches 'Max for Seniors' and 'Max for Her' Savings Account Variants",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "HDFC Bank launched **'Max for Seniors'** and **'Max for Her'** savings account variants with auto-sweep and accidental death cover on debit card up to **₹3.19 crore**."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:02.257Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-37",
+      "sourceTitle": "HDFC Bank Launches 'Max for Seniors' and 'Max for Her' Savings Account Variants",
+      "sourceChecksum": "f5f9ab5b7d5c261307170503b60b0c18f0fb9b3f22185f197773b43eff9dd7dc",
+      "migrationTimestamp": "2026-08-15T12:10:02.257Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

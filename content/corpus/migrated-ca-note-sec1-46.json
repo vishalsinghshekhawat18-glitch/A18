@@ -1,0 +1,44 @@
+{
+  "id": "migrated-ca-note-sec1-46",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Largest Dhimsa Dance Enters Guinness World Records in Andhra Pradesh",
+  "summary": "Largest Dhimsa Dance Enters Guinness World Records in Andhra Pradesh",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Over 13,000 tribal women performed Dhimsa dance at Bhogapuram AP, entering Guinness World Records (origin Koraput Odisha / Araku Valley AP)."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:02.257Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-46",
+      "sourceTitle": "Largest Dhimsa Dance Enters Guinness World Records in Andhra Pradesh",
+      "sourceChecksum": "00c02ac25230dfcdd377c766d2e445bbbedcfbc721970d5c228023735d3124b2",
+      "migrationTimestamp": "2026-08-15T12:10:02.257Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

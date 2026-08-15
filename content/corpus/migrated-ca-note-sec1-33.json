@@ -1,0 +1,44 @@
+{
+  "id": "migrated-ca-note-sec1-33",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Shivalik Small Finance Bank Acquires ManiBhavnam Home Finance for ₹109 Crore",
+  "summary": "Shivalik Small Finance Bank Acquires ManiBhavnam Home Finance for ₹109 Crore",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Shivalik Small Finance Bank completed acquisition and merger of Delhi-based ManiBhavnam Home Finance India Pvt Ltd for **₹109 crore** (Shivalik SFB HQ: Noida)."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:02.257Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-33",
+      "sourceTitle": "Shivalik Small Finance Bank Acquires ManiBhavnam Home Finance for ₹109 Crore",
+      "sourceChecksum": "9696bcba2a15bd36e76b8d6b28b83375083837eb2eb889795973d0ec7991e5c6",
+      "migrationTimestamp": "2026-08-15T12:10:02.257Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

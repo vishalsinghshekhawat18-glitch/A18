@@ -1,0 +1,44 @@
+{
+  "id": "migrated-ca-note-sec1-27",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "TRAI Launches Revamped Version of MyCall App",
+  "summary": "TRAI Launches Revamped Version of MyCall App",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "TRAI launched revamped MyCall app for 1-5 star call quality ratings and call drop reporting."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:02.257Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-27",
+      "sourceTitle": "TRAI Launches Revamped Version of MyCall App",
+      "sourceChecksum": "8d51e725abc4ec4f0daf77f2f9d52aaf0a2d0a99fdad0800a99bf16e1b6ba534",
+      "migrationTimestamp": "2026-08-15T12:10:02.257Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "migrated-ca-note-sec2-26",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SEBI Appoints Prasanta Mahapatra as Executive Director",
+  "summary": "SEBI Appoints Prasanta Mahapatra as Executive Director",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Prasanta Mahapatra appointed Executive Director at markets regulator SEBI."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Appointee / Official",
+        "New Position & Organization",
+        "Key Context & Details"
+      ],
+      "rows": [
+        [
+          "Prasanta Mahapatra",
+          "Executive Director",
+          "Prasanta Mahapatra appointed Executive Director at markets regulator SEBI."
+        ]
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:02.256Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-26",
+      "sourceTitle": "SEBI Appoints Prasanta Mahapatra as Executive Director",
+      "sourceChecksum": "eedc7097ab5219097bf4c5077f9a071f2edc76e44cfc7f6cf2eb690b2f1228fc",
+      "migrationTimestamp": "2026-08-15T12:10:02.256Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

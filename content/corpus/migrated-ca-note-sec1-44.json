@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec1-44",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "NOTTO Launches e-Pratyaropan Portal & Mobile App for Organ Donation",
+  "summary": "Streamlines national organ donation tracking and real-time donor-recipient matching.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Streamlines national organ donation tracking and real-time donor-recipient matching."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "NOTTO launched **e-Pratyaropan Portal** and mobile app for unified digital organ donation tracking.",
+        "Nodal Ministry: Ministry of Health and Family Welfare (MoHFW).",
+        "Implementing Agency: NOTTO (under Directorate General of Health Services / DGHS)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "NOTTO HQ: New Delhi."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:02.257Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-44",
+      "sourceTitle": "NOTTO Launches e-Pratyaropan Portal & Mobile App for Organ Donation",
+      "sourceChecksum": "d84c271d3acb03fff0c9000b1b45b22f72ff576f6198471f9729e8e5f71e1de2",
+      "migrationTimestamp": "2026-08-15T12:10:02.257Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}
