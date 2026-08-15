@@ -11,13 +11,46 @@ const demoModules = import.meta.glob('../content/demo/*.json', { eager: true });
 const pilotModules = import.meta.glob('../content/pilot/*.json', { eager: true });
 const corpusModules = import.meta.glob('../content/corpus/*.json', { eager: true });
 
-const allCorpusMap: KnowledgeItem[] = [
+// Raw concatenated modules
+const rawModulesList: KnowledgeItem[] = [
   ...Object.values(corpusModules).map((mod: any) => mod.default || mod),
   ...Object.values(pilotModules).map((mod: any) => mod.default || mod),
   ...Object.values(demoModules).map((mod: any) => mod.default || mod),
 ];
 
+/**
+ * Deterministic Deduplication Layer
+ * Maps legacy (sourceSystem + sourceId) to exactly ONE canonical KnowledgeItem.
+ * Ensures pilot/demo duplicate copies do not appear as independent entries.
+ */
+function deduplicateKnowledgeItems(rawItems: KnowledgeItem[]): KnowledgeItem[] {
+  const map = new Map<string, KnowledgeItem>();
+
+  for (const item of rawItems) {
+    const sys = item.metadata?.provenance?.sourceSystem || 'unknown';
+    const id = item.metadata?.provenance?.sourceId || item.id;
+    const canonicalKey = `${sys}::${id}`;
+
+    if (!map.has(canonicalKey)) {
+      map.set(canonicalKey, item);
+    } else {
+      const existing = map.get(canonicalKey)!;
+      // Prefer official migrated- corpus item over pilot/demo items
+      if (item.id.startsWith('migrated-') && !existing.id.startsWith('migrated-')) {
+        map.set(canonicalKey, item);
+      }
+    }
+  }
+
+  return Array.from(map.values());
+}
+
 export const App: React.FC = () => {
+  // Deduplicated canonical corpus map
+  const allCorpusMap = useMemo(() => {
+    return deduplicateKnowledgeItems(rawModulesList);
+  }, []);
+
   const [activeItemId, setActiveItemId] = useState<string>(allCorpusMap[0]?.id || '');
   const [fontSize, setFontSize] = useState<number>(18);
   const [isSearchOpen, setIsSearchOpen] = useState<boolean>(false);
@@ -27,11 +60,11 @@ export const App: React.FC = () => {
     const provider = new FlexSearchProvider();
     provider.indexItems(allCorpusMap);
     return provider;
-  }, []);
+  }, [allCorpusMap]);
 
   const activeItem = useMemo(() => {
     return allCorpusMap.find(i => i.id === activeItemId) || allCorpusMap[0];
-  }, [activeItemId]);
+  }, [allCorpusMap, activeItemId]);
 
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {

@@ -1,7 +1,7 @@
 import React from 'react';
 import { KnowledgeItem, SemanticBlock } from '../../../schema/knowledge-item';
 import { BlockRenderer } from '../../components/renderers/BlockRenderer';
-import { InPageTOC } from '../InPageTOC';
+import { InPageTOCMobile, InPageTOCDesktop } from '../InPageTOC';
 import { RelationshipLinks } from '../RelationshipLinks';
 
 interface Props {
@@ -19,7 +19,8 @@ export const BookChapterView: React.FC<Props> = ({
 }) => {
   return (
     <div className="layout-book-chapter">
-      <div className="reader-layout-wrapper">
+      <div className="book-chapter-flex-container">
+        {/* Main Centered Reading Container (68ch wide) */}
         <main className="reading-container" style={{ fontSize: `${fontSize}px` }}>
           <article className="article-header">
             <span className="domain-badge">{item.domain}</span>
@@ -41,7 +42,7 @@ export const BookChapterView: React.FC<Props> = ({
             )}
 
             {/* Mobile Inline TOC */}
-            <InPageTOC blocks={item.blocks} />
+            <InPageTOCMobile blocks={item.blocks} />
           </article>
 
           {item.blocks.map((block: SemanticBlock, idx: number) => (
@@ -54,6 +55,11 @@ export const BookChapterView: React.FC<Props> = ({
             onNavigate={onNavigateItem}
           />
         </main>
+
+        {/* Outer Right Margin Secondary Sticky TOC Panel (Desktop) */}
+        <aside className="book-chapter-toc-pane">
+          <InPageTOCDesktop blocks={item.blocks} />
+        </aside>
       </div>
     </div>
   );

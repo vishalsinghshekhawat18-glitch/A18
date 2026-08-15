@@ -1,20 +1,14 @@
 import React, { useState } from 'react';
 import { SemanticBlock } from '../../schema/knowledge-item';
 
-interface TOCItem {
+export interface TOCItem {
   id: string;
   label: string;
   kind: 'heading' | 'worked_example' | 'table' | 'key_concept' | 'exam_trap';
   level?: number;
 }
 
-interface Props {
-  blocks: SemanticBlock[];
-}
-
-export const InPageTOC: React.FC<Props> = ({ blocks }) => {
-  const [isOpenMobile, setIsOpenMobile] = useState<boolean>(false);
-
+export function extractTOCItems(blocks: SemanticBlock[]): TOCItem[] {
   const tocItems: TOCItem[] = [];
 
   blocks.forEach((block, idx) => {
@@ -55,6 +49,17 @@ export const InPageTOC: React.FC<Props> = ({ blocks }) => {
     }
   });
 
+  return tocItems;
+}
+
+interface Props {
+  blocks: SemanticBlock[];
+}
+
+export const InPageTOCMobile: React.FC<Props> = ({ blocks }) => {
+  const [isOpenMobile, setIsOpenMobile] = useState<boolean>(false);
+  const tocItems = extractTOCItems(blocks);
+
   if (tocItems.length < 2) return null;
 
   const scrollTo = (id: string) => {
@@ -66,49 +71,64 @@ export const InPageTOC: React.FC<Props> = ({ blocks }) => {
   };
 
   return (
-    <>
-      {/* Mobile Inline TOC */}
-      <div className="in-page-toc-mobile">
-        <button
-          className="toc-mobile-toggle"
-          onClick={() => setIsOpenMobile(!isOpenMobile)}
-        >
-          📍 In This Chapter ({tocItems.length} sections) {isOpenMobile ? '▲' : '▼'}
-        </button>
+    <div className="in-page-toc-mobile">
+      <button
+        className="toc-mobile-toggle"
+        onClick={() => setIsOpenMobile(!isOpenMobile)}
+      >
+        📍 In This Chapter ({tocItems.length} sections) {isOpenMobile ? '▲' : '▼'}
+      </button>
 
-        {isOpenMobile && (
-          <div className="toc-mobile-dropdown">
-            {tocItems.map(item => (
-              <button
-                key={item.id}
-                className="toc-mobile-item"
-                style={{ paddingLeft: item.level ? `${(item.level - 1) * 0.8 + 0.8}rem` : '0.8rem' }}
-                onClick={() => scrollTo(item.id)}
-              >
-                {item.label}
-              </button>
-            ))}
-          </div>
-        )}
-      </div>
-
-      {/* Desktop Sticky Floating TOC */}
-      <nav className="in-page-toc-desktop">
-        <div className="toc-desktop-title">IN THIS CHAPTER</div>
-        <div className="toc-desktop-list">
+      {isOpenMobile && (
+        <div className="toc-mobile-dropdown">
           {tocItems.map(item => (
             <button
               key={item.id}
-              className={`toc-desktop-item ${item.kind}`}
-              style={{ paddingLeft: item.level ? `${(item.level - 1) * 0.5 + 0.5}rem` : '0.5rem' }}
+              className="toc-mobile-item"
+              style={{ paddingLeft: item.level ? `${(item.level - 1) * 0.8 + 0.8}rem` : '0.8rem' }}
               onClick={() => scrollTo(item.id)}
-              title={item.label}
             >
               {item.label}
             </button>
           ))}
         </div>
-      </nav>
-    </>
+      )}
+    </div>
   );
+};
+
+export const InPageTOCDesktop: React.FC<Props> = ({ blocks }) => {
+  const tocItems = extractTOCItems(blocks);
+
+  if (tocItems.length < 2) return null;
+
+  const scrollTo = (id: string) => {
+    const el = document.getElementById(id);
+    if (el) {
+      el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  };
+
+  return (
+    <nav className="in-page-toc-desktop">
+      <div className="toc-desktop-title">IN THIS CHAPTER</div>
+      <div className="toc-desktop-list">
+        {tocItems.map(item => (
+          <button
+            key={item.id}
+            className={`toc-desktop-item ${item.kind}`}
+            style={{ paddingLeft: item.level ? `${(item.level - 1) * 0.5 + 0.5}rem` : '0.5rem' }}
+            onClick={() => scrollTo(item.id)}
+            title={item.label}
+          >
+            {item.label}
+          </button>
+        ))}
+      </div>
+    </nav>
+  );
+};
+
+export const InPageTOC: React.FC<Props> = ({ blocks }) => {
+  return <InPageTOCMobile blocks={blocks} />;
 };

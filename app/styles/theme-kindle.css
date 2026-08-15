@@ -199,6 +199,139 @@ body {
   margin: 0 auto;
 }
 
+/* Book Chapter Flex Geometry (Desktop Outer Margin TOC) */
+.layout-book-chapter {
+  width: 100%;
+}
+
+.book-chapter-flex-container {
+  display: flex;
+  gap: 2.5rem;
+  justify-content: center;
+  align-items: flex-start;
+  max-width: 1100px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.book-chapter-toc-pane {
+  width: 240px;
+  flex-shrink: 0;
+  position: sticky;
+  top: 2rem;
+}
+
+@media (max-width: 1100px) {
+  .book-chapter-toc-pane {
+    display: none;
+  }
+}
+
+/* PYQ Practice Card Layout (Prominent Visual Hierarchy) */
+.pyq-worked-card {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 1.8rem;
+  box-shadow: var(--shadow-sm);
+}
+
+.pyq-question-card {
+  background-color: var(--bg-reading-paper);
+  border: 1px solid var(--border-subtle);
+  border-left: 5px solid var(--text-accent);
+  border-radius: 4px;
+  padding: 1.2rem 1.4rem;
+  margin-bottom: 1.5rem;
+}
+
+.pyq-question-badge {
+  font-family: var(--font-ui);
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--text-accent);
+  margin-bottom: 0.5rem;
+  letter-spacing: 0.04em;
+}
+
+.pyq-question-text {
+  font-family: var(--font-reading);
+  font-size: 1.15rem;
+  line-height: 1.6;
+  color: var(--text-primary);
+  font-weight: 600;
+}
+
+.pyq-method-box {
+  background-color: var(--bg-accent-subtle);
+  border-radius: 6px;
+  padding: 1rem 1.2rem;
+  margin-bottom: 1.5rem;
+}
+
+.pyq-section-label {
+  font-family: var(--font-ui);
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--text-accent);
+  margin-bottom: 0.6rem;
+  letter-spacing: 0.04em;
+}
+
+.pyq-method-text {
+  font-family: var(--font-reading);
+  font-size: 0.98rem;
+  line-height: 1.5;
+  font-style: italic;
+  color: var(--text-primary);
+}
+
+.pyq-steps-container {
+  margin-bottom: 1.5rem;
+}
+
+.pyq-step-card {
+  background-color: var(--bg-reading-paper);
+  border: 1px solid var(--border-subtle);
+  border-radius: 6px;
+  padding: 0.9rem 1.1rem;
+  margin-bottom: 0.8rem;
+}
+
+.pyq-step-header {
+  font-family: var(--font-ui);
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--text-accent);
+  margin-bottom: 0.3rem;
+}
+
+.pyq-step-explanation {
+  font-family: var(--font-reading);
+  font-size: 0.98rem;
+  line-height: 1.5;
+  color: var(--text-primary);
+}
+
+.pyq-domain-badge {
+  font-family: var(--font-ui);
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--text-accent);
+  background-color: var(--bg-accent-subtle);
+  padding: 0.2rem 0.6rem;
+  border-radius: 3px;
+}
+
+.pyq-summary-card {
+  background-color: var(--bg-reading-paper);
+  border: 1px solid var(--border-subtle);
+  padding: 0.8rem 1rem;
+  border-radius: 4px;
+  font-size: 0.95rem;
+}
+
 /* ==========================================================================
    SPECIALIZED LAYOUT MODES (ONE UNIFIED KINDLE DESIGN SYSTEM)
    ========================================================================== */
