@@ -1,0 +1,73 @@
+{
+  "id": "pilot-quant-ch-2-2",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Government to Offload up to 6.5% Stake in LIC via Offer for Sale (OFS)",
+  "summary": "Government to Offload up to 6.5% Stake in LIC via Offer for Sale (OFS)",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Disinvestment of **2.5% base equity** with an additional **4% greenshoe option** (total up to 6.5%).",
+        "Floor price fixed at **₹382 per share**.",
+        "Centre currently holds 96.5% stake in LIC."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Metric / Component",
+        "Threshold / Provision Detail"
+      ],
+      "rows": [
+        [
+          "Key Metric",
+          "Disinvestment of 2.5% base equity with an additional 4% greenshoe option (total up to 6.5%)."
+        ],
+        [
+          "Key Metric",
+          "Floor price fixed at ₹382 per share."
+        ],
+        [
+          "Key Metric",
+          "Centre currently holds 96.5% stake in LIC."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "LIC founded 1st September 1956 under LIC Act, 1956 | HQ: Mumbai."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T05:25:56.089Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "pilot-quant-ch-2-2",
+      "sourceTitle": "Government to Offload up to 6.5% Stake in LIC via Offer for Sale (OFS)",
+      "sourceChecksum": "b38fd261876b4443f8e843c79a15dfe14cb98c38cf2196609b80ca19dda9aa12",
+      "migrationTimestamp": "2026-08-15T05:25:56.089Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "pilot-eco-ch-14",
+  "type": "chapter",
+  "domain": "economics",
+  "title": "14. The Informal Economy, Gig Economy & PLFS Data Trends",
+  "summary": "Informal labor dominates Indian employment, while the emerging gig economy relies on platform mediation governed by the Code on Social Security 2020.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "First-Principles Core Truth",
+      "summary": "Informal labor dominates Indian employment, while the emerging gig economy relies on platform mediation governed by the Code on Social Security 2020."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧠 Visual Mind Map & Structural Diagram"
+    },
+    {
+      "type": "paragraph",
+      "content": "🗺️ Informal Sector & Gig Economy Architecture"
+    },
+    {
+      "type": "paragraph",
+      "content": "1. Informal Sector Scale: Over 85% of India's total workforce operates in the informal sector, lacking written contracts, paid leave, and social security."
+    },
+    {
+      "type": "paragraph",
+      "content": "2. Gig vs. Platform Worker (Code 2020): Gig worker earns from non-traditional work arrangements. Platform worker uses digital apps/platforms (Zomato, Urban Company) to access buyers."
+    },
+    {
+      "type": "paragraph",
+      "content": "3. e-Shram Portal (Aug 2021): National Database of Unorganised Workers (NDUW). Issues 12-digit UAN card linked with Aadhaar for targeted welfare delivery."
+    },
+    {
+      "type": "paragraph",
+      "content": "4. Social Security Fund: Code on Social Security 2020 mandates platform aggregators contribute 1-2% of annual turnover to a Gig Social Security Fund."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚡ 1. Formal vs. Informal & Gig Work Comparison Matrix\n| Parameter | Formal Sector | Informal Sector | Gig / Platform Work |\n|---|---|---|---|\n| **Employment Contract** | Written, legally binding contract | Verbal, informal agreement | Task-based algorithmic contract |\n| **Social Security** | Mandatory EPF, ESI, Gratuity | None / Voluntary Govt schemes | Aggregator contribution (Code 2020) |\n| **Working Hours** | Regulated (e.g. 8 hrs/day) | Unregulated | Flexible / Demand-driven hours |\n| **Primary Example** | Public sector, registered corporate firms | Daily wage construction, street vendors | Ride-sharing drivers, delivery partners |"
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📖 2. Key Statutory Schemes & Social Security Code 2020\n1. **Code on Social Security 2020:** First labor law in India to legally define \"Gig Worker\" and \"Platform Worker\". Mandates setting up a **Social Security Board for Unorganised Workers**.\n2. **e-Shram Portal (Ministry of Labour):** Provides universal 12-digit Universal Account Number (UAN) for unorganized workers, offering free ₹2 Lakh accidental insurance cover under PMSBY.\n3. **NITI Aayog Report (2022) 'Booming Gig and Platform Economy':** Projected India's gig workforce to expand to **2.35 Crore workers by 2029-30** (up from 77 Lakh in 2020-21)."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** All platform workers are gig workers, but NOT all gig workers are platform workers (a freelance carpenter offline is a gig worker, but not a platform worker!).\n- ⚠️ **Exam Trap 2:** The Code on Social Security 2020 caps aggregator contributions at **5% of the total amount paid** to gig workers."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 4. Chapter-Specific Active Recall & Practice Questions"
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which statutory labor code first legally recognized and defined 'Gig Workers' and 'Platform Workers' in India?  \n(A) Industrial Relations Code 2020  \n(B) Code on Social Security 2020  \n(C) Code on Wages 2019  \n(D) Occupational Safety Code 2020  \n**Answer:** **(B)** — Code on Social Security 2020 introduced statutory recognition for gig and platform workers."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** A delivery partner working for a food aggregator requests maternity benefits under the Maternity Benefit Act 1961. Explain the legal position under current labor law transition.  \n**Resolution:** Traditional labor laws require formal employer-employee relationship. The partner is classified as an independent gig contractor under platform terms, but qualifies for welfare funds under the Code on Social Security 2020."
+    },
+    {
+      "type": "paragraph",
+      "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Critically examine the opportunities and vulnerabilities of India's emerging gig economy. How does the e-Shram portal facilitate formalization of informal labor?'*"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "UPSC",
+      "RBI Grade B"
+    ],
+    "tags": [
+      "Informal Economy",
+      "Gig Economy",
+      "Platform Workers",
+      "e-Shram Portal",
+      "Social Security Code 2020",
+      "PLFS Data"
+    ],
+    "category": "Book III: Labor Markets, Employment & Informal Sector",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T05:25:56.071Z",
+    "provenance": {
+      "sourceSystem": "Core",
+      "sourceFile": "index.html (rawBookData)",
+      "sourceId": "pilot-eco-ch-14",
+      "sourceTitle": "14. The Informal Economy, Gig Economy & PLFS Data Trends",
+      "sourceChecksum": "36bbebb2d9379cda5061463f8e79f46871e2fba6630cad4bc736fafa84b7bee4",
+      "migrationTimestamp": "2026-08-15T05:25:56.071Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "pilot-hist-ch-20",
+  "type": "chapter",
+  "domain": "economics",
+  "title": "Pilot Chapter hist-ch-20",
+  "summary": "First-principles core truth summary for pilot chapter.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "First-Principles Core Truth",
+      "summary": "First-principles core truth summary for pilot chapter."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Section 1: Core Principles\nSample real text for hist-ch-20."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "UPSC",
+      "RBI Grade B"
+    ],
+    "tags": [],
+    "category": "Pilot Book Collection",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T05:25:56.074Z",
+    "provenance": {
+      "sourceSystem": "Core",
+      "sourceFile": "index.html (rawBookData)",
+      "sourceId": "pilot-hist-ch-20",
+      "sourceTitle": "Pilot Chapter hist-ch-20",
+      "sourceChecksum": "359edb2be194e046152aa6081179f8cd29dfc04ae687482ed45a41bb40526d22",
+      "migrationTimestamp": "2026-08-15T05:25:56.074Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

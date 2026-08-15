@@ -188,13 +188,24 @@ export const SemanticBlockSchema = z.discriminatedUnion('type', [
   ImageBlockSchema
 ]);
 
+export const MigrationProvenanceSchema = z.object({
+  sourceSystem: z.enum(['Core', 'CA', 'StaticGA', 'Quant', 'Schemes']),
+  sourceFile: z.string().min(1),
+  sourceId: z.string().min(1),
+  sourceTitle: z.string().min(1),
+  sourceChecksum: z.string().min(1),
+  migrationTimestamp: z.string().min(1),
+  normalizationRuleVersion: z.string().min(1)
+});
+
 export const MetadataSchema = z.object({
   exam: z.array(z.string()).optional(),
   tags: z.array(z.string()).optional(),
   date: z.string().optional(),
   category: z.string().optional(),
   difficulty: z.enum(['beginner', 'intermediate', 'advanced']).optional(),
-  lastUpdated: z.string().optional()
+  lastUpdated: z.string().optional(),
+  provenance: MigrationProvenanceSchema.optional()
 });
 
 export const KnowledgeItemSchema = z.object({

@@ -1,0 +1,392 @@
+[
+  {
+    "itemId": "pilot-eco-ch-1",
+    "sourceTitle": "1. What is Economics? Scarcity, Choice & Opportunity Cost",
+    "targetTitle": "1. What is Economics? Scarcity, Choice & Opportunity Cost",
+    "passed": true,
+    "levelResults": {
+      "level1Inventory": true,
+      "level2Metadata": true,
+      "level3Structural": true,
+      "level4TextFidelity": true,
+      "level5SpecialContent": true,
+      "level6RenderReadiness": true
+    },
+    "metrics": {
+      "sourceTextLen": 6333,
+      "targetTextLen": 6711,
+      "lengthRatio": 1.06,
+      "rupeeSymbolsPreserved": true,
+      "percentSymbolsPreserved": true,
+      "datesPreserved": true,
+      "formulasPreserved": true,
+      "tableCellsPreserved": true
+    },
+    "warnings": [],
+    "errors": []
+  },
+  {
+    "itemId": "pilot-eco-ch-14",
+    "sourceTitle": "14. The Informal Economy, Gig Economy & PLFS Data Trends",
+    "targetTitle": "14. The Informal Economy, Gig Economy & PLFS Data Trends",
+    "passed": true,
+    "levelResults": {
+      "level1Inventory": true,
+      "level2Metadata": true,
+      "level3Structural": true,
+      "level4TextFidelity": true,
+      "level5SpecialContent": true,
+      "level6RenderReadiness": true
+    },
+    "metrics": {
+      "sourceTextLen": 5037,
+      "targetTextLen": 5258,
+      "lengthRatio": 1.04,
+      "rupeeSymbolsPreserved": true,
+      "percentSymbolsPreserved": true,
+      "datesPreserved": true,
+      "formulasPreserved": true,
+      "tableCellsPreserved": true
+    },
+    "warnings": [],
+    "errors": []
+  },
+  {
+    "itemId": "pilot-pol-ch-35",
+    "sourceTitle": "35. Election Commission of India (ECI - Article 324) & Electoral Reforms",
+    "targetTitle": "35. Election Commission of India (ECI - Article 324) & Electoral Reforms",
+    "passed": true,
+    "levelResults": {
+      "level1Inventory": true,
+      "level2Metadata": true,
+      "level3Structural": true,
+      "level4TextFidelity": true,
+      "level5SpecialContent": true,
+      "level6RenderReadiness": true
+    },
+    "metrics": {
+      "sourceTextLen": 7786,
+      "targetTextLen": 8333,
+      "lengthRatio": 1.07,
+      "rupeeSymbolsPreserved": true,
+      "percentSymbolsPreserved": true,
+      "datesPreserved": true,
+      "formulasPreserved": true,
+      "tableCellsPreserved": true
+    },
+    "warnings": [],
+    "errors": []
+  },
+  {
+    "itemId": "pilot-hist-ch-20",
+    "sourceTitle": "Pilot Chapter hist-ch-20",
+    "targetTitle": "Pilot Chapter hist-ch-20",
+    "passed": true,
+    "levelResults": {
+      "level1Inventory": true,
+      "level2Metadata": true,
+      "level3Structural": true,
+      "level4TextFidelity": true,
+      "level5SpecialContent": true,
+      "level6RenderReadiness": true
+    },
+    "metrics": {
+      "sourceTextLen": 327,
+      "targetTextLen": 882,
+      "lengthRatio": 2.7,
+      "rupeeSymbolsPreserved": true,
+      "percentSymbolsPreserved": true,
+      "datesPreserved": true,
+      "formulasPreserved": true,
+      "tableCellsPreserved": true
+    },
+    "warnings": [],
+    "errors": []
+  },
+  {
+    "itemId": "pilot-geo-ch-5",
+    "sourceTitle": "5. Composition & Structure of Atmosphere",
+    "targetTitle": "5. Composition & Structure of Atmosphere",
+    "passed": true,
+    "levelResults": {
+      "level1Inventory": true,
+      "level2Metadata": true,
+      "level3Structural": true,
+      "level4TextFidelity": true,
+      "level5SpecialContent": true,
+      "level6RenderReadiness": true
+    },
+    "metrics": {
+      "sourceTextLen": 4852,
+      "targetTextLen": 5192,
+      "lengthRatio": 1.07,
+      "rupeeSymbolsPreserved": true,
+      "percentSymbolsPreserved": true,
+      "datesPreserved": true,
+      "formulasPreserved": true,
+      "tableCellsPreserved": true
+    },
+    "warnings": [],
+    "errors": []
+  },
+  {
+    "itemId": "pilot-sci-ch-3",
+    "sourceTitle": "3. Recombinant DNA, CRISPR-Cas9 & Gene Editing",
+    "targetTitle": "3. Recombinant DNA, CRISPR-Cas9 & Gene Editing",
+    "passed": true,
+    "levelResults": {
+      "level1Inventory": true,
+      "level2Metadata": true,
+      "level3Structural": true,
+      "level4TextFidelity": true,
+      "level5SpecialContent": true,
+      "level6RenderReadiness": true
+    },
+    "metrics": {
+      "sourceTextLen": 4742,
+      "targetTextLen": 5102,
+      "lengthRatio": 1.08,
+      "rupeeSymbolsPreserved": true,
+      "percentSymbolsPreserved": true,
+      "datesPreserved": true,
+      "formulasPreserved": true,
+      "tableCellsPreserved": true
+    },
+    "warnings": [],
+    "errors": []
+  },
+  {
+    "itemId": "pilot-rev-ch-1",
+    "sourceTitle": "1. Rapid Revision — Ancient & Medieval History Traps",
+    "targetTitle": "1. Rapid Revision — Ancient & Medieval History Traps",
+    "passed": true,
+    "levelResults": {
+      "level1Inventory": true,
+      "level2Metadata": true,
+      "level3Structural": true,
+      "level4TextFidelity": true,
+      "level5SpecialContent": true,
+      "level6RenderReadiness": true
+    },
+    "metrics": {
+      "sourceTextLen": 6871,
+      "targetTextLen": 7208,
+      "lengthRatio": 1.05,
+      "rupeeSymbolsPreserved": true,
+      "percentSymbolsPreserved": true,
+      "datesPreserved": true,
+      "formulasPreserved": true,
+      "tableCellsPreserved": true
+    },
+    "warnings": [],
+    "errors": []
+  },
+  {
+    "itemId": "pilot-ca-012",
+    "sourceTitle": "Gross GST Collections Surge 15.4% to ₹2.11 Trillion in July 2026",
+    "targetTitle": "Gross GST Collections Surge 15.4% to ₹2.11 Trillion in July 2026",
+    "passed": true,
+    "levelResults": {
+      "level1Inventory": true,
+      "level2Metadata": true,
+      "level3Structural": true,
+      "level4TextFidelity": true,
+      "level5SpecialContent": true,
+      "level6RenderReadiness": true
+    },
+    "metrics": {
+      "sourceTextLen": 711,
+      "targetTextLen": 1558,
+      "lengthRatio": 2.19,
+      "rupeeSymbolsPreserved": true,
+      "percentSymbolsPreserved": true,
+      "datesPreserved": true,
+      "formulasPreserved": true,
+      "tableCellsPreserved": true
+    },
+    "warnings": [],
+    "errors": []
+  },
+  {
+    "itemId": "pilot-ca-045",
+    "sourceTitle": "NCGTC Tweaks MFI Credit Guarantee Norms (CGSMFI 2.0) to Boost Scheme Utilisation",
+    "targetTitle": "NCGTC Tweaks MFI Credit Guarantee Norms (CGSMFI 2.0) to Boost Scheme Utilisation",
+    "passed": true,
+    "levelResults": {
+      "level1Inventory": true,
+      "level2Metadata": true,
+      "level3Structural": true,
+      "level4TextFidelity": true,
+      "level5SpecialContent": true,
+      "level6RenderReadiness": true
+    },
+    "metrics": {
+      "sourceTextLen": 1964,
+      "targetTextLen": 2954,
+      "lengthRatio": 1.5,
+      "rupeeSymbolsPreserved": true,
+      "percentSymbolsPreserved": true,
+      "datesPreserved": true,
+      "formulasPreserved": true,
+      "tableCellsPreserved": true
+    },
+    "warnings": [],
+    "errors": []
+  },
+  {
+    "itemId": "pilot-ca-102",
+    "sourceTitle": "Government Approves ₹4,687 Crore Interest Subsidies for Ethanol Projects via NABARD",
+    "targetTitle": "Government Approves ₹4,687 Crore Interest Subsidies for Ethanol Projects via NABARD",
+    "passed": true,
+    "levelResults": {
+      "level1Inventory": true,
+      "level2Metadata": true,
+      "level3Structural": true,
+      "level4TextFidelity": true,
+      "level5SpecialContent": true,
+      "level6RenderReadiness": true
+    },
+    "metrics": {
+      "sourceTextLen": 1301,
+      "targetTextLen": 2252,
+      "lengthRatio": 1.73,
+      "rupeeSymbolsPreserved": true,
+      "percentSymbolsPreserved": true,
+      "datesPreserved": true,
+      "formulasPreserved": true,
+      "tableCellsPreserved": true
+    },
+    "warnings": [],
+    "errors": []
+  },
+  {
+    "itemId": "pilot-scheme-015",
+    "sourceTitle": "Taxation and Other Laws (Amendment) Bill, 2026 Introduced (2041 Sunset & UPI MDR)",
+    "targetTitle": "Taxation and Other Laws (Amendment) Bill, 2026 Introduced (2041 Sunset & UPI MDR)",
+    "passed": true,
+    "levelResults": {
+      "level1Inventory": true,
+      "level2Metadata": true,
+      "level3Structural": true,
+      "level4TextFidelity": true,
+      "level5SpecialContent": true,
+      "level6RenderReadiness": true
+    },
+    "metrics": {
+      "sourceTextLen": 1573,
+      "targetTextLen": 2555,
+      "lengthRatio": 1.62,
+      "rupeeSymbolsPreserved": true,
+      "percentSymbolsPreserved": true,
+      "datesPreserved": true,
+      "formulasPreserved": true,
+      "tableCellsPreserved": true
+    },
+    "warnings": [],
+    "errors": []
+  },
+  {
+    "itemId": "pilot-static-ch-1-1",
+    "sourceTitle": "IMF Estimates Indian Economy Will Cross $5 Trillion Mark in FY29",
+    "targetTitle": "IMF Estimates Indian Economy Will Cross $5 Trillion Mark in FY29",
+    "passed": true,
+    "levelResults": {
+      "level1Inventory": true,
+      "level2Metadata": true,
+      "level3Structural": true,
+      "level4TextFidelity": true,
+      "level5SpecialContent": true,
+      "level6RenderReadiness": true
+    },
+    "metrics": {
+      "sourceTextLen": 774,
+      "targetTextLen": 1638,
+      "lengthRatio": 2.12,
+      "rupeeSymbolsPreserved": true,
+      "percentSymbolsPreserved": true,
+      "datesPreserved": true,
+      "formulasPreserved": true,
+      "tableCellsPreserved": true
+    },
+    "warnings": [],
+    "errors": []
+  },
+  {
+    "itemId": "pilot-quant-ch-1-1",
+    "sourceTitle": "IMF Flags Financial Stability Risks from BigTech Expansion in Payments",
+    "targetTitle": "IMF Flags Financial Stability Risks from BigTech Expansion in Payments",
+    "passed": true,
+    "levelResults": {
+      "level1Inventory": true,
+      "level2Metadata": true,
+      "level3Structural": true,
+      "level4TextFidelity": true,
+      "level5SpecialContent": true,
+      "level6RenderReadiness": true
+    },
+    "metrics": {
+      "sourceTextLen": 1091,
+      "targetTextLen": 2050,
+      "lengthRatio": 1.88,
+      "rupeeSymbolsPreserved": true,
+      "percentSymbolsPreserved": true,
+      "datesPreserved": true,
+      "formulasPreserved": true,
+      "tableCellsPreserved": true
+    },
+    "warnings": [],
+    "errors": []
+  },
+  {
+    "itemId": "pilot-quant-ch-2-2",
+    "sourceTitle": "Government to Offload up to 6.5% Stake in LIC via Offer for Sale (OFS)",
+    "targetTitle": "Government to Offload up to 6.5% Stake in LIC via Offer for Sale (OFS)",
+    "passed": true,
+    "levelResults": {
+      "level1Inventory": true,
+      "level2Metadata": true,
+      "level3Structural": true,
+      "level4TextFidelity": true,
+      "level5SpecialContent": true,
+      "level6RenderReadiness": true
+    },
+    "metrics": {
+      "sourceTextLen": 931,
+      "targetTextLen": 1756,
+      "lengthRatio": 1.89,
+      "rupeeSymbolsPreserved": true,
+      "percentSymbolsPreserved": true,
+      "datesPreserved": true,
+      "formulasPreserved": true,
+      "tableCellsPreserved": true
+    },
+    "warnings": [],
+    "errors": []
+  },
+  {
+    "itemId": "pilot-pyq-rbi-2024",
+    "sourceTitle": "Moody's Assigns First-Time Investment-Grade 'Baa2' Rating to RBL Bank",
+    "targetTitle": "Moody's Assigns First-Time Investment-Grade 'Baa2' Rating to RBL Bank",
+    "passed": true,
+    "levelResults": {
+      "level1Inventory": true,
+      "level2Metadata": true,
+      "level3Structural": true,
+      "level4TextFidelity": true,
+      "level5SpecialContent": true,
+      "level6RenderReadiness": true
+    },
+    "metrics": {
+      "sourceTextLen": 591,
+      "targetTextLen": 1363,
+      "lengthRatio": 2.31,
+      "rupeeSymbolsPreserved": true,
+      "percentSymbolsPreserved": true,
+      "datesPreserved": true,
+      "formulasPreserved": true,
+      "tableCellsPreserved": true
+    },
+    "warnings": [],
+    "errors": []
+  }
+]

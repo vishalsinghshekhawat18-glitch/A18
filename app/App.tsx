@@ -12,12 +12,23 @@ import quantDoc from '../content/demo/quant-time-work.json';
 import caDoc from '../content/demo/ca-mpc-august.json';
 import pyqDoc from '../content/demo/pyq-rbi-grade-b.json';
 
+import pilotEco1 from '../content/pilot/eco-ch-1.json';
+import pilotEco14 from '../content/pilot/eco-ch-14.json';
+import pilotPol35 from '../content/pilot/pol-ch-35.json';
+import pilotCa12 from '../content/pilot/ca-012.json';
+import pilotCa45 from '../content/pilot/ca-045.json';
+
 const syntheticCorpus: KnowledgeItem[] = [
   stressTestDoc as KnowledgeItem,
   polityDoc as KnowledgeItem,
   quantDoc as KnowledgeItem,
   caDoc as KnowledgeItem,
-  pyqDoc as KnowledgeItem
+  pyqDoc as KnowledgeItem,
+  pilotEco1 as KnowledgeItem,
+  pilotEco14 as KnowledgeItem,
+  pilotPol35 as KnowledgeItem,
+  pilotCa12 as KnowledgeItem,
+  pilotCa45 as KnowledgeItem
 ];
 
 export const App: React.FC = () => {

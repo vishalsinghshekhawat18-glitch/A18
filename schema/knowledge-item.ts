@@ -192,6 +192,16 @@ export type SemanticBlock =
   | QuoteBlock
   | ImageBlock;
 
+export interface MigrationProvenance {
+  sourceSystem: 'Core' | 'CA' | 'StaticGA' | 'Quant' | 'Schemes';
+  sourceFile: string;
+  sourceId: string;
+  sourceTitle: string;
+  sourceChecksum: string;
+  migrationTimestamp: string;
+  normalizationRuleVersion: string;
+}
+
 export interface Metadata {
   exam?: string[];
   tags?: string[];
@@ -199,6 +209,7 @@ export interface Metadata {
   category?: string;
   difficulty?: 'beginner' | 'intermediate' | 'advanced';
   lastUpdated?: string;
+  provenance?: MigrationProvenance;
 }
 
 export interface KnowledgeItem {

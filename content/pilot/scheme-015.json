@@ -1,0 +1,59 @@
+{
+  "id": "pilot-scheme-015",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Taxation and Other Laws (Amendment) Bill, 2026 Introduced (2041 Sunset & UPI MDR)",
+  "summary": "Extending tax exemptions for capital equipment foreign suppliers provides long-term stability to domestic electronics manufacturers.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Extending tax exemptions for capital equipment foreign suppliers provides long-term stability to domestic electronics manufacturers."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "📌 **Core Policy Directives & Scope:**\nGovernment introduced **Taxation and Other Laws (Amendment) Bill, 2026** amending Payment & Settlement Systems Act 2007, Income-tax Act 2025, and Finance Act 2026.\n**Electronics Exemption Extension:** Extends tax exemption for foreign companies supplying capital goods/tooling to Indian contract manufacturers for electronic goods until **March 31, 2041** (extended from earlier sunset of 2030-31).",
+        "💰 **Financial Outlays & Operational Rules:**\n**UPI MDR Proposal:** Amends Payment & Settlement Systems Act 2007 to permit Merchant Discount Rate (MDR) on non-negative list electronic payment modes including UPI.\nCurrent Baseline: Credit card MDR ~1.5%, debit card up to 0.9%, UPI currently 0% for merchants."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Payment and Settlement Systems Act, 2007 empowers RBI to regulate payment systems."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Extended sunset year for electronics capital goods tax exemption (**March 31, 2041**) vs earlier sunset year (**March 31, 2031**)."
+    },
+    {
+      "type": "quote",
+      "quote": "Interview Focus Question: \"Why is the government proposing enabling provisions for MDR on digital payments like UPI?\"\n💡 **Model Answer: Zero-MDR strains acquiring bank infrastructure; introducing capped MDR creates a sustainable revenue model for payment security.**",
+      "author": "Banking & Regulatory Board Panel"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T05:25:56.085Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "pilot-scheme-015",
+      "sourceTitle": "Taxation and Other Laws (Amendment) Bill, 2026 Introduced (2041 Sunset & UPI MDR)",
+      "sourceChecksum": "8559a1e1e14a89a92349886cfe62417cd1fc43384096b190e89a15465481a0ef",
+      "migrationTimestamp": "2026-08-15T05:25:56.085Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}
