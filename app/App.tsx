@@ -2,7 +2,7 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import { KnowledgeItem } from '../schema/knowledge-item';
 import { NavSidebar } from './navigation/NavSidebar';
-import { ReaderView } from './reader/ReaderView';
+import { ReaderShell } from './reader/ReaderShell';
 import { ReadingControls } from './reader/ReadingControls';
 import { SearchModal } from './search/SearchModal';
 import { FlexSearchProvider } from './search/FlexSearchProvider';
@@ -62,7 +62,7 @@ export const App: React.FC = () => {
           onToggleMobileMenu={() => setIsOpenMobile(!isOpenMobile)}
         />
 
-        <ReaderView
+        <ReaderShell
           item={activeItem}
           allItems={allCorpusMap}
           fontSize={fontSize}
