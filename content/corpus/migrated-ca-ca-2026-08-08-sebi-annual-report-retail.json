@@ -41,14 +41,14 @@
     "date": "2026-08-08",
     "category": "SEC2",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:00.596Z",
+    "lastUpdated": "2026-08-15T12:19:15.620Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "ca_app/data.js",
       "sourceId": "ca_2026_08_08_sebi_annual_report_retail",
       "sourceTitle": "SEBI Annual Report 2025-26: MF AUM Reaches ₹73.7 Lakh Crore; Unique Investors Surge to 6.1 Crore",
       "sourceChecksum": "06841acd8017fde07dbfac6430147bd36b2c9f3390c2278a56e5da9c1a90c321",
-      "migrationTimestamp": "2026-08-15T12:14:00.596Z",
+      "migrationTimestamp": "2026-08-15T12:19:15.620Z",
       "normalizationRuleVersion": "1.0.0-phase4"
     }
   }

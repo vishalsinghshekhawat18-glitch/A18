@@ -42,14 +42,14 @@
     "date": "2026-08-09",
     "category": "SEC1",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:00.597Z",
+    "lastUpdated": "2026-08-15T12:19:15.620Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "ca_app/data.js",
       "sourceId": "ca_2026_08_09_rbi_cva_capital_framework",
       "sourceTitle": "RBI Proposes Credit Valuation Adjustment (CVA) Risk-Capital Framework Effective April 1, 2027",
       "sourceChecksum": "3e4240b51f16bbf34434bbc406de53d26179438f77d04f2815a7fb7feb18fe4e",
-      "migrationTimestamp": "2026-08-15T12:14:00.597Z",
+      "migrationTimestamp": "2026-08-15T12:19:15.620Z",
       "normalizationRuleVersion": "1.0.0-phase4"
     }
   }

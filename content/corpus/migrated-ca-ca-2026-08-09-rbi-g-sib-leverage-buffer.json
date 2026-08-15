@@ -41,14 +41,14 @@
     "date": "2026-08-09",
     "category": "SEC1",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:00.597Z",
+    "lastUpdated": "2026-08-15T12:19:15.620Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "ca_app/data.js",
       "sourceId": "ca_2026_08_09_rbi_g_sib_leverage_buffer",
       "sourceTitle": "RBI Draft Aligns Leverage Ratio Regime with Basel 2017 Standards; Prescribes G-SIB Leverage Buffer",
       "sourceChecksum": "3b59a3179d5e2b2fb2aca9dfd391a8c9319e07549de9d19dde20a273a1aa02fa",
-      "migrationTimestamp": "2026-08-15T12:14:00.597Z",
+      "migrationTimestamp": "2026-08-15T12:19:15.620Z",
       "normalizationRuleVersion": "1.0.0-phase4"
     }
   }

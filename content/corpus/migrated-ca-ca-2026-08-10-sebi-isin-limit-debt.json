@@ -42,14 +42,14 @@
     "date": "2026-08-10",
     "category": "SEC2",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:00.597Z",
+    "lastUpdated": "2026-08-15T12:19:15.620Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "ca_app/data.js",
       "sourceId": "ca_2026_08_10_sebi_isin_limit_debt",
       "sourceTitle": "SEBI Proposes Raising Annual ISIN Limit for Private Debt Securities from 14 to 17",
       "sourceChecksum": "a144ada48a2938b57987f3067a8a28dd6b8d2261f3b312e63ac9f56a972c7774",
-      "migrationTimestamp": "2026-08-15T12:14:00.597Z",
+      "migrationTimestamp": "2026-08-15T12:19:15.620Z",
       "normalizationRuleVersion": "1.0.0-phase4"
     }
   }
