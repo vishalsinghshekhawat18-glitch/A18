@@ -738,16 +738,33 @@ h3.block-heading {
 }
 
 .nav-subgroup {
-  margin-top: 0.4rem;
-  margin-bottom: 0.6rem;
+  margin-top: 0.2rem;
+  margin-bottom: 0.4rem;
 }
 
-.nav-subgroup-title {
-  padding: 0.3rem 1rem 0.2rem 1.4rem;
+.nav-subfolder-header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.35rem 0.8rem 0.35rem 1.2rem;
+  background: none;
+  border: none;
   font-family: var(--font-ui);
-  font-size: 0.75rem;
+  font-size: 0.78rem;
   font-weight: 700;
   color: var(--text-muted);
+  cursor: pointer;
+  text-align: left;
+}
+
+.nav-subfolder-header:hover {
+  color: var(--text-primary);
+  background: rgba(0, 0, 0, 0.02);
+}
+
+.nav-subfolder-items {
+  padding-left: 0.4rem;
 }
 
 .nav-item {
