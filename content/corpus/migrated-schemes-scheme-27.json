@@ -1,0 +1,39 @@
+{
+  "id": "migrated-schemes-scheme-27",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Infrastructure Development:",
+  "summary": "Schemes — Infrastructure Development:",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "o Pucca houses, clean water, electricity, roads, mobile connectivity, and health/ education",
+        "facilities."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.509Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-27",
+      "sourceTitle": "Infrastructure Development:",
+      "sourceChecksum": "faa35df0aa70250ef4d736fa90a9166dada14218d2bccd5cf62e4c9617080088",
+      "migrationTimestamp": "2026-08-15T12:14:01.509Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

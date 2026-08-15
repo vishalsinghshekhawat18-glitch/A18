@@ -1,0 +1,42 @@
+{
+  "id": "migrated-schemes-scheme-132",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Samarthya (Support for women’s well-being):",
+  "summary": "Schemes — Samarthya (Support for women’s well-being):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "o Pradhan Mantri Matru Vandana Yojana: Cash assistance for pregnant and lactating women.",
+        "o Ujjwala Yojana: Free LPG connections for BPL women.",
+        "o Swadhar Griha (Shakti Sadan): Shelters for women in distress.",
+        "o Working Women Hostel (Sakhi Niwas): Safe accommodation for working women.",
+        "o Creche Scheme: Daycare services for working women’s children."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.680Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-132",
+      "sourceTitle": "Samarthya (Support for women’s well-being):",
+      "sourceChecksum": "e73f908f5ae96175a70907c7bf225cd662fbba37ef45b8559d374365fc6b55b4",
+      "migrationTimestamp": "2026-08-15T12:14:02.680Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

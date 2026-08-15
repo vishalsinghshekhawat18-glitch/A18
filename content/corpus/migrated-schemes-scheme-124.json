@@ -1,0 +1,49 @@
+{
+  "id": "migrated-schemes-scheme-124",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "PM SHRI Schools (Prime Minister Schools for Rising India):",
+  "summary": "Schemes — PM SHRI Schools (Prime Minister Schools for Rising India):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "o Launched: September 2022",
+        "o Duration: 2022–2027 (5 years)",
+        "o Budget: ₹27,360 crores",
+        "o Objective: Upgrade 14,500 schools under the NEP",
+        "Key Features",
+        "o Modernization of infrastructure, smart classrooms, labs, and sports facilities",
+        "o Focus on discovery-based, student-centric learning",
+        "o Schools to mentor nearby institutions",
+        "o Teacher training for innovative education",
+        "First Phase",
+        "o 402 schools selected in Rajasthan (28 in Jaipur, 24 in Jodhpur)",
+        "This initiative aims to raise educational standards and leadership across India."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.104Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-124",
+      "sourceTitle": "PM SHRI Schools (Prime Minister Schools for Rising India):",
+      "sourceChecksum": "1b59dcfaedccbc453ed8154d2ffcd04f26a2a622705c0eac34ad8e51fd4a6331",
+      "migrationTimestamp": "2026-08-15T12:14:02.104Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

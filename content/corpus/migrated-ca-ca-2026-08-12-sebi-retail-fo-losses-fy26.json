@@ -41,14 +41,14 @@
     "date": "2026-08-12",
     "category": "SEC2",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:13:28.657Z",
+    "lastUpdated": "2026-08-15T12:14:01.063Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "ca_app/data.js",
       "sourceId": "ca_2026_08_12_sebi_retail_fo_losses_fy26",
       "sourceTitle": "SEBI Measures Curtail Retail Equity F&O Net Losses to ₹91,685 Crore in FY26",
       "sourceChecksum": "3dfcfaeabfedd6bf6a8b280a01b9fd2c5877422399407e899df74c8b90c13ba0",
-      "migrationTimestamp": "2026-08-15T12:13:28.657Z",
+      "migrationTimestamp": "2026-08-15T12:14:01.063Z",
       "normalizationRuleVersion": "1.0.0-phase4"
     }
   }

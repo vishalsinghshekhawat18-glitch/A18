@@ -1,0 +1,50 @@
+{
+  "id": "migrated-schemes-scheme-61",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Stand-Up India Scheme: ey Facts",
+  "summary": "Schemes — Stand-Up India Scheme: ey Facts",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        " Launch Date: April 5, 2016.",
+        " Objective: Promote entrepreneurship among SC/ST and women.",
+        " Focus: Provide loans to set up greenfield enterprises in manufacturing, services, or trading sectors.",
+        " Loan Amount: ₹10 lakh to ₹1 crore.",
+        " Eligibility:",
+        "o SC/ST or women entrepreneurs aged 18+.",
+        "o Greenfield projects only.",
+        " Tenure: Loan repayment period up to 7 years.",
+        " Implementation: Managed by all Scheduled Commercial Banks.",
+        " Additional Support: Handholding services, including guidance and mentoring.",
+        " Goal: Encourage job creation and economic empowerment.",
+        "MSME, TEXTILES, COMMERCE AND TRADE RELATED",
+        "SCHEMES"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Ministry of Finance & Financial Inclusion"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.511Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-61",
+      "sourceTitle": "Stand-Up India Scheme: ey Facts",
+      "sourceChecksum": "44106b78fab250e9fc400f2dfd99201608f613dd55b01cad3e837dc2c82d9a8a",
+      "migrationTimestamp": "2026-08-15T12:14:01.511Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

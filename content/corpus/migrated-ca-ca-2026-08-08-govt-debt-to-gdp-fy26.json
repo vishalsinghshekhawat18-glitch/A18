@@ -41,14 +41,14 @@
     "date": "2026-08-08",
     "category": "SEC3",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:13:28.227Z",
+    "lastUpdated": "2026-08-15T12:14:00.596Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "ca_app/data.js",
       "sourceId": "ca_2026_08_08_govt_debt_to_gdp_fy26",
       "sourceTitle": "Govt Debt-to-GDP Ratio Stands at 58.2% in FY26; Fiscal Deficit Drops to 4.4%",
       "sourceChecksum": "5bff9d1cb944892a5b7c02aa6105ab91cc2c92bf378b44f1fb9c8d2b2979da89",
-      "migrationTimestamp": "2026-08-15T12:13:28.227Z",
+      "migrationTimestamp": "2026-08-15T12:14:00.596Z",
       "normalizationRuleVersion": "1.0.0-phase4"
     }
   }

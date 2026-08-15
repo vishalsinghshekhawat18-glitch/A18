@@ -1,0 +1,39 @@
+{
+  "id": "migrated-schemes-scheme-89",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Swachh Bharat Mission (Urban):",
+  "summary": "Schemes — Swachh Bharat Mission (Urban):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Launched on 2nd October 2014 by the Ministry of Housing and Urban Affairs, the mission focuses",
+        "on:"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "MSME, Industry & Commerce Schemes"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.103Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-89",
+      "sourceTitle": "Swachh Bharat Mission (Urban):",
+      "sourceChecksum": "963d6358c81f2e6ec40e728cb4abfbd84db468d0501363418a689c8704aea660",
+      "migrationTimestamp": "2026-08-15T12:14:02.103Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

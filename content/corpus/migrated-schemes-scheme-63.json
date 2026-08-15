@@ -1,0 +1,45 @@
+{
+  "id": "migrated-schemes-scheme-63",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RAMP Scheme (Raising and Accelerating MSME Performance):",
+  "summary": "Schemes — RAMP Scheme (Raising and Accelerating MSME Performance):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "o Launch: 30 June 2022 (Budget 2022-23)",
+        "o Budget: ₹6000 crore (World Bank-supported)",
+        "Objectives:",
+        " Improve MSME access to markets and credit.",
+        " Resolve delayed payments and promote eco-friendly products.",
+        "Key Features:",
+        " Strengthens MSME institutions and sustainability.",
+        " Promotes innovation, green technologies, and financial literacy."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "MSME, Industry & Commerce Schemes"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.511Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-63",
+      "sourceTitle": "RAMP Scheme (Raising and Accelerating MSME Performance):",
+      "sourceChecksum": "599640f780e0fed83b116d8576290e14840e63db42ae9af38a3a7e4da3a3075f",
+      "migrationTimestamp": "2026-08-15T12:14:01.511Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

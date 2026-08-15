@@ -1,0 +1,42 @@
+{
+  "id": "migrated-staticga-ch11-sub3",
+  "type": "static_note",
+  "domain": "static-ga",
+  "title": "RBI Money Supply Equations",
+  "summary": "StaticGA — RBI Money Supply Equations",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "M0 (Reserve Money) = Currency in Circulation + Bankers' Deposits with RBI + Other Deposits with RBI",
+        "M1 (Narrow Money) = Currency with Public + Demand Deposits with Banking System + Other Deposits with RBI",
+        "M2 = M1 + Savings Deposits with Post Office Savings Banks",
+        "M3 (Broad Money - Policy Benchmark) = M1 + Time Deposits (Fixed Deposits) with Banking System",
+        "M4 = M3 + Total Deposits with Post Office Savings Organisation (excl. NSC)"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "staticga",
+      "general"
+    ],
+    "category": "StaticGA",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:03.194Z",
+    "provenance": {
+      "sourceSystem": "StaticGA",
+      "sourceFile": "ca_app/static_ga_data.js",
+      "sourceId": "ch11-sub3",
+      "sourceTitle": "RBI Money Supply Equations",
+      "sourceChecksum": "4bb86de73ba1b3af5a40d75150f12023dada303ae012f1a98caebcbcd4695d36",
+      "migrationTimestamp": "2026-08-15T12:14:03.194Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

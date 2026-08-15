@@ -1,0 +1,40 @@
+{
+  "id": "migrated-staticga-ch11-sub5",
+  "type": "static_note",
+  "domain": "static-ga",
+  "title": "Exam Revision Corner (Static Banking)",
+  "summary": "StaticGA — Exam Revision Corner (Static Banking)",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "≠ **NRE vs NRO Taxability:** NRE interest is tax-exempt and fully repatriable. NRO interest is taxable in India with restricted repatriability ($1M/yr).",
+        "⚠️ **Cheque Dishonour (Section 138):** Dishonour due to insufficiency of funds is a cognizable criminal offense punishable with up to **2 years imprisonment** or fine up to **twice the cheque amount** (30-day statutory notice).",
+        "🔗 **NI Act Sections:** Section 4 (Promissory Note), Section 5 (Bill of Exchange), Section 6 (Cheque), Section 138 (Dishonour penalty)."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "staticga",
+      "general"
+    ],
+    "category": "StaticGA",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:03.194Z",
+    "provenance": {
+      "sourceSystem": "StaticGA",
+      "sourceFile": "ca_app/static_ga_data.js",
+      "sourceId": "ch11-sub5",
+      "sourceTitle": "Exam Revision Corner (Static Banking)",
+      "sourceChecksum": "9e8efc05348fb11b302f62ed1b41e24f5e2b82dc06a387b1474c7c208a46996b",
+      "migrationTimestamp": "2026-08-15T12:14:03.194Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

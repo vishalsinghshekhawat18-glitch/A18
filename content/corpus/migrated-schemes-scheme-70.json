@@ -1,0 +1,42 @@
+{
+  "id": "migrated-schemes-scheme-70",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "FAME-II (2019-2024): ₹10,000 crore for EV subsidies and infrastructure.",
+  "summary": "Schemes — FAME-II (2019-2024): ₹10,000 crore for EV subsidies and infrastructure.",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Key Features:",
+        " Subsidies for 7,000 e-buses, 50,000 three-wheelers, 55,000 cars, and 10 lakh two-wheelers.",
+        " Development of 2,636 charging stations, including on highways.",
+        "Vision:",
+        " Promote green mobility and domestic EV manufacturing."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "MSME, Industry & Commerce Schemes"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.511Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-70",
+      "sourceTitle": "FAME-II (2019-2024): ₹10,000 crore for EV subsidies and infrastructure.",
+      "sourceChecksum": "61c018e46137f89e5f17b2d7a261fcc02a67a738f1108b97b6fde1a549d5130d",
+      "migrationTimestamp": "2026-08-15T12:14:01.511Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

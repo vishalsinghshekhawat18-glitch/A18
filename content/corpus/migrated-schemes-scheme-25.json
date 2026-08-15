@@ -1,0 +1,50 @@
+{
+  "id": "migrated-schemes-scheme-25",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Unified Pension Scheme (UPS) :",
+  "summary": "Schemes — Unified Pension Scheme (UPS) :",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Approved for Central Government employees, guarantees assured pension, family pension, and",
+        "minimum pension benefits for 23 lakh employees. Key features include:",
+        " Assured Pension: 50% of the average basic pay over the last 12 months, with proportionate",
+        "benefits for less than 25 years of service.",
+        " Assured Family Pension: 60% of the employee's pension to the family after death.",
+        " Assured Minimum Pension: Rs. 10,000/month after 10 years of service.",
+        " Inflation Indexation: Pension benefits adjusted for inflation.",
+        " Lump-Sum Payment: 1/10th of monthly emoluments for every six months of service at",
+        "superannuation.",
+        " Government Contribution: Increased from 14% to 18.5%.",
+        " Effective: 1st April 2025.",
+        " Optional for State Governments:- The scheme aims to provide financial security and simplify",
+        "pension management for central government employees."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.509Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-25",
+      "sourceTitle": "Unified Pension Scheme (UPS) :",
+      "sourceChecksum": "1862942d85b3c800d9e69a1db028223c7d9d920e13f42d8c8886cdb5445ea77a",
+      "migrationTimestamp": "2026-08-15T12:14:01.509Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

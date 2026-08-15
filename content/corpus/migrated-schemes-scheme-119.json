@@ -1,0 +1,42 @@
+{
+  "id": "migrated-schemes-scheme-119",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Beti Bachao Beti Padhao:",
+  "summary": "Schemes — Beti Bachao Beti Padhao:",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "o Launched: 22nd Jan 2015, Panipat",
+        "o Goal: Improve sex ratio & empower women",
+        "o Funding: 100% Central Government",
+        "o Ministries: Women and Child Development, Health, Education",
+        "o Phases:"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.104Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-119",
+      "sourceTitle": "Beti Bachao Beti Padhao:",
+      "sourceChecksum": "97612c92dc18489f23638d3343f18909f97142f29602372de3b1845286b11ac9",
+      "migrationTimestamp": "2026-08-15T12:14:02.104Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

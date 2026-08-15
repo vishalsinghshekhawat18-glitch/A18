@@ -1,0 +1,47 @@
+{
+  "id": "migrated-schemes-scheme-157",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "National Infrastructure Pipeline (NIP):",
+  "summary": "Schemes — National Infrastructure Pipeline (NIP):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        " Announcement: August 2019",
+        " Timeframe: 2020–2025",
+        " Scope:",
+        " 9,666 projects, including brownfield and Greenfield initiatives costing over ₹100 crore.",
+        " Total cost: ₹111 Lakh Crore (₹108 Lakh Crore implemented so far).",
+        " Funding Breakdown:",
+        " Centre: 39%",
+        " States: 40%",
+        " Private Sector: 21%",
+        " Key Sectors:"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.681Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-157",
+      "sourceTitle": "National Infrastructure Pipeline (NIP):",
+      "sourceChecksum": "4fdc326cf6d1303eaca9897ad021a30c659728ce5c99ecc8282c28175ed14d0f",
+      "migrationTimestamp": "2026-08-15T12:14:02.681Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

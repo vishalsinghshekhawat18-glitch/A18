@@ -1,0 +1,41 @@
+{
+  "id": "migrated-schemes-scheme-160",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Electricity (15%)",
+  "summary": "Schemes — Electricity (15%)",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        " Examples: Highways, airports, railways, pipelines, and sports stadiums.",
+        " Target: Funds 5% of the ₹111 lakh crore National Infrastructure Pipeline (NIP).",
+        " Benefits: Boosts infrastructure funding, private participation, and employment.",
+        " Challenges: Asset valuation, stakeholder concerns, and execution risks."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.681Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-160",
+      "sourceTitle": "Electricity (15%)",
+      "sourceChecksum": "110f5ff0fff8c30b0ce7d870cc424c3d52bfa068b46b27288b2980cdf46655c6",
+      "migrationTimestamp": "2026-08-15T12:14:02.681Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

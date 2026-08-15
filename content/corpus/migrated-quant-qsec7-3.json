@@ -1,0 +1,60 @@
+{
+  "id": "migrated-quant-qsec7-3",
+  "type": "quant_topic",
+  "domain": "quant",
+  "title": "7.3 Worked Examples",
+  "summary": "Quant — 7.3 Worked Examples",
+  "blocks": [
+    {
+      "type": "worked_example",
+      "title": "Word arrangement with repeated letters. ...",
+      "question": "Word arrangement with repeated letters. Arrangements of letters in 'BANANA'.",
+      "given": [],
+      "method": "Step-by-Step Solution Method",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "explanation": "6 letters, A repeats 3×, N repeats 2×. Total = 6!/(3!×2!) = 720/12 = 60.\n*Pattern: always divide by factorial of each repeated letter's count.*"
+        }
+      ],
+      "answer": "6 letters, A repeats 3×, N repeats 2×. Total = 6!/(3!×2!) = 720/12 = 60.\n*Pattern: always divide by factorial of each repeated letter's count.*"
+    },
+    {
+      "type": "worked_example",
+      "title": "Independent events — at least one succes...",
+      "question": "Independent events — at least one success. A hits target with prob 0.6, B with prob 0.5.",
+      "given": [],
+      "method": "Step-by-Step Solution Method",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "explanation": "P(both miss) = 0.4×0.5 = 0.2. P(at least one hits) = 1−0.2 = 0.8.\n*Pattern: 'at least one' in probability always converts fastest via 1−P(none).*"
+        }
+      ],
+      "answer": "P(both miss) = 0.4×0.5 = 0.2. P(at least one hits) = 1−0.2 = 0.8.\n*Pattern: 'at least one' in probability always converts fastest via 1−P(none).*"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "quant",
+      "general"
+    ],
+    "category": "Quant",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:03.202Z",
+    "provenance": {
+      "sourceSystem": "Quant",
+      "sourceFile": "ca_app/quant_data.js",
+      "sourceId": "qsec7-3",
+      "sourceTitle": "7.3 Worked Examples",
+      "sourceChecksum": "e930a249b15207aaa47089961a31a75dee3ec64d4f7145018ca4d03506e7c1fc",
+      "migrationTimestamp": "2026-08-15T12:14:03.202Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

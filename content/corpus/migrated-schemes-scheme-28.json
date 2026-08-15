@@ -1,0 +1,36 @@
+{
+  "id": "migrated-schemes-scheme-28",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Economic Empowerment:",
+  "summary": "Schemes — Economic Empowerment:",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "o Skill training, marketing support, and agricultural assistance."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.509Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-28",
+      "sourceTitle": "Economic Empowerment:",
+      "sourceChecksum": "c17b3dac513aa59ddd42d775a04602d1ba45543831add1acfae305dce4d650e2",
+      "migrationTimestamp": "2026-08-15T12:14:01.509Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

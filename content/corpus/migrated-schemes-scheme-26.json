@@ -1,0 +1,45 @@
+{
+  "id": "migrated-schemes-scheme-26",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Pradhan Mantri Janjatiya Unnat Gram Abhiyan (PM-JUGA):",
+  "summary": "Schemes — Pradhan Mantri Janjatiya Unnat Gram Abhiyan (PM-JUGA):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        " Goal: - \tDevelopment of tribal villages and aspirational districts.",
+        " Coverage:- 63,000 villages, benefiting over 5 crore tribal people.",
+        " Budget: - \t₹79,156 crore (₹56,333 crore central + ₹22,823 crore state funding).",
+        "-- 7 of 47 --",
+        "8\tONE STOP SOLUTION FOR IAS, RAS, SI",
+        "Youtube \tTelegram",
+        "Indian Economy \tScheme",
+        "Key Focus Areas:"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.509Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-26",
+      "sourceTitle": "Pradhan Mantri Janjatiya Unnat Gram Abhiyan (PM-JUGA):",
+      "sourceChecksum": "922678b8da2324404adae805087603ed822b454dc50c99f0ba64e7b25e61e6fc",
+      "migrationTimestamp": "2026-08-15T12:14:01.509Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

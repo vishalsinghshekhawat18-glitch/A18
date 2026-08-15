@@ -1,0 +1,63 @@
+{
+  "id": "migrated-staticga-ch3-sub3",
+  "type": "static_note",
+  "domain": "static-ga",
+  "title": "D-SIBs & Priority Sector Lending (PSL) Targets",
+  "summary": "StaticGA — D-SIBs & Priority Sector Lending (PSL) Targets",
+  "blocks": [
+    {
+      "type": "comparison",
+      "title": "D-SIBs & Priority Sector Lending (PSL) Targets",
+      "headers": [
+        "Bank Category",
+        "Overall PSL Target",
+        "Key Sub-Targets"
+      ],
+      "rows": [
+        [
+          "Domestic Commercial Banks",
+          "40% of ANBC / CEOBSE",
+          "Agri: 18% (Small/Marginal Farmers: 10%), Micro Enterprises: 7.5%, Weaker Sections: 12%"
+        ],
+        [
+          "Regional Rural Banks (RRBs)",
+          "75% of ANBC",
+          "Weaker Sections: 15%"
+        ],
+        [
+          "Small Finance Banks (SFBs)",
+          "75% of ANBC",
+          "Micro Enterprises: 7.5%, Small/Marginal Farmers: 10%, Weaker Sections: 15%"
+        ],
+        [
+          "Urban Co-operative Banks (UCBs)",
+          "75% of ANBC (Effective March 31, 2026)",
+          "Weaker Sections: 12% (Effective March 31, 2026)"
+        ]
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "staticga",
+      "general"
+    ],
+    "category": "StaticGA",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:03.190Z",
+    "provenance": {
+      "sourceSystem": "StaticGA",
+      "sourceFile": "ca_app/static_ga_data.js",
+      "sourceId": "ch3-sub3",
+      "sourceTitle": "D-SIBs & Priority Sector Lending (PSL) Targets",
+      "sourceChecksum": "48ddbf7d3cc397a0c3d9f25582f0a225e835f42ced4e2806e4a004e46d13af82",
+      "migrationTimestamp": "2026-08-15T12:14:03.190Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

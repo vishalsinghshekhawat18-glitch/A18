@@ -1,0 +1,43 @@
+{
+  "id": "migrated-schemes-scheme-117",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "NPS Vatsalya Scheme (Budget 2024-25):",
+  "summary": "Schemes — NPS Vatsalya Scheme (Budget 2024-25):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Allows parents to invest for their children's future from birth to 18 years.",
+        " Minimum Contribution: ₹1,000 annually.",
+        " Investment Options: Default, auto, or active (equity, debt, govt. securities).",
+        " Withdrawals: Partial after 3 years for education/medical needs.",
+        " At 18: Converts to NPS Tier-I, with 20% withdrawal and 80% annuity.",
+        " Tax Benefits: Deductions under Sections 80CCD(1) and 80CCD(1B)."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.104Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-117",
+      "sourceTitle": "NPS Vatsalya Scheme (Budget 2024-25):",
+      "sourceChecksum": "52b94c4e3e1c5cb8d28dc4d143467fbf05b75f19690986fd45aa9e0cc48adb5c",
+      "migrationTimestamp": "2026-08-15T12:14:02.104Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

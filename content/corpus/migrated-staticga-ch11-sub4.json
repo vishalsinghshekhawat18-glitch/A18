@@ -1,0 +1,62 @@
+{
+  "id": "migrated-staticga-ch11-sub4",
+  "type": "static_note",
+  "domain": "static-ga",
+  "title": "Negotiable Instruments (NI) Act, 1881 Core Provisions",
+  "summary": "StaticGA — Negotiable Instruments (NI) Act, 1881 Core Provisions",
+  "blocks": [
+    {
+      "type": "comparison",
+      "title": "Negotiable Instruments (NI) Act, 1881 Core Provisions",
+      "headers": [
+        "Instrument",
+        "Section",
+        "Key Parties",
+        "Core Characteristic"
+      ],
+      "rows": [
+        [
+          "Promissory Note",
+          "Section 4",
+          "2 Parties: Maker & Payee",
+          "Unconditional promise in writing signed by maker."
+        ],
+        [
+          "Bill of Exchange",
+          "Section 5",
+          "3 Parties: Drawer, Drawee, Payee",
+          "Unconditional order in writing directing drawee to pay."
+        ],
+        [
+          "Cheque",
+          "Section 6",
+          "3 Parties: Drawer, Drawee (Banker), Payee",
+          "Bill of Exchange drawn on a specified banker, payable on demand. Validity: 3 months."
+        ]
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "staticga",
+      "general"
+    ],
+    "category": "StaticGA",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:03.194Z",
+    "provenance": {
+      "sourceSystem": "StaticGA",
+      "sourceFile": "ca_app/static_ga_data.js",
+      "sourceId": "ch11-sub4",
+      "sourceTitle": "Negotiable Instruments (NI) Act, 1881 Core Provisions",
+      "sourceChecksum": "42b6cbd2167a4f3af7e413a30e3f0bf3f44b3876adc47a97bb2dd7771d34a715",
+      "migrationTimestamp": "2026-08-15T12:14:03.194Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "migrated-schemes-scheme-16",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Subsidy Structure for Solar Plant Installation:",
+  "summary": "Schemes — Subsidy Structure for Solar Plant Installation:",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        " 3+ kW (for 300+ units/month): ₹78,000 subsidy",
+        " 2-3 kW (for 150-300 units/month): ₹60,000 - ₹78,000 subsidy",
+        " 1-2 kW (for 0-150 units/month): ₹30,000 - ₹60,000 subsidy"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.065Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-16",
+      "sourceTitle": "Subsidy Structure for Solar Plant Installation:",
+      "sourceChecksum": "6cc5eaab4135cea3f87aa37cd561cb21bfe9a113b5d104320b97a4e578558586",
+      "migrationTimestamp": "2026-08-15T12:14:01.065Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

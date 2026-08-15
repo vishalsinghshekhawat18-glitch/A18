@@ -1,0 +1,52 @@
+{
+  "id": "migrated-schemes-scheme-121",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Sukanya Samriddhi Yojana (SSY):",
+  "summary": "Schemes — Sukanya Samriddhi Yojana (SSY):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Launched on 22 January 2015, under the Beti Bachao Beti Padhao campaign, SSY is a",
+        "government-backed savings scheme that encourages parents to save for their girl child's future,",
+        "specifically for higher education and marriage.",
+        "Key Features:",
+        " Eligibility: Girl child aged 0-10 years.",
+        " Account Opening: By parent/guardian in a bank or post office.",
+        " Deposit: Minimum Rs. 250, Maximum Rs. 1.5 lakh/year.",
+        " Maturity: Account matures after 21 years, with partial withdrawals (up to 50%) for education",
+        "after 18 years.",
+        " Interest: High interest rate (usually higher than regular savings accounts), tax-free returns under",
+        "Section 10(11) of the Income Tax Act.",
+        " Duration: 15 years of deposit, with maturity at 21 years.",
+        "This scheme ensures financial security for the girl child’s future education and marriage.",
+        "International Daughters Day on 22 September emphasizes the importance of empowering girls,",
+        "resonating with the scheme’s goals."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.104Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-121",
+      "sourceTitle": "Sukanya Samriddhi Yojana (SSY):",
+      "sourceChecksum": "17f437aa9a9e9de2e2c0fd8d10016df1b7019851eec5a5e6ca55e806ab630512",
+      "migrationTimestamp": "2026-08-15T12:14:02.104Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

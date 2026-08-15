@@ -1,0 +1,52 @@
+{
+  "id": "migrated-schemes-scheme-126",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "NIPUN Bharat Scheme:",
+  "summary": "Schemes — NIPUN Bharat Scheme:",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "The NIPUN Bharat Scheme aims to ensure every child, aged 3-9 years, achieves proficiency in",
+        "foundational literacy and numeracy by Grade 3. Launched by the Ministry of Education, it supports",
+        "the implementation of NEP 2020.",
+        "Objectives:",
+        " Improve literacy and numeracy for young children.",
+        " Achieve proficiency in reading, writing, and numeracy by 2026-27.",
+        " Focus on play-based, child-centered learning.",
+        "-- 34 of 47 --",
+        "35\tONE STOP SOLUTION FOR IAS, RAS, SI",
+        "Youtube \tTelegram",
+        "Indian Economy \tScheme",
+        "Key Features:",
+        " Target: Children aged 3-9 years.",
+        " Approach: Teacher capacity building, use of technology, and regular assessments.",
+        "The scheme aims to ensure quality early education and address disparities in learning."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.679Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-126",
+      "sourceTitle": "NIPUN Bharat Scheme:",
+      "sourceChecksum": "dc5e26c89d572cd77a1a9bdb3779febe41dc7d746f2d5cd85353182d45e16993",
+      "migrationTimestamp": "2026-08-15T12:14:02.679Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "migrated-staticga-ch4-sub2",
+  "type": "static_note",
+  "domain": "static-ga",
+  "title": "Inflation Indices & RBI Target Framework (CPI vs WPI Comparison)",
+  "summary": "StaticGA — Inflation Indices & RBI Target Framework (CPI vs WPI Comparison)",
+  "blocks": [
+    {
+      "type": "comparison",
+      "title": "Inflation Indices & RBI Target Framework (CPI vs WPI Comparison)",
+      "headers": [
+        "Index Parameter",
+        "Consumer Price Index (CPI)",
+        "Wholesale Price Index (WPI)"
+      ],
+      "rows": [
+        [
+          "Base Year",
+          "2012 = 100",
+          "2011-12 = 100"
+        ],
+        [
+          "Publishing Agency",
+          "NSO (Ministry of Statistics)",
+          "Office of Economic Adviser (DPIIT, MoCI)"
+        ],
+        [
+          "Food Basket Weight",
+          "45.86% (Highest)",
+          "24.38%"
+        ],
+        [
+          "Manufactured Products Weight",
+          "17.30%",
+          "64.23% (Highest)"
+        ],
+        [
+          "RBI Policy Target Anchor",
+          "Mandatory Anchor (4% ± 2%)",
+          "Not used as policy anchor"
+        ]
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "staticga",
+      "general"
+    ],
+    "category": "StaticGA",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:03.190Z",
+    "provenance": {
+      "sourceSystem": "StaticGA",
+      "sourceFile": "ca_app/static_ga_data.js",
+      "sourceId": "ch4-sub2",
+      "sourceTitle": "Inflation Indices & RBI Target Framework (CPI vs WPI Comparison)",
+      "sourceChecksum": "8352c4da05ee2ac82cbb7903c1dc923c85801ec6dbdcf4a7e50f838c642ac70d",
+      "migrationTimestamp": "2026-08-15T12:14:03.190Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "migrated-schemes-scheme-93",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Enable digital monitoring of water quality.",
+  "summary": "Schemes — Enable digital monitoring of water quality.",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Funding Pattern",
+        " UTs : 100%",
+        " Hill States : 90%",
+        " Population <1 Lakh : 50%",
+        " Population 1-10 Lakh : 33%",
+        " Population > 10 Lakh : 25% (PPP model).",
+        "Features",
+        " Integrated Systems: Water supply, wastewater treatment, and drainage.",
+        " Tech-Driven: IoT-enabled monitoring.",
+        " PPP Model: Encourages private participation.",
+        "Outcomes",
+        " Clean drinking water access.",
+        " Improved sanitation and health.",
+        " Sustainable water management.",
+        " Better urban resilience."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "MSME, Industry & Commerce Schemes"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.103Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-93",
+      "sourceTitle": "Enable digital monitoring of water quality.",
+      "sourceChecksum": "494749a76e9195e06ebc065e623d0ab7ed94b881e1e5b4e5970d2f0f2933a0cf",
+      "migrationTimestamp": "2026-08-15T12:14:02.103Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

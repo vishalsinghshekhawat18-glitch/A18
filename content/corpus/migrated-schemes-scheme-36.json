@@ -1,0 +1,51 @@
+{
+  "id": "migrated-schemes-scheme-36",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Pradhan Mantri Fasal Bima Yojana (PMFBY):",
+  "summary": "Schemes — Pradhan Mantri Fasal Bima Yojana (PMFBY):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        " Announcement: 13 Jan 2016",
+        " Launched: 18 Feb 2016, Sehore (M.P.)",
+        " Ministry: Agriculture and Farmers Welfare",
+        " Objective: Insurance coverage and financial support to farmers against crop loss due to natural",
+        "calamities, pests, and diseases.",
+        " Coverage: Food crops, oilseeds, horticultural, and commercial crops.",
+        " Premium Rates (Farmer's Share): Rabi – 1.5%, Kharif – 2%, Horticulture/ Commercial – 5%.",
+        " Funding Pattern: Centre: State = 50:50 (NE States 90:10).",
+        " Key Features: \"One State, One Insurance Company.\" Remote sensing, GPS, drones for",
+        "monitoring and faster claims. Voluntary for states since 2020.",
+        " Tagline: Meri Policy Mere Haath (My Policy in My Hand).",
+        " Scale: World's 3rd largest crop insurance scheme by premium volume.",
+        " Impact: Over 36 crore farmer applications insured. Claims of ₹1.07 lakh crore disbursed (as of",
+        "2022)."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Agriculture, Energy & Water Resources"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.510Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-36",
+      "sourceTitle": "Pradhan Mantri Fasal Bima Yojana (PMFBY):",
+      "sourceChecksum": "e9ddf217f1778e989068b94364bc568896328af3213982ad1f5d165809ed2aa0",
+      "migrationTimestamp": "2026-08-15T12:14:01.510Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

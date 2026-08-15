@@ -1,0 +1,43 @@
+{
+  "id": "migrated-schemes-scheme-112",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "National Action Plan for Drug Demand Reduction (NAPDDR) (2018–2025):",
+  "summary": "Schemes — National Action Plan for Drug Demand Reduction (NAPDDR) (2018–2025):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "The NAPDDR aims to reduce drug and alcohol dependency through prevention, treatment, and",
+        "rehabilitation. It includes two main components:",
+        " Help to Alcohol Victims: 90% financial support for treatment and rehabilitation.",
+        " Social Security Assistance: 90% financial aid for social security initiatives.",
+        "The plan focuses on awareness campaigns, community interventions, professional training, treatment",
+        "centers, and legal frameworks to effectively tackle substance abuse."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.104Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-112",
+      "sourceTitle": "National Action Plan for Drug Demand Reduction (NAPDDR) (2018–2025):",
+      "sourceChecksum": "4e096ebd549407a022b34a7f523187a881422122b39cfa7552bbde8b28a8224d",
+      "migrationTimestamp": "2026-08-15T12:14:02.104Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

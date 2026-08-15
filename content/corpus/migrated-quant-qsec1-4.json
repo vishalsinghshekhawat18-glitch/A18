@@ -1,0 +1,41 @@
+{
+  "id": "migrated-quant-qsec1-4",
+  "type": "quant_topic",
+  "domain": "quant",
+  "title": "1.4 Mensuration Percentage Scale Shortcuts & Traps",
+  "summary": "Quant — 1.4 Mensuration Percentage Scale Shortcuts & Traps",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "**2D Area Percentage Change Shortcut:** If linear dimension increases by $+x\\%$, Area increases by **$\\left(2x + \\frac{x^2}{100}\\right)\\%$** (using successive percentage formula $x + y + \\frac{xy}{100}$).",
+        "**Melting & Recasting Law:** When solids are melted and recast, **Total Volume remains CONSTANT** ($V_{\\text{initial}} = V_{\\text{final}}$).",
+        "⚠️ **Common Trap Alert:** Increasing radius of a cylinder by 20% increases CSA by 20% (if height is constant), but increases Volume by **44%** ($1.2^2 = 1.44$).",
+        "📝 **Worked Example (Melting Spheres Method):** 3 metallic spheres of radii 3 cm, 4 cm, 5 cm are melted to form a single solid sphere. Find its radius.\n*Method:* Recognize Recasting $\\rightarrow$ Equalize volumes: $V = \\frac{4}{3}\\pi (3^3 + 4^3 + 5^3) = \\frac{4}{3}\\pi (27 + 64 + 125) = \\frac{4}{3}\\pi (216) \\implies R^3 = 216 \\implies R = 6\\text{ cm}$."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "quant",
+      "general"
+    ],
+    "category": "Quant",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:03.200Z",
+    "provenance": {
+      "sourceSystem": "Quant",
+      "sourceFile": "ca_app/quant_data.js",
+      "sourceId": "qsec1-4",
+      "sourceTitle": "1.4 Mensuration Percentage Scale Shortcuts & Traps",
+      "sourceChecksum": "ea8827032f936bd46eea9ee1faf4bc818fad3f2c6e1de4925882070f5cc56a1e",
+      "migrationTimestamp": "2026-08-15T12:14:03.200Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

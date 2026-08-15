@@ -1,0 +1,45 @@
+{
+  "id": "migrated-schemes-scheme-110",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "National Fellowship for OBC Students (2014-15):",
+  "summary": "Schemes — National Fellowship for OBC Students (2014-15):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "o Support for M.Phil. & Ph.D. Students",
+        "o Stipend: ₹25,000/month (JRF), ₹28,000/month (SRF)",
+        "o Annual Awards: 300 students",
+        "o Duration: Up to 5 years, performance-based renewal",
+        "-- 30 of 47 --",
+        "31\tONE STOP SOLUTION FOR IAS, RAS, SI",
+        "Youtube \tTelegram",
+        "Indian Economy \tScheme"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.104Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-110",
+      "sourceTitle": "National Fellowship for OBC Students (2014-15):",
+      "sourceChecksum": "9083d0174de55ed74571bc1bc8b34f0898185cf334a11b37b450ab16e56cfa33",
+      "migrationTimestamp": "2026-08-15T12:14:02.104Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

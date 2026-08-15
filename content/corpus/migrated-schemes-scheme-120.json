@@ -1,0 +1,39 @@
+{
+  "id": "migrated-schemes-scheme-120",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Nationwide",
+  "summary": "Schemes — Nationwide",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "o Gudda-Guddi Board: Tracks birth data of girls and boys",
+        "o Focus: Prevent female foeticide, promote education, empower girls"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.104Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-120",
+      "sourceTitle": "Nationwide",
+      "sourceChecksum": "33b7f822902ec2ba935982fb2f881f47eeee0b4f7ce7655a19ed7f8090c55f66",
+      "migrationTimestamp": "2026-08-15T12:14:02.104Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

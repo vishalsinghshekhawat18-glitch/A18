@@ -1,0 +1,39 @@
+{
+  "id": "migrated-schemes-scheme-105",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Higher Education (Beyond Class 12):",
+  "summary": "Schemes — Higher Education (Beyond Class 12):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "o Rs. 2 lakh/year + Rs. 86,000 allowance.",
+        "o Family income < Rs. 8 lakhs."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.104Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-105",
+      "sourceTitle": "Higher Education (Beyond Class 12):",
+      "sourceChecksum": "6f1369f7ea942ebb3b59a057e1c68a83e7e9cd2a3f513120daea7b8eb9b4db2b",
+      "migrationTimestamp": "2026-08-15T12:14:02.104Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

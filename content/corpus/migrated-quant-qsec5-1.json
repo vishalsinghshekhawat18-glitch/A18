@@ -1,0 +1,42 @@
+{
+  "id": "migrated-quant-qsec5-1",
+  "type": "quant_topic",
+  "domain": "quant",
+  "title": "5.1 Core Pattern Types",
+  "summary": "Quant — 5.1 Core Pattern Types",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Simple difference series**: constant diff (+5); increasing diff (+3,+5,+7); multiplicative (×3)",
+        "**Square/cube based**: n² (1,4,9,16,25); n²±k; n³±k",
+        "**Alternating/mixed series**: two interleaved patterns — split into sub-series before finding the rule",
+        "**Fibonacci-type**: each term = sum of previous two, or ± a constant",
+        "**Wrong number series**: find pattern from majority of terms, spot the deviation; check both difference and ratio"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "quant",
+      "general"
+    ],
+    "category": "Quant",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:03.201Z",
+    "provenance": {
+      "sourceSystem": "Quant",
+      "sourceFile": "ca_app/quant_data.js",
+      "sourceId": "qsec5-1",
+      "sourceTitle": "5.1 Core Pattern Types",
+      "sourceChecksum": "7320d6d9c4c342a44865b976fd59ea9e15286bde34bf75c7f97ed17aafbf6f13",
+      "migrationTimestamp": "2026-08-15T12:14:03.201Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

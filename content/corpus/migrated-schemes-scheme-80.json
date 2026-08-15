@@ -1,0 +1,41 @@
+{
+  "id": "migrated-schemes-scheme-80",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Lakhpati Didi Scheme:",
+  "summary": "Schemes — Lakhpati Didi Scheme:",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "was launched on 15th August 2023 by Prime Minister Modi as part of the Deendayal Antyodaya",
+        "NRLM under the Ministry of Rural Development. The scheme aims to empower 3 crore rural women",
+        "through skill development and micro-enterprise creation.",
+        "Key Features:"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "MSME, Industry & Commerce Schemes"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.102Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-80",
+      "sourceTitle": "Lakhpati Didi Scheme:",
+      "sourceChecksum": "f3496112cc46a11e5427ae2d2c14421e8655306236c8493e921b4d2b61bff7a3",
+      "migrationTimestamp": "2026-08-15T12:14:02.102Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

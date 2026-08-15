@@ -1,0 +1,46 @@
+{
+  "id": "migrated-schemes-scheme-18",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "PM-SURAJ Portal:",
+  "summary": "Schemes — PM-SURAJ Portal:",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Empowering Marginalized Communities with Business Loans and Support",
+        "o Launched: March 13, 2024",
+        "o Beneficiaries: SC, ST, OBC, Safai Karamcharis",
+        "o Loan Provision: Up to ₹15 lakh for business development",
+        "o Additional Support:",
+        " Ayushman Health Cards for Safai Karamcharis",
+        " PPE kits for Safai Karamcharis",
+        "o Objective: Promote economic empowerment and self-reliance",
+        "o Application: Online registration and document submission"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.065Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-18",
+      "sourceTitle": "PM-SURAJ Portal:",
+      "sourceChecksum": "b292560d605ef53d03b71aa3c026dc9591a8a610d1952a00b8d996306941a563",
+      "migrationTimestamp": "2026-08-15T12:14:01.065Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

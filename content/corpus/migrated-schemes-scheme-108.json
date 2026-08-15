@@ -1,0 +1,45 @@
+{
+  "id": "migrated-schemes-scheme-108",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SMILE (Support for Marginalised Individuals for Livelihood & Enterprise):",
+  "summary": "Schemes — SMILE (Support for Marginalised Individuals for Livelihood & Enterprise):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "A Central Sector Scheme for the rehabilitation of transgender persons and persons engaged in",
+        "beggary.",
+        "Key Components:",
+        "o Transgender Persons: Skill development, financial aid, healthcare, and social inclusion.",
+        "o Begging Rehabilitation: Vocational training, financial support, housing, and mental health",
+        "services.",
+        "The scheme empowers marginalized individuals, promoting dignity, independence, and livelihood",
+        "opportunities."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.104Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-108",
+      "sourceTitle": "SMILE (Support for Marginalised Individuals for Livelihood & Enterprise):",
+      "sourceChecksum": "1331823d52ae732156c14e4ed7e28111bb07cd06325bfd02a97f2561df926fa9",
+      "migrationTimestamp": "2026-08-15T12:14:02.104Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "migrated-staticga-ch2-sub2",
+  "type": "static_note",
+  "domain": "static-ga",
+  "title": "Indian Pension Architecture & Regulatory Shifts (NPS, APY, UPS, NPS Vatsalya)",
+  "summary": "StaticGA — Indian Pension Architecture & Regulatory Shifts (NPS, APY, UPS, NPS Vatsalya)",
+  "blocks": [
+    {
+      "type": "comparison",
+      "title": "Indian Pension Architecture & Regulatory Shifts (NPS, APY, UPS, NPS Vatsalya)",
+      "headers": [
+        "Feature",
+        "Old Pension Scheme (OPS)",
+        "National Pension System (NPS)",
+        "Unified Pension Scheme (UPS)"
+      ],
+      "rows": [
+        [
+          "Type",
+          "Defined Benefit (Guaranteed)",
+          "Defined Contribution (Market-Linked)",
+          "Assured Benefit (Contributory-Linked)"
+        ],
+        [
+          "Employee Contribution",
+          "0%",
+          "10% of Basic + DA",
+          "10% of Basic + DA"
+        ],
+        [
+          "Employer/Govt Contribution",
+          "Funded by Govt budget",
+          "14% of Basic + DA",
+          "18.5% of Basic + DA"
+        ],
+        [
+          "Inflation Protection",
+          "Yes (DA linked)",
+          "No (Market dependent)",
+          "Yes (DR linked to AICPI-IW)"
+        ],
+        [
+          "Minimum Pension",
+          "No explicit floor",
+          "No floor",
+          "₹10,000/month (Min 10 yrs service)"
+        ],
+        [
+          "Lump-Sum at Exit",
+          "Gratuity only",
+          "Up to 80% (2025 Amendment)",
+          "Gratuity + 1/10th basic+DA per 6-m service"
+        ]
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "staticga",
+      "general"
+    ],
+    "category": "StaticGA",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.682Z",
+    "provenance": {
+      "sourceSystem": "StaticGA",
+      "sourceFile": "ca_app/static_ga_data.js",
+      "sourceId": "ch2-sub2",
+      "sourceTitle": "Indian Pension Architecture & Regulatory Shifts (NPS, APY, UPS, NPS Vatsalya)",
+      "sourceChecksum": "3123290b2db8bc7bab42e1caa376d8d7f1612a56de609238f800f0df1380a64e",
+      "migrationTimestamp": "2026-08-15T12:14:02.682Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

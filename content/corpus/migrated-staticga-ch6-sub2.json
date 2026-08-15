@@ -1,0 +1,40 @@
+{
+  "id": "migrated-staticga-ch6-sub2",
+  "type": "static_note",
+  "domain": "static-ga",
+  "title": "Exam Revision Corner (Budget & Survey)",
+  "summary": "StaticGA — Exam Revision Corner (Budget & Survey)",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "≠ **GDP Projections Split:** Real GDP growth projection for FY27 is **6.8% to 7.2%** (Economic Survey), whereas Nominal GDP growth used in budget math is **10%**.",
+        "⚠️ **The Fiscal Deficit Targets:** FY27 Target = **4.3%**; FY26 Revised Estimate = **4.4%**.",
+        "⚠️ **Tax-Free Thresholds:** Salaried individuals pay zero tax up to **₹12.75 lakh** (₹12L rebate + ₹75k standard deduction). Non-salaried pay zero tax up to **₹12 lakh**."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "staticga",
+      "general"
+    ],
+    "category": "StaticGA",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:03.192Z",
+    "provenance": {
+      "sourceSystem": "StaticGA",
+      "sourceFile": "ca_app/static_ga_data.js",
+      "sourceId": "ch6-sub2",
+      "sourceTitle": "Exam Revision Corner (Budget & Survey)",
+      "sourceChecksum": "334a5442fc53caead073c24dc08a3912d1a4ccc87bcf859db1f6a568ff44981d",
+      "migrationTimestamp": "2026-08-15T12:14:03.192Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

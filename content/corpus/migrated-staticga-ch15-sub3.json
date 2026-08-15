@@ -1,0 +1,41 @@
+{
+  "id": "migrated-staticga-ch15-sub3",
+  "type": "static_note",
+  "domain": "static-ga",
+  "title": "Exam Revision Corner (Insurance & Bima Trinity)",
+  "summary": "StaticGA — Exam Revision Corner (Insurance & Bima Trinity)",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "≠ **Bima Trinity Distinction:** Bima Sugam = **Platform (Tech)**; Bima Vistaar = **Product (What is sold)**; Bima Vahak = **Channel (Distribution)**.",
+        "⚠️ **Bima Sakhi vs Bima Vahak:** Bima Sakhi = LIC-specific women agents selling LIC policies. Bima Vahak = IRDAI-licensed multi-insurer SHG channels selling Bima Vistaar.",
+        "⚠️ **FDI Limit:** 100% FDI permitted under automatic route in insurance.",
+        "⚠️ **IRDAI HQ:** Located in **Hyderabad, Telangana** (shifted from New Delhi in 2001)."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "staticga",
+      "general"
+    ],
+    "category": "StaticGA",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:03.196Z",
+    "provenance": {
+      "sourceSystem": "StaticGA",
+      "sourceFile": "ca_app/static_ga_data.js",
+      "sourceId": "ch15-sub3",
+      "sourceTitle": "Exam Revision Corner (Insurance & Bima Trinity)",
+      "sourceChecksum": "649ccd639305c9f3dc99553352b5fcbebe37d4f54f25614e61f588c14d921099",
+      "migrationTimestamp": "2026-08-15T12:14:03.196Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

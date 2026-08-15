@@ -1,0 +1,40 @@
+{
+  "id": "migrated-schemes-scheme-55",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Pradhan Mantri Sahaj Bijli Har Ghar Yojana – Saubhagya (2017):",
+  "summary": "Schemes — Pradhan Mantri Sahaj Bijli Har Ghar Yojana – Saubhagya (2017):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        " Objective: Achieve universal household electrification and provide solar systems to remote,",
+        "inaccessible areas.",
+        " Target Beneficiaries:"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Agriculture, Energy & Water Resources"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.511Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-55",
+      "sourceTitle": "Pradhan Mantri Sahaj Bijli Har Ghar Yojana – Saubhagya (2017):",
+      "sourceChecksum": "42ab10fd1f537c0547d141ddf91106d1fdd4781ee5fa7a0cb5a0a704d9b9c7b1",
+      "migrationTimestamp": "2026-08-15T12:14:01.511Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

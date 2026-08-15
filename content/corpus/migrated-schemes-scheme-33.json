@@ -1,0 +1,40 @@
+{
+  "id": "migrated-schemes-scheme-33",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Prime Minister’s Package:",
+  "summary": "Schemes — Prime Minister’s Package:",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "The Prime Minister's Package of 5 Schemes is aimed at boosting employment and skill",
+        "development across India with a target of creating 4.1 crore jobs and providing training to a",
+        "significant number of youth. Here's the expanded detail of the package:"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.509Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-33",
+      "sourceTitle": "Prime Minister’s Package:",
+      "sourceChecksum": "7dc4607026da81e3c60434a8f355d29f1eaed2a2d0b666570f9660c0e5effe45",
+      "migrationTimestamp": "2026-08-15T12:14:01.509Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

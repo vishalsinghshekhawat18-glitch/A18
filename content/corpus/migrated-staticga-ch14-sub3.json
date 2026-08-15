@@ -1,0 +1,40 @@
+{
+  "id": "migrated-staticga-ch14-sub3",
+  "type": "static_note",
+  "domain": "static-ga",
+  "title": "Exam Revision Corner (RBI Monetary Tools)",
+  "summary": "StaticGA — Exam Revision Corner (RBI Monetary Tools)",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "≠ **Rate Hierarchy:** Floor = **SDF (5.00%)** < Anchor = **Repo (5.25%)** < Ceiling = **MSF / Bank Rate (5.75%)**.",
+        "⚠️ **SDF vs Reverse Repo:** SDF is the operative floor since April 2022 without collateral. Reverse Repo (3.35%) is dormant.",
+        "⚠️ **CRR Interest:** CRR cash deposits with RBI earn **ZERO interest**. SLR assets (G-Secs) earn market-linked coupon interest."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "staticga",
+      "general"
+    ],
+    "category": "StaticGA",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:03.195Z",
+    "provenance": {
+      "sourceSystem": "StaticGA",
+      "sourceFile": "ca_app/static_ga_data.js",
+      "sourceId": "ch14-sub3",
+      "sourceTitle": "Exam Revision Corner (RBI Monetary Tools)",
+      "sourceChecksum": "48faf4732fa4fdeed1e1c695551b1a4ff23280b6053e0a7dd2049d5836d22378",
+      "migrationTimestamp": "2026-08-15T12:14:03.195Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

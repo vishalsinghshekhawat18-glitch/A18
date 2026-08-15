@@ -1,0 +1,42 @@
+{
+  "id": "migrated-quant-qsec4-1",
+  "type": "quant_topic",
+  "domain": "quant",
+  "title": "4.1 Core Formulas & Identities",
+  "summary": "Quant — 4.1 Core Formulas & Identities",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Basic identities**: (a+b)²=a²+2ab+b²; (a−b)²=a²−2ab+b²; a²−b²=(a+b)(a−b); (a+b)²−(a−b)²=4ab",
+        "**Cube identities**: a³+b³=(a+b)(a²−ab+b²); a³−b³=(a−b)(a²+ab+b²); (a+b)³=a³+3a²b+3ab²+b³",
+        "**Quadratic formula**: for ax²+bx+c=0, x = [−b±√(b²−4ac)]/2a; D = b²−4ac",
+        "**Sum & product of roots**: sum=−b/a, product=c/a; equation from roots: x²−(sum)x+(product)=0",
+        "**Nature of roots**: D>0 real unequal; D=0 real equal; D<0 no real roots; D perfect square → rational roots"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "quant",
+      "general"
+    ],
+    "category": "Quant",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:03.201Z",
+    "provenance": {
+      "sourceSystem": "Quant",
+      "sourceFile": "ca_app/quant_data.js",
+      "sourceId": "qsec4-1",
+      "sourceTitle": "4.1 Core Formulas & Identities",
+      "sourceChecksum": "912a6746ecfe90d6b35ffbfef52c322f21ef3e50dbff6b017ab50c313e61c3c5",
+      "migrationTimestamp": "2026-08-15T12:14:03.201Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

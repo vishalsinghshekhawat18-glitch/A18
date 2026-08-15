@@ -1,0 +1,43 @@
+{
+  "id": "migrated-staticga-ch6-sub1",
+  "type": "static_note",
+  "domain": "static-ga",
+  "title": "Economic Survey 2025–26 & Union Budget 2026–27 Highlights",
+  "summary": "StaticGA — Economic Survey 2025–26 & Union Budget 2026–27 Highlights",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Economic Survey GDP Growth:** Real GDP growth estimate for FY26 at **7.4%**; projected FY27 growth range at **6.8% to 7.2%**.",
+        "**Banking Sector Health:** Gross Non-Performing Assets (GNPA) ratio dropped to multi-decade low of **2.2%** (Sept 2025).",
+        "**Budget Macro Metrics:** Nominal GDP growth projected at **10%**; Fiscal Deficit target for FY27 set at **4.3% of GDP** (FY26 RE: 4.4%).",
+        "**Capex Outlay:** Tabled at **₹12.2 lakh crore** (Budget allocation ₹11.80 lakh crore, ~3.4% of GDP). Total Budget expenditure: **₹53.5 lakh crore**.",
+        "**Direct Tax Slabs (New Regime):** Nil up to ₹4L, 5% (₹4L–₹8L), 10% (₹8L–₹12L), 15% (₹12L–₹16L), 20% (₹16L–₹20L), 25% (₹20L–₹24L), 30% (>₹24L).",
+        "**Tax Rebate & Deduction:** Sec 87A rebate ₹60,000 (tax-free limit **₹12 lakh**). Salaried standard deduction **₹75,000** (effective tax-free limit **₹12.75 lakh**)."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "staticga",
+      "general"
+    ],
+    "category": "StaticGA",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:03.191Z",
+    "provenance": {
+      "sourceSystem": "StaticGA",
+      "sourceFile": "ca_app/static_ga_data.js",
+      "sourceId": "ch6-sub1",
+      "sourceTitle": "Economic Survey 2025–26 & Union Budget 2026–27 Highlights",
+      "sourceChecksum": "a01cb3b37450b269c59b4dab565d3cd833037768c66cb616f5754f6dee6ebb1e",
+      "migrationTimestamp": "2026-08-15T12:14:03.191Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "migrated-schemes-scheme-12",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Solarization of Centers & Street Lights: 1,500 centers, ₹1 Lakh each",
+  "summary": "Schemes — Solarization of Centers & Street Lights: 1,500 centers, ₹1 Lakh each",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Benefits:",
+        " Empowerment and improved quality of life"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.064Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-12",
+      "sourceTitle": "Solarization of Centers & Street Lights: 1,500 centers, ₹1 Lakh each",
+      "sourceChecksum": "9ef92e1b3e01decc456ca9545c8154f0cbefe792b2840fcf215be2d1874f84cc",
+      "migrationTimestamp": "2026-08-15T12:14:01.064Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

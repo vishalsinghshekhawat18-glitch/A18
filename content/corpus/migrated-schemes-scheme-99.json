@@ -1,0 +1,42 @@
+{
+  "id": "migrated-schemes-scheme-99",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SHRESHTA Scheme: Empowering SC Students through Quality Education:",
+  "summary": "Schemes — SHRESHTA Scheme: Empowering SC Students through Quality Education:",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "o Objective: Provide residential education for Scheduled Castes (SC) students.",
+        "o Eligibility: Annual family income up to Rs 2.5 lakh; admission for class 9 and 11.",
+        "o Selection: National-level test by NTA.",
+        "o Benefits: Free accommodation, food, scholarships, and educational support.",
+        "o Launched: December 2021/June 2022 by the Ministry of Social Justice and Empowerment."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.103Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-99",
+      "sourceTitle": "SHRESHTA Scheme: Empowering SC Students through Quality Education:",
+      "sourceChecksum": "fc70b142e772429c6db3077e8aa5132734671952f63c305a4323b9242eaede84",
+      "migrationTimestamp": "2026-08-15T12:14:02.103Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "migrated-schemes-scheme-21",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SPICED Scheme:",
+  "summary": "Schemes — SPICED Scheme:",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Full Form",
+        " Sustainability in Spice Sector through Progressive, Innovative, and Collaborative Interventions",
+        "for Export Development.",
+        "Launch Date",
+        " Launched in 2024 by the Spices Board of India under the Ministry of Commerce and Industry.",
+        "Objective",
+        " Enhance India’s spice exports and promote value-added products.",
+        " Improve productivity and post-harvest quality of spices.",
+        " Focus on sustainability and international standards compliance.",
+        "Implementation Period",
+        " 2023-24 to 2025-26, aligned with the 15th Finance Commission cycle.",
+        "Budget Allocation",
+        " Total allocation of ₹422.30 crore.",
+        "Key Components"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.065Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-21",
+      "sourceTitle": "SPICED Scheme:",
+      "sourceChecksum": "93e52fb3156b25a53415d621190a21fe2e3c9a53a60e4dda92f7a5aa5985fc93",
+      "migrationTimestamp": "2026-08-15T12:14:01.065Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

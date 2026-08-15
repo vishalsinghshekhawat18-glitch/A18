@@ -1,0 +1,44 @@
+{
+  "id": "migrated-schemes-scheme-8",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "\"One Scientist, One Product\" Scheme by ICAR:",
+  "summary": "Schemes — \"One Scientist, One Product\" Scheme by ICAR:",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "o Launch Date: July 16, 2024",
+        "o Launched By: Indian Council of Agricultural Research (ICAR)",
+        "o Target: 5,521 ICAR scientists, each to develop one product, technology, model, or concept",
+        "o Duration: 5 years",
+        "o Goal: Foster agricultural innovation and address challenges in Indian agriculture",
+        "o Additional Milestones: Release of 323 new crop varieties, including climate-resilient and bio-",
+        "fortified options"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.064Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-8",
+      "sourceTitle": "\"One Scientist, One Product\" Scheme by ICAR:",
+      "sourceChecksum": "bc1d03c215615874d129475478698892cb330fcce7b2cbb9f0ed4c86bb1edfc5",
+      "migrationTimestamp": "2026-08-15T12:14:01.064Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

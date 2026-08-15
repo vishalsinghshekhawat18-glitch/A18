@@ -1,0 +1,43 @@
+{
+  "id": "migrated-schemes-scheme-133",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Sambal (Safety and justice for women):",
+  "summary": "Schemes — Sambal (Safety and justice for women):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "o One Stop Center: Comprehensive support for women in distress.",
+        "o 181 Women Helpline: 24/7 support for women in crisis.",
+        "o Beti Bachao Beti Padhao: Promote gender equality and the welfare of girls.",
+        "o Nari Adalat: Community-based dispute resolution for women.",
+        "Key Focus: Empowerment, safety, healthcare, education, and financial support for women,",
+        "particularly vulnerable groups."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.680Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-133",
+      "sourceTitle": "Sambal (Safety and justice for women):",
+      "sourceChecksum": "f382f0e2fb2c4189fe6f28b04e3b6fffb679bc8cca15d8da634d650a743e76d7",
+      "migrationTimestamp": "2026-08-15T12:14:02.680Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

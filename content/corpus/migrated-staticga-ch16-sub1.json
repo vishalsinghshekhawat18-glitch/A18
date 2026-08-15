@@ -1,0 +1,48 @@
+{
+  "id": "migrated-staticga-ch16-sub1",
+  "type": "static_note",
+  "domain": "static-ga",
+  "title": "Newly Launched Schemes (2024-2026) (1 Schemes)",
+  "summary": "StaticGA — Newly Launched Schemes (2024-2026) (1 Schemes)",
+  "blocks": [
+    {
+      "type": "comparison",
+      "title": "Newly Launched Schemes (2024-2026) (1 Schemes)",
+      "headers": [
+        "Scheme Name & Target",
+        "Ministry Category",
+        "Key Parameters & Outlay"
+      ],
+      "rows": [
+        [
+          "Credit guarantee scheme:",
+          "Newly Launched Schemes (2024-2026)",
+          "AGRICULTURAL, RENEWABLE ENERGY AND WATER RESOURCES SCHEMES Page No. 9-17 ..."
+        ]
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "staticga",
+      "general"
+    ],
+    "category": "StaticGA",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:03.197Z",
+    "provenance": {
+      "sourceSystem": "StaticGA",
+      "sourceFile": "ca_app/static_ga_data.js",
+      "sourceId": "ch16-sub1",
+      "sourceTitle": "Newly Launched Schemes (2024-2026) (1 Schemes)",
+      "sourceChecksum": "d6d003cd788826154536c94979b35378b75ae9648541f5054a19dcd1ba951f4c",
+      "migrationTimestamp": "2026-08-15T12:14:03.197Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "migrated-schemes-scheme-167",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "PM-DevINE Scheme:",
+  "summary": "Schemes — PM-DevINE Scheme:",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        " Launch: 12 October 2022",
+        " Type: Central Sector Scheme",
+        " Ministry: MDoNER",
+        " Budget: ₹6,600 crore (2022-26)",
+        "Objective: Develop infrastructure in the North East under PM Gati Shakti, addressing gaps in",
+        "health, education, and connectivity.",
+        "Key Features:",
+        " 100% central funding.",
+        " Focus on socio-economic development and regional challenges."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.681Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-167",
+      "sourceTitle": "PM-DevINE Scheme:",
+      "sourceChecksum": "fb6516385ba91e6840c73772229930671b69ed3ff69e0b9032c5689b86bf329b",
+      "migrationTimestamp": "2026-08-15T12:14:02.681Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

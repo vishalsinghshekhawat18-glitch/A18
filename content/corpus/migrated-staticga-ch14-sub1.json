@@ -1,0 +1,80 @@
+{
+  "id": "migrated-staticga-ch14-sub1",
+  "type": "static_note",
+  "domain": "static-ga",
+  "title": "Master Rate Directory — Current RBI Interest Rate Corridor",
+  "summary": "StaticGA — Master Rate Directory — Current RBI Interest Rate Corridor",
+  "blocks": [
+    {
+      "type": "comparison",
+      "title": "Master Rate Directory — Current RBI Interest Rate Corridor",
+      "headers": [
+        "Rate",
+        "Current Value",
+        "Definition & Role",
+        "Direction of Flow"
+      ],
+      "rows": [
+        [
+          "Bank Rate",
+          "5.75%",
+          "Long-term lending rate without collateral; linked to MSF rate.",
+          "RBI -> Banks"
+        ],
+        [
+          "Marginal Standing Facility (MSF)",
+          "5.75%",
+          "Emergency overnight borrowing rate (up to 2% SLR dip penalty). LAF Corridor Ceiling.",
+          "RBI -> Banks"
+        ],
+        [
+          "Policy Repo Rate",
+          "5.25%",
+          "Overnight lending rate against G-Secs collateral. Central policy anchor.",
+          "RBI -> Banks"
+        ],
+        [
+          "Standing Deposit Facility (SDF)",
+          "5.00%",
+          "Uncollateralised excess liquidity absorption rate. LAF Corridor Floor.",
+          "Banks -> RBI"
+        ],
+        [
+          "Cash Reserve Ratio (CRR)",
+          "4.00%",
+          "Proportion of NDTL kept as cash with RBI (earns ZERO interest).",
+          "Statutory Buffer"
+        ],
+        [
+          "Statutory Liquidity Ratio (SLR)",
+          "18.00%",
+          "Proportion of NDTL maintained in liquid assets (G-Secs, Gold, Cash).",
+          "Statutory Pre-emption"
+        ]
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "staticga",
+      "general"
+    ],
+    "category": "StaticGA",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:03.195Z",
+    "provenance": {
+      "sourceSystem": "StaticGA",
+      "sourceFile": "ca_app/static_ga_data.js",
+      "sourceId": "ch14-sub1",
+      "sourceTitle": "Master Rate Directory — Current RBI Interest Rate Corridor",
+      "sourceChecksum": "1bbe9ade462adbee36bfc39495ede860dd537d984d9360527867eece35c07eba",
+      "migrationTimestamp": "2026-08-15T12:14:03.195Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "migrated-schemes-scheme-41",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "The Soil Health Card Scheme (SHC):",
+  "summary": "Schemes — The Soil Health Card Scheme (SHC):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Launched on 19 February 2015 at Suratgarh, Rajasthan, aims to improve soil health and agricultural",
+        "productivity. The scheme issues soil health cards to farmers every two years, advising them on",
+        "appropriate fertilizer use based on soil nutrient status. It tests soil on 12 parameters, including NPK",
+        "(Nitrogen, Phosphorus, Potassium) and micro-nutrients.",
+        "Key features:",
+        "o Over 24 crore soil health cards issued.",
+        "o Promotes efficient fertilizer use.",
+        "o Helps address soil fertility issues.",
+        "o Rajasthan achieved 100% target.",
+        "In 2023, it was merged with Rashtriya Krishi Vikas Yojana (RKVY) as Soil Health and Fertility",
+        "for better coordination. The scheme helps reduce fertilizer misuse, promotes sustainable agriculture,",
+        "and supports long-term soil health."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Agriculture, Energy & Water Resources"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.510Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-41",
+      "sourceTitle": "The Soil Health Card Scheme (SHC):",
+      "sourceChecksum": "2798f62b320a1b8e7e9bac57b7f192994ac5d349c68fb7641f38057d298e2060",
+      "migrationTimestamp": "2026-08-15T12:14:01.510Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

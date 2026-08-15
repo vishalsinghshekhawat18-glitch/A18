@@ -1,0 +1,45 @@
+{
+  "id": "migrated-schemes-scheme-98",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "PAiSA Portal:",
+  "summary": "Schemes — PAiSA Portal:",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Provides affordable loans and interest subvention under schemes like PM SVANidhi (for street",
+        "vendors) and NULM (for urban poor). It streamlines loan applications and ensures transparency,",
+        "promoting financial inclusion and economic empowerment.",
+        "-- 28 of 47 --",
+        "29\tONE STOP SOLUTION FOR IAS, RAS, SI",
+        "Youtube \tTelegram",
+        "Indian Economy \tScheme",
+        "MINISTRY OF SOCIAL JUSTICE AND EMPOWERMENT"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "MSME, Industry & Commerce Schemes"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.103Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-98",
+      "sourceTitle": "PAiSA Portal:",
+      "sourceChecksum": "9bae89b9b3d9334d72869952a9c6208f547f0b656f2c6a25cdce60462f98e7ac",
+      "migrationTimestamp": "2026-08-15T12:14:02.103Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

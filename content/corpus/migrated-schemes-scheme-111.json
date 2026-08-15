@@ -1,0 +1,46 @@
+{
+  "id": "migrated-schemes-scheme-111",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SEED Scheme (Scheme for Economic Empowerment of DNT):",
+  "summary": "Schemes — SEED Scheme (Scheme for Economic Empowerment of DNT):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "The SEED Scheme is designed to uplift Denotified Tribes (DNTs) by providing essential support in",
+        "key areas:",
+        "o Educational Support: Free coaching for competitive exams and skill development.",
+        "o Health Coverage: Health insurance for DNT families to cover medical expenses.",
+        "o Economic Assistance: Financial aid for livelihood creation and small business ventures.",
+        "o Housing Support: Assistance in constructing safe and secure homes.",
+        "Eligibility: Families with an annual income of less than ₹2.5 lakhs.",
+        "The scheme aims to enhance the socio-economic status of DNT communities by improving access to",
+        "education, healthcare, livelihood opportunities, and housing."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.104Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-111",
+      "sourceTitle": "SEED Scheme (Scheme for Economic Empowerment of DNT):",
+      "sourceChecksum": "89a565d1129b3165134fbeea5fdff6b411a2e5e89fc0655276476df8dd325df9",
+      "migrationTimestamp": "2026-08-15T12:14:02.104Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

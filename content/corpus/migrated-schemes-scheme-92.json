@@ -1,0 +1,42 @@
+{
+  "id": "migrated-schemes-scheme-92",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Jal Jeevan Mission (Urban):",
+  "summary": "Schemes — Jal Jeevan Mission (Urban):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Announcement",
+        " Year: 2021-22",
+        " Ministry: Housing and Urban Affairs",
+        " Budget: ₹2.87 lakh crore (₹10,000 crore for AMRUT)",
+        "Objectives"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "MSME, Industry & Commerce Schemes"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.103Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-92",
+      "sourceTitle": "Jal Jeevan Mission (Urban):",
+      "sourceChecksum": "cab2301e9fee53e1bddfd1d8adcfe8301465e94d3d52bd80f0ffbfa6dbac6ded",
+      "migrationTimestamp": "2026-08-15T12:14:02.103Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

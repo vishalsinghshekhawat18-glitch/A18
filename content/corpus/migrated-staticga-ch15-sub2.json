@@ -1,0 +1,63 @@
+{
+  "id": "migrated-staticga-ch15-sub2",
+  "type": "static_note",
+  "domain": "static-ga",
+  "title": "Insurance Laws (Amendment) Act, 2024 & IRDAI Profile",
+  "summary": "StaticGA — Insurance Laws (Amendment) Act, 2024 & IRDAI Profile",
+  "blocks": [
+    {
+      "type": "comparison",
+      "title": "Insurance Laws (Amendment) Act, 2024 & IRDAI Profile",
+      "headers": [
+        "Parameter",
+        "Pre-Amendment",
+        "Post-Amendment (2024)"
+      ],
+      "rows": [
+        [
+          "FDI in Insurance",
+          "74% (Automatic Route)",
+          "100% (Full FDI permitted under governance rules)"
+        ],
+        [
+          "Composite Licenses",
+          "Separate licenses for Life, General, Health",
+          "Single entity can apply for a Composite License (Life + General + Health)"
+        ],
+        [
+          "Capital Norms",
+          "₹100 crore fixed minimum paid-up capital",
+          "Differentiated capital norms for different risk categories"
+        ],
+        [
+          "Surrender Value",
+          "Longer lock-ins before guaranteed value",
+          "Guaranteed surrender value from end of 1st policy year"
+        ]
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "staticga",
+      "general"
+    ],
+    "category": "StaticGA",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:03.195Z",
+    "provenance": {
+      "sourceSystem": "StaticGA",
+      "sourceFile": "ca_app/static_ga_data.js",
+      "sourceId": "ch15-sub2",
+      "sourceTitle": "Insurance Laws (Amendment) Act, 2024 & IRDAI Profile",
+      "sourceChecksum": "adf19a61ef19b20079ba75141e9e6cd499061760c1413d512d51415cd56bfd58",
+      "migrationTimestamp": "2026-08-15T12:14:03.195Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

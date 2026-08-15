@@ -1,0 +1,40 @@
+{
+  "id": "migrated-schemes-scheme-83",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Promote community participation and awareness.",
+  "summary": "Schemes — Promote community participation and awareness.",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "SBM has led to significant improvements in rural sanitation, making rural areas cleaner,",
+        "healthier, and more hygienic.",
+        "URBAN DEVELOPMENT SCHEMS"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "MSME, Industry & Commerce Schemes"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.102Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-83",
+      "sourceTitle": "Promote community participation and awareness.",
+      "sourceChecksum": "44a1eda294074a9b23d48f1cc09dcb8a536f628799ab86105f110b6f63dcd589",
+      "migrationTimestamp": "2026-08-15T12:14:02.102Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

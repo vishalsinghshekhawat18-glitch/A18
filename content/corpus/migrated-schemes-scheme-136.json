@@ -1,0 +1,49 @@
+{
+  "id": "migrated-schemes-scheme-136",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "National Health Mission (NHM) – Key Highlights:",
+  "summary": "Schemes — National Health Mission (NHM) – Key Highlights:",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        " Launched: 2013",
+        " Objectives:",
+        " Strengthen health systems",
+        " Reduce MMR to 1/1000 live births, IMR to 25/1000 live births",
+        " Achieve TFR of 2.1",
+        " Prevent and control communicable and non-communicable diseases",
+        " Key Initiatives:",
+        " JSSK, Mission Indradhanush, Ayushman Bharat",
+        " Focus Areas:",
+        " Maternal and child health, immunization, disease control, workforce strengthening",
+        " Funding:",
+        " Joint funding by central and state governments"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.680Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-136",
+      "sourceTitle": "National Health Mission (NHM) – Key Highlights:",
+      "sourceChecksum": "9d3748a88cab5dc00d55e94c51f51d88ca0aa8ce1994b98d21b7927b8388538e",
+      "migrationTimestamp": "2026-08-15T12:14:02.680Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

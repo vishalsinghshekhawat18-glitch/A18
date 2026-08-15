@@ -1,0 +1,39 @@
+{
+  "id": "migrated-schemes-scheme-13",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Launch & Approval:",
+  "summary": "Schemes — Launch & Approval:",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        " Launch Date: 15 February 2024",
+        " Approval Date: 29 February 2024"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.064Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-13",
+      "sourceTitle": "Launch & Approval:",
+      "sourceChecksum": "35388f2ad7bdbcae58ee9bb0188989a1030fe7ac8c0940be8fdd75815f8b8bb7",
+      "migrationTimestamp": "2026-08-15T12:14:01.064Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

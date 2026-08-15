@@ -96,17 +96,11 @@ export class BatchMigrator {
       } else {
         targetItem = transformQuantStaticToKnowledgeItem(
           {
+            ...srcRecord.rawPayload,
             id: destId,
             subId: destId,
             realSourceId: entry.sourceId,
-            title: srcRecord.sourceTitle,
-            headers: srcRecord.rawPayload.headers,
-            rows: srcRecord.rawPayload.rows,
-            formulas: srcRecord.rawPayload.formulas,
-            workedExamples: srcRecord.rawPayload.workedExamples,
-            items: srcRecord.rawPayload.items,
-            shortcuts: srcRecord.rawPayload.shortcuts,
-            traps: srcRecord.rawPayload.traps
+            title: srcRecord.sourceTitle || srcRecord.rawPayload.title || srcRecord.rawPayload.schemeName
           },
           entry.sourceSystem as any,
           srcRecord.sourceFile,

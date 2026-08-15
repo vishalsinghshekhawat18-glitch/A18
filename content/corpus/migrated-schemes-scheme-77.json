@@ -1,0 +1,42 @@
+{
+  "id": "migrated-schemes-scheme-77",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "The Deendayal Antyodaya Yojana - National Rural Livelihoods Mission (DAY-NRLM):",
+  "summary": "Schemes — The Deendayal Antyodaya Yojana - National Rural Livelihoods Mission (DAY-NRLM):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Launched in 2011 by the Ministry of Rural Development, aims to alleviate rural poverty by",
+        "enhancing access to financial services and self-employment opportunities for rural poor households.",
+        "The program focuses on empowering women, improving livelihoods, and fostering community",
+        "development through Self-Help Groups (SHGs).",
+        "Key Components:"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "MSME, Industry & Commerce Schemes"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.102Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-77",
+      "sourceTitle": "The Deendayal Antyodaya Yojana - National Rural Livelihoods Mission (DAY-NRLM):",
+      "sourceChecksum": "48fa46365c1f2b632587fd5eb22f3831ae1e532ed812763858150f17a9a3c3d4",
+      "migrationTimestamp": "2026-08-15T12:14:02.102Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

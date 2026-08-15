@@ -1,0 +1,42 @@
+{
+  "id": "migrated-schemes-scheme-71",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "PM MITRA Park Scheme:",
+  "summary": "Schemes — PM MITRA Park Scheme:",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        " Objective: Modernize textile infrastructure, attract investments, create jobs, and boost exports.",
+        " Ministry: Ministry of Textiles",
+        " Launch: Announced in Budget 2021-22 | Period: Up to 2027",
+        " Budget: ₹4,445 crore",
+        "Key Features:"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "MSME, Industry & Commerce Schemes"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.511Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-71",
+      "sourceTitle": "PM MITRA Park Scheme:",
+      "sourceChecksum": "15aed51ca9c525aaa7c5110f25317035b9bff2c22baa299788a66935cfa2ec28",
+      "migrationTimestamp": "2026-08-15T12:14:01.511Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

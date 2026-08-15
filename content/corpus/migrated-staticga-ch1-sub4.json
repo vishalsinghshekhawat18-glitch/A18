@@ -1,0 +1,41 @@
+{
+  "id": "migrated-staticga-ch1-sub4",
+  "type": "static_note",
+  "domain": "static-ga",
+  "title": "Exam Revision Corner (Appointments)",
+  "summary": "StaticGA — Exam Revision Corner (Appointments)",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "≠ **Discriminator:** Pay close attention to RBI Deputy Governor predecessor matches: Rohit Jain succeeded *T. Rabi Sankar* (NOT M. Rajeshwar Rao); Shirish Chandra Murmu succeeded *M. Rajeshwar Rao*.",
+        "⚠️ **Trap Alert:** Do not confuse the designation of **Finance Secretary** (conventionally senior-most secretary in Ministry of Finance) with secretary of a specific department. As of August 2026, the post of Finance Secretary officially remains vacant.",
+        "⚠️ **Successor Trap:** Note that *Sivasubramanian Ramann* succeeded Deepak Mohanty as PFRDA Chairperson in June 2025. Do not confuse him with his former role as SIDBI Chairman (succeeded by Manoj Mittal).",
+        "🔗 **Mnemonic for RBI Deputy Governors (2025–26):** **Poonam, Rohit, Shirish, Swaminathan** -> **PRSS** (*Press the RBI button*)."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "staticga",
+      "general"
+    ],
+    "category": "StaticGA",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.682Z",
+    "provenance": {
+      "sourceSystem": "StaticGA",
+      "sourceFile": "ca_app/static_ga_data.js",
+      "sourceId": "ch1-sub4",
+      "sourceTitle": "Exam Revision Corner (Appointments)",
+      "sourceChecksum": "277bff35ac8a205ca68e11dfb0b0766f85a907fc63094207868768d8cfaf46a5",
+      "migrationTimestamp": "2026-08-15T12:14:02.682Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

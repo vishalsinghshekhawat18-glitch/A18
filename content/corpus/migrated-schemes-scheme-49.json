@@ -1,0 +1,49 @@
+{
+  "id": "migrated-schemes-scheme-49",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Nano Fertilizers: Revolutionizing Agriculture:",
+  "summary": "Schemes — Nano Fertilizers: Revolutionizing Agriculture:",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "o Nano fertilizers, including innovations like Nano Urea (Urea Gold) and Nano DAP, were",
+        "approved in 2021 and launched in 2023. They utilize nanotechnology to enhance nutrient",
+        "absorption by plants, offering a more efficient and environmentally friendly alternative to",
+        "traditional fertilizers.",
+        "o Key Benefits:",
+        " Increased Efficiency: Nano fertilizers improve nutrient uptake and reduce wastage.",
+        " Reduced Environmental Impact: Lower application rates minimize chemical runoff and",
+        "soil degradation.",
+        " Sustainability: A more eco-friendly solution for modern agriculture.",
+        "o India's IFFCO pioneered the technology, starting the first Nano Urea plant in Kalol, Gujarat.",
+        "These fertilizers offer a sustainable way to boost agricultural productivity while addressing",
+        "the challenges posed by conventional fertilizers."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Agriculture, Energy & Water Resources"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.510Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-49",
+      "sourceTitle": "Nano Fertilizers: Revolutionizing Agriculture:",
+      "sourceChecksum": "a19c216ae0c65440875089bdcf3288f2c41637929a611d79b8a8df4a31e3162e",
+      "migrationTimestamp": "2026-08-15T12:14:01.510Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

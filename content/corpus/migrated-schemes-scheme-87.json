@@ -1,0 +1,43 @@
+{
+  "id": "migrated-schemes-scheme-87",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "BOCW (Building & Other Construction Workers)– Welfare for construction workers.",
+  "summary": "Schemes — BOCW (Building & Other Construction Workers)– Welfare for construction workers.",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "-- 25 of 47 --",
+        "26\tONE STOP SOLUTION FOR IAS, RAS, SI",
+        "Youtube \tTelegram",
+        "Indian Economy \tScheme",
+        "Implemented in 125 cities with 7 cities in Rajasthan, this initiative aims to improve the financial and",
+        "social security of street vendors and their families."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "MSME, Industry & Commerce Schemes"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.102Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-87",
+      "sourceTitle": "BOCW (Building & Other Construction Workers)– Welfare for construction workers.",
+      "sourceChecksum": "6f34aa2fd642e8f5f1cfb6e62c239b4a55f902c44d09ced8d1b52ca17b862d59",
+      "migrationTimestamp": "2026-08-15T12:14:02.102Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

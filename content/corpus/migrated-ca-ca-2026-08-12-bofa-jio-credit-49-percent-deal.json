@@ -40,14 +40,14 @@
     "date": "2026-08-12",
     "category": "SEC7",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:13:28.657Z",
+    "lastUpdated": "2026-08-15T12:14:01.063Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "ca_app/data.js",
       "sourceId": "ca_2026_08_12_bofa_jio_credit_49_percent_deal",
       "sourceTitle": "Bank of America Subsidiary Acquires 49.9% Stake in Jio Credit for ₹18,268 Crore ($1.9B)",
       "sourceChecksum": "cacfc8f10d08d1183540dbe3bc85a05264391289892d4165ffadb2f150e0321e",
-      "migrationTimestamp": "2026-08-15T12:13:28.657Z",
+      "migrationTimestamp": "2026-08-15T12:14:01.063Z",
       "normalizationRuleVersion": "1.0.0-phase4"
     }
   }

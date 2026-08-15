@@ -1,0 +1,60 @@
+{
+  "id": "migrated-quant-qsec5-3",
+  "type": "quant_topic",
+  "domain": "quant",
+  "title": "5.3 Worked Examples",
+  "summary": "Quant — 5.3 Worked Examples",
+  "blocks": [
+    {
+      "type": "worked_example",
+      "title": "Second-level difference series. 3, 4, 8,...",
+      "question": "Second-level difference series. 3, 4, 8, 17, 33, ?",
+      "given": [],
+      "method": "Step-by-Step Solution Method",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "explanation": "Diffs = 1, 4, 9, 16 (squares). Next diff = 25. Next term = 33 + 25 = 58.\n*Pattern: when first differences aren't constant, check if they form a known sequence.*"
+        }
+      ],
+      "answer": "Diffs = 1, 4, 9, 16 (squares). Next diff = 25. Next term = 33 + 25 = 58.\n*Pattern: when first differences aren't constant, check if they form a known sequence.*"
+    },
+    {
+      "type": "worked_example",
+      "title": "Wrong number in series. 5, 10, 20, 41, 8...",
+      "question": "Wrong number in series. 5, 10, 20, 41, 80, 161.",
+      "given": [],
+      "method": "Step-by-Step Solution Method",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "explanation": "Expected ×2 pattern: 5, 10, 20, 40, 80, 160. 41 is the wrong term (should be 40).\n*Pattern: locate base pattern from majority, then find single deviation.*"
+        }
+      ],
+      "answer": "Expected ×2 pattern: 5, 10, 20, 40, 80, 160. 41 is the wrong term (should be 40).\n*Pattern: locate base pattern from majority, then find single deviation.*"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "quant",
+      "general"
+    ],
+    "category": "Quant",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:03.201Z",
+    "provenance": {
+      "sourceSystem": "Quant",
+      "sourceFile": "ca_app/quant_data.js",
+      "sourceId": "qsec5-3",
+      "sourceTitle": "5.3 Worked Examples",
+      "sourceChecksum": "a3a148114eff16b02c22f7faf1984c2407fdc48181faea0add64bae6be740689",
+      "migrationTimestamp": "2026-08-15T12:14:03.201Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

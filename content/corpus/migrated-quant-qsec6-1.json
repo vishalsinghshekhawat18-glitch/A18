@@ -1,0 +1,40 @@
+{
+  "id": "migrated-quant-qsec6-1",
+  "type": "quant_topic",
+  "domain": "quant",
+  "title": "6.1 Core Evaluation Rules",
+  "summary": "Quant — 6.1 Core Evaluation Rules",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Standard answer choices**: I alone sufficient (II not); II alone sufficient (I not); either alone sufficient; both together needed; neither alone nor together sufficient",
+        "**Evaluation order**: test statement I alone first, then II alone independently — only combine if both fail alone",
+        "**Meaning of 'Sufficient'**: gives exactly ONE definite answer; multiple possible values = not sufficient, even for yes/no questions"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "quant",
+      "general"
+    ],
+    "category": "Quant",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:03.201Z",
+    "provenance": {
+      "sourceSystem": "Quant",
+      "sourceFile": "ca_app/quant_data.js",
+      "sourceId": "qsec6-1",
+      "sourceTitle": "6.1 Core Evaluation Rules",
+      "sourceChecksum": "6ce15879a6c17015e70b9978e1988ef0675825546658526811fe3f2589fab633",
+      "migrationTimestamp": "2026-08-15T12:14:03.201Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

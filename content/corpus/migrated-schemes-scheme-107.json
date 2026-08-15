@@ -1,0 +1,40 @@
+{
+  "id": "migrated-schemes-scheme-107",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "National Overseas Scholarship (Master's/PhD abroad):",
+  "summary": "Schemes — National Overseas Scholarship (Master's/PhD abroad):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "o Age < 35, family income < Rs. 8 lakhs.",
+        "o SC, nomadic tribes, landless farmers.",
+        "o Funded through Indian Embassies."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.104Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-107",
+      "sourceTitle": "National Overseas Scholarship (Master's/PhD abroad):",
+      "sourceChecksum": "05d9c516d4ea3b1b8bf214d64e3b504f4d21657e1f2da5ee98852beb4f5b47df",
+      "migrationTimestamp": "2026-08-15T12:14:02.104Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

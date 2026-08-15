@@ -1,0 +1,50 @@
+{
+  "id": "migrated-schemes-scheme-168",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "PM E-Bus Scheme:",
+  "summary": "Schemes — PM E-Bus Scheme:",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        " Launched: 16 August 2023.",
+        " Goal: Deploy 10,000 electric buses in 169 cities (₹57,613 crore).",
+        " Allocation:",
+        "o Cities <5 lakh: 50 buses.",
+        "o Cities 5-20 lakh: 100 buses.",
+        "o Cities 20-40 lakh: 150 buses.",
+        "o Eligibility: Cities with ≥3 lakh population.",
+        " Features: Eco-friendly, PPP model, modern amenities, supports Make in India.",
+        " Impact: Reduced pollution, fuel savings, job creation.",
+        "-- 46 of 47 --",
+        "47\tONE STOP SOLUTION FOR IAS, RAS, SI",
+        "Youtube \tTelegram",
+        "Indian Economy \tScheme"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.681Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-168",
+      "sourceTitle": "PM E-Bus Scheme:",
+      "sourceChecksum": "76555e5e93ce00429f4e6eaff182c6cb245611a42fe54237e88b896995ff0e52",
+      "migrationTimestamp": "2026-08-15T12:14:02.681Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

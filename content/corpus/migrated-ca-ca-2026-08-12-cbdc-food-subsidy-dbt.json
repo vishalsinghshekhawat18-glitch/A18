@@ -40,14 +40,14 @@
     "date": "2026-08-12",
     "category": "SEC1",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:13:28.657Z",
+    "lastUpdated": "2026-08-15T12:14:01.063Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "ca_app/data.js",
       "sourceId": "ca_2026_08_12_cbdc_food_subsidy_dbt",
       "sourceTitle": "Chandigarh & Dadra Nagar Haveli Become First UTs to Launch CBDC Food Subsidy Transfers",
       "sourceChecksum": "912750f4bfa12d7d899ab65ea4d3f76b7d50d7c35500b3a091b19e37d8cf6a30",
-      "migrationTimestamp": "2026-08-15T12:13:28.657Z",
+      "migrationTimestamp": "2026-08-15T12:14:01.063Z",
       "normalizationRuleVersion": "1.0.0-phase4"
     }
   }

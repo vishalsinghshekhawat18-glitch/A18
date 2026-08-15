@@ -1,0 +1,46 @@
+{
+  "id": "migrated-schemes-scheme-32",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Higher Education Loan Scheme:",
+  "summary": "Schemes — Higher Education Loan Scheme:",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Offers up to ₹10 lakh for students pursuing higher education, targeting 1 lakh students per year. It",
+        "provides a 3% interest subvention, flexible repayment terms (up to 15-20 years), and is available for",
+        "both domestic and international studies. Eligibility includes Indian nationals with admission to",
+        "recognized institutions. Required documents include proof of admission, KYC, and income details.",
+        "The scheme also offers grace periods and financial relief for unemployed graduates.",
+        "-- 8 of 47 --",
+        "9\tONE STOP SOLUTION FOR IAS, RAS, SI",
+        "Youtube \tTelegram",
+        "Indian Economy \tScheme"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.509Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-32",
+      "sourceTitle": "Higher Education Loan Scheme:",
+      "sourceChecksum": "0ce94c5803bfc39895c428afa3f146231313cdbfbcdc77d5957bc53d12b8d0eb",
+      "migrationTimestamp": "2026-08-15T12:14:01.509Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

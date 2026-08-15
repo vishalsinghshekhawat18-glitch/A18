@@ -1,0 +1,51 @@
+{
+  "id": "migrated-schemes-scheme-166",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "ADITI Scheme (2023-26):",
+  "summary": "Schemes — ADITI Scheme (2023-26):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Acing Development of Innovative Technologies with iDEX",
+        "Purpose:",
+        " Drive indigenous defense innovation under \"Atmanirbhar Bharat.\"",
+        " Focus on advanced tech like deep fake detection and cybersecurity.",
+        "Key Details:",
+        " Duration: 2023-24 to 2025-26",
+        " Funding:",
+        " Up to ₹25 crores for ADITI Challenge winners.",
+        " ₹10 crores under Defence India Startup Challenge (DISC).",
+        " Eligibility: Startups, MSMEs, and academic institutions.",
+        " Focus Areas: AI, ML, robotics, IoT, quantum tech, and strategic defense tools.",
+        "Support Framework:",
+        " Mentorship by defense experts and funding via iDEX (Innovations for Defence Excellence).",
+        " Access to testing infrastructure in collaboration with DRDO and armed forces."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.681Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-166",
+      "sourceTitle": "ADITI Scheme (2023-26):",
+      "sourceChecksum": "b8464f76a38f7c13aa0e42e7557c504686320af3e2d7808cb2bbb197d60e707c",
+      "migrationTimestamp": "2026-08-15T12:14:02.681Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

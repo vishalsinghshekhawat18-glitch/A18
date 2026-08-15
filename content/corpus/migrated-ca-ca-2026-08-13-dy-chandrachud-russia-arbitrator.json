@@ -1,0 +1,69 @@
+{
+  "id": "migrated-ca-ca-2026-08-13-dy-chandrachud-russia-arbitrator",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Former CJI D Y Chandrachud Appointed Arbitrator by Russia in Oschadbank Dispute",
+  "summary": "Former CJI D Y Chandrachud appointed by Russia as arbitrator in investment treaty dispute with Ukrainian bank Oschadbank.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Former CJI D Y Chandrachud appointed by Russia as arbitrator in investment treaty dispute with Ukrainian bank Oschadbank."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Arbitrator Appointment:** Former CJI D Y Chandrachud appointed arbitrator by Russia in Oschadbank treaty dispute."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Appointee / Official",
+        "New Position & Organization",
+        "Key Context & Details"
+      ],
+      "rows": [
+        [
+          "D Y Chandrachud",
+          "Arbitrator for Russia",
+          "Appointed arbitrator by Russia in Oschadbank investment treaty dispute."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "D Y Chandrachud: 50th Chief Justice of India."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "≠ **Appointing Country:** Russia."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-13",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.063Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "ca_2026_08_13_dy_chandrachud_russia_arbitrator",
+      "sourceTitle": "Former CJI D Y Chandrachud Appointed Arbitrator by Russia in Oschadbank Dispute",
+      "sourceChecksum": "2141509d0bb4c7f421963efccf73d986b101ea5e643864acd161bc130c6220a8",
+      "migrationTimestamp": "2026-08-15T12:14:01.063Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

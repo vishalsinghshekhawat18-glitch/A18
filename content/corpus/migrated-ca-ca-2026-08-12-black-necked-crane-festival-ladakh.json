@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-ca-2026-08-12-black-necked-crane-festival-ladakh",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Ladakh Hosts First-Ever Black-Necked Crane Festival at Changthang Cold Wildlife Sanctuary",
+  "summary": "Ladakh hosted 1st Black-Necked Crane Festival at Changthang Cold Wildlife Sanctuary, sole breeding ground in India.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Ladakh hosted 1st Black-Necked Crane Festival at Changthang Cold Wildlife Sanctuary, sole breeding ground in India."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Festival Event:** First-ever Black-Necked Crane Festival held in Ladakh.",
+        "**Breeding Ground:** Changthang Cold Wildlife Sanctuary (Tsokar, Hanle wetlands at 2500-5000m altitude) is the **only breeding place in India**.",
+        "**State Bird:** Black-Necked Crane is the official state bird of UT Ladakh."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "State Animal of Ladakh: Snow Leopard; State Bird: Black-Necked Crane."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "≠ **Exclusive Breeding Site:** Changthang Cold Wildlife Sanctuary is the ONLY breeding site in India."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec10",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-12",
+    "category": "SEC10",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.063Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "ca_2026_08_12_black_necked_crane_festival_ladakh",
+      "sourceTitle": "Ladakh Hosts First-Ever Black-Necked Crane Festival at Changthang Cold Wildlife Sanctuary",
+      "sourceChecksum": "d2d9426af372c520b66ad2f4ba32483e807fd2f8a604882ed78e84b4bfb153e9",
+      "migrationTimestamp": "2026-08-15T12:14:01.063Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

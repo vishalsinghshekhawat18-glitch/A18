@@ -1,0 +1,44 @@
+{
+  "id": "migrated-schemes-scheme-109",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Ambedkar Interest Subvention Scheme for Education Loans",
+  "summary": "Schemes — Ambedkar Interest Subvention Scheme for Education Loans",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "o Eligibility: OBC/EBC students with family income < ₹2.5 Lakhs",
+        "o Loan Coverage: Tuition, accommodation, travel, and more",
+        "o Interest Subvention: Government covers interest during study and moratorium",
+        "o Loan Amount: ₹10 Lakhs to ₹20 Lakhs",
+        "o Repayment: Starts after course completion",
+        "This scheme supports OBC and EBC students in accessing higher education abroad by easing",
+        "financial burdens."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.104Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-109",
+      "sourceTitle": "Ambedkar Interest Subvention Scheme for Education Loans",
+      "sourceChecksum": "92114c78f0ed033dff196ba9ee9865f2fc81bd8c760889b72064b4ecc05ad20b",
+      "migrationTimestamp": "2026-08-15T12:14:02.104Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

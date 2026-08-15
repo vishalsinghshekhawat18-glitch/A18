@@ -46,14 +46,14 @@
     "date": "2026-06-08",
     "category": "SEC2",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:13:28.226Z",
+    "lastUpdated": "2026-08-15T12:14:00.123Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "ca_app/data.js",
       "sourceId": "note-sec2-416",
       "sourceTitle": "WPI Base Year Revised to 2022-23=100 & 3 Producer Price Indices (PPIs) Introduced",
       "sourceChecksum": "74e36de692abf418f51a12bbf1cf5ee7dd49236822e349f09c5b1b61885da246",
-      "migrationTimestamp": "2026-08-15T12:13:28.226Z",
+      "migrationTimestamp": "2026-08-15T12:14:00.123Z",
       "normalizationRuleVersion": "1.0.0-phase4"
     }
   }

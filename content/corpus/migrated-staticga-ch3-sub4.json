@@ -1,0 +1,41 @@
+{
+  "id": "migrated-staticga-ch3-sub4",
+  "type": "static_note",
+  "domain": "static-ga",
+  "title": "Exam Revision Corner (Banking & SEBI Reforms)",
+  "summary": "StaticGA — Exam Revision Corner (Banking & SEBI Reforms)",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "≠ **Discriminator:** The 2025 RBI easing cycle totaled **125 bps** across 4 cuts (25 + 25 + 50 + 25). The stance remained **Neutral** throughout.",
+        "⚠️ **D-SIB CET1 Buckets:** SBI is in Bucket 4 (0.80% CET1 buffer), HDFC Bank in Bucket 2 (0.40%), ICICI Bank in Bucket 1 (0.20%). Bucket 5 (1.00%) is empty.",
+        "⚠️ **UCB PSL Deadline:** The final 75% PSL compliance deadline for Urban Co-operative Banks was **March 31, 2026**.",
+        "⚠️ **Key Fact Statement (KFS):** Mandates disclosure of **Annual Percentage Rate (APR)**—the all-inclusive annual cost of credit—before loan agreement execution."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "staticga",
+      "general"
+    ],
+    "category": "StaticGA",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:03.190Z",
+    "provenance": {
+      "sourceSystem": "StaticGA",
+      "sourceFile": "ca_app/static_ga_data.js",
+      "sourceId": "ch3-sub4",
+      "sourceTitle": "Exam Revision Corner (Banking & SEBI Reforms)",
+      "sourceChecksum": "2a52cf23c465385568838a6682478bf7ceb0c1b7c5ae2f510c2823d597df6953",
+      "migrationTimestamp": "2026-08-15T12:14:03.190Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

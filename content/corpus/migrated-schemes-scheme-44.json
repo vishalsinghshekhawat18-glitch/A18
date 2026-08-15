@@ -1,0 +1,55 @@
+{
+  "id": "migrated-schemes-scheme-44",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "National Agriculture Market (e-NAM) :",
+  "summary": "Schemes — National Agriculture Market (e-NAM) :",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Launched on April 14, 2016, to create a unified electronic platform for agricultural trade across India.",
+        "The scheme aims to provide farmers with better access to markets, fair prices, and reduce reliance on",
+        "intermediaries.",
+        "Key Features:",
+        " One Nation, One Market: Facilitates interstate agricultural marketing with a single license.",
+        " Direct Payments: Payments are made directly to farmers’ bank accounts.",
+        " Real-Time Price Discovery: Transparent pricing and quality assurance for agricultural products.",
+        " Removal of Intermediaries: Reduces the role of middlemen in agricultural transactions.",
+        "Achievements:",
+        " Over 1.77 crore farmers and 1389 markets registered.",
+        " Facilitates online trading, ensuring wider market reach for farmers.",
+        " Implemented by SFAC (Small Farmers Agribusiness Consortium).",
+        "Benefits:",
+        " Enhances farmer income by providing better market access.",
+        " Supports agriculture exports and value-added agribusiness.",
+        " Expands market reach, connecting farmers with national and international buyers.",
+        "The initiative aims to revolutionize India's agricultural market by enhancing transparency, improving",
+        "farmers' income, and creating a more competitive trading environment."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Agriculture, Energy & Water Resources"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.510Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-44",
+      "sourceTitle": "National Agriculture Market (e-NAM) :",
+      "sourceChecksum": "52f75d73526c78ecbe9fcc27306ffcb3c6e3388685daf2ed635a36db0296348c",
+      "migrationTimestamp": "2026-08-15T12:14:01.510Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

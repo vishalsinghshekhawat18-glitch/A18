@@ -1,0 +1,41 @@
+{
+  "id": "migrated-schemes-scheme-100",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SHREYAS Scheme (2021-2025):",
+  "summary": "Schemes — SHREYAS Scheme (2021-2025):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "The SHREYAS Scheme offers scholarships for OBC and EBC students to pursue higher education",
+        "and research. It includes support for NET JRF, UGC, and CSIR scholarships, covering tuition,",
+        "stipends, and research grants. Applications are submitted online with academic records and exam",
+        "results."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.104Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-100",
+      "sourceTitle": "SHREYAS Scheme (2021-2025):",
+      "sourceChecksum": "84eafffacfda6f3448ed1703306db90bbb44de2d7c909570406b85a06c99546d",
+      "migrationTimestamp": "2026-08-15T12:14:02.104Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

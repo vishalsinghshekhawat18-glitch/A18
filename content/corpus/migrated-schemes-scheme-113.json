@@ -1,0 +1,46 @@
+{
+  "id": "migrated-schemes-scheme-113",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Atal Vayo Abhyudaya Yojana (AVYAY):",
+  "summary": "Schemes — Atal Vayo Abhyudaya Yojana (AVYAY):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Objective: Enhance the standard of living for senior citizens (14.3 crore by 2021).",
+        "Key Features:",
+        "o Revamped National Action Plan for Senior Citizens",
+        "o Support to States, UTs, NGOs, and Local Bodies",
+        "o Essential Services: Shelter, food, healthcare",
+        "o Sub-components:",
+        " Vayoshri Yojana: Assisted living devices for elderly",
+        " Grants for Elderly Care Services",
+        "Ensures improved quality of life, healthcare, and support for senior citizens."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.104Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-113",
+      "sourceTitle": "Atal Vayo Abhyudaya Yojana (AVYAY):",
+      "sourceChecksum": "c333daa20399ab88285e5eccb6d7faf41ab667c45f725d7c67b226d7b1e708e1",
+      "migrationTimestamp": "2026-08-15T12:14:02.104Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

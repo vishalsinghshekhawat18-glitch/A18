@@ -1,0 +1,51 @@
+{
+  "id": "migrated-schemes-scheme-40",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Pradhan Mantri Kisan Maandhan Yojana (PMKMY):",
+  "summary": "Schemes — Pradhan Mantri Kisan Maandhan Yojana (PMKMY):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "PMKMY is a pension scheme launched on 12th September 2019 to provide economic security to",
+        "small and marginal farmers.",
+        "o Eligibility: Farmers with land up to 2 hectares, aged 18-40 years.",
+        "o Premium: Rs. 55 to 200 per month, depending on age.",
+        "-- 11 of 47 --",
+        "12\tONE STOP SOLUTION FOR IAS, RAS, SI",
+        "Youtube \tTelegram",
+        "Indian Economy \tScheme",
+        "o Pension: Rs. 3000 per month after the age of 60.",
+        "o Spouse Benefit: In case of death, the spouse can continue receiving the pension.",
+        "o Government Contribution: The government matches the farmer’s contribution.",
+        "o Implementing Agency: LIC (Life Insurance Corporation of India).",
+        "o Objective: To provide financial security and social welfare to farmers in their old age.",
+        "o Enrollment: Farmers can enroll through Common Service Centers (CSCs)."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Agriculture, Energy & Water Resources"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.510Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-40",
+      "sourceTitle": "Pradhan Mantri Kisan Maandhan Yojana (PMKMY):",
+      "sourceChecksum": "57bd6be68ec459b462dabe0e0d7a2efaa2604cd0f9f826714ed077a74fefa0ac",
+      "migrationTimestamp": "2026-08-15T12:14:01.510Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

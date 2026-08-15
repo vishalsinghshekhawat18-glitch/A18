@@ -1,0 +1,43 @@
+{
+  "id": "migrated-schemes-scheme-11",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Solar Power Scheme for PVTGs (PM JANMAN):",
+  "summary": "Schemes — Solar Power Scheme for PVTGs (PM JANMAN):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        " Launched: January 2024",
+        " Ministry: Ministry of New and Renewable Energy",
+        " Implementing Agency: DISCOMs",
+        " Coverage: 18 States and UTs",
+        " Objective: Provide solar energy to PVTGs for improved access and living conditions",
+        "Components:"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.064Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-11",
+      "sourceTitle": "Solar Power Scheme for PVTGs (PM JANMAN):",
+      "sourceChecksum": "ac2961a89badbfa9e9d6fe7bac48b80ba85aa8ef145205bff2eaa5eb25b27a88",
+      "migrationTimestamp": "2026-08-15T12:14:01.064Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

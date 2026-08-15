@@ -1,0 +1,48 @@
+{
+  "id": "migrated-schemes-scheme-50",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Jal Jeevan Mission (JJM):",
+  "summary": "Schemes — Jal Jeevan Mission (JJM):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Launched on 15th August 2019, aims to provide 55 liters of safe drinking water per person per",
+        "day to every rural household through functional tap connections by 2024. Managed by the Ministry",
+        "of Jal Shakti, its goal is to ensure no household is left without access to water, with a focus on water",
+        "quality monitoring, greywater management, and sustainable water practices.",
+        "Key Details:",
+        " Tagline: \"Har Ghar Jal\"",
+        " Funding: 50:50 (States) and 90:10 (Hilly areas)",
+        " Progress: As of 2024, 78% of rural households (15.1 crore) will have access to tap water.",
+        " Notable States: Goa, Gujarat, Punjab, Haryana, Himachal Pradesh, and more have achieved",
+        "100% tap water coverage.",
+        " Goa became India's first \"Har Ghar Jal\" state."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Agriculture, Energy & Water Resources"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.510Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-50",
+      "sourceTitle": "Jal Jeevan Mission (JJM):",
+      "sourceChecksum": "3c4ab992255ed0ee0f6e784efc5a5f8728ccc5a338ff7174cb35ce5dc743d896",
+      "migrationTimestamp": "2026-08-15T12:14:01.510Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

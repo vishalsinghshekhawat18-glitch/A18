@@ -1,0 +1,49 @@
+{
+  "id": "migrated-schemes-scheme-161",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Rashtriya Gram Swaraj Abhiyan (RGSA):",
+  "summary": "Schemes — Rashtriya Gram Swaraj Abhiyan (RGSA):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Launch: 2018",
+        "Ministry: Ministry of Panchayati Raj",
+        "Objective: Strengthen Panchayati Raj Institutions (PRIs) to achieve SDGs.",
+        "Phases:",
+        " Phase I: 2018–2022",
+        " Phase II: 2023–2026",
+        "Features:",
+        " Capacity building, financial support, and e-Governance (e-GramSwaraj).",
+        " Focus on 117 Aspirational Districts and inclusive development.",
+        " Infrastructure upgrades and sustainable planning.",
+        "Funding:",
+        " 60:40 (General States), 90:10 (NE/Himalayan), 100% (UTs)."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.681Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-161",
+      "sourceTitle": "Rashtriya Gram Swaraj Abhiyan (RGSA):",
+      "sourceChecksum": "81f0b6951a089525c9d75b3af71dc6b0c2d3020582ea05b877ef3ab407c18502",
+      "migrationTimestamp": "2026-08-15T12:14:02.681Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

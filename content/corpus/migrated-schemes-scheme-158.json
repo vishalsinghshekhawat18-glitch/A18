@@ -1,0 +1,42 @@
+{
+  "id": "migrated-schemes-scheme-158",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Energy: 24% (Power Generation, Renewable Energy)",
+  "summary": "Schemes — Energy: 24% (Power Generation, Renewable Energy)",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        " Objective:",
+        " Propel India to a $5 trillion economy.",
+        " Boost employment and capital expenditure.",
+        " Modernize infrastructure to meet demographic needs.",
+        " Task Force: Formulated on the recommendations of the Atanu Chakraborty Task Force."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.681Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-158",
+      "sourceTitle": "Energy: 24% (Power Generation, Renewable Energy)",
+      "sourceChecksum": "8ae14716ada1faa9dd3b0065dacc2833225ed6e1be17e0c949bbddaefb18e5d9",
+      "migrationTimestamp": "2026-08-15T12:14:02.681Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

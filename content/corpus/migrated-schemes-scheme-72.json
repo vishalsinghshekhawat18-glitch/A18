@@ -1,0 +1,39 @@
+{
+  "id": "migrated-schemes-scheme-72",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Parks: 7 locations in Tamil Nadu, Telangana, Karnataka, Maharashtra, Gujarat, Madhya",
+  "summary": "Schemes — Parks: 7 locations in Tamil Nadu, Telangana, Karnataka, Maharashtra, Gujarat, Madhya",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Pradesh, and Uttar Pradesh.",
+        "o First Park: Virudhunagar, Tamil Nadu"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "MSME, Industry & Commerce Schemes"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.511Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-72",
+      "sourceTitle": "Parks: 7 locations in Tamil Nadu, Telangana, Karnataka, Maharashtra, Gujarat, Madhya",
+      "sourceChecksum": "e6095e7e06f69b0c381b3252887be43f4e0c48ce8cb20eb8ac1eb67b9101417b",
+      "migrationTimestamp": "2026-08-15T12:14:01.511Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

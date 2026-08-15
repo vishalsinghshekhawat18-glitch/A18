@@ -1,0 +1,42 @@
+{
+  "id": "migrated-schemes-scheme-122",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Pradhan Mantri Matru Vandana Yojana (PMMVY):",
+  "summary": "Schemes — Pradhan Mantri Matru Vandana Yojana (PMMVY):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Launched: January 1, 2017",
+        "Ministry: Ministry of Women and Child Development",
+        "Tagline: Matru Shakti - Rashtra Shakti",
+        "Key Features:",
+        "o Financial Assistance: Rs. 5000 in 3 installments after the first live birth:"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.104Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-122",
+      "sourceTitle": "Pradhan Mantri Matru Vandana Yojana (PMMVY):",
+      "sourceChecksum": "f64a57795db2ba3796dde853be76f1d1afc51e7651a28de0f425d7e863bbf8b3",
+      "migrationTimestamp": "2026-08-15T12:14:02.104Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

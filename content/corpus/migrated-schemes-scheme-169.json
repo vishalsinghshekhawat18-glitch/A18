@@ -1,0 +1,43 @@
+{
+  "id": "migrated-schemes-scheme-169",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "PM - E-DRIVE Scheme:",
+  "summary": "Schemes — PM - E-DRIVE Scheme:",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "A ₹ 10,900 crore initiative to promote electric vehicles (EVs) and reduce emissions.",
+        " Targets: 24 lakh two-wheelers, 3.16 lakh three-wheelers, 14,000 buses.",
+        " Focus Areas: Subsidies, charging infrastructure, battery R&D, skill development, and green",
+        "zones.",
+        " Outcomes: Cleaner transport, domestic manufacturing boost, and reduced fuel imports.",
+        " Timeline: 2025-2030 in phased implementation."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.681Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-169",
+      "sourceTitle": "PM - E-DRIVE Scheme:",
+      "sourceChecksum": "9a3d5996e90ad9559728001fb9bfaaa345247f26482b208878e7e305025fda15",
+      "migrationTimestamp": "2026-08-15T12:14:02.681Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

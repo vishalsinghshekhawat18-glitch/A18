@@ -1,0 +1,129 @@
+{
+  "id": "migrated-staticga-ch1-sub3",
+  "type": "static_note",
+  "domain": "static-ga",
+  "title": "Part 2: Public Sector Banks (PSB) & Financial Intermediaries",
+  "summary": "StaticGA — Part 2: Public Sector Banks (PSB) & Financial Intermediaries",
+  "blocks": [
+    {
+      "type": "comparison",
+      "title": "Part 2: Public Sector Banks (PSB) & Financial Intermediaries",
+      "headers": [
+        "Person (Appointee)",
+        "Position / Designation",
+        "Entity / Institution",
+        "Effective Date / Term",
+        "Predecessor / Status"
+      ],
+      "rows": [
+        [
+          "Challa Sreenivasulu Setty",
+          "27th Chairman",
+          "State Bank of India (SBI)",
+          "Aug 28, 2024",
+          "Succeeded Dinesh Kumar Khara (3-year term)."
+        ],
+        [
+          "Brajesh Kumar Singh",
+          "MD & CEO",
+          "Canara Bank",
+          "May 30, 2026",
+          "Succeeded K. Satyanarayana Raju."
+        ],
+        [
+          "Ashok Chandra",
+          "MD & CEO",
+          "Punjab National Bank (PNB)",
+          "Jan 16, 2025",
+          "Assumed charge."
+        ],
+        [
+          "Binod Kumar",
+          "MD & CEO",
+          "Indian Bank",
+          "Jan 16, 2025",
+          "Assumed charge."
+        ],
+        [
+          "Asheesh Pandey",
+          "MD & CEO",
+          "Union Bank of India",
+          "Oct 2025",
+          "Appointed for 3-year term."
+        ],
+        [
+          "Kalyan Kumar",
+          "MD & CEO",
+          "Central Bank of India",
+          "Mid-2025",
+          "Appointed for 3-year term."
+        ],
+        [
+          "Rajneesh Karnatak",
+          "MD & CEO",
+          "Bank of India",
+          "April 2026",
+          "Term extended for 3 years by central government."
+        ],
+        [
+          "Shaji K. V.",
+          "Chairman",
+          "NABARD",
+          "Dec 7, 2022",
+          "Succeeded G. R. Chintala."
+        ],
+        [
+          "Harsha Bangari",
+          "Managing Director",
+          "EXIM Bank",
+          "Sept 2021",
+          "Appointed for 3-year term."
+        ],
+        [
+          "Rajkiran Rai G.",
+          "Managing Director",
+          "NaBFID",
+          "Aug 8, 2022",
+          "Appointed for term ending May 18, 2027."
+        ],
+        [
+          "Manoj Mittal",
+          "Chairman & MD",
+          "SIDBI",
+          "July 2024",
+          "Succeeded Sivasubramanian Ramann."
+        ],
+        [
+          "Sanjay Shukla",
+          "Managing Director",
+          "NHB",
+          "July 30, 2024",
+          "Succeeded Sarada Kumar Hota."
+        ]
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "staticga",
+      "general"
+    ],
+    "category": "StaticGA",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.681Z",
+    "provenance": {
+      "sourceSystem": "StaticGA",
+      "sourceFile": "ca_app/static_ga_data.js",
+      "sourceId": "ch1-sub3",
+      "sourceTitle": "Part 2: Public Sector Banks (PSB) & Financial Intermediaries",
+      "sourceChecksum": "ab36b52164136ea57e521099d54582e8ad557369bd3388e2cca5717df54debfc",
+      "migrationTimestamp": "2026-08-15T12:14:02.681Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

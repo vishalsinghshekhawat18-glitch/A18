@@ -1,0 +1,40 @@
+{
+  "id": "migrated-staticga-ch4-sub3",
+  "type": "static_note",
+  "domain": "static-ga",
+  "title": "Exam Revision Corner (Reports & Indices)",
+  "summary": "StaticGA — Exam Revision Corner (Reports & Indices)",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "≠ **Base Year Split:** CPI base year is **2024**, while GDP, IIP, and WPI base years are **2022–23**.",
+        "⚠️ **Nodal Agency Distinction:** WPI is compiled by **Office of Economic Adviser, DPIIT** (Ministry of Commerce), while GDP, IIP, and CPI are handled by **MoSPI (NSO)**.",
+        "🔗 **Publisher Mnemonics:** WIPO -> GII (*With Great Innovation*); UNDP -> HDI (*Uniting Human Development*); WEF -> Gender Gap; World Bank -> LPI."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "staticga",
+      "general"
+    ],
+    "category": "StaticGA",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:03.191Z",
+    "provenance": {
+      "sourceSystem": "StaticGA",
+      "sourceFile": "ca_app/static_ga_data.js",
+      "sourceId": "ch4-sub3",
+      "sourceTitle": "Exam Revision Corner (Reports & Indices)",
+      "sourceChecksum": "7b861e3f045a684c612271e6a1f27963d574cfbd75c584c271eeed6e76f88c57",
+      "migrationTimestamp": "2026-08-15T12:14:03.191Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

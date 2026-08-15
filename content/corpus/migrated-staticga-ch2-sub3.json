@@ -1,0 +1,39 @@
+{
+  "id": "migrated-staticga-ch2-sub3",
+  "type": "static_note",
+  "domain": "static-ga",
+  "title": "Monetary Policy Instruments Deep Dive (Direct vs Indirect Tools)",
+  "summary": "StaticGA — Monetary Policy Instruments Deep Dive (Direct vs Indirect Tools)",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "**DIRECT INSTRUMENTS (Statutory Reserve Mandates):**\n• Cash Reserve Ratio (CRR): Mandatory cash reserves held with RBI under Section 42(1) RBI Act.\n• Statutory Liquidity Ratio (SLR): Mandatory liquid assets held under Section 24 BR Act 1949.",
+        "**INDIRECT INSTRUMENTS (Market Liquidity Facilities):**\n• Repo & Reverse Repo: Overnight collateralized lending/borrowing benchmark.\n• Standing Deposit Facility (SDF): Uncollateralized deposit floor window (6.25%).\n• Marginal Standing Facility (MSF): Emergency overnight borrowing ceiling window (6.75%).\n• Open Market Operations (OMO): Outright purchase/sale of G-Secs for durable liquidity."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "staticga",
+      "general"
+    ],
+    "category": "StaticGA",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:03.189Z",
+    "provenance": {
+      "sourceSystem": "StaticGA",
+      "sourceFile": "ca_app/static_ga_data.js",
+      "sourceId": "ch2-sub3",
+      "sourceTitle": "Monetary Policy Instruments Deep Dive (Direct vs Indirect Tools)",
+      "sourceChecksum": "92dd9b636fd042fa07e4c2121ee129fbf964d3dc037cfb9541570358edd29384",
+      "migrationTimestamp": "2026-08-15T12:14:03.189Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "migrated-schemes-scheme-131",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Mission Shakti (2021-2026):",
+  "summary": "Schemes — Mission Shakti (2021-2026):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Objective: To monitor and implement schemes aimed at empowering and supporting women,",
+        "enhancing their safety, welfare, and socio-economic status.",
+        "Key Sub-Schemes:"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.680Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-131",
+      "sourceTitle": "Mission Shakti (2021-2026):",
+      "sourceChecksum": "d463218177a22c92ed94f982a567ec456b24de4bd52f8a9f53d7e1a68891e196",
+      "migrationTimestamp": "2026-08-15T12:14:02.680Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "migrated-quant-qsec3-2",
+  "type": "quant_topic",
+  "domain": "quant",
+  "title": "3.2 Shortcuts & Estimation Tricks",
+  "summary": "Quant — 3.2 Shortcuts & Estimation Tricks",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Approximate before exact**: round to nearest 10/100 to estimate range first; calculate exactly only if options are close",
+        "**Option elimination**: use unit digit/rough magnitude to eliminate 2-3 options instantly",
+        "**Visual estimation**: for highest/lowest questions, read directly off the chart",
+        "**Total-first trick**: compute grand total once, reuse across the whole question set",
+        "**Fraction shortcut reuse**: apply the 1/n → % table from Arithmetic to pie/ratio questions"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "quant",
+      "general"
+    ],
+    "category": "Quant",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:03.201Z",
+    "provenance": {
+      "sourceSystem": "Quant",
+      "sourceFile": "ca_app/quant_data.js",
+      "sourceId": "qsec3-2",
+      "sourceTitle": "3.2 Shortcuts & Estimation Tricks",
+      "sourceChecksum": "7b42e97d205094f600e8b2481e2de06742bb4c439c6b4cac2df16689e4314d85",
+      "migrationTimestamp": "2026-08-15T12:14:03.201Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

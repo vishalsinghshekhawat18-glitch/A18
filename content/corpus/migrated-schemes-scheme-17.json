@@ -1,0 +1,39 @@
+{
+  "id": "migrated-schemes-scheme-17",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Special Focus:",
+  "summary": "Schemes — Special Focus:",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        " Model Solar Village: One village per district",
+        " Population Requirement: 5,000 people per village (2,000 in special states)"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.065Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-17",
+      "sourceTitle": "Special Focus:",
+      "sourceChecksum": "f6bae768f14458a8376cd01660c1e497b8a84984975c7dd98e31d9a384c61235",
+      "migrationTimestamp": "2026-08-15T12:14:01.065Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

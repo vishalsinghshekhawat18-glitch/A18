@@ -1,0 +1,46 @@
+{
+  "id": "migrated-schemes-scheme-62",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "MSME Competitive LEAN Scheme:",
+  "summary": "Schemes — MSME Competitive LEAN Scheme:",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Boosting Global Competitiveness for Small Enterprises",
+        "Launched in March 2023 by the Ministry of MSME, the scheme focuses on waste reduction,",
+        "productivity enhancement, and quality improvement for Micro, Small, and Medium Enterprises",
+        "(MSMEs) through Lean manufacturing principles.",
+        "o Key Features:",
+        " Waste reduction & efficiency improvement",
+        " 90% government-funded consultancy",
+        " Expert guidance from the National Productivity Council (NPC)",
+        " Aiming for global competitiveness & sustainability"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "MSME, Industry & Commerce Schemes"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.511Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-62",
+      "sourceTitle": "MSME Competitive LEAN Scheme:",
+      "sourceChecksum": "358ab3fc947e11e2f1b1fe59581cd83208fb42c8efa66ff98af71114e27e87ab",
+      "migrationTimestamp": "2026-08-15T12:14:01.511Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

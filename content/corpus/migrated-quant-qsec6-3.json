@@ -1,0 +1,60 @@
+{
+  "id": "migrated-quant-qsec6-3",
+  "type": "quant_topic",
+  "domain": "quant",
+  "title": "6.3 Worked Examples",
+  "summary": "Quant — 6.3 Worked Examples",
+  "blocks": [
+    {
+      "type": "worked_example",
+      "title": "Quantity-based: find the number. Is x kn...",
+      "question": "Quantity-based: find the number. Is x known? I. x²=49. II. x is a positive integer.",
+      "given": [],
+      "method": "Step-by-Step Solution Method",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "explanation": "I alone → x=±7 (insufficient). II alone → any positive integer (insufficient). Combined → x=7 only. Both together needed.\n*Pattern: squares carry a hidden ± unless a sign constraint is also given.*"
+        }
+      ],
+      "answer": "I alone → x=±7 (insufficient). II alone → any positive integer (insufficient). Combined → x=7 only. Both together needed.\n*Pattern: squares carry a hidden ± unless a sign constraint is also given.*"
+    },
+    {
+      "type": "worked_example",
+      "title": "Comparison-based: is x>y? I. x=y+5. II. ...",
+      "question": "Comparison-based: is x>y? I. x=y+5. II. y>0.",
+      "given": [],
+      "method": "Step-by-Step Solution Method",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "explanation": "I alone → x=y+5 means x>y always, regardless of y (sufficient). II alone → tells nothing about relation. Answer: I alone sufficient.\n*Pattern: a direct algebraic relation between two variables is often enough alone.*"
+        }
+      ],
+      "answer": "I alone → x=y+5 means x>y always, regardless of y (sufficient). II alone → tells nothing about relation. Answer: I alone sufficient.\n*Pattern: a direct algebraic relation between two variables is often enough alone.*"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "quant",
+      "general"
+    ],
+    "category": "Quant",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:03.201Z",
+    "provenance": {
+      "sourceSystem": "Quant",
+      "sourceFile": "ca_app/quant_data.js",
+      "sourceId": "qsec6-3",
+      "sourceTitle": "6.3 Worked Examples",
+      "sourceChecksum": "535a149ac303b9212093806336ee73006f51553ef5e1f81b592cd2aad26d562c",
+      "migrationTimestamp": "2026-08-15T12:14:03.201Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

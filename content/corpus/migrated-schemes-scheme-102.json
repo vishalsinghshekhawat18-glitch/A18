@@ -1,0 +1,46 @@
+{
+  "id": "migrated-schemes-scheme-102",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "PM YASASVI (PM Young Achievers Scholarship Award Scheme for Vibrant India):",
+  "summary": "Schemes — PM YASASVI (PM Young Achievers Scholarship Award Scheme for Vibrant India):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "o Launched: 2021-22",
+        "o Objective: Financial aid for education and hostel facilities for OBC, EBC, and DNT students",
+        "o Eligibility: Family income below Rs. 2.5 lakh per year",
+        "o Key Features:",
+        " Pre-matric (Class 9-10): Rs. 4000 per year",
+        " Post-matric (Graduation): Rs. 5000 to Rs. 20,000 per year",
+        " Top Class School Education (Class 9-12): Rs. 75,000 to Rs. 1.25 lakh per year",
+        " Top Class College Education: Rs. 2 lakh to Rs. 3.72 lakh per year",
+        " Hostel Construction for OBC students"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.104Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-102",
+      "sourceTitle": "PM YASASVI (PM Young Achievers Scholarship Award Scheme for Vibrant India):",
+      "sourceChecksum": "cce9478eac7a11594b142739b36d1e867e443411873c95be8311201fd4b2f0a4",
+      "migrationTimestamp": "2026-08-15T12:14:02.104Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

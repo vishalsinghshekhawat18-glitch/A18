@@ -1,0 +1,40 @@
+{
+  "id": "migrated-staticga-ch11-sub2",
+  "type": "static_note",
+  "domain": "static-ga",
+  "title": "Overseas Account Terminology & Money Supply Aggregates",
+  "summary": "StaticGA — Overseas Account Terminology & Money Supply Aggregates",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Nostro Account ('Our account with you'):** An Indian bank's account held in a foreign bank abroad in foreign currency (e.g. SBI holding USD account with Citibank NY).",
+        "**Vostro Account ('Your account with us'):** A foreign bank's account held in an Indian bank in India in INR (e.g. Sberbank Russia holding Rupee account with UCO Bank Kolkata).",
+        "**Loro Account ('Their account'):** A third bank referencing another bank's Nostro/Vostro account."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "staticga",
+      "general"
+    ],
+    "category": "StaticGA",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:03.194Z",
+    "provenance": {
+      "sourceSystem": "StaticGA",
+      "sourceFile": "ca_app/static_ga_data.js",
+      "sourceId": "ch11-sub2",
+      "sourceTitle": "Overseas Account Terminology & Money Supply Aggregates",
+      "sourceChecksum": "f839a07a143da8aa5461672dec6a4fa4a1c95d30124a46dbdb7641eef76e2a81",
+      "migrationTimestamp": "2026-08-15T12:14:03.194Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

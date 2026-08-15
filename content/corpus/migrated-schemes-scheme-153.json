@@ -1,0 +1,45 @@
+{
+  "id": "migrated-schemes-scheme-153",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "BHARAT SHRI Scheme :",
+  "summary": "Schemes — BHARAT SHRI Scheme :",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Full Form: Bharat Shared Repository of Inscriptions",
+        "Announced: Budget 2023-24",
+        "Key Features:",
+        " Digital repository for one lakh ancient inscriptions.",
+        " Set up by ASI in Hyderabad.",
+        " Utilizes AI and 3D imaging for preservation and accessibility.",
+        "Significance:",
+        " Preserves cultural heritage, supports research, and promotes global access."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.681Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-153",
+      "sourceTitle": "BHARAT SHRI Scheme :",
+      "sourceChecksum": "8c0b23c2b1d4e2fef38c04ca749a2d2c3a5fdc895a7426f3fb6f67b8306d92f2",
+      "migrationTimestamp": "2026-08-15T12:14:02.681Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

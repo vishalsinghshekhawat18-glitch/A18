@@ -1,0 +1,45 @@
+{
+  "id": "migrated-schemes-scheme-90",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Improving waste management.",
+  "summary": "Schemes — Improving waste management.",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Key Achievements:",
+        "o 4715 Urban Bodies declared ODF.",
+        "o Phase II (from 1st Oct 2021) aims for garbage-free cities, promoting waste segregation and",
+        "recycling.",
+        "Key Initiatives:",
+        "o Swachh Survekshan (annual cleanliness survey).",
+        "o Door-to-door waste collection and segregation.",
+        "o Waste-to-energy projects and capacity building for Urban Local Bodies."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "MSME, Industry & Commerce Schemes"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.103Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-90",
+      "sourceTitle": "Improving waste management.",
+      "sourceChecksum": "9be6b392f2782ecd786b2fa387cd007a246b3fa87ccbac6c12bfe4b44cbb581b",
+      "migrationTimestamp": "2026-08-15T12:14:02.103Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

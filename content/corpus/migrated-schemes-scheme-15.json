@@ -1,0 +1,43 @@
+{
+  "id": "migrated-schemes-scheme-15",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Financials:",
+  "summary": "Schemes — Financials:",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        " Total Budget: ₹75,000 crores",
+        "-- 4 of 47 --",
+        "5\tONE STOP SOLUTION FOR IAS, RAS, SI",
+        "Youtube \tTelegram",
+        "Indian Economy \tScheme",
+        " Grant for Model Solar Village: ₹1 crore per village"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.065Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-15",
+      "sourceTitle": "Financials:",
+      "sourceChecksum": "c757e754dea84c63f2cf4ec020ccc26c2b33e88fcde2873c3c988948a9419f97",
+      "migrationTimestamp": "2026-08-15T12:14:01.065Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

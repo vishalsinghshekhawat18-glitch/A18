@@ -1,0 +1,70 @@
+{
+  "id": "migrated-ca-ca-2026-08-12-andras-baka-president-hungary",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Andras Baka Elected President of Hungary",
+  "summary": "Andras Baka elected President of Hungary.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Andras Baka elected President of Hungary."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Appointed Position:** President of Hungary.",
+        "**Country Capital & Currency:** Capital: Budapest; Currency: Hungarian Forint (HUF)."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Appointee / Official",
+        "New Position & Organization",
+        "Key Context & Details"
+      ],
+      "rows": [
+        [
+          "Andras Baka",
+          "President of Hungary",
+          "Elected President of Hungary (Capital: Budapest)."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Hungary Capital: Budapest. Currency: Forint."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "≠ **Office:** President of Hungary."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-12",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.063Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "ca_2026_08_12_andras_baka_president_hungary",
+      "sourceTitle": "Andras Baka Elected President of Hungary",
+      "sourceChecksum": "7843fe34b318bef9889033f1af8e891c57207356e1631f310fe11f034e902602",
+      "migrationTimestamp": "2026-08-15T12:14:01.063Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

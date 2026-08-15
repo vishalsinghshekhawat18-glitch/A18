@@ -1,0 +1,46 @@
+{
+  "id": "migrated-schemes-scheme-170",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Pradhan Mantri Ujjwala Yojana (PMUY) :",
+  "summary": "Schemes — Pradhan Mantri Ujjwala Yojana (PMUY) :",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        " Launch Date: 1 May 2016 (Ballia, UP)",
+        " Ministry: Petroleum and Natural Gas",
+        " Tagline: Clean Fuel, Better Life",
+        " Objective: Provide free LPG connections to 8 crore underprivileged families by 2020.",
+        "Key Features",
+        " ₹ 1600 financial assistance per connection.",
+        " 12 annual refills with ₹300 subsidy per cylinder.",
+        " Beneficiaries: Women from SC/ST, BPL, Antyodaya, tea garden workers, islanders, forest",
+        "dwellers, and PMAY-G families."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.681Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-170",
+      "sourceTitle": "Pradhan Mantri Ujjwala Yojana (PMUY) :",
+      "sourceChecksum": "78c143248d7b6ea8b54d131992048f695a610885d7b3deebfbb5bd725a36de81",
+      "migrationTimestamp": "2026-08-15T12:14:02.681Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

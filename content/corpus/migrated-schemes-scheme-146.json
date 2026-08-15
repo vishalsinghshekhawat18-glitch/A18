@@ -1,0 +1,51 @@
+{
+  "id": "migrated-schemes-scheme-146",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Aatmanirbhar Bharat Rojgar Yojana (ABRY):",
+  "summary": "Schemes — Aatmanirbhar Bharat Rojgar Yojana (ABRY):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "o Launched: October 2020",
+        "o Objective: To promote formal employment and enhance social security.",
+        "-- 40 of 47 --",
+        "41\tONE STOP SOLUTION FOR IAS, RAS, SI",
+        "Youtube \tTelegram",
+        "Indian Economy \tScheme",
+        "o Coverage:",
+        " For establishments with ≤1,000 employees: Government covers both employee and",
+        "employer EPF (24% of wages).",
+        " For establishments with >1,000 employees: Government covers only the employee’s EPF",
+        "(12% of wages).",
+        "o Eligibility: Employees earning less than Rs 15,000 per month and newly hired.",
+        "o Time Frame: Coverage lasts for two years or until the scheme concludes.",
+        "o Goal: Reduce employers' financial burden and promote job creation."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.681Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-146",
+      "sourceTitle": "Aatmanirbhar Bharat Rojgar Yojana (ABRY):",
+      "sourceChecksum": "9ecccf22d6ee2d446ac15a49adb6a28564353eeb62679955115e999274e437cf",
+      "migrationTimestamp": "2026-08-15T12:14:02.681Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

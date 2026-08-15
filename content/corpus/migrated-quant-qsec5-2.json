@@ -1,0 +1,40 @@
+{
+  "id": "migrated-quant-qsec5-2",
+  "type": "quant_topic",
+  "domain": "quant",
+  "title": "5.2 Shortcuts & Tricks",
+  "summary": "Quant — 5.2 Shortcuts & Tricks",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Check order**: differences → ratio → square/cube ± constant; if 1st diffs aren't constant, check 2nd-level diff",
+        "**Gap size reading**: small growing gaps → square/cube; doubling gaps → ×2 or Fibonacci; constant gaps → AP",
+        "**Approximation rounding**: round to a value that simplifies arithmetic; round all terms in same direction to avoid compounding error"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "quant",
+      "general"
+    ],
+    "category": "Quant",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:03.201Z",
+    "provenance": {
+      "sourceSystem": "Quant",
+      "sourceFile": "ca_app/quant_data.js",
+      "sourceId": "qsec5-2",
+      "sourceTitle": "5.2 Shortcuts & Tricks",
+      "sourceChecksum": "e5d272700f15c597ba03c34ec0e6c761881d67f24f35dbd37ff0cb4f7eadb2f5",
+      "migrationTimestamp": "2026-08-15T12:14:03.201Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

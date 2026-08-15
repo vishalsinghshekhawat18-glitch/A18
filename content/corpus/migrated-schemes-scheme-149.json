@@ -1,0 +1,49 @@
+{
+  "id": "migrated-schemes-scheme-149",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Project Sagarmala (2016–2025):",
+  "summary": "Schemes — Project Sagarmala (2016–2025):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Objective: Transform India's maritime sector through port modernization, new port construction,",
+        "enhanced connectivity, and port-linked industrialization.",
+        "Key Features:",
+        " Ministry: Ports, Shipping, and Waterways",
+        " Budget: ₹8.37 lakh crore",
+        " Projects: 839 planned initiatives",
+        " Major Developments:",
+        "o Modernization of 12 major ports (e.g., Sagar Island, Kanyakumari, Vadhavan).",
+        "o Establishment of 14 Coastal Economic Zones (CEZs).",
+        "o Focus on reducing logistics costs and boosting exports.",
+        "Executing Agency:",
+        "Sagarmala Development Company Ltd. (est. 2016)."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.681Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-149",
+      "sourceTitle": "Project Sagarmala (2016–2025):",
+      "sourceChecksum": "c718f1f2496cac47f8606dc30822fd863a168942b401a57f58a54216662f9e85",
+      "migrationTimestamp": "2026-08-15T12:14:02.681Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

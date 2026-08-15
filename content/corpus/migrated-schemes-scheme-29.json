@@ -1,0 +1,36 @@
+{
+  "id": "migrated-schemes-scheme-29",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Education:",
+  "summary": "Schemes — Education:",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "o Higher enrollment, tribal hostels, and scholarships."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.509Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-29",
+      "sourceTitle": "Education:",
+      "sourceChecksum": "41e931194740d20aa3196faa9aa3f9687506b8467dd3554f8a6c1761b77aed6b",
+      "migrationTimestamp": "2026-08-15T12:14:01.509Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

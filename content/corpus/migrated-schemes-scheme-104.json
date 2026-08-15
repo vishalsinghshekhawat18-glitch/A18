@@ -1,0 +1,40 @@
+{
+  "id": "migrated-schemes-scheme-104",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Post Matric:",
+  "summary": "Schemes — Post Matric:",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "o Technical: Rs. 7000 (Rs. 13,500 for hostel).",
+        "o Other Degrees: Rs. 6500 (Rs. 9500 for hostel).",
+        "o Family income < Rs. 2.5 lakhs."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.104Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-104",
+      "sourceTitle": "Post Matric:",
+      "sourceChecksum": "a4c42792c3f1f52685901cc4e187c27f2786b88a76cd8aa350e5a334e999b2fb",
+      "migrationTimestamp": "2026-08-15T12:14:02.104Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

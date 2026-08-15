@@ -40,14 +40,14 @@
     "date": "2026-07-04",
     "category": "SEC2",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:13:26.381Z",
+    "lastUpdated": "2026-08-15T12:13:58.687Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "ca_app/data.js",
       "sourceId": "note-sec2-240",
       "sourceTitle": "Income Tax Data: 576 Individuals Report Gross Income Above ₹100 Crore in AY 2025-26",
       "sourceChecksum": "751f44ca3b4bb2df8db1a7752b6d269768b029dcee5f902617f77b4ec76c91a9",
-      "migrationTimestamp": "2026-08-15T12:13:26.381Z",
+      "migrationTimestamp": "2026-08-15T12:13:58.687Z",
       "normalizationRuleVersion": "1.0.0-phase4"
     }
   }

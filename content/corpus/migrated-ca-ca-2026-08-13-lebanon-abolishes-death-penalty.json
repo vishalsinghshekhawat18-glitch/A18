@@ -1,0 +1,53 @@
+{
+  "id": "migrated-ca-ca-2026-08-13-lebanon-abolishes-death-penalty",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Lebanon Becomes 1st Country in Arab World to Abolish Death Penalty",
+  "summary": "Lebanon abolished death penalty, replacing it with life imprisonment with aggravated hard labour.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Lebanon abolished death penalty, replacing it with life imprisonment with aggravated hard labour."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Historic Reform:** First Arab world country to abolish death penalty, replacing it with life imprisonment."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Lebanon Capital: Beirut. Currency: Lebanese Pound."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "≠ **First Arab Country:** Lebanon."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-13",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.063Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "ca_2026_08_13_lebanon_abolishes_death_penalty",
+      "sourceTitle": "Lebanon Becomes 1st Country in Arab World to Abolish Death Penalty",
+      "sourceChecksum": "d8fa124720ceba974a5a076564a59e51b4f759e4b22d3dc1b5f0f72b929620e7",
+      "migrationTimestamp": "2026-08-15T12:14:01.063Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

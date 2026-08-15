@@ -1,0 +1,41 @@
+{
+  "id": "migrated-quant-qsec1-3",
+  "type": "quant_topic",
+  "domain": "quant",
+  "title": "1.3 Frustum & Combined Solids (Formulas & Method Worked Examples)",
+  "summary": "Quant — 1.3 Frustum & Combined Solids (Formulas & Method Worked Examples)",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Frustum Volume Formula & Method:** $V = \\frac{\\pi h}{3}(R^2 + r^2 + R r)$ | Slant Height $l = \\sqrt{h^2 + (R-r)^2}$",
+        "**Frustum Surface Area:** $\\text{CSA} = \\pi (R+r) l$ | $\\text{TSA} = \\pi (R+r) l + \\pi R^2 + \\pi r^2$",
+        "**Sphere Inscribed in Cube Shortcut:** Sphere radius $r = a/2$ $\\rightarrow$ $\\frac{\\text{Volume of Sphere}}{\\text{Volume of Cube}} = \\frac{\\pi}{6} \\approx 0.524$",
+        "📝 **Worked Example (Frustum Volume Method):** A frustum bucket has top radius $R = 20\\text{ cm}$, bottom radius $r = 10\\text{ cm}$, and height $h = 15\\text{ cm}$. Find its volume.\n*Method:* Recognize Frustum $\\rightarrow$ Substitute $R=20, r=10, h=15 \\implies V = \\frac{\\pi \\times 15}{3} (20^2 + 10^2 + 20\\times 10) = 5\\pi (400 + 100 + 200) = 3,500\\pi \\approx 10,995.5 \\text{ cm}^3$."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "quant",
+      "general"
+    ],
+    "category": "Quant",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:03.200Z",
+    "provenance": {
+      "sourceSystem": "Quant",
+      "sourceFile": "ca_app/quant_data.js",
+      "sourceId": "qsec1-3",
+      "sourceTitle": "1.3 Frustum & Combined Solids (Formulas & Method Worked Examples)",
+      "sourceChecksum": "e7994d3c32343ed4b16444fa6d71b9c8a5497d60d76e7f5947f49583e072b7aa",
+      "migrationTimestamp": "2026-08-15T12:14:03.200Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

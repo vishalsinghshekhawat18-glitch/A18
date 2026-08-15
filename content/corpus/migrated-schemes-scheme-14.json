@@ -1,0 +1,36 @@
+{
+  "id": "migrated-schemes-scheme-14",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Key Objectives:",
+  "summary": "Schemes — Key Objectives:",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": " Provide 300 units/month of electricity to 1 crore consumers"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.065Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-14",
+      "sourceTitle": "Key Objectives:",
+      "sourceChecksum": "5ff37f7a612ac30fee39771d63b71e4708891f28d26b6102afa28e85211ca87e",
+      "migrationTimestamp": "2026-08-15T12:14:01.065Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

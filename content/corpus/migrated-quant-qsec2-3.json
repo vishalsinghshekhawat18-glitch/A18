@@ -1,0 +1,88 @@
+{
+  "id": "migrated-quant-qsec2-3",
+  "type": "quant_topic",
+  "domain": "quant",
+  "title": "2.3 Worked Examples",
+  "summary": "Quant — 2.3 Worked Examples",
+  "blocks": [
+    {
+      "type": "worked_example",
+      "title": "CI−SI difference to find principal. diff...",
+      "question": "CI−SI difference to find principal. diff(2yr)=64, R=8%.",
+      "given": [],
+      "method": "Step-by-Step Solution Method",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "explanation": "64 = P(0.08)² → P = 64 / 0.0064 = ₹10,000.\n*Pattern: use the direct difference formula, never compute full SI and CI separately.*"
+        }
+      ],
+      "answer": "64 = P(0.08)² → P = 64 / 0.0064 = ₹10,000.\n*Pattern: use the direct difference formula, never compute full SI and CI separately.*"
+    },
+    {
+      "type": "worked_example",
+      "title": "Partnership with time gap. A invests ₹50...",
+      "question": "Partnership with time gap. A invests ₹5000 for 12 months, B invests ₹6000 for 8 months.",
+      "given": [],
+      "method": "Step-by-Step Solution Method",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "explanation": "A's unit = 60,000; B's unit = 48,000; Profit ratio = 5:4.\n*Pattern: multiply capital × actual months invested, not total duration.*"
+        }
+      ],
+      "answer": "A's unit = 60,000; B's unit = 48,000; Profit ratio = 5:4.\n*Pattern: multiply capital × actual months invested, not total duration.*"
+    },
+    {
+      "type": "worked_example",
+      "title": "Work with efficiency change midway. A: 2...",
+      "question": "Work with efficiency change midway. A: 20 days, B: 30 days; B leaves after 6 days.",
+      "given": [],
+      "method": "Step-by-Step Solution Method",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "explanation": "Total work = LCM(20,30) = 60 units. A's rate = 3/day, B's rate = 2/day. 6 days together = 30 units done, 30 remain. A alone takes 30/3 = 10 more days.\n*Pattern: LCM method turns fraction-heavy problems into clean integers.*"
+        }
+      ],
+      "answer": "Total work = LCM(20,30) = 60 units. A's rate = 3/day, B's rate = 2/day. 6 days together = 30 units done, 30 remain. A alone takes 30/3 = 10 more days.\n*Pattern: LCM method turns fraction-heavy problems into clean integers.*"
+    },
+    {
+      "type": "worked_example",
+      "title": "Mixture with repeated replacement. 80L m...",
+      "question": "Mixture with repeated replacement. 80L milk, 8L replaced with water twice.",
+      "given": [],
+      "method": "Step-by-Step Solution Method",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "explanation": "Milk left = 80(1−8/80)² = 80(0.81) = 64.8L.\n*Pattern: repeated-replacement uses (1−x/n)ⁿ directly.*"
+        }
+      ],
+      "answer": "Milk left = 80(1−8/80)² = 80(0.81) = 64.8L.\n*Pattern: repeated-replacement uses (1−x/n)ⁿ directly.*"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "quant",
+      "general"
+    ],
+    "category": "Quant",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:03.201Z",
+    "provenance": {
+      "sourceSystem": "Quant",
+      "sourceFile": "ca_app/quant_data.js",
+      "sourceId": "qsec2-3",
+      "sourceTitle": "2.3 Worked Examples",
+      "sourceChecksum": "a8033b0f3b12f617f97f73e48abb9fcca259f9b7853309f4f714f4cf288d7e5a",
+      "migrationTimestamp": "2026-08-15T12:14:03.201Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

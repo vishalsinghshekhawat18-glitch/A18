@@ -1,0 +1,44 @@
+{
+  "id": "migrated-schemes-scheme-143",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Antyodaya Shramik Suraksha Yojana:",
+  "summary": "Schemes — Antyodaya Shramik Suraksha Yojana:",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        " Launch Date: 8th July 2023 (Nadiad, Gujarat)",
+        " Goal: Provide insurance coverage to workers, especially in the informal sector.",
+        "Key Features:",
+        " Insurance Coverage: ₹5 lakh or ₹10 lakh.",
+        " Premium Rates: ₹289 (for ₹5 lakh) and ₹499 (for ₹10 lakh).",
+        " Implementation: 60,000 post offices across India.",
+        "This scheme aims to offer financial security to workers with low-cost insurance options."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.680Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-143",
+      "sourceTitle": "Antyodaya Shramik Suraksha Yojana:",
+      "sourceChecksum": "7791b8cd4ff93db184468486528bc8d275a512865e217bc6fa71c517c9c33eae",
+      "migrationTimestamp": "2026-08-15T12:14:02.680Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

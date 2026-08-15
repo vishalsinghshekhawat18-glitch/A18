@@ -1,0 +1,46 @@
+{
+  "id": "migrated-schemes-scheme-68",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Unity Mall Scheme:",
+  "summary": "Schemes — Unity Mall Scheme:",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Announced: Union Budget 2023-24.",
+        "Purpose:",
+        " Promote handicrafts, GI products, and ODOP items.",
+        " Boost local economies and empower artisans.",
+        "Key Highlights:",
+        " Established in state capitals, tourist hubs, or financial centers.",
+        " Features regional crafts, cultural exhibits, and training programs.",
+        " Supports e-commerce, cashless payments, and digital marketing.",
+        "Impact: Preserves cultural heritage and strengthens artisan livelihoods."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "MSME, Industry & Commerce Schemes"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.511Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-68",
+      "sourceTitle": "Unity Mall Scheme:",
+      "sourceChecksum": "ce3bd03e54473bd8e7da4eb2839b1db4cc365a92868b13a3c557af16fbc1ccec",
+      "migrationTimestamp": "2026-08-15T12:14:01.511Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

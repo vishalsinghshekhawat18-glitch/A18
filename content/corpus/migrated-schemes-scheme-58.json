@@ -1,0 +1,48 @@
+{
+  "id": "migrated-schemes-scheme-58",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY):",
+  "summary": "Schemes — Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Launched on May 9, 2015, is a one-year life insurance scheme offering Rs. 2 lakh coverage in case",
+        "of death (normal, accidental, or due to Covid-19).",
+        "o Eligibility: Individuals aged 18-50 years with a bank account.",
+        "o Premium: Rs. 436 per year (auto-debited from bank account).",
+        "o Coverage Period: From June 1 to May 31 (renewable annually).",
+        "o Claim: Payable to the nominee in case of death.",
+        "o Administered by: LIC and other insurers.",
+        "o Exclusions: No coverage for death by suicide within the first year.",
+        "o Ministry: Ministry of Finance.",
+        "The scheme aims to provide affordable life insurance to people, particularly the economically",
+        "weaker sections, for financial security."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Ministry of Finance & Financial Inclusion"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.511Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-58",
+      "sourceTitle": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY):",
+      "sourceChecksum": "0dc3f817ae3f4bed169839a12c0a79a1d1bc4b424ec2044ec52beb20754b485a",
+      "migrationTimestamp": "2026-08-15T12:14:01.511Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

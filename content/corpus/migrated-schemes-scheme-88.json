@@ -1,0 +1,48 @@
+{
+  "id": "migrated-schemes-scheme-88",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Smart City Mission:",
+  "summary": "Schemes — Smart City Mission:",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Launched by the Ministry of Housing and Urban Affairs on June 25, 2015, the mission aims to",
+        "develop 100 smart cities across India by March 31, 2025.",
+        "Key Features of the Mission",
+        "o Integrated Command and Control Centers (ICCCs)",
+        "o Technological Integration for Urban Mobility, Smart Governance, and Sustainability",
+        "o Focus on Affordable Housing, Quality Education, and Citizen Engagement",
+        "o Environmental Sustainability and Improved Quality of Life",
+        "Cities Under the Mission",
+        "o Rajasthan: Jaipur, Udaipur, Kota, and Ajmer",
+        "o Shillong: 100th Smart City",
+        "The mission seeks to create sustainable, efficient, and citizen-centric urban spaces across India."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "MSME, Industry & Commerce Schemes"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.102Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-88",
+      "sourceTitle": "Smart City Mission:",
+      "sourceChecksum": "115639fa2ce88a27c579c53fded4ad614ec35f2d85e1dac1ab17b32aea09e119",
+      "migrationTimestamp": "2026-08-15T12:14:02.102Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

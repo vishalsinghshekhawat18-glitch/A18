@@ -1,0 +1,40 @@
+{
+  "id": "migrated-schemes-scheme-10",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Agriculture Decision Support System (ADSS): Integrates remote sensing data (crop, soil,",
+  "summary": "Schemes — Agriculture Decision Support System (ADSS): Integrates remote sensing data (crop, soil,",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "weather, groundwater) for informed decisions.",
+        "With a budget of Rs 2817 crore, it seeks to empower farmers, reduce costs, optimize resources,",
+        "and boost productivity through technology, data analytics, and market linkages."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.064Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-10",
+      "sourceTitle": "Agriculture Decision Support System (ADSS): Integrates remote sensing data (crop, soil,",
+      "sourceChecksum": "0781e6f5bb80336b354413f55fffccd4c8379d5293f4cd5bee376bf1bb202258",
+      "migrationTimestamp": "2026-08-15T12:14:01.064Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "migrated-schemes-scheme-134",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Suposhit Maa Abhiyan:",
+  "summary": "Schemes — Suposhit Maa Abhiyan:",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Combating Malnutrition Among Pregnant Women",
+        " Launched: March 1, 2020, by Om Birla in Kota, Rajasthan",
+        " Objective: Provide nutritional kits and health support to pregnant women and adolescent girls",
+        " Phase 1: 1,000 women received a 17 kg diet kit",
+        " Phase 2: Extended support to an additional 3,000 women",
+        " Goal: Contribute to India’s National Nutrition Mission for a malnutrition-free country"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.680Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-134",
+      "sourceTitle": "Suposhit Maa Abhiyan:",
+      "sourceChecksum": "317ab2259a86e61004cf386a88f2993eb688c0a00ebbd5fb9a4e6d20ec24d7a4",
+      "migrationTimestamp": "2026-08-15T12:14:02.680Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

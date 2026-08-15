@@ -1,0 +1,53 @@
+{
+  "id": "migrated-schemes-scheme-130",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "National Nutrition Mission (Poshan Abhiyaan):",
+  "summary": "Schemes — National Nutrition Mission (Poshan Abhiyaan):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        " Launched: 8 March 2018, Jhunjhunu, Rajasthan",
+        " Ministry: Ministry of Women and Child Development",
+        " Objective: Improve nutrition for children under 6, pregnant women, and lactating mothers",
+        " Key Goals:",
+        " Child stunting: Reduce by 2% annually",
+        " Poor nutrition: Reduce by 2% annually",
+        " Child wasting: Reduce by 2% annually",
+        " Anemia: Reduce by 3% annually",
+        "-- 35 of 47 --",
+        "36\tONE STOP SOLUTION FOR IAS, RAS, SI",
+        "Youtube \tTelegram",
+        "Indian Economy \tScheme",
+        " Initiatives:",
+        " Poshan 2.0: Includes Anganwadi Seva Yojana and Scheme for Adolescent Girls (14-18 years)",
+        " Monitoring: Real-time tracking through digital platforms",
+        " Annual Celebration: National Nutrition Month in September"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.680Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-130",
+      "sourceTitle": "National Nutrition Mission (Poshan Abhiyaan):",
+      "sourceChecksum": "84f1f90f047c1119be06a8cd28c7d7299a56806d0afc834a8fc9154c01abed1e",
+      "migrationTimestamp": "2026-08-15T12:14:02.680Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

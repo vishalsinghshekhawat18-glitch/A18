@@ -1,0 +1,44 @@
+{
+  "id": "migrated-schemes-scheme-156",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Legal Ownership: Property cards to enable financial empowerment and dispute resolution.",
+  "summary": "Schemes — Legal Ownership: Property cards to enable financial empowerment and dispute resolution.",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Coverage:",
+        " Initial pilot in 9 states, including Rajasthan, Haryana, and Uttar Pradesh.",
+        " Full implementation across India by 2025.",
+        "Benefits:",
+        " Legal ownership of land for rural residents.",
+        " Reduced disputes and modernized land management.",
+        " Enables financial benefits through property-based loans."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.681Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-156",
+      "sourceTitle": "Legal Ownership: Property cards to enable financial empowerment and dispute resolution.",
+      "sourceChecksum": "6c65ba655515493cd25a3ba85fd3ebfb912a9e90b51a9ae086df3a97c1add57d",
+      "migrationTimestamp": "2026-08-15T12:14:02.681Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

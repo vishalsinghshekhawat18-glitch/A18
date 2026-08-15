@@ -1,0 +1,40 @@
+{
+  "id": "migrated-schemes-scheme-69",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "FAME India Scheme:",
+  "summary": "Schemes — FAME India Scheme:",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        " Objective: Accelerate EV adoption to reduce emissions and fossil fuel reliance.",
+        " Launched: 2015, under the Ministry of Heavy Industry.",
+        "Phases:"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "MSME, Industry & Commerce Schemes"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.511Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-69",
+      "sourceTitle": "FAME India Scheme:",
+      "sourceChecksum": "75df8132dfb9fa2629b68da1106ab36a8e472e78a1b63772c18401e54ec001b1",
+      "migrationTimestamp": "2026-08-15T12:14:01.511Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

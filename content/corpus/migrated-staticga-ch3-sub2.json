@@ -1,0 +1,41 @@
+{
+  "id": "migrated-staticga-ch3-sub2",
+  "type": "static_note",
+  "domain": "static-ga",
+  "title": "SEBI Capital Markets Overhaul (T+0, MF Lite, F&O Restructuring, CAS)",
+  "summary": "StaticGA — SEBI Capital Markets Overhaul (T+0, MF Lite, F&O Restructuring, CAS)",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "**T+0 Settlement:** Operational strictly for Equity Cash Segment covering top 500 capital-ranked stocks in 2026.",
+        "**MF Lite Framework:** Effective March 16, 2025; codified under **SEBI (Mutual Funds) Regulations, 2026** (effective April 1, 2026) for passive schemes (Index Funds, ETFs).",
+        "**F&O Restructuring:** Index derivative contract size raised to **₹15–20 lakh**; weekly expiries limited to **one benchmark index per exchange** (NSE: NIFTY 50; BSE: SENSEX). Extreme Loss Margin (ELM) +2% on expiry day.",
+        "**Closing Auction Session (CAS - Aug 3, 2026):** Replaced 30-min VWAP calculation with a single price auction mechanism (3:20 PM - 3:30 PM order collection) for F&O-eligible cash stocks. F&O trading hours extended to 3:40 PM."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "staticga",
+      "general"
+    ],
+    "category": "StaticGA",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:03.190Z",
+    "provenance": {
+      "sourceSystem": "StaticGA",
+      "sourceFile": "ca_app/static_ga_data.js",
+      "sourceId": "ch3-sub2",
+      "sourceTitle": "SEBI Capital Markets Overhaul (T+0, MF Lite, F&O Restructuring, CAS)",
+      "sourceChecksum": "6ac7a3e88e4e1ec40f89ce8b8758a3090fb18864d77662f9d64b57a9f332a4db",
+      "migrationTimestamp": "2026-08-15T12:14:03.190Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

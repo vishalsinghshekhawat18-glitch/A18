@@ -1,0 +1,41 @@
+{
+  "id": "migrated-schemes-scheme-165",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Economic Growth: Tourism, skill development, cultural promotion.",
+  "summary": "Schemes — Economic Growth: Tourism, skill development, cultural promotion.",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Coverage:",
+        " States: Arunachal Pradesh, Sikkim, Uttarakhand, Himachal Pradesh, Ladakh.",
+        " Villages: 19 districts, 46 border blocks.",
+        " Key Village: Kibithu (Arunachal Pradesh) – strategically important on the India-China border."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.681Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-165",
+      "sourceTitle": "Economic Growth: Tourism, skill development, cultural promotion.",
+      "sourceChecksum": "922ee3f91536af44cb040db9ec29b8b1d9cca75b58ee35d7c6a18b21c7cac8bf",
+      "migrationTimestamp": "2026-08-15T12:14:02.681Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

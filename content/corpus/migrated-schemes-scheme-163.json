@@ -1,0 +1,42 @@
+{
+  "id": "migrated-schemes-scheme-163",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Vibrant Village Program (VVP):",
+  "summary": "Schemes — Vibrant Village Program (VVP):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        " Launched: Union Budget 2022-23",
+        " Objective: Development of northern border villages to enhance security, reverse out-migration,",
+        "and boost local economies.",
+        " Budget: ₹4,800 crore (2023-2026)",
+        "Focus Areas:"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.681Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-163",
+      "sourceTitle": "Vibrant Village Program (VVP):",
+      "sourceChecksum": "e1a3c11a84989a57cc9110e16fa78e13a7a2d06b8bf822f422696cf09a2a6499",
+      "migrationTimestamp": "2026-08-15T12:14:02.681Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

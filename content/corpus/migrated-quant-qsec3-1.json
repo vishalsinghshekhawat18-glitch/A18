@@ -1,0 +1,42 @@
+{
+  "id": "migrated-quant-qsec3-1",
+  "type": "quant_topic",
+  "domain": "quant",
+  "title": "3.1 Core Concepts & Formats",
+  "summary": "Quant — 3.1 Core Concepts & Formats",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Tabular DI**: read all headers first; missing values from given totals/ratios; cross-check row=column=grand total",
+        "**Pie chart**: degree = (value/total)×360°; % = degree/3.6; 1% = 3.6°",
+        "**Bar/line graph**: growth% = (new−old)/old×100; CAGR ≈ [(final/initial)^(1/n)−1]×100; watch dual-axis units",
+        "**Caselet DI**: extract facts into a small table; track relations as equations; solve in the order revealed",
+        "**Missing DI (interlinked sets)**: fill known values first, use total/ratio constraints for the rest"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "quant",
+      "general"
+    ],
+    "category": "Quant",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:03.201Z",
+    "provenance": {
+      "sourceSystem": "Quant",
+      "sourceFile": "ca_app/quant_data.js",
+      "sourceId": "qsec3-1",
+      "sourceTitle": "3.1 Core Concepts & Formats",
+      "sourceChecksum": "c13e6e5a9058ff3bad1ca681b2b8502460ae26a5eb67f4410d294a18ebc5177e",
+      "migrationTimestamp": "2026-08-15T12:14:03.201Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

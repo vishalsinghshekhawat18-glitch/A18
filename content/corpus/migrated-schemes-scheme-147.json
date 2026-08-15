@@ -1,0 +1,49 @@
+{
+  "id": "migrated-schemes-scheme-147",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Pradhan Mantri Shram Yogi Mandhan Yojana (PM-SYMY):",
+  "summary": "Schemes — Pradhan Mantri Shram Yogi Mandhan Yojana (PM-SYMY):",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "o Launch: 5 March 2019",
+        "o Ministry: Ministry of Labor & Employment",
+        "o Objective: Provide Rs.3,000/month pension after 60 for unorganized sector workers.",
+        "o Eligibility: \tAge 18-40, income up to Rs. 15,000.",
+        "Not a member of EPFO, NPS, or income taxpayer.",
+        "o Key Points: \tWorker contributes monthly; government matches.",
+        "Ensures financial security in old age.",
+        "-- 41 of 47 --",
+        "42\tONE STOP SOLUTION FOR IAS, RAS, SI",
+        "Youtube \tTelegram",
+        "Indian Economy \tScheme",
+        "OTHER IMPORTANT SCHEMES"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.681Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-147",
+      "sourceTitle": "Pradhan Mantri Shram Yogi Mandhan Yojana (PM-SYMY):",
+      "sourceChecksum": "01040a9b1f281f5a1ce6643897e58da85c7f5f1b7ece2c0d307cbc781cefc308",
+      "migrationTimestamp": "2026-08-15T12:14:02.681Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    }
+  }
+}

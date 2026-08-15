@@ -41,14 +41,14 @@
     "date": "2026-08-09",
     "category": "SEC2",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:13:28.227Z",
+    "lastUpdated": "2026-08-15T12:14:00.597Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "ca_app/data.js",
       "sourceId": "ca_2026_08_09_sebi_unclaimed_mf_dividends",
       "sourceTitle": "SEBI Report: Unclaimed Mutual Fund Amounts Reach ₹3,811 Crore as of March 2026",
       "sourceChecksum": "2ed66a56b2271cb7f851bb366f1cbfb2024cd2b3727cc5f1a323858ac9b05bf0",
-      "migrationTimestamp": "2026-08-15T12:13:28.227Z",
+      "migrationTimestamp": "2026-08-15T12:14:00.597Z",
       "normalizationRuleVersion": "1.0.0-phase4"
     }
   }

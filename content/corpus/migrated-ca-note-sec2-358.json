@@ -41,14 +41,14 @@
     "date": "2026-07-27",
     "category": "SEC2",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:13:27.806Z",
+    "lastUpdated": "2026-08-15T12:13:59.595Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "ca_app/data.js",
       "sourceId": "note-sec2-358",
       "sourceTitle": "MoSPI Releases 'PAIMANA' Infrastructure Monitoring Dashboard (165 Indicators)",
       "sourceChecksum": "dfca991c1adc68673fe72101193e5982cc22ee2ee5b6531ce362ca2a7d77515c",
-      "migrationTimestamp": "2026-08-15T12:13:27.806Z",
+      "migrationTimestamp": "2026-08-15T12:13:59.595Z",
       "normalizationRuleVersion": "1.0.0-phase4"
     }
   }
