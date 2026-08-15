@@ -1,0 +1,65 @@
+{
+  "id": "migrated-ca-note-sec7-280",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "NSA Ajit Doval Selected for Prestigious Lokmanya Tilak Award 2026",
+  "summary": "Honoured for outstanding national security service on Bal Gangadhar Tilak's death anniversary.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Honoured for outstanding national security service on Bal Gangadhar Tilak's death anniversary."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Awardee: National Security Advisor Ajit Doval (longest-serving NSA of India).",
+        "Award Presentation: Conferred annually on August 1 (death anniversary of Bal Gangadhar Tilak, instituted 1983)."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Award Title",
+        "Recipient / Winner",
+        "Conferred By / Key Detail"
+      ],
+      "rows": [
+        [
+          "NSA Ajit Doval Selected for Prestigious Lokmanya Tilak Award 2026",
+          "Awardee: National Security Advisor Ajit Doval (longest-serving NSA of India).",
+          "1st Lokmanya Tilak Award recipient: Socialist leader S. M. Joshi (1983)."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "1st Lokmanya Tilak Award recipient: Socialist leader S. M. Joshi (1983)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec7",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-21",
+    "category": "SEC7",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.214Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec7-280",
+      "sourceTitle": "NSA Ajit Doval Selected for Prestigious Lokmanya Tilak Award 2026",
+      "sourceChecksum": "3af92c608918b0c0ff522586dedd58564f71df66d83e6d0b64a5005e4c3920d5",
+      "migrationTimestamp": "2026-08-15T12:12:53.214Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

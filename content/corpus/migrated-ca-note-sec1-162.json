@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec1-162",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Brookfield Launches  Million 'Lumara' Renewable Energy Platform in India",
+  "summary": "Accelerates solar, wind, and Battery Energy Storage Systems (BESS) buildout backed by ALTÉRRA fund.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Accelerates solar, wind, and Battery Energy Storage Systems (BESS) buildout backed by ALTÉRRA fund."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Platform Capital: Initial deployment of ~ million backed by Brookfield Catalytic Transition Fund (CTF).",
+        "Anchor Investor: Funded by UAE-backed climate vehicle ALTÉRRA (target corpus up to  billion).",
+        "National Target Alignment: Supports India's goal of reaching 500 GW installed renewable capacity by 2030."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Brookfield Asset Management HQ: Toronto/New York | CEO: Bruce Flatt."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-07",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:37.958Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-162",
+      "sourceTitle": "Brookfield Launches  Million 'Lumara' Renewable Energy Platform in India",
+      "sourceChecksum": "e0e8cfe3efee232f315e8a07fdff9063b0f0866c705231012ed4294fc715c5f8",
+      "migrationTimestamp": "2026-08-15T12:12:37.958Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "migrated-ca-note-sec2-416",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "WPI Base Year Revised to 2022-23=100 & 3 Producer Price Indices (PPIs) Introduced",
+  "summary": "Replaces 2011-12 base year to address WPI's 55% GDP service exclusion and double-counting bias.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Replaces 2011-12 base year to address WPI's 55% GDP service exclusion and double-counting bias."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "New Base Year: WPI base year updated to 2022-23=100 by Office of Economic Adviser (OEA), DPIIT.",
+        "3 New PPI Series: Output PPI (OPPI), Trial Input PPI (IPPI), and Service PPI (covering 7 Phase-1 services).",
+        "SNA Alignment: Aligns Indian price statistics with International Monetary Fund (IMF) and System of National Accounts (SNA) standards."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Office of Economic Adviser functions under DPIIT, Ministry of Commerce & Industry."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "New WPI base year (2022-23=100) vs previous base year (2011-12=100)."
+    },
+    {
+      "type": "quote",
+      "quote": "Interview Focus Question: \"Why is India transitioning from Wholesale Price Index (WPI) to Producer Price Index (PPI)?\"\n💡 **Model Answer: WPI excludes services (which account for ~55% of India's GDP) and suffers from double-counting. PPI aligns with international SNA standards by measuring net output prices at the producer level.**",
+      "author": "Banking & Regulatory Board Panel"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-08",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:54.072Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-416",
+      "sourceTitle": "WPI Base Year Revised to 2022-23=100 & 3 Producer Price Indices (PPIs) Introduced",
+      "sourceChecksum": "74e36de692abf418f51a12bbf1cf5ee7dd49236822e349f09c5b1b61885da246",
+      "migrationTimestamp": "2026-08-15T12:12:54.072Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

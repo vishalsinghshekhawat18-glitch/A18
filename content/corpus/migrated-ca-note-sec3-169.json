@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec3-169",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Nepal Central Bank Allows Indian & Nepalese Currency Notes of ₹200 and ₹500 Denominations",
+  "summary": "Relaxes 2019 demonetisation restrictions up to a combined carrying limit of ₹25,000 per person.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Relaxes 2019 demonetisation restrictions up to a combined carrying limit of ₹25,000 per person."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Carrying Limit: Combined limit of ₹25,000 per person for post-demonetisation ₹200 and ₹500 notes (issued on/after Nov 9, 2016).",
+        "Prohibited Notes: Older pre-demonetisation ₹500 and ₹1,000 notes remain strictly banned.",
+        "Customs Exemption: Foreign currency up to ,000 allowed without customs declaration."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Nepal Rastra Bank (NRB) Governor: Maha Prasad Adhikari | Currency: Nepalese Rupee."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Carrying limit for ₹200/₹500 notes (₹25,000 per person) vs un-declared foreign currency limit (,000)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:37.959Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec3-169",
+      "sourceTitle": "Nepal Central Bank Allows Indian & Nepalese Currency Notes of ₹200 and ₹500 Denominations",
+      "sourceChecksum": "d1fa0da2e8b8a2738e8b822cb9f93d8848d4640d584f2b03481cd6fa22223859",
+      "migrationTimestamp": "2026-08-15T12:12:37.959Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

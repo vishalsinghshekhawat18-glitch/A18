@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec1-421",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Government Announces ₹1.25 Lakh Crore 'VB-GRAMG' Rural Development Framework",
+  "summary": "Viksit Bharat-Guarantee for Rozgar and Ajeevika Mission effective July 1, 2026.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Viksit Bharat-Guarantee for Rozgar and Ajeevika Mission effective July 1, 2026."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "VB-GRAMG Framework: Total allocation exceeds ₹1.25 lakh crore, covering 2.80 lakh Gram Panchayats.",
+        "MGNREGA Integration: Includes ₹30,000 crore central allocation under MGNREGA 2005.",
+        "Top State Allocations: Uttar Pradesh (₹9,721 cr), West Bengal (₹8,508 cr), Andhra Pradesh (₹7,707 cr), Tamil Nadu (₹7,585 cr)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Minister of Rural Development: Shivraj Singh Chouhan."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "VB-GRAMG total outlay (₹1.25 lakh crore) vs MGNREGA component (₹30,000 crore)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-13",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:54.072Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-421",
+      "sourceTitle": "Government Announces ₹1.25 Lakh Crore 'VB-GRAMG' Rural Development Framework",
+      "sourceChecksum": "3970f48e4cf9c86557b3c64c2fb6a550f79a70db9891b7ae40a4cfb8cbadb4da",
+      "migrationTimestamp": "2026-08-15T12:12:54.072Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

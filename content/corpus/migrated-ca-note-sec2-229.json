@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec2-229",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "ILO Report: India's Social Security Coverage Expands to 64% (Encompassing 94 Crore People)",
+  "summary": "Expands social protection coverage from 19% in 2014 to 64% in 2026.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Expands social protection coverage from 19% in 2014 to 64% in 2026."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Coverage Milestone: 94 crore citizens covered under formal social security schemes.",
+        "Labor Reform Context: 4 Labour Codes consolidated and replaced 29 central labor laws."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "ILO Director-General: Gilbert F. Houngbo | HQ: Geneva, Switzerland."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Social security coverage 2014 (19%) vs 2026 (64%)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-24",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.830Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-229",
+      "sourceTitle": "ILO Report: India's Social Security Coverage Expands to 64% (Encompassing 94 Crore People)",
+      "sourceChecksum": "cfe9dd59d8f13e7a97bf537319c7a45a00be6dc6a375827cd6b927954985f36f",
+      "migrationTimestamp": "2026-08-15T12:12:52.830Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

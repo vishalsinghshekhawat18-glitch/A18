@@ -1,0 +1,49 @@
+{
+  "id": "migrated-ca-note-sec6-177",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Solar Defence Demonstrates Indigenous Counter-Swarm Drone System 'Bhargavastra'",
+  "summary": "Vehicle-mounted multi-layered system neutralises autonomous drone swarms within 16 seconds.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Vehicle-mounted multi-layered system neutralises autonomous drone swarms within 16 seconds."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "System Architecture: Integrates unguided micro-rockets (20m lethal radius) and precision micro-missiles (interception range 2.5 km).",
+        "Target Detection: Detects large UAVs up to 10 km and small drones up to 6 km under MoD Make-II initiative."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "SDAL HQ: Nagpur, Maharashtra | Parent Company: Solar Industries India Ltd."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-02",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.448Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec6-177",
+      "sourceTitle": "Solar Defence Demonstrates Indigenous Counter-Swarm Drone System 'Bhargavastra'",
+      "sourceChecksum": "e308151495d56d7798bd5d543fad105303e1dd71efa481861977a6313bef464e",
+      "migrationTimestamp": "2026-08-15T12:12:52.448Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec6-283",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "139th Wimbledon 2026: Jannik Sinner Wins Men's Singles; Linda Nosková Wins Women's Singles",
+  "summary": "Jannik Sinner defeats Alexander Zverev to claim 2nd consecutive Wimbledon and 5th Grand Slam title.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Jannik Sinner defeats Alexander Zverev to claim 2nd consecutive Wimbledon and 5th Grand Slam title."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Men's Singles Winner: Jannik Sinner (Italy) defeated Alexander Zverev (Germany).",
+        "Women's Singles Winner: Linda Nosková (Czech Republic) defeated Karolína Muchová.",
+        "Sinner Milestone: 2nd consecutive Wimbledon title and 100th Grand Slam match victory."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Wimbledon played on grass courts at All England Club, London (established 1877)."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Men's Singles Winner (Jannik Sinner) vs Women's Singles Winner (Linda Nosková)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-24",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.214Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec6-283",
+      "sourceTitle": "139th Wimbledon 2026: Jannik Sinner Wins Men's Singles; Linda Nosková Wins Women's Singles",
+      "sourceChecksum": "47076e113f5678f8edf986e92d3c5df1f390460442b12ffe3bce97d14b26c63d",
+      "migrationTimestamp": "2026-08-15T12:12:53.214Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

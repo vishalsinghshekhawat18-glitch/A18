@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec3-313",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "NIPL Partners with Eurobank to Make UPI Live in Greece (10th Country Globally)",
+  "summary": "Expands UPI cross-border merchant payments into Greece as 10th international destination.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Expands UPI cross-border merchant payments into Greece as 10th international destination."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Greece Partner: Eurobank (Greece) partnered with NPCI International Payments Limited (NIPL).",
+        "10 Global Countries: Greece joins Singapore, UAE, Bhutan, Nepal, Sri Lanka, France, Mauritius, Qatar, and Cambodia.",
+        "Domestic Volume: UPI processes 22–23 billion transactions per month domestically."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "NPCI International Payments Ltd (NIPL) CEO: Ritesh Shukla."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Greece position as UPI international destination (10th country globally)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-11",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.215Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec3-313",
+      "sourceTitle": "NIPL Partners with Eurobank to Make UPI Live in Greece (10th Country Globally)",
+      "sourceChecksum": "6a18edb208b1a242c3ec2d5d5d7297f97cb3e0438a4a3353d1c7ff61a85711c8",
+      "migrationTimestamp": "2026-08-15T12:12:53.215Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

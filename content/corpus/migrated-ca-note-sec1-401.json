@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec1-401",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Int'l MSME Day 2026: Collateral-Free MSE Loan Limit Doubled from ₹10 Lakh to ₹20 Lakh",
+  "summary": "RBI Governor notes MSMEs contribute 31% of India's GDP and half of merchandise exports.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "RBI Governor notes MSMEs contribute 31% of India's GDP and half of merchandise exports."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Collateral Cap Doubled: Mandatory collateral-free loan limit for MSEs doubled from ₹10 lakh to ₹20 lakh (extendable to ₹25 lakh).",
+        "Account Aggregator Impact: AA framework facilitated ₹3.5 lakh crore lending in FY26.",
+        "Pre-Payment Charge Ban: Commercial banks barred from levying pre-payment penalties on floating-rate MSE loans."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "International MSME Day celebrated June 27 | MSME sector sustains 32 crore livelihoods."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Standard MSE collateral-free limit (₹20 lakh) vs good track record limit (₹25 lakh)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-23",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:54.072Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-401",
+      "sourceTitle": "Int'l MSME Day 2026: Collateral-Free MSE Loan Limit Doubled from ₹10 Lakh to ₹20 Lakh",
+      "sourceChecksum": "3351bb116688638d2e1302067c71039e3e0e2364ae2cd32055b46be518a3760d",
+      "migrationTimestamp": "2026-08-15T12:12:54.072Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

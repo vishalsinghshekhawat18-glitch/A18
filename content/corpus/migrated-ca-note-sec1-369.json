@@ -1,0 +1,77 @@
+{
+  "id": "migrated-ca-note-sec1-369",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Cabinet Approves 'BHAVYA Rasayan' Scheme (₹3,030 Crore for 3 Chemical Parks)",
+  "summary": "Provides ₹1,000 crore grant per park to build common infrastructure across 3 chemical hubs.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Provides ₹1,000 crore grant per park to build common infrastructure across 3 chemical hubs."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Scheme Outlay: ₹3,030 crore financial outlay over 5 years (FY27 to FY31) from Union Budget FY27.",
+        "Park Requirements: Grant up to ₹1,000 cr per park (min ₹500 cr state contribution); min area 2,000 acres (8 sq km).",
+        "Chemical Sector Rank: India ranks 6th globally and 3rd in Asia in chemical production (contributes 7% to GDP)."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Metric / Component",
+        "Threshold / Provision Detail"
+      ],
+      "rows": [
+        [
+          "Scheme Outlay",
+          "₹3,030 crore financial outlay over 5 years (FY27 to FY31) from Union Budget FY27."
+        ],
+        [
+          "Park Requirements",
+          "Grant up to ₹1,000 cr per park (min ₹500 cr state contribution); min area 2,000 acres (8 sq km)."
+        ],
+        [
+          "Chemical Sector Rank",
+          "India ranks 6th globally and 3rd in Asia in chemical production (contributes 7% to GDP)."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Distinct from BHAVYA scheme (₹33,660 cr for 100 industrial parks approved March 2026)."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "BHAVYA Rasayan outlay (₹3,030 crore for 3 chemical parks) vs BHAVYA industrial parks outlay (₹33,660 crore)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-30",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.665Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-369",
+      "sourceTitle": "Cabinet Approves 'BHAVYA Rasayan' Scheme (₹3,030 Crore for 3 Chemical Parks)",
+      "sourceChecksum": "c266ae396304989bd462bef4874daf62348bcf05779b6fa82684e557cfa7ccbf",
+      "migrationTimestamp": "2026-08-15T12:12:53.665Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "migrated-ca-note-sec6-183",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Ajinkya Rahane Announces Retirement from All Formats of International Cricket",
+  "summary": "Ajinkya Rahane Announces Retirement from All Formats of International Cricket",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Played 85 Tests (5,077 runs), 90 ODIs, and 20 T20Is across 195 international matches for India (2011–2026).",
+        "Top scorer for India in 2023 World Test Championship final."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "BCCI President: Roger Binny | HQ: Mumbai."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.449Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec6-183",
+      "sourceTitle": "Ajinkya Rahane Announces Retirement from All Formats of International Cricket",
+      "sourceChecksum": "721a3398e448ffb2005fc001a0ebdb5f4d7c02b3849c392c27eda5ede0a57035",
+      "migrationTimestamp": "2026-08-15T12:12:52.449Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

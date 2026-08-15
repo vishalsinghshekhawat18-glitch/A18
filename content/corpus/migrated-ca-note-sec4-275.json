@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec4-275",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "MHA Cyber Fraud Report: Uttar Pradesh Records Highest Complaints in India (1.85 Lakh Cases)",
+  "summary": "Records 12.71 lakh total cyber fraud complaints across India between January and June 2026.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Records 12.71 lakh total cyber fraud complaints across India between January and June 2026."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "State Cases Ranking: Uttar Pradesh recorded highest complaints (1.85 lakh), followed by Maharashtra (1.58 lakh) and Karnataka (1.21 lakh).",
+        "Financial Loss Ranking: Maharashtra recorded highest financial loss (₹1,637.66 crore), followed by Karnataka (₹1,097.37 crore)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "National Cyber Crime Reporting Portal (NCRP) helpline: 1930."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Highest complaint volume state (Uttar Pradesh) vs highest financial loss state (Maharashtra)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-16",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.831Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-275",
+      "sourceTitle": "MHA Cyber Fraud Report: Uttar Pradesh Records Highest Complaints in India (1.85 Lakh Cases)",
+      "sourceChecksum": "5f7627fae4fccd7a1c7a5c35d9eb4ce3148966439d896204229ed6b0a5aa48a9",
+      "migrationTimestamp": "2026-08-15T12:12:52.831Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

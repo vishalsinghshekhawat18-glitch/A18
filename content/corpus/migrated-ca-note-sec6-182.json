@@ -1,0 +1,66 @@
+{
+  "id": "migrated-ca-note-sec6-182",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "ISSF World Cup 2026 Hangzhou: India Ranks 3rd Overall with 4 Medals",
+  "summary": "Esha Singh wins Gold in Women's 25m Pistol; Sainyam Vij wins Silver in 10m Pistol.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Esha Singh wins Gold in Women's 25m Pistol; Sainyam Vij wins Silver in 10m Pistol."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Medal Breakdown: India won 1 Gold (Esha Singh), 1 Silver (Sainyam Vij), 2 Bronze (Manu Bhaker, Sonam Maskar & Himanshu Dhillon).",
+        "World Record: China's Zhang Changhong set new world record of 363.0 points in 50m Rifle 3 Positions (surpassing Aishwary Pratap Singh Tomar's 362.0).",
+        "Overall Winner: China topped standings in Hangzhou."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Award Title",
+        "Recipient / Winner",
+        "Conferred By / Key Detail"
+      ],
+      "rows": [
+        [
+          "ISSF World Cup 2026 Hangzhou: India Ranks 3rd Overall with 4 Medals",
+          "Medal Breakdown: India won 1 Gold (Esha Singh), 1 Silver (Sainyam Vij), 2 Bronze (Manu Bhaker, Sonam Maskar & Himanshu Dhillon).",
+          "ISSF HQ: Munich, Germany | President: Luciano Rossi."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "ISSF HQ: Munich, Germany | President: Luciano Rossi."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-07",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.449Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec6-182",
+      "sourceTitle": "ISSF World Cup 2026 Hangzhou: India Ranks 3rd Overall with 4 Medals",
+      "sourceChecksum": "c81f37799afc56908e2e8942f34039bda7015410a7cee6ceb1dc6eafcde8a77d",
+      "migrationTimestamp": "2026-08-15T12:12:52.449Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

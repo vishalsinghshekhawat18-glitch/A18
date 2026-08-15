@@ -1,0 +1,66 @@
+{
+  "id": "migrated-ca-note-sec7-184",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "2026 Fields Medals Conferred on 4 Mathematicians at International Congress in Philadelphia",
+  "summary": "Hong Wang becomes 3rd woman scientist in 90-year history to win the 'Nobel Prize of Mathematics'.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Hong Wang becomes 3rd woman scientist in 90-year history to win the 'Nobel Prize of Mathematics'."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Recipients: Yu Deng (Univ of Chicago), John Pardon (Stony Brook), Jacob Tsimerman (Univ of Toronto), Hong Wang (NYU/IHES).",
+        "Award Structure: Conferred every 4 years to mathematicians under 40 (prize: 15,000 CAD / ,600 and gold medal of Archimedes).",
+        "Historic Distinction: Hong Wang (China) is 3rd female recipient after Maryam Mirzakhani (2014) and Maryna Viazovska (2022)."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Award Title",
+        "Recipient / Winner",
+        "Conferred By / Key Detail"
+      ],
+      "rows": [
+        [
+          "2026 Fields Medals Conferred on 4 Mathematicians at International Congress in Philadelphia",
+          "Recipients: Yu Deng (Univ of Chicago), John Pardon (Stony Brook), Jacob Tsimerman (Univ of Toronto), Hong Wang (NYU/IHES).",
+          "Fields Medal instituted by J.C. Fields at Univ of Toronto | International Mathematical Union (IMU) HQ: Berlin."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Fields Medal instituted by J.C. Fields at Univ of Toronto | International Mathematical Union (IMU) HQ: Berlin."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec7",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-02",
+    "category": "SEC7",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.449Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec7-184",
+      "sourceTitle": "2026 Fields Medals Conferred on 4 Mathematicians at International Congress in Philadelphia",
+      "sourceChecksum": "d5d56f2577c774891f9d9fbbbee17d46e54c0dd91d02132f779e0d9bda40c660",
+      "migrationTimestamp": "2026-08-15T12:12:52.449Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

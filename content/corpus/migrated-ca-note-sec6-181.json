@@ -1,0 +1,66 @@
+{
+  "id": "migrated-ca-note-sec6-181",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India Wins Historic Para Athletics Medals at Commonwealth Games 2026 Glasgow",
+  "summary": "Dilip Mahadu Gavit wins gold and Basil Morssinganakath wins silver in Men's 100m T47.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Dilip Mahadu Gavit wins gold and Basil Morssinganakath wins silver in Men's 100m T47."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Gold Medallist: Dilip Mahadu Gavit clocked Games record 10.71 seconds (1st Indian male para athletics CWG gold).",
+        "Additional Medals: Murali Sreeshankar (Silver, Men's Long Jump), Mirabai Chanu (Gold, Women's 48kg Weightlifting), Sharmila Dhankar (Gold, Women's Shot Put F57).",
+        "Overall Standings: India ranked 8th overall with 15 medals (3 gold, 9 silver, 3 bronze)."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Award Title",
+        "Recipient / Winner",
+        "Conferred By / Key Detail"
+      ],
+      "rows": [
+        [
+          "India Wins Historic Para Athletics Medals at Commonwealth Games 2026 Glasgow",
+          "Gold Medallist: Dilip Mahadu Gavit clocked Games record 10.71 seconds (1st Indian male para athletics CWG gold).",
+          "Commonwealth Games 2026 host: Glasgow, Scotland | Overall medal table topper: Australia."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Commonwealth Games 2026 host: Glasgow, Scotland | Overall medal table topper: Australia."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-06",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.449Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec6-181",
+      "sourceTitle": "India Wins Historic Para Athletics Medals at Commonwealth Games 2026 Glasgow",
+      "sourceChecksum": "0847922c2f7e7b113f64d95d0b5d4f9aee1e9b7ca2953c547e6a7faa0d81ad03",
+      "migrationTimestamp": "2026-08-15T12:12:52.449Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

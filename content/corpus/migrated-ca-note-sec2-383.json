@@ -1,0 +1,78 @@
+{
+  "id": "migrated-ca-note-sec2-383",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "FEMA Rules Amended: Overseas Individual Portfolio Investment Limit Raised to 10%",
+  "summary": "Amends Non-Debt Instruments Rules 2019, doubling individual non-resident holding limits in listed equities.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Amends Non-Debt Instruments Rules 2019, doubling individual non-resident holding limits in listed equities."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Individual Holding Cap: Maximum holding for individual overseas investor (PROI) in a listed company raised from 5% to below 10%.",
+        "Aggregate Limit: Combined holding of all overseas investors increased from 10% to 24%.",
+        "Coverage Expansion: Extends portfolio investment route to all individual Persons Resident Outside India (PROIs) at par with NRIs and OCIs."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Metric / Component",
+        "Threshold / Provision Detail"
+      ],
+      "rows": [
+        [
+          "Individual Holding Cap",
+          "Maximum holding for individual overseas investor (PROI) in a listed company raised from 5% to below 10%."
+        ],
+        [
+          "Aggregate Limit",
+          "Combined holding of all overseas investors increased from 10% to 24%."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "FEMA (Non-Debt Instruments) Rules 2019 governed by Department of Economic Affairs, Ministry of Finance."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Individual PROI cap (below 10%) vs aggregate limit for all non-residents (24%)."
+    },
+    {
+      "type": "quote",
+      "quote": "Interview Focus Question: \"What is the significance of the 2026 FEMA Non-Debt Instruments amendment for foreign retail investors?\"\n💡 **Model Answer: It doubles individual portfolio investment caps in listed Indian companies from 5% to below 10% and extends NRI/OCI investment privileges to all non-resident individuals.**",
+      "author": "Banking & Regulatory Board Panel"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-05",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:54.071Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-383",
+      "sourceTitle": "FEMA Rules Amended: Overseas Individual Portfolio Investment Limit Raised to 10%",
+      "sourceChecksum": "ab4719721a0f0d9daef371c8530454fa92e7e32ca87a19b23b53927797cdd9d8",
+      "migrationTimestamp": "2026-08-15T12:12:54.071Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

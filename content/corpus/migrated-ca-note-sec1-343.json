@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec1-343",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "ECLGS 5.0 Guarantees Reach ₹1.55 Lakh Crore Across 4,11,497 Issued Guarantees",
+  "summary": "MSMEs account for 98% of total guarantees under Cabinet-approved ₹18,100 crore outlay.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "MSMEs account for 98% of total guarantees under Cabinet-approved ₹18,100 crore outlay."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Guarantee Progress: 4,11,497 guarantees issued totaling ₹1,55,229 crore (around ₹1.55 lakh crore).",
+        "MSME Share: MSMEs account for 98% of total guarantee count and 82% of total guaranteed amount.",
+        "Borrowing Limits: Additional credit up to 20% working capital (cap ₹100 cr for MSMEs; cap ₹1,500 cr for airlines)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "ECLGS (Emergency Credit Line Guarantee Scheme) managed by NCGTC under DFS."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "MSME guarantee count share (98%) vs MSME guaranteed amount share (82%)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-26",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.664Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-343",
+      "sourceTitle": "ECLGS 5.0 Guarantees Reach ₹1.55 Lakh Crore Across 4,11,497 Issued Guarantees",
+      "sourceChecksum": "cd881b02f315ccf13fcba10f1a0f2bf8524ae28e13b061a7d4bdf1c7f5fa54c5",
+      "migrationTimestamp": "2026-08-15T12:12:53.664Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

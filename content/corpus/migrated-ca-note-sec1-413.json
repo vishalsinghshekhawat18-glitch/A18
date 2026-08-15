@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec1-413",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Maruti Suzuki Launches India's 1st Flex-Fuel Car 'Wagon R' (E20 to E100)",
+  "summary": "Hero MotoCorp also launches flex-fuel Splendor Plus and HF Deluxe motorcycles.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Hero MotoCorp also launches flex-fuel Splendor Plus and HF Deluxe motorcycles."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Flex-Fuel Debut: Maruti Suzuki Wagon R flex-fuel runs on any blend of ethanol and petrol from E20 to E100.",
+        "Target Dispenser Rollout: Government aims to deploy 5,000 E85 fuel dispensers by end of 2027.",
+        "Blending Milestone: India reached 20% ethanol blending (E20) threshold in mid-2025, 5 years ahead of target."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Maruti Suzuki MD & CEO: Hisashi Takeuchi | Chairman: R. C. Bhargava."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-05",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:54.072Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-413",
+      "sourceTitle": "Maruti Suzuki Launches India's 1st Flex-Fuel Car 'Wagon R' (E20 to E100)",
+      "sourceChecksum": "3c24fc26719df5a85f30424c177103f48917e9435d5a4bd203024ca3db6ed049",
+      "migrationTimestamp": "2026-08-15T12:12:54.072Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

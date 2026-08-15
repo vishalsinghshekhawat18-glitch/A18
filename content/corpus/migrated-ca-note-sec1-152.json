@@ -1,0 +1,50 @@
+{
+  "id": "migrated-ca-note-sec1-152",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Department of Expenditure Enforces 'One Officer, One Official Car' Policy for Central Bureaucracy",
+  "summary": "Department of Expenditure Enforces 'One Officer, One Official Car' Policy for Central Bureaucracy",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Restricts entitled officers to 1 official government car even if assigned additional charge of other ministries, PSUs, or autonomous bodies.",
+        "Personal Travel Allowance: Entitled officers may use official cars for personal travel up to 500 km per month by paying ₹3,000 per month and forfeiting transport allowance."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Department of Expenditure works under Ministry of Finance."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-04",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:37.958Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-152",
+      "sourceTitle": "Department of Expenditure Enforces 'One Officer, One Official Car' Policy for Central Bureaucracy",
+      "sourceChecksum": "f67fcbd5755eb579e8f53ef90a2549cec41233c09f547b930e35780a58eecec9",
+      "migrationTimestamp": "2026-08-15T12:12:37.958Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

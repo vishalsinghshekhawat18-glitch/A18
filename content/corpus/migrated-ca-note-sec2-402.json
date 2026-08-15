@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec2-402",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Mandates 100% Collateral-Backed Bank Guarantees for Prop Trading (50% Cash)",
+  "summary": "Requires capital market trading bank guarantees to be fully collateralised to curb derivatives leverage.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Requires capital market trading bank guarantees to be fully collateralised to curb derivatives leverage."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Collateral Rule: Bank guarantees issued to capital market trading firms must be 100% backed by collateral, with at least 50% in cash (effective July 1, 2026).",
+        "Market Impact: Reduces leverage for proprietary trading firms accounting for over half of NSE options turnover."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "RBI Governor: Sanjay Malhotra | NSE MD & CEO: Ashishkumar Chauhan."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Total collateral requirement (100%) vs mandatory cash portion (at least 50%)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-24",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:54.072Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-402",
+      "sourceTitle": "RBI Mandates 100% Collateral-Backed Bank Guarantees for Prop Trading (50% Cash)",
+      "sourceChecksum": "17d3f087fc50473f499d1d08c5e62c9175618f9fe512af6af7961c39b1a5c02c",
+      "migrationTimestamp": "2026-08-15T12:12:54.072Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

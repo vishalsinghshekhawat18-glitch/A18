@@ -1,0 +1,50 @@
+{
+  "id": "migrated-ca-note-sec1-223",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Moody's Analytics: Global Growth to Slow to 2.5% in 2026 Amid K-Shaped AI Divide",
+  "summary": "Moody's Analytics: Global Growth to Slow to 2.5% in 2026 Amid K-Shaped AI Divide",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Global Outlook: Growth slows to 2.5% in 2026 before picking up to 2.8% in 2027.",
+        "K-Shaped Recovery: Tech-integrated sectors accelerate while traditional labor-intensive sectors decline."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Moody's Corporation HQ: New York, US."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-18",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.450Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-223",
+      "sourceTitle": "Moody's Analytics: Global Growth to Slow to 2.5% in 2026 Amid K-Shaped AI Divide",
+      "sourceChecksum": "7b6902b9132bc8d9ab5d5f5622d927e6464dbd24fe0b5214a6901ed00c8523f0",
+      "migrationTimestamp": "2026-08-15T12:12:52.450Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

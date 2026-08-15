@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec1-387",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "FCRA Rules Tightened: NGOs Must Spend Min ₹10 Lakh Foreign Funds Over 2 Years for Renewal",
+  "summary": "Restricts foreign fund usage to predefined categories and bars foreign nationals as key functionaries.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Restricts foreign fund usage to predefined categories and bars foreign nationals as key functionaries."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Functionary Exclusion: NGOs with foreign nationals (except PIOs) ineligible for FCRA registration without central approval.",
+        "Renewal Expenditure: NGOs must spend at least ₹10 lakh foreign funds over past 2 financial years to renew registration.",
+        "Utilisation Threshold: Next foreign fund instalment released only after 75% of previous instalment is utilised."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "FCRA 2010 regulated by Ministry of Home Affairs."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Renewal spend requirement (₹10 lakh over 2 yrs) vs prior permission release threshold (75% utilisation)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-09",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:54.071Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-387",
+      "sourceTitle": "FCRA Rules Tightened: NGOs Must Spend Min ₹10 Lakh Foreign Funds Over 2 Years for Renewal",
+      "sourceChecksum": "97d9662698c6bd2176df5f4468322894ee0ef867590507bbe0a31461d7dddd8e",
+      "migrationTimestamp": "2026-08-15T12:12:54.071Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

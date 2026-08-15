@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec1-400",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Revamps Lead Bank Scheme: Mandates 1 Exclusive LDM Per District",
+  "summary": "Formalises Block Level Bankers' Committee (BLBC) as credit planning foundation.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Formalises Block Level Bankers' Committee (BLBC) as credit planning foundation."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Exclusive LDM: Mandates every lead bank to appoint an exclusive Lead District Manager (LDM) per district.",
+        "BLBC Role: Formalises Block Level Bankers' Committee (BLBC) as foundation of district credit planning.",
+        "Meeting Timelines: Prescribes uniform meeting schedules for BLBC, DCC, DLRC, and SLBC."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Lead Bank Scheme introduced in 1969 based on Gadgil & Nariman Committee recommendations."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-22",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:54.072Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-400",
+      "sourceTitle": "RBI Revamps Lead Bank Scheme: Mandates 1 Exclusive LDM Per District",
+      "sourceChecksum": "32f5832e099e7e6015eaee82d98993d1e35f936886b442d9a6ce67bac57b20e6",
+      "migrationTimestamp": "2026-08-15T12:12:54.072Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

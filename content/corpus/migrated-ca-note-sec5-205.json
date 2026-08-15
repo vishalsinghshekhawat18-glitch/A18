@@ -1,0 +1,65 @@
+{
+  "id": "migrated-ca-note-sec5-205",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Cotton Corporation of India Launches 'Kapas Darshan' Bulletin & ₹5,659 Cr Kapas Kanti Mission",
+  "summary": "Transfers ₹41,530 crore directly to cotton farmers under record MSP procurement operations.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Transfers ₹41,530 crore directly to cotton farmers under record MSP procurement operations."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "MSP Procurement: CCI procured 522 lakh quintals of seed cotton (kapas) via 24 lakh transactions, transferring ₹41,530 crore directly to bank accounts.",
+        "Kapas Kanti Mission: Cotton Productivity Mission approved with ₹5,659 crore outlay over 5 years."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Appointee / Official",
+        "New Position & Organization",
+        "Key Context & Details"
+      ],
+      "rows": [
+        [
+          "Cotton Corporation of India Launches 'Kapas Darshan' Bulletin & ₹5,659 Cr Kapas Kanti Mission",
+          "Official Appointment",
+          "MSP Procurement: CCI procured 522 lakh quintals of seed cotton (kapas) via 24 lakh transactions, transferring ₹41,530 crore directly to bank accounts."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "CCI CMD: Lalit Kumar Gupta | Ministry of Textiles | MSP increased by ~7% for 2026-27."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-02",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.450Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec5-205",
+      "sourceTitle": "Cotton Corporation of India Launches 'Kapas Darshan' Bulletin & ₹5,659 Cr Kapas Kanti Mission",
+      "sourceChecksum": "c21d10d86f8b17cc37f74b2d764dd91ab8b09139da1c67d182b184715fc73bac",
+      "migrationTimestamp": "2026-08-15T12:12:52.450Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

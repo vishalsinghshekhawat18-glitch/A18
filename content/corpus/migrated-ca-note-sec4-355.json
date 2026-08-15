@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec4-355",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Goa Amends Public Gambling Act 1976: Fixes Minimum Casino Entry Age at 21",
+  "summary": "Restricts casino gambling access across 6 offshore vessels and onshore venues to age 21+.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Restricts casino gambling access across 6 offshore vessels and onshore venues to age 21+."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Age Restriction: Mandates minimum entry age of 21 years for designated casino licensed zones.",
+        "Late Fee Penalty: Imposes 18% annual penal interest on operators for delayed annual recurring license fees."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Goa CM: Pramod Sawant | Capital: Panaji."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Casino minimum age (21 years) vs late license fee penal interest (18% p.a.)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-24",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.665Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-355",
+      "sourceTitle": "Goa Amends Public Gambling Act 1976: Fixes Minimum Casino Entry Age at 21",
+      "sourceChecksum": "6b6ed15f8a7d4a94892e66f578c1d802f64c4db37135ac6623614d7b551b184c",
+      "migrationTimestamp": "2026-08-15T12:12:53.665Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

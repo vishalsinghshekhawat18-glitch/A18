@@ -1,0 +1,77 @@
+{
+  "id": "migrated-ca-note-sec2-248",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SEBI Amends FPI Regulations: Rupee-Denominated Fee Structure & Pre-IPO ESOPs",
+  "summary": "Replaces USD registration fees with INR structure (Category-I FPI fee ₹2.3 lakh).",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Replaces USD registration fees with INR structure (Category-I FPI fee ₹2.3 lakh)."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Rupee Fee Structure: Category-I FPI registration fee fixed at ₹2.3 lakh (replaced ,500); ,000 fee replaced by ₹90,000.",
+        "Custodian Monthly Fee: Custodian fee revised to ₹85,000/month (replaced ₹10 lakh annual fee).",
+        "Intraday MF Borrowing: Mutual funds permitted intraday borrowing up to 20% of net assets for settlement liquidity."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Metric / Component",
+        "Threshold / Provision Detail"
+      ],
+      "rows": [
+        [
+          "Rupee Fee Structure",
+          "Category-I FPI registration fee fixed at ₹2.3 lakh (replaced ,500); ,000 fee replaced by ₹90,000."
+        ],
+        [
+          "Custodian Monthly Fee",
+          "Custodian fee revised to ₹85,000/month (replaced ₹10 lakh annual fee)."
+        ],
+        [
+          "Intraday MF Borrowing",
+          "Mutual funds permitted intraday borrowing up to 20% of net assets for settlement liquidity."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Designated Depository Participants (DDPs) process FPI registrations in India."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Category-I FPI registration fee (₹2.3 lakh) vs custodian monthly fee (₹85,000)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-12",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.830Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-248",
+      "sourceTitle": "SEBI Amends FPI Regulations: Rupee-Denominated Fee Structure & Pre-IPO ESOPs",
+      "sourceChecksum": "69a4e85a9822a340f92fe56155ce5331603ffbd3de3f300240aba63cbb02ec74",
+      "migrationTimestamp": "2026-08-15T12:12:52.830Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec2-258",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI One-Time Approval Proposal for MFs & Insurers to Acquire up to 10% Bank Shareholding",
+  "summary": "Replaces repeated prior approval requirement for qualifying institutional investors acquiring >5% bank stakes.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Replaces repeated prior approval requirement for qualifying institutional investors acquiring >5% bank stakes."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "One-Time Approval: One-time RBI clearance covers future acquisitions up to 10% voting rights/share capital.",
+        "Qualifying Entities: SEBI-registered MFs, IRDAI-registered Insurers, PFRDA-registered Pension Funds."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Standard RBI major shareholding threshold in banks is 5%."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Standard approval threshold (5%) vs one-time clearance cap (10%)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-22",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.831Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-258",
+      "sourceTitle": "RBI One-Time Approval Proposal for MFs & Insurers to Acquire up to 10% Bank Shareholding",
+      "sourceChecksum": "76433d29316d5a5967c6453daa9b18d5bd83c6915c8eda5bba276b214eb24de5",
+      "migrationTimestamp": "2026-08-15T12:12:52.831Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

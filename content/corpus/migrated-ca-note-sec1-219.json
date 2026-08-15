@@ -1,0 +1,50 @@
+{
+  "id": "migrated-ca-note-sec1-219",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Customs Duty Exempted on Lithium-Ion Battery Machinery & Charger Parts till March 2029",
+  "summary": "Customs Duty Exempted on Lithium-Ion Battery Machinery & Charger Parts till March 2029",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Duty Exemptions: Customs duty exempted on automotive/medical display assembly parts, mobile wireless charging modules, and lithium-ion cell machinery till March 31, 2029.",
+        "Previous Duty Rates: Duties previously ranged from 7.5% to 15%."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "CBIC works under Department of Revenue, Ministry of Finance."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-14",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.450Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-219",
+      "sourceTitle": "Customs Duty Exempted on Lithium-Ion Battery Machinery & Charger Parts till March 2029",
+      "sourceChecksum": "b0a34493f78a2ae9eac3654ce7acd2242630626cb09581d8b69e0b9355ffbcfa",
+      "migrationTimestamp": "2026-08-15T12:12:52.450Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

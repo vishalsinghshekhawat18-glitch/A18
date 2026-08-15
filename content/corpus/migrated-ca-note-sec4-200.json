@@ -1,0 +1,66 @@
+{
+  "id": "migrated-ca-note-sec4-200",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Parliament Passes Prevention of Insults to National Honour (Amendment) Bill 2026",
+  "summary": "Extends statutory protection under 1971 Act to National Song 'Vande Mataram'.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Extends statutory protection under 1971 Act to National Song 'Vande Mataram'."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Criminal Offence: Intentional insult, prevention, or disruption of Vande Mataram rendition carries up to 3 years imprisonment or fine.",
+        "Repeat Conviction: Mandatory minimum 1-year jail term.",
+        "Singing Clarification: Bill criminalises deliberate insult/obstruction, NOT the choice not to sing."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Award Title",
+        "Recipient / Winner",
+        "Conferred By / Key Detail"
+      ],
+      "rows": [
+        [
+          "Parliament Passes Prevention of Insults to National Honour (Amendment) Bill 2026",
+          "Criminal Offence: Intentional insult, prevention, or disruption of Vande Mataram rendition carries up to 3 years imprisonment or fine.",
+          "Vande Mataram composed by Bankim Chandra Chattopadhyay in 1875 (first published 1882 in Anandamath) | MoS Home: Nityanand Rai."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Vande Mataram composed by Bankim Chandra Chattopadhyay in 1875 (first published 1882 in Anandamath) | MoS Home: Nityanand Rai."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-04",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.449Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-200",
+      "sourceTitle": "Parliament Passes Prevention of Insults to National Honour (Amendment) Bill 2026",
+      "sourceChecksum": "19c6cc76e93f26ba04df501151275f1fef346190577a1f6aee84fdd29173211c",
+      "migrationTimestamp": "2026-08-15T12:12:52.449Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

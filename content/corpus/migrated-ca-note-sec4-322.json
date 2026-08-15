@@ -1,0 +1,49 @@
+{
+  "id": "migrated-ca-note-sec4-322",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "10th NCORD Meeting Chaired by Amit Shah: Releases Vision Document on Narcotics Control 2026-2029",
+  "summary": "Destroys ₹6,000 crore worth of seized narcotics during Online Drug Disposal Fortnight.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Destroys ₹6,000 crore worth of seized narcotics during Online Drug Disposal Fortnight."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Narcotics Roadmap: Released 3-year Vision Document on Narcotics Control (2026-2029).",
+        "Seizure Statistics: Drug seizures rose to 11.8 million kg (2014-2026) valued at ₹1,84,000 crore."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Narcotics Control Bureau (NCB) Director General: Anurag Garg."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-20",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.216Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-322",
+      "sourceTitle": "10th NCORD Meeting Chaired by Amit Shah: Releases Vision Document on Narcotics Control 2026-2029",
+      "sourceChecksum": "7beab9913982c615a9eefee2ca4dd70830d4f663e617f9f9309adf4964accf51",
+      "migrationTimestamp": "2026-08-15T12:12:53.216Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

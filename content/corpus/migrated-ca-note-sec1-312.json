@@ -1,0 +1,56 @@
+{
+  "id": "migrated-ca-note-sec1-312",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Government Raises Onion Price Stabilisation Buffer Procurement Price by 13% to ₹2,125/Quintal",
+  "summary": "Revises onion procurement price upwards for the 5th time this season via NAFED and NCCF.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Revises onion procurement price upwards for the 5th time this season via NAFED and NCCF."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Price Revision: Procurement price raised from ₹1,875 to ₹2,125 per quintal (w.e.f.",
+        "July 4).",
+        "Procurement Agencies: Procured through NAFED and National Cooperative Consumers' Federation (NCCF).",
+        "Production Estimate: 2025-26 onion production estimated at 307.37 lakh metric tonnes (LMT)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "NAFED HQ: New Delhi | Works under Ministry of Agriculture."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Revised procurement price (₹2,125/quintal) vs earlier price (₹1,875/quintal)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-10",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.215Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-312",
+      "sourceTitle": "Government Raises Onion Price Stabilisation Buffer Procurement Price by 13% to ₹2,125/Quintal",
+      "sourceChecksum": "d0f4e8645de0fbd4436dee4496dda57ab0ae54372b41e861e0fa8606e291a0ad",
+      "migrationTimestamp": "2026-08-15T12:12:53.215Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

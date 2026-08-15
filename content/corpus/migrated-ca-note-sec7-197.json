@@ -1,0 +1,65 @@
+{
+  "id": "migrated-ca-note-sec7-197",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Roshni Nadar Tops 2026 Candere Hurun India Women Leaders List (Wealth Multipliers)",
+  "summary": "Recognises 117 outstanding women leaders; Priya Nair leads Professional CEOs category.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Recognises 117 outstanding women leaders; Priya Nair leads Professional CEOs category."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Top Leaders: Roshni Nadar Malhotra (HCLTech, net worth ₹2,84,120 cr); Priya Nair (HUL CEO, company value ₹5,06,600 cr).",
+        "Demographics: Oldest honouree Rajni Bector (86 yrs); youngest Sheetal Devi (19 yrs); 84% self-made leaders."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Award Title",
+        "Recipient / Winner",
+        "Conferred By / Key Detail"
+      ],
+      "rows": [
+        [
+          "Roshni Nadar Tops 2026 Candere Hurun India Women Leaders List (Wealth Multipliers)",
+          "Top Leaders: Roshni Nadar Malhotra (HCLTech, net worth ₹2,84,120 cr); Priya Nair (HUL CEO, company value ₹5,06,600 cr).",
+          "Published by Candere by Kalyan Jewellers & Hurun India | Spans 12 categories."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Published by Candere by Kalyan Jewellers & Hurun India | Spans 12 categories."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec7",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC7",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.449Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec7-197",
+      "sourceTitle": "Roshni Nadar Tops 2026 Candere Hurun India Women Leaders List (Wealth Multipliers)",
+      "sourceChecksum": "2debe2742c4feb0b89de385fd851a026508a2c4f4b6ccdfe7e50cba117e6460e",
+      "migrationTimestamp": "2026-08-15T12:12:52.449Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

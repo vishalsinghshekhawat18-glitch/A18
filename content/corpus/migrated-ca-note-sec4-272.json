@@ -1,0 +1,48 @@
+{
+  "id": "migrated-ca-note-sec4-272",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Eight Traditional Himachal Pradesh Products Secure Geographical Indication (GI) Tags",
+  "summary": "Grants GI tags to Seabuckthorn, White Maize, Metal Art, Woollen Gowns, and Kinnauri Apples.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Grants GI tags to Seabuckthorn, White Maize, Metal Art, Woollen Gowns, and Kinnauri Apples."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "GI Awardees: Spiti Seabuckthorn (Chharma), Chamba Salooni Safed Makka & Metal Art, Sirmauri Loiya gown, Kinnauri Topi, Apple & Jewellery, Mandi Sepuvadi."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "GI Registry headquartered in Chennai, Tamil Nadu under DPIIT."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-13",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.831Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-272",
+      "sourceTitle": "Eight Traditional Himachal Pradesh Products Secure Geographical Indication (GI) Tags",
+      "sourceChecksum": "f01264dbc0dbb2ec8cf691f1aecb75836c006a3ad422f05fb26017eed9e5f350",
+      "migrationTimestamp": "2026-08-15T12:12:52.831Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

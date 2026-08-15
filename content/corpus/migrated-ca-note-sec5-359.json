@@ -1,0 +1,70 @@
+{
+  "id": "migrated-ca-note-sec5-359",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "DoT & TSDSI Sign MoU under ₹203 Crore 'TDIP Scheme' for Bharat 6G Standardisation",
+  "summary": "Provides up to 98% financial support to Indian startups/MSMEs for global SDO participation.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Provides up to 98% financial support to Indian startups/MSMEs for global SDO participation."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "TDIP Scheme Outlay: ₹203 crore outlay (2026-2031) under Technology Development and Investment Promotion Scheme.",
+        "Financial Support: Up to 98% funding for startups (turnover ≤ ₹10 cr) and 80% (turnover ₹10 cr – ₹500 cr) to participate in 3GPP, ITU, and oneM2M standards meetings."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Appointee / Official",
+        "New Position & Organization",
+        "Key Context & Details"
+      ],
+      "rows": [
+        [
+          "DoT & TSDSI Sign MoU under ₹203 Crore 'TDIP Scheme' for Bharat 6G Standardisation",
+          "Official Appointment",
+          "TDIP Scheme Outlay: ₹203 crore outlay (2026-2031) under Technology Development and Investment Promotion Scheme."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Telecom Minister: Jyotiraditya M. Scindia | Bharat 6G Mission target 2030."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Startup support limit (98% for turnover ≤ ₹10 cr) vs mid-sized MSME support limit (80%)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-28",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.665Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec5-359",
+      "sourceTitle": "DoT & TSDSI Sign MoU under ₹203 Crore 'TDIP Scheme' for Bharat 6G Standardisation",
+      "sourceChecksum": "238c90727192654764ad81692f95ad60a5728dc405b4e665cbebb54ec3f39c76",
+      "migrationTimestamp": "2026-08-15T12:12:53.665Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

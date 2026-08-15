@@ -1,0 +1,60 @@
+{
+  "id": "migrated-ca-note-sec1-193",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Cabinet Approves ₹84,084 Crore 'Samudra Manthan' Offshore Energy Exploration Scheme",
+  "summary": "Unlocks India's offshore crude oil and gas potential across Krishna-Godavari, Cauvery, and Mahanadi basins.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Unlocks India's offshore crude oil and gas potential across Krishna-Godavari, Cauvery, and Mahanadi basins."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Phase-I Outlay: ₹84,084 crore implementation through FY31 under Ministry of Petroleum & Natural Gas.",
+        "Scheme Components: (i) ₹28,534 cr (2D/3D seismic data & NDR AI re-processing); (ii) ₹55,200 cr (drilling 60 deepwater wells); (iii) ₹350 cr (monitoring).",
+        "Production Target: Increases domestic oil & gas production from 62 MMTOE to 80 MMTOE annually."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "India is 3rd-largest global crude oil consumer ( billion annual import bill) | Hydrocarbon resource target: 2.2B TOE."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Samudra Manthan Phase-I total outlay (₹84,084 crore) vs deepwater drilling component (₹55,200 crore)."
+    },
+    {
+      "type": "quote",
+      "quote": "Interview Focus Question: \"Why did India launch the risk-sharing Samudra Manthan scheme for deepwater energy exploration?\"\n💡 **Model Answer: Deepwater wells cost -150M each; state risk-sharing attracts private capital to reduce India's  crude import dependency.**",
+      "author": "Banking & Regulatory Board Panel"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-04",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.449Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-193",
+      "sourceTitle": "Cabinet Approves ₹84,084 Crore 'Samudra Manthan' Offshore Energy Exploration Scheme",
+      "sourceChecksum": "9a4247f44d8fe3aa24cdc4e6a07429e46afdba0b261f0dcddaeac090b3ef60c3",
+      "migrationTimestamp": "2026-08-15T12:12:52.449Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

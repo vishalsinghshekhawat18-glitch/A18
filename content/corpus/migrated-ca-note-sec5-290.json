@@ -1,0 +1,66 @@
+{
+  "id": "migrated-ca-note-sec5-290",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Dilip Asbe (NPCI CEO) Inducted into SWIFT Global Supervisory Board",
+  "summary": "Dilip Asbe (NPCI CEO) Inducted into SWIFT Global Supervisory Board",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Induction: Dilip Asbe inducted into SWIFT Global Supervisory Board.",
+        "SWIFT Governance: Overseen by G-10 central banks and European Central Bank (National Bank of Belgium lead overseer)."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Appointee / Official",
+        "New Position & Organization",
+        "Key Context & Details"
+      ],
+      "rows": [
+        [
+          "Dilip Asbe (NPCI CEO) Inducted into SWIFT Global Supervisory Board",
+          "Official Appointment",
+          "Induction: Dilip Asbe inducted into SWIFT Global Supervisory Board."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "SWIFT (Society for Worldwide Interbank Financial Telecommunication) HQ: La Hulpe, Belgium."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "SWIFT lead overseer central bank (National Bank of Belgium) vs India membership status (Non-member of G-10)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-31",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.214Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec5-290",
+      "sourceTitle": "Dilip Asbe (NPCI CEO) Inducted into SWIFT Global Supervisory Board",
+      "sourceChecksum": "da11eff33d8336f4232c7566f5e97f79769c6d0e66b4d25651a9d9ec54a2290a",
+      "migrationTimestamp": "2026-08-15T12:12:53.214Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

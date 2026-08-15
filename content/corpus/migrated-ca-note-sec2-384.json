@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec2-384",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "PFRDA Launches 'StAR NPS' Digital Onboarding Framework Developed by BSE Technologies",
+  "summary": "Streamlines digital account opening with ₹200 registration fee for individuals aged 18 to 85.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Streamlines digital account opening with ₹200 registration fee for individuals aged 18 to 85."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Digital Platform: StAR NPS operationalised for Points of Presence (PoPs) to digitise NPS enrolment.",
+        "Fee & Eligibility: Registration fee fixed at ₹200 + tax for resident Indians aged 18 to 85 years.",
+        "Sandbox Net Worth: Non-registered sandbox applicants require ₹10 lakh minimum net worth."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "PFRDA Chairperson: Sivasubramanian Ramann | HQ: New Delhi."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "StAR NPS age eligibility (18 to 85 years) vs registration fee (₹200)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-06",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:54.071Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-384",
+      "sourceTitle": "PFRDA Launches 'StAR NPS' Digital Onboarding Framework Developed by BSE Technologies",
+      "sourceChecksum": "0bc3f02513c1377df9fafcd1aee903f11bbb19ecead8b7a1765462860361d748",
+      "migrationTimestamp": "2026-08-15T12:12:54.071Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

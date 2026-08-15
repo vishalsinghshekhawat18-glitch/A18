@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec1-422",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "ICAR Launches AI-Based 'Oilseeds Kisaan Mitra' WhatsApp Chatbot (+91 4024598180)",
+  "summary": "Provides multilingual research-backed advisory to oilseed farmers directly on mobile phones.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Provides multilingual research-backed advisory to oilseed farmers directly on mobile phones."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "AI Chatbot: Developed by ICAR-Indian Institute of Oilseeds Research (ICAR-IIOR), Hyderabad.",
+        "Farmer Guidance: Responds instantly in any Indian language on crop management, seed selection, and pest control.",
+        "Import Dependency: India imports 55-60% of its edible oil requirement (~16 million tonnes at ₹1.32 lakh crore)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "ICAR Director General: Mangi Lal Jat | Est 1929 in New Delhi."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-14",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:54.072Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-422",
+      "sourceTitle": "ICAR Launches AI-Based 'Oilseeds Kisaan Mitra' WhatsApp Chatbot (+91 4024598180)",
+      "sourceChecksum": "8bd99f09c31f4f795dae8c3d6674650437058de7f79991d154bf94b447b0a911",
+      "migrationTimestamp": "2026-08-15T12:12:54.072Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

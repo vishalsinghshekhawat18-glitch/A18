@@ -1,0 +1,45 @@
+{
+  "id": "migrated-ca-note-sec4-160",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Ladakh Grants Statutory Protection to 23 Ancient Heritage Sites under J&K Preservation Act",
+  "summary": "Ladakh Grants Statutory Protection to 23 Ancient Heritage Sites under J&K Preservation Act",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Notifies 23 ancient forts, monasteries, and petroglyph clusters as 'Protected Monuments' across Leh and Kargil.",
+        "Prominent Monuments: Maitreya Buddha Rock Carving at Shey, Tingmosgang Fort, Ancient Caves at Saspol, and Chamba Karpo at Diggar."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Ladakh carved out as UT on October 31, 2019 | Lieutenant Governor: Vinai Kumar Saxena."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:37.958Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-160",
+      "sourceTitle": "Ladakh Grants Statutory Protection to 23 Ancient Heritage Sites under J&K Preservation Act",
+      "sourceChecksum": "b785ef44b9e77476376ee727cc189931433d2f49b1a1c2d2599bd951cc80465d",
+      "migrationTimestamp": "2026-08-15T12:12:37.958Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec2-252",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SEBI Tightens Staff Conduct Rules: 2-Year Cooling-Off Period & Equity Investment Bar",
+  "summary": "Bars SEBI staff from direct equity trading and caps investment product exposure at 25%.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Bars SEBI staff from direct equity trading and caps investment product exposure at 25%."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Cooling-Off Period: 2-year cooling-off period before former employees can represent clients before SEBI.",
+        "Equity Bar: Staff barred from direct investment in equities, derivatives, and convertible instruments.",
+        "Gift Threshold: Disclosure threshold for gifts raised from ₹10,000 to ₹50,000."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Amends SEBI (Employees' Service) Regulations 2026."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Cooling-off period (2 years) vs gift disclosure threshold (₹50,000)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-16",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.831Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-252",
+      "sourceTitle": "SEBI Tightens Staff Conduct Rules: 2-Year Cooling-Off Period & Equity Investment Bar",
+      "sourceChecksum": "092012256272ab5ba70191fb5a004272aa8f8cc0512feb1c14a1319f3b80c71e",
+      "migrationTimestamp": "2026-08-15T12:12:52.831Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

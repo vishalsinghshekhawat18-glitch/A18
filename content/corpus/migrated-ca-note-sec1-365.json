@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec1-365",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "DAE Target: 5 Indigenous Small Modular Reactors (SMRs) Operational by 2033 under SHANTI Act",
+  "summary": "BARC develops BSMR-200, SMR-55, and HTGCR models with ₹20,000 crore total SMR outlay.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "BARC develops BSMR-200, SMR-55, and HTGCR models with ₹20,000 crore total SMR outlay."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "3 SMR Models: BSMR-200 (220 MWe, Tarapur), SMR-55 (55 MWe, Tarapur), and HTGCR (5 MWth gas-cooled, Visakhapatnam).",
+        "Capacity Target: Nuclear capacity expanding from 8.78 GW to 22 GW (2031-32) and 100 GW by 2047 under SHANTI Act 2025."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "SHANTI Act 2025 opened India's nuclear sector to private participation."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "BSMR-200 site (Tarapur, Maharashtra) vs HTGCR site (Visakhapatnam, AP)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-26",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.665Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-365",
+      "sourceTitle": "DAE Target: 5 Indigenous Small Modular Reactors (SMRs) Operational by 2033 under SHANTI Act",
+      "sourceChecksum": "61dfd56d36dfc2589cb6b33e26f4ca4ab4b29dbc67b47604d517b9ccec58e0d3",
+      "migrationTimestamp": "2026-08-15T12:12:53.665Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

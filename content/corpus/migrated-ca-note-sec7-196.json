@@ -1,0 +1,71 @@
+{
+  "id": "migrated-ca-note-sec7-196",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "BIMCO-ICS Seafarer Report 2026: India Emerges as World's 2nd-Largest Supplier of Seafarers",
+  "summary": "Contributes 3,11,936 maritime professionals to global shipping, capturing 12.16% global workforce share.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Contributes 3,11,936 maritime professionals to global shipping, capturing 12.16% global workforce share."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Global Ranking: India rose to 2nd globally (behind Philippines, ahead of China and Russia).",
+        "Officer Share: 140,718 Indian maritime officers account for 13.41% of world's officer workforce.",
+        "Workforce Growth: Share grew from 5.2% in 2015 to 12.16% in 2026 under 'Mission 20%' target."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Award Title",
+        "Recipient / Winner",
+        "Conferred By / Key Detail"
+      ],
+      "rows": [
+        [
+          "BIMCO-ICS Seafarer Report 2026: India Emerges as World's 2nd-Largest Supplier of Seafarers",
+          "Global Ranking: India rose to 2nd globally (behind Philippines, ahead of China and Russia).",
+          "Report published by BIMCO & International Chamber of Shipping (ICS) | Ports Minister: Sarbananda Sonowal."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Report published by BIMCO & International Chamber of Shipping (ICS) | Ports Minister: Sarbananda Sonowal."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "India's global seafaring rank (2nd globally) vs global officer workforce share (13.41%)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec7",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-07",
+    "category": "SEC7",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.449Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec7-196",
+      "sourceTitle": "BIMCO-ICS Seafarer Report 2026: India Emerges as World's 2nd-Largest Supplier of Seafarers",
+      "sourceChecksum": "77b7385a7e90884c37410e350a05a18a200d96352281c73657e44f4143c9ead2",
+      "migrationTimestamp": "2026-08-15T12:12:52.449Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

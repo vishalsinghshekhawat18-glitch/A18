@@ -1,0 +1,70 @@
+{
+  "id": "migrated-ca-note-sec5-360",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "DPIIT Approves 51:49 Joint Venture Between Dixon Technologies & Vivo Mobile India",
+  "summary": "Dixon holds 51% controlling stake in ₹5 crore JV for domestic smartphone manufacturing.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Dixon holds 51% controlling stake in ₹5 crore JV for domestic smartphone manufacturing."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Equity Ratio: Dixon Technologies holds 51% controlling stake; Vivo Mobile India holds 49%.",
+        "Manufacturing Scale: Dixon operates 17 manufacturing facilities in India."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Appointee / Official",
+        "New Position & Organization",
+        "Key Context & Details"
+      ],
+      "rows": [
+        [
+          "DPIIT Approves 51:49 Joint Venture Between Dixon Technologies & Vivo Mobile India",
+          "Official Appointment",
+          "Equity Ratio: Dixon Technologies holds 51% controlling stake; Vivo Mobile India holds 49%."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "DPIIT Secretary: Amardeep Singh Bhatia | Ministry of Commerce & Industry."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Dixon controlling stake (51%) vs Vivo stake (49%)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-29",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.665Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec5-360",
+      "sourceTitle": "DPIIT Approves 51:49 Joint Venture Between Dixon Technologies & Vivo Mobile India",
+      "sourceChecksum": "a0c7c5a6b07e6cfed5f7979e9888f44d4a622024879cf0b24a09d061c8c6c2cb",
+      "migrationTimestamp": "2026-08-15T12:12:53.665Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "migrated-ca-note-sec1-151",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "MHA Reports Over 12,000 e-Zero FIRs Registered Against Cyber Financial Frauds (Delhi Tops List)",
+  "summary": "Expedites emergency reporting of financial cybercrime across 18 participating States and Union Territories.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Expedites emergency reporting of financial cybercrime across 18 participating States and Union Territories."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Operational Network: e-Zero FIR system (launched May 2025) implemented across 18 States/UTs, allowing direct online reporting via helpline 1930.",
+        "State Rankings: Delhi topped nationwide with 6,115 e-Zero FIRs, followed by Chandigarh (4,174) and Uttarakhand (552).",
+        "Procedural Window: Complainants must visit local territorial police station within 3 days to convert Zero FIR into regular FIR.",
+        "Constitutional Domain: 'Police' and 'Public Order' are State subjects under the Seventh Schedule of the Constitution."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "National Cyber Crime Reporting Portal (NCRP) administered under I4C (MHA) | CEO: Rajesh Kumar."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "3-day window to convert e-Zero FIR into regular FIR vs 30-day past due window for loan phone lock restrictions."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-03",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:37.958Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-151",
+      "sourceTitle": "MHA Reports Over 12,000 e-Zero FIRs Registered Against Cyber Financial Frauds (Delhi Tops List)",
+      "sourceChecksum": "d60e636b5c59caaa2aed3a078c5b9432ff7c0337c56da87b272f67d949f11236",
+      "migrationTimestamp": "2026-08-15T12:12:37.958Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

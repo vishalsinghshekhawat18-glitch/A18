@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec4-273",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "West Bengal Secures 3 New GI Tags: Jalbhara Sandesh, Manohara, & Balagarh Wooden Boats",
+  "summary": "Increases West Bengal's total GI registrations to 59, making it India's 3rd-highest GI-tagged state.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Increases West Bengal's total GI registrations to 59, making it India's 3rd-highest GI-tagged state."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "New GI Products: Chandannagar's Jalbhara Sandesh, Janai's Manohara sweet, and Balagarh traditional wooden boats.",
+        "State Ranking: West Bengal ranks 3rd in India (59 GI tags), behind Uttar Pradesh (83) and Tamil Nadu (76)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Uttar Pradesh ranks 1st in India for total GI tags (83)."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "West Bengal GI rank (3rd, 59 tags) vs Uttar Pradesh (1st, 83 tags) vs Tamil Nadu (2nd, 76 tags)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-14",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.831Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-273",
+      "sourceTitle": "West Bengal Secures 3 New GI Tags: Jalbhara Sandesh, Manohara, & Balagarh Wooden Boats",
+      "sourceChecksum": "523e89356e10a0ac462d76495881a5b50393e9e645d871d65ce53ffb7323c48a",
+      "migrationTimestamp": "2026-08-15T12:12:52.831Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

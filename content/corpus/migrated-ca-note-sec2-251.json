@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec2-251",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Bloomberg Launches Electronic Trading Platform for Indian Government Bonds (IGBs)",
+  "summary": "Connects FPIs directly to RBI's NDS-OM matching system for T+1 gilt settlement.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Connects FPIs directly to RBI's NDS-OM matching system for T+1 gilt settlement."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Platform Connectivity: Terminal directly connected to Negotiated Dealing System-Order Matching (NDS-OM).",
+        "Settlement Guarantee: T+1 trades guaranteed by Clearing Corporation of India Limited (CCIL)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "NDS-OM launched in 2005 by RBI | CCIL settles G-Sec and forex transactions."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "NDS-OM settlement cycle (T+1) vs stock market equities (T+1)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-15",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.831Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-251",
+      "sourceTitle": "Bloomberg Launches Electronic Trading Platform for Indian Government Bonds (IGBs)",
+      "sourceChecksum": "e0c77427ce893ba3ae4941b1444cc18d817e4db9b332fecaf4591c6bd692bf75",
+      "migrationTimestamp": "2026-08-15T12:12:52.831Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

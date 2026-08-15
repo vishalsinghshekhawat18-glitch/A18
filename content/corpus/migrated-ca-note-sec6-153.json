@@ -1,0 +1,50 @@
+{
+  "id": "migrated-ca-note-sec6-153",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Defence Minister Inaugurates Country's 1st Department of Military Medicine at Command Hospital, Lucknow",
+  "summary": "Establishes dedicated academic and operational military healthcare research under Army Medical Services.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Establishes dedicated academic and operational military healthcare research under Army Medical Services."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Administrative Nodal Body: Established under Directorate General of Medical Services (Army).",
+        "Strategic Alignment: Complements proposed Global Military Medicine Centre under Raksha Strategy Vision 2026-30.",
+        "Specialized Disciplines: Focuses on CBRNe medical response, damage control trauma, combat psychiatry, and high-altitude field care."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "AFMS Headquarters: New Delhi | DGAFMS: Air Marshal Sandeep Thareja."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:37.958Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec6-153",
+      "sourceTitle": "Defence Minister Inaugurates Country's 1st Department of Military Medicine at Command Hospital, Lucknow",
+      "sourceChecksum": "3b105dfbbc75fba914a0e7289e472adb4a3d9bdcaf721336a0f78a4d8f0db007",
+      "migrationTimestamp": "2026-08-15T12:12:37.958Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

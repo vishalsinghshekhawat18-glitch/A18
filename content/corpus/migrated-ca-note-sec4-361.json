@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec4-361",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "MCD & NDDB Sign MoU for 3 Compressed Bio-Gas (CBG) Plants in Delhi",
+  "summary": "Converts dairy cow dung into CBG at Nangli, Ghoga-Goyla, and Ghazipur to clean Yamuna.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Converts dairy cow dung into CBG at Nangli, Ghoga-Goyla, and Ghazipur to clean Yamuna."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "CBG Plant Locations: Nangli, Ghoga-Goyla, and Ghazipur waste management facilities in Delhi.",
+        "Livestock Owner Payout: Livestock owners receive ₹1 per kg of cow dung supplied."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Yamuna Rejuvenation Target: Zero untreated wastewater entering Yamuna by Dec 2028."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Cow dung procurement rate (₹1/kg) vs Yamuna zero-wastewater target (Dec 2028)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-30",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.665Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-361",
+      "sourceTitle": "MCD & NDDB Sign MoU for 3 Compressed Bio-Gas (CBG) Plants in Delhi",
+      "sourceChecksum": "e4e1ac0f5516d3e1e2b3b877db90937cb7a9b29e10dc59a0061e3b7e299bac80",
+      "migrationTimestamp": "2026-08-15T12:12:53.665Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

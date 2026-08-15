@@ -1,0 +1,57 @@
+{
+  "id": "migrated-ca-note-sec2-291",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Static GK: International Financial Services Centres Authority (IFSCA) Mandate & Governance",
+  "summary": "Unified regulator combining RBI, SEBI, IRDAI, and PFRDA powers for IFSC regions.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Unified regulator combining RBI, SEBI, IRDAI, and PFRDA powers for IFSC regions."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Establishment & Legal Basis: Established April 27, 2020 under the IFSCA Act 2019.",
+        "Headquarters & Leadership: Headquartered at GIFT City, Gandhinagar, Gujarat.",
+        "Chairperson: K.",
+        "Rajaraman.",
+        "Regulatory Jurisdiction: Combines regulatory oversight of banking, capital markets, insurance, and pensions in IFSC zones."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "IFSCA Act 2019 created India's 1st unified international financial regulator."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-01",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.214Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-291",
+      "sourceTitle": "Static GK: International Financial Services Centres Authority (IFSCA) Mandate & Governance",
+      "sourceChecksum": "ed10160d71a1577a56dac1af66578902c6222ceef2dd682a2e84b2be83070e41",
+      "migrationTimestamp": "2026-08-15T12:12:53.214Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

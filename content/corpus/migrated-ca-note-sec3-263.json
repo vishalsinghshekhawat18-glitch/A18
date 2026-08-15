@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec3-263",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SBI Issues ₹4,691 Crore Basel III-Compliant AT-1 Perpetual Bonds",
+  "summary": "Raises core Tier-I regulatory capital with a coupon rate of 7.75% and 5-year call option.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Raises core Tier-I regulatory capital with a coupon rate of 7.75% and 5-year call option."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Issuance Details: ₹4,691 crore raised via Basel III Additional Tier 1 (AT1) perpetual bonds at 7.75% coupon.",
+        "Loss Absorbency: AT1 bonds feature loss absorbency (can be written off or converted to equity during stress)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Basel III norms mandate minimum total capital ratio of 9% plus capital conservation buffer."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "AT1 bond call option window (after 5 years) vs perpetual maturity."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-01",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.831Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec3-263",
+      "sourceTitle": "SBI Issues ₹4,691 Crore Basel III-Compliant AT-1 Perpetual Bonds",
+      "sourceChecksum": "9b9eb2fd49f13e07bcf55dc6c1c56db227e21e67f964594488befe6a385f5222",
+      "migrationTimestamp": "2026-08-15T12:12:52.831Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "migrated-ca-note-sec4-274",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India Commissions First Geothermal Wells in Puga Valley, Ladakh",
+  "summary": "Drills India's deepest geothermal wells for 1 MW pilot geothermal power plant.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Drills India's deepest geothermal wells for 1 MW pilot geothermal power plant."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Location: Puga Valley, Union Territory of Ladakh.",
+        "Execution Agency: Executed by ONGC Energy Centre for 1 MW pilot geothermal power project."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Geothermal Energy taps heat from the Earth's sub-surface crust."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-15",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.831Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-274",
+      "sourceTitle": "India Commissions First Geothermal Wells in Puga Valley, Ladakh",
+      "sourceChecksum": "57cdd308cd6ff4bd2b90a6c6d06776424c277ac5c5fae7118636b982f7f6d888",
+      "migrationTimestamp": "2026-08-15T12:12:52.831Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

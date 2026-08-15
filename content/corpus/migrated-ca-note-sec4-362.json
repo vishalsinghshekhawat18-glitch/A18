@@ -1,0 +1,49 @@
+{
+  "id": "migrated-ca-note-sec4-362",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Arunachal Pradesh & Norway's Tidal Sail AS Sign MoU for 500 kW River Kinetic Plant",
+  "summary": "Establishes India's 1st river kinetic energy demonstration project generating power from river currents.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Establishes India's 1st river kinetic energy demonstration project generating power from river currents."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Project Capacity: 500 kW River Kinetic Energy Demonstration Project.",
+        "Technology Advantage: Generates electricity directly from river currents without requiring dams or civil barriers."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Arunachal Pradesh CM: Pema Khandu | Capital: Itanagar."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-31",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.665Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-362",
+      "sourceTitle": "Arunachal Pradesh & Norway's Tidal Sail AS Sign MoU for 500 kW River Kinetic Plant",
+      "sourceChecksum": "ca207654d36d0a5824f5e64ea26e760c8b90a50be950c5bdba98408986cd2d07",
+      "migrationTimestamp": "2026-08-15T12:12:53.665Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

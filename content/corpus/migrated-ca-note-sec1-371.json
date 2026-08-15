@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec1-371",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India & Sri Lanka Amend DTAA Protocol to Incorporate 'Principal Purpose Test (PPT)'",
+  "summary": "OECD BEPS anti-abuse provision empowered to deny tax treaty benefits for tax avoidance.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "OECD BEPS anti-abuse provision empowered to deny tax treaty benefits for tax avoidance."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "DTAA Protocol Amendment: Incorporates Principal Purpose Test (PPT) into 2013 India-Sri Lanka tax treaty.",
+        "Anti-Abuse Rule: Allows tax authorities to deny treaty benefits if primary purpose of a deal is gaining tax advantage.",
+        "Effective Date: Applies to income derived in India on or after April 1, 2027."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "OECD BEPS: Base Erosion and Profit Shifting framework."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "India-Sri Lanka PPT effective date (April 1, 2027) vs original treaty date (2013)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-01",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.665Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-371",
+      "sourceTitle": "India & Sri Lanka Amend DTAA Protocol to Incorporate 'Principal Purpose Test (PPT)'",
+      "sourceChecksum": "e0970861d637d55a0ef456dddf6a8276b4ce147f42ccea779e7a82243dc7e336",
+      "migrationTimestamp": "2026-08-15T12:12:53.665Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "migrated-ca-note-sec1-209",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "New EPFO Rules Mandate 3-Day Settlement Window with 12% Penal Interest on Delays",
+  "summary": "Imposes strict 3-day turnaround time for provident fund withdrawal claims to eliminate administrative delays.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Imposes strict 3-day turnaround time for provident fund withdrawal claims to eliminate administrative delays."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Settlement Window: EPFO mandated to settle PF withdrawal claims within 3 working days.",
+        "Penal Interest Penalty: Imposes 12% penal interest per annum on officials for claim delays exceeding 20 days.",
+        "Pension & Insurance Claims: Pension and EDLI insurance claims must be processed within 20 days.",
+        "Full Corpus Withdrawal Age: Lowers the age for full PF corpus withdrawal to 55 years (international workers 58 years)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "EPFO established in 1952 under EPF & MP Act 1952 | HQ: New Delhi."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "3-day PF settlement window vs 20-day penal interest threshold."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-04",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.450Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-209",
+      "sourceTitle": "New EPFO Rules Mandate 3-Day Settlement Window with 12% Penal Interest on Delays",
+      "sourceChecksum": "1abb35f5fc6ef3c564533acccdd0a4987c367ce13b997fe05b7c81ee873feced",
+      "migrationTimestamp": "2026-08-15T12:12:52.450Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

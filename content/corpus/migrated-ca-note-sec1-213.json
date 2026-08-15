@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec1-213",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Govt Disinvests 2.52% Base Stake in Cochin Shipyard via OFS at ₹1,400 Floor Price",
+  "summary": "Unlocks PSU equity via Offer for Sale (OFS) with an additional 2.52% green-shoe oversubscription option.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Unlocks PSU equity via Offer for Sale (OFS) with an additional 2.52% green-shoe oversubscription option."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Divestment Structure: Base 2.52% stake plus 2.52% green-shoe option at ₹1,400 per share floor price.",
+        "Government Stake: Union Government holds 67.91% equity stake in Cochin Shipyard Ltd (CSL).",
+        "Disinvestment Target: FY27 budget target set at ₹80,000 crore for PSU disinvestment and asset monetisation."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Cochin Shipyard Ltd HQ: Kochi, Kerala | Greenshoe Option: Post-listing stabilisation mechanism (up to 15% extra shares)."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Base OFS stake (2.52%) vs green-shoe option (2.52%) vs maximum greenshoe limit (15%)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-08",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.450Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-213",
+      "sourceTitle": "Govt Disinvests 2.52% Base Stake in Cochin Shipyard via OFS at ₹1,400 Floor Price",
+      "sourceChecksum": "e89cd196c7e768d00f5963ace970fdc94657dcbe1ccd7cfc97d31574617c174d",
+      "migrationTimestamp": "2026-08-15T12:12:52.450Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec1-385",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India-UK CETA and Social Security Agreement (DCC) Enter Force on July 15, 2026",
+  "summary": "Unlocks immediate duty-free access on 99% of tariff lines and extends social security exemption to 5 years.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Unlocks immediate duty-free access on 99% of tariff lines and extends social security exemption to 5 years."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Trade Accord: India-UK Comprehensive Economic and Trade Agreement (CETA) in force July 15, 2026.",
+        "Social Security (DCC): Double Contribution Convention (DCC) extends social security exemption from 3 to 5 years.",
+        "Tariff Relief: Provides immediate duty-free market access on 99% of Indian export tariff lines."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "UK Prime Minister: Keir Starmer | Capital: London."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "DCC social security exemption duration (5 years, up from 3 years)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-07",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:54.071Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-385",
+      "sourceTitle": "India-UK CETA and Social Security Agreement (DCC) Enter Force on July 15, 2026",
+      "sourceChecksum": "050268fc8e10c2a4fc096b94fd23b6e90a8674d196c20fa7cf12d017e307775d",
+      "migrationTimestamp": "2026-08-15T12:12:54.071Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

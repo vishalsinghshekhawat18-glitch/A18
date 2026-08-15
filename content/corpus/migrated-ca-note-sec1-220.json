@@ -1,0 +1,73 @@
+{
+  "id": "migrated-ca-note-sec1-220",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "World Bank Mobilises .2 Billion Package for PM Surya Ghar: Muft Bijli Yojana",
+  "summary": "Includes  million IBRD loan and  million Clean Technology Fund loan for rooftop solar.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Includes  million IBRD loan and  million Clean Technology Fund loan for rooftop solar."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Funding Components:  IBRD loan,  Clean Technology Fund concessional loan,  Livable Planet Fund grant.",
+        "Scheme Outlay: PM Surya Ghar Yojana approved in Feb 2024 with ₹75,021 crore outlay for 10 million households.",
+        "National RE Target: India committed to 60% non-fossil electricity capacity by 2035 and net-zero emissions by 2070."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Metric / Component",
+        "Threshold / Provision Detail"
+      ],
+      "rows": [
+        [
+          "Scheme Outlay",
+          "PM Surya Ghar Yojana approved in Feb 2024 with ₹75,021 crore outlay for 10 million households."
+        ],
+        [
+          "National RE Target",
+          "India committed to 60% non-fossil electricity capacity by 2035 and net-zero emissions by 2070."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "IBRD is the primary lending arm of the World Bank Group | HQ: Washington D.C."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "IBRD loan ( million) vs ADB loan ( million)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-15",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.450Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-220",
+      "sourceTitle": "World Bank Mobilises .2 Billion Package for PM Surya Ghar: Muft Bijli Yojana",
+      "sourceChecksum": "1413a98392afe6cf47726595e6a0426ccf1f4e2cd27dd0cb294b4ff3effc87cb",
+      "migrationTimestamp": "2026-08-15T12:12:52.450Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

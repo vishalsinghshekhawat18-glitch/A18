@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec1-379",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Mission Senehjori Launched to Transform Assam Muga Silk Sector by 2028",
+  "summary": "MDoNER Minister Jyotiraditya Scindia launches initiative to position Assam Muga silk in global luxury markets.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "MDoNER Minister Jyotiraditya Scindia launches initiative to position Assam Muga silk in global luxury markets."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Mission Mandate: Launched by Ministry of Development of North Eastern Region (MDoNER) for Assam's unique Muga silk.",
+        "Global Target: Aims to transform Assam Muga silk into a globally competitive luxury textile ecosystem by 2028."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Muga Silk carries GI tag and is produced exclusively in Assam."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-01",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:54.071Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-379",
+      "sourceTitle": "Mission Senehjori Launched to Transform Assam Muga Silk Sector by 2028",
+      "sourceChecksum": "18998d9eb1fc938f499774ae28319724300799edaa69a61fd2a7655b7eb33a37",
+      "migrationTimestamp": "2026-08-15T12:12:54.071Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

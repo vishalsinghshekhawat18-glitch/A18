@@ -1,0 +1,70 @@
+{
+  "id": "migrated-ca-note-sec5-319",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "GBU, Space Kidz India, and IN-SPACe Launch Mission ShakthiSAT (World's 1st All-Girls Lunar Satellite)",
+  "summary": "Engages 12,000 young girls from 108 countries to build a lunar satellite.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Engages 12,000 young girls from 108 countries to build a lunar satellite."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Mission Scope: World's 1st all-girls international satellite mission to the Moon.",
+        "Lead Agency: Conceptualised and led by Space Kidz India; Gautam Buddha University (GBU) academic partner."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Appointee / Official",
+        "New Position & Organization",
+        "Key Context & Details"
+      ],
+      "rows": [
+        [
+          "GBU, Space Kidz India, and IN-SPACe Launch Mission ShakthiSAT (World's 1st All-Girls Lunar Satellite)",
+          "Official Appointment",
+          "Mission Scope: World's 1st all-girls international satellite mission to the Moon."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Space Kidz India Founder & CEO: Dr. Srimathy Kesan | HQ: Chennai."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Mission ShakthiSAT reach (12,000 girls from 108 countries)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-17",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.216Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec5-319",
+      "sourceTitle": "GBU, Space Kidz India, and IN-SPACe Launch Mission ShakthiSAT (World's 1st All-Girls Lunar Satellite)",
+      "sourceChecksum": "7a5e8fc28ac4378476803a8d3384c7f4157165fb67aeee3ce53a184c13c30b7a",
+      "migrationTimestamp": "2026-08-15T12:12:53.216Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

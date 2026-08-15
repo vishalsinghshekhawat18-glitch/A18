@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec1-419",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "PMUY Annual Subsidised LPG Cylinder Quota Reduced from 9 to 4",
+  "summary": "Retains targeted subsidy of ₹300 per 14.2-kg LPG cylinder for poor households.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Retains targeted subsidy of ₹300 per 14.2-kg LPG cylinder for poor households."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Quota Reduction: Subsidised 14.2-kg LPG cylinders per beneficiary under PM Ujjwala Yojana cut from 9 to 4 per year.",
+        "Subsidy Level: Targeted subsidy of ₹300 per refill (introduced Oct 2023) continues to be credited via DBT.",
+        "PMUY Launch: Launched in May 2016 to provide deposit-free LPG connections to adult women from BPL families."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "PMUY implemented by Ministry of Petroleum and Natural Gas."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Current subsidised cylinder quota (4 per year) vs original 2016 entitlement (12 per year)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-11",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:54.072Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-419",
+      "sourceTitle": "PMUY Annual Subsidised LPG Cylinder Quota Reduced from 9 to 4",
+      "sourceChecksum": "295aa05011875d5f35af41b37dfe81b3988e57e2f905b66740ad3e6055e574d7",
+      "migrationTimestamp": "2026-08-15T12:12:54.072Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

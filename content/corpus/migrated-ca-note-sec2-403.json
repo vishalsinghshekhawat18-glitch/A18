@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec2-403",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Draft Directions on Call, Notice & Term Money Markets: SPD Limit Raised to 400%",
+  "summary": "Allows AIFIs and NBFCs into term money market; caps NBFC term money borrowing at 200% NOF.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Allows AIFIs and NBFCs into term money market; caps NBFC term money borrowing at 200% NOF."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Entity Expansion: AIFIs and NBFCs (excl Base Layer) permitted to borrow and lend in term money market; corporate entities as lenders.",
+        "Borrowing Caps: Standalone Primary Dealers (SPDs) term money limit raised to 400% of Net Owned Funds (NOF); NBFC limit set at 200% NOF.",
+        "Platform Mandate: All participants must join NDS-CALL platform within 6 months; OTC deals reported within 15 mins."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Call Money (1 day), Notice Money (2-14 days), Term Money (15 days - 1 year)."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "SPD term money limit (400% NOF) vs NBFC term money limit (200% NOF) vs SPD call/notice limit (225%)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-25",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:54.072Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-403",
+      "sourceTitle": "RBI Draft Directions on Call, Notice & Term Money Markets: SPD Limit Raised to 400%",
+      "sourceChecksum": "abb1c98e9a423469c487b6a391db2fc918970daba6a905d6586b6f62724e9e80",
+      "migrationTimestamp": "2026-08-15T12:12:54.072Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

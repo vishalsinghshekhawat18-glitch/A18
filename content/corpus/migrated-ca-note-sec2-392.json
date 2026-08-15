@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec2-392",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India Q4 FY26 Current Account Surplus Touches .1 Billion (0.7% of GDP)",
+  "summary": "Full-year FY26 Current Account Deficit narrows to .2 billion (0.6% of GDP).",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Full-year FY26 Current Account Deficit narrows to .2 billion (0.6% of GDP)."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Q4 Surplus: Current account recorded .1 billion surplus (0.7% GDP) in Jan-March Q4 FY26.",
+        "Full-Year CAD: FY26 CAD stood at .2 billion (0.6% GDP), down from .9B.",
+        "Net Inflows & Forex: Net FDI inflows .9 billion in FY26; forex reserves rose .2 billion in Q4."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Balance of Payments (BoP) compiled quarterly by RBI."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Q4 surplus (.1B / 0.7% GDP) vs full-year CAD (.2B / 0.6% GDP)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-14",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:54.071Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-392",
+      "sourceTitle": "India Q4 FY26 Current Account Surplus Touches .1 Billion (0.7% of GDP)",
+      "sourceChecksum": "3964c7b31ee89d851204b6fc5a974624499746d7179fa25e68700a4b186ed8a0",
+      "migrationTimestamp": "2026-08-15T12:12:54.071Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

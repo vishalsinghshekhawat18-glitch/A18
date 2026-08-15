@@ -1,0 +1,46 @@
+{
+  "id": "migrated-ca-note-sec3-164",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Indian Railways Transports Live Donor Heart by Vande Bharat Express for 1st Time",
+  "summary": "Indian Railways Transports Live Donor Heart by Vande Bharat Express for 1st Time",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Ferried live heart 250 km from Surat to Ahmedabad aboard Vande Bharat Express (Train No. 20901) to U.N.",
+        "Mehta Institute.",
+        "Green Corridor: Platform 1 at Ahmedabad Station connected via RPF-Police green corridor."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Indian Railways CEO: Satish Kumar | RPF works under Ministry of Railways."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-02",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:37.959Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec3-164",
+      "sourceTitle": "Indian Railways Transports Live Donor Heart by Vande Bharat Express for 1st Time",
+      "sourceChecksum": "aa8f3020e41c58384be44e9862a90442cab1275b57a7226a38204c15153fc543",
+      "migrationTimestamp": "2026-08-15T12:12:37.959Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

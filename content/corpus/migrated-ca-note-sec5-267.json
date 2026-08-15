@@ -1,0 +1,70 @@
+{
+  "id": "migrated-ca-note-sec5-267",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "IRDAI Approves Patanjali Ayurved & DS Group's ₹4,500 Crore Acquisition of Magma General Insurance",
+  "summary": "Patanjali Ayurved acquires 73.56% majority stake from Adar Poonawalla's Sanoti Properties.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Patanjali Ayurved acquires 73.56% majority stake from Adar Poonawalla's Sanoti Properties."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Acquisition Value: ₹4,500 crore total transaction value.",
+        "Shareholding Division: Patanjali Ayurved acquires 73.56% stake; DS Group acquires 24.50% stake."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Appointee / Official",
+        "New Position & Organization",
+        "Key Context & Details"
+      ],
+      "rows": [
+        [
+          "IRDAI Approves Patanjali Ayurved & DS Group's ₹4,500 Crore Acquisition of Magma General Insurance",
+          "Official Appointment",
+          "Acquisition Value: ₹4,500 crore total transaction value."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Magma General Insurance HQ: Mumbai, Maharashtra."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Patanjali stake (73.56%) vs DS Group stake (24.50%)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-08",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.831Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec5-267",
+      "sourceTitle": "IRDAI Approves Patanjali Ayurved & DS Group's ₹4,500 Crore Acquisition of Magma General Insurance",
+      "sourceChecksum": "bf0a9d2514e126fa10144d821573eb1a11cf4984dd6e34af0e7e8de0726b7593",
+      "migrationTimestamp": "2026-08-15T12:12:52.831Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

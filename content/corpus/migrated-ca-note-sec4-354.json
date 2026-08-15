@@ -1,0 +1,49 @@
+{
+  "id": "migrated-ca-note-sec4-354",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Chhattisgarh Passes 'Chhattisgarh Ease of Doing Business Act 2026'",
+  "summary": "First Indian state to introduce a comprehensive risk-based and trust-based business permission system.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "First Indian state to introduce a comprehensive risk-based and trust-based business permission system."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Risk-Based Approvals: Replaces uniform approvals with risk-based self-certification for low-risk businesses and deemed approvals for larger units.",
+        "Initial Scope: Encompasses 43 services across 8 state government departments."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Chhattisgarh CM: Vishnu Deo Sai | Capital: Raipur."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-23",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.665Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-354",
+      "sourceTitle": "Chhattisgarh Passes 'Chhattisgarh Ease of Doing Business Act 2026'",
+      "sourceChecksum": "106fceb26201443bb1c89baa093f1289bf33f54da48d16cbbdfd7c82d857b741",
+      "migrationTimestamp": "2026-08-15T12:12:53.665Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

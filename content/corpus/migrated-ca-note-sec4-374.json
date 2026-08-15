@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec4-374",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Delhi Govt Rolls Out 'Delhi Lakshmi Yojana' (₹2,500/Month for Women)",
+  "summary": "Replaces Mahila Samriddhi Yojana with 1st instalment of ₹2,500 on August 28.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Replaces Mahila Samriddhi Yojana with 1st instalment of ₹2,500 on August 28."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Financial Benefit: ₹2,500/month for eligible women (aged 21-60, resident for 10+ years).",
+        "Eligibility Caps: Family electricity usage ≤ 2,400 units/year, annual income ≤ ₹2.5 lakh, max 3 living children."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Delhi CM: Rekha Gupta | 1st installment released on Raksha Bandhan."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Electricity consumption cap (2,400 units/yr) vs maximum children limit (3 children)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-04",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.666Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-374",
+      "sourceTitle": "Delhi Govt Rolls Out 'Delhi Lakshmi Yojana' (₹2,500/Month for Women)",
+      "sourceChecksum": "79c74abeecff4b61efe4b9e847e6a8b02481e0a1e315e2a449145fed68cab9a7",
+      "migrationTimestamp": "2026-08-15T12:12:53.666Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

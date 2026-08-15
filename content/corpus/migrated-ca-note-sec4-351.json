@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec4-351",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Andhra Pradesh Launches 'Pillale Sampada' (Children are Wealth) Population Initiative",
+  "summary": "Offers ₹30,000 for 3rd child and ₹40,000 for 4th child to tackle declining fertility.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Offers ₹30,000 for 3rd child and ₹40,000 for 4th child to tackle declining fertility."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Demographic Incentive: Financial assistance of ₹30,000 for 3rd child birth and ₹40,000 for 4th child birth.",
+        "Policy Vision: Tackles declining fertility and rapid population ageing in southern states under 'Swarna Andhra 2047'."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Andhra Pradesh CM: N. Chandrababu Naidu | Per capita target ₹55 lakh by 2047."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Incentive for 3rd child (₹30,000) vs 4th child (₹40,000)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-20",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.665Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-351",
+      "sourceTitle": "Andhra Pradesh Launches 'Pillale Sampada' (Children are Wealth) Population Initiative",
+      "sourceChecksum": "5a9c908f1cbdeede94c6c1d185bef21abfaebd7df35803fd8ed5089cff72aa37",
+      "migrationTimestamp": "2026-08-15T12:12:53.665Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

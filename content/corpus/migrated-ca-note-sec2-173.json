@@ -1,0 +1,66 @@
+{
+  "id": "migrated-ca-note-sec2-173",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Monisha Chakraborty Appointed Executive Director of Reserve Bank of India",
+  "summary": "Monisha Chakraborty Appointed Executive Director of Reserve Bank of India",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Appointed ED overseeing Foreign Exchange Department and Financial Markets Regulation Department.",
+        "Career background: Over 3 decades at RBI; previously Chief General Manager-in-Charge of Department of Supervision."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Appointee / Official",
+        "New Position & Organization",
+        "Key Context & Details"
+      ],
+      "rows": [
+        [
+          "Monisha Chakraborty",
+          "Executive Director of Reserve Bank of India",
+          "Appointed ED overseeing Foreign Exchange Department and Financial Markets Regulation Department."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "RBI Governor: Sanjay Malhotra (26th) | 4 Deputy Governors."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:37.959Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-173",
+      "sourceTitle": "Monisha Chakraborty Appointed Executive Director of Reserve Bank of India",
+      "sourceChecksum": "85560842c569936e74588d0ed2d76080763eee350a12962d319299c17f858877",
+      "migrationTimestamp": "2026-08-15T12:12:37.959Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

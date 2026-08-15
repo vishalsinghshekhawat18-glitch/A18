@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec4-201",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Assam Passes Land & Revenue Regulation Bill 2026 Creating 5km Heritage Protected Belts",
+  "summary": "Restricts land transactions within 5 km radius of 250+ year old religious institutions to original inhabitants.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Restricts land transactions within 5 km radius of 250+ year old religious institutions to original inhabitants."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Eligibility Criteria: Land sales/purchases within 5-km radius restricted exclusively to SCs, STs, and 'original inhabitants' (75 years documented residence).",
+        "Original Inhabitant Definition: Continuous family residence in protected belt for 3 generations as of January 1, 2006 (25 yrs per generation)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Assam CM: Himanta Biswa Sarma | Amends Assam Land and Revenue Regulation 1886."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Protected heritage radius (5 km) vs documented residence threshold (75 years / 3 generations)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.450Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-201",
+      "sourceTitle": "Assam Passes Land & Revenue Regulation Bill 2026 Creating 5km Heritage Protected Belts",
+      "sourceChecksum": "8af7abe15a48fa79cc649236af845ff26d09c3e0feac432f8251f08493d18372",
+      "migrationTimestamp": "2026-08-15T12:12:52.450Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

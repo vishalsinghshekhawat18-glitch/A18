@@ -1,0 +1,72 @@
+{
+  "id": "migrated-ca-note-sec1-217",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "ADB Trims India's FY27 Growth Forecast to 6.6% Amid Energy Price Concerns",
+  "summary": "Asian Development Outlook (ADO) raises India inflation forecast sharply to 5.2%.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Asian Development Outlook (ADO) raises India inflation forecast sharply to 5.2%."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "GDP Revision: India FY27 GDP growth revised to 6.6% (from earlier 6.9%) due to Middle East energy risks.",
+        "Inflation Forecast: Inflation forecast raised to 5.2% (from 4.5% projected in April)."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Metric / Component",
+        "Threshold / Provision Detail"
+      ],
+      "rows": [
+        [
+          "GDP Revision",
+          "India FY27 GDP growth revised to 6.6% (from earlier 6.9%) due to Middle East energy risks."
+        ],
+        [
+          "Inflation Forecast",
+          "Inflation forecast raised to 5.2% (from 4.5% projected in April)."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "ADB Asian Development Outlook published biannually | ADB HQ: Manila."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "ADB FY27 GDP forecast (6.6%) vs IMF FY27 GDP forecast (6.4%)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-12",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.450Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-217",
+      "sourceTitle": "ADB Trims India's FY27 Growth Forecast to 6.6% Amid Energy Price Concerns",
+      "sourceChecksum": "aec8acdc1907d2cf5c5c0c0e6f8937e373a7845f2222683d4faee2ddda7868a5",
+      "migrationTimestamp": "2026-08-15T12:12:52.450Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

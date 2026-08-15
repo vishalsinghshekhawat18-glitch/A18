@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec4-270",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Centre Notifies 7th Draft for Ecologically Sensitive Areas (ESA) in Western Ghats",
+  "summary": "Proposes protection for 56,825 sq. km. across 6 states based on Madhav Gadgil WGEEP report.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Proposes protection for 56,825 sq. km. across 6 states based on Madhav Gadgil WGEEP report."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Protected Area: 56,825 sq. km. across Gujarat, Maharashtra, Goa, Karnataka, Kerala, and Tamil Nadu (1,500 km length).",
+        "Committee Reference: Western Ghats Ecology Expert Panel (WGEEP 2011) headed by Madhav Gadgil."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Western Ghats (Sahyadri Hills) designated UNESCO World Heritage Site in 2012."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Number of Western Ghats ESA states (6 states) vs total protected area (56,825 sq km)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-11",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.831Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-270",
+      "sourceTitle": "Centre Notifies 7th Draft for Ecologically Sensitive Areas (ESA) in Western Ghats",
+      "sourceChecksum": "2705b0fa7e63d2f2119f07b78d54b8141017945927c0d25fdf633513a5cb2dba",
+      "migrationTimestamp": "2026-08-15T12:12:52.831Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

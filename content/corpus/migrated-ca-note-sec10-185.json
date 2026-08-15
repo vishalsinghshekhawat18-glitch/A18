@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec10-185",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Cabinet Approves Revamped Khelo India Scheme & Enhanced ANSFs Assistance with ₹36,441 Cr Outlay",
+  "summary": "8-fold budget increase creates athlete development pathway from grassroots to TOPS.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "8-fold budget increase creates athlete development pathway from grassroots to TOPS."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Outlay Allocation: Total ₹36,441 crore (FY27 to FY31) comprising ₹29,054 crore for Khelo India and ₹7,387 crore for ANSFs.",
+        "New Athlete Category: Introduced 'Emerging Khelo India Athletes (E-KIAs)' alongside school programs KIFS and KIUV.",
+        "Coaching Standardisation: Setting up National Coach Accreditation Board (NCAB) to professionalise coaching."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Sports Minister: Mansukh Mandaviya | Targets 2030 CWG hosting and 2036 Olympic Games bid."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Khelo India outlay (₹29,054 crore) vs National Sports Federations ANSF outlay (₹7,387 crore)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec10",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-03",
+    "category": "SEC10",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.449Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec10-185",
+      "sourceTitle": "Cabinet Approves Revamped Khelo India Scheme & Enhanced ANSFs Assistance with ₹36,441 Cr Outlay",
+      "sourceChecksum": "2db9f47cce2f7c65075d4faef45a5eaba7dce8feb528f996fac6e43a5d27599c",
+      "migrationTimestamp": "2026-08-15T12:12:52.449Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

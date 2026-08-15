@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec1-363",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India Accepts WTO Fisheries Subsidies Agreement (123rd Member)",
+  "summary": "Commerce Secretary deposits Instrument of Acceptance to curb harmful wild-capture subsidies.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Commerce Secretary deposits Instrument of Acceptance to curb harmful wild-capture subsidies."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Acceptance Milestone: India becomes 123rd WTO member to accept Agreement on Fisheries Subsidies.",
+        "Coverage Scope: Curbs subsidies for IUU (illegal, unreported, unregulated) fishing; strictly excludes aquaculture and inland fisheries.",
+        "Effective Date: Entered into force Sept 15, 2025 after 2/3rd WTO member acceptance."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "WTO Ministerial Conference (12th MC) adopted agreement in Geneva in June 2022."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Wild-capture marine fishing subsidies (covered) vs aquaculture and inland fisheries (excluded)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-24",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.665Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-363",
+      "sourceTitle": "India Accepts WTO Fisheries Subsidies Agreement (123rd Member)",
+      "sourceChecksum": "c3ecd8c3d48c610daea86ed7c680ab845d7948ee7bb2da15e31b0bf200c6e8f5",
+      "migrationTimestamp": "2026-08-15T12:12:53.665Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

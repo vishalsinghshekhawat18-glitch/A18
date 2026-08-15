@@ -1,0 +1,71 @@
+{
+  "id": "migrated-ca-note-sec5-207",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Microsoft, Lightstorm, Singtel, & Tata Comms Partner to Build 'I-2SEA' Undersea Cable",
+  "summary": "Links India with Malaysia and Singapore to expand regional AI and cloud data centre connectivity.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Links India with Malaysia and Singapore to expand regional AI and cloud data centre connectivity."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Consortium Partners: Lightstorm, Microsoft, Singtel, and Tata Communications.",
+        "Landing Points in India: Machilipatnam (Andhra Pradesh) and South Chennai (Tamil Nadu).",
+        "System Suppliers: NEC Corporation appointed system supplier; ASEAN Cableship Pte Ltd (ACPL) marine partner."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Appointee / Official",
+        "New Position & Organization",
+        "Key Context & Details"
+      ],
+      "rows": [
+        [
+          "Microsoft, Lightstorm, Singtel, & Tata Comms Partner to Build 'I-2SEA' Undersea Cable",
+          "Official Appointment",
+          "Consortium Partners: Lightstorm, Microsoft, Singtel, and Tata Communications."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Singtel HQ: Singapore | Tata Communications HQ: Mumbai | NEC Corporation HQ: Tokyo, Japan."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Landing points (Machilipatnam & Chennai) vs international hubs (Kuala Lumpur & Singapore)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-02",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.450Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec5-207",
+      "sourceTitle": "Microsoft, Lightstorm, Singtel, & Tata Comms Partner to Build 'I-2SEA' Undersea Cable",
+      "sourceChecksum": "15d4a4d5d1855a000f3687b08ebee0144680da749d4ebe8b9fd3aea9f8bec5eb",
+      "migrationTimestamp": "2026-08-15T12:12:52.450Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

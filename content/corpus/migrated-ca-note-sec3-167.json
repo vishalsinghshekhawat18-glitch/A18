@@ -1,0 +1,49 @@
+{
+  "id": "migrated-ca-note-sec3-167",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SBI Card and Google Pay Launch Co-Branded 'Google Pay Flex SBI Card' on RuPay & Visa",
+  "summary": "Integrates UPI payment linking and tap-to-pay tokenization on Google Pay app.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Integrates UPI payment linking and tap-to-pay tokenization on Google Pay app."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Co-Branded Lineage: Google Pay's 2nd co-branded credit card in India (after Axis Bank in Dec 2025).",
+        "Payment Interoperability: RuPay variant can be linked directly to UPI for merchant QR payments."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "SBI Cards MD & CEO: Salila Pande | Google CEO: Sundar Pichai."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-06",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:37.959Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec3-167",
+      "sourceTitle": "SBI Card and Google Pay Launch Co-Branded 'Google Pay Flex SBI Card' on RuPay & Visa",
+      "sourceChecksum": "2edb7cbdf2399938fc17820bdbe6efd19964bb95a6a4101afa911a7580b73cc2",
+      "migrationTimestamp": "2026-08-15T12:12:37.959Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

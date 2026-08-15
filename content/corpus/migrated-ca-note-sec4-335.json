@@ -1,0 +1,73 @@
+{
+  "id": "migrated-ca-note-sec4-335",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "MoE UDISE+ 2025-26 Report: Pupil-Teacher Ratio Improves to 10-21 Across Key Stages",
+  "summary": "Teacher count rises to 1.02 crore as secondary Gross Enrolment Ratio touches 71.7%.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Teacher count rises to 1.02 crore as secondary Gross Enrolment Ratio touches 71.7%."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Pupil-Teacher Ratio (PTR): 10 at foundational level, 12 at preparatory, 17 at middle, 21 at secondary (all better than NEP 30:1 target).",
+        "Enrolment & Dropouts: Secondary GER rose to 71.7% (from 68.5%); secondary dropout rate fell to 7% (from 8.2%); female teaching staff 54.9%.",
+        "Single-Teacher Reduction: Single-teacher schools fell to 1,00,843; zero-enrolment schools dropped 29% to 5,663."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Metric / Component",
+        "Threshold / Provision Detail"
+      ],
+      "rows": [
+        [
+          "Enrolment & Dropouts",
+          "Secondary GER rose to 71.7% (from 68.5%); secondary dropout rate fell to 7% (from 8.2%); female teaching staff 54.9%."
+        ],
+        [
+          "Single-Teacher Reduction",
+          "Single-teacher schools fell to 1,00,843; zero-enrolment schools dropped 29% to 5,663."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "UDISE+ (Unified District Information System for Education Plus) covers 14.8 lakh schools and 26 crore students."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "NEP recommended PTR (30:1) vs secondary level actual PTR (21:1)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-18",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.664Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-335",
+      "sourceTitle": "MoE UDISE+ 2025-26 Report: Pupil-Teacher Ratio Improves to 10-21 Across Key Stages",
+      "sourceChecksum": "47e7a0f7365cc161d53ba86e8f410f6747fd85604f7d3fc6307061bdf311d232",
+      "migrationTimestamp": "2026-08-15T12:12:53.664Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

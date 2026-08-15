@@ -1,0 +1,60 @@
+{
+  "id": "migrated-ca-note-sec2-170",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Defers Revised Basel III Pillar 3 Disclosure Norms Implementation to April 1, 2027",
+  "summary": "Pushes back commencement to align Pillar 3 market discipline disclosures with Expected Credit Loss (ECL) provisioning.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Pushes back commencement to align Pillar 3 market discipline disclosures with Expected Credit Loss (ECL) provisioning."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Revised Timeline: Deferred from September 30, 2026 to April 1, 2027 (1st revised quarterly disclosure for quarter ending June 30, 2027).",
+        "Regulatory Directions: RBI issued 10 amendment directions covering commercial banks, SFBs, and payments banks.",
+        "Pillar 3 Scope: Mandates consolidated public disclosures on capital adequacy, risk-weighted assets (RWAs), and risk governance."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Basel III standards developed by Basel Committee on Banking Supervision (BCBS), Basel, Switzerland."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Pillar 3 deferred implementation date (April 1, 2027) vs 1st revised quarterly report (June 30, 2027)."
+    },
+    {
+      "type": "quote",
+      "quote": "Interview Focus Question: \"Why did RBI defer Basel III Pillar 3 disclosure norms to April 2027?\"\n💡 **Model Answer: Grants banks IT upgrade preparation time to align Pillar 3 market disclosures with Expected Credit Loss (ECL) credit-risk capital norms.**",
+      "author": "Banking & Regulatory Board Panel"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-02",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:37.959Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-170",
+      "sourceTitle": "RBI Defers Revised Basel III Pillar 3 Disclosure Norms Implementation to April 1, 2027",
+      "sourceChecksum": "55f71a28062097cf087da55bee756cc75d73ac4fed68d7ee6e7c82a8da8579cd",
+      "migrationTimestamp": "2026-08-15T12:12:37.959Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec1-411",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "VYOMA Innovation Challenge Launched for Offline & Multilingual Voice AI Solutions",
+  "summary": "DIBD MeitY partners with Current AI and Kalpa Impact to offer up to ₹80 lakh in prizes.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "DIBD MeitY partners with Current AI and Kalpa Impact to offer up to ₹80 lakh in prizes."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Challenge Mandate: Encourages open-source, voice-first AI solutions operating in low-connectivity environments.",
+        "Reference Device: Builds on 'Sunno Sutra', an open-source handheld AI device unveiled at IndiaAI Impact Summit 2026.",
+        "Developer Support: 20 shortlisted teams receive developer kits and mentorship."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Digital India BHASHINI Division (DIBD) CEO: Amitabh Nag | HQ: New Delhi."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-03",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:54.072Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-411",
+      "sourceTitle": "VYOMA Innovation Challenge Launched for Offline & Multilingual Voice AI Solutions",
+      "sourceChecksum": "9ec15cb523b5374b7b6e5b4b35ac7ae4d5e15f122cd490e7d9967e02c664e5af",
+      "migrationTimestamp": "2026-08-15T12:12:54.072Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

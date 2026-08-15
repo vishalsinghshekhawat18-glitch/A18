@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec2-240",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Income Tax Data: 576 Individuals Report Gross Income Above ₹100 Crore in AY 2025-26",
+  "summary": "High-income taxpayers rise 39% YoY as rural-urban Gini inequality index narrows.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "High-income taxpayers rise 39% YoY as rural-urban Gini inequality index narrows."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Super-Rich Taxpayers: 576 individuals reported income > ₹100 crore in AY 2025-26 (up 39% from 415).",
+        "Gini Inequality Reduction: Household survey Gini coefficient fell to 0.237 for rural areas and 0.284 for urban areas."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Gini Coefficient measures income/consumption inequality (0 = perfect equality, 1 = absolute inequality)."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Rural Gini coefficient (0.237) vs Urban Gini coefficient (0.284)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-04",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.830Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-240",
+      "sourceTitle": "Income Tax Data: 576 Individuals Report Gross Income Above ₹100 Crore in AY 2025-26",
+      "sourceChecksum": "751f44ca3b4bb2df8db1a7752b6d269768b029dcee5f902617f77b4ec76c91a9",
+      "migrationTimestamp": "2026-08-15T12:12:52.830Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

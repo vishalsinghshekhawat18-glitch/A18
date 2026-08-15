@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec2-246",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SEBI Revises Rules for Unpaid Client Securities (CUSPA Account Auto-Pledge)",
+  "summary": "Mandates direct demat payout followed by auto-pledge in Client Unpaid Securities Pledgee Account.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Mandates direct demat payout followed by auto-pledge in Client Unpaid Securities Pledgee Account."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "CUSPA Mechanism: Unpaid securities credited directly to client demat and auto-pledged to broker's CUSPA account.",
+        "Broker Right: Broker permitted to liquidate unpaid securities if payment obligation is not fulfilled."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "SEBI HQ: Mumbai | Regulates stockbrokers under SEBI (Stock Brokers) Regulations."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-10",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.830Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-246",
+      "sourceTitle": "SEBI Revises Rules for Unpaid Client Securities (CUSPA Account Auto-Pledge)",
+      "sourceChecksum": "f5e821a981f927155c7ad58734bb9174e81eb380ec5db405589d329e9bd663d4",
+      "migrationTimestamp": "2026-08-15T12:12:52.830Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

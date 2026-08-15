@@ -1,0 +1,65 @@
+{
+  "id": "migrated-ca-note-sec7-406",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "PM Modi Conferred Slovakia's Highest Civilian Award 'Order of the White Double Cross'",
+  "summary": "Marks PM Modi's 33rd international honour during State Visit.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Marks PM Modi's 33rd international honour during State Visit."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Award Conferred: 'Order of the White Double Cross (1st Class)', Slovakia's highest civilian honour.",
+        "Milestone: 33rd international award conferred on PM Modi (first by independent Slovakia)."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Award Title",
+        "Recipient / Winner",
+        "Conferred By / Key Detail"
+      ],
+      "rows": [
+        [
+          "PM Modi Conferred Slovakia's Highest Civilian Award 'Order of the White Double Cross'",
+          "Award Conferred: 'Order of the White Double Cross (1st Class)', Slovakia's highest civilian honour.",
+          "Slovakia Capital: Bratislava | Currency: Euro | PM: Robert Fico."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Slovakia Capital: Bratislava | Currency: Euro | PM: Robert Fico."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec7",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-28",
+    "category": "SEC7",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:54.072Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec7-406",
+      "sourceTitle": "PM Modi Conferred Slovakia's Highest Civilian Award 'Order of the White Double Cross'",
+      "sourceChecksum": "d1dc6b302de347ac80d9f1cc62f5769ae410c7095fe313b501e4aedcdeafab82",
+      "migrationTimestamp": "2026-08-15T12:12:54.072Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

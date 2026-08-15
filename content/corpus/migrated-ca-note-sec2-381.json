@@ -1,0 +1,82 @@
+{
+  "id": "migrated-ca-note-sec2-381",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Kotak Mahindra Bank Reports Highest Leverage Ratio (16.56%) Among Asia-Pacific Lenders",
+  "summary": "S&P Global data places Kotak Bank #1 among banks with assets over  billion.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "S&P Global data places Kotak Bank #1 among banks with assets over  billion."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Leverage Leader: Kotak Mahindra Bank reported 16.56% leverage ratio as of March 31, 2026.",
+        "Peer Comparison: HDFC Bank (11.14%), ICICI Bank (10.84%), Axis Bank (9.28%).",
+        "Australian banks lowest.",
+        "Financial Definition: Lower leverage ratio indicates a financially accountable business with constant revenue stream."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Bank Category",
+        "Minimum Leverage Ratio Floor",
+        "Buffer Requirement"
+      ],
+      "rows": [
+        [
+          "Domestic Systemically Important Banks (D-SIBs)",
+          "4.0%",
+          "Standard D-SIB Capital Buffer"
+        ],
+        [
+          "Other Commercial Banks",
+          "3.5%",
+          "Standard Capital Buffer"
+        ],
+        [
+          "G-SIB Foreign Branches in India",
+          "3.5%",
+          "3.5% + Applicable G-SIB Leverage Buffer"
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Kotak Mahindra Bank MD & CEO: Ashok Vaswani | HQ: Mumbai."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Kotak Bank leverage ratio (16.56%) vs HDFC Bank (11.14%)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-03",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:54.071Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-381",
+      "sourceTitle": "Kotak Mahindra Bank Reports Highest Leverage Ratio (16.56%) Among Asia-Pacific Lenders",
+      "sourceChecksum": "2c928703889a7bf6071c4dc7913601af9d6a5b256b875e68d61e53c87d292ce9",
+      "migrationTimestamp": "2026-08-15T12:12:54.071Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

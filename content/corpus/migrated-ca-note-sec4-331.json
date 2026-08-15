@@ -1,0 +1,50 @@
+{
+  "id": "migrated-ca-note-sec4-331",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India & Japan Sign 1st Bilateral Defence Agreement for 'UNICORN' Integrated Radio Mast",
+  "summary": "BEL to manufacture Japan's UNICORN stealth shipborne mast in India for naval frigates.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "BEL to manufacture Japan's UNICORN stealth shipborne mast in India for naval frigates."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Inaugural Defence Deal: 1st bilateral agreement for joint defence equipment development signed at 16th India-Japan Annual Summit.",
+        "UNICORN Technology: Bharat Electronics Limited (BEL) to manufacture UNICORN (Unified Complex Radio Antenna) integrated mast for Mogami-class frigates.",
+        "Radar Stealth: Encloses communication antennas into a single mast, significantly reducing warship radar signatures."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "BEL Chairman & MD: Manoj Jain | HQ: Bengaluru, Karnataka."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-14",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.664Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-331",
+      "sourceTitle": "India & Japan Sign 1st Bilateral Defence Agreement for 'UNICORN' Integrated Radio Mast",
+      "sourceChecksum": "f93ab483c222e0dedbe2fe4bce41d89e37e5a947b629165cb84cc49cf7bceb03",
+      "migrationTimestamp": "2026-08-15T12:12:53.664Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

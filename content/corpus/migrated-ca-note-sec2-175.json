@@ -1,0 +1,60 @@
+{
+  "id": "migrated-ca-note-sec2-175",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SEBI Clarifies 200-Buyer Limit for Off-Market Unlisted Secondary Share Transfers",
+  "summary": "Private negotiated secondary share sales to up to 200 buyers per FY will not trigger public issue prospectus rules.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Private negotiated secondary share sales to up to 200 buyers per FY will not trigger public issue prospectus rules."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Regulatory Informal Guidance: Clarified to IDBI Bank that secondary transfers by existing shareholders to ≤200 buyers in a FY do not constitute a public offer.",
+        "QIB Exclusion: Placements made to Qualified Institutional Buyers (QIBs) excluded from the 200-person calculation limit.",
+        "Promoter Rights: Contractual Right of First Refusal (ROFR) promoter rights preserved."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Companies Act 2013 governs securities allotment limits | SEBI HQ: Mumbai."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "200-buyer limit per FY (excluding QIBs) vs public offer prospectus triggers."
+    },
+    {
+      "type": "quote",
+      "quote": "Interview Focus Question: \"Why did SEBI set a 200-buyer cap per FY for secondary unlisted share deals?\"\n💡 **Model Answer: Prevents unlisted companies from conducting backdoor public issues without fulfilling prospectus disclosure rules.**",
+      "author": "Banking & Regulatory Board Panel"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-07",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:37.959Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-175",
+      "sourceTitle": "SEBI Clarifies 200-Buyer Limit for Off-Market Unlisted Secondary Share Transfers",
+      "sourceChecksum": "01d63f4496b4eddbc199855ae80d90ee43c775dff2f9756d2773e2c175413fcf",
+      "migrationTimestamp": "2026-08-15T12:12:37.959Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

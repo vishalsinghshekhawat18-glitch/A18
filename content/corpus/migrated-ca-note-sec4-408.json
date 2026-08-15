@@ -1,0 +1,49 @@
+{
+  "id": "migrated-ca-note-sec4-408",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India's 1st Private Gold Mine Begins Commercial Operations at Jonnagiri (Kurnool, AP)",
+  "summary": "Chief Minister N. Chandrababu Naidu inaugurates Geomysore Services primary gold mining project.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Chief Minister N. Chandrababu Naidu inaugurates Geomysore Services primary gold mining project."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Private Gold Mine: India's 1st operational private primary gold mine launched at Swarnagiri (Jonnagiri), Kurnool district, AP.",
+        "Operator: Developed and operated by Geomysore Services India Pvt Ltd (GMSI)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Andhra Pradesh CM: N. Chandrababu Naidu | Capital: Amaravati."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-30",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:54.072Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-408",
+      "sourceTitle": "India's 1st Private Gold Mine Begins Commercial Operations at Jonnagiri (Kurnool, AP)",
+      "sourceChecksum": "da83048132af31368ce46cad5ceaa10010e048b5bd4fd7cee8b7219ce946081c",
+      "migrationTimestamp": "2026-08-15T12:12:54.072Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

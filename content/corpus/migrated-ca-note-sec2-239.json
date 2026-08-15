@@ -1,0 +1,50 @@
+{
+  "id": "migrated-ca-note-sec2-239",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "CBDT Issues Crypto-Asset Reporting Framework (CARF) Compliance Rules",
+  "summary": "CBDT Issues Crypto-Asset Reporting Framework (CARF) Compliance Rules",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "CARF Alignment: Aligns Indian crypto exchange reporting with OECD global framework.",
+        "Reporting Scope: RCASPs must collect tax residency and TIN details for annual submission."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "OECD HQ: Paris, France."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-03",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.830Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-239",
+      "sourceTitle": "CBDT Issues Crypto-Asset Reporting Framework (CARF) Compliance Rules",
+      "sourceChecksum": "8502eefebb32ddc0e408edfa741a18acac2d22bfef9b20655decd3557b773a3a",
+      "migrationTimestamp": "2026-08-15T12:12:52.830Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

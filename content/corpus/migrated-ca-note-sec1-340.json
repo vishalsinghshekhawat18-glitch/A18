@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec1-340",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "DoP & TRAI Sign MoU for Village-Level Telecom Survey Across 5.68 Lakh Villages",
+  "summary": "Department of Posts uses nationwide postal network to conduct India's largest rural telecom audit.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Department of Posts uses nationwide postal network to conduct India's largest rural telecom audit."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Audit Scale: Field survey assessing mobile network performance of Airtel, Jio, Vi, and BSNL across 5.68 lakh villages.",
+        "Execution Mechanism: Department of Posts conducts field operations; TRAI provides survey app and technical monitoring."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "TRAI Chairman: Anil Kumar Lahoti | Established under TRAI Act 1997."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Survey village coverage (5.68 lakh villages) vs executing agency (Department of Posts)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-23",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.664Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-340",
+      "sourceTitle": "DoP & TRAI Sign MoU for Village-Level Telecom Survey Across 5.68 Lakh Villages",
+      "sourceChecksum": "c6dba9d7aef926b01b3e81bd63bafeef502dc97df11602925883a332fb5ffba7",
+      "migrationTimestamp": "2026-08-15T12:12:53.664Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

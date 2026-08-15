@@ -1,0 +1,73 @@
+{
+  "id": "migrated-ca-note-sec1-377",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Ministry of Textiles Factsheet: India Ranks 1st Globally in Cotton Cultivation Area (114.84 Lakh Hectares)",
+  "summary": "Accounts for 38% of world cotton acreage; 2026-27 MSP raised to ₹8,267 (medium) and ₹8,667 (long).",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Accounts for 38% of world cotton acreage; 2026-27 MSP raised to ₹8,267 (medium) and ₹8,667 (long)."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Global Ranks: India ranks 1st globally in cotton acreage (114.84 lakh hectares, 38% world share) and 2nd in production/consumption.",
+        "Species Cultivation: India is the only country cultivating all 4 recognised cotton species.",
+        "MSP & Mission Outlay: 2026-27 MSP ₹8,267/quintal (medium-staple) and ₹8,667 (long-staple); 5-year 'Mission for Cotton Productivity' outlay ₹5,659.22 crore."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Metric / Component",
+        "Threshold / Provision Detail"
+      ],
+      "rows": [
+        [
+          "Global Ranks",
+          "India ranks 1st globally in cotton acreage (114.84 lakh hectares, 38% world share) and 2nd in production/consumption."
+        ],
+        [
+          "MSP & Mission Outlay",
+          "2026-27 MSP ₹8,267/quintal (medium-staple) and ₹8,667 (long-staple); 5-year 'Mission for Cotton Productivity' outlay ₹5,659.22 crore."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Cotton Corporation of India (CCI) procured 105.09 lakh bales valued at ₹41,530 crore in 2025-26."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "1st rank in acreage (38% world share) vs 2nd rank in cotton production/consumption."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-07",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:54.070Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-377",
+      "sourceTitle": "Ministry of Textiles Factsheet: India Ranks 1st Globally in Cotton Cultivation Area (114.84 Lakh Hectares)",
+      "sourceChecksum": "41ff06ac206d5e0341b0215059147d4cd31aef52e778d4a3cbb1e33c364286e4",
+      "migrationTimestamp": "2026-08-15T12:12:54.070Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec2-232",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "PFRDA Opens On-Tap Registration for Pension Fund Managers under NPS",
+  "summary": "Allows eligible asset managers to apply continuously for managing National Pension System funds.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Allows eligible asset managers to apply continuously for managing National Pension System funds."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Eligibility Thresholds: Minimum 5 years fund management experience, Net worth ≥ ₹50 crore for past 5 years, Paid-up capital ≥ ₹25 crore.",
+        "Regulatory Oversight: Applicant must be regulated by RBI, SEBI, or IRDAI."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "PFRDA Chairman: Deepak Mohanty | Established 2003 | HQ: New Delhi."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "PFM net worth requirement (₹50 crore) vs paid-up capital requirement (₹25 crore)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-27",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.830Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-232",
+      "sourceTitle": "PFRDA Opens On-Tap Registration for Pension Fund Managers under NPS",
+      "sourceChecksum": "b84363be010902ec168cb49ebb301c04c2c6058e0e4086eb94111959b03c8ac1",
+      "migrationTimestamp": "2026-08-15T12:12:52.830Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

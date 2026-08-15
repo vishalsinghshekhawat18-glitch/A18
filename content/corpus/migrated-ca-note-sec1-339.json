@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec1-339",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "QCI & NSIC Sign 5-Year MoU to Connect ZED-Certified MSMEs to Global Mart",
+  "summary": "Integrates MSME ZED Certification Scheme with MSME Global Mart for 6.5 crore MSMEs.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Integrates MSME ZED Certification Scheme with MSME Global Mart for 6.5 crore MSMEs."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Strategic Integration: Combines QCI accreditation with NSIC network to link ZED-certified MSMEs to MSME Global Mart.",
+        "Economic Impact: India's 6.5 crore MSMEs employ ~28 crore people and contribute ~30% of GDP."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Quality Council of India (QCI) Chairman: Jaxay Shah | NSIC CMD: Dr. Subhransu Sekhar Acharya."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "MSME GDP contribution (~30%) vs employment (~28 crore people)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-22",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.664Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-339",
+      "sourceTitle": "QCI & NSIC Sign 5-Year MoU to Connect ZED-Certified MSMEs to Global Mart",
+      "sourceChecksum": "995751d933c71cef5d2fbf6aeeb8e401124f0aae8250d02c214fe646c5c67ae4",
+      "migrationTimestamp": "2026-08-15T12:12:53.664Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

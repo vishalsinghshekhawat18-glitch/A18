@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec1-211",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "ADB Approves  Million Loan for Chennai Water Supply & Sanitation Infrastructure",
+  "summary": "Finances India's 1st urban ring-main solution for resilient water distribution in Chennai.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Finances India's 1st urban ring-main solution for resilient water distribution in Chennai."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Ring-Main Solution: Chennai becomes 1st Indian city to implement a ring-main water supply architecture.",
+        "Project Goal: Modernises municipal water supply, sewage treatment, and flood resilience in Chennai."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Tamil Nadu CM: M. K. Stalin | Capital: Chennai."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-06",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.450Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-211",
+      "sourceTitle": "ADB Approves  Million Loan for Chennai Water Supply & Sanitation Infrastructure",
+      "sourceChecksum": "f15648e9d987b71d6661cc165dc703f354263ad5163db4273db8b5d1a7ef3477",
+      "migrationTimestamp": "2026-08-15T12:12:52.450Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

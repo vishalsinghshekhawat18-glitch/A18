@@ -1,0 +1,49 @@
+{
+  "id": "migrated-ca-note-sec2-228",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Skill India Mission Completes 11 Years of Operation (Launched July 15, 2015)",
+  "summary": "Skill India Mission Completes 11 Years of Operation (Launched July 15, 2015)",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Launch Date: Launched July 15, 2015 under Ministry of Skill Development and Entrepreneurship."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "MSDE Minister: Jayant Chaudhary (MoS I/C)."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-23",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.830Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-228",
+      "sourceTitle": "Skill India Mission Completes 11 Years of Operation (Launched July 15, 2015)",
+      "sourceChecksum": "1f95daf67d6cd1c08604f89774bf5aae519565d78f289ed5df503a4997446663",
+      "migrationTimestamp": "2026-08-15T12:12:52.830Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec2-236",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Andhra Pradesh Ranks 2nd Nationally in MISHTI Mangrove Restoration",
+  "summary": "Secures 2nd rank in mangrove plantation area under Shoreline Habitats initiative behind Gujarat.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Secures 2nd rank in mangrove plantation area under Shoreline Habitats initiative behind Gujarat."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "State Rankings: Gujarat ranks 1st in total plantation area; Andhra Pradesh 2nd.",
+        "MISHTI Scheme: Launched June 5, 2023 for 540 sq. km. mangrove restoration across 9 states and 4 UTs.",
+        "National Cover: West Bengal holds 42.45% of national mangrove cover (Sundarbans)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Sundarbans is the world's largest contiguous mangrove forest (UNESCO World Heritage Site)."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "1st rank mangrove plantation (Gujarat) vs largest national mangrove cover share (West Bengal, 42.45%)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-31",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.830Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-236",
+      "sourceTitle": "Andhra Pradesh Ranks 2nd Nationally in MISHTI Mangrove Restoration",
+      "sourceChecksum": "7305220089bc843502ee84a73ae8db4756969ccb8402808d90a369fce06c7820",
+      "migrationTimestamp": "2026-08-15T12:12:52.830Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

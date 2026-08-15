@@ -1,0 +1,45 @@
+{
+  "id": "migrated-ca-note-sec10-154",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Ministry of Panchayati Raj Launches 'DAANVEER' Citizen Participation Portal for Gram Panchayats",
+  "summary": "Ministry of Panchayati Raj Launches 'DAANVEER' Citizen Participation Portal for Gram Panchayats",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Enables individuals and Indian diaspora to voluntarily donate computers to nearly 2.5 lakh Gram Panchayats via 'Meri Panchayat' app and DigiHaat.",
+        "Technical Partners: Developed in collaboration with National Informatics Centre (NIC) and DigiHaat."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Union Minister for Panchayati Raj: Rajiv Ranjan Singh (Lalan Singh)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec10",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-06",
+    "category": "SEC10",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:37.958Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec10-154",
+      "sourceTitle": "Ministry of Panchayati Raj Launches 'DAANVEER' Citizen Participation Portal for Gram Panchayats",
+      "sourceChecksum": "0a884d6b5b61be77fd46bc9f5334d71e70c9bef6a07bebf7db6dd910482cc40b",
+      "migrationTimestamp": "2026-08-15T12:12:37.958Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

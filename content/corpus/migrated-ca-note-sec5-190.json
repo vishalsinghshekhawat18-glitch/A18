@@ -1,0 +1,61 @@
+{
+  "id": "migrated-ca-note-sec5-190",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Shailesh Jejurikar Appointed Chairman of Procter & Gamble Company",
+  "summary": "Shailesh Jejurikar Appointed Chairman of Procter & Gamble Company",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Indian-American business leader appointed P&G Board Chairman (succeeding Jon R.",
+        "Moeller) while continuing as CEO."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Appointee / Official",
+        "New Position & Organization",
+        "Key Context & Details"
+      ],
+      "rows": [
+        [
+          "Shailesh Jejurikar",
+          "Chairman of Procter & Gamble Company",
+          "Indian-American business leader appointed P&G Board Chairman (succeeding Jon R. Moeller) while continuing as CEO."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "P&G Global HQ: Cincinnati, Ohio, USA."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.449Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec5-190",
+      "sourceTitle": "Shailesh Jejurikar Appointed Chairman of Procter & Gamble Company",
+      "sourceChecksum": "c65741ba280cc782bc7a9a73d93b2fd1355d0c0f2015145df6454a98646ccf3e",
+      "migrationTimestamp": "2026-08-15T12:12:52.449Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

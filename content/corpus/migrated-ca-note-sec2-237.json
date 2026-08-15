@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec2-237",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "CEA National Generation Adequacy Plan: India Needs 86.4 GW Additional Thermal Power by FY36",
+  "summary": "Estimates total coal and lignite thermal capacity requirement of 315,000 MW to meet 2035-36 demand.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Estimates total coal and lignite thermal capacity requirement of 315,000 MW to meet 2035-36 demand."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Thermal Additions: 86,440 MW additional capacity needed by FY36 (63,545 MW under implementation).",
+        "Nuclear Capacity Target: Government targets 100 GW nuclear power capacity by 2047."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Central Electricity Authority (CEA) works under Ministry of Power | HQ: New Delhi."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Additional thermal power needed (86.4 GW) vs 2047 nuclear target (100 GW)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-01",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.830Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-237",
+      "sourceTitle": "CEA National Generation Adequacy Plan: India Needs 86.4 GW Additional Thermal Power by FY36",
+      "sourceChecksum": "7a2d72791d78c6d2598c72870cdb0f4b9a823938b2955527341305e89f7687ea",
+      "migrationTimestamp": "2026-08-15T12:12:52.830Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

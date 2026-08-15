@@ -1,0 +1,77 @@
+{
+  "id": "migrated-ca-note-sec2-325",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Digital India Programme Completes 11 Years: UPI Handles 81% of India Digital Payments",
+  "summary": "Quadruples internet connections to 1.02 billion as electronics manufacturing reaches ₹13 lakh crore.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Quadruples internet connections to 1.02 billion as electronics manufacturing reaches ₹13 lakh crore."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Digital Milestones: Internet connections rose to 1.02 billion (from 250M in 2015); UPI processed 24,162 crore transactions in FY26 (49% of global real-time digital payments).",
+        "Electronics & Chips: Electronics manufacturing reached ₹13 lakh crore (3rd-largest export category); India Semiconductor Mission approved 12 projects with ₹1.64 lakh crore investment pipeline.",
+        "Global DPI Model: DigiLocker, UMANG, eSanjeevani, and DIKSHA (2 crore users) exported via 'India Stack Global'."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Metric / Component",
+        "Threshold / Provision Detail"
+      ],
+      "rows": [
+        [
+          "Digital Milestones",
+          "Internet connections rose to 1.02 billion (from 250M in 2015); UPI processed 24,162 crore transactions in FY26 (49% of global real-time digital payments)."
+        ],
+        [
+          "Electronics & Chips",
+          "Electronics manufacturing reached ₹13 lakh crore (3rd-largest export category); India Semiconductor Mission approved 12 projects with ₹1.64 lakh crore investment pipeline."
+        ],
+        [
+          "Global DPI Model",
+          "DigiLocker, UMANG, eSanjeevani, and DIKSHA (2 crore users) exported via 'India Stack Global'."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Digital India launched July 1, 2015 by PM Modi across 9 core pillars."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "UPI share of domestic digital payments (81%) vs share of global real-time digital transactions (49%)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-08",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.216Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-325",
+      "sourceTitle": "Digital India Programme Completes 11 Years: UPI Handles 81% of India Digital Payments",
+      "sourceChecksum": "a579d59b8a89f2942a16c7d027ca09ac00e7daacae28371ef3332b45d77b1dc9",
+      "migrationTimestamp": "2026-08-15T12:12:53.216Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

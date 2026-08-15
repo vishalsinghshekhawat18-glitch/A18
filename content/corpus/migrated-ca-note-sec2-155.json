@@ -1,0 +1,60 @@
+{
+  "id": "migrated-ca-note-sec2-155",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "MHA Orders Takedown of Open-Source Bluetooth Mesh App 'Bitchat' on GitHub",
+  "summary": "Addresses lawful interception concerns over decentralized Bluetooth Low Energy (BLE) peer-to-peer messaging.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Addresses lawful interception concerns over decentralized Bluetooth Low Energy (BLE) peer-to-peer messaging."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Legal Citation: Order issued by I4C under Section 79(3)(b) of Information Technology Act 2000 and Rule 3(1)(d) of IT Rules 2021.",
+        "Operational Mechanism: Bitchat (created by Jack Dorsey) uses BLE mesh networks for encrypted communication within 30–100 metres without internet or mobile networks.",
+        "Takedown Deadline: GitHub directed to disable access to 3 repositories within 3 hours to avoid loss of intermediary safe-harbour protection."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "IT Act enacted in 2000 | Safe harbour protection provided under Section 79 of IT Act 2000."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "3-hour GitHub takedown deadline vs 3-day e-Zero FIR conversion window."
+    },
+    {
+      "type": "quote",
+      "quote": "Interview Focus Question: \"Why did law enforcement agencies order the removal of peer-to-peer mesh apps like Bitchat?\"\n💡 **Model Answer: Decentralized BLE apps operate without phone numbers, IP logs, or central servers, preventing lawful interception during cyber threats.**",
+      "author": "Banking & Regulatory Board Panel"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-07",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:37.958Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-155",
+      "sourceTitle": "MHA Orders Takedown of Open-Source Bluetooth Mesh App 'Bitchat' on GitHub",
+      "sourceChecksum": "aec4defff3f1153164b6be28ecc47344504cbb38ee832f2c935f84d1aa0c194f",
+      "migrationTimestamp": "2026-08-15T12:12:37.958Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

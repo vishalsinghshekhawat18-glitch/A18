@@ -1,0 +1,72 @@
+{
+  "id": "migrated-ca-note-sec2-231",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "WTO Trade Policy Review: India Targets 10% Share of Global Merchandise Exports by 2047",
+  "summary": "Outlines strategy to expand global merchandise export share from 1.8% in 2024 to 10% by centenary.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Outlines strategy to expand global merchandise export share from 1.8% in 2024 to 10% by centenary."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Customs Duty Rationalisation: BCD structure simplified by eliminating 100%, 125%, and 150% peak rates, reducing applied rates to 8 bands.",
+        "Export Target: Scale share from 1.8% to 10% by 2047."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Metric / Component",
+        "Threshold / Provision Detail"
+      ],
+      "rows": [
+        [
+          "Customs Duty Rationalisation",
+          "BCD structure simplified by eliminating 100%, 125%, and 150% peak rates, reducing applied rates to 8 bands."
+        ],
+        [
+          "Export Target",
+          "Scale share from 1.8% to 10% by 2047."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "WTO Director-General: Ngozi Okonjo-Iweala | HQ: Geneva, Switzerland."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "India merchandise export share 2024 (1.8%) vs 2047 target (10%)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-26",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.830Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-231",
+      "sourceTitle": "WTO Trade Policy Review: India Targets 10% Share of Global Merchandise Exports by 2047",
+      "sourceChecksum": "7310aa90528fef45976f0cdc6fa00702dc6242429f12ef7d030aeaae1af503d6",
+      "migrationTimestamp": "2026-08-15T12:12:52.830Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

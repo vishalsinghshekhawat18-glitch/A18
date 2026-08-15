@@ -1,0 +1,57 @@
+{
+  "id": "migrated-ca-note-sec6-285",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "2026 FIFA World Cup: Spain Defeats Defending Champions Argentina 2-1 in New York Final",
+  "summary": "Spain becomes 1st nation to hold men's and women's FIFA World Cup crowns simultaneously.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Spain becomes 1st nation to hold men's and women's FIFA World Cup crowns simultaneously."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Champions: Spain (Captain: Rodri) defeated Argentina 2-1 at MetLife Stadium, New York.",
+        "Golden Ball (Best Player): Rodri (Spain). Golden Boot (Top Scorer): Kylian Mbappé (France, 22 all-time World Cup goals).",
+        "Golden Glove (Best Goalkeeper): Unai Simón (Spain).",
+        "Young Player: Pau Cubarsí (Spain).",
+        "2030 World Cup Hosts: Main hosts Morocco, Portugal, Spain (Centenary matches in Argentina, Paraguay, Uruguay)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "FIFA HQ: Zurich, Switzerland | President: Gianni Infantino."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Golden Ball winner (Rodri) vs Golden Boot winner (Kylian Mbappé)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-26",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.214Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec6-285",
+      "sourceTitle": "2026 FIFA World Cup: Spain Defeats Defending Champions Argentina 2-1 in New York Final",
+      "sourceChecksum": "a4c07a9111b185a0e298cf41c3b67cb54e0aa57c1184c6e06645af671af21078",
+      "migrationTimestamp": "2026-08-15T12:12:53.214Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

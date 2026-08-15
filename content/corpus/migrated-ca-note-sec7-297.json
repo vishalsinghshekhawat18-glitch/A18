@@ -1,0 +1,70 @@
+{
+  "id": "migrated-ca-note-sec7-297",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Static GK: Jnanpith Award History, Eligibility & Cash Prize Structure",
+  "summary": "India's highest literary honour presented annually for Eighth Schedule language contributions.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "India's highest literary honour presented annually for Eighth Schedule language contributions."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Award Structure: ₹11 Lakh cash prize, bronze statue of Goddess Vagdevi, and citation.",
+        "Eligibility & Presenter: Instituted in 1961 by Bharatiya Jnanpith; awarded for outstanding literature in any language listed under 8th Schedule of Indian Constitution."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Award Title",
+        "Recipient / Winner",
+        "Conferred By / Key Detail"
+      ],
+      "rows": [
+        [
+          "Static GK: Jnanpith Award History, Eligibility & Cash Prize Structure",
+          "Award Structure: ₹11 Lakh cash prize, bronze statue of Goddess Vagdevi, and citation.",
+          "First Jnanpith Award winner: G. Sankara Kurup (Malayalam, 1965)."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "First Jnanpith Award winner: G. Sankara Kurup (Malayalam, 1965)."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Jnanpith cash prize (₹11 Lakh) vs Saraswati Samman (₹15 Lakh)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec7",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-07",
+    "category": "SEC7",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.215Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec7-297",
+      "sourceTitle": "Static GK: Jnanpith Award History, Eligibility & Cash Prize Structure",
+      "sourceChecksum": "59e1773232b574bb70587c1ecc82151c4a4bb6d1d50e1b44e5d6e7316b39f506",
+      "migrationTimestamp": "2026-08-15T12:12:53.215Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

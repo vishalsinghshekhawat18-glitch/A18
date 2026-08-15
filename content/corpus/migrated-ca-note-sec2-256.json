@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec2-256",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SEBI Clears Standing Instructions for SWP and STP in Demat-Held Mutual Funds",
+  "summary": "Allows demat unit holders to execute automatic Systematic Withdrawal and Transfer Plans.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Allows demat unit holders to execute automatic Systematic Withdrawal and Transfer Plans."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "2-Phase Rollout: Unit-based SWPs/STPs by Jan 31, 2027; Amount-based by April 30, 2027.",
+        "Nodal Facilitator: Depositories designated as nodal facilitators (operational framework by Oct 31, 2026)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Depositories in India: NSDL and CDSL."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Unit-based SWP deadline (Jan 31, 2027) vs Amount-based SWP deadline (April 30, 2027)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-20",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.831Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-256",
+      "sourceTitle": "SEBI Clears Standing Instructions for SWP and STP in Demat-Held Mutual Funds",
+      "sourceChecksum": "448af784924788616fc8986bb89c33ce8ffbfb1c3e74b31e5f4ba034b5ba0f45",
+      "migrationTimestamp": "2026-08-15T12:12:52.831Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

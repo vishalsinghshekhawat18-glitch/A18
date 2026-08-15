@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec2-247",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Retains Floating Rate Savings Bonds (FRSB 2020) Interest Rate at 8.05%",
+  "summary": "Maintains 0.35% premium over National Savings Certificate (NSC) 7.7% benchmark.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Maintains 0.35% premium over National Savings Certificate (NSC) 7.7% benchmark."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "FRSB Coupon Rate: 8.05% per annum for July 1 to Dec 31, 2026 (payable Jan 1, 2027).",
+        "Benchmark Formula: FRSB rate = NSC rate (7.70%) + 0.35% spread."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "FRSB bonds issued by RBI on behalf of Union Government (7-year tenure, taxable)."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "FRSB interest rate (8.05%) vs NSC benchmark rate (7.70%)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-11",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.830Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-247",
+      "sourceTitle": "RBI Retains Floating Rate Savings Bonds (FRSB 2020) Interest Rate at 8.05%",
+      "sourceChecksum": "82c2c1b11533cc5b9518f1c42256f8f760a9f38fb282b6006fcf844abc8f35a1",
+      "migrationTimestamp": "2026-08-15T12:12:52.830Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

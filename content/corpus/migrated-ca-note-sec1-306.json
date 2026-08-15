@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec1-306",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Adani Enterprises & IRH (Abu Dhabi) Sign .5 Billion MoU for Odisha Aluminium Project",
+  "summary": "India's largest FDI in metallurgy sector featuring a 4 MMTPA alumina refinery and 2 MMTPA smelter.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "India's largest FDI in metallurgy sector featuring a 4 MMTPA alumina refinery and 2 MMTPA smelter."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Equity Structure: 50:50 Joint Venture between Adani Enterprises Ltd and IHC Group's IRH (Abu Dhabi).",
+        "Infrastructure Scope: 4 MMTPA alumina refinery in Rayagada, 2 MMTPA aluminium smelter in Sundargarh, and 4,000 MW captive power plant (400 MW renewable).",
+        "Odisha Bauxite Share: Odisha holds nearly 50% of India's bauxite reserves and accounts for 54% of national aluminium output."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Adani Enterprises Chairman: Gautam Adani | Odisha CM: Mohan Charan Majhi."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Alumina refinery capacity (4 MMTPA in Rayagada) vs Aluminium smelter capacity (2 MMTPA in Sundargarh)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-04",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.215Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-306",
+      "sourceTitle": "Adani Enterprises & IRH (Abu Dhabi) Sign .5 Billion MoU for Odisha Aluminium Project",
+      "sourceChecksum": "50e827ef0e4e7814e2a21df89ed74191681da53d61990e59906e3c074882da2a",
+      "migrationTimestamp": "2026-08-15T12:12:53.215Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

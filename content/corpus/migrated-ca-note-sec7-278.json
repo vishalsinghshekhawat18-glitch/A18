@@ -1,0 +1,71 @@
+{
+  "id": "migrated-ca-note-sec7-278",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Tamil Poet R. Vairamuthu Conferred 60th Jnanpith Award (2025)",
+  "summary": "Becomes 3rd Tamil author to receive India's highest literary honour.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Becomes 3rd Tamil author to receive India's highest literary honour."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "60th Jnanpith Awardee: Renowned Tamil poet and lyricist R. Vairamuthu.",
+        "Tamil Predecessors: Akilan (1975) and Jayakanthan (2002).",
+        "Previous Winners: 59th Vinod Kumar Shukla (Hindi); 58th Gulzar (Urdu) & Rambhadracharya (Sanskrit)."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Award Title",
+        "Recipient / Winner",
+        "Conferred By / Key Detail"
+      ],
+      "rows": [
+        [
+          "Tamil Poet R. Vairamuthu Conferred 60th Jnanpith Award (2025)",
+          "60th Jnanpith Awardee: Renowned Tamil poet and lyricist R. Vairamuthu.",
+          "Jnanpith Award instituted in 1961 by Bharatiya Jnanpith (1st winner G. Sankara Kurup 1965)."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Jnanpith Award instituted in 1961 by Bharatiya Jnanpith (1st winner G. Sankara Kurup 1965)."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "60th Jnanpith winner (R. Vairamuthu) vs 59th (Vinod Kumar Shukla)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec7",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-19",
+    "category": "SEC7",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.214Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec7-278",
+      "sourceTitle": "Tamil Poet R. Vairamuthu Conferred 60th Jnanpith Award (2025)",
+      "sourceChecksum": "dcda2b3bd3bf408d7b027d4a6f31b4c5b92c355927060435cac21b9b44d7779e",
+      "migrationTimestamp": "2026-08-15T12:12:53.214Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec1-244",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India's Total Exports Reach Record .1 Billion in FY 2025-26",
+  "summary": "Merchandise exports touch .8B and services exports reach .3B.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Merchandise exports touch .8B and services exports reach .3B."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Export Breakdown: Merchandise exports .8 billion; Services exports .3 billion (Total .1B).",
+        "Top FTA Destination: ASEAN countries emerged as highest merchandise export destination (.42B), followed by UAE (.36B)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "ASEAN (10 member nations) HQ: Jakarta, Indonesia."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Merchandise exports (.8B) vs Services exports (.3B)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-08",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.830Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-244",
+      "sourceTitle": "India's Total Exports Reach Record .1 Billion in FY 2025-26",
+      "sourceChecksum": "b35e4bf9d478354f9cf7064d2a98cb79d30c4ca99595b5e0bf5a0fab578fc73f",
+      "migrationTimestamp": "2026-08-15T12:12:52.830Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

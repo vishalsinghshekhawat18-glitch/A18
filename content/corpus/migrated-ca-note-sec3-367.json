@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec3-367",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "CBDT Notifies 10-Year Zero Coupon Bonds for NaBFID (₹20,000 Crore Maturity Value)",
+  "summary": "Approves issuance of 20 lakh zero-coupon infrastructure bonds at discounted price of ₹10,296.12 crore.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Approves issuance of 20 lakh zero-coupon infrastructure bonds at discounted price of ₹10,296.12 crore."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Bond Structure: 20 lakh 10-year zero-coupon deep discount bonds approved under Sec 2(112) Income Tax Act 2025.",
+        "Financial Details: Discounted issue price ~₹10,296.12 crore for ₹20,000 crore maturity value (issuance on/before March 31, 2028)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "NaBFID (National Bank for Financing Infrastructure and Development) est 2021 | HQ: Mumbai."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Discounted issue price (~₹10,296 crore) vs maturity face value (₹20,000 crore)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-28",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.665Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec3-367",
+      "sourceTitle": "CBDT Notifies 10-Year Zero Coupon Bonds for NaBFID (₹20,000 Crore Maturity Value)",
+      "sourceChecksum": "2490433fc99e2bab5ef1654c8ba6bd1d606d0e4b19bfe0aefef95624b3fa5240",
+      "migrationTimestamp": "2026-08-15T12:12:53.665Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

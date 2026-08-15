@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec1-226",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Odisha Signs ₹20,000 Crore TASA Agreement with World Bank's IFC",
+  "summary": "Develops pipeline of 20 infrastructure projects under Transaction Advisory Services Agreement.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Develops pipeline of 20 infrastructure projects under Transaction Advisory Services Agreement."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Investment Pipeline: 20 infrastructure projects with  billion (₹20,000 crore) investment potential.",
+        "Partner Entity: International Finance Corporation (IFC), private-sector arm of World Bank Group."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Odisha CM: Mohan Charan Majhi | IFC HQ: Washington D.C."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-21",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.830Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-226",
+      "sourceTitle": "Odisha Signs ₹20,000 Crore TASA Agreement with World Bank's IFC",
+      "sourceChecksum": "be6227457e390648f1639aae781d6cdfc1074a274255af7d744b8fa501f8af79",
+      "migrationTimestamp": "2026-08-15T12:12:52.830Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

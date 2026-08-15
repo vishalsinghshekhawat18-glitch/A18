@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec1-214",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "World Bank Income Classification 2026: India Retains Lower-Middle-Income Status",
+  "summary": "Classifies 218 global economies using Atlas method GNI per capita thresholds.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Classifies 218 global economies using Atlas method GNI per capita thresholds."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "India Category: India remains a Lower-Middle-Income Economy (,176 – ,635 GNI per capita).",
+        "Category Upgrades: Sri Lanka, Vietnam, Philippines, Jordan, Micronesia moved to Upper-Middle-Income (,636–,375); Togo moved to Lower-Middle-Income.",
+        "Income Thresholds: Low-income (≤,175), Lower-middle (,176–,635), Upper-middle (,636–,375), High-income (>,375)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "World Bank HQ: Washington D.C., US | President: Ajay Banga."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "India classification (Lower-Middle Income) vs Sri Lanka/Vietnam (Upper-Middle Income)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-09",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.450Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-214",
+      "sourceTitle": "World Bank Income Classification 2026: India Retains Lower-Middle-Income Status",
+      "sourceChecksum": "21a509c091c63ee5872a05cd9469ccda44a303769c7fefb57fa01eebca0de611",
+      "migrationTimestamp": "2026-08-15T12:12:52.450Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

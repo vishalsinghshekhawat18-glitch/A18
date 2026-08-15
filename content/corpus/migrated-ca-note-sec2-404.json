@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec2-404",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "UPI Launches in Cambodia via KHQR Linkage (10th Global Destination)",
+  "summary": "NIPL partners with ACLEDA Bank for cross-border QR payments.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "NIPL partners with ACLEDA Bank for cross-border QR payments."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Cambodia Linkage: UPI accepted in Cambodia via national QR code KHQR (in partnership with ACLEDA Bank).",
+        "10 Countries Tally: Cambodia becomes 10th international destination joining Bhutan, France, Mauritius, Nepal, Singapore, Sri Lanka, UAE, Qatar, and Greece."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "NPCI International Payments Ltd (NIPL) CEO: Ritesh Shukla."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Cambodia global position (10th country for UPI acceptance)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-26",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:54.072Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-404",
+      "sourceTitle": "UPI Launches in Cambodia via KHQR Linkage (10th Global Destination)",
+      "sourceChecksum": "952a3eb6801166bfecb46feb33b0f3545a75c665545b75aa034e570c34ea13ca",
+      "migrationTimestamp": "2026-08-15T12:12:54.072Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

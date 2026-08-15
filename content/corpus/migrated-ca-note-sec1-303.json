@@ -1,0 +1,83 @@
+{
+  "id": "migrated-ca-note-sec1-303",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "VB-G-RAM-G Act Replaces MGNREGA: Wage Employment Guarantee Increased to 125 Days",
+  "summary": "Replaces MGNREGA from July 1, 2026 with a minimum statutory wage rate of ₹300 per day.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Replaces MGNREGA from July 1, 2026 with a minimum statutory wage rate of ₹300 per day."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Statutory Mandate: Viksit Bharat Guarantee for Rozgar and Aajeevika Mission (Gramin) replaces MGNREGA nationwide.",
+        "Employment Guarantee: Increases statutory wage employment from 100 days to 125 days per year (total budget ₹1,51,282 crore).",
+        "Minimum Wage Rate: Wage rates increased by ~10% on average, ensuring no state has a wage rate below ₹300/day.",
+        "Initial Outlay: First 'Mother Sanction' installment of ₹25,863 crore released to states to ensure 15-day wage payments."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Metric / Component",
+        "Threshold / Provision Detail"
+      ],
+      "rows": [
+        [
+          "Employment Guarantee",
+          "Increases statutory wage employment from 100 days to 125 days per year (total budget ₹1,51,282 crore)."
+        ],
+        [
+          "Minimum Wage Rate",
+          "Wage rates increased by ~10% on average, ensuring no state has a wage rate below ₹300/day."
+        ],
+        [
+          "Initial Outlay",
+          "First 'Mother Sanction' installment of ₹25,863 crore released to states to ensure 15-day wage payments."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Union Rural Development Minister: Shivraj Singh Chouhan | MGNREGA enacted 2005."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "New statutory employment guarantee (125 days, up from 100 days) vs minimum daily wage rate (₹300/day)."
+    },
+    {
+      "type": "quote",
+      "quote": "Interview Focus Question: \"Why did the government replace MGNREGA with the VB-G-RAM-G Act in 2026?\"\n💡 **Model Answer: To raise guaranteed annual rural employment from 100 to 125 days, establish a uniform ₹300/day wage floor, and enforce 15-day automated wage disbursement.**",
+      "author": "Banking & Regulatory Board Panel"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-01",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.215Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-303",
+      "sourceTitle": "VB-G-RAM-G Act Replaces MGNREGA: Wage Employment Guarantee Increased to 125 Days",
+      "sourceChecksum": "764f49ef1b33a989f5095c81c2128fd61c64476a6c520319d78db512cae8493b",
+      "migrationTimestamp": "2026-08-15T12:12:53.215Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

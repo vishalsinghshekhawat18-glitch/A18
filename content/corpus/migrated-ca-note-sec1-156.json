@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec1-156",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Air India Expands International Aviation Hub Model across 44 Target Airports",
+  "summary": "Routes Tier-II and Tier-III regional passengers through major hub airports for seamless international connections.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Routes Tier-II and Tier-III regional passengers through major hub airports for seamless international connections."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Hub & Spoke Footprint: Delhi serves as 1st primary hub airport; Varanasi, Amritsar, and Ahmedabad operating as spoke airports.",
+        "Easy Connect Flights: Enables international check-in, luggage drop, and immigration formalities at origin regional airports before connecting via Delhi.",
+        "National Target: Ministry of Civil Aviation aims to develop 100 airports and 200 heliports over next 10 years."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Air India CEO: Tewolde Gebremariam | Ministry of Civil Aviation."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:37.958Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-156",
+      "sourceTitle": "Air India Expands International Aviation Hub Model across 44 Target Airports",
+      "sourceChecksum": "9a0a32d40bf6430a2e3675381246381abdf6f1aa4b55db8cfcf21e771eb27998",
+      "migrationTimestamp": "2026-08-15T12:12:37.958Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec2-250",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "NABARD Facilitates GI Registration for 28 New Products (Total 176 Supported)",
+  "summary": "Expands GI tagging for indigenous craft and agri-products across Bihar, Assam, and MP.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Expands GI tagging for indigenous craft and agri-products across Bihar, Assam, and MP."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "New GI Products: Nalanda Bawanbuti Saree (Bihar), Gaya Pattharkatti Stone Craft (Bihar), Kuchai Silk (Jharkhand), Ba Shilp & Bihu Pepa (Assam), Khajuraho Metal Craft (MP).",
+        "NABARD Total: NABARD has supported 176 total products in obtaining GI tags."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "NABARD established July 12, 1982 | Chairman: Shaji K. V."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "GI products in this round (28) vs total NABARD-supported GI products (176)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-14",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.831Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-250",
+      "sourceTitle": "NABARD Facilitates GI Registration for 28 New Products (Total 176 Supported)",
+      "sourceChecksum": "715f58b07d475a69081f7b8f9534ac216fcc59fb887b68d126141a9267ee3dc7",
+      "migrationTimestamp": "2026-08-15T12:12:52.831Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

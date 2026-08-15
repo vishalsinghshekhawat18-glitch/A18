@@ -1,0 +1,49 @@
+{
+  "id": "migrated-ca-note-sec6-407",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "R Praggnanandhaa Wins 2026 Norway Chess Title Defeating Magnus Carlsen Twice",
+  "summary": "Becomes 1st Indian champion of Norway Chess since tournament inception in 2013.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Becomes 1st Indian champion of Norway Chess since tournament inception in 2013."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Title Victory: Indian GM R Praggnanandhaa won 2026 Norway Chess title by defeating Vincent Keymer in the final.",
+        "Carlsen Defeats: Defeated 7-time champion and World No. 1 Magnus Carlsen twice in classical chess."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Norway Chess established in 2013 in Stavanger, Norway."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-29",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:54.072Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec6-407",
+      "sourceTitle": "R Praggnanandhaa Wins 2026 Norway Chess Title Defeating Magnus Carlsen Twice",
+      "sourceChecksum": "aee39b4e8357c19b6142f5fafb0842a48b53c6ff27f7e208252b476fe4da2fde",
+      "migrationTimestamp": "2026-08-15T12:12:54.072Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

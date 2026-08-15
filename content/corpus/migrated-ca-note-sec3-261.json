@@ -1,0 +1,49 @@
+{
+  "id": "migrated-ca-note-sec3-261",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Visa Launches Biometric 'Visa Payment Passkey' in India via IDFC FIRST Bank",
+  "summary": "Replaces SMS OTPs with device fingerprint, facial recognition, and PIN biometric authentication.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Replaces SMS OTPs with device fingerprint, facial recognition, and PIN biometric authentication."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Biometric Authentication: Replaces SMS-based OTPs with fingerprint, facial recognition, or device PIN.",
+        "Launch Partner: Went live in partnership with IDFC FIRST Bank."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "IDFC FIRST Bank MD & CEO: V. Vaidyanathan | HQ: Mumbai."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-30",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.831Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec3-261",
+      "sourceTitle": "Visa Launches Biometric 'Visa Payment Passkey' in India via IDFC FIRST Bank",
+      "sourceChecksum": "5d927b9c34ceab91d57787f3f6bfe4918b1f1c00ca6cf3088a30f66434b7aea0",
+      "migrationTimestamp": "2026-08-15T12:12:52.831Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

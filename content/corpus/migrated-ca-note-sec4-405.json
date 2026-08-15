@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec4-405",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "GRSE Kolkata Upgraded to 29th Navratna Central Public Sector Enterprise",
+  "summary": "Department of Public Enterprises upgrades Garden Reach Shipbuilders & Engineers to Navratna status.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Department of Public Enterprises upgrades Garden Reach Shipbuilders & Engineers to Navratna status."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Navratna Status: GRSE upgraded from Miniratna Category-I to 29th Navratna CPSE.",
+        "Financial Autonomy: Grants autonomy to invest up to ₹1,000 crore or 15% of net worth without Cabinet approval."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "GRSE Chairman & MD: Cdre PR Hari (Retd) | HQ: Kolkata, WB. India has 14 Maharatna CPSEs."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "GRSE Navratna rank (29th) vs Maharatna count in India (14)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-27",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:54.072Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-405",
+      "sourceTitle": "GRSE Kolkata Upgraded to 29th Navratna Central Public Sector Enterprise",
+      "sourceChecksum": "b7cf19ecc00d8df66dd7180d3d279a24d0f416d87da9d2a3da084ebe6a6a3b61",
+      "migrationTimestamp": "2026-08-15T12:12:54.072Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

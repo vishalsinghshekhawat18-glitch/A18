@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec2-257",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "PFRDA Launches 'PRIDE-Disha' Performance Tool & 'Pension Sahayak' AI Portal",
+  "summary": "Uses XIRR methodology to compare pension fund manager returns based on actual cash flows.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Uses XIRR methodology to compare pension fund manager returns based on actual cash flows."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "PRIDE-Disha: Performance comparison tool utilizing 5,000 days NAV data and XIRR methodology.",
+        "Pension Sahayak: AI-powered 22-language grievance portal (30-day intermediary resolution timeline)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "XIRR (Extended Internal Rate of Return) accounts for irregular cash inflows/outflows."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Intermediary resolution timeline (30 days) vs NPS Trust escalation timeline (21 days)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-21",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.831Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-257",
+      "sourceTitle": "PFRDA Launches 'PRIDE-Disha' Performance Tool & 'Pension Sahayak' AI Portal",
+      "sourceChecksum": "b9633ca4b186e5ddf601f0685fe52f0a0d5b453a671b212984b1bc6990b6f8ec",
+      "migrationTimestamp": "2026-08-15T12:12:52.831Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

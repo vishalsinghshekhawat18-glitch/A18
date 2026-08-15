@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec4-295",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Static GK: Black Sea Geographical Straits & Bordering Nations",
+  "summary": "Marginal sea connecting Europe and Asia via Bosphorus, Dardanelles, and Kerch Straits.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Marginal sea connecting Europe and Asia via Bosphorus, Dardanelles, and Kerch Straits."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Bordering Nations (6 Countries): Bulgaria, Romania, Ukraine, Russia, Georgia, and Türkiye.",
+        "Connecting Waterways: Linked to Sea of Marmara via Bosphorus Strait; to Aegean Sea via Dardanelles Strait; to Sea of Azov via Kerch Strait."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Mnemonic for Black Sea bordering countries: BURGER (Bulgaria, Ukraine, Russia, Georgia, Romania) + Türkiye."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Connecting strait to Sea of Azov (Kerch Strait) vs Sea of Marmara (Bosphorus Strait)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-05",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.215Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-295",
+      "sourceTitle": "Static GK: Black Sea Geographical Straits & Bordering Nations",
+      "sourceChecksum": "e4659b1ecf51b8e66392fd643fa3c0e7b81a33647837c316f93505b71ee31c8c",
+      "migrationTimestamp": "2026-08-15T12:12:53.215Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

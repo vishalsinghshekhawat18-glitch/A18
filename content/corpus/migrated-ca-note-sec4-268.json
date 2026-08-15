@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec4-268",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Gujarat Tops India's Wind Energy Charts with 16,086 MW Installed Capacity",
+  "summary": "Generates 33,706 million units (MUs) of wind power in FY26, contributing 1/3rd of India's total output.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Generates 33,706 million units (MUs) of wind power in FY26, contributing 1/3rd of India's total output."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Capacity Leader: Gujarat ranks 1st in installed wind capacity (16,086 MW) and annual wind generation (33,706 MUs).",
+        "National Share: Gujarat accounts for nearly one-third of India's total wind power output."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Union Ministry of New and Renewable Energy (MNRE) Minister: Pralhad Joshi."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Gujarat wind capacity (16,086 MW) vs annual generation share (nearly 1/3rd)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-09",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.831Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-268",
+      "sourceTitle": "Gujarat Tops India's Wind Energy Charts with 16,086 MW Installed Capacity",
+      "sourceChecksum": "9c7bdcd3ee2ab173c9ad851e0a1e805216927fdf5b658ef43ffb71a2d5fa6203",
+      "migrationTimestamp": "2026-08-15T12:12:52.831Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec1-161",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Rajasthan Becomes 1st State to Operationalise Auctioned Rare Earth Elements (REE) Exploration License",
+  "summary": "Grants 207.63 sq. km. critical mineral exploration block in Navatala-Devigarh to CMPDI.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Grants 207.63 sq. km. critical mineral exploration block in Navatala-Devigarh to CMPDI."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Licence Area: Spans 207.63 sq. km. across Pachpadra tehsil (Balotra) and Shergarh tehsil (Jodhpur).",
+        "Awardee Entity: Central Mine Planning and Design Institute Limited (CMPDI).",
+        "Critical Minerals Identified: Lanthanum, Cerium, Praseodymium, and Neodymium for EV and semiconductor supply chains."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "CMPDI is a Central PSU subsidiary of Coal India Ltd | Rajasthan CM: Bhajan Lal Sharma."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-06",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:37.958Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-161",
+      "sourceTitle": "Rajasthan Becomes 1st State to Operationalise Auctioned Rare Earth Elements (REE) Exploration License",
+      "sourceChecksum": "162cee5e5f89ccb87aa3a88389b242e0655208375f67269574320808eb1a7e87",
+      "migrationTimestamp": "2026-08-15T12:12:37.958Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

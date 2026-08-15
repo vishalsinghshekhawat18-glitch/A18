@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec2-238",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Government Introduces Public Examinations (Prevention of Unfair Means) Amendment Bill 2026",
+  "summary": "Raises paper leak prison sentences up to 10 years and minimum fines up to ₹10 crore for organised syndicates.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Raises paper leak prison sentences up to 10 years and minimum fines up to ₹10 crore for organised syndicates."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Individual Penalties: Paper leak jail term increased to 5-10 years (up from 3-5 yrs); max fine raised to ₹50 lakh.",
+        "Organised Crime Penalties: Minimum jail term 7-10 years; minimum fine ₹1 crore to ₹10 crore.",
+        "Service Provider Debarment: Debarment period for cheating service providers raised to 8 years (fine ₹1 cr to ₹5 cr)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Public Examinations Act 2024 introduced India's 1st central anti-paper leak law."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Individual paper leak fine (up to ₹50 lakh) vs organised syndicate fine (min ₹1 crore to ₹10 crore)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-02",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.830Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-238",
+      "sourceTitle": "Government Introduces Public Examinations (Prevention of Unfair Means) Amendment Bill 2026",
+      "sourceChecksum": "96589d169e4e661b7bdbe2c4281bee2fb26404fec9de475ba7667ee1a32d8dec",
+      "migrationTimestamp": "2026-08-15T12:12:52.830Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

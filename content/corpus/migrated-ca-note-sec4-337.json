@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec4-337",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "WDMMA 2026 Global Air Power Rankings: IAF Ranked 3rd Powerful Nation & 6th Service Branch",
+  "summary": "IAF TruVal rating of 69.4 outranks China's PLAAF for 5th consecutive year.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "IAF TruVal rating of 69.4 outranks China's PLAAF for 5th consecutive year."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Country Ranking: India ranked 3rd military aviation nation globally (behind US 1st and Russia 2nd).",
+        "Branch Ranking: IAF ranked 6th overall (TruVal 69.4), outranking China PLAAF (63.8, 7th) for 5th straight year.",
+        "Fleet Strength: IAF operates 1,716 aircraft (542 fighters, 498 helicopters, 282 transport, 374 trainers) across 29 fighter squadrons."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "WDMMA evaluates 129 air services across 103 countries using TruVal Rating (TVR)."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "IAF country rank (3rd globally) vs individual service branch rank (6th, TruVal 69.4)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-20",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.664Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-337",
+      "sourceTitle": "WDMMA 2026 Global Air Power Rankings: IAF Ranked 3rd Powerful Nation & 6th Service Branch",
+      "sourceChecksum": "e78d4b72134e57e7337ee20cef89f5ec85df9ad3fd8deb17701df8e7e1a32e8c",
+      "migrationTimestamp": "2026-08-15T12:12:53.664Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

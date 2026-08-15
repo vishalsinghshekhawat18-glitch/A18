@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec1-328",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "APSRTC to Electrify 10,660 Bus Fleet by 2029 under SEMP 4.0 & Introduces 'Dry Lease' Model",
+  "summary": "First Indian state transport corporation to introduce a 'Dry Lease' model for 1,450 electric buses.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "First Indian state transport corporation to introduce a 'Dry Lease' model for 1,450 electric buses."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Electrification Mandate: APSRTC electrifying entire 10,660 bus fleet by 2029 under AP Sustainable Electric Mobility Policy 4.0.",
+        "PM eBus Sewa Sanction: Centre sanctioned 1,050 electric buses (₹145.3 crore grant, CESL GCC model across 11 cities).",
+        "Dry Lease Innovation: APSRTC introducing India's 1st 'Dry Lease' model for 1,450 electric buses to utilize surplus drivers."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Andhra Pradesh CM: N. Chandrababu Naidu | Capital: Amaravati."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "PM eBus Sewa central sanction (1,050 buses) vs APSRTC dry lease procurement (1,450 buses)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-11",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.663Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-328",
+      "sourceTitle": "APSRTC to Electrify 10,660 Bus Fleet by 2029 under SEMP 4.0 & Introduces 'Dry Lease' Model",
+      "sourceChecksum": "e1ffaa7814bf5ca258d71adaaca919574acd6c8033df10efff13cdff38b5ae4f",
+      "migrationTimestamp": "2026-08-15T12:12:53.663Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

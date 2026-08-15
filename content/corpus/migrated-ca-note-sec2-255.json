@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec2-255",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Restricts Banks from Recognising Unrealised Interest as Income on Acquired SNFAs",
+  "summary": "Mandates 7-year maximum disposal window for Specified Non-Financial Assets acquired under debt resolution.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Mandates 7-year maximum disposal window for Specified Non-Financial Assets acquired under debt resolution."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Implementation Date: Effective October 1, 2026 (unrealised income reversal required by Sept 30, 2027).",
+        "Disposal Cap: Banks must dispose of SNFAs within maximum 7 years via SARFAESI Act 2002 public auction.",
+        "Sale Restriction: Prohibits selling SNFA back to defaulting borrower or related parties."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "SNFA (Specified Non-Financial Asset) defined under Banking Regulation Act 1949."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "SNFA maximum disposal timeline (7 years) vs income reversal deadline (Sept 30, 2027)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-19",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.831Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-255",
+      "sourceTitle": "RBI Restricts Banks from Recognising Unrealised Interest as Income on Acquired SNFAs",
+      "sourceChecksum": "aa84ef2b49ade802c2e7978fc09fe57be9a26a7662ed7aa476c340907548e71e",
+      "migrationTimestamp": "2026-08-15T12:12:52.831Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

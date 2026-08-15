@@ -1,0 +1,59 @@
+{
+  "id": "migrated-ca-note-sec2-245",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Revamped Integrated Ombudsman Scheme 2026 Takes Effect (Replaces 2021 Rules)",
+  "summary": "Increases compensation cap for consequential losses to ₹30 lakh plus ₹3 lakh for time loss.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Increases compensation cap for consequential losses to ₹30 lakh plus ₹3 lakh for time loss."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Complaint Escalation: 30-day RE response window; 90-day RBI Ombudsman escalation window.",
+        "Compensation Caps: Up to ₹30 lakh for consequential financial losses; up to ₹3 lakh for harassment and time loss."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "RBI Integrated Ombudsman Scheme covers Banks, NBFCs, and System Participants."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Consequential loss compensation cap (₹30 lakh) vs harassment/time loss cap (₹3 lakh)."
+    },
+    {
+      "type": "quote",
+      "quote": "Interview Focus Question: \"How does the RBI Integrated Ombudsman Scheme 2026 protect retail banking customers?\"\n💡 **Model Answer: It provides a single-window grievance mechanism with a 30-day RE resolution mandate and caps compensation at ₹30 lakh for financial loss plus ₹3 lakh for harassment.**",
+      "author": "Banking & Regulatory Board Panel"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-09",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.830Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-245",
+      "sourceTitle": "RBI Revamped Integrated Ombudsman Scheme 2026 Takes Effect (Replaces 2021 Rules)",
+      "sourceChecksum": "26fcdbc493045e016c8cfea537918a44e7c6f17aa4fd588795290c57c1867ecb",
+      "migrationTimestamp": "2026-08-15T12:12:52.830Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

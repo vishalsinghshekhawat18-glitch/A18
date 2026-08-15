@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec1-410",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "AM/NS India Approved as 1st Anchor Partner Under ₹60,000-Cr PM-SETU Scheme",
+  "summary": "Andhra Pradesh becomes 1st state to operationalise industry-led management of ITIs.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Andhra Pradesh becomes 1st state to operationalise industry-led management of ITIs."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Anchor Partner: ArcelorMittal Nippon Steel India approved for Visakhapatnam ITI cluster under PM-SETU.",
+        "PM-SETU Mandate: Upgrades 1,000 government ITIs across India using a hub-and-spoke model.",
+        "Steering Committee: National Steering Committee chaired by Skill Secretary Debashree Mukherjee."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "AM/NS India Headquarters: Hazira, Gujarat | CEO: Dilip Oommen."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-02",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:54.072Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-410",
+      "sourceTitle": "AM/NS India Approved as 1st Anchor Partner Under ₹60,000-Cr PM-SETU Scheme",
+      "sourceChecksum": "e6fd072667d3d28d7012fc5a26dd9e60d08a917ab95ac0cd096118653b085015",
+      "migrationTimestamp": "2026-08-15T12:12:54.072Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

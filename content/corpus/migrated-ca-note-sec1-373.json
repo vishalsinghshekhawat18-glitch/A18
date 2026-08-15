@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec1-373",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Engineers India Ltd & CSIR-IMMT Partner under National Critical Mineral Mission (NCMM)",
+  "summary": "CSIR-IMMT designated Centre of Excellence for critical minerals processing (lithium, cobalt, REEs).",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "CSIR-IMMT designated Centre of Excellence for critical minerals processing (lithium, cobalt, REEs)."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "NCMM CoE: CSIR-IMMT Bhubaneswar designated Centre of Excellence for critical minerals.",
+        "4 Research Areas: Mineral processing joint R&D, technology scale-up, pilot plants, and technical training."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "EIL CMD: Atul Gupta | Critical Minerals include Lithium, Cobalt, Nickel, Neodymium."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-03",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.666Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-373",
+      "sourceTitle": "Engineers India Ltd & CSIR-IMMT Partner under National Critical Mineral Mission (NCMM)",
+      "sourceChecksum": "6dc66c3957a49eb8d0e8f2d0bd43767686cc3297745e97430b5f814183c155fa",
+      "migrationTimestamp": "2026-08-15T12:12:53.666Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

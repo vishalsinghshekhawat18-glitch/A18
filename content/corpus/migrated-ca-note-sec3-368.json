@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec3-368",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "NSE Indices Launches 'Nifty 500 Ahimsa Index' (326 Animal-Cruelty-Free Stocks)",
+  "summary": "India's 1st animal-cruelty-free thematic stock market index based on AIM framework.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "India's 1st animal-cruelty-free thematic stock market index based on AIM framework."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Index Composition: 326 stocks selected from Nifty 500 universe using Ahimsa Investment Movement (AIM) Green-band screening.",
+        "Base Date & CAGR: Base date April 1, 2016 (base value 1,000); delivered 15.11% CAGR since inception."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "BSE introduced 'Saatvik 100 Index' in June 2026."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Nifty 500 Ahimsa constituent count (326 stocks) vs base value (1,000)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-29",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.665Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec3-368",
+      "sourceTitle": "NSE Indices Launches 'Nifty 500 Ahimsa Index' (326 Animal-Cruelty-Free Stocks)",
+      "sourceChecksum": "102441516338c005b024be793693a44f51fd2190ccbbf7da4bf69f3797c59c69",
+      "migrationTimestamp": "2026-08-15T12:12:53.665Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec1-409",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Logistics Port Performance Index (LPPI) FY25 & 4 Digital Modules Launched by DGS",
+  "summary": "Sarbananda Sonowal launches LPPI under 'Sagar Aankalan' framework along with e-Navik and e-Samudra portals.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Sarbananda Sonowal launches LPPI under 'Sagar Aankalan' framework along with e-Navik and e-Samudra portals."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "LPPI Benchmark: Evaluates port performance across dry bulk, liquid bulk, and container cargo under 'Sagar Aankalan'.",
+        "DGS Digital Modules: Includes 24x7 e-Navik grievance, e-Samudra ship registration, medical practitioner, and ship recycling credit note modules.",
+        "Recycling Credit: 40% scrap value credit note provided under ₹70,000 crore maritime development package."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "JNPA (Jawaharlal Nehru Port Authority) located in Navi Mumbai | 37th Foundation Day."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-01",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:54.072Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-409",
+      "sourceTitle": "Logistics Port Performance Index (LPPI) FY25 & 4 Digital Modules Launched by DGS",
+      "sourceChecksum": "44315c0e49fff397247a002bd0e9296f7e2e2deca9dbd28843104b3ced18ab21",
+      "migrationTimestamp": "2026-08-15T12:12:54.072Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "migrated-ca-note-sec5-299",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Static GK: NATO 32-Nation Alliance & Sweden Accession",
+  "summary": "North Atlantic Treaty Organization formed April 4, 1949 with 32 member states.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "North Atlantic Treaty Organization formed April 4, 1949 with 32 member states."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Alliance Expansion: Sweden joined as the 32nd member state on March 7, 2024 (Finland joined 31st in 2023).",
+        "Governance & HQ: Headquartered in Brussels, Belgium.",
+        "Secretary General: Mark Rutte."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Appointee / Official",
+        "New Position & Organization",
+        "Key Context & Details"
+      ],
+      "rows": [
+        [
+          "Static GK: NATO 32-Nation Alliance & Sweden Accession",
+          "Official Appointment",
+          "Alliance Expansion: Sweden joined as the 32nd member state on March 7, 2024 (Finland joined 31st in 2023)."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Article 5 of North Atlantic Treaty governs collective defence commitment."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "32nd NATO member state (Sweden) vs 31st member state (Finland)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-09",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.215Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec5-299",
+      "sourceTitle": "Static GK: NATO 32-Nation Alliance & Sweden Accession",
+      "sourceChecksum": "607921d1b67abf073fcb0643bde2584f8f5e304453caa12f392ae67b01347841",
+      "migrationTimestamp": "2026-08-15T12:12:53.215Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

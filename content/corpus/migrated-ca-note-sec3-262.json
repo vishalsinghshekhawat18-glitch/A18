@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec3-262",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Banks Collected ₹7,086 Crore in Minimum Average Balance Penalties in FY26",
+  "summary": "Private sector banks accounted for 70% of total minimum balance penalties collected.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Private sector banks accounted for 70% of total minimum balance penalties collected."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Penalty Breakdown: Private banks collected ₹4,948.71 crore (HDFC Bank top ₹1,798.14 cr; Axis Bank ₹1,081.33 cr); PSBs collected ₹2,137.92 crore (SBI top ₹477.27 cr).",
+        "PSB Exemption: 10 out of 12 PSBs have completely discontinued MAB penal charges.",
+        "BSBDA Accounts: Basic Savings Bank Deposit Accounts (PMJDY) exempt from minimum balance requirements."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "BSBDA (Basic Savings Bank Deposit Account) rules mandate zero minimum balance."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Private bank penalty share (70% / ₹4,948.71 cr) vs PSB share (₹2,137.92 cr)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-31",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.831Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec3-262",
+      "sourceTitle": "Banks Collected ₹7,086 Crore in Minimum Average Balance Penalties in FY26",
+      "sourceChecksum": "a9044900e0ebe7718d3caec5e6d10a7ba2626150ddf3959afab82b727dd7dfb3",
+      "migrationTimestamp": "2026-08-15T12:12:52.831Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

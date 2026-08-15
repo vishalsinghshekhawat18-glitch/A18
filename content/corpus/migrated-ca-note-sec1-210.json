@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec1-210",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Small Savings Scheme Interest Rates Unchanged for July–September 2026 Quarter",
+  "summary": "Finance Ministry retains PPF interest rate at 7.10% and Sukanya Samriddhi Yojana at 8.20%.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Finance Ministry retains PPF interest rate at 7.10% and Sukanya Samriddhi Yojana at 8.20%."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Public Provident Fund (PPF): 7.10% annual interest (Min ₹500, Max ₹1.5 Lakh p.a.; loans 3rd–6th FY; withdrawal from 7th FY).",
+        "Sukanya Samriddhi Yojana (SSY): 8.20% annual interest (Min ₹250, Max ₹1.5 Lakh p.a.; open till age 10; matures after 21 years)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Small Savings Rates reviewed quarterly by Ministry of Finance."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "PPF interest rate (7.10%) vs SSY interest rate (8.20%)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-05",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.450Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-210",
+      "sourceTitle": "Small Savings Scheme Interest Rates Unchanged for July–September 2026 Quarter",
+      "sourceChecksum": "1c1b2147b7e36cf449c94769c691bf968dbe4242009d13ea596e37fce6f25180",
+      "migrationTimestamp": "2026-08-15T12:12:52.450Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

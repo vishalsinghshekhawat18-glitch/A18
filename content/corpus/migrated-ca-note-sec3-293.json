@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec3-293",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Static GK: Bank Note Printing Presses & Currency Infrastructure in India",
+  "summary": "India operates 4 currency printing presses divided equally between RBI and SPMCIL.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "India operates 4 currency printing presses divided equally between RBI and SPMCIL."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "BRBNMPL Presses (RBI Subsidiary): Mysore (Karnataka) and Salboni (West Bengal) established under BRBNMPL (Founded Feb 3, 1995).",
+        "SPMCIL Presses (Government of India): Nashik (Maharashtra) and Dewas (Madhya Pradesh) under Security Printing and Minting Corporation of India."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "BRBNMPL HQ: Bengaluru, Karnataka | SPMCIL HQ: New Delhi."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "BRBNMPL presses (Mysore & Salboni) vs SPMCIL presses (Nashik & Dewas)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-03",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.214Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec3-293",
+      "sourceTitle": "Static GK: Bank Note Printing Presses & Currency Infrastructure in India",
+      "sourceChecksum": "e07afb53201b54fa5b638664de9181864033bb1c5f3ccdd58681023adbaee214",
+      "migrationTimestamp": "2026-08-15T12:12:53.214Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

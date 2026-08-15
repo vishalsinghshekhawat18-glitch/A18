@@ -1,0 +1,56 @@
+{
+  "id": "migrated-ca-note-sec3-174",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "IRDAI Approves ProTec General Insurance License & Operationalises Policyholders' Education Fund (PEPF)",
+  "summary": "Grants 4th general insurance license of 2026 and replaces periodic intermediary renewals with perpetual registration.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Grants 4th general insurance license of 2026 and replaces periodic intermediary renewals with perpetual registration."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "License Awardee: ProTec General Insurance Ltd (JV between M.",
+        "Pallonji Group & True North's Divya Sehgal).",
+        "Regulatory Reforms: Operationalised PEPF under Sec 16A of IRDA Act 1999; mandated salesperson tagging on policies; replaced periodic intermediary renewals with annual fee perpetual registration.",
+        "FDI Threshold: 2 insurers (1 life, 1 general) increased foreign shareholding beyond 74% following 100% FDI clearance."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "IRDAI Chairman: Ajay Seth | HQ: Hyderabad, Telangana | Established 1999."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "100% FDI in insurance vs earlier 74% foreign shareholding cap."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-06",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:37.959Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec3-174",
+      "sourceTitle": "IRDAI Approves ProTec General Insurance License & Operationalises Policyholders' Education Fund (PEPF)",
+      "sourceChecksum": "fc066a2eb019dfc34d9f05ba81efd254f3fbf9067edb72751b4ce4af48807e92",
+      "migrationTimestamp": "2026-08-15T12:12:37.959Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

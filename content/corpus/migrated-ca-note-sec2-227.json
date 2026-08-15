@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec2-227",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "IFSCA Revises GIFT City Credit Rating Agency (CRA) Rules",
+  "summary": "Mandates pre-rating sharing with issuers to correct factual errors before credit rating publication.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Mandates pre-rating sharing with issuers to correct factual errors before credit rating publication."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Issuer Protection: CRAs must share key rating information with issuers before publishing ratings.",
+        "Registered CRAs: CareEdge Global IFSC Ltd and S&P Global Ratings Singapore registered in GIFT City."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "IFSCA Chairman: K. Rajaraman | HQ: GIFT City, Gandhinagar, Gujarat."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-22",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.830Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-227",
+      "sourceTitle": "IFSCA Revises GIFT City Credit Rating Agency (CRA) Rules",
+      "sourceChecksum": "8ed4df9973aed0536a55f1c34e8e64ba6af6a7e2267899116e6cd77faa6b2e53",
+      "migrationTimestamp": "2026-08-15T12:12:52.830Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec2-375",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Ministry of Justice Restructures 'DISHA 2.0' Scheme (₹255 Crore Outlay for 2026-2031)",
+  "summary": "Integrates Tele-Law (14454), Nyaya Bandhu, and VIDHI-Sanjeevani with AI 'Nyaya Setu' chatbot.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Integrates Tele-Law (14454), Nyaya Bandhu, and VIDHI-Sanjeevani with AI 'Nyaya Setu' chatbot."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Financial Outlay: ₹255 crore Central Sector Scheme outlay for 2026-27 to 2030-31.",
+        "4 Integrated Pillars: Tele-Law (toll-free 14454), Nyaya Bandhu Pro Bono, Legal Literacy, and VIDHI-Sanjeevani.",
+        "AI Integration: VIDHI-Sanjeevani integrates with 22-language AI voice chatbot 'Nyaya Setu'."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "DISHA 1.0 ran 2021-2026 with ₹250 crore outlay | Department of Justice."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "DISHA 2.0 outlay (₹255 crore) vs DISHA 1.0 outlay (₹250 crore)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-05",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.666Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-375",
+      "sourceTitle": "Ministry of Justice Restructures 'DISHA 2.0' Scheme (₹255 Crore Outlay for 2026-2031)",
+      "sourceChecksum": "3ae9349e7211689681b510c2cdd39173495b474b2e059a402a7a1a29d36a49b1",
+      "migrationTimestamp": "2026-08-15T12:12:53.666Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "migrated-ca-note-sec5-288",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Bijay Kumar Mohanty Appointed CMD of IREDA",
+  "summary": "Bijay Kumar Mohanty Appointed CMD of IREDA",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Appointment: Bijay Kumar Mohanty appointed CMD of IREDA."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Appointee / Official",
+        "New Position & Organization",
+        "Key Context & Details"
+      ],
+      "rows": [
+        [
+          "Bijay Kumar Mohanty",
+          "CMD of IREDA",
+          "Appointment: Bijay Kumar Mohanty appointed CMD of IREDA."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "IREDA is a Mini Ratna Category-I CPSE under Ministry of New and Renewable Energy."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-29",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.214Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec5-288",
+      "sourceTitle": "Bijay Kumar Mohanty Appointed CMD of IREDA",
+      "sourceChecksum": "224524133b57803be01cc673fae8b2011be4922a6cf288e4ce33de70c9c88729",
+      "migrationTimestamp": "2026-08-15T12:12:53.214Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec2-358",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "MoSPI Releases 'PAIMANA' Infrastructure Monitoring Dashboard (165 Indicators)",
+  "summary": "Replaces OCMS-2006 to track power, civil aviation, telecom, rail, roads, and ports.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Replaces OCMS-2006 to track power, civil aviation, telecom, rail, roads, and ports."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Dashboard Scope: PAIMANA (Project Assessment, Infrastructure Monitoring & Analytics for Nation-building) tracks 165 indicators across 6 sub-sectors.",
+        "Energy Storage Forecast: India's energy storage requirement projected to rise 10x to 888 GWh by FY36 (from 87 GWh in FY28).",
+        "Teledensity: National teledensity improved to 93.26% in FY26 as mobile towers reached 8.55 lakh."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "PAIMANA replaces 20-year-old OCMS-2006 system."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "2036 energy storage target (888 GWh) vs FY28 baseline (87 GWh)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-27",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.665Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-358",
+      "sourceTitle": "MoSPI Releases 'PAIMANA' Infrastructure Monitoring Dashboard (165 Indicators)",
+      "sourceChecksum": "dfca991c1adc68673fe72101193e5982cc22ee2ee5b6531ce362ca2a7d77515c",
+      "migrationTimestamp": "2026-08-15T12:12:53.665Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

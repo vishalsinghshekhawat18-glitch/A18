@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec1-341",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "West Bengal Launches 'PMCSPY' ₹313.30 Crore Special Package for Tea Garden Workers",
+  "summary": "Allocates ₹177 crore for Cha Shramik Shiksha and constructs 321 modern resting sheds.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Allocates ₹177 crore for Cha Shramik Shiksha and constructs 321 modern resting sheds."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Package Outlay: ₹313.30 crore special assistance package under Pradhan Mantri Cha Shramik Protsahan Yojana.",
+        "Three Pillars: Cha Shramik Shiksha Yojana (₹177 cr), Swasthya Suraksha (₹72 cr), and Aashray Yojana (₹63 cr for 321 resting sheds)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Nodal Agency: North Bengal Development Department (NBDD)."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Education allocation (₹177 cr) vs healthcare (₹72 cr) vs resting sheds (₹63 cr)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-24",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.664Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-341",
+      "sourceTitle": "West Bengal Launches 'PMCSPY' ₹313.30 Crore Special Package for Tea Garden Workers",
+      "sourceChecksum": "08f8ebdca97e8e2a1bbdd56be9d376961fc1fd5b64227f3a40efec199c7e2a50",
+      "migrationTimestamp": "2026-08-15T12:12:53.664Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

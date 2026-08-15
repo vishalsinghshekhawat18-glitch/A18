@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec1-376",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "PM-Vidyalaxmi Scheme Sanctions 1,12,817 Education Loans Worth ₹15,634 Crore",
+  "summary": "Provides 3% interest subvention for education loans up to ₹10 lakh (family income ≤ ₹8 lakh).",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Provides 3% interest subvention for education loans up to ₹10 lakh (family income ≤ ₹8 lakh)."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Sanctioned Loans: 1,12,817 collateral-free and guarantor-free loans worth ₹15,634 crore as of July 2026.",
+        "Interest Subvention: 3% interest subvention on loans up to ₹10 lakh for family income ≤ ₹8 lakh p.a.",
+        "PM-USP CGFSEL Guarantee: Department of Higher Education scheme issued 14.65 lakh guarantees worth ₹59,843.74 crore (75% default cover up to ₹7.5 lakh)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "PM-Vidyalaxmi scheme approved by Cabinet in November 2024."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "PM-Vidyalaxmi subvention loan cap (₹10 lakh) vs CGFSEL credit guarantee cap (₹7.5 lakh)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-06",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:54.070Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-376",
+      "sourceTitle": "PM-Vidyalaxmi Scheme Sanctions 1,12,817 Education Loans Worth ₹15,634 Crore",
+      "sourceChecksum": "696ad3cb412373dda088e2e288d2ffff31325f6117ff4cdeeb98f1a87deed13a",
+      "migrationTimestamp": "2026-08-15T12:12:54.070Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

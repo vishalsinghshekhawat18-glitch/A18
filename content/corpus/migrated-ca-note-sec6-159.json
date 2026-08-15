@@ -1,0 +1,50 @@
+{
+  "id": "migrated-ca-note-sec6-159",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Kerala Deploys 'ANNAM.AI' Smart Weather Stations for Climate-Smart Agriculture",
+  "summary": "Rolls out 3-km resolution agricultural weather monitoring developed by IIT Ropar.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Rolls out 3-km resolution agricultural weather monitoring developed by IIT Ropar."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Centre of Excellence: Developed at IIT Ropar with support from Ministry of Education under 100-day action plan.",
+        "Deployment Footprint: 100 AI-powered weather stations deployed at 3-km resolution tracking solar radiation, soil moisture, and rainfall.",
+        "National Pilot: Punjab was the 1st implementation state (100 stations deployed by March 30, 2026)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "IIT Ropar located in Punjab | Kerala CM: V. D. Satheesan."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-04",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:37.958Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec6-159",
+      "sourceTitle": "Kerala Deploys 'ANNAM.AI' Smart Weather Stations for Climate-Smart Agriculture",
+      "sourceChecksum": "ea1ab62239ccb45b3b449edc5f23831dc8537be88e27ef45a2fb88617f95226c",
+      "migrationTimestamp": "2026-08-15T12:12:37.958Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

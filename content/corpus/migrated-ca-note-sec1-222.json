@@ -1,0 +1,77 @@
+{
+  "id": "migrated-ca-note-sec1-222",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India Overtakes US in PPP-Based Global Savings (Trails Only China)",
+  "summary": "EAC-PM working paper reveals India's global savings share rose to 10.3% in 2025.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "EAC-PM working paper reveals India's global savings share rose to 10.3% in 2025."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Global Rankings: India became the world's 2nd-largest contributor to global savings in PPP terms (10.3% share).",
+        "Top Country: China ranks 1st globally with a 31.9% share of global savings.",
+        "Historical Growth: India's share rose from 3.3% in 1992 to 10.3% in 2025."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Metric / Component",
+        "Threshold / Provision Detail"
+      ],
+      "rows": [
+        [
+          "Global Rankings",
+          "India became the world's 2nd-largest contributor to global savings in PPP terms (10.3% share)."
+        ],
+        [
+          "Top Country",
+          "China ranks 1st globally with a 31.9% share of global savings."
+        ],
+        [
+          "Historical Growth",
+          "India's share rose from 3.3% in 1992 to 10.3% in 2025."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "EAC-PM Chairman: Bibek Debroy | Headquarters: New Delhi."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "India global savings share (10.3%, 2nd) vs China share (31.9%, 1st)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-17",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.450Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-222",
+      "sourceTitle": "India Overtakes US in PPP-Based Global Savings (Trails Only China)",
+      "sourceChecksum": "9b0f5599c9f05d346736125d997dae51040d95f913a5a41e6991682e73010976",
+      "migrationTimestamp": "2026-08-15T12:12:52.450Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

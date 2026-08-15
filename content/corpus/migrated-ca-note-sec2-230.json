@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec2-230",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Microsoft India & FITT IIT Delhi Launch UNNATI AI 2.0 for Tier 2/3 Cities",
+  "summary": "Democratizes AI access and nurtures deep-tech startups across non-metro hubs.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Democratizes AI access and nurtures deep-tech startups across non-metro hubs."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "CSR Initiative: Launched by Microsoft India and Foundation for Innovation and Technology Transfer (FITT), IIT Delhi.",
+        "Focus: Grassroots AI talent development and startup incubation in Tier 2 and Tier 3 cities."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "IIT Delhi Director: Rangan Banerjee | Microsoft CEO: Satya Nadella."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-25",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.830Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-230",
+      "sourceTitle": "Microsoft India & FITT IIT Delhi Launch UNNATI AI 2.0 for Tier 2/3 Cities",
+      "sourceChecksum": "a8cd0377edbaed3f057ce7203047d7cef07a27df811402c26fbef67d0ad527f2",
+      "migrationTimestamp": "2026-08-15T12:12:52.830Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

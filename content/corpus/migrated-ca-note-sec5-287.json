@@ -1,0 +1,60 @@
+{
+  "id": "migrated-ca-note-sec5-287",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Lokhande Prashant Sitaram Appointed CBSE Chairperson",
+  "summary": "Lokhande Prashant Sitaram Appointed CBSE Chairperson",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Appointment: Lokhande Prashant Sitaram appointed CBSE Chairperson."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Appointee / Official",
+        "New Position & Organization",
+        "Key Context & Details"
+      ],
+      "rows": [
+        [
+          "Lokhande Prashant Sitaram",
+          "CBSE Chairperson",
+          "Appointment: Lokhande Prashant Sitaram appointed CBSE Chairperson."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "CBSE HQ: New Delhi | Works under Ministry of Education."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-28",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.214Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec5-287",
+      "sourceTitle": "Lokhande Prashant Sitaram Appointed CBSE Chairperson",
+      "sourceChecksum": "bd5b2c9c9d72b3ff4ac392d4aae0a1519696e4df4e89b764135bf7df4c400e46",
+      "migrationTimestamp": "2026-08-15T12:12:53.214Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec1-414",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "CCEA Approves 4 Major Highway Corridors Worth ₹24,200 Crore Under PM GatiShakti",
+  "summary": "Includes ₹8,300 crore coastal highway between Rameshwar and Paradip in Odisha.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Includes ₹8,300 crore coastal highway between Rameshwar and Paradip in Odisha."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Odisha Coastal Corridor: 160.18-km Rameshwar to Paradip highway under HAM model (₹8,300.79 crore).",
+        "Telangana & Bihar Stretches: Armoor-Jagtial-Mancherial (NH-63/563) in Telangana (₹7,597 crore) and Khagaria-Purnea (NH-31/231) in Bihar (₹3,936 crore).",
+        "MP Upgrades: Key stretches of NH-347B upgraded under HAM model (₹4,415 crore)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "PM GatiShakti National Master Plan launched in October 2021."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-06",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:54.072Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-414",
+      "sourceTitle": "CCEA Approves 4 Major Highway Corridors Worth ₹24,200 Crore Under PM GatiShakti",
+      "sourceChecksum": "840d0c4b55aa6d3629f7dbbbed3b94e1991719253985a50105b59f20faadf54b",
+      "migrationTimestamp": "2026-08-15T12:12:54.072Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

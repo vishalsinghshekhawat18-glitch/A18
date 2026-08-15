@@ -1,0 +1,49 @@
+{
+  "id": "migrated-ca-note-sec3-259",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SBI Unveils Suite of AI Journeys: Financial Fitness, Sustainability, & 'YONO Ji'",
+  "summary": "Integrates agentic AI virtual assistant 'YONO Ji' across YONO Business web and mobile platforms.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Integrates agentic AI virtual assistant 'YONO Ji' across YONO Business web and mobile platforms."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Digital Journeys: 'Financial Fitness' score, 'Sustainability Journey', and 24x7 agentic AI assistant 'YONO Ji'.",
+        "Platform Reach: Deployed across YONO Business web and mobile applications."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "SBI Chairman: CS Setty | HQ: Mumbai, Maharashtra."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-28",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.831Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec3-259",
+      "sourceTitle": "SBI Unveils Suite of AI Journeys: Financial Fitness, Sustainability, & 'YONO Ji'",
+      "sourceChecksum": "45d4e8a2ffc2ec98d2e7effa6aa0d6b950ace2d0579b4750e6dbdcd10ecf546d",
+      "migrationTimestamp": "2026-08-15T12:12:52.831Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

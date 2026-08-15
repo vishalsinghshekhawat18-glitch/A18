@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec4-344",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "UP Launches 'Mukhyamantri Shikshak Cashless Chikitsa Yojana' (₹5 Lakh Medical Cover)",
+  "summary": "Provides cashless medical treatment up to ₹5 lakh/year for 15 lakh teachers and staff.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Provides cashless medical treatment up to ₹5 lakh/year for 15 lakh teachers and staff."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Cashless Benefit: Up to ₹5 lakh per year medical cover at empanelled hospitals for 15 lakh basic/secondary teachers and staff.",
+        "SBI Social Security MoU: SBI partnership provides group term insurance and accident cover to 10 lakh teachers.",
+        "DBT Student Transfer: Transferred ₹1,320 crore via DBT to 1.10 crore students (₹1,200/student for uniforms/stationery)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Uttar Pradesh is the first state to provide comprehensive cashless medical and social security to its entire teaching workforce."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Cashless medical cover cap (₹5 lakh/yr) vs student DBT transfer (₹1,200/student)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-27",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.664Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-344",
+      "sourceTitle": "UP Launches 'Mukhyamantri Shikshak Cashless Chikitsa Yojana' (₹5 Lakh Medical Cover)",
+      "sourceChecksum": "d8d228b059b745ede56dc30d17b6c4a145ca38450a8e7c67eba6439ec3d4a16d",
+      "migrationTimestamp": "2026-08-15T12:12:53.664Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

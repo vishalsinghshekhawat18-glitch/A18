@@ -1,0 +1,45 @@
+{
+  "id": "migrated-ca-note-sec6-166",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "4th Edition of Tri-Services Future Warfare Course Commences in New Delhi",
+  "summary": "4th Edition of Tri-Services Future Warfare Course Commences in New Delhi",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Organized under aegis of HQ Integrated Defence Staff (IDS) and coordinated by CENJOWS at Manekshaw Centre.",
+        "Focus: Multi-domain operations, grey-zone warfare, AI, quantum tech, and autonomous combat systems."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "1st pilot edition held in September 2024 | CENJOWS HQ: New Delhi."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:37.959Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec6-166",
+      "sourceTitle": "4th Edition of Tri-Services Future Warfare Course Commences in New Delhi",
+      "sourceChecksum": "9515aa54411a3f2ea90aebfb07d792543f6a0b5ffe7371071841184c23c0773a",
+      "migrationTimestamp": "2026-08-15T12:12:37.959Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

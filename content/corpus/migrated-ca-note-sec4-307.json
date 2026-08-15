@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec4-307",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "CCEA Approves 2 National Highway Projects in UP & Delhi (₹14,114.81 Crore Outlay)",
+  "summary": "Clears Kanpur-Kabrai Greenfield Highway and 8.1 km Dwarka Expressway road tunnel.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Clears Kanpur-Kabrai Greenfield Highway and 8.1 km Dwarka Expressway road tunnel."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Kanpur-Kabrai Corridor: 117.7 km 4/6-lane access-controlled highway on NH-34 (₹7,145.14 cr on BOT Toll mode).",
+        "Delhi Road Tunnel: 8.1 km 6-lane tunnel connecting Dwarka Expressway (NH-248BB) to Nelson Mandela Marg (NH-148AE) in Vasant Kunj (₹6,969.67 cr on HAM mode)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "CCEA chaired by Prime Minister | NHAI Chairman: Santosh Kumar Yadav."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Kanpur-Kabrai highway length (117.7 km, BOT Toll) vs Vasant Kunj tunnel (8.1 km, HAM mode)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-05",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.215Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-307",
+      "sourceTitle": "CCEA Approves 2 National Highway Projects in UP & Delhi (₹14,114.81 Crore Outlay)",
+      "sourceChecksum": "4e864f1d092cdb3b8f2a44db1673a44e3e30d93f7b5624424bef188de1474f68",
+      "migrationTimestamp": "2026-08-15T12:12:53.215Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec2-188",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "NIC & eCourts CoEE Roll Out AI Legal Assistant 'LegRAA' and 'Digital Courts 2.1'",
+  "summary": "Retrieval-Augmented Generation (RAG) AI assistant trained on 36,000 Supreme Court judgments assists judges.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Retrieval-Augmented Generation (RAG) AI assistant trained on 36,000 Supreme Court judgments assists judges."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "LegRAA Tool: Legal Research Analysis Assistant uses RAG architecture to analyze pleadings and generate case briefs.",
+        "Digital Courts 2.1: Includes voice-to-text dictation (ASR-SHRUTI) and translation (PANINI) under eCourts Phase-III.",
+        "Financial Allocation: Ministry of Law earmarked ₹53.57 crore for judicial AI tools."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "MoS Law & Justice: Arjun Ram Meghwal | Developed under eCourts Mission Mode Project Phase-III."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-06",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.449Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-188",
+      "sourceTitle": "NIC & eCourts CoEE Roll Out AI Legal Assistant 'LegRAA' and 'Digital Courts 2.1'",
+      "sourceChecksum": "ccaa4f3abfed220f4dec1ae05e1f6a829b9ce70368f56a6f923c8e75951995b6",
+      "migrationTimestamp": "2026-08-15T12:12:52.449Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

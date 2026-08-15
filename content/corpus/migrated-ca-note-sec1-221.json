@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec1-221",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Lakhanpur (J&K) Selected as First Town for PM SVANidhi Street Food Hub",
+  "summary": "Establishes modern street food hub under Ministry of Housing and Urban Affairs initiative.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Establishes modern street food hub under Ministry of Housing and Urban Affairs initiative."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Financial Grant: ₹4 crore financial assistance released in 3 installments (30:50:20 ratio).",
+        "ULB Incentive: Urban local bodies notifying street vending plans receive ₹25 lakh bonus incentive.",
+        "Partner Agencies: Coordinated by MoHUA, Ministry of Tourism, and FSSAI."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "PM SVANidhi launched June 1, 2020 by MoHUA | FSSAI HQ: New Delhi."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "PM SVANidhi street food hub grant (₹4 crore) vs ULB incentive (₹25 lakh)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-16",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.450Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-221",
+      "sourceTitle": "Lakhanpur (J&K) Selected as First Town for PM SVANidhi Street Food Hub",
+      "sourceChecksum": "e4f5963c45ccf9c19553eb470de9127cd1216dd42f1f025d02198563c6b0f5f3",
+      "migrationTimestamp": "2026-08-15T12:12:52.450Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

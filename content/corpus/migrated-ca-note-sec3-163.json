@@ -1,0 +1,56 @@
+{
+  "id": "migrated-ca-note-sec3-163",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India Performs Record 20,138 Organ Transplants in 2025; Ranked 3rd Globally (NOTTO Report)",
+  "summary": "Launches nationwide 'Jug Jug Jiyo Abhiyaan' and e-Pratyaropan portal on 16th Indian Organ Donation Day.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Launches nationwide 'Jug Jug Jiyo Abhiyaan' and e-Pratyaropan portal on 16th Indian Organ Donation Day."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Global Ranking: India ranks 3rd globally in total organ transplants (behind US and China).",
+        "National Awards: Tamil Nadu named Best State for highest deceased organ donors (266 donors); Assam Best NE State; Delhi Best UT.",
+        "Digital Infrastructure: Launched 'e-Pratyaropan' portal and NOTTO app connecting 1,200 registered transplant hospitals.",
+        "Aadhaar Pledges: Over 5 lakh Aadhaar-verified organ donation pledges recorded since 2023."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "NOTTO works under Ministry of Health & Family Welfare | Indian Organ Donation Day observed August 3."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "India's global transplant rank (3rd) vs deceased organ donor top state (Tamil Nadu, 266 donors)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:37.959Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec3-163",
+      "sourceTitle": "India Performs Record 20,138 Organ Transplants in 2025; Ranked 3rd Globally (NOTTO Report)",
+      "sourceChecksum": "c8bfb1f5d1d807a84fd63e4e8141f6536a3e48f64c704067dd5f1b3615ed1d54",
+      "migrationTimestamp": "2026-08-15T12:12:37.959Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

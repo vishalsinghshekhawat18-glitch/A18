@@ -1,0 +1,65 @@
+{
+  "id": "migrated-ca-note-sec7-277",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "PM Narendra Modi Conferred Indonesia's Highest State Honour 'Bintang Republik Indonesia Adipurna'",
+  "summary": "Conferred by President Prabowo Subianto during official visit to Jakarta.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Conferred by President Prabowo Subianto during official visit to Jakarta."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Award Name: Bintang Republik Indonesia Adipurna (established 1959).",
+        "Conferring Authority: Indonesian President Prabowo Subianto."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Award Title",
+        "Recipient / Winner",
+        "Conferred By / Key Detail"
+      ],
+      "rows": [
+        [
+          "PM Narendra Modi Conferred Indonesia's Highest State Honour 'Bintang Republik Indonesia Adipurna'",
+          "Award Name: Bintang Republik Indonesia Adipurna (established 1959).",
+          "Indonesia Capital: Jakarta / Nusantara | Currency: Indonesian Rupiah."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Indonesia Capital: Jakarta / Nusantara | Currency: Indonesian Rupiah."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec7",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-18",
+    "category": "SEC7",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.214Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec7-277",
+      "sourceTitle": "PM Narendra Modi Conferred Indonesia's Highest State Honour 'Bintang Republik Indonesia Adipurna'",
+      "sourceChecksum": "5fc770f82050cdd5e7735d62c4222804e6bc1cae21f99fd8740941fef3970480",
+      "migrationTimestamp": "2026-08-15T12:12:53.214Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

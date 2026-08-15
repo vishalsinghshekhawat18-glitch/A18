@@ -1,0 +1,50 @@
+{
+  "id": "migrated-ca-note-sec6-186",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "NVIDIA & 35 Tech Giants Launch 'Open Secure AI Alliance' for AI Cybersecurity",
+  "summary": "Develops open-source security tools to detect and respond to AI-powered cyber threats.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Develops open-source security tools to detect and respond to AI-powered cyber threats."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Founding Alliance Members: Microsoft, IBM, Cisco, Adobe, Cloudflare, CrowdStrike, HPE, Hugging Face, Red Hat, SpaceX, Linux Foundation.",
+        "Notable Absentees: OpenAI, Anthropic, Google, and Meta are absent from alliance roster.",
+        "Foundational Framework: Builds on Linux Foundation's Akrites initiative and OpenSSF."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "NVIDIA HQ: Santa Clara, California | CEO: Jensen Huang."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-04",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:52.449Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec6-186",
+      "sourceTitle": "NVIDIA & 35 Tech Giants Launch 'Open Secure AI Alliance' for AI Cybersecurity",
+      "sourceChecksum": "21f02c20d457ca75071a0845ef6fd105f80bafde77e6f1104860463fe45a4fae",
+      "migrationTimestamp": "2026-08-15T12:12:52.449Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

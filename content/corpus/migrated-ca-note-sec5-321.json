@@ -1,0 +1,70 @@
+{
+  "id": "migrated-ca-note-sec5-321",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "DGCA Supervises India's 1st Satellite-Based Landing System Trial on Mainline Commercial Aircraft",
+  "summary": "IndiGo Airbus A320 completes GAGAN-aided LPV landing at Maharana Pratap Airport, Udaipur.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "IndiGo Airbus A320 completes GAGAN-aided LPV landing at Maharana Pratap Airport, Udaipur."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Flight Validation: 1st operational validation of Satellite-Based Landing System (SLS) on a commercial jet in India.",
+        "GAGAN SBAS: GAGAN developed by ISRO & AAI; 4th SBAS system in the world (after US WAAS, Europe EGNOS, Japan MSAS)."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Appointee / Official",
+        "New Position & Organization",
+        "Key Context & Details"
+      ],
+      "rows": [
+        [
+          "DGCA Supervises India's 1st Satellite-Based Landing System Trial on Mainline Commercial Aircraft",
+          "Official Appointment",
+          "Flight Validation: 1st operational validation of Satellite-Based Landing System (SLS) on a commercial jet in India."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "DGCA Director General: Vir Vikram Yadav | HQ: New Delhi."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "4th SBAS system globally (GAGAN) vs 1st commercial jet trial in India."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-19",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.216Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec5-321",
+      "sourceTitle": "DGCA Supervises India's 1st Satellite-Based Landing System Trial on Mainline Commercial Aircraft",
+      "sourceChecksum": "51e98aa487df06698370407dad437d440bfe7bf222e186332c9a425bc8858521",
+      "migrationTimestamp": "2026-08-15T12:12:53.216Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

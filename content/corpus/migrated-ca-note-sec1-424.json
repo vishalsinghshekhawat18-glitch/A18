@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec1-424",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Nitin Gadkari Witness Breakthrough of 14-km Zojila Tunnel Main Bore",
+  "summary": "India's longest road tunnel on NH-1 connects Srinagar, Kargil, and Leh at 11,500 ft altitude.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "India's longest road tunnel on NH-1 connects Srinagar, Kargil, and Leh at 11,500 ft altitude."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Zojila Breakthrough: Completion of full tunnel excavation between Baltal and Minamarg in Kargil district.",
+        "Project Cost: Developed by NHIDCL at ₹6,800 crore using New Austrian Tunnelling Method (NATM) and SCADA.",
+        "Strategic Value: Provides all-weather connectivity on the Srinagar-Kargil-Leh axis (completion Feb 2028)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "NHIDCL (National Highways and Infrastructure Development Corporation Ltd) MD: Krishan Kumar."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Zojila tunnel length (14 km) vs total highway project cost (₹6,800 crore)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-16",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:54.072Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-424",
+      "sourceTitle": "Nitin Gadkari Witness Breakthrough of 14-km Zojila Tunnel Main Bore",
+      "sourceChecksum": "818a7558d495c639124fda7b7be7d12259f221f4a1df8fa0df0441c0bedc490e",
+      "migrationTimestamp": "2026-08-15T12:12:54.072Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "migrated-ca-note-sec7-316",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Parveen Shaikh & Barkha Subba Conferred 2026 Whitley Award ('Green Oscar') in London",
+  "summary": "Recognized for conserving the Indian Skimmer (Chambal River) and Himalayan Salamander (Darjeeling).",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Recognized for conserving the Indian Skimmer (Chambal River) and Himalayan Salamander (Darjeeling)."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Indian Awardees: Parveen Shaikh (BNHS, Indian Skimmer) and Barkha Subba (FSEP, Himalayan Salamander).",
+        "Award Details: Conferred by UK's Princess Anne at Royal Geographical Society, London (£50,000 funding)."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Award Title",
+        "Recipient / Winner",
+        "Conferred By / Key Detail"
+      ],
+      "rows": [
+        [
+          "Parveen Shaikh & Barkha Subba Conferred 2026 Whitley Award ('Green Oscar') in London",
+          "Indian Awardees: Parveen Shaikh (BNHS, Indian Skimmer) and Barkha Subba (FSEP, Himalayan Salamander).",
+          "Whitley Fund for Nature (UK) institutes the annual Whitley Awards."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Whitley Fund for Nature (UK) institutes the annual Whitley Awards."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Parveen Shaikh species focus (Indian Skimmer) vs Barkha Subba species focus (Himalayan Salamander)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec7",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-14",
+    "category": "SEC7",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.216Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec7-316",
+      "sourceTitle": "Parveen Shaikh & Barkha Subba Conferred 2026 Whitley Award ('Green Oscar') in London",
+      "sourceChecksum": "97f7c4f345748d69824a7a5b6e312fabc824d55ed25c6ba3d962530ac9e2ba6b",
+      "migrationTimestamp": "2026-08-15T12:12:53.216Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec2-391",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Recognises 'Sahamati' as Self-Regulatory Organisation for Account Aggregator Ecosystem",
+  "summary": "Sahamati becomes official SRO for NBFC-Account Aggregator network powering consent-based data sharing.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Sahamati becomes official SRO for NBFC-Account Aggregator network powering consent-based data sharing."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "SRO Recognition: RBI recognised Sahamati (not-for-profit entity) as SRO for Account Aggregator ecosystem.",
+        "AA Framework: Consent-based financial data sharing launched Sept 2, 2021; enabled ₹3.5 lakh crore lending in FY26."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Account Aggregators operate under RBI NBFC-AA regulations."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-13",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:54.071Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-391",
+      "sourceTitle": "RBI Recognises 'Sahamati' as Self-Regulatory Organisation for Account Aggregator Ecosystem",
+      "sourceChecksum": "8204344d6b36bd45b579203f8a0b33c8898dbbd0afea956c0c292ec8039f12eb",
+      "migrationTimestamp": "2026-08-15T12:12:54.071Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

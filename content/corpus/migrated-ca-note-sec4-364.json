@@ -1,0 +1,72 @@
+{
+  "id": "migrated-ca-note-sec4-364",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "MDoNER & Meghalaya Launch 'Mission Golden Spice' for Lakadong Turmeric (₹175.45 Crore)",
+  "summary": "Scales world's highest naturally occurring curcumin turmeric to a ₹100 crore economy by FY29.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Scales world's highest naturally occurring curcumin turmeric to a ₹100 crore economy by FY29."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Outlay & Roadmap: ₹175.45 crore 5-year convergence project (2025-2030) under 'Unlock Economic Potential of Northeast'.",
+        "Cultivation Target: Triples cultivation area to 7,000 hectares, benefiting 17,500 farmers (99% women) in Jaintia Hills."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Metric / Component",
+        "Threshold / Provision Detail"
+      ],
+      "rows": [
+        [
+          "Outlay & Roadmap",
+          "₹175.45 crore 5-year convergence project (2025-2030) under 'Unlock Economic Potential of Northeast'."
+        ],
+        [
+          "Cultivation Target",
+          "Triples cultivation area to 7,000 hectares, benefiting 17,500 farmers (99% women) in Jaintia Hills."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Lakadong Turmeric carries GI tag and contains 7%-12% natural curcumin."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Lakadong cultivation target (7,000 hectares) vs target Lakadong economy by FY29 (₹100 crore)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-25",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:53.665Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-364",
+      "sourceTitle": "MDoNER & Meghalaya Launch 'Mission Golden Spice' for Lakadong Turmeric (₹175.45 Crore)",
+      "sourceChecksum": "beb645d8feb4ff317a00ba478b54b994885f2fe09da4a50318300456353c16d4",
+      "migrationTimestamp": "2026-08-15T12:12:53.665Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

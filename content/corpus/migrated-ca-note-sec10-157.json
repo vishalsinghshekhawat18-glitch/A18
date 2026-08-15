@@ -1,0 +1,82 @@
+{
+  "id": "migrated-ca-note-sec10-157",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "MoHUA Approves ₹2,719.80 Crore Urban Challenge Fund (UCF) Projects for Ahmedabad",
+  "summary": "Finances major urban infrastructure, Intelligent Water Management, and ITMS transit under Centrally Sponsored UCF.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Finances major urban infrastructure, Intelligent Water Management, and ITMS transit under Centrally Sponsored UCF."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Approved Projects: ₹852.93 cr (West Ahmedabad sewerage), ₹551.35 cr (East Ahmedabad sewerage), ₹479.25 cr (125 TPD Integrated Sludge Facility), ₹331.03 cr (ITMS & AFCS Transit).",
+        "UCF Corpus & Structure: UCF approved with ₹1 lakh crore Central Assistance to leverage ₹4 lakh crore urban investments (FY26 to FY31).",
+        "Central support capped at 25%, minimum 50% market raised, 25% state/ULB.",
+        "Credit Guarantee Sub-Scheme: Central repayment guarantee up to ₹7 crore (or 70% of loan) for Tier-II/III cities."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Bank Category",
+        "Minimum Leverage Ratio Floor",
+        "Buffer Requirement"
+      ],
+      "rows": [
+        [
+          "Domestic Systemically Important Banks (D-SIBs)",
+          "4.0%",
+          "Standard D-SIB Capital Buffer"
+        ],
+        [
+          "Other Commercial Banks",
+          "3.5%",
+          "Standard Capital Buffer"
+        ],
+        [
+          "G-SIB Foreign Branches in India",
+          "3.5%",
+          "3.5% + Applicable G-SIB Leverage Buffer"
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "MoHUA Minister: Manohar Lal Khattar | ADB approved  billion loan for Urban Transformation and Investment Program."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "UCF Central Assistance (₹1 lakh crore / 25% project cost) vs total urban investment target (₹4 lakh crore)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec10",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-02",
+    "category": "SEC10",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:37.958Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec10-157",
+      "sourceTitle": "MoHUA Approves ₹2,719.80 Crore Urban Challenge Fund (UCF) Projects for Ahmedabad",
+      "sourceChecksum": "700fc9757dd18ccbd00fd20ab4e169457363d9724ae45b426f88bed36f824b9a",
+      "migrationTimestamp": "2026-08-15T12:12:37.958Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}
