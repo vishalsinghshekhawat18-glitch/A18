@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-ca-2026-08-12-jacob-diamond-rbi-vault",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "184.75-Carat Historic Jacob Diamond Retained in Reserve Bank of India Vaults in Mumbai",
+  "summary": "Historic 184.75-carat Golconda-origin Jacob Diamond, once owned by 6th Nizam of Hyderabad, preserved in RBI Mumbai vaults.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Historic 184.75-carat Golconda-origin Jacob Diamond, once owned by 6th Nizam of Hyderabad, preserved in RBI Mumbai vaults."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Diamond Details:** 184.75-carat Golconda diamond offered to 6th Nizam of Hyderabad (Mir Mahboob Ali Khan).",
+        "**Location:** Kept securely in Reserve Bank of India vaults in Mumbai."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Golconda Diamonds: World famous mines in Andhra Pradesh/Telangana (Koh-i-Noor, Hope Diamond, Jacob Diamond)."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "≠ **Carat Weight:** 184.75 carats."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-12",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.657Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "ca_2026_08_12_jacob_diamond_rbi_vault",
+      "sourceTitle": "184.75-Carat Historic Jacob Diamond Retained in Reserve Bank of India Vaults in Mumbai",
+      "sourceChecksum": "52a63ec215f0faf50757b9fbc418fa1b9cbc253c0d9995010fad5e3dcb7aa3fb",
+      "migrationTimestamp": "2026-08-15T12:13:28.657Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

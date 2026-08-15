@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec1-427",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "MNRE Launches 'Green Hydrogen Certification Portal of India (GHCI)' &  Startup Support",
+  "summary": "Pralhad Joshi sanctions ₹22 crore 1st batch support to 9 green hydrogen startups.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Pralhad Joshi sanctions ₹22 crore 1st batch support to 9 green hydrogen startups."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "GHCI Portal: Facilitates transparent certification under Green Hydrogen Certification Scheme of India.",
+        "Electrolyser Incentives: Financial incentives awarded to 15 companies for 3,000 MW/yr manufacturing under SIGHT.",
+        "Refinery Contracts: 30,000 MTPA green hydrogen supply contracts awarded to IOCL, BPCL, HPCL, and NRL."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "National Green Hydrogen Mission outlay ₹19,744 crore targeting 5 MMT annual capacity by 2030."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-19",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.227Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-427",
+      "sourceTitle": "MNRE Launches 'Green Hydrogen Certification Portal of India (GHCI)' &  Startup Support",
+      "sourceChecksum": "6d954589555e757297062a399cd242fbdcaaac92d34e26c31c9f78ac2303501f",
+      "migrationTimestamp": "2026-08-15T12:13:28.227Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

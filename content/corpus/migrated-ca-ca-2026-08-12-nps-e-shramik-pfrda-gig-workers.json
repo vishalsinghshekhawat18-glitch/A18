@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-ca-2026-08-12-nps-e-shramik-pfrda-gig-workers",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "PFRDA NPS e-Shramik Model Enables Flexible Contributions for Gig & Platform Workers",
+  "summary": "PFRDA NPS e-Shramik Platform Service Partner model allows joint or single contributions for gig workers with no fixed minimum/maximum limit.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "PFRDA NPS e-Shramik Platform Service Partner model allows joint or single contributions for gig workers with no fixed minimum/maximum limit."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Target Group:** Gig workers and platform workers providing services through digital platforms.",
+        "**Flexible Contribution:** No fixed minimum or maximum contribution prescribed; follows NPS Corporate Model structure."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "PFRDA: Pension Fund Regulatory and Development Authority. Chairperson: Sivasubramanian Ramann."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "≠ **Contribution Cap:** NO minimum or maximum contribution limit prescribed."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-12",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.657Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "ca_2026_08_12_nps_e_shramik_pfrda_gig_workers",
+      "sourceTitle": "PFRDA NPS e-Shramik Model Enables Flexible Contributions for Gig & Platform Workers",
+      "sourceChecksum": "e10bcbb2a027aec94beb9179c507244119f9b2a27266f8adb68760daebc19aee",
+      "migrationTimestamp": "2026-08-15T12:13:28.657Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

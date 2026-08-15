@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-ca-2026-08-12-sebi-fpi-non-agri-commodity-derivatives",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SEBI Proposes Wider FPI Participation in Non-Agricultural Commodity Derivatives",
+  "summary": "SEBI proposed allowing FPIs in non-agri index derivatives and physically settled contracts with 2-tier safeguard mechanism.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "SEBI proposed allowing FPIs in non-agri index derivatives and physically settled contracts with 2-tier safeguard mechanism."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Expanded Scope:** FPIs allowed in non-cash-settled and physically settled non-agricultural commodity derivatives.",
+        "**Two-Tier Safeguard:** Voluntary exit before delivery period; automatic position transfer to designated Trading Member (TM/TCM) as backstop.",
+        "**Settlement Rules:** Transferred position executed at settlement price; TM/TCM given **2 trading days** to align position limits."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "SEBI Commodity Derivatives: FPI participation first allowed in cash-settled contracts in 2022."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "≠ **Position Transfer Limit:** TM/TCM allowed up to 2 trading days to bring positions within limit."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-12",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.657Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "ca_2026_08_12_sebi_fpi_non_agri_commodity_derivatives",
+      "sourceTitle": "SEBI Proposes Wider FPI Participation in Non-Agricultural Commodity Derivatives",
+      "sourceChecksum": "07e374d58d68485e79529ef0a307fc4f876995031fefac9095228933e3ed4b09",
+      "migrationTimestamp": "2026-08-15T12:13:28.657Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

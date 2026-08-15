@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-ca-2026-08-09-rbi-g-sib-leverage-buffer",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Draft Aligns Leverage Ratio Regime with Basel 2017 Standards; Prescribes G-SIB Leverage Buffer",
+  "summary": "RBI draft directions align leverage ratio norms with Basel 2017, introducing leverage buffer for G-SIB branches in India from April 1, 2027.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "RBI draft directions align leverage ratio norms with Basel 2017, introducing leverage buffer for G-SIB branches in India from April 1, 2027."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Minimum Leverage Ratio:** Retained at **4% for D-SIBs** and **3.5% for all other banks**.",
+        "**G-SIB Branches:** Foreign branches of G-SIBs must maintain **3.5% minimum leverage ratio + applicable G-SIB leverage buffer**.",
+        "**Derivative Calculation:** Uses replacement cost + potential future exposure, multiplier generally **1.4x**."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "D-SIBs in India: State Bank of India (SBI), HDFC Bank, ICICI Bank."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "≠ **Ratio Floor:** D-SIBs floor is 4.0%; Non-D-SIB commercial banks floor is 3.5%."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-09",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.227Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "ca_2026_08_09_rbi_g_sib_leverage_buffer",
+      "sourceTitle": "RBI Draft Aligns Leverage Ratio Regime with Basel 2017 Standards; Prescribes G-SIB Leverage Buffer",
+      "sourceChecksum": "3b59a3179d5e2b2fb2aca9dfd391a8c9319e07549de9d19dde20a273a1aa02fa",
+      "migrationTimestamp": "2026-08-15T12:13:28.227Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

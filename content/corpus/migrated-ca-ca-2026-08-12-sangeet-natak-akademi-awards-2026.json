@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-ca-2026-08-12-sangeet-natak-akademi-awards-2026",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "President Murmu Confers Sangeet Natak Akademi Fellowships & Awards on 115 Artists",
+  "summary": "President Droupadi Murmu conferred Sangeet Natak Akademi Fellowships (7 artists) and Puraskar awards for 2024-25 on 115 artists.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "President Droupadi Murmu conferred Sangeet Natak Akademi Fellowships (7 artists) and Puraskar awards for 2024-25 on 115 artists."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Fellowship Winners (7):** Ramlal Bareth, A V Anand, Rita Ganguly, Puru Dadheech, Chittaranjan Jyotishi, Pasumarthi Rattaiah Sarma, Sudharani Raghupathy.",
+        "**Prize Cash:** Akademi Fellowship (₹3 lakh + Tamrapatra); Akademi Award (₹1 lakh + Tamrapatra)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Sangeet Natak Akademi Instituted: 1952 (National Academy of Music, Dance and Drama)."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "≠ **Fellowship Cash:** ₹3 lakh for Fellowship; ₹1 lakh for Award."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec8",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-12",
+    "category": "SEC8",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.658Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "ca_2026_08_12_sangeet_natak_akademi_awards_2026",
+      "sourceTitle": "President Murmu Confers Sangeet Natak Akademi Fellowships & Awards on 115 Artists",
+      "sourceChecksum": "1e0e61f25b08404ef3483deb1eb5b9019bb3e95e8deb579defc0a73cfda46d99",
+      "migrationTimestamp": "2026-08-15T12:13:28.658Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

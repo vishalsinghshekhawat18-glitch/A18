@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-ca-2026-08-11-colombia-74-earthquake",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Magnitude 7.4 Earthquake Strikes Western Colombia in Chocó Region",
+  "summary": "Magnitude 7.4 earthquake struck western Colombia near San José del Palmar in the Pacific Ring of Fire.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Magnitude 7.4 earthquake struck western Colombia near San José del Palmar in the Pacific Ring of Fire."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Seismic Event:** Magnitude 7.4 earthquake struck **San José del Palmar, Chocó region, Colombia** on Aug 11, 2026.",
+        "**Tectonic Context:** Colombia is situated along the seismically active Pacific Ring of Fire."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Capital of Colombia: Bogotá. Currency: Colombian Peso."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "≠ **Tectonic Zone:** Pacific Ring of Fire."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-11",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.656Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "ca_2026_08_11_colombia_74_earthquake",
+      "sourceTitle": "Magnitude 7.4 Earthquake Strikes Western Colombia in Chocó Region",
+      "sourceChecksum": "3f7e811a616cc6b462b0fc0baa72bf53638dde98e93cb58293d0b1e931da8729",
+      "migrationTimestamp": "2026-08-15T12:13:28.656Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

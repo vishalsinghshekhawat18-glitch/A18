@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-ca-2026-08-12-sebi-bullion-etf-vault-norms",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SEBI Proposes Expanding Vault Managers Regulations to Cover All Bullion Products",
+  "summary": "SEBI proposed expanding Vault Managers Regulations 2021 from EGRs to physical bullion underlying ETFs and derivatives.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "SEBI proposed expanding Vault Managers Regulations 2021 from EGRs to physical bullion underlying ETFs and derivatives."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Regulatory Expansion:** Vault Managers Regulations 2021 expanded from Electronic Gold Receipts (EGRs) to physical bullion underlying all SEBI products.",
+        "**Objective:** Establish unified vaulting framework across EGRs, bullion ETFs, and bullion derivatives."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "EGR: Electronic Gold Receipts traded on stock exchange platform."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "≠ **Framework Scope:** Covers EGRs, Bullion ETFs, and Bullion Derivatives."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-12",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.657Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "ca_2026_08_12_sebi_bullion_etf_vault_norms",
+      "sourceTitle": "SEBI Proposes Expanding Vault Managers Regulations to Cover All Bullion Products",
+      "sourceChecksum": "f759bbad8598d86b6041adf11329d6d9130cf0794fb07c881624f9e330f519a8",
+      "migrationTimestamp": "2026-08-15T12:13:28.657Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec1-439",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Taxation Bill 2026 Extends Electronics Capital Goods Tax Exemption Sunset to March 31, 2041",
+  "summary": "Provides 15-year long-term tax predictability for semiconductor and electronics manufacturing hardware.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Provides 15-year long-term tax predictability for semiconductor and electronics manufacturing hardware."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Taxation Bill 2026 extends the sunset clause for customs duty exemption on imported capital goods used in electronics manufacturing to **March 31, 2041**.",
+        "Supports India's target to build a $500 billion electronics manufacturing ecosystem."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Central Board of Indirect Taxes and Customs (CBIC) Chairman: Sanjay Kumar Agarwal."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Sunset date extension (March 31, 2041)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.227Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-439",
+      "sourceTitle": "Taxation Bill 2026 Extends Electronics Capital Goods Tax Exemption Sunset to March 31, 2041",
+      "sourceChecksum": "5f1725d475627c8a73600a83464c4874ecdb9fe755811500965d550831938590",
+      "migrationTimestamp": "2026-08-15T12:13:28.227Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

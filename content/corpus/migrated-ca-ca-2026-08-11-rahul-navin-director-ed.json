@@ -1,0 +1,70 @@
+{
+  "id": "migrated-ca-ca-2026-08-11-rahul-navin-director-ed",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Rahul Navin Appointed Director of Enforcement Directorate (ED)",
+  "summary": "Rahul Navin officially appointed Director of Enforcement Directorate (ED).",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Rahul Navin officially appointed Director of Enforcement Directorate (ED)."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Official Designation:** Director of the Enforcement Directorate (ED).",
+        "**Nodal Agency:** ED operates under Department of Revenue, Ministry of Finance."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Appointee / Official",
+        "New Position & Organization",
+        "Key Context & Details"
+      ],
+      "rows": [
+        [
+          "Rahul Navin",
+          "Director of Enforcement Directorate (ED)",
+          "Appointed Director of ED under Ministry of Finance."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "ED Enforcement: PMLA 2002 and FEMA 1999. HQ: New Delhi."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "≠ **Agency Ministry:** ED is under Ministry of Finance (NOT MHA)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-11",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.656Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "ca_2026_08_11_rahul_navin_director_ed",
+      "sourceTitle": "Rahul Navin Appointed Director of Enforcement Directorate (ED)",
+      "sourceChecksum": "2d4dbd4b8afc7c30c4d5a7e2f451c0bd5a7b4c628bcf74a81025e051716dd534",
+      "migrationTimestamp": "2026-08-15T12:13:28.656Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

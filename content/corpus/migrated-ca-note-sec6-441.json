@@ -1,0 +1,70 @@
+{
+  "id": "migrated-ca-note-sec6-441",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Asmita Dey Wins India's 1st Commonwealth Judo Gold Medal in Women's 48kg",
+  "summary": "Historic martial arts victory at Commonwealth Judo Championships.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Historic martial arts victory at Commonwealth Judo Championships."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Indian judoka Asmita Dey won India's 1st Gold medal in Women's 48kg category at the Commonwealth Judo Championships.",
+        "Defeated top-seeded opponent in the final with an Ippon score."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Award Title",
+        "Recipient / Winner",
+        "Conferred By / Key Detail"
+      ],
+      "rows": [
+        [
+          "Asmita Dey Wins India's 1st Commonwealth Judo Gold Medal in Women's 48kg",
+          "Indian judoka Asmita Dey won India's 1st Gold medal in Women's 48kg category at the Commonwealth Judo Championships.",
+          "Judo Federation of India (JFI) President: Partap Singh Bajwa | HQ: New Delhi."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Judo Federation of India (JFI) President: Partap Singh Bajwa | HQ: New Delhi."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Weight category (Women's 48kg)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.227Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec6-441",
+      "sourceTitle": "Asmita Dey Wins India's 1st Commonwealth Judo Gold Medal in Women's 48kg",
+      "sourceChecksum": "9dc17d00e39a97352f07d56390a365833a2f137e315eaa7e0742444a6f1654bd",
+      "migrationTimestamp": "2026-08-15T12:13:28.227Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

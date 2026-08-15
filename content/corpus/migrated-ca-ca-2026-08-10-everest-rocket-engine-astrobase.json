@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-ca-2026-08-10-everest-rocket-engine-astrobase",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Astrobase Space Technologies Unveils EVEREST, India's 1st Private 800 kN FFSC Rocket Engine",
+  "summary": "Astrobase Space Technologies unveiled EVEREST, India's 1st privately developed 800 kN Full-Flow Staged Combustion rocket engine in Bengaluru.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Astrobase Space Technologies unveiled EVEREST, India's 1st privately developed 800 kN Full-Flow Staged Combustion rocket engine in Bengaluru."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Engine Specifications:** EVEREST 800 kN Full-Flow Staged Combustion (FFSC) rocket engine.",
+        "**Location & Support:** Bengaluru, Karnataka; supported under IN-SPACe Technology Adoption Fund."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "IN-SPACe HQ: Ahmedabad, Gujarat. Chairman: Pawan Kumar Goenka."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "≠ **Engine Type:** Full-Flow Staged Combustion (FFSC) 800 kN engine."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec10",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-10",
+    "category": "SEC10",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.656Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "ca_2026_08_10_everest_rocket_engine_astrobase",
+      "sourceTitle": "Astrobase Space Technologies Unveils EVEREST, India's 1st Private 800 kN FFSC Rocket Engine",
+      "sourceChecksum": "8091045494722866d83edfb974126555abc8e4d9dc983fd98c49d710ab233830",
+      "migrationTimestamp": "2026-08-15T12:13:28.656Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

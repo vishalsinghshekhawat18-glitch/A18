@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-ca-2026-08-12-bofa-jio-credit-49-percent-deal",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Bank of America Subsidiary Acquires 49.9% Stake in Jio Credit for ₹18,268 Crore ($1.9B)",
+  "summary": "NB Holdings Corp (wholly owned subsidiary of Bank of America) acquiring 49.9% stake in Jio Credit for ₹18,268.22 crore.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "NB Holdings Corp (wholly owned subsidiary of Bank of America) acquiring 49.9% stake in Jio Credit for ₹18,268.22 crore."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Deal Valuation:** NB Holdings (BofA) acquiring **49.9% stake** in Jio Credit (Jio Financial Services lending arm) for **₹18,268.22 crore ($1.9 billion)**.",
+        "**Jio Financial Alliances:** Allianz Group (50:50 Reinsurance JV) and BlackRock (50:50 Asset Management JV)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Jio Financial Services Chairman: K.V. Kamath."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "≠ **Stake Percentage:** 49.9% stake for ₹18,268.22 crore."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec7",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-12",
+    "category": "SEC7",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.657Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "ca_2026_08_12_bofa_jio_credit_49_percent_deal",
+      "sourceTitle": "Bank of America Subsidiary Acquires 49.9% Stake in Jio Credit for ₹18,268 Crore ($1.9B)",
+      "sourceChecksum": "cacfc8f10d08d1183540dbe3bc85a05264391289892d4165ffadb2f150e0321e",
+      "migrationTimestamp": "2026-08-15T12:13:28.657Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

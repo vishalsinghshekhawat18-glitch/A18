@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-ca-2026-08-10-mithila-makhana-export-australia",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "GI-Tagged Mithila Makhana Exports from Bihar to Australia Supported by APEDA",
+  "summary": "First consignment of GI-tagged Mithila Makhana exported from Darbhanga, Bihar to Australia with APEDA support.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "First consignment of GI-tagged Mithila Makhana exported from Darbhanga, Bihar to Australia with APEDA support."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Export Route:** Exported from **Darbhanga, Bihar** to **Australia**.",
+        "**Nodal Support:** Facilitated by APEDA (Agricultural and Processed Food Products Export Development Authority)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "APEDA: Statutory body under APEDA Act 1985 (Ministry of Commerce). Chairman: Abhishek Dev. HQ: New Delhi."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "≠ **Nodal Ministry:** APEDA comes under Ministry of Commerce and Industry (NOT Agriculture)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-10",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.656Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "ca_2026_08_10_mithila_makhana_export_australia",
+      "sourceTitle": "GI-Tagged Mithila Makhana Exports from Bihar to Australia Supported by APEDA",
+      "sourceChecksum": "6b27c3e15949f0860674af8d681e99d348c45e12ae662d59999578e227ec9449",
+      "migrationTimestamp": "2026-08-15T12:13:28.656Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

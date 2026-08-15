@@ -52,7 +52,34 @@ export function transformQuantStaticToKnowledgeItem(
     PYQs: 'pyq_item'
   } as const;
 
-  // 1. Table or Comparison Block if headers and rows exist
+  // 1. Body, Content, Details, or Description text
+  const rawBody = (raw as any).body || (raw as any).content || (raw as any).details || (raw as any).description;
+  if (rawBody && typeof rawBody === 'string' && rawBody.trim().length > 0) {
+    const lines = rawBody.split('\n').map(l => l.trim()).filter(Boolean);
+    if (lines.length === 1) {
+      blocks.push({
+        type: 'paragraph',
+        content: lines[0]
+      });
+    } else {
+      blocks.push({
+        type: 'bullet_list',
+        items: lines
+      });
+    }
+  }
+
+  // 1b. Highlights array
+  const rawHighlights = (raw as any).highlights;
+  if (Array.isArray(rawHighlights) && rawHighlights.length > 0) {
+    blocks.push({
+      type: 'key_concept',
+      title: 'Key Highlights',
+      summary: rawHighlights.join(' | ')
+    });
+  }
+
+  // 1c. Table or Comparison Block if headers and rows exist
   if (raw.headers && raw.rows && raw.rows.length > 0) {
     blocks.push({
       type: 'comparison',

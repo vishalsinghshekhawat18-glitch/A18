@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec2-429",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Bank of Baroda Launches 3 Features on 'bob इ Pay' Universal UPI App",
+  "summary": "Introduces OS-native biometric auth up to ₹5,000 and UIDAI face authentication for PIN reset.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Introduces OS-native biometric auth up to ₹5,000 and UIDAI face authentication for PIN reset."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Biometric Payment: Enables PIN-free UPI transactions up to ₹5,000 using device fingerprint or face ID.",
+        "UIDAI Face Auth: Allows customers to set/reset UPI PIN using UIDAI facial recognition without debit card.",
+        "IoT Delegated Payments: Enables connected devices and vehicles to execute UPI payments within pre-defined limits."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Bank of Baroda MD & CEO: Debadatta Chand | HQ: Vadodara."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "PIN-free biometric payment limit (₹5,000) vs UIDAI face authentication."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-21",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.227Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-429",
+      "sourceTitle": "Bank of Baroda Launches 3 Features on 'bob इ Pay' Universal UPI App",
+      "sourceChecksum": "2a6037bdcd3784ee820943a25f2bd51016bf7aac08dcf7ca018a92401e64dc8f",
+      "migrationTimestamp": "2026-08-15T12:13:28.227Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

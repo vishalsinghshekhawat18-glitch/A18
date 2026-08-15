@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec1-426",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "NCRPB Draft Regional Plan 2041 Approves 4 Greenfield 'Namo Cities' & 'PARIVARTAN' Scheme",
+  "summary": "Proposes ₹5,000 crore central support for Namo Cities and ₹9,585 crore vehicle replacement scheme.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Proposes ₹5,000 crore central support for Namo Cities and ₹9,585 crore vehicle replacement scheme."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Namo Cities: 4 greenfield integrated urban hubs planned along RRTS corridors with ₹5,000 crore central assistance.",
+        "PARIVARTAN Scheme: Cabinet-approved ₹9,585 crore scheme to replace 2.07 lakh old BS-III/IV buses and trucks in Delhi-NCR.",
+        "30-Minute Transit: Integrated RRTS network aiming to reduce inter-city travel time across 55,083 sq km NCR to 30 minutes."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "NCR Planning Board chaired by Union Housing & Urban Affairs Minister Manohar Lal."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Namo Cities central outlay (₹5,000 cr) vs PARIVARTAN vehicle replacement outlay (₹9,585 cr)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-18",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.226Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-426",
+      "sourceTitle": "NCRPB Draft Regional Plan 2041 Approves 4 Greenfield 'Namo Cities' & 'PARIVARTAN' Scheme",
+      "sourceChecksum": "5296a1025dc244102bc644ba3807e79d3aa929af947fa42554d406f72f463e42",
+      "migrationTimestamp": "2026-08-15T12:13:28.226Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

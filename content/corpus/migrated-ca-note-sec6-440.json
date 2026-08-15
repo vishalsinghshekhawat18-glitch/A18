@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec6-440",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "ICAR Develops India's 1st Telomere-to-Telomere (T2T) Reference Genome for Pigeonpea",
+  "summary": "Decodes complete genetic sequence of Asha (ICPL 87119) pulse variety to enhance drought and disease resistance.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Decodes complete genetic sequence of Asha (ICPL 87119) pulse variety to enhance drought and disease resistance."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "ICAR-National Research Centre on Plant Biotechnology (NRCPB) developed India's 1st gap-free Telomere-to-Telomere (T2T) reference genome for Pigeonpea (Arhar/Tur).",
+        "Sequenced using the popular pulse variety Asha (ICPL 87119), decoding all 11 chromosomes."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "ICAR (Indian Council of Agricultural Research) Director General: Mangi Lal Jat | HQ: New Delhi."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Pigeonpea variety used (Asha / ICPL 87119)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.227Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec6-440",
+      "sourceTitle": "ICAR Develops India's 1st Telomere-to-Telomere (T2T) Reference Genome for Pigeonpea",
+      "sourceChecksum": "86cfcf05520fbeb0bd0efc0dceaa1c91728fe09de196187a51e4e386a222b261",
+      "migrationTimestamp": "2026-08-15T12:13:28.227Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

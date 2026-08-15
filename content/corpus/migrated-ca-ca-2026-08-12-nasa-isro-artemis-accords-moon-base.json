@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-ca-2026-08-12-nasa-isro-artemis-accords-moon-base",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "NASA Invites ISRO to Join Moon Base Programme Under Artemis Accords Framework",
+  "summary": "NASA invited ISRO to join its Moon Base programme. India joined Artemis Accords in 2023 as 27th signatory (70 members currently).",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "NASA invited ISRO to join its Moon Base programme. India joined Artemis Accords in 2023 as 27th signatory (70 members currently)."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Global Invitation:** NASA invited ISRO to participate in its Moon Base exploration programme.",
+        "**Artemis Membership:** India signed Artemis Accords as **27th country in 2023**; total current membership reached **70 countries**."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "ISRO Established: Aug 15, 1969. HQ: Bengaluru. Chairman: Dr. V. Narayanan."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "≠ **India Signatory Order:** 27th country (out of 70 current members)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec10",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-12",
+    "category": "SEC10",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.657Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "ca_2026_08_12_nasa_isro_artemis_accords_moon_base",
+      "sourceTitle": "NASA Invites ISRO to Join Moon Base Programme Under Artemis Accords Framework",
+      "sourceChecksum": "33b93862f1dcbd95b0910a2ae035c064e34f461b1baf3e2c46539a204f6aa911",
+      "migrationTimestamp": "2026-08-15T12:13:28.657Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "migrated-ca-ca-2026-08-10-sebi-isin-limit-debt",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SEBI Proposes Raising Annual ISIN Limit for Private Debt Securities from 14 to 17",
+  "summary": "SEBI proposed expanding annual ISIN limit maturing in a FY from 14 to 17 to ease NBFC refinancing pressure.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "SEBI proposed expanding annual ISIN limit maturing in a FY from 14 to 17 to ease NBFC refinancing pressure."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**ISIN Limit Breakdown:** Plain-vanilla debt ISINs increased from **9 to 12**; Structured/FRBs/ZCBs/Tier-II ISIN limit remains **5**.",
+        "**Large Issuer Flexibility:** Once 12 ISINs reach **₹15,000 crore**, 1 additional ISIN permitted per further **₹3,000 crore** outstanding.",
+        "**Mandatory Listing Relief:** Removed requirement to mandatorily list all outstanding unlisted NCDs issued on/after Jan 1, 2024.",
+        "**Exclusion:** Sovereign/Government-serviced EBR bonds excluded from ISIN limits."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "ISIN: International Securities Identification Number (12-character alphanumeric code)."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Limit Allocation:** Plain vanilla ISIN limit expanded (9->12), but structured debt ISIN limit remained UNCHANGED at 5."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-10",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.227Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "ca_2026_08_10_sebi_isin_limit_debt",
+      "sourceTitle": "SEBI Proposes Raising Annual ISIN Limit for Private Debt Securities from 14 to 17",
+      "sourceChecksum": "a144ada48a2938b57987f3067a8a28dd6b8d2261f3b312e63ac9f56a972c7774",
+      "migrationTimestamp": "2026-08-15T12:13:28.227Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

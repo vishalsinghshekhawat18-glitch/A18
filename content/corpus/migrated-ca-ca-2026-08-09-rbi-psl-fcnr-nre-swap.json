@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-ca-2026-08-09-rbi-psl-fcnr-nre-swap",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Directions: USD-INR Swap Facility Introduced for Fresh FCNR(B) Funds; Excluded from ANBC",
+  "summary": "RBI introduced USD-INR swap facility for 3-5 year FCNR(B) deposits and excluded fresh FCNR(B)/NRE deposits from ANBC calculation.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "RBI introduced USD-INR swap facility for 3-5 year FCNR(B) deposits and excluded fresh FCNR(B)/NRE deposits from ANBC calculation."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Swap Facility Tenor:** US Dollar-Rupee swap facility for fresh FCNR(B) dollar deposits with tenor of **3 to 5 years**.",
+        "**CRR/SLR Exemption:** Temporary CRR/SLR relief on fresh FCNR(B) (8 June - 30 Sept 2026) and NRE term deposits (19 June - 30 Sept 2026, 3+ yrs).",
+        "**ANBC Exclusion:** Advances against eligible fresh FCNR(B)/NRE deposits excluded from Adjusted Net Bank Credit (ANBC) for PSL calculation."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "ANBC: Adjusted Net Bank Credit forms the baseline for computing Priority Sector Lending (PSL) targets."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "≠ **ANBC Cap:** Excluded amount cannot exceed eligible fresh FCNR(B)/NRE deposits."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-09",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.227Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "ca_2026_08_09_rbi_psl_fcnr_nre_swap",
+      "sourceTitle": "RBI Directions: USD-INR Swap Facility Introduced for Fresh FCNR(B) Funds; Excluded from ANBC",
+      "sourceChecksum": "a5d8d4a8238394caaae957da996f5a875b06f8ed31304e047cc88c241d7ce084",
+      "migrationTimestamp": "2026-08-15T12:13:28.227Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

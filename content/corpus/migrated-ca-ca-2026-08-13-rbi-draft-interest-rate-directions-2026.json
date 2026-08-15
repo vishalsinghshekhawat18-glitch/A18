@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-ca-2026-08-13-rbi-draft-interest-rate-directions-2026",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Issues Draft Interest Rate Directions 2026: Mandates Benchmark Linkage & Quarterly Reset Cap",
+  "summary": "RBI draft Interest Rate Directions 2026 mandate benchmark linkage for fixed/floating loans and cap floating reset frequency at 3 months.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "RBI draft Interest Rate Directions 2026 mandate benchmark linkage for fixed/floating loans and cap floating reset frequency at 3 months."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "📌 **Core Policy Directives & Scope:**\n**Benchmark Linkage:** All loans must link to internal or external benchmark + risk-based spread; no loan below benchmark.\n**Floating Reset Cap:** Floating rate benchmark reset frequency chosen by lender, capped at **max once every 3 months**.\n**Agri Loans Reset:** Reset linked to crop season, capped at **max 12 months**.",
+        "💰 **Financial Outlays & Operational Rules:**\n**MCLR Rule:** Commercial banks, RRBs, Tier 3/4 UCBs with deposits >**₹1,000 crore** continue using MCLR internal benchmark.\n**Mandatory External Benchmark:** Mandatory for floating personal and MSME loans by commercial banks."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "MCLR: Marginal Cost of Funds based Lending Rate introduced in April 2016."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "≠ **Reset Cap:** Floating loan reset max once every 3 months; Agri loan reset max 12 months."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-13",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.657Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "ca_2026_08_13_rbi_draft_interest_rate_directions_2026",
+      "sourceTitle": "RBI Issues Draft Interest Rate Directions 2026: Mandates Benchmark Linkage & Quarterly Reset Cap",
+      "sourceChecksum": "55daba2dd7fc54544aca6231c8653ff27703f828a7c1c3ca2a4c3faa9c85b6b5",
+      "migrationTimestamp": "2026-08-15T12:13:28.657Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

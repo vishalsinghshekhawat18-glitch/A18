@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec1-425",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "BIS Publishes IS 20201:2026 Standard for Community Seed Bank Management",
+  "summary": "Establishes India's 1st management framework for community-led seed banks.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Establishes India's 1st management framework for community-led seed banks."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "New Standard: Published by BIS Biodiversity Sectional Committee (EED 06) under Environment Department.",
+        "NFSNM Support: National Food Security and Nutrition Mission provides ₹50 lakh one-time assistance for community seed banks.",
+        "Statutory Protection: Aligns with PPV&FRA 2001 and Biological Diversity Act 2002."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Bureau of Indian Standards (BIS) Director General: Sanjay Garg | Est 2016."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-17",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.226Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-425",
+      "sourceTitle": "BIS Publishes IS 20201:2026 Standard for Community Seed Bank Management",
+      "sourceChecksum": "d244b54d5f6d32a624c94b325e57d6ce6f566b7e91152d943869577990c0be0b",
+      "migrationTimestamp": "2026-08-15T12:13:28.226Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

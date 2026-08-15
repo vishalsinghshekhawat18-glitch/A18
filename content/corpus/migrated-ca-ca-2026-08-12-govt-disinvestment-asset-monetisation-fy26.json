@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-ca-2026-08-12-govt-disinvestment-asset-monetisation-fy26",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Govt Mops Up ₹45,306 Crore from Disinvestment & Asset Monetisation in FY26",
+  "summary": "Government combined mop-up from disinvestment and asset monetisation reached ₹45,306 crore in FY26, exceeding RE of ₹33,837 crore.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Government combined mop-up from disinvestment and asset monetisation reached ₹45,306 crore in FY26, exceeding RE of ₹33,837 crore."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**FY26 Receipts:** Combined mop-up stood at **₹45,306 crore** in FY26 (exceeding Revised Estimate of ₹33,837 crore).",
+        "**FY27 Target:** Government budgeted **₹80,000 crore** under Miscellaneous Capital Receipts for FY27."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "DIPAM: Department of Investment and Public Asset Management (Ministry of Finance)."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Budgeted Target:** FY27 budget target set at ₹80,000 crore."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-12",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.657Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "ca_2026_08_12_govt_disinvestment_asset_monetisation_fy26",
+      "sourceTitle": "Govt Mops Up ₹45,306 Crore from Disinvestment & Asset Monetisation in FY26",
+      "sourceChecksum": "a5332fd731a4c74c685e711e9dc1f51a2b8e1f8a6dcf2c23f9cc93d60ebce261",
+      "migrationTimestamp": "2026-08-15T12:13:28.657Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

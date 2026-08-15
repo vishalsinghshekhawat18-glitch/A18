@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-ca-2026-08-11-fao-food-price-index-july",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "FAO Food Price Index Hits 3-Year High of 131.1 Points in July 2026",
+  "summary": "UN FAO Food Price Index reached 3-year high at 131.1 points in July 2026.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "UN FAO Food Price Index reached 3-year high at 131.1 points in July 2026."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Index Benchmark:** FAO Food Price Index reached **131.1 points** in July 2026.",
+        "**UN FAO Profile:** HQ: Rome, Italy; Established: Oct 16, 1945; Director-General: Qu Dongyu."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "World Food Day: Celebrated annually on October 16 (FAO founding day)."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "≠ **FAO HQ:** Rome, Italy (NOT Geneva or Vienna)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-11",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.656Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "ca_2026_08_11_fao_food_price_index_july",
+      "sourceTitle": "FAO Food Price Index Hits 3-Year High of 131.1 Points in July 2026",
+      "sourceChecksum": "aac1ea456ba81d66093383cdea77b2fde26f0b7cc27fe133cc496fdea4294a2a",
+      "migrationTimestamp": "2026-08-15T12:13:28.656Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

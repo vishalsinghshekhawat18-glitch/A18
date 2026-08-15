@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec2-434",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SEBI Proposes Common Advertisement Code (CAC) Under Intermediaries Regulations 2008",
+  "summary": "Replaces separate exchange ad rules with single code and 24-hour post-publication reporting.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Replaces separate exchange ad rules with single code and 24-hour post-publication reporting."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Harmonised Code: Single Common Advertisement Code applies to stockbrokers, MFs, PMs, RAs, and IAs.",
+        "Post-Reporting SLA: Mandates reporting of advertisements within 24 hours of publication instead of prior clearance.",
+        "Celebrity Endorsements: Permits brand-level celebrity endorsements while prohibiting specific product/service endorsements."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "PaRRVA (Past Risk and Return Verification Agency) ratings permitted under proposed CAC."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Ad reporting SLA (24 hours after publication) vs celebrity endorsement scope (brand-level only)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-26",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.227Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-434",
+      "sourceTitle": "SEBI Proposes Common Advertisement Code (CAC) Under Intermediaries Regulations 2008",
+      "sourceChecksum": "298b9779e64a306f863678a6dcb38210fa3aefc734067decbcc439331776e140",
+      "migrationTimestamp": "2026-08-15T12:13:28.227Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

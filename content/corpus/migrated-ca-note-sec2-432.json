@@ -1,0 +1,73 @@
+{
+  "id": "migrated-ca-note-sec2-432",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Zerodha Fund House Launches India's 1st 'Lifecycle Mutual Funds' (NFOs 2036 & 2041)",
+  "summary": "Introduces target-date open-ended funds following a risk-reducing asset allocation glidepath.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Introduces target-date open-ended funds following a risk-reducing asset allocation glidepath."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Target-Date NFOs: Launches 'Zerodha Life Cycle Fund 2036' and 'Zerodha Life Cycle Fund 2041' (minimum subscription ₹100).",
+        "Asset Glidepath: Systematically shifts asset allocation from high-equity growth to conservative G-Secs as target year approaches.",
+        "Exit Load Tier: 3% exit load within 1 yr, 2% within 2 yrs, 1% within 3 yrs, nil beyond 3 yrs."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Metric / Component",
+        "Threshold / Provision Detail"
+      ],
+      "rows": [
+        [
+          "Target-Date NFOs",
+          "Launches 'Zerodha Life Cycle Fund 2036' and 'Zerodha Life Cycle Fund 2041' (minimum subscription ₹100)."
+        ],
+        [
+          "Exit Load Tier",
+          "3% exit load within 1 yr, 2% within 2 yrs, 1% within 3 yrs, nil beyond 3 yrs."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Zerodha Fund House CEO: Vishal Jain | Fund Manager: Kedarnath Mirajkar."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Minimum subscription amount (₹100) vs exit load window (3 years)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-24",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.227Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-432",
+      "sourceTitle": "Zerodha Fund House Launches India's 1st 'Lifecycle Mutual Funds' (NFOs 2036 & 2041)",
+      "sourceChecksum": "f08889ee212859effcdf1e43a81b9e71d8df42430e124b7333506b4478ff0ff4",
+      "migrationTimestamp": "2026-08-15T12:13:28.227Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

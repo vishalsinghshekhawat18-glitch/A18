@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-ca-2026-08-10-nse-authorised-person-rules",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "NSE Introduces Tighter Net Worth & Deposit Norms for Authorised Persons (APs)",
+  "summary": "NSE revised rules for Authorised Persons, prescribing minimum net worth of ₹5L for individuals and ₹25L for partnerships/LLPs.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "NSE revised rules for Authorised Persons, prescribing minimum net worth of ₹5L for individuals and ₹25L for partnerships/LLPs."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Net Worth Norms:** Minimum net worth set at **₹5 lakh for individuals** and **₹25 lakh for partnerships/LLPs/companies**.",
+        "**Broker Deposit:** APs must maintain minimum deposit of **₹1 lakh** with stock broker.",
+        "**Mandatory Disclosures:** APs must disclose bank/demat accounts, websites, NISM certifications, and social media handles."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "NSE Founded: Nov 27, 1992. HQ: Mumbai. MD & CEO: Ashishkumar Chauhan."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "≠ **Net Worth Discriminator:** Individual APs (₹5L) vs Corporate/LLP APs (₹25L)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-10",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.656Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "ca_2026_08_10_nse_authorised_person_rules",
+      "sourceTitle": "NSE Introduces Tighter Net Worth & Deposit Norms for Authorised Persons (APs)",
+      "sourceChecksum": "f758116dbb971888a7491edefbfbc34740132bfcd28e62aefb3caf18354de559",
+      "migrationTimestamp": "2026-08-15T12:13:28.656Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

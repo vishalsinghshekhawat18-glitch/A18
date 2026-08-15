@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-ca-2026-08-10-gift-city-nri-mf-fund",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Wealth Company Launches Category III AIF in GIFT City for NRI Mutual Fund Investments",
+  "summary": "Wealth Company launched Category III AIF ('Wealth Company IFSC FoF') in GIFT City IFSC for NRIs to invest in Indian MFs and ETFs.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Wealth Company launched Category III AIF ('Wealth Company IFSC FoF') in GIFT City IFSC for NRIs to invest in Indian MFs and ETFs."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Fund Vehicle:** 'The Wealth Company IFSC FoF' registered as open-ended **Category III Alternative Investment Fund (AIF)**.",
+        "**Regulator & Manager:** Managed by Wealth Company Asset Management IFSC branch registered with **IFSCA**."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "IFSCA Headquarters: GIFT City, Gandhinagar, Gujarat. Chairman: K. Rajaraman."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **AIF Category:** Registered specifically as Category III AIF (Fund of Funds)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-10",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.656Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "ca_2026_08_10_gift_city_nri_mf_fund",
+      "sourceTitle": "Wealth Company Launches Category III AIF in GIFT City for NRI Mutual Fund Investments",
+      "sourceChecksum": "bf457b167c110735ec37e5207f86a90fe402e39429d9b0974d8e4e821c4d8f25",
+      "migrationTimestamp": "2026-08-15T12:13:28.656Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

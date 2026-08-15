@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-ca-2026-08-12-sebi-municipal-debt-timelines",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SEBI Relaxes Financial Results Submission Timelines for Listed Municipal Debt Securities",
+  "summary": "SEBI amended Municipal Debt Securities Regulations 2015, extending half-yearly results timeline to 60 days and annual results to 90 days.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "SEBI amended Municipal Debt Securities Regulations 2015, extending half-yearly results timeline to 60 days and annual results to 90 days."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Revised Timelines:** Half-yearly unaudited results extended to **60 days** (from 45 days); Annual audited results extended to **90 days** (from 60 days).",
+        "**Face Value Norms:** Private placement municipal debt securities face value set at **₹1 lakh or ₹10,000**.",
+        "**Escrow Mechanism:** Introduced 2-step escrow account mechanism for pooled finance SPVs requiring 1 year interest obligation buffer."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Amends: SEBI (Issue and Listing of Municipal Debt Securities) Regulations, 2015."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Timeline Shift:** Half-yearly (45->60 days); Annual (60->90 days)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-12",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.657Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "ca_2026_08_12_sebi_municipal_debt_timelines",
+      "sourceTitle": "SEBI Relaxes Financial Results Submission Timelines for Listed Municipal Debt Securities",
+      "sourceChecksum": "4f5e0fd84c2c1684d8fce3e46556954824b1d5013989795e6e783d2fbdbd1f81",
+      "migrationTimestamp": "2026-08-15T12:13:28.657Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

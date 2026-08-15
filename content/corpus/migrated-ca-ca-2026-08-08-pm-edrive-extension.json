@@ -1,0 +1,78 @@
+{
+  "id": "migrated-ca-ca-2026-08-08-pm-edrive-extension",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Govt Halves e2W Subsidy to ₹2,500/kWh & Extends PM E-DRIVE Scheme Till March 2028",
+  "summary": "PM E-DRIVE scheme extended by 1 year to March 31, 2028, with e2W incentive halved from ₹5,000 to ₹2,500 per kWh.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "PM E-DRIVE scheme extended by 1 year to March 31, 2028, with e2W incentive halved from ₹5,000 to ₹2,500 per kWh."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Scheme Extension:** PM Electric Drive Revolution in Innovative Vehicle Enhancement (PM E-DRIVE) extended by 1 year to **March 31, 2028**.",
+        "**Incentive Cut:** Incentive for electric two-wheelers (e2Ws) reduced from **₹5,000 to ₹2,500 per kWh**.",
+        "**Cap & Ceiling:** Maximum incentive capped at **₹5,000 per vehicle** (down from ₹10,000 in FY25) for e2Ws with ex-factory price up to **₹1.5 lakh**.",
+        "**Outlay & Ceiling Limit:** Total scheme outlay remains **₹11,900 crore**; incentive capped at 15% of ex-factory price."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Metric / Component",
+        "Threshold / Provision Detail"
+      ],
+      "rows": [
+        [
+          "Incentive Cut",
+          "Incentive for electric two-wheelers (e2Ws) reduced from ₹5,000 to ₹2,500 per kWh."
+        ],
+        [
+          "Cap & Ceiling",
+          "Maximum incentive capped at ₹5,000 per vehicle (down from ₹10,000 in FY25) for e2Ws with ex-factory price up to ₹1.5 lakh."
+        ],
+        [
+          "Outlay & Ceiling Limit",
+          "Total scheme outlay remains ₹11,900 crore; incentive capped at 15% of ex-factory price."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Nodal Ministry: Ministry of Heavy Industries (MHI). Outlay: ₹11,900 crore."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "≠ **Cap Trap:** Do not confuse the new maximum incentive cap of ₹5,000/vehicle with the earlier FY25 cap of ₹10,000/vehicle."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-08",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.227Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "ca_2026_08_08_pm_edrive_extension",
+      "sourceTitle": "Govt Halves e2W Subsidy to ₹2,500/kWh & Extends PM E-DRIVE Scheme Till March 2028",
+      "sourceChecksum": "4b5d0f1205c75313586dfe474569a4f9a8e64de4a5dd7a8090f37f3cf62b9154",
+      "migrationTimestamp": "2026-08-15T12:13:28.227Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-ca-2026-08-11-boss-scam-warning-i4c",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "I4C Issues Warning Against 'Boss Scam' WhatsApp CEO Impersonation Trojan Fraud",
+  "summary": "Indian Cyber Crime Coordination Centre (I4C) issued advisory against 'Boss Scam' WhatsApp Web takeover Trojan malware.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Indian Cyber Crime Coordination Centre (I4C) issued advisory against 'Boss Scam' WhatsApp Web takeover Trojan malware."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Fraud Mechanism:** WhatsApp CEO impersonation fraud installing Trojan malware on Windows devices via malicious files.",
+        "**Nodal Platform:** National Cyber Crime Reporting Portal (NCRP) operating under MHA/I4C (National Helpline **1930**)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "I4C: Nodal cybercrime agency under Ministry of Home Affairs (MHA). HQ: New Delhi."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Helpline Number:** Cybercrime national helpline is 1930."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-11",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.656Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "ca_2026_08_11_boss_scam_warning_i4c",
+      "sourceTitle": "I4C Issues Warning Against 'Boss Scam' WhatsApp CEO Impersonation Trojan Fraud",
+      "sourceChecksum": "fe2ae77b0bddc9d0c053bc8510d9fef3b1ab66c6984eb6fdd30745e1f1a4e246",
+      "migrationTimestamp": "2026-08-15T12:13:28.656Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

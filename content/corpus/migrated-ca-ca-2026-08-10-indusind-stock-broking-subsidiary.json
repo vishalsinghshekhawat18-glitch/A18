@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-ca-2026-08-10-indusind-stock-broking-subsidiary",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Approves IndusInd Bank to Set Up Wholly Owned Stock Broking Subsidiary",
+  "summary": "IndusInd Bank received RBI approval to establish a wholly owned stock broking subsidiary and infuse equity capital.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "IndusInd Bank received RBI approval to establish a wholly owned stock broking subsidiary and infuse equity capital."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Regulatory Clearance:** RBI approved establishment of wholly owned stock broking subsidiary with equity infusion.",
+        "**Corporate Governance:** IndusInd Bank MD & CEO: Rajiv Anand; HQ: Mumbai."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "IndusInd Bank Founder: S.P. Hinduja (1994). HQ: Mumbai."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "≠ **Subsidiary Ownership:** 100% wholly owned subsidiary."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-10",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.656Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "ca_2026_08_10_indusind_stock_broking_subsidiary",
+      "sourceTitle": "RBI Approves IndusInd Bank to Set Up Wholly Owned Stock Broking Subsidiary",
+      "sourceChecksum": "a2e17f70e774168c7bb2b03cc015b6157575312ef27d5386896ab11b982d40b7",
+      "migrationTimestamp": "2026-08-15T12:13:28.656Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

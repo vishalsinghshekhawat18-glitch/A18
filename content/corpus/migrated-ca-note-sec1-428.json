@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec1-428",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "MHFW Releases 'Anemia Mukt Bharat Abhiyaan' Guidelines Expanding to 7x7x7 Framework",
+  "summary": "Adds Low Birth Weight babies and Eating Right to transition from T3 to T4 approach.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Adds Low Birth Weight babies and Eating Right to transition from T3 to T4 approach."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "7x7x7 Expansion: Expands 6x6x6 to 7x7x7 by adding LBW babies (0-6 months), 'Eating Right' intervention, and M&E framework.",
+        "T4 Approach: Transitions from Test, Treat, Talk to Test, Treat, Talk & Track.",
+        "IV Iron Therapy: Includes Intravenous Iron Therapy (Ferric Carboxymaltose) for severe anemia in pregnant women."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "NFHS-5 data shows 67.1% of children (6-59 months) and 57% of women in India are anemic."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "New beneficiary group (LBW babies 0-6 months) vs T4 approach (adds 'Track')."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-20",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.227Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-428",
+      "sourceTitle": "MHFW Releases 'Anemia Mukt Bharat Abhiyaan' Guidelines Expanding to 7x7x7 Framework",
+      "sourceChecksum": "a80a12208b1eb98cb551ca1b1cf4ae11e477c2b1303aa1d0dce026c7bc190875",
+      "migrationTimestamp": "2026-08-15T12:13:28.227Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

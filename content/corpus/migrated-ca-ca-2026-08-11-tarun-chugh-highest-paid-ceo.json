@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-ca-2026-08-11-tarun-chugh-highest-paid-ceo",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Bajaj Life's Tarun Chugh Emerges as Highest-Paid Life Insurance CEO in FY26 (₹33.66 Cr)",
+  "summary": "Tarun Chugh (MD & CEO Bajaj Allianz Life) was highest-paid life insurance executive in FY26 with ₹33.66 crore remuneration.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Tarun Chugh (MD & CEO Bajaj Allianz Life) was highest-paid life insurance executive in FY26 with ₹33.66 crore remuneration."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Remuneration:** Tarun Chugh received **₹33.66 crore** in FY2025–26.",
+        "**Designation:** MD & CEO of Bajaj Allianz Life Insurance."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "IRDAI Salary Guidelines apply to private life insurance CEOs."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "≠ **Remuneration:** ₹33.66 crore."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-11",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.656Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "ca_2026_08_11_tarun_chugh_highest_paid_ceo",
+      "sourceTitle": "Bajaj Life's Tarun Chugh Emerges as Highest-Paid Life Insurance CEO in FY26 (₹33.66 Cr)",
+      "sourceChecksum": "2dda04f5264b794fe4050288bee6f124a82222ff6da8ede9b676ec5bc7236910",
+      "migrationTimestamp": "2026-08-15T12:13:28.656Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

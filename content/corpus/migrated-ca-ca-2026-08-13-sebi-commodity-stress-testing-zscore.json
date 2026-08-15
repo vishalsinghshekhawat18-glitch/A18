@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-ca-2026-08-13-sebi-commodity-stress-testing-zscore",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SEBI Lowers Commodity Derivatives Stress-Testing Z-Score Limit to 5",
+  "summary": "SEBI lowered Z-score limit for stress testing in commodity derivatives market from 10 to 5 under Core SGF framework.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "SEBI lowered Z-score limit for stress testing in commodity derivatives market from 10 to 5 under Core SGF framework."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Z-Score Threshold:** Lowered from **10 to 5** to ease compliance for market participants under Core Settlement Guarantee Fund (Core SGF).",
+        "**Historical Window:** Uses mean and sigma of returns over Margin Period of Risk (MPOR) across **15 years**."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Core SGF: Core Settlement Guarantee Fund maintained by Clearing Corporations."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "≠ **Threshold Reduction:** Z-score reduced from 10 to 5 (15-year MPOR window)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-13",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:28.657Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "ca_2026_08_13_sebi_commodity_stress_testing_zscore",
+      "sourceTitle": "SEBI Lowers Commodity Derivatives Stress-Testing Z-Score Limit to 5",
+      "sourceChecksum": "16a48402e9678fe4b946709f339952111077533cd6342ce4ac8d9d52d2a043e1",
+      "migrationTimestamp": "2026-08-15T12:13:28.657Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}
