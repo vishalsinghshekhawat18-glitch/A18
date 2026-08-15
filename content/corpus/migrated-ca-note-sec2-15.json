@@ -1,0 +1,60 @@
+{
+  "id": "migrated-ca-note-sec2-15",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SEBI Clarifies Rules for Private Share Transfers in Unlisted Companies",
+  "summary": "Prevents illegal public offerings disguised as private secondary share sales.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Prevents illegal public offerings disguised as private secondary share sales."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Secondary transfer of unlisted company shares by an existing shareholder to **≤200 buyers in a FY** is **NOT** treated as a public issue.",
+        "Contractual rights like **Right of First Refusal (ROFR)** can be honored.",
+        "Exceeding **200 buyers per FY** automatically converts the transaction into a **Deemed Public Issue**."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "SEBI established 1988, statutory powers in 1992 via SEBI Act, 1992 | HQ: Mumbai."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "200 buyers limit per FY for secondary unlisted share deals vs 200 private placement limit under Sec 42 Companies Act 2013."
+    },
+    {
+      "type": "quote",
+      "quote": "Interview Focus Question: \"Why did SEBI set a 200-buyer cap per FY for secondary unlisted share deals?\"\n💡 **Model Answer: Prevents unlisted companies from conducting backdoor public issues without fulfilling prospectus disclosure rules.**",
+      "author": "Banking & Regulatory Board Panel"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:09:32.007Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-15",
+      "sourceTitle": "SEBI Clarifies Rules for Private Share Transfers in Unlisted Companies",
+      "sourceChecksum": "bef8d63a2232a71ebb1f99a192c6edebe1589fd68d7792ca3e3af3dd41a57190",
+      "migrationTimestamp": "2026-08-15T12:09:32.007Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "migrated-ca-note-sec1-19",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Monetary Policy Statement 2026-27 (62nd MPC Meeting Highlights)",
+  "summary": "The MPC balances inflation control with economic growth momentum, setting benchmark interest rates for FY27.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "The MPC balances inflation control with economic growth momentum, setting benchmark interest rates for FY27."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "📌 **Core Policy Directives & Scope:**\nMPC held 62nd meeting from August 3 to 5, 2026.\nChairmanship: **Sanjay Malhotra** (RBI Governor).\n**Repo Rate:** Kept unchanged at **5.25%**.",
+        "💰 **Financial Outlays & Operational Rules:**\n**Real GDP Growth Projection (FY 2026-27):** Projected at **6.7%** (Q1 7.0%, Q2 6.4%, Q3 6.5%, Q4 6.8%).\n**CPI Inflation Projection (FY 2026-27):** Lowered to **5.0%** (earlier 5.1%) (Q2 4.7%, Q3 5.9%, Q4 5.5%). Core inflation projected at **4.3%**.\nMacro Buffers: Gross FDI inflows at **US$ 30.7 billion** in Q1 FY27; Forex reserves import cover **over 10 months**."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Metric / Component",
+        "Threshold / Provision Detail"
+      ],
+      "rows": [
+        [
+          "Repo Rate",
+          "Kept unchanged at 5.25%."
+        ],
+        [
+          "Real GDP Growth Projection (FY 2026-27)",
+          "Projected at 6.7% (Q1 7.0%, Q2 6.4%, Q3 6.5%, Q4 6.8%)."
+        ],
+        [
+          "CPI Inflation Projection (FY 2026-27)",
+          "Lowered to 5.0% (earlier 5.1%) (Q2 4.7%, Q3 5.9%, Q4 5.5%). Core inflation projected at 4.3%."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "MPC constituted under Sec 45ZB of RBI Act, 1934 | 6 members | Inflation target: 4% (+/- 2%)."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Real GDP Growth projection (6.7%) vs CPI Inflation projection (5.0%) for FY27."
+    },
+    {
+      "type": "quote",
+      "quote": "Interview Focus Question: \"What factors guided the MPC's decision to hold repo rate at 5.25%?\"\n💡 **Model Answer: Core inflation moderation and robust FDI buffers allowed the MPC to maintain a neutral stance while supporting 6.7% GDP growth.**",
+      "author": "Banking & Regulatory Board Panel"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:09:32.008Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-19",
+      "sourceTitle": "RBI Monetary Policy Statement 2026-27 (62nd MPC Meeting Highlights)",
+      "sourceChecksum": "0a052ebd24465dea923af964a162bca069e1554e88bd34c6931ef11a48180726",
+      "migrationTimestamp": "2026-08-15T12:09:32.008Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

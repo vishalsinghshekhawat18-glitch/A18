@@ -1,0 +1,44 @@
+{
+  "id": "migrated-ca-note-sec2-21",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Proposes Harmonised Regulatory Framework on Interest Rates on Advances",
+  "summary": "RBI Proposes Harmonised Regulatory Framework on Interest Rates on Advances",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "RBI published draft guidelines proposing to harmonise and standardise the regulatory framework on **interest rates on advances** across all Regulated Entities (banks, NBFCs, UCBs, AIFIs) to ensure transparent rate resets."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:09:32.008Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-21",
+      "sourceTitle": "RBI Proposes Harmonised Regulatory Framework on Interest Rates on Advances",
+      "sourceChecksum": "36654365cc00eba59ec756ce2887cce1d3293379c478b4e28ebfd1fe8699ab86",
+      "migrationTimestamp": "2026-08-15T12:09:32.008Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

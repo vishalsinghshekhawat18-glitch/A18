@@ -1,0 +1,50 @@
+{
+  "id": "migrated-ca-note-sec1-8",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Moody's Assigns First-Time Investment-Grade 'Baa2' Rating to RBL Bank",
+  "summary": "Moody's Assigns First-Time Investment-Grade 'Baa2' Rating to RBL Bank",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Moody's Ratings assigned a first-time rating of **Baa2 / P-2** with 'Stable' outlook to RBL Bank.",
+        "Incorporates 2-notch uplift for affiliate support from Emirates NBD Bank."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "RBL Bank (HQ: Mumbai | Tagline: \"Apno Ka Bank\")."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:09:32.006Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-8",
+      "sourceTitle": "Moody's Assigns First-Time Investment-Grade 'Baa2' Rating to RBL Bank",
+      "sourceChecksum": "c805dfe096eae76e0ae9147fcc8ceaa94c41951c75225245cd9744d0a92f32b0",
+      "migrationTimestamp": "2026-08-15T12:09:32.006Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

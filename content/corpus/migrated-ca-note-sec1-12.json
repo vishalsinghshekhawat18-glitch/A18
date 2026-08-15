@@ -1,0 +1,53 @@
+{
+  "id": "migrated-ca-note-sec1-12",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India Expands Crude Oil Sourcing Base to 41 Countries",
+  "summary": "Diversifying crude oil import channels reduces supply vulnerability amid West Asia geopolitical tensions.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Diversifying crude oil import channels reduces supply vulnerability amid West Asia geopolitical tensions."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "India expanded its crude oil sourcing base to **41 countries** (up from 27 countries earlier) to enhance energy import security."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Union Minister of Petroleum and Natural Gas: Hardeep Singh Puri | India is world's 3rd largest crude oil consumer."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:09:32.007Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-12",
+      "sourceTitle": "India Expands Crude Oil Sourcing Base to 41 Countries",
+      "sourceChecksum": "ee6b21949152def9fb89df04175b0bc82070192f56e99d09876d593c195bb171",
+      "migrationTimestamp": "2026-08-15T12:09:32.007Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

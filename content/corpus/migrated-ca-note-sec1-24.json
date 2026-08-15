@@ -1,0 +1,60 @@
+{
+  "id": "migrated-ca-note-sec1-24",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "K Rajaraman Granted Extension as Chairman of IFSCA",
+  "summary": "K Rajaraman Granted Extension as Chairman of IFSCA",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "K Rajaraman granted extension as Chairman of IFSCA beyond July 31, 2026 till age 65 (HQ: GIFT City)."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Appointee / Official",
+        "New Position & Organization",
+        "Key Context & Details"
+      ],
+      "rows": [
+        [
+          "K Rajaraman",
+          "Extension as Chairman of IFSCA",
+          "K Rajaraman granted extension as Chairman of IFSCA beyond July 31, 2026 till age 65 (HQ: GIFT City)."
+        ]
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:09:32.008Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-24",
+      "sourceTitle": "K Rajaraman Granted Extension as Chairman of IFSCA",
+      "sourceChecksum": "4346d45a50499d4a34d32ba3a301844295e8c3da5c865f532550d2cab3b9b65b",
+      "migrationTimestamp": "2026-08-15T12:09:32.008Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

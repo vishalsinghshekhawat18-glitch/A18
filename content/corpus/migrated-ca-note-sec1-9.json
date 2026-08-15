@@ -1,0 +1,54 @@
+{
+  "id": "migrated-ca-note-sec1-9",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "HSBC India Composite PMI (July 2026): Manufacturing at 53.5 & Services at 53.3",
+  "summary": "High-frequency survey indicator reflecting health of India's manufacturing and services output.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "High-frequency survey indicator reflecting health of India's manufacturing and services output."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "HSBC India Manufacturing PMI registered **53.5 in July 2026** (above 50 signals manufacturing expansion).",
+        "HSBC India Services PMI Business Activity Index stood at **53.3 in July 2026** (down from 57.4 in June)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Purchasing Managers' Index (PMI) is compiled by S&P Global; PMI score > 50 indicates expansion, while < 50 indicates contraction."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Manufacturing PMI (53.5) vs Services PMI (53.3, down from 57.4 in June)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:09:32.006Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-9",
+      "sourceTitle": "HSBC India Composite PMI (July 2026): Manufacturing at 53.5 & Services at 53.3",
+      "sourceChecksum": "02feee215384865dfd7828dfaa491af4ba52b1b741bf18359af3dcbf956d7d44",
+      "migrationTimestamp": "2026-08-15T12:09:32.006Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

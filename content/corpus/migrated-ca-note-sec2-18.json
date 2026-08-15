@@ -1,0 +1,59 @@
+{
+  "id": "migrated-ca-note-sec2-18",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Cybersecurity Benchmarks: DPDPA 2023, RBI IT Governance & SEBI CSCRF",
+  "summary": "Multi-regulatory frameworks enforce operational resilience and heavy statutory penalties across India's digital ecosystem.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Multi-regulatory frameworks enforce operational resilience and heavy statutory penalties across India's digital ecosystem."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "📌 **Core Policy Directives & Scope:**\n**RBI Penalties:** RBI imposed **₹54.78 crore in penalties across 353 cases** in FY25 for IT/cybersecurity lapses.\n**DPDPA 2023 Penalties:** Statutory penalties up to **₹250 crore** for security failures and **₹200 crore** for breach notification failures.",
+        "💰 **Financial Outlays & Operational Rules:**\n**RBI IT Governance & 2FA:** IT Governance Directions (effective April 2024); Authentication Directions 2025 mandate **2FA with at least one dynamic factor** for domestic digital transactions.\n**SEBI CSCRF 2024:** Applies to **22 types of regulated entities** across a **5-tier model** (exchanges, depositories, brokers, AMCs)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "DPDPA 2023 enacted under MeitY."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "DPDPA penalty for security failure (up to ₹250 crore) vs breach notification failure (up to ₹200 crore)."
+    },
+    {
+      "type": "quote",
+      "quote": "Interview Focus Question: \"Why do financial entities face overlapping cybersecurity regulations like DPDPA, RBI IT, and SEBI CSCRF?\"\n💡 **Model Answer: DPDPA protects individual data privacy, while RBI/SEBI norms protect institutional market liquidity and transaction security.**",
+      "author": "Banking & Regulatory Board Panel"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:09:32.007Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-18",
+      "sourceTitle": "Cybersecurity Benchmarks: DPDPA 2023, RBI IT Governance & SEBI CSCRF",
+      "sourceChecksum": "22b194df9ca9411df2b6c050123209339b8915a39b6e276ec3a0aa305c638586",
+      "migrationTimestamp": "2026-08-15T12:09:32.007Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

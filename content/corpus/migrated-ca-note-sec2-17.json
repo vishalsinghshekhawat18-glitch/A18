@@ -1,0 +1,60 @@
+{
+  "id": "migrated-ca-note-sec2-17",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SC Directs RBI on Mule Accounts SOP & IRDAI on ANPR Motor Insurance Verification",
+  "summary": "Judicial directives accelerate inter-regulatory SOPs to freeze cyber-fraud accounts and enforce motor insurance.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Judicial directives accelerate inter-regulatory SOPs to freeze cyber-fraud accounts and enforce motor insurance."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Supreme Court directed **RBI** to circulate SOP for dealing with **mule accounts** linked to cyber fraud.",
+        "RBI combating tools: Uses **MuleHunter.AI** in collaboration with **I4C** (Indian Cyber Crime Coordination Centre under MHA).",
+        "SC directed Central Govt & **IRDAI** to pilot **Automatic Number Plate Recognition (ANPR)**-based insurance verification at fuel stations to deny fuel sales to uninsured vehicles."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "I4C under MHA (New Delhi) | IRDAI under IRDA Act 1999 (HQ Hyderabad) | Motor Vehicles Act 1988 mandates third-party motor insurance."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "MuleHunter.AI (RBI AI tool) vs I4C (MHA national cyber crime coordination portal)."
+    },
+    {
+      "type": "quote",
+      "quote": "Interview Focus Question: \"How do SOPs and tools like MuleHunter.AI assist banks in countering cyber fraud?\"\n💡 **Model Answer: Automated pattern matching flags suspicious account clusters instantly, freezing fraudulent transactions before funds leave.**",
+      "author": "Banking & Regulatory Board Panel"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:09:32.007Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-17",
+      "sourceTitle": "SC Directs RBI on Mule Accounts SOP & IRDAI on ANPR Motor Insurance Verification",
+      "sourceChecksum": "6eb031009eace7bacc2e00caa18b211a5e233c5ee4b45e92578156428de6ab9e",
+      "migrationTimestamp": "2026-08-15T12:09:32.007Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

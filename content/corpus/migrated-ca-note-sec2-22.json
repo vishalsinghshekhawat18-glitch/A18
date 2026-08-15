@@ -1,0 +1,44 @@
+{
+  "id": "migrated-ca-note-sec2-22",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SEBI Mulls Depository Receipts (DRs) Against REIT and InvIT Units",
+  "summary": "SEBI Mulls Depository Receipts (DRs) Against REIT and InvIT Units",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Markets regulator SEBI proposed allowing REITs and InvITs to issue Depository Receipts (DRs) in foreign jurisdictions to attract foreign capital."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:09:32.008Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-22",
+      "sourceTitle": "SEBI Mulls Depository Receipts (DRs) Against REIT and InvIT Units",
+      "sourceChecksum": "94cd952eddd25a54fb926c510424acd0d2422fc81389984e486add253968aac2",
+      "migrationTimestamp": "2026-08-15T12:09:32.008Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

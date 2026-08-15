@@ -1,0 +1,44 @@
+{
+  "id": "migrated-ca-note-sec2-23",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SEBI Imposes ₹1.48 Crore Penalty & 1-Year Market Bar on ZEEL Promoters",
+  "summary": "SEBI Imposes ₹1.48 Crore Penalty & 1-Year Market Bar on ZEEL Promoters",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "SEBI imposed total ₹1.48 cr penalty on ZEEL, Punit Goenka, and Subhash Chandra; 1-year market bar on promoters."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:09:32.008Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-23",
+      "sourceTitle": "SEBI Imposes ₹1.48 Crore Penalty & 1-Year Market Bar on ZEEL Promoters",
+      "sourceChecksum": "ecbc9c7885b38a72c62fc8c925f1028507f3e515c6a985cf4081af52e9c0e287",
+      "migrationTimestamp": "2026-08-15T12:09:32.008Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}
