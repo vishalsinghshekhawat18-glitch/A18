@@ -1,0 +1,72 @@
+{
+  "id": "migrated-ca-note-sec6-72",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India Secures Historic Judo Gold Medals at 23rd Commonwealth Games 2026",
+  "summary": "Historic individual multi-sport wins mark structural shifts in India's international sports footprint.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Historic individual multi-sport wins mark structural shifts in India's international sports footprint."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Asmita Dey** won Gold in **Women's 48 kg Judo** (India's 1st CWG judo gold medallist).",
+        "**Harsh Singh** won Gold in **Men's 60 kg Judo**.",
+        "**Yamini Maurya** won Silver in **Women's 57 kg Judo**.",
+        "Athletics: **Neeraj Chopra** (Silver Javelin), **Yash Vir Singh** (Bronze Javelin), **Tejaswin Shankar** (Bronze Decathlon)."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Award Title",
+        "Recipient / Winner",
+        "Conferred By / Key Detail"
+      ],
+      "rows": [
+        [
+          "India Secures Historic Judo Gold Medals at 23rd Commonwealth Games 2026",
+          "Asmita Dey won Gold in Women's 48 kg Judo (India's 1st CWG judo gold medallist).",
+          "International Judo Federation HQ: Budapest, Hungary."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "International Judo Federation HQ: Budapest, Hungary."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Asmita Dey (48kg Gold) vs Yamini Maurya (57kg Silver) vs Harsh Singh (60kg Gold)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:34.066Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec6-72",
+      "sourceTitle": "India Secures Historic Judo Gold Medals at 23rd Commonwealth Games 2026",
+      "sourceChecksum": "572b4a5872c379396848864fe386188d71641ff2e8038102ada37d700191e82e",
+      "migrationTimestamp": "2026-08-15T12:10:34.066Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "migrated-ca-note-sec5-59",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "A S Rajeev Appointed Acting Central Vigilance Commissioner (CVC)",
+  "summary": "A S Rajeev Appointed Acting Central Vigilance Commissioner (CVC)",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "**A S Rajeev** appointed Acting Central Vigilance Commissioner.",
+        "Appointment Committee: PM (Chair) + Union Home Minister + Leader of Opposition in Lok Sabha.",
+        "Tenure Rules: Fixed **4 years or until age 65**."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Appointee / Official",
+        "New Position & Organization",
+        "Key Context & Details"
+      ],
+      "rows": [
+        [
+          "A S Rajeev",
+          "Acting Central Vigilance Commissioner (CVC)",
+          "A S Rajeev appointed Acting Central Vigilance Commissioner."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "CVC established 1964 (Santhanam Committee) | Statutory via CVC Act, 2003 | HQ: New Delhi."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Central Vigilance Commissioner (CVC) vs Chief Information Commissioner (CIC)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:34.066Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec5-59",
+      "sourceTitle": "A S Rajeev Appointed Acting Central Vigilance Commissioner (CVC)",
+      "sourceChecksum": "7a4c277372c4470dcf0ce41cfee7c708668e3c12534a39afd4f5aa32b195fb95",
+      "migrationTimestamp": "2026-08-15T12:10:34.066Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

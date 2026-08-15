@@ -1,0 +1,44 @@
+{
+  "id": "migrated-ca-note-sec1-52",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Nathan Thomas Becomes World's Youngest Male Professor at Age 18",
+  "summary": "Nathan Thomas Becomes World's Youngest Male Professor at Age 18",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Nathan Thomas (18 yrs 346 days) became world's youngest male professor in Florida, US, breaking a 300-year-old Guinness record."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:34.065Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-52",
+      "sourceTitle": "Nathan Thomas Becomes World's Youngest Male Professor at Age 18",
+      "sourceChecksum": "e132122edb20f8a1613137561865100982ca5dc41e17d2332674960a63d97148",
+      "migrationTimestamp": "2026-08-15T12:10:34.065Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

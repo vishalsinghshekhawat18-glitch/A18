@@ -1,0 +1,60 @@
+{
+  "id": "migrated-ca-note-sec1-64",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Vishwesh Negi Appointed Ambassador of India to Iran",
+  "summary": "Vishwesh Negi Appointed Ambassador of India to Iran",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Vishwesh Negi appointed Ambassador of India to the Islamic Republic of Iran."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Appointee / Official",
+        "New Position & Organization",
+        "Key Context & Details"
+      ],
+      "rows": [
+        [
+          "Vishwesh Negi",
+          "Ambassador of India to Iran",
+          "Vishwesh Negi appointed Ambassador of India to the Islamic Republic of Iran."
+        ]
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:34.066Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-64",
+      "sourceTitle": "Vishwesh Negi Appointed Ambassador of India to Iran",
+      "sourceChecksum": "aa76338df48d64ceb50f29b603b720284b88b578dd0e8f0e9be8151d48ad9f97",
+      "migrationTimestamp": "2026-08-15T12:10:34.066Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

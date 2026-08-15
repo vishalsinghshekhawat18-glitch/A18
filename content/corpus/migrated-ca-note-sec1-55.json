@@ -1,0 +1,44 @@
+{
+  "id": "migrated-ca-note-sec1-55",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India Crosses 5 Lakh Aadhaar-Verified Organ Donation Pledges; Ranks 3rd Globally",
+  "summary": "India Crosses 5 Lakh Aadhaar-Verified Organ Donation Pledges; Ranks 3rd Globally",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "India crossed 5 lakh Aadhaar-verified organ donation pledges; ranks **3rd globally** in organ transplants conducted annually (after US & China)."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:34.066Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-55",
+      "sourceTitle": "India Crosses 5 Lakh Aadhaar-Verified Organ Donation Pledges; Ranks 3rd Globally",
+      "sourceChecksum": "b89f027569d6953d558b6512560385e2f186ad98f97d2b0c9c961329aaabde06",
+      "migrationTimestamp": "2026-08-15T12:10:34.066Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

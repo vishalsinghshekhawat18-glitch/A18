@@ -1,0 +1,67 @@
+{
+  "id": "migrated-ca-note-sec1-58",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Varsha Ashok Aglawe Appointed 54th DG of Geological Survey of India — First Woman Head in 176 Years",
+  "summary": "Varsha Ashok Aglawe Appointed 54th DG of Geological Survey of India — First Woman Head in 176 Years",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Varsha Ashok Aglawe** appointed 54th Director General of GSI.",
+        "Milestone: **First-ever woman** to head GSI in its **176-year history**.",
+        "Parent Ministry: Ministry of Mines."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Appointee / Official",
+        "New Position & Organization",
+        "Key Context & Details"
+      ],
+      "rows": [
+        [
+          "Varsha Ashok Aglawe",
+          "54th DG of Geological Survey of India — First Woman Head in 176 Years",
+          "Varsha Ashok Aglawe appointed 54th Director General of GSI."
+        ]
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "Geological Survey of India established in **1851** by Thomas Oldham | HQ: **Kolkata, West Bengal**."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "GSI (HQ Kolkata, Est 1851) vs Survey of India (HQ Dehradun)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:34.066Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-58",
+      "sourceTitle": "Varsha Ashok Aglawe Appointed 54th DG of Geological Survey of India — First Woman Head in 176 Years",
+      "sourceChecksum": "55c4a24b20cff685fc71e0fd65aa883800fb35aa7c03eed5a5b9c154f9e7fee1",
+      "migrationTimestamp": "2026-08-15T12:10:34.066Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "migrated-ca-note-sec1-67",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Andhra Pradesh Partners with IIT Tirupati and UNSW Sydney for Solar CoE",
+  "summary": "Andhra Pradesh Partners with IIT Tirupati and UNSW Sydney for Solar CoE",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "AP Government partnered with IIT Tirupati and UNSW Sydney to establish a Centre of Excellence for Solar Manufacturing at IIT Tirupati."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:34.066Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-67",
+      "sourceTitle": "Andhra Pradesh Partners with IIT Tirupati and UNSW Sydney for Solar CoE",
+      "sourceChecksum": "7129a44a0d6024f89b87c1b6ee6c322c0b1ee49e97f12f3e4eb826eb5abc7374",
+      "migrationTimestamp": "2026-08-15T12:10:34.066Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

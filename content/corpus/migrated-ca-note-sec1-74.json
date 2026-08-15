@@ -1,0 +1,50 @@
+{
+  "id": "migrated-ca-note-sec1-74",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "15-Year-Old Tanvi Sharma Wins Maiden BWF World Tour Title",
+  "summary": "15-Year-Old Tanvi Sharma Wins Maiden BWF World Tour Title",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "15-year-old **Tanvi Sharma** won maiden BWF World Tour title defeating Vietnam's Nguyen Thuy Linh.",
+        "Milestone: **First Indian woman to win the title since Saina Nehwal in 2008**."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "BWF HQ: Kuala Lumpur, Malaysia."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:34.066Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-74",
+      "sourceTitle": "15-Year-Old Tanvi Sharma Wins Maiden BWF World Tour Title",
+      "sourceChecksum": "c894f4e6215d0a725e60431ae52626c168df046c1a4b63bf352e79684e1f0825",
+      "migrationTimestamp": "2026-08-15T12:10:34.066Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

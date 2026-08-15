@@ -1,0 +1,62 @@
+{
+  "id": "migrated-ca-note-sec1-60",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Ministry of Ayush Signs MoU with IndiaAI Mission",
+  "summary": "Ministry of Ayush Signs MoU with IndiaAI Mission",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Ministry of Ayush signed MoU with IndiaAI Mission to promote AI adoption across traditional medicine research and diagnosis."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Rooftop Solar System Capacity",
+        "Central Financial Assistance (CFA) Subsidy"
+      ],
+      "rows": [
+        [
+          "Up to 2 kW",
+          "₹30,000 per kW (Max ₹60,000)"
+        ],
+        [
+          "3 kW or Higher",
+          "₹78,000 fixed maximum subsidy"
+        ]
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:34.066Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-60",
+      "sourceTitle": "Ministry of Ayush Signs MoU with IndiaAI Mission",
+      "sourceChecksum": "24be09010440d477fad175ca3c32973d6d0420680bc4d05f66602516e6e6333a",
+      "migrationTimestamp": "2026-08-15T12:10:34.066Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

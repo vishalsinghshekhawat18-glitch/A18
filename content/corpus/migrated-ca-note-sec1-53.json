@@ -1,0 +1,44 @@
+{
+  "id": "migrated-ca-note-sec1-53",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "MoRTH Proposes Two-Wheeled Road Ambulances under Central Motor Vehicles Rules",
+  "summary": "MoRTH Proposes Two-Wheeled Road Ambulances under Central Motor Vehicles Rules",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "MoRTH published draft amendments to Central Motor Vehicles Rules 1989 introducing two-wheeled road ambulances."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:34.065Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-53",
+      "sourceTitle": "MoRTH Proposes Two-Wheeled Road Ambulances under Central Motor Vehicles Rules",
+      "sourceChecksum": "37d00fa4026340782dda47bb36ea71f4c4a99113dc2d41b4b147f14ec0c3cae2",
+      "migrationTimestamp": "2026-08-15T12:10:34.065Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

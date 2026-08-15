@@ -1,0 +1,44 @@
+{
+  "id": "migrated-ca-note-sec1-56",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India's GI Ecosystem Surpasses 800 Registered Products; UP Leads Nationally",
+  "summary": "India's GI Ecosystem Surpasses 800 Registered Products; UP Leads Nationally",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Ministry of Textiles announced India has over 800 registered GI products (**UP leads with 81 tags**, followed by TN with 76 and Maharashtra with 55)."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:34.066Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-56",
+      "sourceTitle": "India's GI Ecosystem Surpasses 800 Registered Products; UP Leads Nationally",
+      "sourceChecksum": "7c57d941f837e4d799f61b228e919585380587be66493d9f05664200842fd16a",
+      "migrationTimestamp": "2026-08-15T12:10:34.066Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

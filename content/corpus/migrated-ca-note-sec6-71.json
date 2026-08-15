@@ -1,0 +1,55 @@
+{
+  "id": "migrated-ca-note-sec6-71",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "ICAR Develops India's First Complete Pigeonpea Genome ('Asha' Variety)",
+  "summary": "Telomere-to-telomere reference genomes enable molecular breeding of climate-resilient pulse crops.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Telomere-to-telomere reference genomes enable molecular breeding of climate-resilient pulse crops."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "ICAR developed India's first fully annotated telomere-to-telomere (**T2T**) reference genome for **pigeonpea (matar/arhar)**.",
+        "Variety Name: Pigeonpea variety **'Asha'** approved as global reference genome.",
+        "Milestone: First crop in India to have a fully annotated T2T reference genome (pigeonpea is India's 2nd most important pulse crop)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Static Background & GK Context",
+      "summary": "ICAR established July 16, 1929 | HQ: New Delhi."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "Pigeonpea T2T reference genome ('Asha' variety) vs unannotated draft genomes."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:34.066Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec6-71",
+      "sourceTitle": "ICAR Develops India's First Complete Pigeonpea Genome ('Asha' Variety)",
+      "sourceChecksum": "c7c4eff7c932c7cea5547dfd7ad5684d5bac05868ed57f2c9c0a776a1f8a3ffb",
+      "migrationTimestamp": "2026-08-15T12:10:34.066Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "migrated-ca-note-sec1-62",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Air Marshal Tejpal Singh Appointed Deputy Chief of Air Staff",
+  "summary": "Air Marshal Tejpal Singh Appointed Deputy Chief of Air Staff",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "Air Marshal Tejpal Singh appointed Deputy Chief of the Air Staff (DCAS)."
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "Key Details & Regulatory Matrix",
+      "headers": [
+        "Appointee / Official",
+        "New Position & Organization",
+        "Key Context & Details"
+      ],
+      "rows": [
+        [
+          "Air Marshal Tejpal Singh",
+          "Deputy Chief of Air Staff",
+          "Air Marshal Tejpal Singh appointed Deputy Chief of the Air Staff (DCAS)."
+        ]
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:34.066Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-62",
+      "sourceTitle": "Air Marshal Tejpal Singh Appointed Deputy Chief of Air Staff",
+      "sourceChecksum": "282017016887436ffd224d79d7b77a059cf846fbc42a528a3971250431050351",
+      "migrationTimestamp": "2026-08-15T12:10:34.066Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}

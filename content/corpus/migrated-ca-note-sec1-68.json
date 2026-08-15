@@ -1,0 +1,44 @@
+{
+  "id": "migrated-ca-note-sec1-68",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Bharat Electronics Limited Partners with Esri India for GeoAI",
+  "summary": "Bharat Electronics Limited Partners with Esri India for GeoAI",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "BEL signed MoU with Esri India to collaborate on defence GIS mapping, location intelligence, and GeoAI."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:34.066Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-68",
+      "sourceTitle": "Bharat Electronics Limited Partners with Esri India for GeoAI",
+      "sourceChecksum": "07569757fa8fe2e30335123b13fa1cfc421404edfc8034be1b38bc0861c109d7",
+      "migrationTimestamp": "2026-08-15T12:10:34.066Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    }
+  }
+}
