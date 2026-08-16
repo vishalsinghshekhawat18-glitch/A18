@@ -237,196 +237,444 @@ body {
   margin: 0 auto;
 }
 
-.home-header,
-.hub-header {
+/* Personal Study Header */
+.home-personal-header {
   margin-bottom: 2rem;
   padding-bottom: 1.2rem;
   border-bottom: 2px solid var(--border-subtle);
 }
 
-.home-badge,
-.hub-badge-row {
+.home-meta-bar {
   display: flex;
   align-items: center;
-  gap: 0.6rem;
-  font-family: var(--font-ui);
-  font-size: 0.78rem;
-  font-weight: 700;
-  color: var(--text-accent);
+  gap: 0.8rem;
   margin-bottom: 0.6rem;
 }
 
-.home-title,
-.hub-title {
-  font-size: 2.2rem;
+.home-system-badge {
+  font-family: var(--font-ui);
+  font-size: 0.76rem;
+  font-weight: 700;
+  color: var(--text-accent);
+  background-color: var(--bg-accent-subtle);
+  padding: 0.2rem 0.65rem;
+  border-radius: 4px;
+  letter-spacing: 0.04em;
+}
+
+.home-date-chip {
+  font-family: var(--font-ui);
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+}
+
+.home-greeting-title {
+  font-family: var(--font-heading);
+  font-size: 2.3rem;
   font-weight: 700;
   color: var(--text-primary);
-  line-height: 1.2;
-  margin-bottom: 0.5rem;
+  line-height: 1.25;
+  margin-bottom: 0.4rem;
 }
 
-.home-subtitle,
-.hub-desc {
-  font-size: 1.05rem;
+.home-motto {
+  font-family: var(--font-heading);
+  font-size: 1.1rem;
   color: var(--text-secondary);
   font-style: italic;
+  letter-spacing: 0.01em;
 }
 
-/* Continue Studying Card */
-.continue-studying-card {
+/* Top Grid: Continue Studying + Today's Plan */
+.home-top-grid {
+  display: grid;
+  grid-template-columns: 1.5fr 1fr;
+  gap: 1.4rem;
+  margin-bottom: 1.8rem;
+}
+
+@media (max-width: 840px) {
+  .home-top-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.home-top-grid.single-panel {
+  grid-template-columns: 1fr;
+}
+
+/* Primary Feature Card: Continue Studying */
+.home-continue-card {
   background-color: var(--bg-card);
   border: 1px solid var(--border-subtle);
   border-left: 5px solid var(--text-accent);
   border-radius: 8px;
-  padding: 1.4rem 1.6rem;
-  margin-bottom: 2.2rem;
-  box-shadow: var(--shadow-sm);
-  cursor: pointer;
-  transition: transform 0.15s ease, border-color 0.15s ease;
-}
-
-.continue-studying-card:hover {
-  transform: translateY(-2px);
-  border-color: var(--border-strong);
-}
-
-.continue-label-row {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  font-family: var(--font-ui);
-  font-size: 0.75rem;
-  font-weight: 700;
-  margin-bottom: 0.6rem;
-}
-
-.continue-badge {
-  color: var(--text-accent);
-  letter-spacing: 0.04em;
-}
-
-.continue-domain {
-  background-color: var(--bg-accent-subtle);
-  color: var(--text-accent);
-  padding: 0.15rem 0.5rem;
-  border-radius: 3px;
-}
-
-.continue-title {
-  font-size: 1.4rem;
-  font-weight: 700;
-  color: var(--text-primary);
-  margin-bottom: 0.4rem;
-}
-
-.continue-summary {
-  font-size: 0.95rem;
-  color: var(--text-secondary);
-  line-height: 1.5;
-  margin-bottom: 1rem;
-}
-
-.continue-btn-row {
-  display: flex;
-  justify-content: flex-end;
-}
-
-.btn-continue {
-  background-color: var(--bg-reading-paper);
-  border: 1px solid var(--border-subtle);
-  border-radius: 4px;
-  padding: 0.4rem 0.9rem;
-  font-family: var(--font-ui);
-  font-size: 0.85rem;
-  font-weight: 700;
-  color: var(--text-accent);
-  cursor: pointer;
-}
-
-/* Subject Selection Grid */
-.subjects-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  gap: 1.4rem;
-}
-
-.subject-card {
-  background-color: var(--bg-card);
-  border: 1px solid var(--border-subtle);
-  border-radius: 8px;
-  padding: 1.4rem;
+  padding: 1.5rem 1.7rem;
   box-shadow: var(--shadow-sm);
   cursor: pointer;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  transition: transform 0.15s ease, border-color 0.15s ease;
+  transition: transform 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
 }
 
-.subject-card:hover {
+.home-continue-card:hover {
   transform: translateY(-2px);
-  border-color: var(--border-strong);
+  border-color: var(--text-accent);
+  box-shadow: var(--shadow-md);
 }
 
-.subject-card-top {
+.continue-card-badge-row {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-bottom: 0.8rem;
-}
-
-.subject-icon {
-  font-size: 1.6rem;
-}
-
-.subject-count-pill {
   font-family: var(--font-ui);
   font-size: 0.75rem;
   font-weight: 700;
-  background-color: var(--bg-sidebar);
-  border: 1px solid var(--border-subtle);
-  color: var(--text-secondary);
-  padding: 0.15rem 0.5rem;
-  border-radius: 12px;
+  margin-bottom: 0.7rem;
 }
 
-.subject-card-title {
-  font-size: 1.25rem;
+.continue-card-badge {
+  color: var(--text-accent);
+  letter-spacing: 0.04em;
+}
+
+.continue-card-domain {
+  background-color: var(--bg-accent-subtle);
+  color: var(--text-accent);
+  padding: 0.15rem 0.55rem;
+  border-radius: 3px;
+  font-size: 0.72rem;
+}
+
+.continue-card-title {
+  font-family: var(--font-heading);
+  font-size: 1.35rem;
   font-weight: 700;
   color: var(--text-primary);
-  margin-bottom: 0.4rem;
+  line-height: 1.35;
+  margin-bottom: 0.5rem;
 }
 
-.subject-card-desc {
-  font-size: 0.88rem;
+.continue-card-summary {
+  font-size: 0.92rem;
   color: var(--text-secondary);
-  line-height: 1.45;
+  line-height: 1.5;
   margin-bottom: 1.2rem;
-  flex: 1;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
-.subject-card-footer {
+.continue-card-footer {
   display: flex;
   align-items: center;
   justify-content: space-between;
   border-top: 1px solid var(--border-subtle);
   padding-top: 0.8rem;
-  font-family: var(--font-ui);
+  margin-top: auto;
 }
 
-.subject-surface-badge {
-  font-size: 0.74rem;
-  font-weight: 700;
-  color: var(--text-accent);
+.continue-card-hint {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+.btn-continue-primary {
   background-color: var(--bg-accent-subtle);
-  padding: 0.15rem 0.5rem;
-  border-radius: 3px;
+  border: 1px solid var(--border-subtle);
+  border-radius: 4px;
+  padding: 0.45rem 1rem;
+  font-family: var(--font-ui);
+  font-size: 0.84rem;
+  font-weight: 700;
+  color: var(--text-accent);
+  cursor: pointer;
+  transition: background-color 0.15s ease;
 }
 
-.subject-arrow {
-  font-size: 1rem;
+.btn-continue-primary:hover {
+  background-color: var(--bg-card);
+}
+
+/* Today's Plan Card */
+.home-plan-card {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-left: 4px solid var(--border-strong);
+  border-radius: 8px;
+  padding: 1.5rem 1.7rem;
+  box-shadow: var(--shadow-sm);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.plan-card-badge-row {
+  margin-bottom: 0.7rem;
+}
+
+.plan-card-badge {
+  font-family: var(--font-ui);
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--text-secondary);
+  letter-spacing: 0.04em;
+}
+
+.plan-quote {
+  font-family: var(--font-heading);
+  font-size: 1.15rem;
+  font-style: italic;
+  color: var(--text-primary);
+  line-height: 1.4;
+  margin-bottom: 0.6rem;
+}
+
+.plan-desc {
+  font-size: 0.88rem;
+  color: var(--text-secondary);
+  line-height: 1.45;
+  margin-bottom: 1.2rem;
+}
+
+.plan-card-footer {
+  display: flex;
+  justify-content: flex-end;
+  border-top: 1px solid var(--border-subtle);
+  padding-top: 0.8rem;
+  margin-top: auto;
+}
+
+.btn-plan-start {
+  background-color: var(--bg-reading-paper);
+  border: 1px solid var(--border-subtle);
+  border-radius: 4px;
+  padding: 0.45rem 1rem;
+  font-family: var(--font-ui);
+  font-size: 0.84rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  cursor: pointer;
+  transition: background-color 0.15s ease;
+}
+
+.btn-plan-start:hover {
+  background-color: var(--bg-accent-subtle);
+  color: var(--text-accent);
+}
+
+/* Section D: Thought for Today Strip */
+.home-thought-strip {
+  background-color: var(--bg-accent-subtle);
+  border: 1px solid var(--border-subtle);
+  border-left: 4px solid var(--text-accent);
+  border-radius: 6px;
+  padding: 1.1rem 1.6rem;
+  margin-bottom: 1.8rem;
+}
+
+.thought-badge-row {
+  margin-bottom: 0.35rem;
+}
+
+.thought-badge {
+  font-family: var(--font-ui);
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: var(--text-accent);
+  letter-spacing: 0.05em;
+}
+
+.thought-quote {
+  font-family: var(--font-heading);
+  font-size: 1.12rem;
+  font-style: italic;
+  color: var(--text-primary);
+  line-height: 1.45;
+  margin: 0;
+}
+
+/* Section E: Corpus Summary Scale Strip */
+.home-summary-strip {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: 8px;
+  padding: 1rem 1.4rem;
+  margin-bottom: 2.2rem;
+  box-shadow: var(--shadow-sm);
+  flex-wrap: wrap;
+  gap: 0.8rem;
+}
+
+.summary-stat-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 0.2rem 0.5rem;
+}
+
+.summary-stat-val {
+  font-family: var(--font-heading);
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--text-accent);
+  line-height: 1.2;
+}
+
+.summary-stat-lbl {
+  font-family: var(--font-ui);
+  font-size: 0.74rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  margin-top: 0.15rem;
+}
+
+.summary-stat-divider {
+  width: 1px;
+  height: 28px;
+  background-color: var(--border-subtle);
+}
+
+@media (max-width: 640px) {
+  .summary-stat-divider {
+    display: none;
+  }
+  .home-summary-strip {
+    justify-content: grid;
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* Section F: Your Study World */
+.home-study-world {
+  margin-bottom: 2rem;
+}
+
+.study-world-header {
+  margin-bottom: 1.4rem;
+}
+
+.study-world-title {
+  font-family: var(--font-heading);
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 0.25rem;
+  letter-spacing: 0.02em;
+}
+
+.study-world-sub {
+  font-size: 0.92rem;
+  color: var(--text-secondary);
+}
+
+.domain-group-section {
+  margin-bottom: 1.8rem;
+}
+
+.domain-group-header {
+  margin-bottom: 0.8rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px dashed var(--border-subtle);
+}
+
+.domain-group-badge {
+  font-family: var(--font-ui);
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--text-accent);
+  letter-spacing: 0.05em;
+}
+
+.domain-cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.1rem;
+}
+
+.home-domain-card {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: 6px;
+  padding: 1.1rem 1.3rem;
+  box-shadow: var(--shadow-sm);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: transform 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.home-domain-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--text-accent);
+  box-shadow: var(--shadow-md);
+}
+
+.domain-card-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.5rem;
+}
+
+.domain-card-icon {
+  font-size: 1.25rem;
+}
+
+.domain-card-count {
+  font-family: var(--font-ui);
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: var(--text-secondary);
+  background-color: var(--bg-sidebar);
+  border: 1px solid var(--border-subtle);
+  padding: 0.15rem 0.5rem;
+  border-radius: 12px;
+}
+
+.domain-card-title {
+  font-family: var(--font-sans);
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 0.35rem;
+}
+
+.domain-card-desc {
+  font-size: 0.84rem;
+  color: var(--text-secondary);
+  line-height: 1.4;
+  margin-bottom: 0.8rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.domain-card-footer {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: auto;
+}
+
+.domain-card-arrow {
+  font-size: 0.95rem;
   color: var(--text-accent);
   font-weight: 700;
+  transition: transform 0.15s ease;
+}
+
+.home-domain-card:hover .domain-card-arrow {
+  transform: translateX(3px);
 }
 
 /* Subject Hub Items List */

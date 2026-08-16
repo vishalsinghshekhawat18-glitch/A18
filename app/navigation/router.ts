@@ -8,7 +8,7 @@ export interface RouteState {
 
 export function parseHash(hash: string): RouteState {
   const cleanHash = hash.replace(/^#\/?/, '').trim();
-  if (!cleanHash || cleanHash === '/') {
+  if (!cleanHash || cleanHash === '/' || cleanHash === 'home') {
     return { type: 'home' };
   }
 
