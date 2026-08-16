@@ -1,0 +1,45 @@
+{
+  "id": "migrated-ca-2026-03-sec10-2",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Jal Jeevan Mission (JJM 2.0) Extended to Dec 2028 with ₹8.69 Lakh Crore Outlay",
+  "summary": "Cabinet restructures JJM with ₹8.69 lakh crore total outlay and introduces 'Sujalam Bharat' digital village water mapping.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Union Cabinet extended **Jal Jeevan Mission (JJM 2.0) to December 2028**, raising total outlay to **Rs 8.69 lakh crore** (Central share Rs 3.59 lakh Cr)."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Coverage Progress**: 15.80 crore households (81.61% of 19.36 crore rural families) now have tap water.",
+        "**Sujalam Bharat Framework**: Assigns unique Sujal Gaon/Service Area IDs mapping water sources to taps."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec10",
+      "Current Affairs 2026",
+      "March 2026"
+    ],
+    "date": "2026-03-15",
+    "category": "SEC10",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T11:13:16.778Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "march2026_lighttouch.pdf",
+      "sourceId": "migrated-ca-2026-03-sec10-2",
+      "sourceTitle": "Jal Jeevan Mission (JJM 2.0) Extended to Dec 2028 with ₹8.69 Lakh Crore Outlay",
+      "sourceChecksum": "4e15140ba52b6bad8202833602eb0d321979640512a36b4a9e482b2d70cebbae",
+      "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+      "normalizationRuleVersion": "1.0.0-mar2026"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "migrated-ca-2026-03-sec1-2",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Income Tax Act, 2025 to Replace 1961 Act from April 1, 2026 — 'PRARAMBH 2026' Launched",
+  "summary": "FM Sitharaman launches PRARAMBH 2026 campaign and Income Tax Website 2.0 as India replaces the 65-year-old Income Tax Act 1961.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "FM Nirmala Sitharaman launched **'PRARAMBH 2026'** (Policy Reform and Responsible Action for Mission Viksit Bharat) and **Income Tax Website 2.0**, preparing taxpayers for the new Income Tax Act, 2025 taking effect **April 1, 2026**."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**M.A.N.A.V. Framework**: Moral & Ethical Systems, Accountable Governance, National Sovereignty, Accessible & Inclusive AI, Valid & Legitimate Systems.",
+        "**Guiding Spirit**: 'Nagrik Devo Bhava'.",
+        "**FY27 Tax Slabs**: ₹0-4L: 0% | ₹4-8L: 5% | ₹8-12L: 10% | above ₹24L: 30%."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026",
+      "March 2026"
+    ],
+    "date": "2026-03-15",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T11:13:16.778Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "march2026_lighttouch.pdf",
+      "sourceId": "migrated-ca-2026-03-sec1-2",
+      "sourceTitle": "Income Tax Act, 2025 to Replace 1961 Act from April 1, 2026 — 'PRARAMBH 2026' Launched",
+      "sourceChecksum": "c880ca28d5aa2c38c6417134217762e6012e019e9603de8f773a233f826f5420",
+      "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+      "normalizationRuleVersion": "1.0.0-mar2026"
+    }
+  }
+}

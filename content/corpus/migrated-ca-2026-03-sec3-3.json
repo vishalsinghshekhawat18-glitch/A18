@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-03-sec3-3",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SBI Launches $500 Million Syndicated Social Loan for Gender Equality",
+  "summary": "SBI issues $500 million social term loan with MUFG Bank as sole social loan coordinator—the largest gender-themed loan globally.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "SBI launched a **$500 million syndicated social term loan** dedicated to UN SDG 5 (Gender Equality), arranged by MUFG Bank Japan."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026",
+      "March 2026"
+    ],
+    "date": "2026-03-15",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T11:13:16.778Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "march2026_lighttouch.pdf",
+      "sourceId": "migrated-ca-2026-03-sec3-3",
+      "sourceTitle": "SBI Launches $500 Million Syndicated Social Loan for Gender Equality",
+      "sourceChecksum": "ed2058d82de63f78e1a7c0e1db89da006eb5c736c49146ec58836f0ce1c2841b",
+      "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+      "normalizationRuleVersion": "1.0.0-mar2026"
+    }
+  }
+}

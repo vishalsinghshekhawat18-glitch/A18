@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-03-sec2-4",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SEBI Graded 6-Tier Minimum Public Shareholding (MPS) Framework for Mega-IPOs",
+  "summary": "Government eases MPS rules for large IPOs, creating 6 post-issue capital categories from ≤₹1,600 Cr to >₹5 lakh Cr.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "SEBI notified a **6-tier MPS framework** for mega-IPOs. For post-issue capital >₹5 lakh crore, minimum public offer is ₹15,000 Cr + 1% shareholding (with universal 2.5% floor)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026",
+      "March 2026"
+    ],
+    "date": "2026-03-15",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T11:13:16.778Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "march2026_lighttouch.pdf",
+      "sourceId": "migrated-ca-2026-03-sec2-4",
+      "sourceTitle": "SEBI Graded 6-Tier Minimum Public Shareholding (MPS) Framework for Mega-IPOs",
+      "sourceChecksum": "c2d0b36d4541a43e631a4d14ed91fbeb67d6ce438e827120e4d3cc36633841eb",
+      "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+      "normalizationRuleVersion": "1.0.0-mar2026"
+    }
+  }
+}

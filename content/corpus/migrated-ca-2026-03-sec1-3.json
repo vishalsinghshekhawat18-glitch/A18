@@ -1,0 +1,45 @@
+{
+  "id": "migrated-ca-2026-03-sec1-3",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "EPFO Retains PF Interest Rate at 8.25% for FY26 (3rd Consecutive Year)",
+  "summary": "EPFO Central Board of Trustees decides to maintain EPF interest rate at 8.25% for 7.8 crore members for FY2025-26.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "EPFO's 239th CBT meeting decided to **retain the EPF interest rate at 8.25% for FY26** for ~7.8 crore contributing members (3rd consecutive year unchanged)."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Deficit Cushion**: FY26 expected deficit of ₹944.06 Cr offset via ₹5,480.34 Cr surplus from previous year.",
+        "**EPFO Leadership**: CEO Ramesh Krishnamurthi (Est. 1952, HQ: New Delhi)."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026",
+      "March 2026"
+    ],
+    "date": "2026-03-15",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T11:13:16.778Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "march2026_lighttouch.pdf",
+      "sourceId": "migrated-ca-2026-03-sec1-3",
+      "sourceTitle": "EPFO Retains PF Interest Rate at 8.25% for FY26 (3rd Consecutive Year)",
+      "sourceChecksum": "5a09000effeb75f1d18d67602cfc6fc3bcc6f5040fc0722f1d0fb92a2037ca10",
+      "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+      "normalizationRuleVersion": "1.0.0-mar2026"
+    }
+  }
+}

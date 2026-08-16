@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-03-sec2-2",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI & Bank of Japan Renew $75 Billion Bilateral Swap Arrangement (BSA)",
+  "summary": "RBI and Bank of Japan sign 3rd Amendment & Restatement of $75 billion Bilateral Swap Arrangement effective 28 Feb 2026.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "RBI and Bank of Japan renewed the **$75 billion Bilateral Swap Arrangement (BSA)** effective February 28, 2026."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026",
+      "March 2026"
+    ],
+    "date": "2026-03-15",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T11:13:16.778Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "march2026_lighttouch.pdf",
+      "sourceId": "migrated-ca-2026-03-sec2-2",
+      "sourceTitle": "RBI & Bank of Japan Renew $75 Billion Bilateral Swap Arrangement (BSA)",
+      "sourceChecksum": "01b910daf6ad14bdcb59a2bbc36c784639db9c103c35b68083071324496c348f",
+      "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+      "normalizationRuleVersion": "1.0.0-mar2026"
+    }
+  }
+}

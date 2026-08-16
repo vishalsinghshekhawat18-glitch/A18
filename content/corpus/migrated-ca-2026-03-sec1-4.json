@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-03-sec1-4",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India's Current Account Deficit (CAD) Touches 1.3% of GDP in Q3 FY26",
+  "summary": "RBI data shows Q3 FY26 CAD rose to $13.2 billion (1.3% of GDP), while Apr-Dec cumulative CAD moderated to $30.1 billion (1% of GDP).",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "RBI reported Q3 FY2025-26 **CAD at $13.2 billion (1.3% of GDP)**, driven by a merchandise trade deficit of $93.6 billion, offset by net services receipts of $57.5 billion."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026",
+      "March 2026"
+    ],
+    "date": "2026-03-15",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T11:13:16.778Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "march2026_lighttouch.pdf",
+      "sourceId": "migrated-ca-2026-03-sec1-4",
+      "sourceTitle": "India's Current Account Deficit (CAD) Touches 1.3% of GDP in Q3 FY26",
+      "sourceChecksum": "6f95e6e85eae76058d7cba9456fc6696c026100e662b4868187725e773f13526",
+      "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+      "normalizationRuleVersion": "1.0.0-mar2026"
+    }
+  }
+}

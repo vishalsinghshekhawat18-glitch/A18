@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-03-sec10-5",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "PM-KISAN 22nd Instalment Released — ₹18,640 Crore to 9.32 Crore Farmers",
+  "summary": "PM Modi releases 22nd PM-KISAN instalment from Guwahati, taking total cumulative transfers past ₹4.27 lakh crore.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "PM Modi released the **22nd PM-KISAN instalment of ₹18,640+ crore** to 9.32+ crore farmer families, pushing cumulative transfers to **₹4.27 lakh crore**."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec10",
+      "Current Affairs 2026",
+      "March 2026"
+    ],
+    "date": "2026-03-15",
+    "category": "SEC10",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T11:13:16.778Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "march2026_lighttouch.pdf",
+      "sourceId": "migrated-ca-2026-03-sec10-5",
+      "sourceTitle": "PM-KISAN 22nd Instalment Released — ₹18,640 Crore to 9.32 Crore Farmers",
+      "sourceChecksum": "5cb1216f4971262e755efd0731d8707a0f572a015392037189f6a39c0c986a4a",
+      "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+      "normalizationRuleVersion": "1.0.0-mar2026"
+    }
+  }
+}

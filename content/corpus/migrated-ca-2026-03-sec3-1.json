@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-03-sec3-1",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "MUFG Bank Acquires 20% Stake in Shriram Finance for ₹39,618 Crore ($4.4B)",
+  "summary": "CCI approves MUFG Bank's acquisition of 20% stake in Shriram Finance for ₹39,618 crore—India's largest cross-border financial services deal.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "CCI approved Japan's MUFG Bank acquiring a **20% stake in Shriram Finance Ltd for ₹39,618 crore ($4.4 billion)**, marking the largest-ever cross-border investment in India's financial sector."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026",
+      "March 2026"
+    ],
+    "date": "2026-03-15",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T11:13:16.778Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "march2026_lighttouch.pdf",
+      "sourceId": "migrated-ca-2026-03-sec3-1",
+      "sourceTitle": "MUFG Bank Acquires 20% Stake in Shriram Finance for ₹39,618 Crore ($4.4B)",
+      "sourceChecksum": "517c0b8278b9f830e9edab3371ffdfa0572bedda15bed584557acc2aae7ff40c",
+      "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+      "normalizationRuleVersion": "1.0.0-mar2026"
+    }
+  }
+}

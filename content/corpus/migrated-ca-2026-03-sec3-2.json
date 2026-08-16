@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-03-sec3-2",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Jio Finance Launches 'Finsider' Agentic AI Financial Super-App",
+  "summary": "Jio Financial Services subsidiary launches Finsider super-app powered by Agentic AI and Neural Networks.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Jio Finance Platform and Service Ltd (JFPSL) launched **'Finsider'**, an Agentic AI-powered financial super-app offering loans, credit cards, insurance, UPI, and JioBlackRock mutual funds."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026",
+      "March 2026"
+    ],
+    "date": "2026-03-15",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T11:13:16.778Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "march2026_lighttouch.pdf",
+      "sourceId": "migrated-ca-2026-03-sec3-2",
+      "sourceTitle": "Jio Finance Launches 'Finsider' Agentic AI Financial Super-App",
+      "sourceChecksum": "fd9ef329e28f8f8c0bd689c80813da94f3150f50ca6cab8ee113608c5d76d744",
+      "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+      "normalizationRuleVersion": "1.0.0-mar2026"
+    }
+  }
+}
