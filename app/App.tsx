@@ -21,6 +21,7 @@ export const App: React.FC = () => {
   const [theme, setTheme] = useState<ReadingTheme>('sepia');
   const [isSearchOpen, setIsSearchOpen] = useState<boolean>(false);
   const [isOpenMobile, setIsOpenMobile] = useState<boolean>(false);
+  const [isSidebarClosed, setIsSidebarClosed] = useState<boolean>(false);
   const [lastOpenedItemId, setLastOpenedItemId] = useState<string | null>(() => {
     return localStorage.getItem('bcc_last_opened_item');
   });
@@ -127,7 +128,11 @@ export const App: React.FC = () => {
         onSelectSubject={handleSelectSubject}
         onSelectItem={handleSelectItem}
         isOpenMobile={isOpenMobile}
-        onCloseMobile={() => setIsOpenMobile(false)}
+        isSidebarClosed={isSidebarClosed}
+        onCloseMobile={() => {
+          setIsOpenMobile(false);
+          setIsSidebarClosed(true);
+        }}
       />
 
       <div className="main-content">
@@ -137,7 +142,15 @@ export const App: React.FC = () => {
           onFontSizeChange={setFontSize}
           onThemeChange={setTheme}
           onOpenSearch={() => setIsSearchOpen(true)}
-          onToggleMobileMenu={() => setIsOpenMobile(!isOpenMobile)}
+          onToggleMobileMenu={() => {
+            if (isOpenMobile || !isSidebarClosed) {
+              setIsOpenMobile(false);
+              setIsSidebarClosed(true);
+            } else {
+              setIsOpenMobile(true);
+              setIsSidebarClosed(false);
+            }
+          }}
         />
 
         {/* Level 1: Command Center Home Surface */}

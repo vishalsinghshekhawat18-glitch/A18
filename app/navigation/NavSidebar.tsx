@@ -1,4 +1,4 @@
-import React, { useMemo } from 'react';
+import React, { useMemo, useState } from 'react';
 import { KnowledgeItem } from '../../schema/knowledge-item';
 import { isItemInSubject, groupCAItemsByMonth } from './subjectMapper';
 
@@ -11,6 +11,7 @@ interface Props {
   onSelectSubject: (subjectId: string) => void;
   onSelectItem: (id: string) => void;
   isOpenMobile?: boolean;
+  isSidebarClosed?: boolean;
   onCloseMobile?: () => void;
 }
 
@@ -37,8 +38,12 @@ export const NavSidebar: React.FC<Props> = ({
   onSelectSubject,
   onSelectItem,
   isOpenMobile = false,
+  isSidebarClosed = false,
   onCloseMobile
 }) => {
+  // State for collapsible month accordions in Current Affairs sidebar
+  const [expandedMonths, setExpandedMonths] = useState<Record<string, boolean>>({});
+
   const handleSelectSub = (id: string) => {
     onSelectSubject(id);
     if (onCloseMobile) onCloseMobile();
@@ -49,14 +54,31 @@ export const NavSidebar: React.FC<Props> = ({
     if (onCloseMobile) onCloseMobile();
   };
 
-  const handleScrollToMonth = (monthKey: string) => {
-    const pillBtn = document.querySelector(`.ca-month-pill-btn[data-month="${monthKey}"]`) as HTMLButtonElement;
-    if (pillBtn) {
-      pillBtn.click();
-    } else {
-      const el = document.getElementById(`month-section-${monthKey}`);
-      if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  const handleToggleMonth = (monthKey: string, defaultOpen: boolean) => {
+    setExpandedMonths((prev: Record<string, boolean>) => {
+      const current = prev[monthKey] !== undefined ? prev[monthKey] : defaultOpen;
+      return { ...prev, [monthKey]: !current };
+    });
+  };
+
+  const handleScrollToSection = (monthKey: string, secId: string) => {
+    // 1. Activate month filter pill if present
+    const monthPillBtn = document.querySelector(`.ca-month-pill-btn[data-month="${monthKey}"]`) as HTMLButtonElement;
+    if (monthPillBtn && !monthPillBtn.classList.contains('active')) {
+      monthPillBtn.click();
     }
+
+    // 2. Smooth-scroll to target section header
+    setTimeout(() => {
+      const secEl = document.getElementById(`sec-${monthKey}-${secId}`);
+      if (secEl) {
+        secEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      } else {
+        const monthEl = document.getElementById(`month-section-${monthKey}`);
+        if (monthEl) monthEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    }, 50);
+
     if (onCloseMobile) onCloseMobile();
   };
 
@@ -81,14 +103,21 @@ export const NavSidebar: React.FC<Props> = ({
         <div className="sidebar-overlay" onClick={onCloseMobile} />
       )}
 
-      <aside className={`sidebar ${isOpenMobile ? 'mobile-open' : ''}`}>
+      <aside className={`sidebar ${isOpenMobile ? 'mobile-open' : ''} ${isSidebarClosed ? 'is-closed-desktop' : ''}`}>
         <div className="sidebar-header">
           <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
             <div className="sidebar-title" onClick={onGoHome} style={{ cursor: 'pointer' }}>
               Banking Command Center
             </div>
             {onCloseMobile && (
-              <button className="btn-close-mobile" onClick={onCloseMobile}>✕</button>
+              <button
+                className="btn-close-sidebar"
+                onClick={onCloseMobile}
+                title="Close Sidebar"
+                aria-label="Close Sidebar"
+              >
+                ✕
+              </button>
             )}
           </div>
           <div className="sidebar-subtitle">Exam Study System</div>
@@ -137,38 +166,46 @@ export const NavSidebar: React.FC<Props> = ({
               {/* Special Month & Section Hierarchy for Current Affairs */}
               {targetSubject === 'current-affairs' ? (
                 <div className="ca-sidebar-month-groups">
-                  {caMonthGroups.map(group => (
-                    <div key={group.monthKey} className="ca-sidebar-month-block">
-                      <button
-                        className="ca-sidebar-month-header-btn"
-                        onClick={() => handleScrollToMonth(group.monthKey)}
-                      >
-                        <span>📅 {group.monthLabel}</span>
-                        <span className="ca-sidebar-month-badge">{group.items.length}</span>
-                      </button>
+                  {caMonthGroups.map((group, idx) => {
+                    const isDefaultOpen = idx === 0;
+                    const isOpen = expandedMonths[group.monthKey] !== undefined
+                      ? expandedMonths[group.monthKey]
+                      : isDefaultOpen;
 
-                      <div className="ca-sidebar-sections-list">
-                        {group.sections.map(secGroup => (
-                          <div key={secGroup.secId} className="ca-sidebar-sec-block" style={{ marginBottom: '0.4rem' }}>
-                            <div className="ca-sidebar-sec-label" style={{ fontSize: '0.76rem', fontWeight: 700, color: 'var(--text-accent)', margin: '0.3rem 0 0.15rem 0.4rem', fontFamily: 'var(--font-sans)' }}>
-                              {secGroup.emoji} {secGroup.title} ({secGroup.items.length})
-                            </div>
-                            <div className="ca-sidebar-notes-list" style={{ paddingLeft: '0.4rem' }}>
-                              {secGroup.items.map(item => (
-                                <button
-                                  key={item.id}
-                                  className={`nav-item ca-note-item ${activeItemId === item.id ? 'active' : ''}`}
-                                  onClick={() => handleSelectItem(item.id)}
-                                >
-                                  {item.title}
-                                </button>
-                              ))}
-                            </div>
+                    return (
+                      <div key={group.monthKey} className="ca-sidebar-month-block">
+                        <button
+                          className={`ca-sidebar-month-header-btn ${isOpen ? 'open' : ''}`}
+                          onClick={() => handleToggleMonth(group.monthKey, isDefaultOpen)}
+                        >
+                          <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                            <span className="ca-month-arrow">{isOpen ? '▼' : '►'}</span>
+                            <span>📅 {group.monthLabel}</span>
                           </div>
-                        ))}
+                          <span className="ca-sidebar-month-badge">{group.items.length}</span>
+                        </button>
+
+                        {isOpen && (
+                          <div className="ca-sidebar-sections-list">
+                            {group.sections.map(secGroup => (
+                              <button
+                                key={secGroup.secId}
+                                className="ca-sidebar-sec-btn"
+                                onClick={() => handleScrollToSection(group.monthKey, secGroup.secId)}
+                              >
+                                <span className="ca-sidebar-sec-title">
+                                  {secGroup.emoji} {secGroup.title}
+                                </span>
+                                <span className="ca-sidebar-sec-count">
+                                  ({secGroup.items.length})
+                                </span>
+                              </button>
+                            ))}
+                          </div>
+                        )}
                       </div>
-                    </div>
-                  ))}
+                    );
+                  })}
                 </div>
               ) : (
                 /* Standard Subject Index for Non-CA Subjects */
