@@ -1,0 +1,44 @@
+{
+  "id": "migrated-ca-2026-04-sec10-3",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Parliament Passes 'Andhra Pradesh Reorganisation (Amendment) Bill, 2026' — Amaravati Sole Capital",
+  "summary": "Parliament amends Section 5 of 2014 Act to give statutory recognition to Amaravati as the sole permanent capital of Andhra Pradesh.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Parliament enacted the **AP Reorganisation (Amendment) Bill, 2026**, incorporating Amaravati as the sole statutory capital of Andhra Pradesh with retrospective effect from June 2, 2024."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Impact**: Scuttles previous 3-capital model (Visakhapatnam executive, Kurnool judicial, Amaravati legislative). First time Parliament passed a dedicated law declaring a permanent state capital."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec10",
+      "Current Affairs 2026",
+      "April 2026"
+    ],
+    "date": "2026-04-15",
+    "category": "SEC10",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T11:56:36.842Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-04-sec10-3",
+      "sourceTitle": "Parliament Passes 'Andhra Pradesh Reorganisation (Amendment) Bill, 2026' — Amaravati Sole Capital",
+      "sourceChecksum": "10d4e8c17673346bf8b019a0dc1b548f7483ed56126b4bf78d6f903e505ac84d",
+      "migrationTimestamp": "2026-08-16T11:56:36.842Z",
+      "normalizationRuleVersion": "1.0.0-apr2026"
+    }
+  }
+}

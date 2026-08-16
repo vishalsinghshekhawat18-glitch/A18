@@ -1,0 +1,46 @@
+{
+  "id": "migrated-ca-2026-04-sec2-2",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "CBDT Notifies 'Income-tax Rules, 2026' & Launches 'Kar Saathi' AI Chatbot",
+  "summary": "CBDT slims tax rules from 511 to 333, replaces Previous/Assessment Year with 'Tax Year', and launches Kar Saathi AI assistant under PRARAMBH 2026.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "CBDT notified the **'Income-tax Rules, 2026'** w.e.f. April 1, 2026, simplifying compliance under the new Income Tax Act, 2025."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Key Simplifications**: Replaces 'Previous Year' & 'Assessment Year' with a single **'Tax Year'**; cuts rules from 511 to 333 and forms from 399 to 190.",
+        "**AI Chatbot**: Launched 24x7 **'Kar Saathi'** AI assistant for tax compliance guidance.",
+        "**Taxpayer Reliefs**: Children's education allowance hiked to ₹3,000/month/child (max 2); HRA 50% deduction expanded to Hyderabad, Pune, Ahmedabad, Bengaluru."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026",
+      "April 2026"
+    ],
+    "date": "2026-04-15",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T11:56:36.842Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-04-sec2-2",
+      "sourceTitle": "CBDT Notifies 'Income-tax Rules, 2026' & Launches 'Kar Saathi' AI Chatbot",
+      "sourceChecksum": "b7ac374e847cea990324b20cd4664c99589ac21c04c968fcda7962064947f561",
+      "migrationTimestamp": "2026-08-16T11:56:36.842Z",
+      "normalizationRuleVersion": "1.0.0-apr2026"
+    }
+  }
+}

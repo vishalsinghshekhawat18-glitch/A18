@@ -1,0 +1,45 @@
+{
+  "id": "migrated-ca-2026-04-sec10-5",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "MoEFCC Notifies 'Solid Waste Management (SWM) Rules, 2026' with 4-Bin Source Segregation",
+  "summary": "SWM Rules 2026 mandates 4-stream color-coded waste segregation (Green, Blue, Red, Black) under Environment Protection Act 1986.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Ministry of Environment, Forest and Climate Change notified **Solid Waste Management Rules, 2026** (effective April 1, 2026, replacing 2016 rules), mandating 4-stream source segregation."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Color-Coded Bins**: Green Bin (Wet), Blue Bin (Dry), Red Bin (Sanitary), Black Bin (Special Care/Hazardous).",
+        "**Bulk Waste Generators**: Defined as entities generating >100 kg waste/day or floor area >20,000 sqm."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec10",
+      "Current Affairs 2026",
+      "April 2026"
+    ],
+    "date": "2026-04-15",
+    "category": "SEC10",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T11:56:36.842Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-04-sec10-5",
+      "sourceTitle": "MoEFCC Notifies 'Solid Waste Management (SWM) Rules, 2026' with 4-Bin Source Segregation",
+      "sourceChecksum": "f0c078cf8c7c36ffdf6bad9a4f911adee197ab00c539254bbae5e0ba77529205",
+      "migrationTimestamp": "2026-08-16T11:56:36.842Z",
+      "normalizationRuleVersion": "1.0.0-apr2026"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "migrated-ca-2026-04-sec10-2",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Parliament Passes 'Jan Vishwas (Amendment) Bill, 2026' Decriminalising 717 Provisions",
+  "summary": "Jan Vishwas Bill 2026 amends 784 provisions across 79 Central Acts to boost Ease of Doing Business by replacing criminal penalties with civil fines.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Parliament passed the **Jan Vishwas (Amendment of Provisions) Bill, 2026**, decriminalising 717 minor civic/business provisions across 79 Central Acts (23 Ministries)."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Key Acts Amended**: RBI Act 1934, Food Safety & Standards Act 2006, Motor Vehicles Act 1988.",
+        "**Approach**: Replaces criminal prosecution with civil penalties and warning-first principles."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec10",
+      "Current Affairs 2026",
+      "April 2026"
+    ],
+    "date": "2026-04-15",
+    "category": "SEC10",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T11:56:36.842Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-04-sec10-2",
+      "sourceTitle": "Parliament Passes 'Jan Vishwas (Amendment) Bill, 2026' Decriminalising 717 Provisions",
+      "sourceChecksum": "dbe3b936836f8ae07214b9fc74583fee5be7d53381219bc36c84f32a96022787",
+      "migrationTimestamp": "2026-08-16T11:56:36.842Z",
+      "normalizationRuleVersion": "1.0.0-apr2026"
+    }
+  }
+}

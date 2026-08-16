@@ -1,0 +1,46 @@
+{
+  "id": "migrated-ca-2026-04-sec10-1",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Government Launches First Phase of Census 2027 — First Fully Digital & Caste-Enumerating Census",
+  "summary": "Phase I (House Listing) of Census 2027 launched on April 1, 2026 with ₹11,718.24 Cr budget—first digital census & 1st caste count since 1931.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Government launched **Phase I of Census 2027 (16th overall, 8th post-independence)** on April 1, 2026, marking India's first smartphone/portal-based digital census."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**2 Phases**: Phase I (House Listing: Apr-Sep 2026) | Phase II (Population & Caste Enumeration: Feb 2027). Total budget: **₹11,718.24 crore**.",
+        "**Self-Enumeration**: Citizens can self-enumerate via portal in 16 languages, generating an 11-digit SE ID.",
+        "**Data Model**: 'Census-as-a-Service' machine-readable architecture."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec10",
+      "Current Affairs 2026",
+      "April 2026"
+    ],
+    "date": "2026-04-15",
+    "category": "SEC10",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T11:56:36.842Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-04-sec10-1",
+      "sourceTitle": "Government Launches First Phase of Census 2027 — First Fully Digital & Caste-Enumerating Census",
+      "sourceChecksum": "d89c6b29c03972dfa083516fe0cd0ea4ec183ac5d2aeaab5a3605e38823aa881",
+      "migrationTimestamp": "2026-08-16T11:56:36.842Z",
+      "normalizationRuleVersion": "1.0.0-apr2026"
+    }
+  }
+}
