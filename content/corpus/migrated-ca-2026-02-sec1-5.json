@@ -1,0 +1,45 @@
+{
+  "id": "migrated-ca-2026-02-sec1-5",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SBI Overtakes TCS as India's 4th Most Valuable Company",
+  "summary": "SBI market capitalization crosses ₹10.9 lakh crore, surpassing TCS to become India's 4th most valuable company by m-cap.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "State Bank of India's m-cap crossed **₹10.9 lakh crore**, pushing past TCS (~₹10.5 lakh crore) to become India's **4th most valuable listed company**."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Top M-Cap Hierarchy**: Reliance (~₹19.8L Cr) > HDFC Bank (~₹14.3L Cr) > Bharti Airtel (~₹12.1L Cr) > SBI (>₹10.9L Cr).",
+        "**SBI Leadership**: Chairman C.S. Setty (HQ: Mumbai)."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026",
+      "February 2026"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "migrated-ca-2026-02-sec1-5",
+      "sourceTitle": "SBI Overtakes TCS as India's 4th Most Valuable Company",
+      "sourceChecksum": "004e8a57055196c285a0e2906ff033d03ee60d40f11425ac75cec4b57f98eb7e",
+      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+      "normalizationRuleVersion": "1.0.0-feb2026"
+    }
+  }
+}

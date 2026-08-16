@@ -1,0 +1,52 @@
+{
+  "id": "migrated-ca-2026-01-sec1-3",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India Takes BRICS 2026 Presidency",
+  "summary": "India assumed the BRICS presidency for the fourth time on 1 January 2026 under the theme 'Building for Resilience, Innovation, Cooperation and Sustainability'.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "India assumed the **BRICS presidency for the fourth time** effective 1 January 2026, taking over from Brazil. India previously held the chairship in 2012, 2016, and 2021."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Theme**: 'Building for Resilience, Innovation, Cooperation and Sustainability'.",
+        "**Logo**: Lotus-shaped logo built around the word 'Namaste', incorporating colors of all 11 BRICS members.",
+        "**11 BRICS Members**: Brazil, Russia, India, China, South Africa, Egypt, Ethiopia, Iran, Saudi Arabia, UAE, and Indonesia.",
+        "**Branding**: Approach branded 'humanity-first' and 'people-centric'."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "BRICS Expansion",
+      "summary": "BRICS currently stands at 11 full member states post-expansion."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026",
+      "January 2026"
+    ],
+    "date": "2026-01-26",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "January_26.pdf",
+      "sourceId": "migrated-ca-2026-01-sec1-3",
+      "sourceTitle": "India Takes BRICS 2026 Presidency",
+      "sourceChecksum": "f322ea473ff3b89f6ca51d4a6c4f392e4defb888720586e41a11e4d648c870ee",
+      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+      "normalizationRuleVersion": "1.0.0-jan2026"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-02-sec6-2",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India & Sri Lanka Co-Host 10th ICC Men's T20 World Cup 2026",
+  "summary": "20 teams compete across 55 matches in India and Sri Lanka (Scotland replacing Bangladesh).",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "India and Sri Lanka co-host the **10th ICC Men's T20 World Cup 2026** (20 teams, 55 matches across 8 venues)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec8",
+      "Current Affairs 2026",
+      "February 2026"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC8",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "migrated-ca-2026-02-sec6-2",
+      "sourceTitle": "India & Sri Lanka Co-Host 10th ICC Men's T20 World Cup 2026",
+      "sourceChecksum": "00cebd35d59c2dc000b60ca82c8aa04a6de5b7dd9adb91f7ea1c0767e996c7f0",
+      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+      "normalizationRuleVersion": "1.0.0-feb2026"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-02-sec2-9",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI's Second Data Centre Opened in Bhubaneswar, Odisha",
+  "summary": "RBI establishes its 2nd greenfield Tier-IV certified data centre in Bhubaneswar (Primary DC: Kharghar, Navi Mumbai).",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "RBI inaugurated its **2nd high-security greenfield Data Centre in Bhubaneswar, Odisha** (achieving Tier IV certification), supplementing its primary data centre in Kharghar, Navi Mumbai."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026",
+      "February 2026"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "migrated-ca-2026-02-sec2-9",
+      "sourceTitle": "RBI's Second Data Centre Opened in Bhubaneswar, Odisha",
+      "sourceChecksum": "4a43c414d5082ce2affada7ebc7a56c8c6490dc09c6a99bef3451f265dd92864",
+      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+      "normalizationRuleVersion": "1.0.0-feb2026"
+    }
+  }
+}

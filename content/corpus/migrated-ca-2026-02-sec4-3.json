@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-02-sec4-3",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Indian Navy Assumes IONS Chairmanship for 2026–2028",
+  "summary": "Admiral Dinesh K. Tripathi takes over chairmanship of Indian Ocean Naval Symposium (IONS) at 9th Conclave of Chiefs in Visakhapatnam.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Indian Navy chief Admiral Dinesh K. Tripathi took over the **IONS Chairmanship for 2026–2028** from the Royal Thai Navy at Visakhapatnam."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026",
+      "February 2026"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "migrated-ca-2026-02-sec4-3",
+      "sourceTitle": "Indian Navy Assumes IONS Chairmanship for 2026–2028",
+      "sourceChecksum": "dfa6946ed0f698f37936b8a347a084f91a2e81265822554d06b803063fb4637b",
+      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+      "normalizationRuleVersion": "1.0.0-feb2026"
+    }
+  }
+}

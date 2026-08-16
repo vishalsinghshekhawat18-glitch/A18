@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-02-sec3-2",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Kotak Mahindra Bank — First Custodian to Issue Fully Digital FPI Licence",
+  "summary": "Kotak Mahindra Bank becomes India's first custodian to issue end-to-end electronic FPI licences via SEBI's CAF portal within 24 hours.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Kotak Mahindra Bank became **India's first custodian bank to issue a Foreign Portfolio Investor (FPI) licence completely digitally** via Digital Signature Certificates."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026",
+      "February 2026"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "migrated-ca-2026-02-sec3-2",
+      "sourceTitle": "Kotak Mahindra Bank — First Custodian to Issue Fully Digital FPI Licence",
+      "sourceChecksum": "f98870efcde58c2e22ff65562cec30e971b29837a66b45d882ebf307cb04e797",
+      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+      "normalizationRuleVersion": "1.0.0-feb2026"
+    }
+  }
+}

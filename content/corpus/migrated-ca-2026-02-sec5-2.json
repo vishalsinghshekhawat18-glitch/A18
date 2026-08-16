@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-02-sec5-2",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Uday Kotak Appointed Chairman of GIFT City Company Ltd",
+  "summary": "Kotak Mahindra Bank founder Uday Kotak appointed Chairman of GIFT City Company Ltd, succeeding Hasmukh Adhia.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Uday Kotak was appointed **Chairman of GIFT City Company Ltd**, succeeding Hasmukh Adhia at India's first operational smart city and IFSC."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec8",
+      "Current Affairs 2026",
+      "February 2026"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC8",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "migrated-ca-2026-02-sec5-2",
+      "sourceTitle": "Uday Kotak Appointed Chairman of GIFT City Company Ltd",
+      "sourceChecksum": "9fb571d05abcc97c70477ec90b08fd68285818df03bf49d260659392ccbcd2a2",
+      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+      "normalizationRuleVersion": "1.0.0-feb2026"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "migrated-ca-2026-01-sec1-1",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "77th Republic Day — First Multi-Leader Chief Guest Invite Since 2018",
+  "summary": "India marked its 77th Republic Day on 26 January 2026 with two Chief Guests: Antonio Costa (European Council) and Ursula von der Leyen (European Commission).",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "India marked its **77th Republic Day on 26 January 2026** with a diplomatic first: inviting two Chief Guests—the Presidents of the European Council and European Commission—the first multi-leader invite since 2018."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Chief Guests**: Antonio Costa (President, European Council) and Ursula von der Leyen (President, European Commission).",
+        "**Theme at Kartavya Path**: '150 years of Vande Mataram'; parade theme: 'Vividata Mein Ekta' (Unity in Diversity).",
+        "**EU Contingent**: First-time participation of an EU military contingent in the parade (representing operations Atalanta & Aspides).",
+        "**Tableaux**: 30 tableaux (17 States/UTs, 13 Ministries/Departments).",
+        "**Weapons Displayed**: BrahMos, Akash, 'Suryastra' rocket launcher (300 km range), Arjun MBT, and newly-raised Bhairav Battalion.",
+        "**Aviation Milestone**: Capt. Hansja Sharma (J&K) led the 251 Army Aviation Squadron, showcasing the HELINA missile system—the Army's first woman pilot qualified on the Rudra armed helicopter."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "Diplomatic Significance",
+      "summary": "First multi-leader invite since 2018 and first EU military contingent participation, signaling deepening India-EU strategic ties."
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Role Distinction",
+      "content": "Do not confuse Antonio Costa (European Council President) with Ursula von der Leyen (European Commission President)—two distinct EU leadership roles."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026",
+      "January 2026"
+    ],
+    "date": "2026-01-26",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "January_26.pdf",
+      "sourceId": "migrated-ca-2026-01-sec1-1",
+      "sourceTitle": "77th Republic Day — First Multi-Leader Chief Guest Invite Since 2018",
+      "sourceChecksum": "7ef1f0ef01a12621f60c251c5b0e997d01c0542e1b806c62358b4f97f987c55d",
+      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+      "normalizationRuleVersion": "1.0.0-jan2026"
+    }
+  }
+}

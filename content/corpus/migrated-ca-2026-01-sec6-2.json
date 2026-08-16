@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-01-sec6-2",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India AI Impact Summit 2026 to be Held in New Delhi",
+  "summary": "India's flagship AI summit scheduled for 15-20 February 2026 in New Delhi following 8 regional build-up conferences.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Ministry of Electronics & IT announced **India AI Impact Summit 2026** for 15–20 February 2026 in New Delhi."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec9",
+      "Current Affairs 2026",
+      "January 2026"
+    ],
+    "date": "2026-01-26",
+    "category": "SEC9",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "January_26.pdf",
+      "sourceId": "migrated-ca-2026-01-sec6-2",
+      "sourceTitle": "India AI Impact Summit 2026 to be Held in New Delhi",
+      "sourceChecksum": "629e19477dc6d491ac5ffc83539c83f852c1d3c6c121ca326d246ed89dabb608",
+      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+      "normalizationRuleVersion": "1.0.0-jan2026"
+    }
+  }
+}

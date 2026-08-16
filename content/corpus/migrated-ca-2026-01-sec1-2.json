@@ -1,0 +1,53 @@
+{
+  "id": "migrated-ca-2026-01-sec1-2",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Census 2027 — India's First Fully Digital, Caste-Enumerating Census",
+  "summary": "India's next Census will be its first fully digital census and the first since 1931 to conduct nationwide caste enumeration.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "India's next Census will be its **16th official Census (8th since Independence)**, operating as the first fully digital census and first comprehensive caste enumeration since 1931."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Phase I (Houselisting/Housing Census)**: 1 April 2026 – 30 September 2026; 33 questions on assets/housing with self-enumeration option 15 days prior.",
+        "**Phase II (Population Enumeration)**: Begins February 2027—this is when caste data is collected.",
+        "**Reference Date**: 12 a.m., 1 March 2027 (1 October 2026 for snow-bound J&K/HP/Uttarakhand/Ladakh).",
+        "**Legal Basis**: Article 246, Entry 69 of the Union List (Seventh Schedule); Census Act, 1948 under MHA (Registrar General & Census Commissioner).",
+        "**Impact**: Feeds directly into next delimitation of Lok Sabha/Assembly seats and 33% women's reservation."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Sequence Trap",
+      "content": "Do not confuse Phase I dates (Apr–Sep 2026) with Phase II dates (Feb 2027). Caste enumeration occurs exclusively in Phase II."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026",
+      "January 2026"
+    ],
+    "date": "2026-01-26",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "January_26.pdf",
+      "sourceId": "migrated-ca-2026-01-sec1-2",
+      "sourceTitle": "Census 2027 — India's First Fully Digital, Caste-Enumerating Census",
+      "sourceChecksum": "8d178c31ce6e9ac0074ca761543a5bd63ac19c9402d960327e48353cc12d0c9e",
+      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+      "normalizationRuleVersion": "1.0.0-jan2026"
+    }
+  }
+}

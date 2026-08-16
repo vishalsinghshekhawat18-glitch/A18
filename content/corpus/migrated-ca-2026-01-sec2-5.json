@@ -1,0 +1,45 @@
+{
+  "id": "migrated-ca-2026-01-sec2-5",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "100% Insurance FDI Operationalised via Sabka Bima Sabki Raksha",
+  "summary": "Finance Ministry notifies Foreign Investment Amendment Rules 2025, requiring only one resident Indian key executive.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Following Parliament approval of the 'Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill 2025', **100% FDI in insurance** is operationalized with simplified residency norms."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Executive Mandate**: At least 1 of CEO/MD/Chairperson must be a resident Indian citizen (down from 'most key management').",
+        "**Governance Relief**: Removed mandatory ≥50% independent directors requirement for foreign-invested insurers."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026",
+      "January 2026"
+    ],
+    "date": "2026-01-26",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "January_26.pdf",
+      "sourceId": "migrated-ca-2026-01-sec2-5",
+      "sourceTitle": "100% Insurance FDI Operationalised via Sabka Bima Sabki Raksha",
+      "sourceChecksum": "4b2c894ba56a9491c34f9eddc0befb2dda592190f0e4e65eb93f1f64e5c78283",
+      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+      "normalizationRuleVersion": "1.0.0-jan2026"
+    }
+  }
+}

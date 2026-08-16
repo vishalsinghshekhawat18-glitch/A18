@@ -1,0 +1,45 @@
+{
+  "id": "migrated-ca-2026-02-sec3-3",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "UPI Reaches All-Time High ₹28.33 Trillion in January 2026",
+  "summary": "UPI processed ₹28.33 trillion across 21.70 billion transactions in January 2026 (+21% MoM value growth).",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "NPCI reported January 2026 UPI totals of **₹28.33 trillion in value** (+21% MoM) across **21.70 billion transactions**, averaging 700 million daily transactions."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**DFS Study**: UPI is preferred payment mode for 57% of Indians vs 38% for cash.",
+        "**App Market Share**: PhonePe leads at 45% volume, followed by Google Pay and Paytm."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026",
+      "February 2026"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "migrated-ca-2026-02-sec3-3",
+      "sourceTitle": "UPI Reaches All-Time High ₹28.33 Trillion in January 2026",
+      "sourceChecksum": "bcebbb3112acffe0cf80ee06864499a5e262cf3fbfa8bf28a1bdf481f5d91684",
+      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+      "normalizationRuleVersion": "1.0.0-feb2026"
+    }
+  }
+}

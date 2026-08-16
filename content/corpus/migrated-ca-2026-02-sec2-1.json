@@ -1,0 +1,47 @@
+{
+  "id": "migrated-ca-2026-02-sec2-1",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Monetary Policy Feb 2026 — Repo Rate Held at 5.25%, MSME Loan Limit Doubled",
+  "summary": "RBI keeps Repo Rate unchanged at 5.25%, doubles collateral-free MSME loan limit to ₹20 lakh, and sets digital-fraud compensation cap at ₹25,000.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "RBI MPC kept the **Repo Rate unchanged at 5.25%** with a neutral stance. Key policy decisions focused on structural MSME and consumer protection reforms."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Policy Rates**: Repo 5.25%, SDF 5.00%, MSF & Bank Rate 5.50%, Reverse Repo 3.35%, CRR 3%, SLR 18%.",
+        "**MSME Limit Doubled**: Collateral-free MSME loan limit doubled to **₹20 lakh** (from ₹10 lakh) effective 1 April 2026.",
+        "**Digital-Fraud Compensation**: Victim and bank each bear 15% of loss; RBI covers the remaining 70%, capped at **₹25,000/case** via DEA Fund.",
+        "**Growth & Inflation**: FY26 GDP 7.4%; FY26 CPI inflation 2.1%."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026",
+      "February 2026"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "migrated-ca-2026-02-sec2-1",
+      "sourceTitle": "RBI Monetary Policy Feb 2026 — Repo Rate Held at 5.25%, MSME Loan Limit Doubled",
+      "sourceChecksum": "e4506dfe444efef973df8ced2f2ba3b212b00a79dba10a9ee4ab0585f085c853",
+      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+      "normalizationRuleVersion": "1.0.0-feb2026"
+    }
+  }
+}

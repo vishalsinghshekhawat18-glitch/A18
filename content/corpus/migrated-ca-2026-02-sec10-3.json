@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-02-sec10-3",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India's First Underwater Twin-Tube Tunnel Approved in Assam",
+  "summary": "CCEA approves ₹18,662 crore underwater road-cum-rail tunnel under Brahmaputra River connecting Gohpur and Numaligarh.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "CCEA approved India's **first underwater twin-tube road-cum-rail tunnel** under the Brahmaputra River (33.7 km corridor, ₹18,662 Cr), cutting travel distance by 240 km."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec10",
+      "Current Affairs 2026",
+      "February 2026"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC10",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "migrated-ca-2026-02-sec10-3",
+      "sourceTitle": "India's First Underwater Twin-Tube Tunnel Approved in Assam",
+      "sourceChecksum": "b50adf2a4a121d9866727e3a3d0917c499d5cc1463fcafbe7aaf3a084f54664e",
+      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+      "normalizationRuleVersion": "1.0.0-feb2026"
+    }
+  }
+}

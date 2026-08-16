@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-02-sec4-2",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India Joins 'Pax Silica' Coalition as 10th Full Member",
+  "summary": "India signs on to Pax Silica coalition at India AI Impact Summit alongside Microsoft's $17.5 billion AI investment.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "India joined **'Pax Silica' as its 10th full member** to secure global semiconductor and AI supply chains, coinciding with **Microsoft's $17.5 billion AI infrastructure investment** in India."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026",
+      "February 2026"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "migrated-ca-2026-02-sec4-2",
+      "sourceTitle": "India Joins 'Pax Silica' Coalition as 10th Full Member",
+      "sourceChecksum": "b595a2e02b74f5d234a441018f45bc24e74935a4cdf36136519dc0fdb2e9615f",
+      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+      "normalizationRuleVersion": "1.0.0-feb2026"
+    }
+  }
+}

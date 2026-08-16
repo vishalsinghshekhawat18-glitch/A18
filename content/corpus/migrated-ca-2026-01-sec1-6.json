@@ -1,0 +1,45 @@
+{
+  "id": "migrated-ca-2026-01-sec1-6",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India's First Tailings Policy Launched by Ministry of Mines",
+  "summary": "First-ever framework to mine old mining waste for critical minerals like lithium, cobalt, nickel, and rare earth elements.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Ministry of Mines launched India's **first 'Tailings Policy'**, aiming to extract critical minerals (lithium, cobalt, nickel, rare earths, germanium, indium) from old mining waste and red mud dumps."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Agencies**: Indian Bureau of Mines (IBM), Central Mine Planning & Design Institute (CMPDI), Atomic Minerals Directorate (AMD).",
+        "**Method**: 'Companionality' analysis to quantify recoverable content in overburden dumps and slags."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026",
+      "January 2026"
+    ],
+    "date": "2026-01-26",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "January_26.pdf",
+      "sourceId": "migrated-ca-2026-01-sec1-6",
+      "sourceTitle": "India's First Tailings Policy Launched by Ministry of Mines",
+      "sourceChecksum": "142b459805ccd811c18ec08d78868607d9f834a2b1ac6804cde17a4fe8eb4532",
+      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+      "normalizationRuleVersion": "1.0.0-jan2026"
+    }
+  }
+}

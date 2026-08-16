@@ -1,0 +1,45 @@
+{
+  "id": "migrated-ca-2026-02-sec3-1",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "CBDC-PDS Pilots — Twin Digital-Rupee Food-Subsidy Schemes Launched",
+  "summary": "India launches two parallel CBDC food-subsidy pilots: Gujarat Digital Food Coupon (Annapurti ATMs) and Puducherry PMGKAY e-Rupee token.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "India initiated two distinct CBDC-based food-subsidy pilots: **Gujarat** (Digital Food Coupon with 'Annapurti' Grain ATMs) and **Puducherry** (PMGKAY programmable e-Rupee token with Canara Bank)."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Gujarat Pilot**: Inaugurated by Amit Shah; covers Gandhinagar, Ahmedabad, Surat, Anand, Valsad; Annapurti ATMs disburse 25 kg grain in 35 seconds.",
+        "**Puducherry Pilot**: Inaugurated by Pralhad Joshi; programmable e-Rupee tokens redeemed at Fair Price Shops."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026",
+      "February 2026"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "migrated-ca-2026-02-sec3-1",
+      "sourceTitle": "CBDC-PDS Pilots — Twin Digital-Rupee Food-Subsidy Schemes Launched",
+      "sourceChecksum": "c84dbb700348a0ae6c9a7d9637903260c2eb4e0686fcd54a5d8ba356add0c619",
+      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+      "normalizationRuleVersion": "1.0.0-feb2026"
+    }
+  }
+}

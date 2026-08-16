@@ -1,0 +1,46 @@
+{
+  "id": "migrated-ca-2026-01-sec1-5",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India Notifies Coking Coal as Critical & Strategic Mineral",
+  "summary": "Government classifies coking coal under MMDR Act 1957 to fast-track environmental clearances and tap 37.37 billion-tonne reserves.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "With India importing ~95% of its steel-sector coking coal needs, the Ministry of Mines notified coking coal as a **Critical and Strategic Mineral** under the MMDR Act, 1957."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Import Reliance**: ~95% imported (mainly Australia, Russia, USA); imports reached 57.58 million tonnes in 2024-25.",
+        "**Domestic Reserve**: Estimated coking coal resources stand at **37.37 billion tonnes** (primarily Jharkhand, MP, WB, Chhattisgarh).",
+        "**Legal Basis**: Notified under Mines and Minerals (Development and Regulation) Act, 1957 following HLC-VB & NITI Aayog recommendations."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026",
+      "January 2026"
+    ],
+    "date": "2026-01-26",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "January_26.pdf",
+      "sourceId": "migrated-ca-2026-01-sec1-5",
+      "sourceTitle": "India Notifies Coking Coal as Critical & Strategic Mineral",
+      "sourceChecksum": "7c52a1506f31b5d1c20128542f577edca63b550be9113aa63debef166d9c5a3b",
+      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+      "normalizationRuleVersion": "1.0.0-jan2026"
+    }
+  }
+}

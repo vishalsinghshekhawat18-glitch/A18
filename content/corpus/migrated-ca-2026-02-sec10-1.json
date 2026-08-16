@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-02-sec10-1",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India Semiconductor Mission 2.0 (ISM 2.0) Announced",
+  "summary": "Budget 2026-27 allocates ₹1,000 crore for ISM 2.0 to focus on domestic semiconductor equipment & materials manufacturing.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Government announced **India Semiconductor Mission 2.0 (ISM 2.0)** with an outlay of **₹1,000 crore** for FY27, shifting focus upstream to semiconductor equipment and materials."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec10",
+      "Current Affairs 2026",
+      "February 2026"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC10",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "migrated-ca-2026-02-sec10-1",
+      "sourceTitle": "India Semiconductor Mission 2.0 (ISM 2.0) Announced",
+      "sourceChecksum": "110f39583a2deb2a08ee8a1c2521ac7cd62ec8033687d60490656cc36e451f7a",
+      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+      "normalizationRuleVersion": "1.0.0-feb2026"
+    }
+  }
+}

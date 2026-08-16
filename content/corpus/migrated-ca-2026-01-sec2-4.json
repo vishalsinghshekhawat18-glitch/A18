@@ -1,0 +1,45 @@
+{
+  "id": "migrated-ca-2026-01-sec2-4",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "UPI Hits All-Time High 21.63 Billion Transactions in Dec 2025",
+  "summary": "UPI processed 21.63 billion transactions worth ₹27.97 lakh crore in December 2025, commanding 84.8% of retail digital volume.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Unified Payments Interface (UPI) set a record **21.63 billion monthly transactions** worth **₹27.97 lakh crore**, averaging 698 million daily transactions."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Volume Share vs Value Share**: UPI accounts for **84.8% of retail digital volume**, but **9.1% of retail value** (small-ticket dominance).",
+        "**International Acceptance**: UPI active in 8 countries (Bhutan, Singapore, Qatar, Mauritius, Nepal, UAE, Sri Lanka, France)."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026",
+      "January 2026"
+    ],
+    "date": "2026-01-26",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "January_26.pdf",
+      "sourceId": "migrated-ca-2026-01-sec2-4",
+      "sourceTitle": "UPI Hits All-Time High 21.63 Billion Transactions in Dec 2025",
+      "sourceChecksum": "12b8b86305bada9a01f62a646e556f505a7fa7bd83e77d0fc967a414d0382b83",
+      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+      "normalizationRuleVersion": "1.0.0-jan2026"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "migrated-ca-2026-01-sec6-1",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "PM-RKVY Absorbs 3 Agriculture Schemes into ₹1.75 Lakh Crore Umbrella",
+  "summary": "PM-RKVY folds Krishonnati Yojana, Natural Farming, and Honey Mission into 5-year 16th Finance Commission cycle.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Cabinet approved restructuring PM-RKVY into a **₹1.75 lakh crore umbrella scheme** over 5 years (FY26–FY31), merging three major agri-programmes."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Absorbed Schemes**: Krishonnati Yojana, National Mission on Natural Farming, National Bee and Honey Mission.",
+        "**Funding Split**: 60:40 (General States), 90:10 (NE/Himalayan), 100% (UTs)."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec10",
+      "Current Affairs 2026",
+      "January 2026"
+    ],
+    "date": "2026-01-26",
+    "category": "SEC10",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "January_26.pdf",
+      "sourceId": "migrated-ca-2026-01-sec6-1",
+      "sourceTitle": "PM-RKVY Absorbs 3 Agriculture Schemes into ₹1.75 Lakh Crore Umbrella",
+      "sourceChecksum": "334321e860357fa04d623a318f181e8433346f74df3cba59bfc190dbfd0fb74b",
+      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+      "normalizationRuleVersion": "1.0.0-jan2026"
+    }
+  }
+}

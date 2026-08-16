@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-02-sec7-1",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India Climbs 5 Slots to 91st on Corruption Perception Index 2025",
+  "summary": "India ranks 91st out of 180 countries with a score of 39/100 on Transparency International's CPI 2025.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "India improved its rank from 96th to **91st globally (score 39/100)** on Transparency International's Corruption Perception Index 2025 (Denmark ranked 1st for 8th straight year)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec7",
+      "Current Affairs 2026",
+      "February 2026"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC7",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "migrated-ca-2026-02-sec7-1",
+      "sourceTitle": "India Climbs 5 Slots to 91st on Corruption Perception Index 2025",
+      "sourceChecksum": "24d7ba307aad5e9532b730fdd01da08add855ca6c5e9386c7a1c3b67478f4bf2",
+      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+      "normalizationRuleVersion": "1.0.0-feb2026"
+    }
+  }
+}

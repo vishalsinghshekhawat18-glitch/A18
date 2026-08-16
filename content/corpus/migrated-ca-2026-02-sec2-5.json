@@ -1,0 +1,45 @@
+{
+  "id": "migrated-ca-2026-02-sec2-5",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI LBS Norms — 60% Credit-Deposit (CD) Ratio Target for Rural Branches",
+  "summary": "Revised Lead Bank Scheme (LBS) guidelines require banks to maintain a 60% CD ratio in rural and semi-urban branches.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "RBI revised Lead Bank Scheme (LBS) norms, requiring banks to maintain a minimum **60% Credit-Deposit (CD) ratio** in rural and semi-urban branches."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Monitoring Tiers**: CD ratio 40-60% monitored by DCC; <40% monitored by special sub-committee; <20% flagged as 'special category'.",
+        "**Unbanked Outlets**: Banks must open ≥25% of outlets in Tier V/VI unbanked rural centres."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026",
+      "February 2026"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "migrated-ca-2026-02-sec2-5",
+      "sourceTitle": "RBI LBS Norms — 60% Credit-Deposit (CD) Ratio Target for Rural Branches",
+      "sourceChecksum": "9fcaddced63249b09f8acf093febe5e3ac88e8c9acb727195d6ce1d0d5dd0bd7",
+      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+      "normalizationRuleVersion": "1.0.0-feb2026"
+    }
+  }
+}

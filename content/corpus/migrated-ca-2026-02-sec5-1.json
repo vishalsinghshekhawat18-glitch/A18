@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-02-sec5-1",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Defence Acquisition Council Clears ₹3.60 Lakh Crore Acquisitions Including 114 Rafales",
+  "summary": "DAC accords Acceptance of Necessity (AoN) for ₹3.60 lakh crore capital acquisitions, including 114 Rafale jets.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "DAC (chaired by Rajnath Singh) approved **₹3.60 lakh crore capital acquisitions**, including **114 Rafale fighter jets** (taking India's total Rafale fleet to 176) and 6 P-8I maritime aircraft."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec8",
+      "Current Affairs 2026",
+      "February 2026"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC8",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "migrated-ca-2026-02-sec5-1",
+      "sourceTitle": "Defence Acquisition Council Clears ₹3.60 Lakh Crore Acquisitions Including 114 Rafales",
+      "sourceChecksum": "11d58b7c3e1bc61c2700a25452d4de10b515fa10830d36bf7cb0def9a0266233",
+      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+      "normalizationRuleVersion": "1.0.0-feb2026"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "migrated-ca-2026-02-sec2-6",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Eases Acquisition Financing Norms for Banks",
+  "summary": "RBI raises bank exposure cap for acquisition financing from 10% to 20% of capital and allows financing for unlisted acquisitions.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "RBI relaxed acquisition financing rules, raising the bank exposure ceiling from **10% to 20% of capital** and extending eligibility to unlisted companies (net worth ≥₹500 Cr)."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Financing Share**: Raised from 70% to 75% of acquisition value (debt-to-equity capped at 3:1).",
+        "**Lending Against Shares**: Ceiling raised from ₹20 lakh to ₹1 crore."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026",
+      "February 2026"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "migrated-ca-2026-02-sec2-6",
+      "sourceTitle": "RBI Eases Acquisition Financing Norms for Banks",
+      "sourceChecksum": "392c216a877dc18f4c84582db72db0d954fc454e3b51c8339d49336d6bc51d94",
+      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+      "normalizationRuleVersion": "1.0.0-feb2026"
+    }
+  }
+}

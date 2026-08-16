@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-02-sec10-5",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "MHA Unveils 'PRAHAAR' — India's First National Counter-Terrorism Policy",
+  "summary": "MHA releases PRAHAAR policy built around 7 pillars, establishing MAC/JTFI under IB and NIA for terror investigation.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Ministry of Home Affairs unveiled **'PRAHAAR'**, India's first national counter-terrorism doctrine, structured around 7 strategic pillars."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec9",
+      "Current Affairs 2026",
+      "February 2026"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC9",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "migrated-ca-2026-02-sec10-5",
+      "sourceTitle": "MHA Unveils 'PRAHAAR' — India's First National Counter-Terrorism Policy",
+      "sourceChecksum": "93076d6e2a97b24a52f40bfc6a891f5cabfd51ae1c72a857c8c7f0f6a45debb1",
+      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+      "normalizationRuleVersion": "1.0.0-feb2026"
+    }
+  }
+}

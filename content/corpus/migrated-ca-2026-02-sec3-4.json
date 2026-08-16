@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-02-sec3-4",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "MIGA $197.67 Million Guarantee for SBI Rooftop Solar Refinancing",
+  "summary": "Multilateral Investment Guarantee Agency (MIGA) provides $197.67 million 5-year guarantee to Citibank for loan to SBI.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "MIGA (World Bank Group) issued a **$197.67 million guarantee** to Citibank N.A. to back financing for SBI's $500 million Grid-connected Rooftop Solar PV (GRPV) programme."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026",
+      "February 2026"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "migrated-ca-2026-02-sec3-4",
+      "sourceTitle": "MIGA $197.67 Million Guarantee for SBI Rooftop Solar Refinancing",
+      "sourceChecksum": "3c6982863735889b740414b6ab91428cc5278b4bd0812bb5c50d9309530e0119",
+      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+      "normalizationRuleVersion": "1.0.0-feb2026"
+    }
+  }
+}

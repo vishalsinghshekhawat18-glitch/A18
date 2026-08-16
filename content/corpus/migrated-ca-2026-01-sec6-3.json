@@ -1,0 +1,48 @@
+{
+  "id": "migrated-ca-2026-01-sec6-3",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "January 2026 Rapid Recall & Key Milestones Summary",
+  "summary": "Consolidated high-yield recall summary of key figures, records, and dates from January 2026.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "High-speed sweep of top facts for January 2026 revision:"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**India GDP**: $4.18 Trillion (4th largest globally; 7.4% real GDP growth).",
+        "**UPI Record**: 21.63 billion transactions worth ₹27.97 lakh crore.",
+        "**Ramsar Sites**: 98 total.",
+        "**FDI Inflows**: $47 billion (+73% growth per UNCTAD).",
+        "**RBI Dividend Cap**: 75% of PAT."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec11",
+      "Current Affairs 2026",
+      "January 2026"
+    ],
+    "date": "2026-01-26",
+    "category": "SEC11",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "January_26.pdf",
+      "sourceId": "migrated-ca-2026-01-sec6-3",
+      "sourceTitle": "January 2026 Rapid Recall & Key Milestones Summary",
+      "sourceChecksum": "7d1b0aecd82bf1d78d8c3c3b9a3d9d5f0d9904ee110e31e725f60a035b290e3a",
+      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+      "normalizationRuleVersion": "1.0.0-jan2026"
+    }
+  }
+}

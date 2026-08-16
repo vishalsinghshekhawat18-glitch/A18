@@ -1,0 +1,46 @@
+{
+  "id": "migrated-ca-2026-01-sec2-6",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Raises Bank Dividend Payout Cap to 75% of PAT",
+  "summary": "RBI proposes raising dividend payout ceiling for commercial banks from 40% to 75% of PAT effective FY2026-27.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "RBI proposed lifting the maximum dividend payout ratio for commercial banks from **40% to 75% of Profit After Tax (PAT)**, governed by a 10-bucket CET1 capital strength matrix."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Effective Date**: FY 2026-27 onwards.",
+        "**Exclusions**: Excludes Small Finance Banks, Payments Banks, RRBs, and Local Area Banks.",
+        "**Adjusted PAT Formula**: PAT minus net NPAs as of 31 March."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026",
+      "January 2026"
+    ],
+    "date": "2026-01-26",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "January_26.pdf",
+      "sourceId": "migrated-ca-2026-01-sec2-6",
+      "sourceTitle": "RBI Raises Bank Dividend Payout Cap to 75% of PAT",
+      "sourceChecksum": "e39ce132c7b27e743206646216071a1fc22889f51f50ca7a6c95f28d139af032",
+      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+      "normalizationRuleVersion": "1.0.0-jan2026"
+    }
+  }
+}

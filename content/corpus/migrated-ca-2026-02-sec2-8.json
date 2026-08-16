@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-02-sec2-8",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Mandates 52-Character UTI for OTC Derivatives",
+  "summary": "Unique Transaction Identifier (UTI) becomes mandatory for OTC rupee interest rate and FX derivatives from 1 January 2027.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "RBI mandated a **52-character Unique Transaction Identifier (UTI)** for all direct private OTC derivative trades, reported to CCIL-TR."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026",
+      "February 2026"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "migrated-ca-2026-02-sec2-8",
+      "sourceTitle": "RBI Mandates 52-Character UTI for OTC Derivatives",
+      "sourceChecksum": "c02fa7920f8651c070005aa97271a7b6d6297176824918ad57852e357824f10e",
+      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+      "normalizationRuleVersion": "1.0.0-feb2026"
+    }
+  }
+}

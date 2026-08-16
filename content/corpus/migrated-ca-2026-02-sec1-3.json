@@ -1,0 +1,45 @@
+{
+  "id": "migrated-ca-2026-02-sec1-3",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SME Growth Fund & TReDS Reforms",
+  "summary": "Government establishes ₹10,000 Cr SME Growth Fund and 4 key TReDS reforms to boost MSME invoice financing.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Budget 2026 announced a **₹10,000 Cr SME Growth Fund** plus a ₹2,000 Cr top-up to the 2021 Self-Reliant India Fund."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**4 TReDS Reforms**: Mandatory CPSE-MSME purchases on TReDS; CGTMSE credit guarantee for invoice discounting; GeM-TReDS linkage; TReDS receivables as tradeable ABS.",
+        "**TReDS Track Record**: Conceptualised by RBI in 2014, operational since 2018—enabled >₹7 lakh crore financing to MSMEs."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026",
+      "February 2026"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "migrated-ca-2026-02-sec1-3",
+      "sourceTitle": "SME Growth Fund & TReDS Reforms",
+      "sourceChecksum": "5dff7b84587098b62d83f284fea19e787dce0fb3a89af517ba5665e6a90a5a1f",
+      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+      "normalizationRuleVersion": "1.0.0-feb2026"
+    }
+  }
+}
