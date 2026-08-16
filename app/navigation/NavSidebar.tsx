@@ -134,7 +134,7 @@ export const NavSidebar: React.FC<Props> = ({
                 {targetSubject?.toUpperCase() || 'SUBJECT'} INDEX ({contextItems.length})
               </div>
 
-              {/* Special Month-Wise Hierarchy for Current Affairs */}
+              {/* Special Month & Section Hierarchy for Current Affairs */}
               {targetSubject === 'current-affairs' ? (
                 <div className="ca-sidebar-month-groups">
                   {caMonthGroups.map(group => (
@@ -147,15 +147,24 @@ export const NavSidebar: React.FC<Props> = ({
                         <span className="ca-sidebar-month-badge">{group.items.length}</span>
                       </button>
 
-                      <div className="ca-sidebar-notes-list">
-                        {group.items.map(item => (
-                          <button
-                            key={item.id}
-                            className={`nav-item ca-note-item ${activeItemId === item.id ? 'active' : ''}`}
-                            onClick={() => handleSelectItem(item.id)}
-                          >
-                            {item.title}
-                          </button>
+                      <div className="ca-sidebar-sections-list">
+                        {group.sections.map(secGroup => (
+                          <div key={secGroup.secId} className="ca-sidebar-sec-block" style={{ marginBottom: '0.4rem' }}>
+                            <div className="ca-sidebar-sec-label" style={{ fontSize: '0.76rem', fontWeight: 700, color: 'var(--text-accent)', margin: '0.3rem 0 0.15rem 0.4rem', fontFamily: 'var(--font-sans)' }}>
+                              {secGroup.emoji} {secGroup.title} ({secGroup.items.length})
+                            </div>
+                            <div className="ca-sidebar-notes-list" style={{ paddingLeft: '0.4rem' }}>
+                              {secGroup.items.map(item => (
+                                <button
+                                  key={item.id}
+                                  className={`nav-item ca-note-item ${activeItemId === item.id ? 'active' : ''}`}
+                                  onClick={() => handleSelectItem(item.id)}
+                                >
+                                  {item.title}
+                                </button>
+                              ))}
+                            </div>
+                          </div>
                         ))}
                       </div>
                     </div>

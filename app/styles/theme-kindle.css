@@ -1060,6 +1060,38 @@ body {
   gap: 1.2rem;
 }
 
+/* CA Sub-Section Header Styling (Subordinate to Month Header) */
+.ca-section-header {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+  margin: 1.2rem 0 0.8rem 0;
+  padding: 0.45rem 0.85rem;
+  background-color: var(--bg-accent-subtle);
+  border: 1px solid var(--border-subtle);
+  border-left: 3px solid var(--text-accent);
+  border-radius: 4px;
+  font-family: var(--font-sans);
+  font-size: 0.88rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  letter-spacing: 0.02em;
+}
+
+.ca-section-icon {
+  font-size: 0.95rem;
+}
+
+.ca-section-title {
+  flex-grow: 1;
+}
+
+.ca-section-count {
+  font-size: 0.8rem;
+  color: var(--text-accent);
+  font-weight: 600;
+}
+
 .ca-card-grid-compact {
   display: grid;
   grid-template-columns: minmax(0, 1fr) 250px;

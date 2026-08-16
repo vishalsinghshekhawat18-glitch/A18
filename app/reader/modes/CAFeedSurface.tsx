@@ -37,6 +37,11 @@ export const CAFeedSurface: React.FC<Props> = ({
     return allItems.filter(i => isItemInSubject(i, 'current-affairs'));
   }, [allItems, fullCaNotes]);
 
+  // Dynamically group notes into month/year sections (Newest month first)
+  const monthGroups = useMemo(() => {
+    return groupCAItemsByMonth(caNotes);
+  }, [caNotes]);
+
   // State for month filtering (default to 'all' for full continuous feed, or specific monthKey)
   const [selectedMonthKey, setSelectedMonthKey] = useState<string>('all');
 
@@ -144,75 +149,89 @@ export const CAFeedSurface: React.FC<Props> = ({
                 </div>
               </div>
 
-              {/* Month Cards Stack */}
+              {/* Month Cards Stack Organized by Section Category */}
               <div className="ca-month-cards-stack">
-                {group.items.map(item => {
-                  globalNoteIdx += 1;
-                  const noteNumber = globalNoteIdx;
+                {group.sections.map(secGroup => (
+                  <div key={secGroup.secId} className="ca-section-block">
+                    {/* Compact Section Sub-Header */}
+                    <div className="ca-section-header" id={`sec-${group.monthKey}-${secGroup.secId}`}>
+                      <span className="ca-section-icon">{secGroup.emoji}</span>
+                      <span className="ca-section-title">{secGroup.title}</span>
+                      <span className="ca-section-count">({secGroup.items.length})</span>
+                    </div>
 
-                  const mainBlocks = item.blocks.filter(
-                    (b: SemanticBlock) =>
-                      b.type !== 'key_concept' && b.type !== 'exam_trap' && b.type !== 'quote'
-                  );
-                  const sideBlocks = item.blocks.filter(
-                    (b: SemanticBlock) =>
-                      b.type === 'key_concept' || b.type === 'exam_trap' || b.type === 'quote'
-                  );
+                    {/* Section Notes Cards Stack */}
+                    <div className="ca-section-notes-stack" style={{ display: 'flex', flexDirection: 'column', gap: '1.2rem' }}>
+                      {secGroup.items.map(item => {
+                        globalNoteIdx += 1;
+                        const noteNumber = globalNoteIdx;
 
-                  const isTarget = item.id === activeItemId;
+                        const mainBlocks = item.blocks.filter(
+                          (b: SemanticBlock) =>
+                            b.type !== 'key_concept' && b.type !== 'exam_trap' && b.type !== 'quote'
+                        );
+                        const sideBlocks = item.blocks.filter(
+                          (b: SemanticBlock) =>
+                            b.type === 'key_concept' || b.type === 'exam_trap' || b.type === 'quote'
+                        );
 
-                  return (
-                    <article
-                      key={item.id}
-                      id={item.id}
-                      className={`ca-feed-card-compact ${isTarget ? 'is-active-target' : ''}`}
-                    >
-                      {/* Card Header & Title */}
-                      <div className="ca-card-header-compact">
-                        <div className="ca-card-meta-bar">
-                          <span className="ca-card-num">NOTE #{noteNumber}</span>
-                          {item.metadata?.date && <span className="ca-date-chip">📅 {item.metadata.date}</span>}
-                          {item.metadata?.category && <span className="ca-category-chip">{item.metadata.category}</span>}
-                        </div>
+                        const isTarget = item.id === activeItemId;
 
-                        <h2 className="ca-card-title-compact">{item.title}</h2>
+                        return (
+                          <article
+                            key={item.id}
+                            id={item.id}
+                            className={`ca-feed-card-compact ${isTarget ? 'is-active-target' : ''}`}
+                          >
+                            {/* Card Header & Title */}
+                            <div className="ca-card-header-compact">
+                              <div className="ca-card-meta-bar">
+                                <span className="ca-card-num">NOTE #{noteNumber}</span>
+                                {item.metadata?.date && <span className="ca-date-chip">📅 {item.metadata.date}</span>}
+                                {item.metadata?.category && <span className="ca-category-chip">{item.metadata.category}</span>}
+                              </div>
 
-                        {item.summary && (
-                          <div className="ca-card-hook-compact">
-                            <span className="ca-hook-label">EXECUTIVE BRIEFING:</span> {formatInlineText(item.summary)}
-                          </div>
-                        )}
-                      </div>
+                              <h2 className="ca-card-title-compact">{item.title}</h2>
 
-                      {/* Adaptive Grid Layout */}
-                      <div
-                        className="ca-card-grid-compact"
-                        style={{ gridTemplateColumns: sideBlocks.length > 0 ? undefined : '1fr' }}
-                      >
-                        <div className="ca-main-col-compact">
-                          {mainBlocks.map((block: SemanticBlock, bIdx: number) => (
-                            <BlockRenderer key={bIdx} block={block} blockIndex={bIdx} />
-                          ))}
-                        </div>
+                              {item.summary && (
+                                <div className="ca-card-hook-compact">
+                                  <span className="ca-hook-label">EXECUTIVE BRIEFING:</span> {formatInlineText(item.summary)}
+                                </div>
+                              )}
+                            </div>
 
-                        {sideBlocks.length > 0 && (
-                          <aside className="ca-side-col-compact">
-                            {sideBlocks.map((block: SemanticBlock, bIdx: number) => (
-                              <BlockRenderer key={bIdx} block={block} blockIndex={100 + bIdx} />
-                            ))}
-                          </aside>
-                        )}
-                      </div>
+                            {/* Adaptive Grid Layout */}
+                            <div
+                              className="ca-card-grid-compact"
+                              style={{ gridTemplateColumns: sideBlocks.length > 0 ? undefined : '1fr' }}
+                            >
+                              <div className="ca-main-col-compact">
+                                {mainBlocks.map((block: SemanticBlock, bIdx: number) => (
+                                  <BlockRenderer key={bIdx} block={block} blockIndex={bIdx} />
+                                ))}
+                              </div>
 
-                      {/* Relationships if present */}
-                      <RelationshipLinks
-                        relationships={item.relationships}
-                        allItems={allItems}
-                        onNavigate={onNavigateItem}
-                      />
-                    </article>
-                  );
-                })}
+                              {sideBlocks.length > 0 && (
+                                <aside className="ca-side-col-compact">
+                                  {sideBlocks.map((block: SemanticBlock, bIdx: number) => (
+                                    <BlockRenderer key={bIdx} block={block} blockIndex={100 + bIdx} />
+                                  ))}
+                                </aside>
+                              )}
+                            </div>
+
+                            {/* Relationships if present */}
+                            <RelationshipLinks
+                              relationships={item.relationships}
+                              allItems={allItems}
+                              onNavigate={onNavigateItem}
+                            />
+                          </article>
+                        );
+                      })}
+                    </div>
+                  </div>
+                ))}
               </div>
             </section>
           ))}

@@ -104,10 +104,38 @@ export function isItemInSubject(item: KnowledgeItem, subjectId: string): boolean
   return false;
 }
 
+export interface CASectionDef {
+  secId: string;
+  title: string;
+  emoji: string;
+}
+
+export const CA_SECTION_DEFS: CASectionDef[] = [
+  { secId: 'SEC1', title: 'ESI, Finance & Business News', emoji: '📈' },
+  { secId: 'SEC2', title: 'Regulatory Bodies News', emoji: '🏛️' },
+  { secId: 'SEC3', title: 'Banking & Insurance News', emoji: '💳' },
+  { secId: 'SEC4', title: 'National, State & International News', emoji: '🌐' },
+  { secId: 'SEC5', title: 'MoUs, Conferences & Appointments', emoji: '🤝' },
+  { secId: 'SEC6', title: 'Science, Technology, Defence & Sports', emoji: '🚀' },
+  { secId: 'SEC7', title: 'Awards, Books, Indices & Rankings', emoji: '🏆' },
+  { secId: 'SEC8', title: 'Important Days & Persons in News', emoji: '📅' },
+  { secId: 'SEC9', title: 'PIB, Circulars & Notifications', emoji: '📜' },
+  { secId: 'SEC10', title: 'Miscellaneous - Govt Schemes & Static', emoji: '🎯' },
+  { secId: 'SEC11', title: 'Rapid Revision', emoji: '⚡' }
+];
+
+export interface CASectionGroup {
+  secId: string;
+  title: string;
+  emoji: string;
+  items: KnowledgeItem[];
+}
+
 export interface CAMonthGroup {
   monthKey: string;
   monthLabel: string;
   items: KnowledgeItem[];
+  sections: CASectionGroup[];
 }
 
 export function groupCAItemsByMonth(caItems: KnowledgeItem[]): CAMonthGroup[] {
@@ -137,17 +165,65 @@ export function groupCAItemsByMonth(caItems: KnowledgeItem[]): CAMonthGroup[] {
 
   return sortedKeys.map(key => {
     const group = groupsMap.get(key)!;
-    // Within each month, keep items in clean date/chronological order (newest date first)
-    const sortedItems = [...group.items].sort((a, b) => {
-      const dA = a.metadata?.date || '';
-      const dB = b.metadata?.date || '';
-      return dB.localeCompare(dA);
-    });
+
+    // Group items inside this month by Section (SEC1 .. SEC11)
+    const secMap = new Map<string, KnowledgeItem[]>();
+    for (const item of group.items) {
+      const cat = (item.metadata?.category || 'SEC10').toUpperCase();
+      if (!secMap.has(cat)) {
+        secMap.set(cat, []);
+      }
+      secMap.get(cat)!.push(item);
+    }
+
+    const sections: CASectionGroup[] = [];
+    for (const secDef of CA_SECTION_DEFS) {
+      const secItems = secMap.get(secDef.secId.toUpperCase());
+      if (secItems && secItems.length > 0) {
+        // Sort items chronologically within section (latest date first)
+        const sortedSecItems = [...secItems].sort((a, b) => {
+          const dA = a.metadata?.date || '';
+          const dB = b.metadata?.date || '';
+          return dB.localeCompare(dA);
+        });
+        sections.push({
+          secId: secDef.secId,
+          title: secDef.title,
+          emoji: secDef.emoji,
+          items: sortedSecItems
+        });
+      }
+    }
+
+    // Unmapped categories into SEC10
+    const knownSecIds = new Set(CA_SECTION_DEFS.map(s => s.secId.toUpperCase()));
+    const unmappedItems: KnowledgeItem[] = [];
+    for (const [catKey, itemsList] of secMap.entries()) {
+      if (!knownSecIds.has(catKey)) {
+        unmappedItems.push(...itemsList);
+      }
+    }
+    if (unmappedItems.length > 0) {
+      let miscSec = sections.find(s => s.secId === 'SEC10');
+      if (!miscSec) {
+        miscSec = {
+          secId: 'SEC10',
+          title: 'Miscellaneous - Govt Schemes & Static',
+          emoji: '🎯',
+          items: []
+        };
+        sections.push(miscSec);
+      }
+      miscSec.items.push(...unmappedItems);
+    }
+
+    const flatOrderedItems = sections.flatMap(s => s.items);
 
     return {
       monthKey: key,
       monthLabel: group.label,
-      items: sortedItems
+      items: flatOrderedItems,
+      sections
     };
   });
 }
