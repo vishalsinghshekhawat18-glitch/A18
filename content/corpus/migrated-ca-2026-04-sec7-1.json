@@ -1,0 +1,44 @@
+{
+  "id": "migrated-ca-2026-04-sec7-1",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Key April 2026 Appointments: Ashwini Bhide (BMC), Lt Gen Dhiraj Seth (VCOAS), John Ternus (Apple)",
+  "summary": "Major executive changes including BMC's 1st woman commissioner, new Vice Chief of Army Staff, and Apple's next CEO.",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "**BMC Commissioner**: Ashwini Bhide appointed Municipal Commissioner of Brihanmumbai Municipal Corporation (1st woman head).",
+        "**Army VCOAS**: Lt Gen Dhiraj Seth assumed office as 49th Vice Chief of Army Staff.",
+        "**Apple CEO**: John Ternus named CEO w.e.f. Sept 1, 2026 (Tim Cook becomes Executive Chairman).",
+        "**Yes Bank MD & CEO**: Vinay Muralidhar Tonse took charge for 3 years.",
+        "**Bihar CM**: Samrat Choudhary sworn in as 24th CM of Bihar (1st BJP CM)."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec7",
+      "Current Affairs 2026",
+      "April 2026"
+    ],
+    "date": "2026-04-15",
+    "category": "SEC7",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T15:38:14.789Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-04-sec7-1",
+      "sourceTitle": "Key April 2026 Appointments: Ashwini Bhide (BMC), Lt Gen Dhiraj Seth (VCOAS), John Ternus (Apple)",
+      "sourceChecksum": "0b88db7e33299cab4b1a8ae9654ad21345dbe23b86060a5e141a874b94b2a699",
+      "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+      "normalizationRuleVersion": "1.0.0-apr2026"
+    }
+  }
+}

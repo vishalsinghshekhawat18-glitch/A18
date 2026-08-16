@@ -1,0 +1,45 @@
+{
+  "id": "migrated-ca-2026-04-sec3-13",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Unveiled 'Utkarsh 2029' Strategy Framework for FY26-29",
+  "summary": "RBI medium-term roadmap sets 49 deliverables across 6 pillars, including an indigenous AI framework and central bank digital currency (CBDC) expansion.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "RBI Governor unveiled **'Utkarsh 2029'**, the central bank's medium-term strategy framework covering FY2026-29 with 49 specific deliverables."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**6 Pillars**: Robust Regulations, Customer Centricity, Competitive Markets, Effective Technology, Future-Ready Organisation, and Global Integration.",
+        "**AI & LLM**: Development of an indigenous central-bank-specific LLM tool and an AI regulatory framework for financial institutions."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026",
+      "April 2026"
+    ],
+    "date": "2026-04-15",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T15:38:14.789Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-04-sec3-13",
+      "sourceTitle": "RBI Unveiled 'Utkarsh 2029' Strategy Framework for FY26-29",
+      "sourceChecksum": "8e2cd69443240df57d0c742fcd0867eb0037fae5d81011646cf4f14dfc0fb5be",
+      "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+      "normalizationRuleVersion": "1.0.0-apr2026"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "migrated-ca-2026-04-sec4-2",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India Defence Exports Hit Record All-Time High of ₹38,424 Crore in FY26",
+  "summary": "Defence exports jump 62.66% YoY to ₹38,424 Cr; DPSUs contribute 54.84% (₹21,071 Cr) and private sector 45.16% (₹17,353 Cr).",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Ministry of Defence announced India's defence exports reached an all-time high of **₹38,424 crore in FY26** (+62.66% from ₹23,622 crore in FY25), exporting to 80+ nations."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Top Exporters**: 145 registered defence exporters (up from 128). Top destinations: US, France, Armenia, Philippines.",
+        "**Target**: Government aims for **₹50,000 crore** defence exports by 2030."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026",
+      "April 2026"
+    ],
+    "date": "2026-04-15",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T15:38:14.789Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-04-sec4-2",
+      "sourceTitle": "India Defence Exports Hit Record All-Time High of ₹38,424 Crore in FY26",
+      "sourceChecksum": "67eb410725efc94bce0f92899d9ef538393ed95a727c2935e38b0c3b3cdc22d8",
+      "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+      "normalizationRuleVersion": "1.0.0-apr2026"
+    }
+  }
+}

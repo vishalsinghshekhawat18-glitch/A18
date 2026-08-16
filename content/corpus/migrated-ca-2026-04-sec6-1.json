@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-04-sec6-1",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Indonesia Becomes 1st SE Asian Nation to Ban Social Media for Minors Under 16",
+  "summary": "Indonesia mandates age verification and account deactivation for children under 16 across YouTube, TikTok, Meta, X, and Roblox.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Indonesia enacted a nationwide ban on social media use for children under 16 to protect 70 million minors from cyberbullying, addiction, and scams, following Australia's Dec 2025 law."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026",
+      "April 2026"
+    ],
+    "date": "2026-04-15",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T15:38:14.789Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-04-sec6-1",
+      "sourceTitle": "Indonesia Becomes 1st SE Asian Nation to Ban Social Media for Minors Under 16",
+      "sourceChecksum": "45d59f8c43227f1941bcf3dff404660dffc26b794adef3c4410bf8c09ed3d11f",
+      "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+      "normalizationRuleVersion": "1.0.0-apr2026"
+    }
+  }
+}

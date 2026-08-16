@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-04-sec10-8",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Punjab Cabinet Approves 'Mukh Mantri Mawan Dheeyan Satkar Yojna' (₹9,300 Cr)",
+  "summary": "Punjab approves monthly financial aid of ₹1,000 for all eligible women aged 18+ and ₹1,500 for SC women.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Punjab Cabinet approved **Mukh Mantri Mawan Dheeyan Satkar Yojna**, providing monthly stipends of ₹1,000 (all women 18+) and ₹1,500 (SC women) with a ₹9,300 crore budget allocation."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec10",
+      "Current Affairs 2026",
+      "April 2026"
+    ],
+    "date": "2026-04-15",
+    "category": "SEC10",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T15:38:14.789Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-04-sec10-8",
+      "sourceTitle": "Punjab Cabinet Approves 'Mukh Mantri Mawan Dheeyan Satkar Yojna' (₹9,300 Cr)",
+      "sourceChecksum": "baaabe80a44e87a0421508ec8cd8efbce5283527cf172911b193938a70c49a3f",
+      "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+      "normalizationRuleVersion": "1.0.0-apr2026"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "migrated-ca-2026-04-sec5-2",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Google Cloud India AI Hub Announced in Visakhapatnam ($15 Billion Investment)",
+  "summary": "Google commits $15B over 5 years for a 1 GW AI & Data Centre Hub in Visakhapatnam across 600 acres with AdaniConneX and Airtel.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Union Minister Ashwini Vaishnaw and AP CM N. Chandrababu Naidu laid the foundation stone for the **'Google Cloud India AI Hub'** at Visakhapatnam."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Scale**: $15 billion investment over 5 years (2026-2030), India's single largest FDI since independence. Initial capacity: 1 GW across 600 acres.",
+        "**Infrastructure**: AdaniConneX handles data center/power; Airtel builds fiber networks and 3 subsea cable landing stations."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026",
+      "April 2026"
+    ],
+    "date": "2026-04-15",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T15:38:14.789Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-04-sec5-2",
+      "sourceTitle": "Google Cloud India AI Hub Announced in Visakhapatnam ($15 Billion Investment)",
+      "sourceChecksum": "4ea505a449d5d36279fc10940818478ac7f6c44698fb1917fe305ba290de724d",
+      "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+      "normalizationRuleVersion": "1.0.0-apr2026"
+    }
+  }
+}

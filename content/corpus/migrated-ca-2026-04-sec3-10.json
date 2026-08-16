@@ -1,0 +1,44 @@
+{
+  "id": "migrated-ca-2026-04-sec3-10",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "KreditBee Enters Unicorn Club with $280M Funding Round at $1.5B Valuation",
+  "summary": "Fintech lender KreditBee becomes India's 3rd unicorn of 2026 following Juspay and Neysa, securing $280M pre-IPO funding.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Bengaluru-based consumer lending platform **KreditBee** entered the Unicorn club ($1B+ valuation) following a $280 million pre-IPO funding round led by Motilal Oswal Alternates, Hornbill Capital, and MUFG-backed Dragon Funds."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**2026 Unicorn Tally**: 3rd startup to hit unicorn status in 2026 after **Juspay** (Jan 2026) and **Neysa** (Feb 2026)."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026",
+      "April 2026"
+    ],
+    "date": "2026-04-15",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T15:38:14.789Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-04-sec3-10",
+      "sourceTitle": "KreditBee Enters Unicorn Club with $280M Funding Round at $1.5B Valuation",
+      "sourceChecksum": "39598a7fab543c6748221e92bee73a9083150288628d17ce30a4fb4bcf67053d",
+      "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+      "normalizationRuleVersion": "1.0.0-apr2026"
+    }
+  }
+}

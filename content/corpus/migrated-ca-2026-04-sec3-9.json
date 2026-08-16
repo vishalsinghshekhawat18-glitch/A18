@@ -1,0 +1,46 @@
+{
+  "id": "migrated-ca-2026-04-sec3-9",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Proposed Revamped Business Correspondent (BC) Framework",
+  "summary": "RBI creates two distinct BC tiers — BC-BOs and BC-BTs — and abolishes Business Facilitators by September 30, 2026.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "RBI issued draft guidelines introducing a two-tier Business Correspondent structure to strengthen rural financial inclusion: **BC-Banking Outlets (BC-BOs)** and **BC-Banking Touchpoints (BC-BTs)**."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**BC-BOs**: Fixed-location units operating min 4 hours/day, 5 days/week, offering full services (account opening, cash, KYC) with fixed + variable pay.",
+        "**BC-BTs**: Flexible-hour touchpoints for small cash/remittances paid via variable incentives.",
+        "**Abolition of BFs**: Business Facilitators category abolished; all existing BFs must transition to BC structure by Sept 30, 2026."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026",
+      "April 2026"
+    ],
+    "date": "2026-04-15",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T15:38:14.789Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-04-sec3-9",
+      "sourceTitle": "RBI Proposed Revamped Business Correspondent (BC) Framework",
+      "sourceChecksum": "de7a708a353152e131c744c8973cc6c383a8a162767dead9da67e8579f6470a3",
+      "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+      "normalizationRuleVersion": "1.0.0-apr2026"
+    }
+  }
+}

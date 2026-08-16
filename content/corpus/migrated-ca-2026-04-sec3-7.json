@@ -1,0 +1,45 @@
+{
+  "id": "migrated-ca-2026-04-sec3-7",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Data: CASA Share Hits 2-Year Low of 37.9% & CD Ratio Reaches Record 83%",
+  "summary": "RBI banking data reveals CASA share fell to 37.9% in Dec 2025 as credit growth (13.5%) continued to outpace deposit growth (10.8%).",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "RBI released quarterly data showing CASA deposits dropped by 210 bps YoY to 37.9% in Dec 2025. Total bank credit reached **₹207.7 lakh crore** (+13.5% YoY) while aggregate deposits stood at **₹250.1 lakh crore** (+10.8% YoY)."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Credit-Deposit (CD) Ratio**: Reached an all-time high of **83%**.",
+        "**Impact**: CASA erosion raises banks' cost of funds, tightening margin management across commercial lenders."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026",
+      "April 2026"
+    ],
+    "date": "2026-04-15",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T15:38:14.789Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-04-sec3-7",
+      "sourceTitle": "RBI Data: CASA Share Hits 2-Year Low of 37.9% & CD Ratio Reaches Record 83%",
+      "sourceChecksum": "5347b210ad531cc0f957a697e8f951a38844e0da9e73013bb15965986fe425f1",
+      "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+      "normalizationRuleVersion": "1.0.0-apr2026"
+    }
+  }
+}

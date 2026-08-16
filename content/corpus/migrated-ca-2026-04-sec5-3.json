@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-04-sec5-3",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "ISRO Conducts 'Mission MITRA' Astronaut Evaluation in Leh, Ladakh",
+  "summary": "Human Space Flight Centre tests 4 Gaganyaan astronaut-designates under extreme altitude conditions in Ladakh.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "ISRO launched **Mission MITRA (Mapping of Interoperable Traits and Response Assessment)** at Leh (3,500m altitude) testing Gaganyaan astronaut-designates (Shukla, Nair, Krishnan, Pratap)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026",
+      "April 2026"
+    ],
+    "date": "2026-04-15",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T15:38:14.789Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-04-sec5-3",
+      "sourceTitle": "ISRO Conducts 'Mission MITRA' Astronaut Evaluation in Leh, Ladakh",
+      "sourceChecksum": "943155831d48c7f944a5c4315541defdb78dfe7c15945482dca1e7ecb738cef6",
+      "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+      "normalizationRuleVersion": "1.0.0-apr2026"
+    }
+  }
+}

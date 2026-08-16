@@ -1,0 +1,45 @@
+{
+  "id": "migrated-ca-2026-04-sec2-6",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "DPIIT Data: Singapore Top Source of FDI Equity Inflows in FY26 ($17.6 Billion)",
+  "summary": "India received $47.87B total FDI equity inflows in Apr-Dec FY26; Singapore accounts for 37% share followed by US (16%) and Mauritius (10%).",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "DPIIT released FDI statistics for April-December FY26 showing **Singapore maintained its position as the top source of FDI equity inflows to India** at $17.6 billion (37% of total)."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Top Sectors**: Computer Software & Hardware (22%, $10.7B) and Services Sector (18%).",
+        "**Top Recipient States**: Maharashtra ($15.38B) followed by Karnataka ($11.15B)."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026",
+      "April 2026"
+    ],
+    "date": "2026-04-15",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T15:38:14.789Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-04-sec2-6",
+      "sourceTitle": "DPIIT Data: Singapore Top Source of FDI Equity Inflows in FY26 ($17.6 Billion)",
+      "sourceChecksum": "391057777089aef83398f4634a90ad908018dec80708b231c738a536a27f7d3f",
+      "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+      "normalizationRuleVersion": "1.0.0-apr2026"
+    }
+  }
+}

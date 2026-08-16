@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-04-sec10-7",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "MeitY Approves 29 Proposals Worth ₹7,104 Cr Under ECMS Scheme",
+  "summary": "Electronics Components Manufacturing Scheme (ECMS) approves India's 1st Tantalum SMD passive plant, 1st Flexible PCB plant, and 1st Rare Earth Magnet facility.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "MeitY approved 29 proposals under ECMS involving ₹7,104 crore investment for ₹84,515 crore projected production, taking total ECMS approvals to 75 applications (₹61,671 crore investment)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec10",
+      "Current Affairs 2026",
+      "April 2026"
+    ],
+    "date": "2026-04-15",
+    "category": "SEC10",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T15:38:14.789Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-04-sec10-7",
+      "sourceTitle": "MeitY Approves 29 Proposals Worth ₹7,104 Cr Under ECMS Scheme",
+      "sourceChecksum": "8392440a8b9cf16b731fbc457bb6a63625414d6ae24ac396ff90b5c04d6b6cc3",
+      "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+      "normalizationRuleVersion": "1.0.0-apr2026"
+    }
+  }
+}

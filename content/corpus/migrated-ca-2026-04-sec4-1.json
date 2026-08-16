@@ -1,0 +1,45 @@
+{
+  "id": "migrated-ca-2026-04-sec4-1",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India Inducts 3rd Nuclear Ballistic Submarine 'INS Aridaman' — Maintains 3 SSBNs at Sea",
+  "summary": "India inducts INS Aridaman (7,000-tonne Arihant-class SSBN), becoming one of few nations maintaining 3 operational nuclear submarines at sea.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "India inducted **INS Aridaman**, its 3rd nuclear-powered ballistic missile submarine (SSBN) built under the Advanced Technology Vessel (ATV) project at Visakhapatnam, after INS Arihant (2016) and INS Arighat (2024)."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Armament**: 8 vertical launch tubes carrying K-15 (700 km) and K-4 (3,500 km) SLBMs.",
+        "**4th SSBN**: 'Arisudan' under construction, expected by 2027. Reinforces India's nuclear triad."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026",
+      "April 2026"
+    ],
+    "date": "2026-04-15",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T15:38:14.789Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-04-sec4-1",
+      "sourceTitle": "India Inducts 3rd Nuclear Ballistic Submarine 'INS Aridaman' — Maintains 3 SSBNs at Sea",
+      "sourceChecksum": "455d260aa279e5c3e453498d696d86ea07b7264b44da465248a0e92e9cc2fa3e",
+      "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+      "normalizationRuleVersion": "1.0.0-apr2026"
+    }
+  }
+}
