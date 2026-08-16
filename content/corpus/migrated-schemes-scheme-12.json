@@ -6,11 +6,16 @@
   "summary": "Schemes — Solarization of Centers & Street Lights: 1,500 centers, ₹1 Lakh each",
   "blocks": [
     {
-      "type": "bullet_list",
-      "items": [
-        "Benefits:",
-        " Empowerment and improved quality of life"
-      ]
+      "type": "paragraph",
+      "content": "Solarization of Centers & Street Lights: 1,500 centers, ₹1 Lakh each"
+    },
+    {
+      "type": "paragraph",
+      "content": "Benefits:"
+    },
+    {
+      "type": "paragraph",
+      "content": " Empowerment and improved quality of life"
     }
   ],
   "metadata": {

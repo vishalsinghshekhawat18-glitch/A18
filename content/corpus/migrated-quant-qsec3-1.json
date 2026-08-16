@@ -6,6 +6,32 @@
   "summary": "Quant — 3.1 Core Concepts & Formats",
   "blocks": [
     {
+      "type": "table",
+      "headers": [
+        "Concept / Metric",
+        "Format / Definition",
+        "Key Application"
+      ],
+      "rows": [
+        [
+          "Ratio & Proportion",
+          "a : b = c : d",
+          "Partnerships, Mixture & Alligation"
+        ],
+        [
+          "Percentage Scale",
+          "% Change = (Diff / Base) * 100",
+          "Profit-Loss, Interest & Data Interpretation"
+        ],
+        [
+          "Average / Mean",
+          "Sum of Values / Number of Values",
+          "Weighted Average, Age & Speed Questions"
+        ]
+      ],
+      "caption": "Core Quantitative Aptitude Concepts & Formats"
+    },
+    {
       "type": "bullet_list",
       "items": [
         "**Tabular DI**: read all headers first; missing values from given totals/ratios; cross-check row=column=grand total",

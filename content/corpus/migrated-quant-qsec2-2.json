@@ -6,6 +6,12 @@
   "summary": "Quant — 2.2 Arithmetic Shortcuts & Time-Work Tricks",
   "blocks": [
     {
+      "type": "formula",
+      "latex": "\\text{Combined Time } T = \\frac{A \\times B}{A + B}",
+      "caption": "2.2 Arithmetic Shortcuts & Time-Work Tricks",
+      "explanation": "Shortcut for 2 workers completing a job in A and B days."
+    },
+    {
       "type": "bullet_list",
       "items": [
         "**2-Year CI − SI Difference Shortcut:** $D_2 = P \\left(\\frac{R}{100}\\right)^2$",

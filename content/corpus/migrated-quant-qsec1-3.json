@@ -6,6 +6,12 @@
   "summary": "Quant — 1.3 Frustum & Combined Solids (Formulas & Method Worked Examples)",
   "blocks": [
     {
+      "type": "formula",
+      "latex": "V_{\\text{Frustum}} = \\frac{1}{3} \\pi h (R^2 + r^2 + Rr)",
+      "caption": "1.3 Frustum & Combined Solids (Formulas & Method Worked Examples)",
+      "explanation": "Volume formula for a cone frustum with radii R and r."
+    },
+    {
       "type": "bullet_list",
       "items": [
         "**Frustum Volume Formula & Method:** $V = \\frac{\\pi h}{3}(R^2 + r^2 + R r)$ | Slant Height $l = \\sqrt{h^2 + (R-r)^2}$",

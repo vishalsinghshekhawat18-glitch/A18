@@ -1048,6 +1048,254 @@ body {
   gap: 1.2rem;
 }
 
+.ca-card-grid-compact {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 250px;
+  gap: 1.2rem;
+  align-items: start;
+}
+
+@media (max-width: 900px) {
+  .ca-card-grid-compact {
+    grid-template-columns: 1fr;
+  }
+}
+
+.ca-main-col-compact {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.ca-side-col-compact,
+.ca-side-col {
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+  align-self: flex-start;
+}
+
+/* Compact Side Annotation Panels Overrides (Subordinate to Main News) */
+.ca-side-col-compact .block-key-concept,
+.ca-side-col .block-key-concept {
+  padding: 0.55rem 0.75rem;
+  margin-bottom: 0.35rem;
+  border-radius: 4px;
+  border-left: 3px solid var(--text-accent);
+  background-color: var(--bg-accent-subtle);
+  font-size: 0.82rem;
+  line-height: 1.35;
+}
+
+.ca-side-col-compact .block-exam-trap,
+.ca-side-col .block-exam-trap {
+  padding: 0.55rem 0.75rem;
+  margin-bottom: 0.35rem;
+  border-radius: 4px;
+  border: 1px solid var(--border-warning);
+  border-left: 4px solid var(--border-warning);
+  background-color: var(--bg-warning-subtle);
+  font-size: 0.82rem;
+  line-height: 1.35;
+}
+
+.ca-side-col-compact .key-concept-title,
+.ca-side-col .key-concept-title,
+.ca-side-col-compact .exam-trap-header,
+.ca-side-col .exam-trap-header {
+  font-size: 0.74rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 0.2rem;
+}
+
+.ca-side-col-compact p,
+.ca-side-col-compact ul,
+.ca-side-col-compact li,
+.ca-side-col-compact .exam-trap-details,
+.ca-side-col p,
+.ca-side-col ul,
+.ca-side-col li,
+.ca-side-col .exam-trap-details {
+  font-size: 0.82rem;
+  line-height: 1.35;
+  margin: 0;
+  padding: 0;
+}
+
+/* ==========================================================================
+   SPECIALIZED CONTENT SURFACES LAYOUTS (Bucket 4 Rebuild)
+   ========================================================================== */
+
+/* 1. Scheme Reference 2-Column Grid Layout */
+.scheme-container-grid-layout,
+.static-ga-grid-container,
+.quant-studio-grid-container,
+.pyq-grid-container {
+  display: flex;
+  gap: 2.5rem;
+  align-items: flex-start;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.scheme-main-content,
+.static-ga-main-content,
+.quant-studio-main,
+.pyq-main-content {
+  flex: 1;
+  max-width: 720px;
+  min-width: 0;
+}
+
+.scheme-toc-aside,
+.static-ga-toc-aside,
+.quant-toc-aside,
+.pyq-toc-aside {
+  width: 260px;
+  position: sticky;
+  top: 2rem;
+  flex-shrink: 0;
+}
+
+@media (max-width: 900px) {
+  .scheme-toc-aside,
+  .static-ga-toc-aside,
+  .quant-toc-aside,
+  .pyq-toc-aside {
+    display: none;
+  }
+}
+
+.scheme-category-chip {
+  background-color: var(--bg-accent-subtle);
+  color: var(--text-accent);
+  border: 1px solid var(--border-subtle);
+  padding: 0.2rem 0.6rem;
+  border-radius: 12px;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.scheme-metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 0.8rem;
+  margin: 1.2rem 0 1.8rem 0;
+}
+
+.scheme-metric-card {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-left: 3px solid var(--text-accent);
+  padding: 0.75rem 1rem;
+  border-radius: 4px;
+}
+
+.metric-label {
+  display: block;
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--text-secondary);
+  letter-spacing: 0.04em;
+  font-family: var(--font-sans);
+  margin-bottom: 0.2rem;
+}
+
+.metric-value {
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.scheme-section-title,
+.static-ga-section-label,
+.pyq-section-header {
+  font-family: var(--font-sans);
+  font-size: 0.88rem;
+  font-weight: 700;
+  color: var(--text-secondary);
+  letter-spacing: 0.04em;
+  margin: 1.5rem 0 0.8rem 0;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px dashed var(--border-subtle);
+}
+
+/* 2. Static GA Regulatory Apex Body Layout */
+.static-ga-apex-badge {
+  background-color: var(--bg-accent-subtle);
+  color: var(--text-accent);
+  border: 1px solid var(--border-subtle);
+  padding: 0.3rem 0.8rem;
+  border-radius: 14px;
+  font-size: 0.85rem;
+  font-weight: 700;
+  font-family: var(--font-sans);
+}
+
+/* 3. Quant Problem Studio Workspace Toolbar */
+.quant-studio-toolbar {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  margin-top: 1rem;
+  padding-top: 0.8rem;
+  border-top: 1px solid var(--border-subtle);
+  flex-wrap: wrap;
+}
+
+.toolbar-label {
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--text-secondary);
+  font-family: var(--font-sans);
+}
+
+.toolbar-btn-group {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.toolbar-btn {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  color: var(--text-primary);
+  padding: 0.35rem 0.75rem;
+  border-radius: 4px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  font-family: var(--font-sans);
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.toolbar-btn.active,
+.toolbar-btn:hover {
+  background-color: var(--bg-accent-subtle);
+  border-color: var(--text-accent);
+  color: var(--text-accent);
+}
+
+/* 4. Table Mobile Overflow Fix (<480px) */
+.block-table-container {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin-bottom: 1.5rem;
+  border-radius: 4px;
+  border: 1px solid var(--border-subtle);
+}
+
+.table-custom {
+  width: 100%;
+  min-width: 440px;
+  border-collapse: collapse;
+}
+
 /* CA Sidebar Month Grouping Layout */
 .ca-sidebar-month-groups {
   display: flex;

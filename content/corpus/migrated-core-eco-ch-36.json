@@ -6,6 +6,12 @@
   "summary": "Basel Accords establish international capital adequacy norms, requiring banks to hold capital reserves proportioned to risk-weighted assets.",
   "blocks": [
     {
+      "type": "formula",
+      "latex": "CRAR = \\frac{\\text{Tier I Capital} + \\text{Tier II Capital}}{\\text{Risk-Weighted Assets}} \\times 100",
+      "caption": "36. Basel Accords & Risk-Weighted Asset Framework",
+      "explanation": "Basel III Capital Adequacy Ratio requirement (minimum 9% for Indian Banks)."
+    },
+    {
       "type": "key_concept",
       "title": "First-Principles Core Truth",
       "summary": "Basel Accords establish international capital adequacy norms, requiring banks to hold capital reserves proportioned to risk-weighted assets."

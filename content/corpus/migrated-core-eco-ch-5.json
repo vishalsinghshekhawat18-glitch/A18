@@ -6,6 +6,12 @@
   "summary": "GVA at Basic Prices includes production taxes and excludes product subsidies, serving as the bridge between producer factor costs and consumer market prices under SNA 2008.",
   "blocks": [
     {
+      "type": "formula",
+      "latex": "GVA_{\\text{Basic Prices}} = GVA_{\\text{Factor Cost}} + \\text{Production Taxes} - \\text{Production Subsidies}",
+      "caption": "5. Factor Cost, Market Price & GVA at Basic Prices",
+      "explanation": "Relation between Factor Cost, Basic Prices, and Market Prices."
+    },
+    {
       "type": "key_concept",
       "title": "First-Principles Core Truth",
       "summary": "GVA at Basic Prices includes production taxes and excludes product subsidies, serving as the bridge between producer factor costs and consumer market prices under SNA 2008."

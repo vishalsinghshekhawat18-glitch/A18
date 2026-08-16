@@ -6,11 +6,16 @@
   "summary": "Schemes — Parks: 7 locations in Tamil Nadu, Telangana, Karnataka, Maharashtra, Gujarat, Madhya",
   "blocks": [
     {
-      "type": "bullet_list",
-      "items": [
-        "Pradesh, and Uttar Pradesh.",
-        "o First Park: Virudhunagar, Tamil Nadu"
-      ]
+      "type": "paragraph",
+      "content": "Parks: 7 locations in Tamil Nadu, Telangana, Karnataka, Maharashtra, Gujarat, Madhya"
+    },
+    {
+      "type": "paragraph",
+      "content": "Pradesh, and Uttar Pradesh."
+    },
+    {
+      "type": "paragraph",
+      "content": "o First Park: Virudhunagar, Tamil Nadu"
     }
   ],
   "metadata": {

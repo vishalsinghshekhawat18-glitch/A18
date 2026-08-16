@@ -6,6 +6,12 @@
   "summary": "Real GDP adjusts nominal output for inflation using constant base year prices, while the GDP Deflator measures economy-wide price changes across all domestic output.",
   "blocks": [
     {
+      "type": "formula",
+      "latex": "GDP\\ Deflator = \\frac{\\text{Nominal GDP}}{\\text{Real GDP}} \\times 100",
+      "caption": "7. Real vs Nominal GDP, GDP Deflator & Green GDP",
+      "explanation": "Equation for measuring economy-wide price inflation."
+    },
+    {
       "type": "key_concept",
       "title": "First-Principles Core Truth",
       "summary": "Real GDP adjusts nominal output for inflation using constant base year prices, while the GDP Deflator measures economy-wide price changes across all domestic output."

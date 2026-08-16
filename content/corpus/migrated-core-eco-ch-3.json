@@ -6,6 +6,12 @@
   "summary": "Income flows continuously between economic sectors through real factor/goods flows and counter-balancing monetary payments, governed by the identity of injections and leakages.",
   "blocks": [
     {
+      "type": "formula",
+      "latex": "Y = C + I + G + (X - M)",
+      "caption": "3. Circular Flow of Income, Factor Payments & Leakages",
+      "explanation": "Circular flow equation representing Aggregate Demand / National Output."
+    },
+    {
       "type": "key_concept",
       "title": "First-Principles Core Truth",
       "summary": "Income flows continuously between economic sectors through real factor/goods flows and counter-balancing monetary payments, governed by the identity of injections and leakages."

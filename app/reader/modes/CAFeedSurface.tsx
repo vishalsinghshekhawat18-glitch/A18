@@ -1,9 +1,10 @@
-import React, { useEffect, useRef, useMemo } from 'react';
+import React, { useState, useEffect, useRef, useMemo } from 'react';
 import { KnowledgeItem, SemanticBlock } from '../../../schema/knowledge-item';
 import { BlockRenderer } from '../../components/renderers/BlockRenderer';
 import { formatInlineText } from '../../components/renderers/formatInline';
 import { RelationshipLinks } from '../RelationshipLinks';
 import { isItemInSubject, groupCAItemsByMonth } from '../../navigation/subjectMapper';
+import { loadAllCorpusItemsForSearch } from '../../contentLoader';
 
 interface Props {
   activeItemId: string;
@@ -18,10 +19,23 @@ export const CAFeedSurface: React.FC<Props> = ({
   fontSize,
   onNavigateItem
 }) => {
+  const [fullCaNotes, setFullCaNotes] = useState<KnowledgeItem[]>([]);
+
+  useEffect(() => {
+    let isMounted = true;
+    loadAllCorpusItemsForSearch().then(fullItems => {
+      if (isMounted) {
+        setFullCaNotes(fullItems.filter(i => isItemInSubject(i, 'current-affairs')));
+      }
+    });
+    return () => { isMounted = false; };
+  }, []);
+
   // Extract all Current Affairs notes for continuous feed stream (505 canonical items)
   const caNotes = useMemo(() => {
+    if (fullCaNotes.length > 0) return fullCaNotes;
     return allItems.filter(i => isItemInSubject(i, 'current-affairs'));
-  }, [allItems]);
+  }, [allItems, fullCaNotes]);
 
   // Dynamically group notes into month/year sections (Newest month first)
   const monthGroups = useMemo(() => {
@@ -110,15 +124,9 @@ export const CAFeedSurface: React.FC<Props> = ({
 
                   const mainBlocks = item.blocks.filter(
                     (b: SemanticBlock) =>
-                      b.type === 'paragraph' ||
-                      b.type === 'bullet_list' ||
-                      b.type === 'table' ||
-                      b.type === 'comparison' ||
-                      b.type === 'heading' ||
-                      b.type === 'statistic' ||
-                      b.type === 'timeline'
+                      b.type !== 'key_concept' && b.type !== 'exam_trap' && b.type !== 'quote'
                   );
-                  const annotationBlocks = item.blocks.filter(
+                  const sideBlocks = item.blocks.filter(
                     (b: SemanticBlock) =>
                       b.type === 'key_concept' || b.type === 'exam_trap' || b.type === 'quote'
                   );
@@ -148,21 +156,25 @@ export const CAFeedSurface: React.FC<Props> = ({
                         )}
                       </div>
 
-                      {/* Main News Content */}
-                      <div className="ca-main-news-content">
-                        {mainBlocks.map((block: SemanticBlock, bIdx: number) => (
-                          <BlockRenderer key={bIdx} block={block} blockIndex={bIdx} />
-                        ))}
-                      </div>
-
-                      {/* Supporting Annotation Blocks Placed BELOW Main News Item */}
-                      {annotationBlocks.length > 0 && (
-                        <div className="ca-bottom-annotations-container">
-                          {annotationBlocks.map((block: SemanticBlock, bIdx: number) => (
-                            <BlockRenderer key={bIdx} block={block} blockIndex={100 + bIdx} />
+                      {/* Adaptive Grid Layout */}
+                      <div
+                        className="ca-card-grid-compact"
+                        style={{ gridTemplateColumns: sideBlocks.length > 0 ? undefined : '1fr' }}
+                      >
+                        <div className="ca-main-col-compact">
+                          {mainBlocks.map((block: SemanticBlock, bIdx: number) => (
+                            <BlockRenderer key={bIdx} block={block} blockIndex={bIdx} />
                           ))}
                         </div>
-                      )}
+
+                        {sideBlocks.length > 0 && (
+                          <aside className="ca-side-col-compact">
+                            {sideBlocks.map((block: SemanticBlock, bIdx: number) => (
+                              <BlockRenderer key={bIdx} block={block} blockIndex={100 + bIdx} />
+                            ))}
+                          </aside>
+                        )}
+                      </div>
 
                       {/* Relationships if present */}
                       <RelationshipLinks

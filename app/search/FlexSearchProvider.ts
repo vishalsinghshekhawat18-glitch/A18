@@ -5,6 +5,8 @@ import { ISearchService, SearchFilters, SearchResult } from './SearchService';
 export class FlexSearchProvider implements ISearchService {
   private index: any;
   private itemMap: Map<string, KnowledgeItem> = new Map();
+  private isIndexed: boolean = false;
+  private pendingItems: KnowledgeItem[] = [];
 
   constructor() {
     this.index = new FlexSearch.Document({
@@ -17,8 +19,16 @@ export class FlexSearchProvider implements ISearchService {
   }
 
   public indexItems(items: KnowledgeItem[]): void {
+    // Store reference to items for deferred indexing on first search
+    this.pendingItems = items;
+    this.isIndexed = false;
+  }
+
+  public ensureIndexed(): void {
+    if (this.isIndexed || this.pendingItems.length === 0) return;
+
     this.clear();
-    for (const item of items) {
+    for (const item of this.pendingItems) {
       this.itemMap.set(item.id, item);
       const bodyText = item.blocks
         .map(b => ('content' in b ? b.content : 'text' in b ? b.text : ''))
@@ -33,10 +43,15 @@ export class FlexSearchProvider implements ISearchService {
         tags: tagsText
       });
     }
+
+    this.isIndexed = true;
   }
 
   public search(query: string, filters?: SearchFilters): SearchResult[] {
     if (!query.trim()) return [];
+
+    // Lazy-build index on first actual search interaction
+    this.ensureIndexed();
 
     const rawResults = this.index.search(query, { limit: 20 });
     const matchedIds = new Set<string>();
@@ -65,5 +80,6 @@ export class FlexSearchProvider implements ISearchService {
 
   public clear(): void {
     this.itemMap.clear();
+    this.isIndexed = false;
   }
 }

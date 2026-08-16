@@ -6,6 +6,12 @@
   "summary": "Taxation divides into progressive direct taxes on income and regressive indirect taxes on consumption, unified by the 101st Amendment GST framework.",
   "blocks": [
     {
+      "type": "formula",
+      "latex": "GST_{\\text{Payable}} = \\text{Output Tax Liability} - \\text{Input Tax Credit (ITC)}",
+      "caption": "43. Taxation Architecture: Direct vs. Indirect Taxes & GST",
+      "explanation": "Net indirect tax payable under GST framework."
+    },
+    {
       "type": "key_concept",
       "title": "First-Principles Core Truth",
       "summary": "Taxation divides into progressive direct taxes on income and regressive indirect taxes on consumption, unified by the 101st Amendment GST framework."

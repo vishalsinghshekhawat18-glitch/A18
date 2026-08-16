@@ -6,6 +6,12 @@
   "summary": "The Union Budget divides into Revenue and Capital accounts, measuring fiscal health through Revenue, Fiscal, and Primary Deficits.",
   "blocks": [
     {
+      "type": "formula",
+      "latex": "Fiscal\\ Deficit = \\text{Total Expenditure} - (\\text{Revenue Receipts} + \\text{Non-Debt Capital Receipts})",
+      "caption": "42. Union Budget Architecture & Fiscal Deficit Equations",
+      "explanation": "Government borrowing requirement for the financial year."
+    },
+    {
       "type": "key_concept",
       "title": "First-Principles Core Truth",
       "summary": "The Union Budget divides into Revenue and Capital accounts, measuring fiscal health through Revenue, Fiscal, and Primary Deficits."

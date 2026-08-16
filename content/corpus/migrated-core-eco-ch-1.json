@@ -6,6 +6,12 @@
   "summary": "Economics is the study of how society manages its scarce resources to satisfy unlimited human wants through optimal choice.",
   "blocks": [
     {
+      "type": "formula",
+      "latex": "Opportunity\\ Cost = \\text{Return on Next Best Alternative} - \\text{Return on Chosen Option}",
+      "caption": "1. What is Economics? Scarcity, Choice & Opportunity Cost",
+      "explanation": "Formula for calculating trade-off costs in allocation decisions."
+    },
+    {
       "type": "key_concept",
       "title": "First-Principles Core Truth",
       "summary": "Economics is the study of how society manages its scarce resources to satisfy unlimited human wants through optimal choice."

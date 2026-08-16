@@ -6,6 +6,12 @@
   "summary": "National income can be calculated through production (value added), factor income generation, or final expenditure, yielding identical theoretical totals.",
   "blocks": [
     {
+      "type": "formula",
+      "latex": "GDP_{\\text{MP}} = C + I + G + (X - M)",
+      "caption": "6. Methods of Calculating National Income & Sectoral Scrutiny",
+      "explanation": "Expenditure approach to National Income accounting."
+    },
+    {
       "type": "key_concept",
       "title": "First-Principles Core Truth",
       "summary": "National income can be calculated through production (value added), factor income generation, or final expenditure, yielding identical theoretical totals."

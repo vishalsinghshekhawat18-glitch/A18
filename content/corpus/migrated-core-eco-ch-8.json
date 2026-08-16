@@ -6,6 +6,12 @@
   "summary": "Poverty is a multidimensional deprivation of basic human capabilities, measured across consumption thresholds, income gaps, and living standard indicators.",
   "blocks": [
     {
+      "type": "formula",
+      "latex": "Poverty\\ Gap\\ Index = \\frac{1}{N} \\sum_{i=1}^{q} \\left( \\frac{z - y_i}{z} \\right)",
+      "caption": "8. What is Poverty? Dimensions, SDG Linkage & Poverty Gap",
+      "explanation": "Intensity of poverty depth below the poverty line (z)."
+    },
+    {
       "type": "key_concept",
       "title": "First-Principles Core Truth",
       "summary": "Poverty is a multidimensional deprivation of basic human capabilities, measured across consumption thresholds, income gaps, and living standard indicators."

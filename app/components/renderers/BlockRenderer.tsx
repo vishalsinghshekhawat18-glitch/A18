@@ -81,31 +81,29 @@ export const BlockRenderer: React.FC<Props> = ({ block, blockIndex = 0 }) => {
     }
     case 'exam_trap': {
       return (
-        <div id={blockId} className="block-exam-trap block-annotation-compact">
-          <div className="annotation-icon">⚠️</div>
-          <div className="annotation-content">
-            <span>{formatInlineText(block.content)}</span>
-            {block.trapDetails && (
-              <div className="exam-trap-details">{formatInlineText(block.trapDetails)}</div>
-            )}
+        <div id={blockId} className="block-exam-trap">
+          <div className="exam-trap-header">
+            ⚠️ {formatInlineText(block.title || 'Exam Trap / Common Misconception')}
           </div>
+          <div>{formatInlineText(block.content)}</div>
+          {block.trapDetails && (
+            <div className="exam-trap-details">{formatInlineText(block.trapDetails)}</div>
+          )}
         </div>
       );
     }
     case 'key_concept': {
       return (
-        <div id={blockId} className="block-key-concept block-annotation-compact">
-          <div className="annotation-icon">💡</div>
-          <div className="annotation-content">
-            <span>{formatInlineText(block.summary)}</span>
-            {block.details && block.details.length > 0 && (
-              <ul className="annotation-details-list">
-                {block.details.map((d, i) => (
-                  <li key={i}>{formatInlineText(d)}</li>
-                ))}
-              </ul>
-            )}
-          </div>
+        <div id={blockId} className="block-key-concept">
+          <div className="key-concept-title">💡 {formatInlineText(block.title)}</div>
+          <div style={{ fontWeight: 500 }}>{formatInlineText(block.summary)}</div>
+          {block.details && block.details.length > 0 && (
+            <ul style={{ marginTop: '0.5rem', paddingLeft: '1.2rem', fontSize: '0.95rem' }}>
+              {block.details.map((d, i) => (
+                <li key={i}>{formatInlineText(d)}</li>
+              ))}
+            </ul>
+          )}
         </div>
       );
     }
@@ -114,35 +112,35 @@ export const BlockRenderer: React.FC<Props> = ({ block, blockIndex = 0 }) => {
         <div style={{
           backgroundColor: 'var(--bg-card)',
           border: '1px solid var(--border-subtle)',
-          padding: '0.8rem 1rem',
+          padding: '1rem',
           borderRadius: '6px',
-          marginBottom: '1rem',
+          marginBottom: '1.4rem',
           display: 'flex',
           alignItems: 'center',
           justifyContent: 'space-between'
         }}>
           <div>
-            <div style={{ fontFamily: 'var(--font-ui)', fontSize: '0.78rem', color: 'var(--text-muted)', textTransform: 'uppercase' }}>
+            <div style={{ fontFamily: 'var(--font-ui)', fontSize: '0.8rem', color: 'var(--text-muted)', textTransform: 'uppercase' }}>
               {block.metric}
             </div>
-            <div style={{ fontSize: '1.3rem', fontWeight: 'bold', color: 'var(--text-accent)' }}>
-              {block.value} {block.unit && <span style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>({block.unit})</span>}
+            <div style={{ fontSize: '1.5rem', fontWeight: 'bold', color: 'var(--text-accent)' }}>
+              {block.value} {block.unit && <span style={{ fontSize: '0.9rem', color: 'var(--text-secondary)' }}>({block.unit})</span>}
             </div>
-            {block.context && <div style={{ fontSize: '0.82rem', color: 'var(--text-secondary)' }}>{block.context}</div>}
+            {block.context && <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>{block.context}</div>}
           </div>
-          {block.date && <div style={{ fontSize: '0.78rem', color: 'var(--text-muted)' }}>{block.date}</div>}
+          {block.date && <div style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>{block.date}</div>}
         </div>
       );
     }
     case 'timeline': {
       return (
         <div className="block-timeline">
-          {block.title && <div style={{ fontWeight: 'bold', marginBottom: '0.6rem' }}>{block.title}</div>}
+          {block.title && <div style={{ fontWeight: 'bold', marginBottom: '0.8rem' }}>{block.title}</div>}
           {block.events.map((ev, idx) => (
             <div key={idx} className="timeline-event">
               <div className="timeline-date">{ev.date}</div>
               <div className="timeline-title">{ev.title}</div>
-              <div style={{ fontSize: '0.88rem', color: 'var(--text-secondary)' }}>{ev.description}</div>
+              <div style={{ fontSize: '0.95rem', color: 'var(--text-secondary)' }}>{ev.description}</div>
             </div>
           ))}
         </div>
@@ -150,13 +148,16 @@ export const BlockRenderer: React.FC<Props> = ({ block, blockIndex = 0 }) => {
     }
     case 'quote': {
       return (
-        <div id={blockId} className="block-quote block-annotation-compact">
-          <div className="annotation-icon">❓</div>
-          <div className="annotation-content">
-            <span className="annotation-quote-text">"{formatInlineText(block.quote)}"</span>
-            {block.author && <span className="annotation-author"> — {formatInlineText(block.author)}</span>}
-          </div>
-        </div>
+        <blockquote style={{
+          borderLeft: '4px solid var(--border-strong)',
+          paddingLeft: '1rem',
+          fontStyle: 'italic',
+          color: 'var(--text-secondary)',
+          margin: '1.5rem 0'
+        }}>
+          "{block.quote}"
+          {block.author && <div style={{ fontSize: '0.85rem', fontWeight: 'bold', marginTop: '0.4rem', fontStyle: 'normal' }}>— {block.author}</div>}
+        </blockquote>
       );
     }
     default:

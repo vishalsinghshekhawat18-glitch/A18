@@ -6,6 +6,12 @@
   "summary": "Capital market instruments encompass ownership equity, fixed-income debt securities, and risk-hedging derivative contracts.",
   "blocks": [
     {
+      "type": "formula",
+      "latex": "Current\\ Yield = \\frac{\\text{Annual Coupon Payment}}{\\text{Current Bond Price}} \\times 100",
+      "caption": "40. Capital Market Instruments: Equities, Bonds & Derivatives",
+      "explanation": "Inverse relationship equation between bond price and yield."
+    },
+    {
       "type": "key_concept",
       "title": "First-Principles Core Truth",
       "summary": "Capital market instruments encompass ownership equity, fixed-income debt securities, and risk-hedging derivative contracts."

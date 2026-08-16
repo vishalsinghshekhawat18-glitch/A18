@@ -16,5 +16,6 @@
     "noUnusedParameters": true,
     "noImplicitReturns": true
   },
-  "include": ["app", "schema", "scripts", "content"]
+  "include": ["app", "schema", "scripts", "content"],
+  "exclude": ["scripts/migration/archive"]
 }

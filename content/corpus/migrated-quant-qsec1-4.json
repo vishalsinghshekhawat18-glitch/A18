@@ -6,6 +6,12 @@
   "summary": "Quant — 1.4 Mensuration Percentage Scale Shortcuts & Traps",
   "blocks": [
     {
+      "type": "formula",
+      "latex": "\\% \\Delta Area = x + y + \\frac{xy}{100}",
+      "caption": "1.4 Mensuration Percentage Scale Shortcuts & Traps",
+      "explanation": "Successive percentage change formula for 2D area scaling."
+    },
+    {
       "type": "bullet_list",
       "items": [
         "**2D Area Percentage Change Shortcut:** If linear dimension increases by $+x\\%$, Area increases by **$\\left(2x + \\frac{x^2}{100}\\right)\\%$** (using successive percentage formula $x + y + \\frac{xy}{100}$).",

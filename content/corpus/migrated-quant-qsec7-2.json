@@ -6,6 +6,12 @@
   "summary": "Quant — 7.2 Permutation & Combination Shortcuts",
   "blocks": [
     {
+      "type": "formula",
+      "latex": "P(n, r) = \\frac{n!}{(n - r)!}, \\quad C(n, r) = \\frac{n!}{r!(n - r)!}",
+      "caption": "7.2 Permutation & Combination Shortcuts",
+      "explanation": "Formulas for Permutation (arrangements) and Combination (selections)."
+    },
+    {
       "type": "bullet_list",
       "items": [
         "**Handshake & Tournament Formula & Method:** Total handshakes/matches among $n$ people = ${}^n\\text{C}_2 = \\frac{n(n-1)}{2}$.",

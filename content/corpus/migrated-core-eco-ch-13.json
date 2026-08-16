@@ -6,6 +6,12 @@
   "summary": "Unemployment measures unutilized labor supply, categorized into structural and disguised forms, and measured by NSO using Usual and Current Activity Statuses.",
   "blocks": [
     {
+      "type": "formula",
+      "latex": "Unemployment\\ Rate = \\frac{\\text{Unemployed Persons}}{\\text{Labor Force}} \\times 100",
+      "caption": "13. Types & Measurement of Unemployment (PLFS / NSO Framework)",
+      "explanation": "PLFS/NSO standard measure of labor underutilization."
+    },
+    {
       "type": "key_concept",
       "title": "First-Principles Core Truth",
       "summary": "Unemployment measures unutilized labor supply, categorized into structural and disguised forms, and measured by NSO using Usual and Current Activity Statuses."

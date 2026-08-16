@@ -6,6 +6,12 @@
   "summary": "Money supply measures the total stock of monetary assets available in an economy, categorized by RBI across liquidity and broadness spectrums.",
   "blocks": [
     {
+      "type": "formula",
+      "latex": "M3 = M1 + \\text{Time Deposits with Commercial Banks}",
+      "caption": "32. Money Supply Aggregates (M0, M1, M2, M3, M4)",
+      "explanation": "Broad Money aggregate (M3) defined by RBI."
+    },
+    {
       "type": "key_concept",
       "title": "First-Principles Core Truth",
       "summary": "Money supply measures the total stock of monetary assets available in an economy, categorized by RBI across liquidity and broadness spectrums."

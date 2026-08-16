@@ -9,49 +9,11 @@ import { ReaderShell } from './reader/ReaderShell';
 import { ReadingControls, ReadingTheme } from './reader/ReadingControls';
 import { SearchModal } from './search/SearchModal';
 import { FlexSearchProvider } from './search/FlexSearchProvider';
-
-const demoModules = import.meta.glob('../content/demo/*.json', { eager: true });
-const pilotModules = import.meta.glob('../content/pilot/*.json', { eager: true });
-const corpusModules = import.meta.glob('../content/corpus/*.json', { eager: true });
-
-// Raw concatenated modules
-const rawModulesList: KnowledgeItem[] = [
-  ...Object.values(corpusModules).map((mod: any) => mod.default || mod),
-  ...Object.values(pilotModules).map((mod: any) => mod.default || mod),
-  ...Object.values(demoModules).map((mod: any) => mod.default || mod),
-];
-
-/**
- * Deterministic Deduplication Layer
- * Maps legacy (sourceSystem + sourceId) to exactly ONE canonical KnowledgeItem.
- * Ensures duplicate pilot/demo copies do not appear as independent entries.
- */
-function deduplicateKnowledgeItems(rawItems: KnowledgeItem[]): KnowledgeItem[] {
-  const hasCorpus = rawItems.some(i => i.id.startsWith('migrated-'));
-  if (hasCorpus) {
-    // Isolate canonical migrated corpus items (926 total) and filter out synthetic demo/pilot duplicates
-    return rawItems.filter(i => i.id.startsWith('migrated-'));
-  }
-
-  const map = new Map<string, KnowledgeItem>();
-  for (const item of rawItems) {
-    const sys = item.metadata?.provenance?.sourceSystem || 'unknown';
-    const id = item.metadata?.provenance?.sourceId || item.id;
-    const canonicalKey = `${sys}::${id}`;
-
-    if (!map.has(canonicalKey)) {
-      map.set(canonicalKey, item);
-    }
-  }
-
-  return Array.from(map.values());
-}
+import { corpusStubs, loadFullKnowledgeItem, loadAllCorpusItemsForSearch } from './contentLoader';
 
 export const App: React.FC = () => {
-  // Deduplicated canonical corpus map
-  const allCorpusMap = useMemo(() => {
-    return deduplicateKnowledgeItems(rawModulesList);
-  }, []);
+  // Lightweight corpus stubs for Home Page grid & Sidebar navigation
+  const allCorpusMap = corpusStubs;
 
   // Routing State & Reading Controls State
   const [routeState, setRouteState] = useState<RouteState>(() => parseHash(window.location.hash));
@@ -62,6 +24,10 @@ export const App: React.FC = () => {
   const [lastOpenedItemId, setLastOpenedItemId] = useState<string | null>(() => {
     return localStorage.getItem('bcc_last_opened_item');
   });
+
+  // Active loaded item with full blocks
+  const [activeFullItem, setActiveFullItem] = useState<KnowledgeItem | null>(null);
+  const [isLoadingContent, setIsLoadingContent] = useState<boolean>(false);
 
   // Apply theme to document root
   useEffect(() => {
@@ -84,6 +50,15 @@ export const App: React.FC = () => {
     return provider;
   }, [allCorpusMap]);
 
+  // Lazy-load search items when search modal opens
+  useEffect(() => {
+    if (isSearchOpen) {
+      loadAllCorpusItemsForSearch().then(fullItems => {
+        searchService.indexItems(fullItems);
+      });
+    }
+  }, [isSearchOpen, searchService]);
+
   // Active Item Resolution
   const resolveItemForSubject = (subId: string): KnowledgeItem => {
     const matched = allCorpusMap.filter(i => isItemInSubject(i, subId));
@@ -97,12 +72,19 @@ export const App: React.FC = () => {
     if (routeState.type === 'subject' && routeState.subjectId) {
       return resolveItemForSubject(routeState.subjectId).id;
     }
-    return allCorpusMap[0].id;
+    return allCorpusMap[0]?.id || 'migrated-core-eco-ch-1';
   }, [routeState, allCorpusMap]);
 
-  const activeItem = useMemo(() => {
-    return allCorpusMap.find(i => i.id === activeItemId) || allCorpusMap[0];
-  }, [allCorpusMap, activeItemId]);
+  // Lazy-load full active item on demand
+  useEffect(() => {
+    if (routeState.type !== 'home' && activeItemId) {
+      setIsLoadingContent(true);
+      loadFullKnowledgeItem(activeItemId).then(item => {
+        setActiveFullItem(item);
+        setIsLoadingContent(false);
+      });
+    }
+  }, [activeItemId, routeState.type]);
 
   // Navigation Handlers
   const handleGoHome = () => {
@@ -132,12 +114,14 @@ export const App: React.FC = () => {
     return () => window.removeEventListener('keydown', handleKeyDown);
   }, []);
 
+  const fallbackActiveItem = activeFullItem || allCorpusMap.find(i => i.id === activeItemId) || allCorpusMap[0];
+
   return (
     <div className="app-container">
       <NavSidebar
         items={allCorpusMap}
         activeItemId={activeItemId}
-        activeSubjectId={routeState.type === 'subject' ? routeState.subjectId : activeItem.domain}
+        activeSubjectId={routeState.type === 'subject' ? routeState.subjectId : fallbackActiveItem?.domain}
         currentNavDepth={routeState.type}
         onGoHome={handleGoHome}
         onSelectSubject={handleSelectSubject}
@@ -164,10 +148,20 @@ export const App: React.FC = () => {
             onSelectSubject={handleSelectSubject}
             onSelectItem={handleSelectItem}
           />
+        ) : isLoadingContent || !activeFullItem ? (
+          /* Loading Indicator State */
+          <div className="reader-loading-container" style={{ padding: '3rem 1.5rem', textAlign: 'center' }}>
+            <div style={{ fontSize: '1.2rem', fontWeight: 600, color: 'var(--text-accent)', marginBottom: '0.5rem' }}>
+              📖 Loading Briefing...
+            </div>
+            <div style={{ fontSize: '0.9rem', color: 'var(--text-muted)' }}>
+              Fetching study module on demand
+            </div>
+          </div>
         ) : (
-          /* Level 2 & 3: Direct Content Surface Rendering Across All Subjects (Zero Intermediate Index Cards) */
+          /* Level 2 & 3: Direct Content Surface Rendering Across All Subjects */
           <ReaderShell
-            item={activeItem}
+            item={activeFullItem}
             allItems={allCorpusMap}
             fontSize={fontSize}
             onNavigateItem={handleSelectItem}

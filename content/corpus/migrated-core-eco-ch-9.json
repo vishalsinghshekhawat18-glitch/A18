@@ -6,6 +6,12 @@
   "summary": "The Lorenz Curve graphs income distribution against perfect equality, while the Gini Coefficient quantifies economic inequality from 0 (equality) to 1 (monopoly).",
   "blocks": [
     {
+      "type": "formula",
+      "latex": "Gini\\ Index = \\frac{A}{A + B}",
+      "caption": "9. Absolute vs Relative Poverty & Lorenz Curve / Gini Index",
+      "explanation": "Ratio of area between Lorenz curve and line of perfect equality."
+    },
+    {
       "type": "key_concept",
       "title": "First-Principles Core Truth",
       "summary": "The Lorenz Curve graphs income distribution against perfect equality, while the Gini Coefficient quantifies economic inequality from 0 (equality) to 1 (monopoly)."

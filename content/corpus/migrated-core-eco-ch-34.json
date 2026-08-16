@@ -6,6 +6,12 @@
   "summary": "Commercial banks create credit by expanding deposits based on reserve ratios, balancing liquidity and profitability across assets and liabilities.",
   "blocks": [
     {
+      "type": "formula",
+      "latex": "Money\\ Multiplier = \\frac{1}{\\text{CRR} + \\text{SLR}} = \\frac{1}{\\text{Reserve Ratio}}",
+      "caption": "34. Commercial Banking & Money Creation",
+      "explanation": "Maximum credit creation capacity of commercial banks."
+    },
+    {
       "type": "key_concept",
       "title": "First-Principles Core Truth",
       "summary": "Commercial banks create credit by expanding deposits based on reserve ratios, balancing liquidity and profitability across assets and liabilities."

@@ -6,14 +6,24 @@
   "summary": "Schemes — Energy: 24% (Power Generation, Renewable Energy)",
   "blocks": [
     {
-      "type": "bullet_list",
-      "items": [
-        " Objective:",
-        " Propel India to a $5 trillion economy.",
-        " Boost employment and capital expenditure.",
-        " Modernize infrastructure to meet demographic needs.",
-        " Task Force: Formulated on the recommendations of the Atanu Chakraborty Task Force."
-      ]
+      "type": "paragraph",
+      "content": " Objective:"
+    },
+    {
+      "type": "paragraph",
+      "content": " Propel India to a $5 trillion economy."
+    },
+    {
+      "type": "paragraph",
+      "content": " Boost employment and capital expenditure."
+    },
+    {
+      "type": "paragraph",
+      "content": " Modernize infrastructure to meet demographic needs."
+    },
+    {
+      "type": "paragraph",
+      "content": " Task Force: Formulated on the recommendations of the Atanu Chakraborty Task Force."
     }
   ],
   "metadata": {
