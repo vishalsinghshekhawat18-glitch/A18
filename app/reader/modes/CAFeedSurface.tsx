@@ -20,18 +20,20 @@ export const CAFeedSurface: React.FC<Props> = ({
   onNavigateItem
 }) => {
   const [fullCaNotes, setFullCaNotes] = useState<KnowledgeItem[]>([]);
+  const [isLoadingNotes, setIsLoadingNotes] = useState<boolean>(true);
 
   useEffect(() => {
     let isMounted = true;
     loadAllCorpusItemsForSearch().then(fullItems => {
       if (isMounted) {
         setFullCaNotes(fullItems.filter(i => isItemInSubject(i, 'current-affairs')));
+        setIsLoadingNotes(false);
       }
     });
     return () => { isMounted = false; };
   }, []);
 
-  // Extract all Current Affairs notes for continuous feed stream (505 canonical items)
+  // Extract all Current Affairs notes for continuous feed stream
   const caNotes = useMemo(() => {
     if (fullCaNotes.length > 0) return fullCaNotes;
     return allItems.filter(i => isItemInSubject(i, 'current-affairs'));
@@ -44,6 +46,15 @@ export const CAFeedSurface: React.FC<Props> = ({
 
   // State for month filtering (default to 'all' for full continuous feed, or specific monthKey)
   const [selectedMonthKey, setSelectedMonthKey] = useState<string>('all');
+
+  // Always scroll to top of Current Affairs feed on initial launch
+  useEffect(() => {
+    window.scrollTo({ top: 0, behavior: 'instant' });
+    const headerEl = document.getElementById('ca-feed-header');
+    if (headerEl) {
+      headerEl.scrollIntoView({ behavior: 'instant', block: 'start' });
+    }
+  }, []);
 
   // If activeItemId belongs to a specific month, ensure that month is visible if currently filtered
   useEffect(() => {
@@ -61,10 +72,15 @@ export const CAFeedSurface: React.FC<Props> = ({
 
   const highlightedRef = useRef<string | null>(null);
   const prevActiveItemIdRef = useRef<string | null>(null);
+  const isInitialLaunchRef = useRef<boolean>(true);
 
-  // Smooth-scroll & highlight target card ONLY when activeItemId actually changes (e.g. clicked via search or sidebar note item)
+  // Smooth-scroll & highlight target card ONLY when an individual item is explicitly clicked (e.g. via search)
   useEffect(() => {
     if (!activeItemId) return undefined;
+    if (isInitialLaunchRef.current) {
+      isInitialLaunchRef.current = false;
+      return undefined;
+    }
     if (prevActiveItemIdRef.current === activeItemId) return undefined;
     prevActiveItemIdRef.current = activeItemId;
 
@@ -93,6 +109,21 @@ export const CAFeedSurface: React.FC<Props> = ({
       }
     });
   };
+
+  if (isLoadingNotes && fullCaNotes.length === 0) {
+    return (
+      <div className="layout-ca-feed-surface">
+        <div className="ca-feed-container" style={{ padding: '4rem 1.5rem', textAlign: 'center' }}>
+          <div style={{ fontSize: '1.1rem', fontWeight: 600, color: 'var(--text-primary)', fontFamily: 'var(--font-ui)' }}>
+            📜 Loading Current Affairs Briefing Stream...
+          </div>
+          <div style={{ fontSize: '0.85rem', color: 'var(--text-muted)', marginTop: '0.5rem', fontFamily: 'var(--font-ui)' }}>
+            Preparing full briefing cards and domain blocks
+          </div>
+        </div>
+      </div>
+    );
+  }
 
   let globalNoteIdx = 0;
 

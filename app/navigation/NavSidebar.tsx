@@ -13,6 +13,7 @@ interface Props {
   isOpenMobile?: boolean;
   isSidebarClosed?: boolean;
   onCloseMobile?: () => void;
+  onCloseSidebar?: () => void;
 }
 
 const SUBJECT_LIST = [
@@ -39,7 +40,8 @@ export const NavSidebar: React.FC<Props> = ({
   onSelectItem,
   isOpenMobile = false,
   isSidebarClosed = false,
-  onCloseMobile
+  onCloseMobile,
+  onCloseSidebar
 }) => {
   // State for collapsible month accordions in Current Affairs sidebar
   const [expandedMonths, setExpandedMonths] = useState<Record<string, boolean>>({});
@@ -96,6 +98,14 @@ export const NavSidebar: React.FC<Props> = ({
     return [];
   }, [targetSubject, contextItems]);
 
+  const handleManualClose = () => {
+    if (onCloseSidebar) {
+      onCloseSidebar();
+    } else if (onCloseMobile) {
+      onCloseMobile();
+    }
+  };
+
   return (
     <>
       {/* Mobile Overlay Backdrop */}
@@ -109,16 +119,14 @@ export const NavSidebar: React.FC<Props> = ({
             <div className="sidebar-title" onClick={onGoHome} style={{ cursor: 'pointer' }}>
               Banking Command Center
             </div>
-            {onCloseMobile && (
-              <button
-                className="btn-close-sidebar"
-                onClick={onCloseMobile}
-                title="Close Sidebar"
-                aria-label="Close Sidebar"
-              >
-                ✕
-              </button>
-            )}
+            <button
+              className="btn-close-sidebar"
+              onClick={handleManualClose}
+              title="Close Sidebar"
+              aria-label="Close Sidebar"
+            >
+              ✕
+            </button>
           </div>
           <div className="sidebar-subtitle">Exam Study System</div>
         </div>

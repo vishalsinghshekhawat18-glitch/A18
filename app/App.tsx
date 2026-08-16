@@ -129,7 +129,8 @@ export const App: React.FC = () => {
         onSelectItem={handleSelectItem}
         isOpenMobile={isOpenMobile}
         isSidebarClosed={isSidebarClosed}
-        onCloseMobile={() => {
+        onCloseMobile={() => setIsOpenMobile(false)}
+        onCloseSidebar={() => {
           setIsOpenMobile(false);
           setIsSidebarClosed(true);
         }}
