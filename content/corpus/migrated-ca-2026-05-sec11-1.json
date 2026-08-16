@@ -1,0 +1,50 @@
+{
+  "id": "migrated-ca-2026-05-sec11-1",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "May 2026 High-Yield Exam Rapid Recall & Summary",
+  "summary": "Consolidated high-yield sweep of key figures, policy dates, and macro indicators from May 2026.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Quick sweep of top May 2026 exam facts:"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**RBI Record Dividend**: ₹2.87 Lakh Crore transferred to Central Govt for FY26 (CRB 6.5%).",
+        "**RBI $5B Swap**: 3-year USD/INR buy/sell swap auction on May 26.",
+        "**VB-G RAM G Act 2025**: Replaces MGNREGA from July 1, 2026 (125 days wage employment, ₹95,692 Cr).",
+        "**4 Labour Codes**: Final rules notified across 30+ gazette notifications.",
+        "**100% FDI in Insurance**: Automatic route notified under FEMA rules (LIC 20%).",
+        "**Navy Chief & CDS**: Vice Adm Krishna Swaminathan (Navy Chief), Lt Gen NS Raja Subramani (CDS).",
+        "**AMCA RFP**: 3 private consortia shortlisted for ₹15,000 Cr fighter jet programme."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec11",
+      "Current Affairs 2026",
+      "May 2026"
+    ],
+    "date": "2026-05-15",
+    "category": "SEC11",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T16:10:30.135Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-05-sec11-1",
+      "sourceTitle": "May 2026 High-Yield Exam Rapid Recall & Summary",
+      "sourceChecksum": "35dab752ebf1cae4b1c658ebc2a5918d93ee6d650d8fa647af95c73ab84f1b4e",
+      "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+      "normalizationRuleVersion": "1.0.0-may2026"
+    }
+  }
+}

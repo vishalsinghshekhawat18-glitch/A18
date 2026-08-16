@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-05-sec2-4",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "PFRDA Launches 'Retirement Income Scheme (RIS)' — Mandatory Annuity Cut to 20%",
+  "summary": "PFRDA reduces mandatory annuity requirement for private NPS subscribers from 40% to 20%, freeing up 80% corpus for lump-sum withdrawal.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "PFRDA introduced the **Retirement Income Scheme (RIS)** under NPS, cutting mandatory annuity purchase for non-government subscribers from **40% to 20%** (freeing up 80% for lump sum). Full withdrawal allowed for corpus up to ₹8 lakh."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026",
+      "May 2026"
+    ],
+    "date": "2026-05-15",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T16:10:30.135Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-05-sec2-4",
+      "sourceTitle": "PFRDA Launches 'Retirement Income Scheme (RIS)' — Mandatory Annuity Cut to 20%",
+      "sourceChecksum": "470333e58646845d0b78a5bc890a10abc5244eaa54ece8a5dacc30d03a6af94a",
+      "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+      "normalizationRuleVersion": "1.0.0-may2026"
+    }
+  }
+}

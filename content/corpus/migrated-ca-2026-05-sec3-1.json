@@ -1,0 +1,46 @@
+{
+  "id": "migrated-ca-2026-05-sec3-1",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Central Board Approves Record Dividend Transfer of ₹2,86,588 Crore for FY26",
+  "summary": "RBI Governor Sanjay Malhotra-led Board approves record ₹2.87 lakh crore surplus transfer to Central Govt for FY26; CRB maintained at 6.5%.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "During its 623rd board meeting in May 2026, the RBI Central Board of Directors approved a record surplus transfer of **₹2,86,588.46 crore (~₹2.87 lakh crore)** to the Central Government for FY 2025-26 (surpassing FY25's previous record of ₹2.68 lakh crore)."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**RBI Balance Sheet**: Expanded 20.61% YoY to **₹91.97 lakh crore** as of March 31, 2026.",
+        "**Contingent Risk Buffer (CRB)**: Board transferred ₹1,09,379.64 crore to CRB, maintaining it at **6.5% of the balance sheet** size.",
+        "**Fiscal Impact**: Provides substantial non-tax revenue relief to support the Centre's fiscal deficit target."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026",
+      "May 2026"
+    ],
+    "date": "2026-05-15",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T16:10:30.135Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-05-sec3-1",
+      "sourceTitle": "RBI Central Board Approves Record Dividend Transfer of ₹2,86,588 Crore for FY26",
+      "sourceChecksum": "58bcbf435000c00d01034d90bf20e8075c6b44f835f845d6c115e467fc5e8950",
+      "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+      "normalizationRuleVersion": "1.0.0-may2026"
+    }
+  }
+}

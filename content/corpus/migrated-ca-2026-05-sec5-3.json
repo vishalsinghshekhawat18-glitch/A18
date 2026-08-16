@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-05-sec5-3",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "NASA Announces $20 Billion Plan for 3 Moon Base Missions & Blue Moon Lander",
+  "summary": "NASA Administrator Jared Isaacman unveils Moon Base I, II & III plan selecting Blue Origin's Blue Moon Mark 1 lander for permanent lunar infrastructure.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "NASA unveiled a **$20 billion 3-phase Moon Base roadmap** selecting Blue Origin's Blue Moon lander to establish a permanent human settlement on the Moon's South Pole by 2028."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026",
+      "May 2026"
+    ],
+    "date": "2026-05-15",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T16:10:30.135Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-05-sec5-3",
+      "sourceTitle": "NASA Announces $20 Billion Plan for 3 Moon Base Missions & Blue Moon Lander",
+      "sourceChecksum": "6498f0ea8916c317f11c72d7cf96325804864eac30e31d3feea1ab4dd7a7de14",
+      "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+      "normalizationRuleVersion": "1.0.0-may2026"
+    }
+  }
+}

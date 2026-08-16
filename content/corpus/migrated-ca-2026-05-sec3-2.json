@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-05-sec3-2",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Announces $5 Billion USD/INR Buy/Sell Swap Auction to Inject Liquidity",
+  "summary": "RBI conducts 3-year $5 billion USD/INR buy/sell swap auction on May 26, 2026 to inject rupee liquidity into the banking system.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "RBI announced a **$5 billion USD/INR Buy/Sell swap auction** with a 3-year tenor (settlement May 29, 2026, maturity May 29, 2029) to inject long-term rupee liquidity into the banking system amid rupee defence interventions."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026",
+      "May 2026"
+    ],
+    "date": "2026-05-15",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T16:10:30.135Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-05-sec3-2",
+      "sourceTitle": "RBI Announces $5 Billion USD/INR Buy/Sell Swap Auction to Inject Liquidity",
+      "sourceChecksum": "d6ed972722bedd315d3e477b83da9ae7fe7ffe70b79f6410f3554983a21b3b48",
+      "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+      "normalizationRuleVersion": "1.0.0-may2026"
+    }
+  }
+}

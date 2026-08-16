@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-05-sec10-4",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "CCEA Approves ₹1,570 Crore Ship Repair Facility at Vadinar, Gujarat",
+  "summary": "CCEA approves brownfield Ship Repair Facility at Vadinar port (DPA + CSL joint venture) capable of repairing vessels up to 300 metres.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "CCEA approved a ₹1,570 crore ship repair hub at Vadinar in Devbhumi Dwarka (Gujarat) implemented by Deendayal Port Authority and Cochin Shipyard to reduce dependence on Dubai/Singapore shipyards."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec10",
+      "Current Affairs 2026",
+      "May 2026"
+    ],
+    "date": "2026-05-15",
+    "category": "SEC10",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T16:10:30.135Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-05-sec10-4",
+      "sourceTitle": "CCEA Approves ₹1,570 Crore Ship Repair Facility at Vadinar, Gujarat",
+      "sourceChecksum": "3e7fabd9dc8db45be1ed0af0672010dd573e37edda9f35d69abb8722188c88d3",
+      "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+      "normalizationRuleVersion": "1.0.0-may2026"
+    }
+  }
+}

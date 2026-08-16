@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-05-sec4-1",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "DRDO & Indian Navy Conduct Maiden Salvo Launch of NASM-SR Missile",
+  "summary": "Naval Anti-Ship Missile-Short Range (NASM-SR) launched from Navy helicopter platform off Odisha coast with indigenous solid booster.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "DRDO and Indian Navy conducted the maiden salvo flight-test of indigenously developed **NASM-SR** anti-ship missile from a naval helicopter off Odisha, developed by RCI Hyderabad."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026",
+      "May 2026"
+    ],
+    "date": "2026-05-15",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T16:10:30.135Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-05-sec4-1",
+      "sourceTitle": "DRDO & Indian Navy Conduct Maiden Salvo Launch of NASM-SR Missile",
+      "sourceChecksum": "b858f48611e7781c09e9acda7d9c1dbaf60ce849dfc51debd6989226bb9998bc",
+      "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+      "normalizationRuleVersion": "1.0.0-may2026"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-05-sec5-4",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Sahasra Semiconductors Inaugurates India's 1st SME ATMP Chip Packaging Facility in Bhiwadi",
+  "summary": "MeitY Minister Ashwini Vaishnaw inaugurates ₹150 Cr SPECS-supported semiconductor packaging plant in Rajasthan.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Union Minister Ashwini Vaishnaw virtually inaugurated Sahasra Semiconductors' ₹150 Cr ATMP/OSAT chip packaging plant in Bhiwadi, Rajasthan under MeitY's SPECS scheme."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026",
+      "May 2026"
+    ],
+    "date": "2026-05-15",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T16:10:30.135Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-05-sec5-4",
+      "sourceTitle": "Sahasra Semiconductors Inaugurates India's 1st SME ATMP Chip Packaging Facility in Bhiwadi",
+      "sourceChecksum": "883e085458b4df26fc65ed5ed94cd3c716ddf4a3afc1618a72801deea572537e",
+      "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+      "normalizationRuleVersion": "1.0.0-may2026"
+    }
+  }
+}

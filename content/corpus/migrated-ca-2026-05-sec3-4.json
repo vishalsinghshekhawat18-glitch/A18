@@ -1,0 +1,45 @@
+{
+  "id": "migrated-ca-2026-05-sec3-4",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Draft Norms on Loan Recovery & Recovery Agent Engagement",
+  "summary": "RBI proposes strict restrictions on mobile phone disabling tools (90-day overdue threshold) and ₹250/hr compensation for delayed restoration.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "RBI released draft Amendment Directions titled 'Conduct of Regulated Entities in Recovery of Loans and Engagement of Recovery Agents', proposing strict borrower protection standards."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Phone Disabling Restrictions**: Allowed only for device-financed loans after a 90-day overdue threshold (21-day cure + 7-day notice). Must restore within 1 hour or pay ₹250/hour compensation.",
+        "**Agent Conduct**: Mandatory IIBF certification; contact hours restricted to 8:00 AM – 7:00 PM; contact with relatives/friends prohibited."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026",
+      "May 2026"
+    ],
+    "date": "2026-05-15",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T16:10:30.135Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-05-sec3-4",
+      "sourceTitle": "RBI Draft Norms on Loan Recovery & Recovery Agent Engagement",
+      "sourceChecksum": "167aca49693cfbccd39ddc02c994dc9acf60b848b3703c547c8115cceb3a4db2",
+      "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+      "normalizationRuleVersion": "1.0.0-may2026"
+    }
+  }
+}

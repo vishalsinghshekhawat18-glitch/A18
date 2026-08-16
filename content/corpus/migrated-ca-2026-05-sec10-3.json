@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-05-sec10-3",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "West Bengal CM Suvendu Adhikari Approves 600 Acres to BSF, Ayushman Bharat & BNS Rollout",
+  "summary": "Maiden West Bengal cabinet meeting approves BSF border fencing land, ends state deadlock on Ayushman Bharat, and enforces Bharatiya Nyaya Sanhita.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Newly sworn-in West Bengal CM Suvendu Adhikari approved transferring 600 acres for BSF India-Bangladesh border fencing, implementing Ayushman Bharat (PM-JAY), and adopting criminal code BNS."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec10",
+      "Current Affairs 2026",
+      "May 2026"
+    ],
+    "date": "2026-05-15",
+    "category": "SEC10",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T16:10:30.135Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-05-sec10-3",
+      "sourceTitle": "West Bengal CM Suvendu Adhikari Approves 600 Acres to BSF, Ayushman Bharat & BNS Rollout",
+      "sourceChecksum": "334dc5603a8f37094cd6083638146fa4373e0373beff6b953b88fc6adb6e9692",
+      "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+      "normalizationRuleVersion": "1.0.0-may2026"
+    }
+  }
+}

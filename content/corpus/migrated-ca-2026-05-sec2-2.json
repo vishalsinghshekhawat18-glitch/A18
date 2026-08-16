@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-05-sec2-2",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SEBI Proposes 'GARUDA' Green-Channel Mechanism for Fast-Track AIF Rollout",
+  "summary": "SEBI proposes GARUDA mechanism allowing Alternative Investment Funds (AIFs) to launch schemes within 10 working days of filing placement memorandum.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "SEBI issued a proposal for **GARUDA (Green-Channel: AIF Rollout Upon Document Acknowledgement)**, reducing scheme launch timeline from 30 days to 10 working days for AIFs."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026",
+      "May 2026"
+    ],
+    "date": "2026-05-15",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T16:10:30.135Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-05-sec2-2",
+      "sourceTitle": "SEBI Proposes 'GARUDA' Green-Channel Mechanism for Fast-Track AIF Rollout",
+      "sourceChecksum": "37dbc2beaece956d20211c9f56ef442bc5795c9252a3ca87b8019edcf2be29c5",
+      "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+      "normalizationRuleVersion": "1.0.0-may2026"
+    }
+  }
+}

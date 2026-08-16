@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-05-sec10-6",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India Semiconductor Mission Approves 2 New Fab Projects in Gujarat (₹3,936 Crore)",
+  "summary": "Cabinet approves Crystal Matrix Mini/Micro-LED fab at Dholera and Suchi Semicon OSAT facility at Surat, taking total ISM projects to 12.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Union Cabinet approved 2 semiconductor units under ISM: **Crystal Matrix Ltd** (₹3,936 Cr GaN Mini/Micro-LED display fab in Dholera) and **Suchi Semicon** (OSAT plant in Surat), taking total ISM investment to ₹1.64 lakh crore across 12 projects."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec10",
+      "Current Affairs 2026",
+      "May 2026"
+    ],
+    "date": "2026-05-15",
+    "category": "SEC10",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T16:10:30.135Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-05-sec10-6",
+      "sourceTitle": "India Semiconductor Mission Approves 2 New Fab Projects in Gujarat (₹3,936 Crore)",
+      "sourceChecksum": "7410479c0e68bffbb28594a8d4de4446fb598cac8513ff33bd383097dbfd3881",
+      "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+      "normalizationRuleVersion": "1.0.0-may2026"
+    }
+  }
+}

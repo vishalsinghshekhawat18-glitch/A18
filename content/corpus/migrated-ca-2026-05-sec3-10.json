@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-05-sec3-10",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Cancels Licence of Sarvodaya Co-operative Bank Ltd, Mumbai",
+  "summary": "RBI cancels Sarvodaya Co-op Bank's license due to inadequate capital and poor earnings; DICGC to pay up to ₹5 lakh per depositor.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "RBI cancelled the banking licence of Mumbai-based **Sarvodaya Co-operative Bank Ltd.** effective May 12, 2026. Depositors are entitled to DICGC insurance cover up to ₹5 lakh."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026",
+      "May 2026"
+    ],
+    "date": "2026-05-15",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T16:10:30.135Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-05-sec3-10",
+      "sourceTitle": "RBI Cancels Licence of Sarvodaya Co-operative Bank Ltd, Mumbai",
+      "sourceChecksum": "fc2f5076b5b12b741deac3afdd0171191dd615d1e537747f52212e4751899682",
+      "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+      "normalizationRuleVersion": "1.0.0-may2026"
+    }
+  }
+}

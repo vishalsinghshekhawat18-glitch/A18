@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-05-sec4-2",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Indian Navy Receives 6th Stealth Frigate 'INS Mahendragiri' Under Project 17A",
+  "summary": "Mazagon Dock Shipbuilders delivers INS Mahendragiri frigate equipped with MF-STAR radar, BrahMos, and Barak-8 missiles.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Mazagon Dock Shipbuilders Limited (MDL) delivered **INS Mahendragiri**, the 6th stealth guided-missile frigate under Project 17A (Nilgiri-class), designed by Warship Design Bureau."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026",
+      "May 2026"
+    ],
+    "date": "2026-05-15",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T16:10:30.135Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-05-sec4-2",
+      "sourceTitle": "Indian Navy Receives 6th Stealth Frigate 'INS Mahendragiri' Under Project 17A",
+      "sourceChecksum": "47fec6d61922d069e3ca8f4029ac648b66e18030eee6dd52e893905d0661c881",
+      "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+      "normalizationRuleVersion": "1.0.0-may2026"
+    }
+  }
+}

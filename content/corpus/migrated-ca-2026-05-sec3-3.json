@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-05-sec3-3",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Discontinues Investment Fluctuation Reserve (IFR) Requirement for Banks",
+  "summary": "RBI discontinues mandatory IFR for commercial banks w.e.f. May 18, 2026; balance to be transferred 'below the line' to Statutory/General Reserves.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "RBI discontinued the requirement for commercial banks to maintain an **Investment Fluctuation Reserve (IFR)** effective May 18, 2026. The IFR balance as of May 17, 2026, will be transferred 'below the line' to Statutory Reserve, General Reserve, or P&L Account."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026",
+      "May 2026"
+    ],
+    "date": "2026-05-15",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T16:10:30.135Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-05-sec3-3",
+      "sourceTitle": "RBI Discontinues Investment Fluctuation Reserve (IFR) Requirement for Banks",
+      "sourceChecksum": "4c7a069560d5f95b123fa54c35f67e767f1ffce68b9d49a6bd51b64e7a43c336",
+      "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+      "normalizationRuleVersion": "1.0.0-may2026"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-05-sec3-7",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBL Bank Secures Approval for Historic $3 Billion FDI Investment from Emirates NBD",
+  "summary": "Emirates NBD acquires 49%-74% controlling stake in RBL Bank through ₹26,850 crore ($3B) preferential issue — largest FDI in Indian banking history.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "RBL Bank received all regulatory approvals (RBI, SEBI, CCI, DFS) for a **$3 billion (₹26,850 crore)** strategic investment by Dubai-based **Emirates NBD Bank**, acquiring 49-74% controlling stake at ₹280/share."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026",
+      "May 2026"
+    ],
+    "date": "2026-05-15",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T16:10:30.135Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-05-sec3-7",
+      "sourceTitle": "RBL Bank Secures Approval for Historic $3 Billion FDI Investment from Emirates NBD",
+      "sourceChecksum": "d48e3ccc12d749fe64090fc38a4eaa6986dde2598fae1d655f8d76fa8ddad5a8",
+      "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+      "normalizationRuleVersion": "1.0.0-may2026"
+    }
+  }
+}

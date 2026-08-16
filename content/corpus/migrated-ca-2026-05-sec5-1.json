@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-05-sec5-1",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "GalaxEye Launches 'Mission Drishti' — World's 1st OptoSAR Hybrid EO Satellite",
+  "summary": "Bengaluru space startup GalaxEye launches 190kg Mission Drishti aboard SpaceX Falcon 9, combining optical and SAR sensors on one platform.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Space startup GalaxEye launched **Mission Drishti** on a SpaceX Falcon 9 rocket, becoming the world's 1st satellite to integrate Electro-Optical (EO) and Synthetic Aperture Radar (SAR) sensors into a single 190kg platform."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026",
+      "May 2026"
+    ],
+    "date": "2026-05-15",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T16:10:30.135Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-05-sec5-1",
+      "sourceTitle": "GalaxEye Launches 'Mission Drishti' — World's 1st OptoSAR Hybrid EO Satellite",
+      "sourceChecksum": "0423806813911ab855398e441a2b478ef321273b857a056093cacc10a8fa544e",
+      "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+      "normalizationRuleVersion": "1.0.0-may2026"
+    }
+  }
+}

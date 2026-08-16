@@ -1,0 +1,38 @@
+{
+  "id": "migrated-ca-2026-05-sec10-2",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "PM Narendra Modi Outlines 7 National Appeals Under 'Nation First, Duty Above Comfort'",
+  "summary": "PM Modi calls on citizens to curb gold & foreign travel, reduce fuel/edible oil usage, adoption of natural farming, and remote work amid West Asia crisis.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "Addressing a public gathering in Secunderabad on May 10, 2026, PM Modi issued 7 economic self-reliance appeals to mitigate global West Asia oil shock impacts ($126/bbl crude spike)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec10",
+      "Current Affairs 2026",
+      "May 2026"
+    ],
+    "date": "2026-05-15",
+    "category": "SEC10",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T16:10:30.135Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-05-sec10-2",
+      "sourceTitle": "PM Narendra Modi Outlines 7 National Appeals Under 'Nation First, Duty Above Comfort'",
+      "sourceChecksum": "ff4e825b62bec70fa1994f5cb8cfef6bdb6611ac0b6159b3c73721dcf48435eb",
+      "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+      "normalizationRuleVersion": "1.0.0-may2026"
+    }
+  }
+}

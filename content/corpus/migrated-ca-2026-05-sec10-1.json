@@ -1,0 +1,46 @@
+{
+  "id": "migrated-ca-2026-05-sec10-1",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Central Government Operationalises 4 Labour Codes Across India via 30+ Notifications",
+  "summary": "GoI notifies final rules consolidating 29 central laws into 4 unified Labour Codes; caps weekly working hours at 48 and introduces WFH rules.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "The Central Government notified final rules under all 4 Labour Codes (Code on Wages 2019, Industrial Relations 2020, Social Security 2020, OSHWC 2020), consolidating 29 labour laws."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Working Hours**: Weekly hours capped at 48 hours (daily flexibility up to 12 hours); overtime pay fixed at 2x normal rate.",
+        "**Work From Home**: Model Standing Orders 2026 officially recognize WFH for the service industry for the first time.",
+        "**Social Security**: Mandatory Aadhaar registration for unorganised workers >16 yrs and National Social Security Board for gig workers."
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec10",
+      "Current Affairs 2026",
+      "May 2026"
+    ],
+    "date": "2026-05-15",
+    "category": "SEC10",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T16:10:30.135Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-05-sec10-1",
+      "sourceTitle": "Central Government Operationalises 4 Labour Codes Across India via 30+ Notifications",
+      "sourceChecksum": "1956205dc80c0f6d30f8aab1d0a91e03e1081b082e4b3a4c672b8507d8dce504",
+      "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+      "normalizationRuleVersion": "1.0.0-may2026"
+    }
+  }
+}
