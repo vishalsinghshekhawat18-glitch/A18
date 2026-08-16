@@ -37,10 +37,22 @@ export const CAFeedSurface: React.FC<Props> = ({
     return allItems.filter(i => isItemInSubject(i, 'current-affairs'));
   }, [allItems, fullCaNotes]);
 
-  // Dynamically group notes into month/year sections (Newest month first)
-  const monthGroups = useMemo(() => {
-    return groupCAItemsByMonth(caNotes);
-  }, [caNotes]);
+  // State for month filtering (default to 'all' for full continuous feed, or specific monthKey)
+  const [selectedMonthKey, setSelectedMonthKey] = useState<string>('all');
+
+  // If activeItemId belongs to a specific month, ensure that month is visible if currently filtered
+  useEffect(() => {
+    if (!activeItemId) return;
+    const targetGroup = monthGroups.find(g => g.items.some(i => i.id === activeItemId));
+    if (targetGroup && selectedMonthKey !== 'all' && selectedMonthKey !== targetGroup.monthKey) {
+      setSelectedMonthKey(targetGroup.monthKey);
+    }
+  }, [activeItemId, monthGroups]);
+
+  const visibleMonthGroups = useMemo(() => {
+    if (selectedMonthKey === 'all') return monthGroups;
+    return monthGroups.filter(g => g.monthKey === selectedMonthKey);
+  }, [monthGroups, selectedMonthKey]);
 
   const highlightedRef = useRef<string | null>(null);
 
@@ -60,13 +72,11 @@ export const CAFeedSurface: React.FC<Props> = ({
     }, 2500);
 
     return () => clearTimeout(timer);
-  }, [activeItemId]);
+  }, [activeItemId, visibleMonthGroups]);
 
-  const handleScrollToMonth = (monthKey: string) => {
-    const el = document.getElementById(`month-section-${monthKey}`);
-    if (el) {
-      el.scrollIntoView({ behavior: 'smooth', block: 'start' });
-    }
+  const handleSelectMonthFilter = (monthKey: string) => {
+    setSelectedMonthKey(monthKey);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
   let globalNoteIdx = 0;
@@ -78,19 +88,37 @@ export const CAFeedSurface: React.FC<Props> = ({
         <header className="ca-feed-header-compact">
           <div className="ca-feed-badge-row">
             <span className="ca-feed-domain-badge">📰 CURRENT AFFAIRS BRIEFING STREAM</span>
-            <span className="ca-feed-count-badge">{caNotes.length} High-Yield Notes • {monthGroups.length} Months</span>
+            <span className="ca-feed-count-badge">
+              {selectedMonthKey === 'all'
+                ? `${caNotes.length} High-Yield Notes • All Months`
+                : `${visibleMonthGroups[0]?.monthLabel || ''} (${visibleMonthGroups[0]?.items.length || 0} Notes)`
+              }
+            </span>
           </div>
-          <h1 className="ca-feed-title-compact">Continuous Banking & Financial CA Feed</h1>
+          <h1 className="ca-feed-title-compact">
+            {selectedMonthKey === 'all'
+              ? 'Continuous Banking & Financial CA Feed'
+              : `${visibleMonthGroups[0]?.monthLabel || ''} Briefing Stream`
+            }
+          </h1>
 
-          {/* Compact Quick Month Jump Navigator */}
+          {/* Compact Month Selection Navigator */}
           <div className="ca-top-month-navigator">
-            <span className="ca-nav-label">JUMP TO MONTH:</span>
+            <span className="ca-nav-label">SHOW MONTH:</span>
             <div className="ca-month-pills-row">
+              <button
+                className={`ca-month-pill-btn ${selectedMonthKey === 'all' ? 'active' : ''}`}
+                onClick={() => handleSelectMonthFilter('all')}
+                data-month="all"
+              >
+                🌟 ALL MONTHS <span className="ca-pill-count">({caNotes.length})</span>
+              </button>
               {monthGroups.map(group => (
                 <button
                   key={group.monthKey}
-                  className="ca-month-pill-btn"
-                  onClick={() => handleScrollToMonth(group.monthKey)}
+                  className={`ca-month-pill-btn ${selectedMonthKey === group.monthKey ? 'active' : ''}`}
+                  onClick={() => handleSelectMonthFilter(group.monthKey)}
+                  data-month={group.monthKey}
                 >
                   📅 {group.monthLabel} <span className="ca-pill-count">({group.items.length})</span>
                 </button>
@@ -101,7 +129,7 @@ export const CAFeedSurface: React.FC<Props> = ({
 
         {/* Continuous Feed Stream Stack Divided by Month Sections */}
         <div className="ca-feed-stream-stack">
-          {monthGroups.map(group => (
+          {visibleMonthGroups.map(group => (
             <section
               key={group.monthKey}
               id={`month-section-${group.monthKey}`}

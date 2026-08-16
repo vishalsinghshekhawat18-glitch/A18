@@ -987,6 +987,18 @@ body {
   color: var(--text-accent);
 }
 
+.ca-month-pill-btn.active {
+  background-color: var(--text-accent);
+  color: var(--bg-card);
+  border-color: var(--text-accent);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.12);
+}
+
+.ca-month-pill-btn.active .ca-pill-count {
+  color: var(--bg-card);
+  opacity: 0.9;
+}
+
 .ca-pill-count {
   color: var(--text-accent);
   font-weight: 600;

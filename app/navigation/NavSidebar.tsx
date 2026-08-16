@@ -50,9 +50,12 @@ export const NavSidebar: React.FC<Props> = ({
   };
 
   const handleScrollToMonth = (monthKey: string) => {
-    const el = document.getElementById(`month-section-${monthKey}`);
-    if (el) {
-      el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    const pillBtn = document.querySelector(`.ca-month-pill-btn[data-month="${monthKey}"]`) as HTMLButtonElement;
+    if (pillBtn) {
+      pillBtn.click();
+    } else {
+      const el = document.getElementById(`month-section-${monthKey}`);
+      if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
     if (onCloseMobile) onCloseMobile();
   };
