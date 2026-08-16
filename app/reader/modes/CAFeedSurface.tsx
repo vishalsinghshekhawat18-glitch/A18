@@ -60,10 +60,13 @@ export const CAFeedSurface: React.FC<Props> = ({
   }, [monthGroups, selectedMonthKey]);
 
   const highlightedRef = useRef<string | null>(null);
+  const prevActiveItemIdRef = useRef<string | null>(null);
 
-  // Smooth-scroll & highlight target card when activeItemId changes
+  // Smooth-scroll & highlight target card ONLY when activeItemId actually changes (e.g. clicked via search or sidebar note item)
   useEffect(() => {
     if (!activeItemId) return undefined;
+    if (prevActiveItemIdRef.current === activeItemId) return undefined;
+    prevActiveItemIdRef.current = activeItemId;
 
     const targetEl = document.getElementById(activeItemId);
     if (!targetEl) return undefined;
@@ -77,11 +80,18 @@ export const CAFeedSurface: React.FC<Props> = ({
     }, 2500);
 
     return () => clearTimeout(timer);
-  }, [activeItemId, visibleMonthGroups]);
+  }, [activeItemId]);
 
   const handleSelectMonthFilter = (monthKey: string) => {
     setSelectedMonthKey(monthKey);
-    window.scrollTo({ top: 0, behavior: 'smooth' });
+    requestAnimationFrame(() => {
+      const headerEl = document.getElementById('ca-feed-header');
+      if (headerEl) {
+        headerEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      } else {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
+    });
   };
 
   let globalNoteIdx = 0;
@@ -90,7 +100,7 @@ export const CAFeedSurface: React.FC<Props> = ({
     <div className="layout-ca-feed-surface">
       <div className="ca-feed-container" style={{ fontSize: `${fontSize}px` }}>
         {/* Compact Continuous Feed Banner */}
-        <header className="ca-feed-header-compact">
+        <header className="ca-feed-header-compact" id="ca-feed-header">
           <div className="ca-feed-badge-row">
             <span className="ca-feed-domain-badge">📰 CURRENT AFFAIRS BRIEFING STREAM</span>
             <span className="ca-feed-count-badge">
