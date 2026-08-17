@@ -79,7 +79,7 @@ function runNavigationIntegrityTest() {
 
   let unmappedCount = 0;
   let multiMappedCount = 0;
-  for (const [id, matches] of itemSubjectMap.entries()) {
+  for (const matches of itemSubjectMap.values()) {
     if (matches.length === 0) unmappedCount++;
     if (matches.length > 1) multiMappedCount++;
   }
