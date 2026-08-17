@@ -9,6 +9,7 @@ interface Props {
   onThemeChange: (theme: ReadingTheme) => void;
   onOpenSearch: () => void;
   onToggleMobileMenu: () => void;
+  onGoHome: () => void;
 }
 
 export const ReadingControls: React.FC<Props> = ({
@@ -17,7 +18,8 @@ export const ReadingControls: React.FC<Props> = ({
   onFontSizeChange,
   onThemeChange,
   onOpenSearch,
-  onToggleMobileMenu
+  onToggleMobileMenu,
+  onGoHome
 }) => {
   return (
     <header className="reader-header">
@@ -29,8 +31,21 @@ export const ReadingControls: React.FC<Props> = ({
         >
           ☰
         </button>
-        <div className="reader-header-title">
-          🏛️ Banking Command Center | Exam Study System
+        <button
+          className="btn-control"
+          onClick={onGoHome}
+          title="Go to Command Center Home"
+          style={{ fontWeight: 700 }}
+        >
+          🏠 Home
+        </button>
+        <div
+          className="reader-header-title"
+          onClick={onGoHome}
+          style={{ cursor: 'pointer' }}
+          title="Go to Command Center Home"
+        >
+          🏛️ Banking Command Center
         </div>
       </div>
 

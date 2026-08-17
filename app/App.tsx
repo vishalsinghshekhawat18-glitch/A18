@@ -143,6 +143,7 @@ export const App: React.FC = () => {
           onFontSizeChange={setFontSize}
           onThemeChange={setTheme}
           onOpenSearch={() => setIsSearchOpen(true)}
+          onGoHome={handleGoHome}
           onToggleMobileMenu={() => {
             if (isOpenMobile || !isSidebarClosed) {
               setIsOpenMobile(false);
