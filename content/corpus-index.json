@@ -1,5 +1,5154 @@
 [
   {
+    "id": "migrated-ca-2026-01-sec1-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "77th Republic Day — First Multi-Leader Chief Guest Invite Since 2018",
+    "summary": "India marked its 77th Republic Day on 26 January 2026 with two Chief Guests: Antonio Costa (European Council) and Ursula von der Leyen (European Commission).",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec1",
+        "Current Affairs 2026",
+        "January 2026"
+      ],
+      "date": "2026-01-26",
+      "category": "SEC1",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T08:37:54.408Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "January_26.pdf",
+        "sourceId": "migrated-ca-2026-01-sec1-1",
+        "sourceTitle": "77th Republic Day — First Multi-Leader Chief Guest Invite Since 2018",
+        "sourceChecksum": "7ef1f0ef01a12621f60c251c5b0e997d01c0542e1b806c62358b4f97f987c55d",
+        "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+        "normalizationRuleVersion": "1.0.0-jan2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-01-sec1-2",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Census 2027 — India's First Fully Digital, Caste-Enumerating Census",
+    "summary": "India's next Census will be its first fully digital census and the first since 1931 to conduct nationwide caste enumeration.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec1",
+        "Current Affairs 2026",
+        "January 2026"
+      ],
+      "date": "2026-01-26",
+      "category": "SEC1",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T08:37:54.408Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "January_26.pdf",
+        "sourceId": "migrated-ca-2026-01-sec1-2",
+        "sourceTitle": "Census 2027 — India's First Fully Digital, Caste-Enumerating Census",
+        "sourceChecksum": "8d178c31ce6e9ac0074ca761543a5bd63ac19c9402d960327e48353cc12d0c9e",
+        "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+        "normalizationRuleVersion": "1.0.0-jan2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-01-sec1-3",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "India Takes BRICS 2026 Presidency",
+    "summary": "India assumed the BRICS presidency for the fourth time on 1 January 2026 under the theme 'Building for Resilience, Innovation, Cooperation and Sustainability'.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec6",
+        "Current Affairs 2026",
+        "January 2026"
+      ],
+      "date": "2026-01-26",
+      "category": "SEC6",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T08:37:54.408Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "January_26.pdf",
+        "sourceId": "migrated-ca-2026-01-sec1-3",
+        "sourceTitle": "India Takes BRICS 2026 Presidency",
+        "sourceChecksum": "f322ea473ff3b89f6ca51d4a6c4f392e4defb888720586e41a11e4d648c870ee",
+        "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+        "normalizationRuleVersion": "1.0.0-jan2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-01-sec1-4",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "India's Wetlands Cross 98 Ramsar Sites",
+    "summary": "Two new sites—Patna Bird Sanctuary (UP) and Chhari-Dhand (Gujarat)—pushed India's Ramsar site count to 98 on 31 January 2026.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec10",
+        "Current Affairs 2026",
+        "January 2026"
+      ],
+      "date": "2026-01-26",
+      "category": "SEC10",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T08:37:54.408Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "January_26.pdf",
+        "sourceId": "migrated-ca-2026-01-sec1-4",
+        "sourceTitle": "India's Wetlands Cross 98 Ramsar Sites",
+        "sourceChecksum": "ba2162147176a6a237b6e13d990847434802ceebabe08948104e13d68c32f8b9",
+        "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+        "normalizationRuleVersion": "1.0.0-jan2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-01-sec1-5",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "India Notifies Coking Coal as Critical & Strategic Mineral",
+    "summary": "Government classifies coking coal under MMDR Act 1957 to fast-track environmental clearances and tap 37.37 billion-tonne reserves.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "January 2026"
+      ],
+      "date": "2026-01-26",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T08:37:54.408Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "January_26.pdf",
+        "sourceId": "migrated-ca-2026-01-sec1-5",
+        "sourceTitle": "India Notifies Coking Coal as Critical & Strategic Mineral",
+        "sourceChecksum": "7c52a1506f31b5d1c20128542f577edca63b550be9113aa63debef166d9c5a3b",
+        "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+        "normalizationRuleVersion": "1.0.0-jan2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-01-sec1-6",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "India's First Tailings Policy Launched by Ministry of Mines",
+    "summary": "First-ever framework to mine old mining waste for critical minerals like lithium, cobalt, nickel, and rare earth elements.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "January 2026"
+      ],
+      "date": "2026-01-26",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T08:37:54.408Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "January_26.pdf",
+        "sourceId": "migrated-ca-2026-01-sec1-6",
+        "sourceTitle": "India's First Tailings Policy Launched by Ministry of Mines",
+        "sourceChecksum": "142b459805ccd811c18ec08d78868607d9f834a2b1ac6804cde17a4fe8eb4532",
+        "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+        "normalizationRuleVersion": "1.0.0-jan2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-01-sec1-7",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Carbon Credit Trading Scheme (CCTS) Expanded to 4 New Sectors",
+    "summary": "208 additional industrial units added under CCTS, bringing total obligated entities to 490.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "January 2026"
+      ],
+      "date": "2026-01-26",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T08:37:54.408Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "January_26.pdf",
+        "sourceId": "migrated-ca-2026-01-sec1-7",
+        "sourceTitle": "Carbon Credit Trading Scheme (CCTS) Expanded to 4 New Sectors",
+        "sourceChecksum": "8650a08a2be650be3c63a3f1a54c7324fa4959a2617c077547dc1170c2a82e7e",
+        "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+        "normalizationRuleVersion": "1.0.0-jan2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-01-sec1-8",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "ECINET — Election Commission's Unified Digital Platform",
+    "summary": "ECI launched ECINET, integrating 40+ separate electoral apps into a single platform for 10+ crore voters.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec1",
+        "Current Affairs 2026",
+        "January 2026"
+      ],
+      "date": "2026-01-26",
+      "category": "SEC1",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T08:37:54.408Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "January_26.pdf",
+        "sourceId": "migrated-ca-2026-01-sec1-8",
+        "sourceTitle": "ECINET — Election Commission's Unified Digital Platform",
+        "sourceChecksum": "563c882e3b096d84f0c6443c1f39c860ae3ec01042610a001eae40ce9f28e9b3",
+        "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+        "normalizationRuleVersion": "1.0.0-jan2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-01-sec1-9",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "India–UAE $200 Billion Trade Target by 2032 & LNG Deal",
+    "summary": "India and UAE agree to double bilateral trade to $200 billion by 2032 and sign 10-year LNG supply agreement.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "January 2026"
+      ],
+      "date": "2026-01-26",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T08:37:54.408Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "January_26.pdf",
+        "sourceId": "migrated-ca-2026-01-sec1-9",
+        "sourceTitle": "India–UAE $200 Billion Trade Target by 2032 & LNG Deal",
+        "sourceChecksum": "4277300d2bee2a7e098f02ff77014ac1e10290214e9abea3a0c1d754bcf44aef",
+        "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+        "normalizationRuleVersion": "1.0.0-jan2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-01-sec2-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "India Becomes World's 4th-Largest Economy at $4.18 Trillion",
+    "summary": "India surpassed Japan to become the world's 4th-largest economy with a $4.18 trillion GDP, targeting $7.3 trillion by 2030.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "January 2026"
+      ],
+      "date": "2026-01-26",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T08:37:54.408Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "January_26.pdf",
+        "sourceId": "migrated-ca-2026-01-sec2-1",
+        "sourceTitle": "India Becomes World's 4th-Largest Economy at $4.18 Trillion",
+        "sourceChecksum": "b31325eefb9562d5979f89f12c8669e21c815c5dc6b3f55d8d77c15193688ef6",
+        "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+        "normalizationRuleVersion": "1.0.0-jan2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-01-sec2-2",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "NSO 1st Advance Estimates: FY26 Real GDP Growth Projected at 7.4%",
+    "summary": "NSO projects real GDP to reach ₹201.90 lakh crore (7.4% growth) and nominal GDP at ₹357.14 lakh crore (8% growth).",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "January 2026"
+      ],
+      "date": "2026-01-26",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T08:37:54.408Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "January_26.pdf",
+        "sourceId": "migrated-ca-2026-01-sec2-2",
+        "sourceTitle": "NSO 1st Advance Estimates: FY26 Real GDP Growth Projected at 7.4%",
+        "sourceChecksum": "a75dc26bb2495690742339fb16e73e2dfe423b12ca2120d1fd3c8f25a15494c9",
+        "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+        "normalizationRuleVersion": "1.0.0-jan2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-01-sec2-3",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "December CPI Inflation Cools to 1.33%",
+    "summary": "Retail inflation drops to 1.33% in December 2025 as Consumer Food Price Index (CFPI) enters negative territory (-2.71%).",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "January 2026"
+      ],
+      "date": "2026-01-26",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T08:37:54.408Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "January_26.pdf",
+        "sourceId": "migrated-ca-2026-01-sec2-3",
+        "sourceTitle": "December CPI Inflation Cools to 1.33%",
+        "sourceChecksum": "c93e421aee80d9a8e2ffde03859b85795a48b8f558180faff34b419562111a0f",
+        "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+        "normalizationRuleVersion": "1.0.0-jan2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-01-sec2-4",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "UPI Hits All-Time High 21.63 Billion Transactions in Dec 2025",
+    "summary": "UPI processed 21.63 billion transactions worth ₹27.97 lakh crore in December 2025, commanding 84.8% of retail digital volume.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec5",
+        "Current Affairs 2026",
+        "January 2026"
+      ],
+      "date": "2026-01-26",
+      "category": "SEC5",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T08:37:54.408Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "January_26.pdf",
+        "sourceId": "migrated-ca-2026-01-sec2-4",
+        "sourceTitle": "UPI Hits All-Time High 21.63 Billion Transactions in Dec 2025",
+        "sourceChecksum": "12b8b86305bada9a01f62a646e556f505a7fa7bd83e77d0fc967a414d0382b83",
+        "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+        "normalizationRuleVersion": "1.0.0-jan2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-01-sec2-5",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "100% Insurance FDI Operationalised via Sabka Bima Sabki Raksha",
+    "summary": "Finance Ministry notifies Foreign Investment Amendment Rules 2025, requiring only one resident Indian key executive.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec5",
+        "Current Affairs 2026",
+        "January 2026"
+      ],
+      "date": "2026-01-26",
+      "category": "SEC5",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T08:37:54.408Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "January_26.pdf",
+        "sourceId": "migrated-ca-2026-01-sec2-5",
+        "sourceTitle": "100% Insurance FDI Operationalised via Sabka Bima Sabki Raksha",
+        "sourceChecksum": "4b2c894ba56a9491c34f9eddc0befb2dda592190f0e4e65eb93f1f64e5c78283",
+        "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+        "normalizationRuleVersion": "1.0.0-jan2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-01-sec2-6",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "RBI Raises Bank Dividend Payout Cap to 75% of PAT",
+    "summary": "RBI proposes raising dividend payout ceiling for commercial banks from 40% to 75% of PAT effective FY2026-27.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec2",
+        "Current Affairs 2026",
+        "January 2026"
+      ],
+      "date": "2026-01-26",
+      "category": "SEC2",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T08:37:54.408Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "January_26.pdf",
+        "sourceId": "migrated-ca-2026-01-sec2-6",
+        "sourceTitle": "RBI Raises Bank Dividend Payout Cap to 75% of PAT",
+        "sourceChecksum": "e39ce132c7b27e743206646216071a1fc22889f51f50ca7a6c95f28d139af032",
+        "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+        "normalizationRuleVersion": "1.0.0-jan2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-01-sec3-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "RBI Announces First-Ever 90-Day VRR in ₹2.15 Lakh Crore Package",
+    "summary": "RBI injects liquidity via ₹25,000 crore 90-day Variable Rate Repo (VRR), USD/INR swap, and ₹1 lakh crore OMO purchases.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec2",
+        "Current Affairs 2026",
+        "January 2026"
+      ],
+      "date": "2026-01-26",
+      "category": "SEC2",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T08:37:54.408Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "January_26.pdf",
+        "sourceId": "migrated-ca-2026-01-sec3-1",
+        "sourceTitle": "RBI Announces First-Ever 90-Day VRR in ₹2.15 Lakh Crore Package",
+        "sourceChecksum": "866f92e2ef6e4216b7cfb878ac6fa323fc1b7c93b5219d9b8e7f6a6735a3469a",
+        "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+        "normalizationRuleVersion": "1.0.0-jan2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-01-sec3-2",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "SEBI Introduces Base Expense Ratio (BER) for Mutual Funds",
+    "summary": "SEBI (Mutual Funds) Regulations 2026 splits AMC management fees (BER) from pass-through costs (brokerage/STT).",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec4",
+        "Current Affairs 2026",
+        "January 2026"
+      ],
+      "date": "2026-01-26",
+      "category": "SEC4",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T08:37:54.408Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "January_26.pdf",
+        "sourceId": "migrated-ca-2026-01-sec3-2",
+        "sourceTitle": "SEBI Introduces Base Expense Ratio (BER) for Mutual Funds",
+        "sourceChecksum": "efc07cda289067425e3449328caf13dc62d2679de315926627dc4504313c8847",
+        "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+        "normalizationRuleVersion": "1.0.0-jan2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-01-sec4-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Small Savings Interest Rates Frozen for Q4 FY26",
+    "summary": "Government keeps small savings rates unchanged for Jan-Mar 2026; Sukanya Samriddhi and SCSS lead at 8.2%.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec5",
+        "Current Affairs 2026",
+        "January 2026"
+      ],
+      "date": "2026-01-26",
+      "category": "SEC5",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T08:37:54.408Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "January_26.pdf",
+        "sourceId": "migrated-ca-2026-01-sec4-1",
+        "sourceTitle": "Small Savings Interest Rates Frozen for Q4 FY26",
+        "sourceChecksum": "ffbe555966a07ac134231cb6072f0d87dfd80d61992e37a84387f1701b142264",
+        "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+        "normalizationRuleVersion": "1.0.0-jan2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-01-sec5-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "131 Padma Awards 2026 Announced",
+    "summary": "2026 Republic Day honours list features 5 Padma Vibhushan, 13 Padma Bhushan, and 113 Padma Shri awardees.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec7",
+        "Current Affairs 2026",
+        "January 2026"
+      ],
+      "date": "2026-01-26",
+      "category": "SEC7",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T08:37:54.408Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "January_26.pdf",
+        "sourceId": "migrated-ca-2026-01-sec5-1",
+        "sourceTitle": "131 Padma Awards 2026 Announced",
+        "sourceChecksum": "8e2091def15ee05040d044d74b6d1ac8aa4f541c198ed60ece284fad82f9d65d",
+        "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+        "normalizationRuleVersion": "1.0.0-jan2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-01-sec5-2",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "India Ranks 80th on Henley Passport Index 2026",
+    "summary": "Indian passport holders gain visa-free/on-arrival access to 55 destinations, moving up 5 spots to 80th globally.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec7",
+        "Current Affairs 2026",
+        "January 2026"
+      ],
+      "date": "2026-01-26",
+      "category": "SEC7",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T08:37:54.408Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "January_26.pdf",
+        "sourceId": "migrated-ca-2026-01-sec5-2",
+        "sourceTitle": "India Ranks 80th on Henley Passport Index 2026",
+        "sourceChecksum": "157b1e6f8b3fd7d89b819223acebf3cdf2224f9644e09c067f0e5b75e4ec9a61",
+        "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+        "normalizationRuleVersion": "1.0.0-jan2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-01-sec6-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "PM-RKVY Absorbs 3 Agriculture Schemes into ₹1.75 Lakh Crore Umbrella",
+    "summary": "PM-RKVY folds Krishonnati Yojana, Natural Farming, and Honey Mission into 5-year 16th Finance Commission cycle.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec10",
+        "Current Affairs 2026",
+        "January 2026"
+      ],
+      "date": "2026-01-26",
+      "category": "SEC10",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T08:37:54.408Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "January_26.pdf",
+        "sourceId": "migrated-ca-2026-01-sec6-1",
+        "sourceTitle": "PM-RKVY Absorbs 3 Agriculture Schemes into ₹1.75 Lakh Crore Umbrella",
+        "sourceChecksum": "334321e860357fa04d623a318f181e8433346f74df3cba59bfc190dbfd0fb74b",
+        "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+        "normalizationRuleVersion": "1.0.0-jan2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-01-sec6-2",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "India AI Impact Summit 2026 to be Held in New Delhi",
+    "summary": "India's flagship AI summit scheduled for 15-20 February 2026 in New Delhi following 8 regional build-up conferences.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec9",
+        "Current Affairs 2026",
+        "January 2026"
+      ],
+      "date": "2026-01-26",
+      "category": "SEC9",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T08:37:54.408Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "January_26.pdf",
+        "sourceId": "migrated-ca-2026-01-sec6-2",
+        "sourceTitle": "India AI Impact Summit 2026 to be Held in New Delhi",
+        "sourceChecksum": "629e19477dc6d491ac5ffc83539c83f852c1d3c6c121ca326d246ed89dabb608",
+        "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+        "normalizationRuleVersion": "1.0.0-jan2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-01-sec6-3",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "January 2026 Rapid Recall & Key Milestones Summary",
+    "summary": "Consolidated high-yield recall summary of key figures, records, and dates from January 2026.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec11",
+        "Current Affairs 2026",
+        "January 2026"
+      ],
+      "date": "2026-01-26",
+      "category": "SEC11",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T08:37:54.408Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "January_26.pdf",
+        "sourceId": "migrated-ca-2026-01-sec6-3",
+        "sourceTitle": "January 2026 Rapid Recall & Key Milestones Summary",
+        "sourceChecksum": "7d1b0aecd82bf1d78d8c3c3b9a3d9d5f0d9904ee110e31e725f60a035b290e3a",
+        "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+        "normalizationRuleVersion": "1.0.0-jan2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec1-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Union Budget 2026-27 — Sitharaman's First Budget from Kartavya Bhawan",
+    "summary": "FM Nirmala Sitharaman presented Union Budget 2026-27 with fiscal deficit target of 4.3% of GDP, Capex at ₹12.2 lakh crore, and the New Income Tax Act 2025.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec1-1",
+        "sourceTitle": "Union Budget 2026-27 — Sitharaman's First Budget from Kartavya Bhawan",
+        "sourceChecksum": "263196f3b0840fdbb362ae69521e3755443702e07507e85b966c4beacef4911a",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec1-2",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "16th Finance Commission — Tax Devolution Retained at 41%",
+    "summary": "16th Finance Commission (Chaired by Arvind Panagariya) retains vertical tax devolution at 41% while introducing a new 10% weightage for Contribution to GDP.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec1-2",
+        "sourceTitle": "16th Finance Commission — Tax Devolution Retained at 41%",
+        "sourceChecksum": "2d537e23b33a99d89688aafedb3bafe2dea3512ecebe7ac60b93f8a6be7c3f6c",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec1-3",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "SME Growth Fund & TReDS Reforms",
+    "summary": "Government establishes ₹10,000 Cr SME Growth Fund and 4 key TReDS reforms to boost MSME invoice financing.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec5",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC5",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec1-3",
+        "sourceTitle": "SME Growth Fund & TReDS Reforms",
+        "sourceChecksum": "5dff7b84587098b62d83f284fea19e787dce0fb3a89af517ba5665e6a90a5a1f",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec1-4",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Proposal to Raise FDI Cap in Public Sector Banks to 49%",
+    "summary": "Government considers raising FDI limit in PSBs from 20% to 49% while retaining minimum 51% state ownership.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec5",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC5",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec1-4",
+        "sourceTitle": "Proposal to Raise FDI Cap in Public Sector Banks to 49%",
+        "sourceChecksum": "a374e94866099ebdc475e4e376fba405918fe248b831908e3a5be5093ac380ce",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec1-5",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "SBI Overtakes TCS as India's 4th Most Valuable Company",
+    "summary": "SBI market capitalization crosses ₹10.9 lakh crore, surpassing TCS to become India's 4th most valuable company by m-cap.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec5",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC5",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec1-5",
+        "sourceTitle": "SBI Overtakes TCS as India's 4th Most Valuable Company",
+        "sourceChecksum": "004e8a57055196c285a0e2906ff033d03ee60d40f11425ac75cec4b57f98eb7e",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec1-6",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Gender Budget 2026-27 Rises to 9.37% of Union Budget",
+    "summary": "Gender Budget allocation increases to ₹5.01 lakh crore (9.37% of Union Budget), spanning 53 Ministries and 5 UTs.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec1-6",
+        "sourceTitle": "Gender Budget 2026-27 Rises to 9.37% of Union Budget",
+        "sourceChecksum": "cc4a7fc5c1da3513ef54135c0bd46d3dd04d66deac6cb8f534a429d845c55441",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec10-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "India Semiconductor Mission 2.0 (ISM 2.0) Announced",
+    "summary": "Budget 2026-27 allocates ₹1,000 crore for ISM 2.0 to focus on domestic semiconductor equipment & materials manufacturing.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec10",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC10",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec10-1",
+        "sourceTitle": "India Semiconductor Mission 2.0 (ISM 2.0) Announced",
+        "sourceChecksum": "110f39583a2deb2a08ee8a1c2521ac7cd62ec8033687d60490656cc36e451f7a",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec10-2",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Cabinet Approves ₹1 Lakh Crore Urban Challenge Fund (UCF)",
+    "summary": "UCF provides ₹1 lakh crore central assistance to catalyze ₹4 lakh crore total urban infrastructure investment.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec10",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC10",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec10-2",
+        "sourceTitle": "Cabinet Approves ₹1 Lakh Crore Urban Challenge Fund (UCF)",
+        "sourceChecksum": "9e3ebc6173d4be0e990cf9772c59e6ddeb0674b9b7d07fba9b6837b298ad093e",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec10-3",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "India's First Underwater Twin-Tube Tunnel Approved in Assam",
+    "summary": "CCEA approves ₹18,662 crore underwater road-cum-rail tunnel under Brahmaputra River connecting Gohpur and Numaligarh.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec10",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC10",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec10-3",
+        "sourceTitle": "India's First Underwater Twin-Tube Tunnel Approved in Assam",
+        "sourceChecksum": "b50adf2a4a121d9866727e3a3d0917c499d5cc1463fcafbe7aaf3a084f54664e",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec10-4",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Vibrant Villages Programme-II (VVP-II) Launched with ₹6,839 Crore Outlay",
+    "summary": "Amit Shah launches VVP-II covering border villages along Pakistan, Bangladesh, Nepal, Bhutan, and Myanmar across 15 states and 2 UTs.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec10",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC10",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec10-4",
+        "sourceTitle": "Vibrant Villages Programme-II (VVP-II) Launched with ₹6,839 Crore Outlay",
+        "sourceChecksum": "35c2502139636714a84c62fec9ecf0d5b63b71c750ada27fbb8e42e18d497e83",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec10-5",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "MHA Unveils 'PRAHAAR' — India's First National Counter-Terrorism Policy",
+    "summary": "MHA releases PRAHAAR policy built around 7 pillars, establishing MAC/JTFI under IB and NIA for terror investigation.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec9",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC9",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec10-5",
+        "sourceTitle": "MHA Unveils 'PRAHAAR' — India's First National Counter-Terrorism Policy",
+        "sourceChecksum": "93076d6e2a97b24a52f40bfc6a891f5cabfd51ae1c72a857c8c7f0f6a45debb1",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec10-6",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "February 2026 Rapid Recall & Key Milestones Summary",
+    "summary": "High-speed sweep of top figures, budget highlights, policy decisions, and sports records from February 2026.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec11",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC11",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec10-6",
+        "sourceTitle": "February 2026 Rapid Recall & Key Milestones Summary",
+        "sourceChecksum": "74f01d4878a04f6620d71d334cb3e3d0d1172020539046fa2f6f947f71d37bea",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec2-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "RBI Monetary Policy Feb 2026 — Repo Rate Held at 5.25%, MSME Loan Limit Doubled",
+    "summary": "RBI keeps Repo Rate unchanged at 5.25%, doubles collateral-free MSME loan limit to ₹20 lakh, and sets digital-fraud compensation cap at ₹25,000.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec2",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC2",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec2-1",
+        "sourceTitle": "RBI Monetary Policy Feb 2026 — Repo Rate Held at 5.25%, MSME Loan Limit Doubled",
+        "sourceChecksum": "e4506dfe444efef973df8ced2f2ba3b212b00a79dba10a9ee4ab0585f085c853",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec2-2",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Kisan Credit Card (KCC) Draft Norms — Validity Extended to 6 Years",
+    "summary": "RBI draft extends KCC validity from 5 to 6 years and waives collateral/margin for agri loans up to ₹2 lakh.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec2",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC2",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec2-2",
+        "sourceTitle": "Kisan Credit Card (KCC) Draft Norms — Validity Extended to 6 Years",
+        "sourceChecksum": "cce755f1070e647befcaa1cb78852c46f4a72b9788473c0c269ed645b8da055c",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec2-3",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "DICGC Risk-Based Deposit Insurance Premium Framework",
+    "summary": "DICGC moves from flat 12 paise/₹100 premium to a 4-tier risk-based framework starting 1 April 2026.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec2",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC2",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec2-3",
+        "sourceTitle": "DICGC Risk-Based Deposit Insurance Premium Framework",
+        "sourceChecksum": "20ef64f488b5e55b4d9d2034e2a983c5c29d5471abeb1811c535e101d7ea26b4",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec2-4",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "RBI Anti-Mis-Selling Directions 2026 (Responsible Business Conduct)",
+    "summary": "RBI issues draft directions providing India's first formal definition of mis-selling and restricting sales calls to 9 AM – 6 PM.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec2",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC2",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec2-4",
+        "sourceTitle": "RBI Anti-Mis-Selling Directions 2026 (Responsible Business Conduct)",
+        "sourceChecksum": "e86534bbf9a5346a7d2a4a9aaa55c1b9b0a9c7a1329ad294222c1d8abcb18541",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec2-5",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "RBI LBS Norms — 60% Credit-Deposit (CD) Ratio Target for Rural Branches",
+    "summary": "Revised Lead Bank Scheme (LBS) guidelines require banks to maintain a 60% CD ratio in rural and semi-urban branches.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec2",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC2",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec2-5",
+        "sourceTitle": "RBI LBS Norms — 60% Credit-Deposit (CD) Ratio Target for Rural Branches",
+        "sourceChecksum": "9fcaddced63249b09f8acf093febe5e3ac88e8c9acb727195d6ce1d0d5dd0bd7",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec2-6",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "RBI Eases Acquisition Financing Norms for Banks",
+    "summary": "RBI raises bank exposure cap for acquisition financing from 10% to 20% of capital and allows financing for unlisted acquisitions.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec2",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC2",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec2-6",
+        "sourceTitle": "RBI Eases Acquisition Financing Norms for Banks",
+        "sourceChecksum": "392c216a877dc18f4c84582db72db0d954fc454e3b51c8339d49336d6bc51d94",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec2-7",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "RBI External Commercial Borrowings (ECB) Cap Raised to $1 Billion",
+    "summary": "Eligible borrowers can now raise up to $1 billion via ECB route (up from $750 million) per financial year.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec2",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC2",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec2-7",
+        "sourceTitle": "RBI External Commercial Borrowings (ECB) Cap Raised to $1 Billion",
+        "sourceChecksum": "2db7686747c97be0e3a5cb6d0c56ffffe612db0ced0ffd4531516e06fd51aa50",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec2-8",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "RBI Mandates 52-Character UTI for OTC Derivatives",
+    "summary": "Unique Transaction Identifier (UTI) becomes mandatory for OTC rupee interest rate and FX derivatives from 1 January 2027.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec2",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC2",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec2-8",
+        "sourceTitle": "RBI Mandates 52-Character UTI for OTC Derivatives",
+        "sourceChecksum": "c02fa7920f8651c070005aa97271a7b6d6297176824918ad57852e357824f10e",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec2-9",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "RBI's Second Data Centre Opened in Bhubaneswar, Odisha",
+    "summary": "RBI establishes its 2nd greenfield Tier-IV certified data centre in Bhubaneswar (Primary DC: Kharghar, Navi Mumbai).",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec2",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC2",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec2-9",
+        "sourceTitle": "RBI's Second Data Centre Opened in Bhubaneswar, Odisha",
+        "sourceChecksum": "4a43c414d5082ce2affada7ebc7a56c8c6490dc09c6a99bef3451f265dd92864",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec3-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "CBDC-PDS Pilots — Twin Digital-Rupee Food-Subsidy Schemes Launched",
+    "summary": "India launches two parallel CBDC food-subsidy pilots: Gujarat Digital Food Coupon (Annapurti ATMs) and Puducherry PMGKAY e-Rupee token.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec5",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC5",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec3-1",
+        "sourceTitle": "CBDC-PDS Pilots — Twin Digital-Rupee Food-Subsidy Schemes Launched",
+        "sourceChecksum": "c84dbb700348a0ae6c9a7d9637903260c2eb4e0686fcd54a5d8ba356add0c619",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec3-2",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Kotak Mahindra Bank — First Custodian to Issue Fully Digital FPI Licence",
+    "summary": "Kotak Mahindra Bank becomes India's first custodian to issue end-to-end electronic FPI licences via SEBI's CAF portal within 24 hours.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec5",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC5",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec3-2",
+        "sourceTitle": "Kotak Mahindra Bank — First Custodian to Issue Fully Digital FPI Licence",
+        "sourceChecksum": "f98870efcde58c2e22ff65562cec30e971b29837a66b45d882ebf307cb04e797",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec3-3",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "UPI Reaches All-Time High ₹28.33 Trillion in January 2026",
+    "summary": "UPI processed ₹28.33 trillion across 21.70 billion transactions in January 2026 (+21% MoM value growth).",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec5",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC5",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec3-3",
+        "sourceTitle": "UPI Reaches All-Time High ₹28.33 Trillion in January 2026",
+        "sourceChecksum": "bcebbb3112acffe0cf80ee06864499a5e262cf3fbfa8bf28a1bdf481f5d91684",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec3-4",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "MIGA $197.67 Million Guarantee for SBI Rooftop Solar Refinancing",
+    "summary": "Multilateral Investment Guarantee Agency (MIGA) provides $197.67 million 5-year guarantee to Citibank for loan to SBI.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec5",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC5",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec3-4",
+        "sourceTitle": "MIGA $197.67 Million Guarantee for SBI Rooftop Solar Refinancing",
+        "sourceChecksum": "3c6982863735889b740414b6ab91428cc5278b4bd0812bb5c50d9309530e0119",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec3-5",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Tripura Gramin Bank — 1st RRB in India with Co-Branded RuPay Credit Card",
+    "summary": "Tripura Gramin Bank (sponsored by PNB) launches India's first co-branded RuPay credit card by a Regional Rural Bank.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec5",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC5",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec3-5",
+        "sourceTitle": "Tripura Gramin Bank — 1st RRB in India with Co-Branded RuPay Credit Card",
+        "sourceChecksum": "d6b3e2f9ec83132d4960e41c6439b3d2efa344128083933b1a5c3498a1245ba5",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec4-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "India-US Trade Deal — US Reciprocal Tariff Cut to 18%",
+    "summary": "US President Trump announces India-US trade deal: US reciprocal tariffs cut from 25% to 18% as India commits $500B purchases and 0% tariffs.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec4-1",
+        "sourceTitle": "India-US Trade Deal — US Reciprocal Tariff Cut to 18%",
+        "sourceChecksum": "ef2cca94991ae701aa9414f9262bf5f8a06936926fe849021fecefe08082cc71",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec4-2",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "India Joins 'Pax Silica' Coalition as 10th Full Member",
+    "summary": "India signs on to Pax Silica coalition at India AI Impact Summit alongside Microsoft's $17.5 billion AI investment.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec6",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC6",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec4-2",
+        "sourceTitle": "India Joins 'Pax Silica' Coalition as 10th Full Member",
+        "sourceChecksum": "b595a2e02b74f5d234a441018f45bc24e74935a4cdf36136519dc0fdb2e9615f",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec4-3",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Indian Navy Assumes IONS Chairmanship for 2026–2028",
+    "summary": "Admiral Dinesh K. Tripathi takes over chairmanship of Indian Ocean Naval Symposium (IONS) at 9th Conclave of Chiefs in Visakhapatnam.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec6",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC6",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec4-3",
+        "sourceTitle": "Indian Navy Assumes IONS Chairmanship for 2026–2028",
+        "sourceChecksum": "dfa6946ed0f698f37936b8a347a084f91a2e81265822554d06b803063fb4637b",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec4-4",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Namo Bharat RRTS & Meerut Metro Shared-Track Corridor Dedicated",
+    "summary": "PM Modi inaugurates 82-km Delhi-Meerut Namo Bharat corridor featuring world's first shared track for RRTS (180 kmph) and Meerut Metro (120 kmph).",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec10",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC10",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec4-4",
+        "sourceTitle": "Namo Bharat RRTS & Meerut Metro Shared-Track Corridor Dedicated",
+        "sourceChecksum": "d8b51ebfff711396ff6655a7a483bdc010064320833a2c81b6f8a285c29d5960",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec4-5",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Cabinet Approves Renaming Kerala to 'Keralam'",
+    "summary": "Union Cabinet clears 'Kerala (Alteration of Name) Bill 2026' under Article 3 of the Constitution.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec1",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC1",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec4-5",
+        "sourceTitle": "Cabinet Approves Renaming Kerala to 'Keralam'",
+        "sourceChecksum": "6abd91393f5bec8d4bf9b7c0a8abd813cf9773fbaf9f8bbb4e453c608e25977b",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec5-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Defence Acquisition Council Clears ₹3.60 Lakh Crore Acquisitions Including 114 Rafales",
+    "summary": "DAC accords Acceptance of Necessity (AoN) for ₹3.60 lakh crore capital acquisitions, including 114 Rafale jets.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec8",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC8",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec5-1",
+        "sourceTitle": "Defence Acquisition Council Clears ₹3.60 Lakh Crore Acquisitions Including 114 Rafales",
+        "sourceChecksum": "11d58b7c3e1bc61c2700a25452d4de10b515fa10830d36bf7cb0def9a0266233",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec5-2",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Uday Kotak Appointed Chairman of GIFT City Company Ltd",
+    "summary": "Kotak Mahindra Bank founder Uday Kotak appointed Chairman of GIFT City Company Ltd, succeeding Hasmukh Adhia.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec8",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC8",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec5-2",
+        "sourceTitle": "Uday Kotak Appointed Chairman of GIFT City Company Ltd",
+        "sourceChecksum": "9fb571d05abcc97c70477ec90b08fd68285818df03bf49d260659392ccbcd2a2",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec6-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "India Wins Record 6th ICC Under-19 Cricket World Cup",
+    "summary": "India U-19 team captained by Ayush Mhatre beats England by 100 runs in Harare to claim India's 6th U-19 World Cup title.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec8",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC8",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec6-1",
+        "sourceTitle": "India Wins Record 6th ICC Under-19 Cricket World Cup",
+        "sourceChecksum": "a06e8d7c25916153bbf58e60df573afeb13f8e79a1935473f388fd1e6c7742b5",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec6-2",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "India & Sri Lanka Co-Host 10th ICC Men's T20 World Cup 2026",
+    "summary": "20 teams compete across 55 matches in India and Sri Lanka (Scotland replacing Bangladesh).",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec8",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC8",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec6-2",
+        "sourceTitle": "India & Sri Lanka Co-Host 10th ICC Men's T20 World Cup 2026",
+        "sourceChecksum": "00cebd35d59c2dc000b60ca82c8aa04a6de5b7dd9adb91f7ea1c0767e996c7f0",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec6-3",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "BCCI Scraps A+ Grade in Central Contracts Restructure",
+    "summary": "BCCI moves from 4-tier to 3-tier central contract system (A, B, C), discontinuing the ₹7 Cr/year A+ bracket.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec8",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC8",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec6-3",
+        "sourceTitle": "BCCI Scraps A+ Grade in Central Contracts Restructure",
+        "sourceChecksum": "667c9fcfb400835e5fe387aa1e894ba53bad954348ac6bda1b1144de88e66c6d",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec7-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "India Climbs 5 Slots to 91st on Corruption Perception Index 2025",
+    "summary": "India ranks 91st out of 180 countries with a score of 39/100 on Transparency International's CPI 2025.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec7",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC7",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec7-1",
+        "sourceTitle": "India Climbs 5 Slots to 91st on Corruption Perception Index 2025",
+        "sourceChecksum": "24d7ba307aad5e9532b730fdd01da08add855ca6c5e9386c7a1c3b67478f4bf2",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-02-sec7-2",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "India's Statistical Base-Year Reset to 2022-23",
+    "summary": "MoSPI revises base years for GDP (2022-23), IIP (2022-23), and CPI (2024=100) per Biswanath Goldar committee recommendations.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec7",
+        "Current Affairs 2026",
+        "February 2026"
+      ],
+      "date": "2026-02-15",
+      "category": "SEC7",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T09:37:06.757Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Feb2026.pdf",
+        "sourceId": "migrated-ca-2026-02-sec7-2",
+        "sourceTitle": "India's Statistical Base-Year Reset to 2022-23",
+        "sourceChecksum": "038da547c67dcb0cb3bb97740e522063e60a5c392fd1e4ec11161a3a1c18e1de",
+        "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+        "normalizationRuleVersion": "1.0.0-feb2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-03-sec1-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Cabinet Approves Changes to FDI Policy for Land-Bordering Countries (LBC) & PN3 Timeline",
+    "summary": "Cabinet permits up to 10% non-controlling LBC beneficial ownership under automatic route and sets 60-day clearance timeline for critical sectors.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "March 2026"
+      ],
+      "date": "2026-03-15",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:13:16.778Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "march2026_lighttouch.pdf",
+        "sourceId": "migrated-ca-2026-03-sec1-1",
+        "sourceTitle": "Cabinet Approves Changes to FDI Policy for Land-Bordering Countries (LBC) & PN3 Timeline",
+        "sourceChecksum": "8767202ea940bbd93e571903e6f92aa24305d2fc3b113335c28165bed154f5b1",
+        "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+        "normalizationRuleVersion": "1.0.0-mar2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-03-sec1-2",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Income Tax Act, 2025 to Replace 1961 Act from April 1, 2026 — 'PRARAMBH 2026' Launched",
+    "summary": "FM Sitharaman launches PRARAMBH 2026 campaign and Income Tax Website 2.0 as India replaces the 65-year-old Income Tax Act 1961.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "March 2026"
+      ],
+      "date": "2026-03-15",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:13:16.778Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "march2026_lighttouch.pdf",
+        "sourceId": "migrated-ca-2026-03-sec1-2",
+        "sourceTitle": "Income Tax Act, 2025 to Replace 1961 Act from April 1, 2026 — 'PRARAMBH 2026' Launched",
+        "sourceChecksum": "c880ca28d5aa2c38c6417134217762e6012e019e9603de8f773a233f826f5420",
+        "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+        "normalizationRuleVersion": "1.0.0-mar2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-03-sec1-3",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "EPFO Retains PF Interest Rate at 8.25% for FY26 (3rd Consecutive Year)",
+    "summary": "EPFO Central Board of Trustees decides to maintain EPF interest rate at 8.25% for 7.8 crore members for FY2025-26.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec5",
+        "Current Affairs 2026",
+        "March 2026"
+      ],
+      "date": "2026-03-15",
+      "category": "SEC5",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:13:16.778Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "march2026_lighttouch.pdf",
+        "sourceId": "migrated-ca-2026-03-sec1-3",
+        "sourceTitle": "EPFO Retains PF Interest Rate at 8.25% for FY26 (3rd Consecutive Year)",
+        "sourceChecksum": "5a09000effeb75f1d18d67602cfc6fc3bcc6f5040fc0722f1d0fb92a2037ca10",
+        "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+        "normalizationRuleVersion": "1.0.0-mar2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-03-sec1-4",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "India's Current Account Deficit (CAD) Touches 1.3% of GDP in Q3 FY26",
+    "summary": "RBI data shows Q3 FY26 CAD rose to $13.2 billion (1.3% of GDP), while Apr-Dec cumulative CAD moderated to $30.1 billion (1% of GDP).",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "March 2026"
+      ],
+      "date": "2026-03-15",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:13:16.778Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "march2026_lighttouch.pdf",
+        "sourceId": "migrated-ca-2026-03-sec1-4",
+        "sourceTitle": "India's Current Account Deficit (CAD) Touches 1.3% of GDP in Q3 FY26",
+        "sourceChecksum": "6f95e6e85eae76058d7cba9456fc6696c026100e662b4868187725e773f13526",
+        "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+        "normalizationRuleVersion": "1.0.0-mar2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-03-sec1-5",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "India's Forex Reserves Hit Record All-Time High $728.494 Billion",
+    "summary": "India's foreign exchange reserves surged to an all-time peak of $728.494 billion for the week ending Feb 27, 2026.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec5",
+        "Current Affairs 2026",
+        "March 2026"
+      ],
+      "date": "2026-03-15",
+      "category": "SEC5",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:13:16.778Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "march2026_lighttouch.pdf",
+        "sourceId": "migrated-ca-2026-03-sec1-5",
+        "sourceTitle": "India's Forex Reserves Hit Record All-Time High $728.494 Billion",
+        "sourceChecksum": "856ca916313c86eda8ef73422cdd6c299a4eb3db3b106999e9ca8114405ef077",
+        "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+        "normalizationRuleVersion": "1.0.0-mar2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-03-sec1-6",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Global Nominal GDP Rankings & Base Year Revision (Fact-Check Verified)",
+    "summary": "IMF & MoSPI verified data confirms India is the 5th largest economy ($4.19T) while Japan is 4th ($4.36T). Base year revised to 2022-23.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec1",
+        "Current Affairs 2026",
+        "March 2026",
+        "Fact-Check Verified"
+      ],
+      "date": "2026-03-15",
+      "category": "SEC1",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:35:53.245Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "march2026_lighttouch.pdf",
+        "sourceId": "migrated-ca-2026-03-sec1-6",
+        "sourceTitle": "Global Nominal GDP Rankings & Base Year Revision (Fact-Check Verified)",
+        "sourceChecksum": "df3b6bdb63a765bc7468faa2272581549b154719a64d12853d70380416656d83",
+        "migrationTimestamp": "2026-08-16T11:35:53.245Z",
+        "normalizationRuleVersion": "1.0.0-mar2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-03-sec10-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "VB-G RAM G Act, 2025 Replaces MGNREGA — Wage Guarantee Raised to 125 Days",
+    "summary": "Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin) Act 2025 replaces MGNREGA 2005, raising annual wage days from 100 to 125.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec10",
+        "Current Affairs 2026",
+        "March 2026"
+      ],
+      "date": "2026-03-15",
+      "category": "SEC10",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:13:16.778Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "march2026_lighttouch.pdf",
+        "sourceId": "migrated-ca-2026-03-sec10-1",
+        "sourceTitle": "VB-G RAM G Act, 2025 Replaces MGNREGA — Wage Guarantee Raised to 125 Days",
+        "sourceChecksum": "e3f1ebf3da5cebd4bd5330e45052ef1942dc702edf55028cf5cc6b53c1758940",
+        "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+        "normalizationRuleVersion": "1.0.0-mar2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-03-sec10-2",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Jal Jeevan Mission (JJM 2.0) Extended to Dec 2028 with ₹8.69 Lakh Crore Outlay",
+    "summary": "Cabinet restructures JJM with ₹8.69 lakh crore total outlay and introduces 'Sujalam Bharat' digital village water mapping.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec10",
+        "Current Affairs 2026",
+        "March 2026"
+      ],
+      "date": "2026-03-15",
+      "category": "SEC10",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:13:16.778Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "march2026_lighttouch.pdf",
+        "sourceId": "migrated-ca-2026-03-sec10-2",
+        "sourceTitle": "Jal Jeevan Mission (JJM 2.0) Extended to Dec 2028 with ₹8.69 Lakh Crore Outlay",
+        "sourceChecksum": "4e15140ba52b6bad8202833602eb0d321979640512a36b4a9e482b2d70cebbae",
+        "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+        "normalizationRuleVersion": "1.0.0-mar2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-03-sec10-3",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "BHAVYA Scheme Approved — ₹33,660 Crore for 100 Plug-and-Play Industrial Parks",
+    "summary": "Cabinet clears Bharat Audyogik Vikas Yojna (BHAVYA) to set up 100 industrial parks sized 100-1,000 acres.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec10",
+        "Current Affairs 2026",
+        "March 2026"
+      ],
+      "date": "2026-03-15",
+      "category": "SEC10",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:13:16.778Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "march2026_lighttouch.pdf",
+        "sourceId": "migrated-ca-2026-03-sec10-3",
+        "sourceTitle": "BHAVYA Scheme Approved — ₹33,660 Crore for 100 Plug-and-Play Industrial Parks",
+        "sourceChecksum": "be10717e4491164e6e2f52b5a24641b40a82a4c7ddc3368363faea1b1342d6fb",
+        "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+        "normalizationRuleVersion": "1.0.0-mar2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-03-sec10-4",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "RCS-Modified UDAN Approved — ₹28,840 Crore Over 10 Years",
+    "summary": "Cabinet refreshes UDAN scheme with ₹28,840 crore outlay for 100 new airports and 200 helipads across FY27-FY36.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec10",
+        "Current Affairs 2026",
+        "March 2026"
+      ],
+      "date": "2026-03-15",
+      "category": "SEC10",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:13:16.778Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "march2026_lighttouch.pdf",
+        "sourceId": "migrated-ca-2026-03-sec10-4",
+        "sourceTitle": "RCS-Modified UDAN Approved — ₹28,840 Crore Over 10 Years",
+        "sourceChecksum": "7ae887143a4dea4bc6c69650b2172a20b7cb9ccf5c2f720e376d8e3a3ebf33ef",
+        "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+        "normalizationRuleVersion": "1.0.0-mar2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-03-sec10-5",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "PM-KISAN 22nd Instalment Released — ₹18,640 Crore to 9.32 Crore Farmers",
+    "summary": "PM Modi releases 22nd PM-KISAN instalment from Guwahati, taking total cumulative transfers past ₹4.27 lakh crore.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec10",
+        "Current Affairs 2026",
+        "March 2026"
+      ],
+      "date": "2026-03-15",
+      "category": "SEC10",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:13:16.778Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "march2026_lighttouch.pdf",
+        "sourceId": "migrated-ca-2026-03-sec10-5",
+        "sourceTitle": "PM-KISAN 22nd Instalment Released — ₹18,640 Crore to 9.32 Crore Farmers",
+        "sourceChecksum": "5cb1216f4971262e755efd0731d8707a0f572a015392037189f6a39c0c986a4a",
+        "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+        "normalizationRuleVersion": "1.0.0-mar2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-03-sec10-6",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "March 2026 Rapid Recall & Key Milestones Summary",
+    "summary": "Consolidated high-yield recall summary of key figures, policies, and macro indicators from March 2026.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec11",
+        "Current Affairs 2026",
+        "March 2026"
+      ],
+      "date": "2026-03-15",
+      "category": "SEC11",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:13:16.778Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "march2026_lighttouch.pdf",
+        "sourceId": "migrated-ca-2026-03-sec10-6",
+        "sourceTitle": "March 2026 Rapid Recall & Key Milestones Summary",
+        "sourceChecksum": "18859f1fe506c760a18a007cc22a65bda475b3cfb95d205043d61a70b5af454a",
+        "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+        "normalizationRuleVersion": "1.0.0-mar2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-03-sec2-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "SEBI Deploys 'Sudarshan' AI Surveillance System for Capital Markets",
+    "summary": "SEBI launches Sudarshan AI tool to scan social media audio/video/text for illegal finfluencer advice, removing 1.20 lakh+ posts.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec4",
+        "Current Affairs 2026",
+        "March 2026"
+      ],
+      "date": "2026-03-15",
+      "category": "SEC4",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:13:16.778Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "march2026_lighttouch.pdf",
+        "sourceId": "migrated-ca-2026-03-sec2-1",
+        "sourceTitle": "SEBI Deploys 'Sudarshan' AI Surveillance System for Capital Markets",
+        "sourceChecksum": "228f3f145da8390c86ebcfa8b319030db66846d31506278f042db1c5c316abb7",
+        "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+        "normalizationRuleVersion": "1.0.0-mar2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-03-sec2-2",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "RBI & Bank of Japan Renew $75 Billion Bilateral Swap Arrangement (BSA)",
+    "summary": "RBI and Bank of Japan sign 3rd Amendment & Restatement of $75 billion Bilateral Swap Arrangement effective 28 Feb 2026.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec2",
+        "Current Affairs 2026",
+        "March 2026"
+      ],
+      "date": "2026-03-15",
+      "category": "SEC2",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:13:16.778Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "march2026_lighttouch.pdf",
+        "sourceId": "migrated-ca-2026-03-sec2-2",
+        "sourceTitle": "RBI & Bank of Japan Renew $75 Billion Bilateral Swap Arrangement (BSA)",
+        "sourceChecksum": "01b910daf6ad14bdcb59a2bbc36c784639db9c103c35b68083071324496c348f",
+        "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+        "normalizationRuleVersion": "1.0.0-mar2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-03-sec2-3",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "RBI Issues Draft Compensation Framework for Digital Banking Fraud Victims",
+    "summary": "RBI draft caps victim fraud loss compensation at 85% of net loss or ₹25,000 max for frauds up to ₹50,000.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec2",
+        "Current Affairs 2026",
+        "March 2026"
+      ],
+      "date": "2026-03-15",
+      "category": "SEC2",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:13:16.778Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "march2026_lighttouch.pdf",
+        "sourceId": "migrated-ca-2026-03-sec2-3",
+        "sourceTitle": "RBI Issues Draft Compensation Framework for Digital Banking Fraud Victims",
+        "sourceChecksum": "bb0588f797e2de5c84386e31a62cbdd0fec9ea14fda9ef2f0fa38c24c1a89dcc",
+        "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+        "normalizationRuleVersion": "1.0.0-mar2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-03-sec2-4",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "SEBI Graded 6-Tier Minimum Public Shareholding (MPS) Framework for Mega-IPOs",
+    "summary": "Government eases MPS rules for large IPOs, creating 6 post-issue capital categories from ≤₹1,600 Cr to >₹5 lakh Cr.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec4",
+        "Current Affairs 2026",
+        "March 2026"
+      ],
+      "date": "2026-03-15",
+      "category": "SEC4",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:13:16.778Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "march2026_lighttouch.pdf",
+        "sourceId": "migrated-ca-2026-03-sec2-4",
+        "sourceTitle": "SEBI Graded 6-Tier Minimum Public Shareholding (MPS) Framework for Mega-IPOs",
+        "sourceChecksum": "c2d0b36d4541a43e631a4d14ed91fbeb67d6ce438e827120e4d3cc36633841eb",
+        "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+        "normalizationRuleVersion": "1.0.0-mar2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-03-sec2-5",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Govt Retains 4% Retail Inflation Target for 2026-2031 Cycle",
+    "summary": "Department of Economic Affairs retains 4% headline CPI target with +/-2% tolerance band (2-6% range) under Sec 45-ZA of RBI Act.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec2",
+        "Current Affairs 2026",
+        "March 2026"
+      ],
+      "date": "2026-03-15",
+      "category": "SEC2",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:13:16.778Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "march2026_lighttouch.pdf",
+        "sourceId": "migrated-ca-2026-03-sec2-5",
+        "sourceTitle": "Govt Retains 4% Retail Inflation Target for 2026-2031 Cycle",
+        "sourceChecksum": "5f92dd9cbec3880bbb7fb81b30a69837e84a34f5ccd1fe9462ce2698b2eab343",
+        "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+        "normalizationRuleVersion": "1.0.0-mar2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-03-sec3-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "MUFG Bank Acquires 20% Stake in Shriram Finance for ₹39,618 Crore ($4.4B)",
+    "summary": "CCI approves MUFG Bank's acquisition of 20% stake in Shriram Finance for ₹39,618 crore—India's largest cross-border financial services deal.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec5",
+        "Current Affairs 2026",
+        "March 2026"
+      ],
+      "date": "2026-03-15",
+      "category": "SEC5",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:13:16.778Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "march2026_lighttouch.pdf",
+        "sourceId": "migrated-ca-2026-03-sec3-1",
+        "sourceTitle": "MUFG Bank Acquires 20% Stake in Shriram Finance for ₹39,618 Crore ($4.4B)",
+        "sourceChecksum": "517c0b8278b9f830e9edab3371ffdfa0572bedda15bed584557acc2aae7ff40c",
+        "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+        "normalizationRuleVersion": "1.0.0-mar2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-03-sec3-2",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Jio Finance Launches 'Finsider' Agentic AI Financial Super-App",
+    "summary": "Jio Financial Services subsidiary launches Finsider super-app powered by Agentic AI and Neural Networks.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec5",
+        "Current Affairs 2026",
+        "March 2026"
+      ],
+      "date": "2026-03-15",
+      "category": "SEC5",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:13:16.778Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "march2026_lighttouch.pdf",
+        "sourceId": "migrated-ca-2026-03-sec3-2",
+        "sourceTitle": "Jio Finance Launches 'Finsider' Agentic AI Financial Super-App",
+        "sourceChecksum": "fd9ef329e28f8f8c0bd689c80813da94f3150f50ca6cab8ee113608c5d76d744",
+        "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+        "normalizationRuleVersion": "1.0.0-mar2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-03-sec3-3",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "SBI Launches $500 Million Syndicated Social Loan for Gender Equality",
+    "summary": "SBI issues $500 million social term loan with MUFG Bank as sole social loan coordinator—the largest gender-themed loan globally.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec5",
+        "Current Affairs 2026",
+        "March 2026"
+      ],
+      "date": "2026-03-15",
+      "category": "SEC5",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:13:16.778Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "march2026_lighttouch.pdf",
+        "sourceId": "migrated-ca-2026-03-sec3-3",
+        "sourceTitle": "SBI Launches $500 Million Syndicated Social Loan for Gender Equality",
+        "sourceChecksum": "ed2058d82de63f78e1a7c0e1db89da006eb5c736c49146ec58836f0ce1c2841b",
+        "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+        "normalizationRuleVersion": "1.0.0-mar2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-03-sec3-4",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Bank of Baroda Issues India's First Domestic Green Infrastructure Bonds (₹10,000 Cr)",
+    "summary": "Bank of Baroda becomes the first Indian bank to issue domestic Green Infrastructure Bonds, raising ₹10,000 crore at 7.10% coupon.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec5",
+        "Current Affairs 2026",
+        "March 2026"
+      ],
+      "date": "2026-03-15",
+      "category": "SEC5",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:13:16.778Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "march2026_lighttouch.pdf",
+        "sourceId": "migrated-ca-2026-03-sec3-4",
+        "sourceTitle": "Bank of Baroda Issues India's First Domestic Green Infrastructure Bonds (₹10,000 Cr)",
+        "sourceChecksum": "d84e333397a9876e4a4be1cf76ef1da4942c7f40eea6063ef5031dd818419856",
+        "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+        "normalizationRuleVersion": "1.0.0-mar2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec10-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Government Launches First Phase of Census 2027 — First Fully Digital & Caste-Enumerating Census",
+    "summary": "Phase I (House Listing) of Census 2027 launched on April 1, 2026 with ₹11,718.24 Cr budget—first digital census & 1st caste count since 1931.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec10",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC10",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:56:36.842Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec10-1",
+        "sourceTitle": "Government Launches First Phase of Census 2027 — First Fully Digital & Caste-Enumerating Census",
+        "sourceChecksum": "d89c6b29c03972dfa083516fe0cd0ea4ec183ac5d2aeaab5a3605e38823aa881",
+        "migrationTimestamp": "2026-08-16T11:56:36.842Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec10-2",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Parliament Passes 'Jan Vishwas (Amendment) Bill, 2026' Decriminalising 717 Provisions",
+    "summary": "Jan Vishwas Bill 2026 amends 784 provisions across 79 Central Acts to boost Ease of Doing Business by replacing criminal penalties with civil fines.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec10",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC10",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:56:36.842Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec10-2",
+        "sourceTitle": "Parliament Passes 'Jan Vishwas (Amendment) Bill, 2026' Decriminalising 717 Provisions",
+        "sourceChecksum": "dbe3b936836f8ae07214b9fc74583fee5be7d53381219bc36c84f32a96022787",
+        "migrationTimestamp": "2026-08-16T11:56:36.842Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec10-3",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Parliament Passes 'Andhra Pradesh Reorganisation (Amendment) Bill, 2026' — Amaravati Sole Capital",
+    "summary": "Parliament amends Section 5 of 2014 Act to give statutory recognition to Amaravati as the sole permanent capital of Andhra Pradesh.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec10",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC10",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:56:36.842Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec10-3",
+        "sourceTitle": "Parliament Passes 'Andhra Pradesh Reorganisation (Amendment) Bill, 2026' — Amaravati Sole Capital",
+        "sourceChecksum": "10d4e8c17673346bf8b019a0dc1b548f7483ed56126b4bf78d6f903e505ac84d",
+        "migrationTimestamp": "2026-08-16T11:56:36.842Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec10-4",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "PM-KUSUM Scheme Commissioning Timeline Extended to March 31, 2027",
+    "summary": "MNRE extends PM-KUSUM commissioning deadline to March 2027; committed liabilities to be subsumed under PM-KUSUM 2.0.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec10",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC10",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:56:36.842Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec10-4",
+        "sourceTitle": "PM-KUSUM Scheme Commissioning Timeline Extended to March 31, 2027",
+        "sourceChecksum": "f851cee4f731c87f3c36fbfe205549ab726a2c7c2813149b3f9b932fc045a11c",
+        "migrationTimestamp": "2026-08-16T11:56:36.842Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec10-5",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "MoEFCC Notifies 'Solid Waste Management (SWM) Rules, 2026' with 4-Bin Source Segregation",
+    "summary": "SWM Rules 2026 mandates 4-stream color-coded waste segregation (Green, Blue, Red, Black) under Environment Protection Act 1986.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec10",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC10",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:56:36.842Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec10-5",
+        "sourceTitle": "MoEFCC Notifies 'Solid Waste Management (SWM) Rules, 2026' with 4-Bin Source Segregation",
+        "sourceChecksum": "f0c078cf8c7c36ffdf6bad9a4f911adee197ab00c539254bbae5e0ba77529205",
+        "migrationTimestamp": "2026-08-16T11:56:36.842Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec10-6",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "April 2026 Rapid Recall & Key Milestones Summary",
+    "summary": "Consolidated recall summary of top figures, policy dates, and regulatory updates from April 2026.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec11",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC11",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:56:36.842Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec10-6",
+        "sourceTitle": "April 2026 Rapid Recall & Key Milestones Summary",
+        "sourceChecksum": "f4e37ebf9239082d9d9f0a474f87eceebf88f12fb00da47ec53cac9e806c478f",
+        "migrationTimestamp": "2026-08-16T11:56:36.842Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec10-7",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "MeitY Approves 29 Proposals Worth ₹7,104 Cr Under ECMS Scheme",
+    "summary": "Electronics Components Manufacturing Scheme (ECMS) approves India's 1st Tantalum SMD passive plant, 1st Flexible PCB plant, and 1st Rare Earth Magnet facility.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec10",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC10",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T15:38:14.789Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec10-7",
+        "sourceTitle": "MeitY Approves 29 Proposals Worth ₹7,104 Cr Under ECMS Scheme",
+        "sourceChecksum": "8392440a8b9cf16b731fbc457bb6a63625414d6ae24ac396ff90b5c04d6b6cc3",
+        "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec10-8",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Punjab Cabinet Approves 'Mukh Mantri Mawan Dheeyan Satkar Yojna' (₹9,300 Cr)",
+    "summary": "Punjab approves monthly financial aid of ₹1,000 for all eligible women aged 18+ and ₹1,500 for SC women.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec10",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC10",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T15:38:14.789Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec10-8",
+        "sourceTitle": "Punjab Cabinet Approves 'Mukh Mantri Mawan Dheeyan Satkar Yojna' (₹9,300 Cr)",
+        "sourceChecksum": "baaabe80a44e87a0421508ec8cd8efbce5283527cf172911b193938a70c49a3f",
+        "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec11-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "April 2026 High-Yield Exam Rapid Recall & Summary",
+    "summary": "Consolidated high-yield sweep of key figures, policy dates, and macro indicators from April 2026.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec11",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC11",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T15:38:14.789Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec11-1",
+        "sourceTitle": "April 2026 High-Yield Exam Rapid Recall & Summary",
+        "sourceChecksum": "5fbe28bcbf752bfa294419d046110e92ea62fa8565077400ae4487cc9571b9a0",
+        "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec2-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "IMF World Economic Outlook (April 2026): India Nominal GDP at $4.15 Trillion (6th Globally)",
+    "summary": "IMF WEO April 2026 ranks India 6th in nominal GDP ($4.15T) due to Rupee depreciation and 2022-23 base year shift, but projects highest real growth at 6.5%.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec2",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC2",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:56:36.842Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec2-1",
+        "sourceTitle": "IMF World Economic Outlook (April 2026): India Nominal GDP at $4.15 Trillion (6th Globally)",
+        "sourceChecksum": "cae0fb58ad01dc3499e305e9cc0c052e5a1fb76d4e4a62ebb52e441029181b88",
+        "migrationTimestamp": "2026-08-16T11:56:36.842Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec2-2",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "CBDT Notifies 'Income-tax Rules, 2026' & Launches 'Kar Saathi' AI Chatbot",
+    "summary": "CBDT slims tax rules from 511 to 333, replaces Previous/Assessment Year with 'Tax Year', and launches Kar Saathi AI assistant under PRARAMBH 2026.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec2",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC2",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:56:36.842Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec2-2",
+        "sourceTitle": "CBDT Notifies 'Income-tax Rules, 2026' & Launches 'Kar Saathi' AI Chatbot",
+        "sourceChecksum": "b7ac374e847cea990324b20cd4664c99589ac21c04c968fcda7962064947f561",
+        "migrationTimestamp": "2026-08-16T11:56:36.842Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec2-3",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "IRDAI Mandates 'Ind AS' Accounting Standards for Insurers from April 1, 2026",
+    "summary": "IRDAI notifies Actuarial, Finance & Investment Amendment Regulations 2026, enforcing IFRS-aligned Ind AS reporting across all insurance companies.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec2",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC2",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:56:36.842Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec2-3",
+        "sourceTitle": "IRDAI Mandates 'Ind AS' Accounting Standards for Insurers from April 1, 2026",
+        "sourceChecksum": "462ad6fe6a1e45bf5b604a9cacb70c7c26ef5fdeb6eb15517f12f9492c5bd874",
+        "migrationTimestamp": "2026-08-16T11:56:36.842Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec2-4",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "RBI Proposes $1 Lakh Crore Asset Threshold for Upper-Layer NBFCs (NBFC-UL)",
+    "summary": "RBI proposes replacing top-10 asset ranking methodology with absolute ₹1 lakh crore asset size threshold for NBFC-UL classification.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec2",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC2",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:56:36.842Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec2-4",
+        "sourceTitle": "RBI Proposes $1 Lakh Crore Asset Threshold for Upper-Layer NBFCs (NBFC-UL)",
+        "sourceChecksum": "4067722a848d010d13951a56bda8e57540b2026cf8042aea8799d6725e234f23",
+        "migrationTimestamp": "2026-08-16T11:56:36.842Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec2-5",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "China Overtakes US as India's Largest Trading Partner in FY26 ($151.1 Billion)",
+    "summary": "Ministry of Commerce data shows bilateral trade with China reached $151.1B in 2025-26, with India's trade deficit widening to a record $112.16B.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec2",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC2",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T15:38:14.789Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec2-5",
+        "sourceTitle": "China Overtakes US as India's Largest Trading Partner in FY26 ($151.1 Billion)",
+        "sourceChecksum": "aa6aaa870086f380b83bebcbb8593a37c33e37a719689468ab560ed6b356a307",
+        "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec2-6",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "DPIIT Data: Singapore Top Source of FDI Equity Inflows in FY26 ($17.6 Billion)",
+    "summary": "India received $47.87B total FDI equity inflows in Apr-Dec FY26; Singapore accounts for 37% share followed by US (16%) and Mauritius (10%).",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec2",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC2",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T15:38:14.789Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec2-6",
+        "sourceTitle": "DPIIT Data: Singapore Top Source of FDI Equity Inflows in FY26 ($17.6 Billion)",
+        "sourceChecksum": "391057777089aef83398f4634a90ad908018dec80708b231c738a536a27f7d3f",
+        "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec3-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "RBI Monetary Policy Committee (MPC) Keeps Repo Rate Unchanged at 5.25%",
+    "summary": "RBI MPC unanimously votes to retain Repo Rate at 5.25% with Neutral stance; projects FY27 GDP growth at 6.9%.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:56:36.842Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec3-1",
+        "sourceTitle": "RBI Monetary Policy Committee (MPC) Keeps Repo Rate Unchanged at 5.25%",
+        "sourceChecksum": "7f7369d4773dbd3d2bfa91767391c7bec031c1e2e7cc709b74475097eba3580d",
+        "migrationTimestamp": "2026-08-16T11:56:36.842Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec3-10",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "KreditBee Enters Unicorn Club with $280M Funding Round at $1.5B Valuation",
+    "summary": "Fintech lender KreditBee becomes India's 3rd unicorn of 2026 following Juspay and Neysa, securing $280M pre-IPO funding.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T15:38:14.789Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec3-10",
+        "sourceTitle": "KreditBee Enters Unicorn Club with $280M Funding Round at $1.5B Valuation",
+        "sourceChecksum": "39598a7fab543c6748221e92bee73a9083150288628d17ce30a4fb4bcf67053d",
+        "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec3-11",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "RBI Proposed 1-Hour 'Golden Hour' Cooling-Off Window for Digital Transfers >₹10,000",
+    "summary": "RBI discussion paper on digital payment safeguards suggests a 1-hour delay for first-time push payments >₹10k and annual credit cap of ₹25 lakh on mule accounts.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T15:38:14.789Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec3-11",
+        "sourceTitle": "RBI Proposed 1-Hour 'Golden Hour' Cooling-Off Window for Digital Transfers >₹10,000",
+        "sourceChecksum": "c210d8ba771ce6c010088d814dc88fe88383b2e9c4b828b39af0ab8cbccfd169",
+        "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec3-12",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Pay Point India Becomes 1st Private Fintech Member of RBI Centralised Payment System (CPS)",
+    "summary": "Pay Point India Network obtains direct access to RTGS and NEFT systems with its own IFSC code, removing bank intermediary dependencies.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T15:38:14.789Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec3-12",
+        "sourceTitle": "Pay Point India Becomes 1st Private Fintech Member of RBI Centralised Payment System (CPS)",
+        "sourceChecksum": "d5884251c466fd9c82ba62a915374fb0496ed004a8e25c85a851118421ef402a",
+        "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec3-13",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "RBI Unveiled 'Utkarsh 2029' Strategy Framework for FY26-29",
+    "summary": "RBI medium-term roadmap sets 49 deliverables across 6 pillars, including an indigenous AI framework and central bank digital currency (CBDC) expansion.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T15:38:14.789Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec3-13",
+        "sourceTitle": "RBI Unveiled 'Utkarsh 2029' Strategy Framework for FY26-29",
+        "sourceChecksum": "8e2cd69443240df57d0c742fcd0867eb0037fae5d81011646cf4f14dfc0fb5be",
+        "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec3-14",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Bank of Baroda Launches 'bob SAMVAD' AI Multilingual In-Branch Platform",
+    "summary": "BoB launches industry-first AI-driven speech & language tool supporting real-time two-way communication across 22 Indian languages.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T15:38:14.789Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec3-14",
+        "sourceTitle": "Bank of Baroda Launches 'bob SAMVAD' AI Multilingual In-Branch Platform",
+        "sourceChecksum": "42f78c364bbf7388f717f4750d85d48d2915d29a6183efb5629461352fcd7fa1",
+        "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec3-2",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "RBI Hikes Borrowing Limits Against Securities & IPO Subscriptions",
+    "summary": "RBI raises individual loan against shares cap to ₹1 crore and IPO subscription loan limit to ₹25 lakh across the banking system.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:56:36.842Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec3-2",
+        "sourceTitle": "RBI Hikes Borrowing Limits Against Securities & IPO Subscriptions",
+        "sourceChecksum": "b04f966fd1a7d25063daf77e7ee7a04a8e6bcb473303adfc9f4a70424acdc379",
+        "migrationTimestamp": "2026-08-16T11:56:36.842Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec3-3",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "RBI Mandates Two-Factor Authentication (2FA) for All Digital Payments",
+    "summary": "RBI rolls out new online payment rules making 2FA mandatory for UPI, credit/debit cards, and mobile wallets w.e.f. April 1, 2026.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:56:36.842Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec3-3",
+        "sourceTitle": "RBI Mandates Two-Factor Authentication (2FA) for All Digital Payments",
+        "sourceChecksum": "f767ed2de4da2eb3d1c6498f54c9c0ccf492152f6355346b65d48fcb62c7f2fa",
+        "migrationTimestamp": "2026-08-16T11:56:36.842Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec3-4",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "RBI Cancels Banking Licence of Paytm Payments Bank Limited",
+    "summary": "RBI cancels Paytm Payments Bank's license under Section 22(4) of the Banking Regulation Act, 1949, effective April 24, 2026.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:56:36.842Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec3-4",
+        "sourceTitle": "RBI Cancels Banking Licence of Paytm Payments Bank Limited",
+        "sourceChecksum": "e5ccd595c9a450f4ed06cf54af4db5f83154c9917d813e5b32f0c7a98542cac4",
+        "migrationTimestamp": "2026-08-16T11:56:36.842Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec3-5",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "LIC Board Approves First-Ever 1:1 Bonus Issue Since 2022 Listing",
+    "summary": "LIC capitalises ₹6,325 crore from reserves to issue 1 free share for every 1 share held, doubling paid-up capital to ₹12,650 crore.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T11:56:36.842Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec3-5",
+        "sourceTitle": "LIC Board Approves First-Ever 1:1 Bonus Issue Since 2022 Listing",
+        "sourceChecksum": "1a9a1b29b9daf98b336593f477d44d44a0ce5a9a86e27b2db780e87efb8284e7",
+        "migrationTimestamp": "2026-08-16T11:56:36.842Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec3-6",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "RBI Prohibits NDF Contracts in Rupee & Caps Banks' Net Open Position at $100M",
+    "summary": "RBI tightens forex regulations to curb rupee volatility, banning banks from offering non-deliverable forward (NDF) contracts in INR.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T15:38:14.789Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec3-6",
+        "sourceTitle": "RBI Prohibits NDF Contracts in Rupee & Caps Banks' Net Open Position at $100M",
+        "sourceChecksum": "a2e6c7469aeb9eceea18420e6d3d002717a42d0ca24f08a0a1875cff038f7818",
+        "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec3-7",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "RBI Data: CASA Share Hits 2-Year Low of 37.9% & CD Ratio Reaches Record 83%",
+    "summary": "RBI banking data reveals CASA share fell to 37.9% in Dec 2025 as credit growth (13.5%) continued to outpace deposit growth (10.8%).",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T15:38:14.789Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec3-7",
+        "sourceTitle": "RBI Data: CASA Share Hits 2-Year Low of 37.9% & CD Ratio Reaches Record 83%",
+        "sourceChecksum": "5347b210ad531cc0f957a697e8f951a38844e0da9e73013bb15965986fe425f1",
+        "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec3-8",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "SBI Overtakes ICICI Bank as India's 2nd Largest Lender by Market Capitalisation",
+    "summary": "SBI's market cap reached ₹9.60 trillion in Q4 FY26, reclaiming the #2 position in m-cap behind HDFC Bank (₹12.27 trillion).",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T15:38:14.789Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec3-8",
+        "sourceTitle": "SBI Overtakes ICICI Bank as India's 2nd Largest Lender by Market Capitalisation",
+        "sourceChecksum": "68771696699307c493b9c6b22cbce4acbc05d43fd95ba589cf8c400bf1fbdecc",
+        "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec3-9",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "RBI Proposed Revamped Business Correspondent (BC) Framework",
+    "summary": "RBI creates two distinct BC tiers — BC-BOs and BC-BTs — and abolishes Business Facilitators by September 30, 2026.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T15:38:14.789Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec3-9",
+        "sourceTitle": "RBI Proposed Revamped Business Correspondent (BC) Framework",
+        "sourceChecksum": "de7a708a353152e131c744c8973cc6c383a8a162767dead9da67e8579f6470a3",
+        "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec4-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "India Inducts 3rd Nuclear Ballistic Submarine 'INS Aridaman' — Maintains 3 SSBNs at Sea",
+    "summary": "India inducts INS Aridaman (7,000-tonne Arihant-class SSBN), becoming one of few nations maintaining 3 operational nuclear submarines at sea.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec4",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC4",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T15:38:14.789Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec4-1",
+        "sourceTitle": "India Inducts 3rd Nuclear Ballistic Submarine 'INS Aridaman' — Maintains 3 SSBNs at Sea",
+        "sourceChecksum": "455d260aa279e5c3e453498d696d86ea07b7264b44da465248a0e92e9cc2fa3e",
+        "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec4-2",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "India Defence Exports Hit Record All-Time High of ₹38,424 Crore in FY26",
+    "summary": "Defence exports jump 62.66% YoY to ₹38,424 Cr; DPSUs contribute 54.84% (₹21,071 Cr) and private sector 45.16% (₹17,353 Cr).",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec4",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC4",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T15:38:14.789Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec4-2",
+        "sourceTitle": "India Defence Exports Hit Record All-Time High of ₹38,424 Crore in FY26",
+        "sourceChecksum": "67eb410725efc94bce0f92899d9ef538393ed95a727c2935e38b0c3b3cdc22d8",
+        "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec4-3",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "GRSE Delivers 3 Frontline Warships Simultaneously to Indian Navy",
+    "summary": "Garden Reach Shipbuilders delivers INS Dunagiri (2nd P17A frigate), INS Sanshodhak (4th Survey Vessel), and INS Agray (ASW Shallow Watercraft).",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec4",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC4",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T15:38:14.789Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec4-3",
+        "sourceTitle": "GRSE Delivers 3 Frontline Warships Simultaneously to Indian Navy",
+        "sourceChecksum": "3ce61e018163edbc0bc885f047eaa6e5dbcce6fc332c1b9b5e8e9d4dd8f0167c",
+        "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec5-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "NASA Artemis II Crew Concludes Historic 10-Day Lunar Flyby & Splashes Down in Pacific",
+    "summary": "Artemis II crew (Wiseman, Glover, Koch, Hansen) completes 252,756-mile lunar flyby, breaking Apollo 13 distance record at 252,757 miles.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec5",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC5",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T15:38:14.789Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec5-1",
+        "sourceTitle": "NASA Artemis II Crew Concludes Historic 10-Day Lunar Flyby & Splashes Down in Pacific",
+        "sourceChecksum": "1356358a2d1aea232eb59b14a91467a77a1e691a63c597f207ca45fc6af6daaa",
+        "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec5-2",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Google Cloud India AI Hub Announced in Visakhapatnam ($15 Billion Investment)",
+    "summary": "Google commits $15B over 5 years for a 1 GW AI & Data Centre Hub in Visakhapatnam across 600 acres with AdaniConneX and Airtel.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec5",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC5",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T15:38:14.789Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec5-2",
+        "sourceTitle": "Google Cloud India AI Hub Announced in Visakhapatnam ($15 Billion Investment)",
+        "sourceChecksum": "4ea505a449d5d36279fc10940818478ac7f6c44698fb1917fe305ba290de724d",
+        "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec5-3",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "ISRO Conducts 'Mission MITRA' Astronaut Evaluation in Leh, Ladakh",
+    "summary": "Human Space Flight Centre tests 4 Gaganyaan astronaut-designates under extreme altitude conditions in Ladakh.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec5",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC5",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T15:38:14.789Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec5-3",
+        "sourceTitle": "ISRO Conducts 'Mission MITRA' Astronaut Evaluation in Leh, Ladakh",
+        "sourceChecksum": "943155831d48c7f944a5c4315541defdb78dfe7c15945482dca1e7ecb738cef6",
+        "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec6-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Indonesia Becomes 1st SE Asian Nation to Ban Social Media for Minors Under 16",
+    "summary": "Indonesia mandates age verification and account deactivation for children under 16 across YouTube, TikTok, Meta, X, and Roblox.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec6",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC6",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T15:38:14.789Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec6-1",
+        "sourceTitle": "Indonesia Becomes 1st SE Asian Nation to Ban Social Media for Minors Under 16",
+        "sourceChecksum": "45d59f8c43227f1941bcf3dff404660dffc26b794adef3c4410bf8c09ed3d11f",
+        "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec6-2",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "UAE Announces Withdrawal from OPEC & OPEC+ Alliance Effective May 1, 2026",
+    "summary": "UAE exits OPEC alliance over production quota constraints (4.8M bpd capacity vs 3.2M bpd quota), reducing OPEC to 11 members.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec6",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC6",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T15:38:14.789Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec6-2",
+        "sourceTitle": "UAE Announces Withdrawal from OPEC & OPEC+ Alliance Effective May 1, 2026",
+        "sourceChecksum": "1b4b4bb194e5d6dba857851ee7281bf37d06dc349c49da6908cf3c4acaccb737",
+        "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-04-sec7-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Key April 2026 Appointments: Ashwini Bhide (BMC), Lt Gen Dhiraj Seth (VCOAS), John Ternus (Apple)",
+    "summary": "Major executive changes including BMC's 1st woman commissioner, new Vice Chief of Army Staff, and Apple's next CEO.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec7",
+        "Current Affairs 2026",
+        "April 2026"
+      ],
+      "date": "2026-04-15",
+      "category": "SEC7",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T15:38:14.789Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-04-sec7-1",
+        "sourceTitle": "Key April 2026 Appointments: Ashwini Bhide (BMC), Lt Gen Dhiraj Seth (VCOAS), John Ternus (Apple)",
+        "sourceChecksum": "0b88db7e33299cab4b1a8ae9654ad21345dbe23b86060a5e141a874b94b2a699",
+        "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+        "normalizationRuleVersion": "1.0.0-apr2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec10-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Central Government Operationalises 4 Labour Codes Across India via 30+ Notifications",
+    "summary": "GoI notifies final rules consolidating 29 central laws into 4 unified Labour Codes; caps weekly working hours at 48 and introduces WFH rules.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec10",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC10",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec10-1",
+        "sourceTitle": "Central Government Operationalises 4 Labour Codes Across India via 30+ Notifications",
+        "sourceChecksum": "1956205dc80c0f6d30f8aab1d0a91e03e1081b082e4b3a4c672b8507d8dce504",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec10-2",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "PM Narendra Modi Outlines 7 National Appeals Under 'Nation First, Duty Above Comfort'",
+    "summary": "PM Modi calls on citizens to curb gold & foreign travel, reduce fuel/edible oil usage, adoption of natural farming, and remote work amid West Asia crisis.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec10",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC10",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec10-2",
+        "sourceTitle": "PM Narendra Modi Outlines 7 National Appeals Under 'Nation First, Duty Above Comfort'",
+        "sourceChecksum": "ff4e825b62bec70fa1994f5cb8cfef6bdb6611ac0b6159b3c73721dcf48435eb",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec10-3",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "West Bengal CM Suvendu Adhikari Approves 600 Acres to BSF, Ayushman Bharat & BNS Rollout",
+    "summary": "Maiden West Bengal cabinet meeting approves BSF border fencing land, ends state deadlock on Ayushman Bharat, and enforces Bharatiya Nyaya Sanhita.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec10",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC10",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec10-3",
+        "sourceTitle": "West Bengal CM Suvendu Adhikari Approves 600 Acres to BSF, Ayushman Bharat & BNS Rollout",
+        "sourceChecksum": "334dc5603a8f37094cd6083638146fa4373e0373beff6b953b88fc6adb6e9692",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec10-4",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "CCEA Approves ₹1,570 Crore Ship Repair Facility at Vadinar, Gujarat",
+    "summary": "CCEA approves brownfield Ship Repair Facility at Vadinar port (DPA + CSL joint venture) capable of repairing vessels up to 300 metres.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec10",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC10",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec10-4",
+        "sourceTitle": "CCEA Approves ₹1,570 Crore Ship Repair Facility at Vadinar, Gujarat",
+        "sourceChecksum": "3e7fabd9dc8db45be1ed0af0672010dd573e37edda9f35d69abb8722188c88d3",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec10-5",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "CCEA Fixes Sugarcane FRP for 2026-27 Season at Record ₹365 per Quintal",
+    "summary": "Fair and Remunerative Price (FRP) of sugarcane fixed at ₹365/qtl for basic 10.25% recovery rate for 2026-27 sugar season.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec10",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC10",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec10-5",
+        "sourceTitle": "CCEA Fixes Sugarcane FRP for 2026-27 Season at Record ₹365 per Quintal",
+        "sourceChecksum": "0ea4df12354207c697b3a8c28d95a286dc13f14453f5ca2bc0f1db5571479814",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec10-6",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "India Semiconductor Mission Approves 2 New Fab Projects in Gujarat (₹3,936 Crore)",
+    "summary": "Cabinet approves Crystal Matrix Mini/Micro-LED fab at Dholera and Suchi Semicon OSAT facility at Surat, taking total ISM projects to 12.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec10",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC10",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec10-6",
+        "sourceTitle": "India Semiconductor Mission Approves 2 New Fab Projects in Gujarat (₹3,936 Crore)",
+        "sourceChecksum": "7410479c0e68bffbb28594a8d4de4446fb598cac8513ff33bd383097dbfd3881",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec10-7",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Government Notifies South Coast Railway (SCoR) Zone at Visakhapatnam w.e.f. June 1, 2026",
+    "summary": "Ministry of Railways formally notifies creation of South Coast Railway (headquartered in Visakhapatnam) and new Rayagada division.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec10",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC10",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec10-7",
+        "sourceTitle": "Government Notifies South Coast Railway (SCoR) Zone at Visakhapatnam w.e.f. June 1, 2026",
+        "sourceChecksum": "3b39088368de24dce191000e71bdcac001a3080f708d31a9c9dd107d5a09ae77",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec11-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "May 2026 High-Yield Exam Rapid Recall & Summary",
+    "summary": "Consolidated high-yield sweep of key figures, policy dates, and macro indicators from May 2026.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec11",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC11",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec11-1",
+        "sourceTitle": "May 2026 High-Yield Exam Rapid Recall & Summary",
+        "sourceChecksum": "35dab752ebf1cae4b1c658ebc2a5918d93ee6d650d8fa647af95c73ab84f1b4e",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec2-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Government Notifies 100% FDI in Insurance Companies Under Automatic Route",
+    "summary": "Ministry of Finance notifies FEMA Non-debt Instruments 2nd Amendment Rules 2026, allowing 100% FDI in insurance sector (LIC capped at 20%).",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec2",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC2",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec2-1",
+        "sourceTitle": "Government Notifies 100% FDI in Insurance Companies Under Automatic Route",
+        "sourceChecksum": "2ef87ea2b0716f1d8750febc0f4fe8d24fb04b12df0fcddff0abc97d75cd79ce",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec2-2",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "SEBI Proposes 'GARUDA' Green-Channel Mechanism for Fast-Track AIF Rollout",
+    "summary": "SEBI proposes GARUDA mechanism allowing Alternative Investment Funds (AIFs) to launch schemes within 10 working days of filing placement memorandum.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec2",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC2",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec2-2",
+        "sourceTitle": "SEBI Proposes 'GARUDA' Green-Channel Mechanism for Fast-Track AIF Rollout",
+        "sourceChecksum": "37dbc2beaece956d20211c9f56ef442bc5795c9252a3ca87b8019edcf2be29c5",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec2-3",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Government Hikes Import Duty on Gold & Silver to 15% to Protect Forex Reserves",
+    "summary": "GoI increases customs duty on gold and silver from 6% to 15% (10% BCD + 5% AIDC) amid West Asia conflict and widening CAD.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec2",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC2",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec2-3",
+        "sourceTitle": "Government Hikes Import Duty on Gold & Silver to 15% to Protect Forex Reserves",
+        "sourceChecksum": "563fe535cb1c497ada820cb13fb43de01f0b53cfe9f9d5ac0dbe91e8d2dc288e",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec2-4",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "PFRDA Launches 'Retirement Income Scheme (RIS)' — Mandatory Annuity Cut to 20%",
+    "summary": "PFRDA reduces mandatory annuity requirement for private NPS subscribers from 40% to 20%, freeing up 80% corpus for lump-sum withdrawal.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec2",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC2",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec2-4",
+        "sourceTitle": "PFRDA Launches 'Retirement Income Scheme (RIS)' — Mandatory Annuity Cut to 20%",
+        "sourceChecksum": "470333e58646845d0b78a5bc890a10abc5244eaa54ece8a5dacc30d03a6af94a",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec2-5",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "DPIIT Issues Updated SOP for Fast-Track Land-Border FDI Clearances within 60 Days",
+    "summary": "DPIIT identifies 40 sub-sectors for 60-day expedited FDI clearance, relaxing Press Note 3 (2020) for up to 10% non-controlling Chinese/HK stakes.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec2",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC2",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec2-5",
+        "sourceTitle": "DPIIT Issues Updated SOP for Fast-Track Land-Border FDI Clearances within 60 Days",
+        "sourceChecksum": "681fb664a6cbec6ae49f21cf81bcd2ff20b0f223eeb35f15619bb648c9d575d7",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec3-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "RBI Central Board Approves Record Dividend Transfer of ₹2,86,588 Crore for FY26",
+    "summary": "RBI Governor Sanjay Malhotra-led Board approves record ₹2.87 lakh crore surplus transfer to Central Govt for FY26; CRB maintained at 6.5%.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec3-1",
+        "sourceTitle": "RBI Central Board Approves Record Dividend Transfer of ₹2,86,588 Crore for FY26",
+        "sourceChecksum": "58bcbf435000c00d01034d90bf20e8075c6b44f835f845d6c115e467fc5e8950",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec3-10",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "RBI Cancels Licence of Sarvodaya Co-operative Bank Ltd, Mumbai",
+    "summary": "RBI cancels Sarvodaya Co-op Bank's license due to inadequate capital and poor earnings; DICGC to pay up to ₹5 lakh per depositor.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec3-10",
+        "sourceTitle": "RBI Cancels Licence of Sarvodaya Co-operative Bank Ltd, Mumbai",
+        "sourceChecksum": "fc2f5076b5b12b741deac3afdd0171191dd615d1e537747f52212e4751899682",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec3-2",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "RBI Announces $5 Billion USD/INR Buy/Sell Swap Auction to Inject Liquidity",
+    "summary": "RBI conducts 3-year $5 billion USD/INR buy/sell swap auction on May 26, 2026 to inject rupee liquidity into the banking system.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec3-2",
+        "sourceTitle": "RBI Announces $5 Billion USD/INR Buy/Sell Swap Auction to Inject Liquidity",
+        "sourceChecksum": "d6ed972722bedd315d3e477b83da9ae7fe7ffe70b79f6410f3554983a21b3b48",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec3-3",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "RBI Discontinues Investment Fluctuation Reserve (IFR) Requirement for Banks",
+    "summary": "RBI discontinues mandatory IFR for commercial banks w.e.f. May 18, 2026; balance to be transferred 'below the line' to Statutory/General Reserves.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec3-3",
+        "sourceTitle": "RBI Discontinues Investment Fluctuation Reserve (IFR) Requirement for Banks",
+        "sourceChecksum": "4c7a069560d5f95b123fa54c35f67e767f1ffce68b9d49a6bd51b64e7a43c336",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec3-4",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "RBI Draft Norms on Loan Recovery & Recovery Agent Engagement",
+    "summary": "RBI proposes strict restrictions on mobile phone disabling tools (90-day overdue threshold) and ₹250/hr compensation for delayed restoration.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec3-4",
+        "sourceTitle": "RBI Draft Norms on Loan Recovery & Recovery Agent Engagement",
+        "sourceChecksum": "167aca49693cfbccd39ddc02c994dc9acf60b848b3703c547c8115cceb3a4db2",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec3-5",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Rohit Jain Appointed Deputy Governor of Reserve Bank of India",
+    "summary": "RBI Executive Director Rohit Jain appointed Deputy Governor for 3 years, replacing T Rabi Sankar upon completion of tenure.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec3-5",
+        "sourceTitle": "Rohit Jain Appointed Deputy Governor of Reserve Bank of India",
+        "sourceChecksum": "ae17668daeb59a8c2ed552a9395689f9f3d00996b703f1c37de131044ff2227a",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec3-6",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "RBI Eases Capital Adequacy Rules for Quarterly Profit Inclusion in CET1",
+    "summary": "RBI removes 25% NPA provisioning condition, allowing commercial banks to reckon audited/limited-reviewed quarterly profits into CET1 capital.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec3-6",
+        "sourceTitle": "RBI Eases Capital Adequacy Rules for Quarterly Profit Inclusion in CET1",
+        "sourceChecksum": "6786725617be77384b898882cefee674b07b9b322b2613b1951a49dc3f2e7b7f",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec3-7",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "RBL Bank Secures Approval for Historic $3 Billion FDI Investment from Emirates NBD",
+    "summary": "Emirates NBD acquires 49%-74% controlling stake in RBL Bank through ₹26,850 crore ($3B) preferential issue — largest FDI in Indian banking history.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec3-7",
+        "sourceTitle": "RBL Bank Secures Approval for Historic $3 Billion FDI Investment from Emirates NBD",
+        "sourceChecksum": "d48e3ccc12d749fe64090fc38a4eaa6986dde2598fae1d655f8d76fa8ddad5a8",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec3-8",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "RBI Discontinues Countercyclical Capital Buffer (CCyB) Activation for FY27",
+    "summary": "RBI review concludes prevailing economic conditions do not warrant CCyB activation, keeping buffer requirement at 0%.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec3-8",
+        "sourceTitle": "RBI Discontinues Countercyclical Capital Buffer (CCyB) Activation for FY27",
+        "sourceChecksum": "d7e5d23352fe11b98959c92725290256700f443eb139a282ab3a53076df56e43",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec3-9",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "RBI Tightens Governance Norms for Urban & Rural Co-operative Banks",
+    "summary": "RBI mandates a 3-year cooling-off period for directors completing 10 years of continuous tenure on the board of UCBs and RCBs.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC3",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec3-9",
+        "sourceTitle": "RBI Tightens Governance Norms for Urban & Rural Co-operative Banks",
+        "sourceChecksum": "017d0f85d28f277cf8101f900797094c78a241900495632142305133ad548003",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec4-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "DRDO & Indian Navy Conduct Maiden Salvo Launch of NASM-SR Missile",
+    "summary": "Naval Anti-Ship Missile-Short Range (NASM-SR) launched from Navy helicopter platform off Odisha coast with indigenous solid booster.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec4",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC4",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec4-1",
+        "sourceTitle": "DRDO & Indian Navy Conduct Maiden Salvo Launch of NASM-SR Missile",
+        "sourceChecksum": "b858f48611e7781c09e9acda7d9c1dbaf60ce849dfc51debd6989226bb9998bc",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec4-2",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Indian Navy Receives 6th Stealth Frigate 'INS Mahendragiri' Under Project 17A",
+    "summary": "Mazagon Dock Shipbuilders delivers INS Mahendragiri frigate equipped with MF-STAR radar, BrahMos, and Barak-8 missiles.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec4",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC4",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec4-2",
+        "sourceTitle": "Indian Navy Receives 6th Stealth Frigate 'INS Mahendragiri' Under Project 17A",
+        "sourceChecksum": "47fec6d61922d069e3ca8f4029ac648b66e18030eee6dd52e893905d0661c881",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec4-3",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "MoD Issues RFP to Private Firms for ₹15,000 Crore AMCA 5th-Gen Stealth Fighter",
+    "summary": "MoD shortlists Tata, L&T+BEL, and Bharat Forge+BEML to build 5 prototypes of Advanced Medium Combat Aircraft (AMCA); HAL excluded.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec4",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC4",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec4-3",
+        "sourceTitle": "MoD Issues RFP to Private Firms for ₹15,000 Crore AMCA 5th-Gen Stealth Fighter",
+        "sourceChecksum": "ee4fc7e68e4d793a2c27d76cd2567466b08bf14f85db5f89ce3d46067881a754",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec4-4",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "DRDO & IAF Test 'TARA' Indigenous Glide Weapon System on Jaguar Jet",
+    "summary": "Tactical Advanced Range Augmentation (TARA) modular kit converts conventional 500kg bombs into precision-guided glide weapons.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec4",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC4",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec4-4",
+        "sourceTitle": "DRDO & IAF Test 'TARA' Indigenous Glide Weapon System on Jaguar Jet",
+        "sourceChecksum": "91d5ddaf51c12701b1ad6e3f632029d619148cca31ea6de2e85798f8d8968ae0",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec5-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "GalaxEye Launches 'Mission Drishti' — World's 1st OptoSAR Hybrid EO Satellite",
+    "summary": "Bengaluru space startup GalaxEye launches 190kg Mission Drishti aboard SpaceX Falcon 9, combining optical and SAR sensors on one platform.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec5",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC5",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec5-1",
+        "sourceTitle": "GalaxEye Launches 'Mission Drishti' — World's 1st OptoSAR Hybrid EO Satellite",
+        "sourceChecksum": "0423806813911ab855398e441a2b478ef321273b857a056093cacc10a8fa544e",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec5-2",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "DRDO Successfully Flight-Tests Long-Range Hypersonic Anti-Ship Missile (LR-AShM)",
+    "summary": "DRDO conducts 2nd hypersonic flight trial off Odisha coast achieving Mach 10 speed over 1,500 km strike range.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec5",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC5",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec5-2",
+        "sourceTitle": "DRDO Successfully Flight-Tests Long-Range Hypersonic Anti-Ship Missile (LR-AShM)",
+        "sourceChecksum": "680ec90d41d2a72209fdc20f8ede1d385b459755c91bd05aade7ef64bc096b53",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec5-3",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "NASA Announces $20 Billion Plan for 3 Moon Base Missions & Blue Moon Lander",
+    "summary": "NASA Administrator Jared Isaacman unveils Moon Base I, II & III plan selecting Blue Origin's Blue Moon Mark 1 lander for permanent lunar infrastructure.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec5",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC5",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec5-3",
+        "sourceTitle": "NASA Announces $20 Billion Plan for 3 Moon Base Missions & Blue Moon Lander",
+        "sourceChecksum": "6498f0ea8916c317f11c72d7cf96325804864eac30e31d3feea1ab4dd7a7de14",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec5-4",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Sahasra Semiconductors Inaugurates India's 1st SME ATMP Chip Packaging Facility in Bhiwadi",
+    "summary": "MeitY Minister Ashwini Vaishnaw inaugurates ₹150 Cr SPECS-supported semiconductor packaging plant in Rajasthan.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec5",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC5",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec5-4",
+        "sourceTitle": "Sahasra Semiconductors Inaugurates India's 1st SME ATMP Chip Packaging Facility in Bhiwadi",
+        "sourceChecksum": "883e085458b4df26fc65ed5ed94cd3c716ddf4a3afc1618a72801deea572537e",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec6-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "US Launches 'Operation Project Freedom' to Escort Ships in Strait of Hormuz",
+    "summary": "US President Donald Trump orders military escort operations in Strait of Hormuz; India executes Operation Urja Suraksha with 5 warships.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec6",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC6",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec6-1",
+        "sourceTitle": "US Launches 'Operation Project Freedom' to Escort Ships in Strait of Hormuz",
+        "sourceChecksum": "984394264ce2bfde2104717fe84c9026067543025f5d516bb74b0f7429fec451",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec6-2",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Netherlands Returns Historic 11th-Century Chola Dynasty 'Leiden' Copper Plates to India",
+    "summary": "Dutch PM Rob Jetten hands over 24 Anaimangalam Chola copper plates (30 kg with imperial seal) to PM Modi in The Hague after 14-year campaign.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec6",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC6",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec6-2",
+        "sourceTitle": "Netherlands Returns Historic 11th-Century Chola Dynasty 'Leiden' Copper Plates to India",
+        "sourceChecksum": "12843f3515b2718fc2c031342d2c251ef5537155726e165f373dee2ea047d925",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec6-3",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "India & Italy Elevate Bilateral Relations to 'Special Strategic Partnership'",
+    "summary": "PM Modi & Italian PM Giorgia Meloni sign Defence Industrial Roadmap and set €20 billion annual bilateral trade target by 2029.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec6",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC6",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec6-3",
+        "sourceTitle": "India & Italy Elevate Bilateral Relations to 'Special Strategic Partnership'",
+        "sourceChecksum": "3fa73649b8f5de55679bbb0a45412241808f362129d374e1c381acad50d4cc63",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec7-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Key May 2026 Appointments: Vice Adm Swaminathan (Navy Chief), Lt Gen Subramani (CDS), Suvendu Adhikari (WB CM)",
+    "summary": "Vice Admiral Krishna Swaminathan named 26th Naval Chief; Lt Gen NS Raja Subramani appointed 3rd CDS; Suvendu Adhikari sworn in as West Bengal CM.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec7",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC7",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec7-1",
+        "sourceTitle": "Key May 2026 Appointments: Vice Adm Swaminathan (Navy Chief), Lt Gen Subramani (CDS), Suvendu Adhikari (WB CM)",
+        "sourceChecksum": "f8fdd3b7b5362d41f0f14b482f5d7777667cf25669087eb61ad7bff45a8e7ffc",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-05-sec7-2",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "Padma Awards 2026 Conferred by President Murmu & PM Modi Conferred Sweden's Highest Honour",
+    "summary": "President Murmu confers 66 Padma awards; PM Modi receives Sweden's Royal Order of Polar Star; Pulitzer 2026 awarded to Indian journalists.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec7",
+        "Current Affairs 2026",
+        "May 2026"
+      ],
+      "date": "2026-05-15",
+      "category": "SEC7",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-16T16:10:30.135Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+        "sourceId": "migrated-ca-2026-05-sec7-2",
+        "sourceTitle": "Padma Awards 2026 Conferred by President Murmu & PM Modi Conferred Sweden's Highest Honour",
+        "sourceChecksum": "6239bf6b515837987ea9671a3bf7035f7f2d83bd0a03617cd5b3ecb6829a5f63",
+        "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+        "normalizationRuleVersion": "1.0.0-may2026"
+      }
+    },
+    "relationships": []
+  },
+  {
     "id": "migrated-ca-ca-2026-08-08-govt-debt-to-gdp-fy26",
     "type": "ca_note",
     "domain": "current-affairs",
