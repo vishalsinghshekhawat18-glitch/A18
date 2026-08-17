@@ -2,7 +2,7 @@ import React from 'react';
 import { KnowledgeItem, SemanticBlock } from '../../../schema/knowledge-item';
 import { BlockRenderer } from '../../components/renderers/BlockRenderer';
 import { RelationshipLinks } from '../RelationshipLinks';
-import { InPageTOCMobile, InPageTOCDesktop } from '../InPageTOC';
+import { InPageTOCMobile } from '../InPageTOC';
 import { formatInlineText } from '../../components/renderers/formatInline';
 
 interface Props {
@@ -110,10 +110,6 @@ export const SchemeReferenceView: React.FC<Props> = ({
           />
         </main>
 
-        {/* Desktop Sticky In-Page TOC Side Pane */}
-        <aside className="scheme-toc-aside">
-          <InPageTOCDesktop blocks={item.blocks} />
-        </aside>
       </div>
     </div>
   );

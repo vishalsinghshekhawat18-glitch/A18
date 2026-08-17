@@ -27,15 +27,15 @@ export const ReaderView: React.FC<Props> = ({
             {item.summary && <div className="article-summary">{item.summary}</div>}
 
             {item.metadata && (
-              <div className="metadata-row">
-                {item.metadata.exam?.map(e => (
-                  <span key={e} className="tag-pill" style={{ fontWeight: 'bold' }}>🎓 {e}</span>
-                ))}
-                {item.metadata.tags?.map(t => (
-                  <span key={t} className="tag-pill">#{t}</span>
-                ))}
+              <div className="in-this-chapter-bar">
+                <span className="in-this-chapter-label">In this chapter:</span>
+                <span className="in-this-chapter-list">
+                  {item.metadata.tags && item.metadata.tags.length > 0
+                    ? item.metadata.tags.join(' • ')
+                    : item.title}
+                </span>
                 {item.metadata.date && (
-                  <span className="tag-pill">📅 {item.metadata.date}</span>
+                  <span className="in-this-chapter-date">📅 {item.metadata.date}</span>
                 )}
               </div>
             )}

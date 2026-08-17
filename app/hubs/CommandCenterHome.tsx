@@ -1,4 +1,4 @@
-import React, { useMemo } from 'react';
+import React, { useMemo, useState } from 'react';
 import { KnowledgeItem } from '../../schema/knowledge-item';
 import { SUBJECT_DEFS, isItemInSubject } from '../navigation/subjectMapper';
 import reportingDataJson from '../../content/reporting-center.json';
@@ -16,6 +16,7 @@ export const CommandCenterHome: React.FC<Props> = ({
   onSelectSubject,
   onSelectItem
 }) => {
+  const [isReportingCollapsed, setIsReportingCollapsed] = useState(false);
   // Resolve last opened item for Continue Studying card
   const lastItem = lastOpenedItemId ? items.find(i => i.id === lastOpenedItemId) : null;
 
@@ -92,31 +93,121 @@ export const CommandCenterHome: React.FC<Props> = ({
         {/* Section A: Personal Header Strip */}
         <header className="home-personal-header wireframe-header">
           <div className="home-meta-bar">
-            <span className="home-system-badge">Banking Command Centre , {formattedDate}</span>
-            <div className="home-age-counter-widget" title="Age Counter (Calculated monthly from DOB: 31 Oct 1996)">
-              <span>{ageCounter}</span>
-              <span className="age-counter-chevron">▾</span>
+            <div className="home-date-center-display">
+              {formattedDate}
+            </div>
+            <div className="home-age-counter-number" title="Age Counter (Calculated monthly from DOB: 31 Oct 1996)">
+              {ageCounter}
             </div>
           </div>
           <h1 className="home-greeting-title">{greeting}, Vishal</h1>
           <p className="home-motto">"The life you want is usually hidden inside the things you keep postponing."</p>
         </header>
 
-        {/* Section B: Wireframe 2-Column Grid */}
+        {/* Section B: Wireframe Stacked Full-Width Blocks */}
         <div className="home-ca-revision-grid wireframe-grid">
-          {/* Left Box: CURRENT AFFAIRS 2026 -27 */}
+          {/* Top Block: REPORTING CENTRE'S BLOCK */}
+          <section className="home-reporting-center-box">
+            <div
+              className="reporting-center-header collapsible-header"
+              onClick={() => setIsReportingCollapsed(prev => !prev)}
+              title={isReportingCollapsed ? "Click to expand" : "Click to collapse"}
+            >
+              <h2 className="reporting-center-title">REPORTING CENTRE’S BLOCK</h2>
+              <span className="collapsible-indicator">
+                {isReportingCollapsed ? '▸' : '▾'}
+              </span>
+            </div>
+
+            {!isReportingCollapsed && (
+              <div className="reporting-center-content">
+                {/* 1. TODAY'S WAR PLAN */}
+                <div className="reporting-pillar-block">
+                  <h3 className="reporting-pillar-title">TODAY’S WAR PLAN</h3>
+                  <p className="reporting-pillar-motto">
+                    {reportingDataJson.todaysWarPlan?.motto || '(Updated schedule according to goals and exams)'}
+                  </p>
+                  <ul className="reporting-war-plan-list">
+                    {reportingDataJson.todaysWarPlan?.schedule?.map((item, idx) => (
+                      <li key={idx} className="war-plan-item">
+                        <span className="war-plan-time">{item.time} ({item.zone})</span>
+                        <span className="war-plan-task">{item.task}</span>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+
+                {/* 2. AHEAD */}
+                <div className="reporting-pillar-block">
+                  <h3 className="reporting-pillar-title">AHEAD</h3>
+                  <p className="reporting-pillar-desc">
+                    (What lies ahead in terms of exams, goals, future)
+                  </p>
+                  <ul className="reporting-ahead-list">
+                    {reportingDataJson.ahead?.roadmap?.map((item, idx) => (
+                      <li key={idx}>{item}</li>
+                    ))}
+                  </ul>
+                  <div className="reporting-audit-box">
+                    <span className="reporting-audit-label">RUTHLESS TRAJECTORY AUDIT:</span>
+                    <p className="reporting-audit-text">
+                      {reportingDataJson.ahead?.workEthicAudit || '(Also remark here with respect to my work ethic and input given, where i am headed, what are the possibilities, what could be improved - without any sugar coating)'}
+                    </p>
+                  </div>
+                </div>
+
+                {/* 3. REVISION CALENDAR */}
+                <div className="reporting-pillar-block">
+                  <h3 className="reporting-pillar-title">REVISION CALENDAR</h3>
+                  <p className="reporting-pillar-desc">
+                    (Scientific Revision Calendar with timely gap and dates on when to revise what, derived from today work report)
+                  </p>
+                  <div className="reporting-rev-table">
+                    {reportingDataJson.revisionCalendar?.items?.map((rev, idx) => (
+                      <div key={idx} className="reporting-rev-row">
+                        <span className="rev-stream">{rev.stream}</span>
+                        <span className="rev-stage">{rev.revStage}</span>
+                        <span className={`rev-status ${rev.status.toLowerCase().includes('due') ? 'due' : ''}`}>{rev.nextDate} — {rev.status}</span>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+
+                {/* 4. PROGRESS */}
+                <div className="reporting-pillar-block">
+                  <h3 className="reporting-pillar-title">PROGRESS</h3>
+                  <p className="reporting-pillar-desc">
+                    {reportingDataJson.progress?.summary || '(Recent work highlight with remarks, also includes daily work report submitted info)'}
+                  </p>
+                  <div className="reporting-pillar-chip">
+                    Status: {reportingDataJson.progress?.dailyReportStatus || 'Log Pending'}
+                  </div>
+                </div>
+              </div>
+            )}
+          </section>
+
+          {/* Bottom Block: CURRENT AFFAIRS 2026 -27 */}
           <section className="home-ca-box">
             <div className="ca-box-header">
               <h2 className="ca-box-title">CURRENT AFFAIRS 2026 -27</h2>
             </div>
 
-            {/* Static GA Button */}
-            <button
-              className="ca-box-wide-btn static-btn"
-              onClick={() => onSelectSubject('static-ga')}
-            >
-              STATIC
-            </button>
+            {/* Actions Row: STATIC & CA REVISION (Section 11) side-by-side above months */}
+            <div className="ca-box-actions-row">
+              <button
+                className="ca-box-wide-btn static-btn"
+                onClick={() => onSelectSubject('static-ga')}
+              >
+                STATIC
+              </button>
+              <button
+                className="ca-box-wide-btn revision-btn"
+                onClick={handleOpenCARevisionSec11}
+              >
+                CA REVISION (Section 11)
+              </button>
+            </div>
 
             {/* 2026 Month Grid */}
             <div className="ca-box-year-group">
@@ -159,88 +250,7 @@ export const CommandCenterHome: React.FC<Props> = ({
                   </button>
                 ))}
               </div>
-            </div>
-
-            {/* CA Revision (Section 11) Button */}
-            <button
-              className="ca-box-wide-btn revision-btn"
-              onClick={handleOpenCARevisionSec11}
-            >
-              CA REVISION (Section 11)
-            </button>
-          </section>
-
-          {/* Right Box: REPORTING CENTRE'S BLOCK */}
-          <section className="home-reporting-center-box">
-            <div className="reporting-center-header">
-              <h2 className="reporting-center-title">REPORTING CENTRE’S BLOCK</h2>
-            </div>
-
-            <div className="reporting-center-content">
-              {/* 1. PROGRESS */}
-              <div className="reporting-pillar-block">
-                <h3 className="reporting-pillar-title">PROGRESS</h3>
-                <p className="reporting-pillar-desc">
-                  {reportingDataJson.progress?.summary || '(Recent work highlight with remarks, also includes daily work report submitted info)'}
-                </p>
-                <div className="reporting-pillar-chip">
-                  Status: {reportingDataJson.progress?.dailyReportStatus || 'Log Pending'}
-                </div>
-              </div>
-
-              {/* 2. TODAY'S WAR PLAN */}
-              <div className="reporting-pillar-block">
-                <h3 className="reporting-pillar-title">TODAY’S WAR PLAN</h3>
-                <p className="reporting-pillar-motto">
-                  {reportingDataJson.todaysWarPlan?.motto || '(Updated schedule according to goals and exams)'}
-                </p>
-                <ul className="reporting-war-plan-list">
-                  {reportingDataJson.todaysWarPlan?.schedule?.map((item, idx) => (
-                    <li key={idx} className="war-plan-item">
-                      <span className="war-plan-time">{item.time} ({item.zone})</span>
-                      <span className="war-plan-task">{item.task}</span>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-
-              {/* 3. REVISION CALENDAR */}
-              <div className="reporting-pillar-block">
-                <h3 className="reporting-pillar-title">REVISION CALENDAR</h3>
-                <p className="reporting-pillar-desc">
-                  (Scientific Revision Calendar with timely gap and dates on when to revise what, derived from today work report)
-                </p>
-                <div className="reporting-rev-table">
-                  {reportingDataJson.revisionCalendar?.items?.map((rev, idx) => (
-                    <div key={idx} className="reporting-rev-row">
-                      <span className="rev-stream">{rev.stream}</span>
-                      <span className="rev-stage">{rev.revStage}</span>
-                      <span className={`rev-status ${rev.status.toLowerCase().includes('due') ? 'due' : ''}`}>{rev.nextDate} — {rev.status}</span>
-                    </div>
-                  ))}
-                </div>
-              </div>
-
-              {/* 4. AHEAD */}
-              <div className="reporting-pillar-block">
-                <h3 className="reporting-pillar-title">AHEAD</h3>
-                <p className="reporting-pillar-desc">
-                  (What lies ahead in terms of exams, goals, future)
-                </p>
-                <ul className="reporting-ahead-list">
-                  {reportingDataJson.ahead?.roadmap?.map((item, idx) => (
-                    <li key={idx}>{item}</li>
-                  ))}
-                </ul>
-                <div className="reporting-audit-box">
-                  <span className="reporting-audit-label">RUTHLESS TRAJECTORY AUDIT:</span>
-                  <p className="reporting-audit-text">
-                    {reportingDataJson.ahead?.workEthicAudit || '(Also remark here with respect to my work ethic and input given, where i am headed, what are the possibilities, what could be improved - without any sugar coating)'}
-                  </p>
-                </div>
-              </div>
-            </div>
-          </section>
+            </div></section>
         </div>
 
         {/* Section C: Top Grid (Continue Studying + Today's Plan) */}
@@ -286,15 +296,6 @@ export const CommandCenterHome: React.FC<Props> = ({
           </section>
         </div>
 
-        {/* Section D: Thought for Today Strip */}
-        <section className="home-thought-strip">
-          <div className="thought-badge-row">
-            <span className="thought-badge">💭 A THOUGHT FOR TODAY</span>
-          </div>
-          <blockquote className="thought-quote">
-            "The life you want is usually hidden inside the things you keep postponing."
-          </blockquote>
-        </section>
 
         {/* Section E: Corpus Summary Scale Strip */}
         <section className="home-summary-strip">

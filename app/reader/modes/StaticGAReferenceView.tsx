@@ -2,7 +2,7 @@ import React from 'react';
 import { KnowledgeItem, SemanticBlock } from '../../../schema/knowledge-item';
 import { BlockRenderer } from '../../components/renderers/BlockRenderer';
 import { RelationshipLinks } from '../RelationshipLinks';
-import { InPageTOCMobile, InPageTOCDesktop } from '../InPageTOC';
+import { InPageTOCMobile } from '../InPageTOC';
 import { formatInlineText } from '../../components/renderers/formatInline';
 
 interface Props {
@@ -51,10 +51,14 @@ export const StaticGAReferenceView: React.FC<Props> = ({
           <header className="static-ga-header-banner">
             <div className="static-ga-badge-row">
               <span className="static-ga-apex-badge">{apexBadge}</span>
-              {item.metadata?.tags?.map((t: string) => (
-                <span key={t} className="tag-pill">#{t}</span>
-              ))}
             </div>
+
+            {item.metadata?.tags && item.metadata.tags.length > 0 && (
+              <div className="in-this-chapter-bar">
+                <span className="in-this-chapter-label">In this chapter:</span>
+                <span className="in-this-chapter-list">{item.metadata.tags.join(' • ')}</span>
+              </div>
+            )}
 
             <h1 className="static-ga-title">{apexIcon} {item.title}</h1>
             {item.summary && (
@@ -92,10 +96,6 @@ export const StaticGAReferenceView: React.FC<Props> = ({
           />
         </main>
 
-        {/* Desktop Sticky In-Page TOC Pane */}
-        <aside className="static-ga-toc-aside">
-          <InPageTOCDesktop blocks={item.blocks} />
-        </aside>
       </div>
     </div>
   );

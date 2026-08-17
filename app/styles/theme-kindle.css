@@ -8,10 +8,10 @@
 
 :root {
   /* Default Theme: Kindle Sepia */
-  --bg-reading-paper: #f4ecd8;
-  --bg-sidebar: #e8dfc8;
-  --bg-card: #fdfaf3;
-  --bg-accent-subtle: #e6dac1;
+  --bg-reading-paper: #f4ebd9;
+  --bg-sidebar: #e2d4b5;
+  --bg-card: #eadeca;
+  --bg-accent-subtle: #dccba8;
   --bg-warning-subtle: #ebdcb9;
   
   --text-primary: #2c221a;
@@ -20,7 +20,7 @@
   --text-accent: #6b4d24;
   --text-warning: #824700;
 
-  --border-subtle: #d9ccb0;
+  --border-subtle: #d2c19e;
   --border-strong: #bfae8e;
   --border-warning: #c28928;
 
@@ -32,7 +32,7 @@
   /* Dynamic Reading Controls Defaults */
   --reading-font-size: 18px;
   --reading-line-height: 1.7;
-  --reading-max-width: 68ch;
+  --reading-max-width: 960px;
 
   /* Shadows */
   --shadow-sm: 0 1px 3px rgba(44, 34, 26, 0.06);
@@ -41,10 +41,10 @@
 
 /* Theme Variant 1: Kindle Warm Paper */
 [data-theme="warm"] {
-  --bg-reading-paper: #fbf9f5;
-  --bg-sidebar: #f2eee5;
-  --bg-card: #ffffff;
-  --bg-accent-subtle: #f5eedf;
+  --bg-reading-paper: #f5ece0;
+  --bg-sidebar: #e5d7be;
+  --bg-card: #ebdec9;
+  --bg-accent-subtle: #decfae;
   --bg-warning-subtle: #fff6e5;
   
   --text-primary: #222222;
@@ -53,16 +53,16 @@
   --text-accent: #6b5b45;
   --text-warning: #8a4b00;
 
-  --border-subtle: #e5dec9;
+  --border-subtle: #d6c7a7;
   --border-strong: #c2b69d;
   --border-warning: #e09f3e;
 }
 
 /* Theme Variant 2: Kindle Sepia (Explicit) */
 [data-theme="sepia"] {
-  --bg-reading-paper: #f4ecd8;
-  --bg-sidebar: #e8dfc8;
-  --bg-card: #fdfaf3;
+  --bg-reading-paper: #f4ebd9;
+  --bg-sidebar: #e2d4b5;
+  --bg-card: #eadeca;
   --bg-accent-subtle: #e6dac1;
   --bg-warning-subtle: #ebdcb9;
   
@@ -247,8 +247,10 @@ body {
 .home-meta-bar {
   display: flex;
   align-items: center;
+  justify-content: space-between;
   gap: 0.8rem;
   margin-bottom: 0.6rem;
+  width: 100%;
 }
 
 .home-system-badge {
@@ -262,11 +264,60 @@ body {
   letter-spacing: 0.04em;
 }
 
+.home-date-center-display {
+  font-family: var(--font-ui);
+  font-size: 0.92rem;
+  font-weight: 800;
+  color: #9e3b24;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  text-align: center;
+  flex: 1;
+}
+
 .home-date-chip {
   font-family: var(--font-ui);
   font-size: 0.78rem;
   font-weight: 600;
   color: var(--text-secondary);
+}
+
+/* In This Chapter Topics Header Bar */
+.in-this-chapter-bar {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem 0.8rem;
+  background-color: var(--bg-accent-subtle);
+  border: 1px solid var(--border-subtle);
+  border-left: 4px solid var(--text-accent);
+  padding: 0.55rem 0.95rem;
+  border-radius: 6px;
+  margin-top: 0.8rem;
+  margin-bottom: 1.2rem;
+  font-family: var(--font-ui);
+  font-size: 0.86rem;
+}
+
+.in-this-chapter-label {
+  font-weight: 800;
+  color: #9e3b24;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  font-size: 0.78rem;
+}
+
+.in-this-chapter-list {
+  color: var(--text-primary);
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.in-this-chapter-date {
+  margin-left: auto;
+  color: var(--text-muted);
+  font-size: 0.8rem;
+  font-weight: 600;
 }
 
 .home-greeting-title {
@@ -288,16 +339,11 @@ body {
 
 /* Top Section B: Current Affairs 2026-27 & Revision Calendar Grid */
 .home-ca-revision-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 1.4rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.6rem;
   margin-bottom: 1.8rem;
-}
-
-@media (max-width: 840px) {
-  .home-ca-revision-grid {
-    grid-template-columns: 1fr;
-  }
+  width: 100%;
 }
 
 /* Left Box: Current Affairs 2026-27 */
@@ -309,13 +355,14 @@ body {
   box-shadow: var(--shadow-sm);
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  gap: 0.8rem;
+  justify-content: flex-start;
+  gap: 1.1rem;
+  width: 100%;
 }
 
 .ca-box-header {
   text-align: center;
-  margin-bottom: 0.2rem;
+  margin-bottom: 0.1rem;
 }
 
 .ca-box-title {
@@ -326,6 +373,19 @@ body {
   letter-spacing: 0.06em;
   text-transform: uppercase;
   margin: 0;
+}
+
+.ca-box-actions-row {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.8rem;
+  width: 100%;
+}
+
+@media (max-width: 600px) {
+  .ca-box-actions-row {
+    grid-template-columns: 1fr;
+  }
 }
 
 .ca-box-wide-btn {
@@ -400,26 +460,15 @@ body {
   color: var(--text-muted);
 }
 
-/* Wireframe Header Age Counter Widget (29.10 ▾) */
-.home-age-counter-widget {
-  display: flex;
-  align-items: center;
-  gap: 0.3rem;
-  background-color: var(--bg-card);
-  border: 1px solid var(--border-subtle);
-  color: var(--text-accent);
+/* Header Age Counter Display (29.10) */
+.home-age-counter-number {
   font-family: var(--font-ui);
-  font-size: 0.85rem;
+  font-size: 2.2rem;
   font-weight: 800;
-  padding: 0.2rem 0.6rem;
-  border-radius: 4px;
-  box-shadow: var(--shadow-sm);
-  cursor: pointer;
-}
-
-.age-counter-chevron {
-  font-size: 0.7rem;
-  color: var(--text-muted);
+  color: #9e3b24;
+  letter-spacing: -0.02em;
+  line-height: 1;
+  margin-left: auto;
 }
 
 /* Right Box: REPORTING CENTRE'S BLOCK */
@@ -437,7 +486,29 @@ body {
 .reporting-center-header {
   border-bottom: 1px dashed var(--border-subtle);
   padding-bottom: 0.6rem;
-  margin-bottom: 0.4rem;
+  margin-bottom: 0.2rem;
+}
+
+.reporting-center-header.collapsible-header {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  padding: 0.4rem 0.8rem;
+  border-radius: 4px;
+  transition: background-color 0.15s ease, border-color 0.15s ease;
+  user-select: none;
+}
+
+.reporting-center-header.collapsible-header:hover {
+  background-color: var(--bg-accent-subtle);
+}
+
+.collapsible-indicator {
+  font-size: 0.85rem;
+  color: var(--text-accent);
+  font-weight: 800;
 }
 
 .reporting-center-title {
@@ -460,14 +531,11 @@ body {
 .reporting-pillar-block {
   display: flex;
   flex-direction: column;
-  gap: 0.35rem;
-  padding-bottom: 0.8rem;
-  border-bottom: 1px dashed var(--border-subtle);
-
-  &:last-child {
-    border-bottom: none;
-    padding-bottom: 0;
-  }
+  gap: 0.4rem;
+  padding: 0.8rem 0.9rem;
+  background-color: var(--bg-reading-paper);
+  border: 1px solid var(--border-subtle);
+  border-radius: 6px;
 }
 
 .reporting-pillar-title {
@@ -928,8 +996,8 @@ body {
 .home-domain-card {
   background-color: var(--bg-card);
   border: 1px solid var(--border-subtle);
-  border-radius: 6px;
-  padding: 1.1rem 1.3rem;
+  border-radius: 20px;
+  padding: 1.25rem 1.6rem;
   box-shadow: var(--shadow-sm);
   cursor: pointer;
   display: flex;
@@ -1218,6 +1286,35 @@ body {
   width: 100%;
   max-width: var(--reading-max-width);
   margin: 0 auto;
+}
+
+.article-chapter-block {
+  margin-bottom: 3.5rem;
+  padding-bottom: 1rem;
+}
+
+.infinite-chapter-divider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 4rem 0 3rem 0;
+  border-top: 2px dashed var(--border-subtle);
+  position: relative;
+}
+
+.chapter-divider-label {
+  position: absolute;
+  background-color: var(--bg-card);
+  padding: 0.35rem 1.1rem;
+  border: 1px solid var(--border-subtle);
+  border-radius: 20px;
+  font-family: var(--font-ui);
+  font-size: 0.78rem;
+  font-weight: 800;
+  color: #9e3b24;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  box-shadow: var(--shadow-sm);
 }
 
 /* Book Chapter Flex Geometry (Desktop Outer Margin TOC) */
