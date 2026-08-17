@@ -1,6 +1,7 @@
 import React, { useMemo } from 'react';
 import { KnowledgeItem } from '../../schema/knowledge-item';
 import { SUBJECT_DEFS, isItemInSubject } from '../navigation/subjectMapper';
+import reportingDataJson from '../../content/reporting-center.json';
 
 interface Props {
   items: KnowledgeItem[];
@@ -18,7 +19,7 @@ export const CommandCenterHome: React.FC<Props> = ({
   // Resolve last opened item for Continue Studying card
   const lastItem = lastOpenedItemId ? items.find(i => i.id === lastOpenedItemId) : null;
 
-  // Dynamic time-aware greeting
+  // Dynamic time-aware greeting & date
   const { greeting, formattedDate } = useMemo(() => {
     const now = new Date();
     const hours = now.getHours();
@@ -34,6 +35,23 @@ export const CommandCenterHome: React.FC<Props> = ({
     });
 
     return { greeting: g, formattedDate: dStr };
+  }, []);
+
+  // Compute dynamic age counter from DOB: 31 Oct 1996 (format: YY.MM)
+  const ageCounter = useMemo(() => {
+    const dob = new Date(1996, 9, 31); // 31 Oct 1996
+    const now = new Date();
+    let years = now.getFullYear() - dob.getFullYear();
+    let months = now.getMonth() - dob.getMonth();
+    if (now.getDate() < dob.getDate()) {
+      months -= 1;
+    }
+    if (months < 0) {
+      years -= 1;
+      months += 12;
+    }
+    const mStr = months < 10 ? `0${months}` : `${months}`;
+    return `${years}.${mStr}`;
   }, []);
 
   // Compute canonical totals dynamically from corpus
@@ -55,22 +73,38 @@ export const CommandCenterHome: React.FC<Props> = ({
   const coreSubjects = SUBJECT_DEFS.filter(s => coreSubjectIds.includes(s.id));
   const prepSubjects = SUBJECT_DEFS.filter(s => prepSubjectIds.includes(s.id));
 
+  // Handler to open Current Affairs specifically at Section 11 (Rapid Revision)
+  const handleOpenCARevisionSec11 = () => {
+    const sec11Item = items.find(i =>
+      isItemInSubject(i, 'current-affairs') &&
+      (i.metadata?.category === 'SEC11' || i.id.includes('sec11') || i.title.toLowerCase().includes('rapid revision'))
+    );
+    if (sec11Item) {
+      onSelectItem(sec11Item.id);
+    } else {
+      onSelectSubject('current-affairs');
+    }
+  };
+
   return (
     <div className="command-center-home">
       <div className="home-container">
-        {/* Section A: Personal Header */}
-        <header className="home-personal-header">
+        {/* Section A: Personal Header Strip */}
+        <header className="home-personal-header wireframe-header">
           <div className="home-meta-bar">
-            <span className="home-system-badge">🏛️ BANKING COMMAND CENTER</span>
-            <span className="home-date-chip">📅 {formattedDate}</span>
+            <span className="home-system-badge">Banking Command Centre , {formattedDate}</span>
+            <div className="home-age-counter-widget" title="Age Counter (Calculated monthly from DOB: 31 Oct 1996)">
+              <span>{ageCounter}</span>
+              <span className="age-counter-chevron">▾</span>
+            </div>
           </div>
-          <h1 className="home-greeting-title">{greeting}, Vishal.</h1>
-          <p className="home-motto">Discipline today. Freedom tomorrow.</p>
+          <h1 className="home-greeting-title">{greeting}, Vishal</h1>
+          <p className="home-motto">"The life you want is usually hidden inside the things you keep postponing."</p>
         </header>
 
-        {/* Section B: Current Affairs 2026-27 & Revision Calendar Box Grid */}
-        <div className="home-ca-revision-grid">
-          {/* Left Box: Current Affairs 2026-27 */}
+        {/* Section B: Wireframe 2-Column Grid */}
+        <div className="home-ca-revision-grid wireframe-grid">
+          {/* Left Box: CURRENT AFFAIRS 2026 -27 */}
           <section className="home-ca-box">
             <div className="ca-box-header">
               <h2 className="ca-box-title">CURRENT AFFAIRS 2026 -27</h2>
@@ -127,82 +161,84 @@ export const CommandCenterHome: React.FC<Props> = ({
               </div>
             </div>
 
-            {/* Rapid Revision Button */}
+            {/* CA Revision (Section 11) Button */}
             <button
               className="ca-box-wide-btn revision-btn"
-              onClick={() => onSelectSubject('revision')}
+              onClick={handleOpenCARevisionSec11}
             >
-              REVISION
+              CA REVISION (Section 11)
             </button>
           </section>
 
-          {/* Right Box: Revision Calendar */}
-          <section className="home-revision-calendar-box">
-            <div className="revision-calendar-header">
-              <h2 className="revision-calendar-title">REVISION CALENDAR</h2>
-              <select className="revision-calendar-select" defaultValue="aug-2026" aria-label="Select Revision Month">
-                <option value="aug-2026">August 2026</option>
-                <option value="jul-2026">July 2026</option>
-                <option value="jun-2026">June 2026</option>
-              </select>
+          {/* Right Box: REPORTING CENTRE'S BLOCK */}
+          <section className="home-reporting-center-box">
+            <div className="reporting-center-header">
+              <h2 className="reporting-center-title">REPORTING CENTRE’S BLOCK</h2>
             </div>
 
-            <div className="revision-calendar-body">
-              {/* Day Headers */}
-              <div className="revision-cal-days-header">
-                <span>S</span><span>M</span><span>T</span><span>W</span><span>T</span><span>F</span><span>S</span>
+            <div className="reporting-center-content">
+              {/* 1. PROGRESS */}
+              <div className="reporting-pillar-block">
+                <h3 className="reporting-pillar-title">PROGRESS</h3>
+                <p className="reporting-pillar-desc">
+                  {reportingDataJson.progress?.summary || '(Recent work highlight with remarks, also includes daily work report submitted info)'}
+                </p>
+                <div className="reporting-pillar-chip">
+                  Status: {reportingDataJson.progress?.dailyReportStatus || 'Log Pending'}
+                </div>
               </div>
-              {/* Mini August 2026 Calendar Grid */}
-              <div className="revision-cal-grid">
-                {/* Offset for Aug 2026 (Aug 1 is Saturday) */}
-                <span className="cal-day empty" />
-                <span className="cal-day empty" />
-                <span className="cal-day empty" />
-                <span className="cal-day empty" />
-                <span className="cal-day empty" />
-                <span className="cal-day empty" />
-                <span className="cal-day">1</span>
-                <span className="cal-day">2</span>
-                <span className="cal-day has-event" title="ESI & Finance Trap Revision">3</span>
-                <span className="cal-day">4</span>
-                <span className="cal-day">5</span>
-                <span className="cal-day">6</span>
-                <span className="cal-day has-event" title="Regulatory Circulars Review">7</span>
-                <span className="cal-day">8</span>
-                <span className="cal-day">9</span>
-                <span className="cal-day">10</span>
-                <span className="cal-day">11</span>
-                <span className="cal-day has-event" title="Banking & Schemes Quiz">12</span>
-                <span className="cal-day">13</span>
-                <span className="cal-day">14</span>
-                <span className="cal-day has-event" title="Independence Day Mega Review">15</span>
-                <span className="cal-day">16</span>
-                <span className="cal-day is-today" title="Today's Revision Focus">17</span>
-                <span className="cal-day">18</span>
-                <span className="cal-day">19</span>
-                <span className="cal-day has-event" title="Quant & PYQ Traps">20</span>
-                <span className="cal-day">21</span>
-                <span className="cal-day">22</span>
-                <span className="cal-day">23</span>
-                <span className="cal-day">24</span>
-                <span className="cal-day has-event" title="Full Month CA Traps">25</span>
-                <span className="cal-day">26</span>
-                <span className="cal-day">27</span>
-                <span className="cal-day">28</span>
-                <span className="cal-day">29</span>
-                <span className="cal-day">30</span>
-                <span className="cal-day">31</span>
-              </div>
-            </div>
 
-            <div className="revision-calendar-footer">
-              <span className="revision-focus-hint">🎯 Today: High-Yield Traps & Macroeconomics</span>
-              <button
-                className="btn-start-revision"
-                onClick={() => onSelectSubject('revision')}
-              >
-                Start Revision →
-              </button>
+              {/* 2. TODAY'S WAR PLAN */}
+              <div className="reporting-pillar-block">
+                <h3 className="reporting-pillar-title">TODAY’S WAR PLAN</h3>
+                <p className="reporting-pillar-motto">
+                  {reportingDataJson.todaysWarPlan?.motto || '(Updated schedule according to goals and exams)'}
+                </p>
+                <ul className="reporting-war-plan-list">
+                  {reportingDataJson.todaysWarPlan?.schedule?.map((item, idx) => (
+                    <li key={idx} className="war-plan-item">
+                      <span className="war-plan-time">{item.time} ({item.zone})</span>
+                      <span className="war-plan-task">{item.task}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+
+              {/* 3. REVISION CALENDAR */}
+              <div className="reporting-pillar-block">
+                <h3 className="reporting-pillar-title">REVISION CALENDAR</h3>
+                <p className="reporting-pillar-desc">
+                  (Scientific Revision Calendar with timely gap and dates on when to revise what, derived from today work report)
+                </p>
+                <div className="reporting-rev-table">
+                  {reportingDataJson.revisionCalendar?.items?.map((rev, idx) => (
+                    <div key={idx} className="reporting-rev-row">
+                      <span className="rev-stream">{rev.stream}</span>
+                      <span className="rev-stage">{rev.revStage}</span>
+                      <span className={`rev-status ${rev.status.toLowerCase().includes('due') ? 'due' : ''}`}>{rev.nextDate} — {rev.status}</span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+
+              {/* 4. AHEAD */}
+              <div className="reporting-pillar-block">
+                <h3 className="reporting-pillar-title">AHEAD</h3>
+                <p className="reporting-pillar-desc">
+                  (What lies ahead in terms of exams, goals, future)
+                </p>
+                <ul className="reporting-ahead-list">
+                  {reportingDataJson.ahead?.roadmap?.map((item, idx) => (
+                    <li key={idx}>{item}</li>
+                  ))}
+                </ul>
+                <div className="reporting-audit-box">
+                  <span className="reporting-audit-label">RUTHLESS TRAJECTORY AUDIT:</span>
+                  <p className="reporting-audit-text">
+                    {reportingDataJson.ahead?.workEthicAudit || '(Also remark here with respect to my work ethic and input given, where i am headed, what are the possibilities, what could be improved - without any sugar coating)'}
+                  </p>
+                </div>
+              </div>
             </div>
           </section>
         </div>
