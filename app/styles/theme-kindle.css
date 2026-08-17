@@ -286,6 +286,245 @@ body {
   letter-spacing: 0.01em;
 }
 
+/* Top Section B: Current Affairs 2026-27 & Revision Calendar Grid */
+.home-ca-revision-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.4rem;
+  margin-bottom: 1.8rem;
+}
+
+@media (max-width: 840px) {
+  .home-ca-revision-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Left Box: Current Affairs 2026-27 */
+.home-ca-box {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: 8px;
+  padding: 1.4rem 1.6rem;
+  box-shadow: var(--shadow-sm);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 0.8rem;
+}
+
+.ca-box-header {
+  text-align: center;
+  margin-bottom: 0.2rem;
+}
+
+.ca-box-title {
+  font-family: var(--font-ui);
+  font-size: 1rem;
+  font-weight: 800;
+  color: var(--text-accent);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.ca-box-wide-btn {
+  width: 100%;
+  padding: 0.55rem 1rem;
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: 4px;
+  font-family: var(--font-ui);
+  font-size: 0.9rem;
+  font-weight: 800;
+  color: var(--text-accent);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.ca-box-wide-btn:hover {
+  background-color: var(--bg-accent-subtle);
+  border-color: var(--text-accent);
+}
+
+.ca-box-year-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.4rem;
+  margin: 0.2rem 0;
+}
+
+.ca-box-year-label {
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--text-accent);
+  letter-spacing: 0.05em;
+}
+
+.ca-box-month-grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 0.35rem;
+  width: 100%;
+}
+
+.ca-box-month-btn {
+  padding: 0.45rem 0.2rem;
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  color: var(--text-accent);
+  font-family: var(--font-ui);
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  border-radius: 3px;
+  cursor: pointer;
+  text-align: center;
+  transition: all 0.15s ease;
+}
+
+.ca-box-month-btn.is-active:hover {
+  background-color: var(--bg-accent-subtle);
+  border-color: var(--text-accent);
+  transform: translateY(-1px);
+}
+
+.ca-box-month-btn.is-upcoming {
+  opacity: 0.5;
+  cursor: not-allowed;
+  background-color: var(--bg-sidebar);
+  color: var(--text-muted);
+}
+
+/* Right Box: Revision Calendar */
+.home-revision-calendar-box {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: 8px;
+  padding: 1.4rem 1.6rem;
+  box-shadow: var(--shadow-sm);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.revision-calendar-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.8rem;
+}
+
+.revision-calendar-title {
+  font-family: var(--font-ui);
+  font-size: 1rem;
+  font-weight: 800;
+  color: var(--text-accent);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.revision-calendar-select {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  color: var(--text-primary);
+  font-family: var(--font-ui);
+  font-size: 0.78rem;
+  font-weight: 700;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.revision-calendar-body {
+  margin: 0.4rem 0 0.8rem 0;
+}
+
+.revision-cal-days-header {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  text-align: center;
+  font-family: var(--font-ui);
+  font-size: 0.72rem;
+  font-weight: 800;
+  color: var(--text-muted);
+  margin-bottom: 0.4rem;
+}
+
+.revision-cal-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 0.25rem;
+  text-align: center;
+}
+
+.cal-day {
+  font-family: var(--font-ui);
+  font-size: 0.76rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  padding: 0.3rem 0;
+  border-radius: 4px;
+  position: relative;
+}
+
+.cal-day.empty {
+  visibility: hidden;
+}
+
+.cal-day.is-today {
+  background-color: var(--text-accent);
+  color: var(--bg-card);
+  font-weight: 800;
+}
+
+.cal-day.has-event {
+  background-color: var(--bg-accent-subtle);
+  color: var(--text-accent);
+  font-weight: 800;
+  border: 1px solid var(--border-subtle);
+}
+
+.revision-calendar-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-top: 1px solid var(--border-subtle);
+  padding-top: 0.8rem;
+  margin-top: auto;
+}
+
+.revision-focus-hint {
+  font-family: var(--font-ui);
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  font-weight: 600;
+}
+
+.btn-start-revision {
+  background-color: var(--bg-reading-paper);
+  border: 1px solid var(--border-subtle);
+  border-radius: 4px;
+  padding: 0.45rem 1rem;
+  font-family: var(--font-ui);
+  font-size: 0.84rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.btn-start-revision:hover {
+  background-color: var(--bg-accent-subtle);
+  color: var(--text-accent);
+  border-color: var(--text-accent);
+}
+
 /* Top Grid: Continue Studying + Today's Plan */
 .home-top-grid {
   display: grid;

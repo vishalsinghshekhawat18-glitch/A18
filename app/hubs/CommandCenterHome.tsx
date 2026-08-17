@@ -68,7 +68,142 @@ export const CommandCenterHome: React.FC<Props> = ({
           <p className="home-motto">Discipline today. Freedom tomorrow.</p>
         </header>
 
-        {/* Section B & C: Top Grid (Continue Studying + Today's Plan) */}
+        {/* Section B: Current Affairs 2026-27 & Revision Calendar Box Grid */}
+        <div className="home-ca-revision-grid">
+          {/* Left Box: Current Affairs 2026-27 */}
+          <section className="home-ca-box">
+            <div className="ca-box-header">
+              <h2 className="ca-box-title">CURRENT AFFAIRS 2026 -27</h2>
+            </div>
+
+            {/* Static GA Button */}
+            <button
+              className="ca-box-wide-btn static-btn"
+              onClick={() => onSelectSubject('static-ga')}
+            >
+              STATIC
+            </button>
+
+            {/* 2026 Month Grid */}
+            <div className="ca-box-year-group">
+              <div className="ca-box-year-label">2026</div>
+              <div className="ca-box-month-grid">
+                {[
+                  { label: 'JAN', key: '2026-01', active: true },
+                  { label: 'FEB', key: '2026-02', active: true },
+                  { label: 'MAR', key: '2026-03', active: true },
+                  { label: 'APR', key: '2026-04', active: true },
+                  { label: 'MAY', key: '2026-05', active: true },
+                  { label: 'JUN', key: '2026-06', active: true },
+                  { label: 'JUL', key: '2026-07', active: true },
+                  { label: 'AUG', key: '2026-08', active: true },
+                  { label: 'SEPT', key: '2026-09', active: false },
+                  { label: 'OCT', key: '2026-10', active: false },
+                  { label: 'NOV', key: '2026-11', active: false },
+                  { label: 'DEC', key: '2026-12', active: false }
+                ].map(m => (
+                  <button
+                    key={m.key}
+                    className={`ca-box-month-btn ${m.active ? 'is-active' : 'is-upcoming'}`}
+                    disabled={!m.active}
+                    onClick={() => {
+                      if (m.active) {
+                        onSelectSubject('current-affairs');
+                        setTimeout(() => {
+                          const monthPillBtn = document.querySelector(`.ca-month-pill-btn[data-month="${m.key}"]`) as HTMLButtonElement;
+                          if (monthPillBtn) monthPillBtn.click();
+                        }, 100);
+                      }
+                    }}
+                    title={m.active ? `View ${m.label} 2026 Briefings` : `${m.label} 2026 Upcoming`}
+                  >
+                    {m.label}
+                  </button>
+                ))}
+              </div>
+            </div>
+
+            {/* Rapid Revision Button */}
+            <button
+              className="ca-box-wide-btn revision-btn"
+              onClick={() => onSelectSubject('revision')}
+            >
+              REVISION
+            </button>
+          </section>
+
+          {/* Right Box: Revision Calendar */}
+          <section className="home-revision-calendar-box">
+            <div className="revision-calendar-header">
+              <h2 className="revision-calendar-title">REVISION CALENDAR</h2>
+              <select className="revision-calendar-select" defaultValue="aug-2026" aria-label="Select Revision Month">
+                <option value="aug-2026">August 2026</option>
+                <option value="jul-2026">July 2026</option>
+                <option value="jun-2026">June 2026</option>
+              </select>
+            </div>
+
+            <div className="revision-calendar-body">
+              {/* Day Headers */}
+              <div className="revision-cal-days-header">
+                <span>S</span><span>M</span><span>T</span><span>W</span><span>T</span><span>F</span><span>S</span>
+              </div>
+              {/* Mini August 2026 Calendar Grid */}
+              <div className="revision-cal-grid">
+                {/* Offset for Aug 2026 (Aug 1 is Saturday) */}
+                <span className="cal-day empty" />
+                <span className="cal-day empty" />
+                <span className="cal-day empty" />
+                <span className="cal-day empty" />
+                <span className="cal-day empty" />
+                <span className="cal-day empty" />
+                <span className="cal-day">1</span>
+                <span className="cal-day">2</span>
+                <span className="cal-day has-event" title="ESI & Finance Trap Revision">3</span>
+                <span className="cal-day">4</span>
+                <span className="cal-day">5</span>
+                <span className="cal-day">6</span>
+                <span className="cal-day has-event" title="Regulatory Circulars Review">7</span>
+                <span className="cal-day">8</span>
+                <span className="cal-day">9</span>
+                <span className="cal-day">10</span>
+                <span className="cal-day">11</span>
+                <span className="cal-day has-event" title="Banking & Schemes Quiz">12</span>
+                <span className="cal-day">13</span>
+                <span className="cal-day">14</span>
+                <span className="cal-day has-event" title="Independence Day Mega Review">15</span>
+                <span className="cal-day">16</span>
+                <span className="cal-day is-today" title="Today's Revision Focus">17</span>
+                <span className="cal-day">18</span>
+                <span className="cal-day">19</span>
+                <span className="cal-day has-event" title="Quant & PYQ Traps">20</span>
+                <span className="cal-day">21</span>
+                <span className="cal-day">22</span>
+                <span className="cal-day">23</span>
+                <span className="cal-day">24</span>
+                <span className="cal-day has-event" title="Full Month CA Traps">25</span>
+                <span className="cal-day">26</span>
+                <span className="cal-day">27</span>
+                <span className="cal-day">28</span>
+                <span className="cal-day">29</span>
+                <span className="cal-day">30</span>
+                <span className="cal-day">31</span>
+              </div>
+            </div>
+
+            <div className="revision-calendar-footer">
+              <span className="revision-focus-hint">🎯 Today: High-Yield Traps & Macroeconomics</span>
+              <button
+                className="btn-start-revision"
+                onClick={() => onSelectSubject('revision')}
+              >
+                Start Revision →
+              </button>
+            </div>
+          </section>
+        </div>
+
+        {/* Section C: Top Grid (Continue Studying + Today's Plan) */}
         <div className={`home-top-grid ${!lastItem ? 'single-panel' : ''}`}>
           {/* B. Continue Studying Primary Card */}
           {lastItem && (
