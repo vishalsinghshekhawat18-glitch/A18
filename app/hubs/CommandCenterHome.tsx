@@ -108,11 +108,15 @@ export const CommandCenterHome: React.FC<Props> = ({
                     disabled={!m.active}
                     onClick={() => {
                       if (m.active) {
-                        onSelectSubject('current-affairs');
-                        setTimeout(() => {
-                          const monthPillBtn = document.querySelector(`.ca-month-pill-btn[data-month="${m.key}"]`) as HTMLButtonElement;
-                          if (monthPillBtn) monthPillBtn.click();
-                        }, 100);
+                        const targetItem = items.find(i =>
+                          isItemInSubject(i, 'current-affairs') &&
+                          i.metadata?.date?.startsWith(m.key)
+                        );
+                        if (targetItem) {
+                          onSelectItem(targetItem.id);
+                        } else {
+                          onSelectSubject('current-affairs');
+                        }
                       }
                     }}
                     title={m.active ? `View ${m.label} 2026 Briefings` : `${m.label} 2026 Upcoming`}

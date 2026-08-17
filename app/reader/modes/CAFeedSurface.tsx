@@ -56,12 +56,18 @@ export const CAFeedSurface: React.FC<Props> = ({
     }
   }, []);
 
-  // If activeItemId belongs to a specific month, ensure that month is visible if currently filtered
+  // If activeItemId belongs to a specific month, ensure that month is filtered and scrolled into view
   useEffect(() => {
     if (!activeItemId) return;
     const targetGroup = monthGroups.find(g => g.items.some(i => i.id === activeItemId));
-    if (targetGroup && selectedMonthKey !== 'all' && selectedMonthKey !== targetGroup.monthKey) {
+    if (targetGroup) {
       setSelectedMonthKey(targetGroup.monthKey);
+      setTimeout(() => {
+        const targetEl = document.getElementById(`month-section-${targetGroup.monthKey}`);
+        if (targetEl) {
+          targetEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      }, 50);
     }
   }, [activeItemId, monthGroups]);
 
