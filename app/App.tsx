@@ -11,6 +11,7 @@ import { SearchModal } from './search/SearchModal';
 import { FlexSearchProvider } from './search/FlexSearchProvider';
 import { corpusStubs, loadFullKnowledgeItem, loadAllCorpusItemsForSearch } from './contentLoader';
 import { useUserStudyState } from './intelligence/userStateStore';
+import { BookBox } from './components/BookBox/BookBox';
 
 export const App: React.FC = () => {
   // Lightweight corpus stubs for Home Page grid & Sidebar navigation
@@ -197,6 +198,9 @@ export const App: React.FC = () => {
         searchService={searchService}
         onSelectResult={item => handleSelectItem(item.id)}
       />
+
+      {/* Strictly Private & Isolated Bottom Book Box */}
+      <BookBox />
     </div>
   );
 };
