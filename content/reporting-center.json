@@ -1,6 +1,28 @@
 {
   "lastUpdated": "2026-08-18",
   "dob": "1996-10-31",
+  "examTargets": [
+    {
+      "name": "IBPS PO Prelims",
+      "date": "2026-08-22",
+      "priority": "primary"
+    },
+    {
+      "name": "IBPS PO Mains",
+      "date": null,
+      "priority": "secondary"
+    },
+    {
+      "name": "SBI PO",
+      "date": null,
+      "priority": "secondary"
+    },
+    {
+      "name": "RBI Grade B",
+      "date": null,
+      "priority": "secondary"
+    }
+  ],
   "progress": {
     "title": "PROGRESS & METRICS AUDIT",
     "summary": "Oliveboard Mock 2 executed under pressure (48.68 score on ~15% harder paper). Resilient execution. Target for Mock 6 today: 63+ Score with 90%+ Accuracy Control (< 6 wrong Qs).",
@@ -20,16 +42,40 @@
   "revisionCalendar": {
     "title": "REVISION CALENDAR (Spaced Repetition)",
     "items": [
-      { "stream": "Aug 11–13 Current Affairs", "revStage": "Rev 2 (Day +3)", "status": "DUE TONIGHT", "nextDate": "18 Aug" },
-      { "stream": "Oliveboard 15 Wrong Qs", "revStage": "Active Audit", "status": "Re-solve Tonight", "nextDate": "18 Aug" },
-      { "stream": "Aug 1–10 Current Affairs", "revStage": "Rev 2 (Done)", "status": "Complete", "nextDate": "20 Aug" },
-      { "stream": "Mock 4 & 6 Error Log", "revStage": "Pre-Exam Review", "status": "In Progress", "nextDate": "21 Aug" }
+      {
+        "stream": "Aug 11–13 Current Affairs",
+        "stage": "Rev 2 (Day +3)",
+        "revisionNumber": 2,
+        "revisionDate": "2026-08-18",
+        "status": "due"
+      },
+      {
+        "stream": "Oliveboard 15 Wrong Qs",
+        "stage": "Active Audit",
+        "revisionNumber": 1,
+        "revisionDate": "2026-08-18",
+        "status": "due"
+      },
+      {
+        "stream": "Aug 1–10 Current Affairs",
+        "stage": "Rev 2 (Done)",
+        "revisionNumber": 2,
+        "revisionDate": "2026-08-20",
+        "status": "complete"
+      },
+      {
+        "stream": "Mock 4 & 6 Error Log",
+        "stage": "Pre-Exam Review",
+        "revisionNumber": 1,
+        "revisionDate": "2026-08-21",
+        "status": "scheduled"
+      }
     ]
   },
   "ahead": {
     "title": "AHEAD & RUTHLESS TRAJECTORY AUDIT",
     "roadmap": [
-      "1. IBPS PO Prelims (22 Aug 2026 — 4 Days Left): Target 65+ Score / 92%+ile.",
+      "1. IBPS PO Prelims (22 Aug 2026): Target 65+ Score / 92%+ile.",
       "2. IIBF DB&F Form Payment: Verification check on portal.iibf.org.in.",
       "3. Post-Aug 22 Certification Sprint: NISM Series V-A, XV, VIII & IIBF DB&F.",
       "4. SBI PO & IBPS PO Mains: Continuous GA & High-Level DI/Puzzle stream."

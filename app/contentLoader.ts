@@ -1,7 +1,7 @@
 import { KnowledgeItem } from '../schema/knowledge-item';
 import corpusIndexJson from '../content/corpus-index.json';
 
-// Lazy dynamic import map for all 926 corpus items (NO eager: true)
+// Lazy dynamic import map for corpus content (NO eager: true)
 const corpusGlob = import.meta.glob('../content/corpus/*.json');
 
 // Memory cache for fetched full items with blocks

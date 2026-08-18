@@ -1,0 +1,136 @@
+{
+  "id": "migrated-eng-ch-1",
+  "type": "chapter",
+  "domain": "english",
+  "title": "Chapter 1: Framework",
+  "summary": "The 250-Word / 18-Min Essay Writing Framework. Includes exact Word & Time Distribution Table, Introduction 3-Sentence Formula, PEEL Body Paragraph Structure, Challenges & Solutions Mitigation, and Conclusion Circular Callback.",
+  "metadata": {
+    "provenance": {
+      "sourceSystem": "Core"
+    },
+    "subject": "english",
+    "part": "PART 1 - Writing",
+    "section": "Section A - Essay Writing"
+  },
+  "relationships": [],
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "The 250-Word / 18-Min Essay Rule",
+      "summary": "Do not write a single long block of text. Split your essay into exactly 4 paragraphs following strict time allocation: Introduction (3 min), Body 1 (6 min), Body 2 (6 min), Conclusion (3 min)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⏱️ WORD & TIME DISTRIBUTION (The 250-Word / 18-Min Plan)"
+    },
+    {
+      "type": "paragraph",
+      "content": "Do not write a single long block of text. Your essay must be split into exactly **4 paragraphs**:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Section",
+        "Target Words",
+        "Time Allocated",
+        "Core Purpose"
+      ],
+      "rows": [
+        [
+          "Paragraph 1: Introduction",
+          "40–50 words",
+          "3 minutes",
+          "Define the topic and state the thesis statement."
+        ],
+        [
+          "Paragraph 2: Body Paragraph 1",
+          "80–90 words",
+          "6 minutes",
+          "Primary argument + supporting data/facts."
+        ],
+        [
+          "Paragraph 3: Body Paragraph 2",
+          "80–90 words",
+          "6 minutes",
+          "Challenges, counter-arguments, or government schemes."
+        ],
+        [
+          "Paragraph 4: Conclusion",
+          "40–50 words",
+          "3 minutes",
+          "Summarize, callback to intro, and end with a forward-looking line."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📐 THE PARAGRAPH-BY-PARAGRAPH FORMULA"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Paragraph 1: The Introduction (3-Sentence Formula)"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Sentence 1: The Hook/Context:** A broad statement establishing the current relevance of the topic (e.g., \"In the era of rapid digitization, India's financial landscape is undergoing a structural shift...\").",
+        "**Sentence 2: The Core Definition:** Define the key economic or financial term in the topic.",
+        "**Sentence 3: The Thesis Statement:** State the exact direction of your essay (e.g., \"This essay examines how digital banking acts as a cornerstone for financial inclusion, bridging the urban-rural divide.\")."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Paragraph 2: Body Paragraph 1 (PEEL Formula)"
+    },
+    {
+      "type": "paragraph",
+      "content": "To write a high-scoring body paragraph, use the **PEEL** structure:"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**P (Point):** State the main argument clearly in the first sentence.",
+        "**E (Explanation):** Explain the mechanism behind that point.",
+        "**E (Example/Evidence):** Provide a real-world statistic, RBI guideline, or government initiative (e.g., \"The Jan Dhan-Aadhaar-Mobile (JAM) trinity has successfully onboarded over 50 crore unbanked citizens...\").",
+        "**L (Link):** Connect the argument back to the main topic of financial inclusion."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Paragraph 3: Body Paragraph 2 (Challenges & Solutions)"
+    },
+    {
+      "type": "paragraph",
+      "content": "Every essay must show balanced critical analysis:"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**The Contrast:** Highlight the bottleneck (e.g., digital illiteracy, cybersecurity threats, or rural internet outages).",
+        "**The Mitigation:** Mention active steps being taken by the government or RBI to address these challenges (e.g., RBI's Payment System Vision 2025, Cyber Dost initiative)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Paragraph 4: The Conclusion (3-Sentence Formula)"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Sentence 1: The Synthesis:** Rephrase your thesis statement in a summary form (do *not* introduce new facts here).",
+        "**Sentence 2: The Circular Callback:** Briefly refer back to the hook or definition used in your introduction.",
+        "**Sentence 3: The Forward-Looking Line:** End with an optimistic, policy-driven vision statement (e.g., \"Only by secure, accessible, and literacy-driven banking can India transition from digital access to true financial empowerment.\")."
+      ]
+    }
+  ]
+}

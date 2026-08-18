@@ -11,6 +11,7 @@ interface Props {
 // Subject display metadata mapping
 const SUBJECT_METADATA: Record<string, { title: string; icon: string; badge: string; desc: string }> = {
   'economics': { title: 'Economics', icon: '📚', badge: 'Book Chapter Reader', desc: 'Core Economics Chapters & Financial System Notes.' },
+  'english': { title: 'English Language', icon: '✍️', badge: 'Book Chapter Reader', desc: 'Descriptive Essay Writing, Letter Drafting Formats & Grammar.' },
   'polity': { title: 'Polity & Governance', icon: '⚖️', badge: 'Book Chapter Reader', desc: 'Constitutional Acts, Statutory Bodies & ECI.' },
   'history': { title: 'History & Culture', icon: '📜', badge: 'Book Chapter Reader', desc: 'Freedom Struggle, Regional Movements & Culture.' },
   'geography': { title: 'Geography & Environment', icon: '🌍', badge: 'Book Chapter Reader', desc: 'Atmospheric Composition & Physical Geography.' },
@@ -36,9 +37,22 @@ export const SubjectHubView: React.FC<Props> = ({
     desc: 'Available migrated items for this subject.'
   };
 
+  // State for nested English toggles
+  const [collapsedParts, setCollapsedParts] = React.useState<Record<string, boolean>>({});
+  const [collapsedSections, setCollapsedSections] = React.useState<Record<string, boolean>>({});
+
+  const togglePart = (partKey: string) => {
+    setCollapsedParts(prev => ({ ...prev, [partKey]: !prev[partKey] }));
+  };
+
+  const toggleSection = (secKey: string) => {
+    setCollapsedSections(prev => ({ ...prev, [secKey]: !prev[secKey] }));
+  };
+
   // Filter items matching this subject
   const subjectItems = items.filter(i => {
     if (subjectId === 'economics') return i.domain === 'economics' || i.id.includes('eco-ch');
+    if (subjectId === 'english') return i.domain === 'english' || i.id.includes('eng-ch') || i.id.includes('english');
     if (subjectId === 'polity') return i.domain === 'polity' || i.id.includes('pol-ch');
     if (subjectId === 'history') return i.domain === 'history' || i.id.includes('his-ch');
     if (subjectId === 'geography') return i.domain === 'geography' || i.id.includes('geo-ch');
@@ -58,6 +72,20 @@ export const SubjectHubView: React.FC<Props> = ({
   const caJuly = subjectItems.filter(i => i.metadata?.date?.startsWith('2026-07'));
   const caJune = subjectItems.filter(i => i.metadata?.date?.startsWith('2026-06'));
 
+  // English Part > Section > Chapter Grouping
+  const isEnglish = subjectId === 'english';
+  const englishPartsMap: Record<string, Record<string, KnowledgeItem[]>> = {};
+
+  if (isEnglish) {
+    subjectItems.forEach(item => {
+      const part = item.metadata?.part || 'Part I - Writing';
+      const sec = item.metadata?.section || 'Section A - Essay Writing';
+      if (!englishPartsMap[part]) englishPartsMap[part] = {};
+      if (!englishPartsMap[part][sec]) englishPartsMap[part][sec] = [];
+      englishPartsMap[part][sec].push(item);
+    });
+  }
+
   return (
     <div className="subject-hub-view">
       <div className="subject-hub-container">
@@ -73,15 +101,84 @@ export const SubjectHubView: React.FC<Props> = ({
           <div className="hub-badge-row">
             <span className="hub-icon">{meta.icon}</span>
             <span className="hub-surface-badge">{meta.badge}</span>
-            <span className="hub-count-chip">{subjectItems.length} Real Available Items</span>
+            <span className="hub-count-chip">{subjectItems.length} Available Modules</span>
           </div>
 
           <h1 className="hub-title">{meta.title} Hub</h1>
           <p className="hub-desc">{meta.desc}</p>
         </header>
 
-        {/* Month-First Architecture for Current Affairs */}
-        {isCA ? (
+        {/* English Part > Section > Chapter Accordion Structure */}
+        {isEnglish ? (
+          <div className="english-nested-hub">
+            {Object.entries(englishPartsMap).map(([partName, sectionsMap]) => {
+              const isPartCollapsed = !!collapsedParts[partName];
+              return (
+                <div key={partName} className="english-part-accordion">
+                  <div
+                    className="english-part-header collapsible-header"
+                    onClick={() => togglePart(partName)}
+                    title={isPartCollapsed ? "Click to expand Part" : "Click to collapse Part"}
+                  >
+                    <div className="english-part-title-group">
+                      <span className="english-part-icon">📌</span>
+                      <h2 className="english-part-title">{partName}</h2>
+                    </div>
+                    <span className="collapsible-indicator">{isPartCollapsed ? '▸' : '▾'}</span>
+                  </div>
+
+                  {!isPartCollapsed && (
+                    <div className="english-part-body">
+                      {Object.entries(sectionsMap).map(([secName, secItems]) => {
+                        const isSecCollapsed = !!collapsedSections[secName];
+                        return (
+                          <div key={secName} className="english-sec-accordion">
+                            <div
+                              className="english-sec-header collapsible-header"
+                              onClick={() => toggleSection(secName)}
+                              title={isSecCollapsed ? "Click to expand Section" : "Click to collapse Section"}
+                            >
+                              <div className="english-sec-title-group">
+                                <span className="english-sec-icon">📝</span>
+                                <h3 className="english-sec-title">{secName}</h3>
+                                <span className="english-sec-count">{secItems.length} {secItems.length === 1 ? 'Chapter' : 'Chapters'}</span>
+                              </div>
+                              <span className="collapsible-indicator">{isSecCollapsed ? '▸' : '▾'}</span>
+                            </div>
+
+                            {!isSecCollapsed && (
+                              <div className="hub-items-list" style={{ marginTop: '0.8rem' }}>
+                                {secItems.map((item, idx) => (
+                                  <div
+                                    key={item.id}
+                                    className="hub-item-card"
+                                    onClick={() => onSelectItem(item.id)}
+                                  >
+                                    <div className="hub-item-index">#{idx + 1}</div>
+                                    <div className="hub-item-content">
+                                      <h3 className="hub-item-title">{item.title}</h3>
+                                      {item.summary && <p className="hub-item-summary">{item.summary}</p>}
+                                      <div className="hub-item-meta">
+                                        <span className="tag-pill">{secName}</span>
+                                        <span className="tag-pill">ID: {item.id}</span>
+                                      </div>
+                                    </div>
+                                    <div className="hub-item-arrow">Study Chapter →</div>
+                                  </div>
+                                ))}
+                              </div>
+                            )}
+                          </div>
+                        );
+                      })}
+                    </div>
+                  )}
+                </div>
+              );
+            })}
+          </div>
+        ) : isCA ? (
+          /* Month-First Architecture for Current Affairs */
           <div className="ca-month-hub-grid">
             <div className="ca-month-card">
               <div className="ca-month-header">

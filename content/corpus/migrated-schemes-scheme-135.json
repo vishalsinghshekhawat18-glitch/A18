@@ -1,7 +1,7 @@
 {
   "id": "migrated-schemes-scheme-135",
   "type": "ca_note",
-  "domain": "current-affairs",
+  "domain": "schemes",
   "title": "Ayushman Bharat Scheme (Launched: 28 September 2018):",
   "summary": "Schemes — Ayushman Bharat Scheme (Launched: 28 September 2018):",
   "blocks": [
@@ -48,14 +48,14 @@
     ],
     "category": "Schemes",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:02.680Z",
+    "lastUpdated": "2026-08-15T12:14:02.68Z",
     "provenance": {
       "sourceSystem": "Schemes",
       "sourceFile": "ca_app/updated_schemes_data.js",
       "sourceId": "scheme-135",
       "sourceTitle": "Ayushman Bharat Scheme (Launched: 28 September 2018):",
       "sourceChecksum": "cce06d2f5880d83851d27ccaed69051af26c966465b13315b90cc3328dcf0b92",
-      "migrationTimestamp": "2026-08-15T12:14:02.680Z",
+      "migrationTimestamp": "2026-08-15T12:14:02.68Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
     }
   }

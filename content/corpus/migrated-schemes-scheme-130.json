@@ -1,7 +1,7 @@
 {
   "id": "migrated-schemes-scheme-130",
   "type": "ca_note",
-  "domain": "current-affairs",
+  "domain": "schemes",
   "title": "National Nutrition Mission (Poshan Abhiyaan):",
   "summary": "Schemes — National Nutrition Mission (Poshan Abhiyaan):",
   "blocks": [
@@ -39,14 +39,14 @@
     ],
     "category": "Schemes",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:02.680Z",
+    "lastUpdated": "2026-08-15T12:14:02.68Z",
     "provenance": {
       "sourceSystem": "Schemes",
       "sourceFile": "ca_app/updated_schemes_data.js",
       "sourceId": "scheme-130",
       "sourceTitle": "National Nutrition Mission (Poshan Abhiyaan):",
       "sourceChecksum": "84f1f90f047c1119be06a8cd28c7d7299a56806d0afc834a8fc9154c01abed1e",
-      "migrationTimestamp": "2026-08-15T12:14:02.680Z",
+      "migrationTimestamp": "2026-08-15T12:14:02.68Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
     }
   }

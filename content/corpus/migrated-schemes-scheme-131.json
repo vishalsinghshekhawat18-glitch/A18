@@ -1,7 +1,7 @@
 {
   "id": "migrated-schemes-scheme-131",
   "type": "ca_note",
-  "domain": "current-affairs",
+  "domain": "schemes",
   "title": "Mission Shakti (2021-2026):",
   "summary": "Schemes — Mission Shakti (2021-2026):",
   "blocks": [
@@ -26,14 +26,14 @@
     ],
     "category": "Schemes",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:02.680Z",
+    "lastUpdated": "2026-08-15T12:14:02.68Z",
     "provenance": {
       "sourceSystem": "Schemes",
       "sourceFile": "ca_app/updated_schemes_data.js",
       "sourceId": "scheme-131",
       "sourceTitle": "Mission Shakti (2021-2026):",
       "sourceChecksum": "d463218177a22c92ed94f982a567ec456b24de4bd52f8a9f53d7e1a68891e196",
-      "migrationTimestamp": "2026-08-15T12:14:02.680Z",
+      "migrationTimestamp": "2026-08-15T12:14:02.68Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
     }
   }

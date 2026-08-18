@@ -1,7 +1,7 @@
 {
   "id": "migrated-schemes-scheme-139",
   "type": "ca_note",
-  "domain": "current-affairs",
+  "domain": "schemes",
   "title": "Ayushman Bharat Health Infrastructure Mission (ABHIM):",
   "summary": "Schemes — Ayushman Bharat Health Infrastructure Mission (ABHIM):",
   "blocks": [
@@ -29,14 +29,14 @@
     ],
     "category": "Schemes",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:02.680Z",
+    "lastUpdated": "2026-08-15T12:14:02.68Z",
     "provenance": {
       "sourceSystem": "Schemes",
       "sourceFile": "ca_app/updated_schemes_data.js",
       "sourceId": "scheme-139",
       "sourceTitle": "Ayushman Bharat Health Infrastructure Mission (ABHIM):",
       "sourceChecksum": "add321689404649d28fa1275db4c6448c5ae9c07edd4b5980e6f72daa5a107da",
-      "migrationTimestamp": "2026-08-15T12:14:02.680Z",
+      "migrationTimestamp": "2026-08-15T12:14:02.68Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
     }
   }

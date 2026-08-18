@@ -1,7 +1,7 @@
 {
   "id": "migrated-schemes-scheme-145",
   "type": "ca_note",
-  "domain": "current-affairs",
+  "domain": "schemes",
   "title": "Aatmanirbhar Bharat Rojgar Yojana (ABRY):",
   "summary": "Schemes — Aatmanirbhar Bharat Rojgar Yojana (ABRY):",
   "blocks": [
@@ -37,14 +37,14 @@
     ],
     "category": "Schemes",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:02.680Z",
+    "lastUpdated": "2026-08-15T12:14:02.68Z",
     "provenance": {
       "sourceSystem": "Schemes",
       "sourceFile": "ca_app/updated_schemes_data.js",
       "sourceId": "scheme-145",
       "sourceTitle": "Aatmanirbhar Bharat Rojgar Yojana (ABRY):",
       "sourceChecksum": "5c9ad969a2e82b675f2d3a380f63b23b548282be805bd4b8bcb797d7655ecd57",
-      "migrationTimestamp": "2026-08-15T12:14:02.680Z",
+      "migrationTimestamp": "2026-08-15T12:14:02.68Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
     }
   }

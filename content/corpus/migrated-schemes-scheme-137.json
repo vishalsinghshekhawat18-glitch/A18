@@ -1,7 +1,7 @@
 {
   "id": "migrated-schemes-scheme-137",
   "type": "ca_note",
-  "domain": "current-affairs",
+  "domain": "schemes",
   "title": "Prime Minister's PVTG Development Mission:",
   "summary": "Schemes — Prime Minister's PVTG Development Mission:",
   "blocks": [
@@ -30,14 +30,14 @@
     ],
     "category": "Schemes",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:02.680Z",
+    "lastUpdated": "2026-08-15T12:14:02.68Z",
     "provenance": {
       "sourceSystem": "Schemes",
       "sourceFile": "ca_app/updated_schemes_data.js",
       "sourceId": "scheme-137",
       "sourceTitle": "Prime Minister's PVTG Development Mission:",
       "sourceChecksum": "b5defe51af9a303f249bfe7f49c34fc141740570ae8b45dc36c6894b541992aa",
-      "migrationTimestamp": "2026-08-15T12:14:02.680Z",
+      "migrationTimestamp": "2026-08-15T12:14:02.68Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
     }
   }

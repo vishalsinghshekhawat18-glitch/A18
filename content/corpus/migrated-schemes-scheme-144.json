@@ -1,7 +1,7 @@
 {
   "id": "migrated-schemes-scheme-144",
   "type": "ca_note",
-  "domain": "current-affairs",
+  "domain": "schemes",
   "title": "Pradhan Mantri Matsya Kisan Samridhi Sah-Yojana (PM-MKSSY):",
   "summary": "Schemes — Pradhan Mantri Matsya Kisan Samridhi Sah-Yojana (PM-MKSSY):",
   "blocks": [
@@ -48,14 +48,14 @@
     ],
     "category": "Schemes",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:02.680Z",
+    "lastUpdated": "2026-08-15T12:14:02.68Z",
     "provenance": {
       "sourceSystem": "Schemes",
       "sourceFile": "ca_app/updated_schemes_data.js",
       "sourceId": "scheme-144",
       "sourceTitle": "Pradhan Mantri Matsya Kisan Samridhi Sah-Yojana (PM-MKSSY):",
       "sourceChecksum": "672812677aa737103758275db902b0e7adb5bf5a0ef5c726bd9bee088a5aa4d4",
-      "migrationTimestamp": "2026-08-15T12:14:02.680Z",
+      "migrationTimestamp": "2026-08-15T12:14:02.68Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
     }
   }

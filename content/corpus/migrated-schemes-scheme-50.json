@@ -1,7 +1,7 @@
 {
   "id": "migrated-schemes-scheme-50",
   "type": "ca_note",
-  "domain": "current-affairs",
+  "domain": "schemes",
   "title": "Jal Jeevan Mission (JJM):",
   "summary": "Schemes — Jal Jeevan Mission (JJM):",
   "blocks": [
@@ -34,14 +34,14 @@
     ],
     "category": "Schemes",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:01.510Z",
+    "lastUpdated": "2026-08-15T12:14:01.51Z",
     "provenance": {
       "sourceSystem": "Schemes",
       "sourceFile": "ca_app/updated_schemes_data.js",
       "sourceId": "scheme-50",
       "sourceTitle": "Jal Jeevan Mission (JJM):",
       "sourceChecksum": "3c4ab992255ed0ee0f6e784efc5a5f8728ccc5a338ff7174cb35ce5dc743d896",
-      "migrationTimestamp": "2026-08-15T12:14:01.510Z",
+      "migrationTimestamp": "2026-08-15T12:14:01.51Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
     }
   }

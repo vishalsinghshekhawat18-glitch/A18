@@ -1,7 +1,7 @@
 {
   "id": "migrated-schemes-scheme-46",
   "type": "ca_note",
-  "domain": "current-affairs",
+  "domain": "schemes",
   "title": "The PM PRANAM Scheme (Promotion of Alternate Nutrients for Agriculture",
   "summary": "Schemes — The PM PRANAM Scheme (Promotion of Alternate Nutrients for Agriculture",
   "blocks": [
@@ -27,14 +27,14 @@
     ],
     "category": "Schemes",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:01.510Z",
+    "lastUpdated": "2026-08-15T12:14:01.51Z",
     "provenance": {
       "sourceSystem": "Schemes",
       "sourceFile": "ca_app/updated_schemes_data.js",
       "sourceId": "scheme-46",
       "sourceTitle": "The PM PRANAM Scheme (Promotion of Alternate Nutrients for Agriculture",
       "sourceChecksum": "f0368b5edb7ed3c41d160ed71253e829f89c312aa749da278d98685fa6b2fbf2",
-      "migrationTimestamp": "2026-08-15T12:14:01.510Z",
+      "migrationTimestamp": "2026-08-15T12:14:01.51Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
     }
   }

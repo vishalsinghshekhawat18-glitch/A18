@@ -18,6 +18,7 @@ interface Props {
 
 const SUBJECT_LIST = [
   { id: 'economics', title: 'Economics', icon: '📚' },
+  { id: 'english', title: 'English Language', icon: '✍️' },
   { id: 'polity', title: 'Polity & Governance', icon: '⚖️' },
   { id: 'history', title: 'History & Culture', icon: '📜' },
   { id: 'geography', title: 'Geography & Environment', icon: '🌍' },
@@ -98,6 +99,21 @@ export const NavSidebar: React.FC<Props> = ({
     return [];
   }, [targetSubject, contextItems]);
 
+  const englishSidebarGroups = useMemo(() => {
+    if (targetSubject === 'english') {
+      const partsMap: Record<string, Record<string, KnowledgeItem[]>> = {};
+      contextItems.forEach(item => {
+        const part = item.metadata?.part || 'PART I - Writing';
+        const sec = item.metadata?.section || 'Section A - Essay Writing';
+        if (!partsMap[part]) partsMap[part] = {};
+        if (!partsMap[part][sec]) partsMap[part][sec] = [];
+        partsMap[part][sec].push(item);
+      });
+      return partsMap;
+    }
+    return null;
+  }, [targetSubject, contextItems]);
+
   const handleManualClose = () => {
     if (onCloseSidebar) {
       onCloseSidebar();
@@ -171,8 +187,37 @@ export const NavSidebar: React.FC<Props> = ({
                 {targetSubject?.toUpperCase() || 'SUBJECT'} INDEX ({contextItems.length})
               </div>
 
-              {/* Special Month & Section Hierarchy for Current Affairs */}
-              {targetSubject === 'current-affairs' ? (
+              {/* Special Hierarchy for English Language */}
+              {targetSubject === 'english' && englishSidebarGroups ? (
+                <div className="english-sidebar-groups" style={{ display: 'flex', flexDirection: 'column', gap: '0.8rem' }}>
+                  {Object.entries(englishSidebarGroups).map(([partName, secMap]) => (
+                    <div key={partName} className="english-sidebar-part-block">
+                      <div className="english-sidebar-part-title" style={{ fontFamily: 'var(--font-ui)', fontSize: '0.82rem', fontWeight: 800, color: '#9e3b24', letterSpacing: '0.04em', textTransform: 'uppercase', marginBottom: '0.3rem' }}>
+                        📌 {partName}
+                      </div>
+                      {Object.entries(secMap).map(([secName, secItems]) => (
+                        <div key={secName} className="english-sidebar-sec-block" style={{ marginLeft: '0.5rem', marginBottom: '0.5rem' }}>
+                          <div className="english-sidebar-sec-title" style={{ fontFamily: 'var(--font-ui)', fontSize: '0.78rem', fontWeight: 800, color: 'var(--text-accent)', marginBottom: '0.2rem' }}>
+                            📝 {secName} ({secItems.length})
+                          </div>
+                          <div className="english-sidebar-items-list" style={{ marginLeft: '0.4rem', display: 'flex', flexDirection: 'column', gap: '0.15rem' }}>
+                            {secItems.map(item => (
+                              <button
+                                key={item.id}
+                                className={`nav-item ${activeItemId === item.id ? 'active' : ''}`}
+                                onClick={() => handleSelectItem(item.id)}
+                              >
+                                {item.title}
+                              </button>
+                            ))}
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  ))}
+                </div>
+              ) : targetSubject === 'current-affairs' ? (
+                /* Special Month & Section Hierarchy for Current Affairs */
                 <div className="ca-sidebar-month-groups">
                   {caMonthGroups.map((group, idx) => {
                     const isDefaultOpen = idx === 0;

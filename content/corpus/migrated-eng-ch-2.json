@@ -1,0 +1,76 @@
+{
+  "id": "migrated-eng-ch-2",
+  "type": "chapter",
+  "domain": "english",
+  "title": "Chapter 2: Introductions",
+  "summary": "Masterclass on writing high-scoring Essay Introductions using the 3-Sentence Formula (Hook, Definition, Thesis). Features exact model introductions for Digital Banking, UPI, Payments Banks, and Digital Rupee (e-Rupee).",
+  "metadata": {
+    "provenance": {
+      "sourceSystem": "Core"
+    },
+    "subject": "english",
+    "part": "PART 1 - Writing",
+    "section": "Section A - Essay Writing"
+  },
+  "relationships": [],
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "The Introduction 3-Sentence Formula Rule",
+      "summary": "Every essay introduction must strictly contain: (1) Contextual Hook, (2) Core Technical Definition, and (3) Clear Thesis Statement outlining the direction of analysis."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📖 High-Yield Model Introductions for Banking & Economic Topics"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "1. Role of Digital Banking in Financial Inclusion in India"
+    },
+    {
+      "type": "paragraph",
+      "content": "In the contemporary economic landscape, technological integration has redefined traditional banking operations. Specifically, digital banking represents the delivery of financial services through electronic channels, bypassing physical branches. This essay examines how digital banking acts as a primary catalyst for financial inclusion, while evaluating the persistent infrastructural challenges."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "2. Impact of UPI (Unified Payments Interface) on India's Cashless Economy"
+    },
+    {
+      "type": "paragraph",
+      "content": "Rapid technological advancement has transformed the financial services landscape in India. Specifically, the Unified Payments Interface (UPI) acts as the cornerstone of this cashless transition by enabling instant, real-time peer-to-peer transactions. This essay analyzes UPI’s role in accelerating digital adoption while examining critical security challenges."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "3. The Role of Payments Banks in Promoting Financial Inclusion in India"
+    },
+    {
+      "type": "paragraph",
+      "content": "In a developing economy like India, payments banks have transformed the reach of financial services through last-mile connectivity. Specifically, these differentiated banking entities leverage digital channels to mobilize savings up to ₹2 lakh without offering credit services. This essay analyzes their role in promoting financial inclusion while examining key operational constraints."
+    },
+    {
+      "type": "paragraph",
+      "content": "---"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "4. The Impact of Digital Rupee (e-Rupee) on the Indian Banking Sector"
+    },
+    {
+      "type": "paragraph",
+      "content": "In an era of increasingly digitized economies, RBI's e-Rupee acts as a trusted source for making digital transactions. Specifically, as a Central Bank Digital Currency (CBDC), it enables citizens to store money in a wallet backed by the central bank. This essay analyzes the impact of the e-Rupee on India's financial ecosystem while examining the key security challenges."
+    }
+  ]
+}

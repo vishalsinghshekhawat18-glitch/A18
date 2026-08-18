@@ -1,7 +1,7 @@
 {
   "id": "migrated-schemes-scheme-44",
   "type": "ca_note",
-  "domain": "current-affairs",
+  "domain": "schemes",
   "title": "National Agriculture Market (e-NAM) :",
   "summary": "Schemes — National Agriculture Market (e-NAM) :",
   "blocks": [
@@ -41,14 +41,14 @@
     ],
     "category": "Schemes",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:01.510Z",
+    "lastUpdated": "2026-08-15T12:14:01.51Z",
     "provenance": {
       "sourceSystem": "Schemes",
       "sourceFile": "ca_app/updated_schemes_data.js",
       "sourceId": "scheme-44",
       "sourceTitle": "National Agriculture Market (e-NAM) :",
       "sourceChecksum": "52f75d73526c78ecbe9fcc27306ffcb3c6e3388685daf2ed635a36db0296348c",
-      "migrationTimestamp": "2026-08-15T12:14:01.510Z",
+      "migrationTimestamp": "2026-08-15T12:14:01.51Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
     }
   }

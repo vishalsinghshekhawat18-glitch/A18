@@ -1,7 +1,7 @@
 {
   "id": "migrated-schemes-scheme-52",
   "type": "ca_note",
-  "domain": "current-affairs",
+  "domain": "schemes",
   "title": "Mission Amrit Sarovar:",
   "summary": "Schemes — Mission Amrit Sarovar:",
   "blocks": [
@@ -29,14 +29,14 @@
     ],
     "category": "Schemes",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:01.510Z",
+    "lastUpdated": "2026-08-15T12:14:01.51Z",
     "provenance": {
       "sourceSystem": "Schemes",
       "sourceFile": "ca_app/updated_schemes_data.js",
       "sourceId": "scheme-52",
       "sourceTitle": "Mission Amrit Sarovar:",
       "sourceChecksum": "d8d5e4d84addd755952758044d8171d6d91c8d630050e6735fcd627585ba476b",
-      "migrationTimestamp": "2026-08-15T12:14:01.510Z",
+      "migrationTimestamp": "2026-08-15T12:14:01.51Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
     }
   }

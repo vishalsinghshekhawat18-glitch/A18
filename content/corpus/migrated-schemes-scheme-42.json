@@ -1,7 +1,7 @@
 {
   "id": "migrated-schemes-scheme-42",
   "type": "ca_note",
-  "domain": "current-affairs",
+  "domain": "schemes",
   "title": "Operation Green:",
   "summary": "Schemes — Operation Green:",
   "blocks": [
@@ -34,14 +34,14 @@
     ],
     "category": "Schemes",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:01.510Z",
+    "lastUpdated": "2026-08-15T12:14:01.51Z",
     "provenance": {
       "sourceSystem": "Schemes",
       "sourceFile": "ca_app/updated_schemes_data.js",
       "sourceId": "scheme-42",
       "sourceTitle": "Operation Green:",
       "sourceChecksum": "a33e0b2fd3eb934944ebb37791c5dad2dcddb73c4801d2500757c844e5e0c40b",
-      "migrationTimestamp": "2026-08-15T12:14:01.510Z",
+      "migrationTimestamp": "2026-08-15T12:14:01.51Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
     }
   }

@@ -1,7 +1,7 @@
 {
   "id": "migrated-schemes-scheme-136",
   "type": "ca_note",
-  "domain": "current-affairs",
+  "domain": "schemes",
   "title": "National Health Mission (NHM) – Key Highlights:",
   "summary": "Schemes — National Health Mission (NHM) – Key Highlights:",
   "blocks": [
@@ -35,14 +35,14 @@
     ],
     "category": "Schemes",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:02.680Z",
+    "lastUpdated": "2026-08-15T12:14:02.68Z",
     "provenance": {
       "sourceSystem": "Schemes",
       "sourceFile": "ca_app/updated_schemes_data.js",
       "sourceId": "scheme-136",
       "sourceTitle": "National Health Mission (NHM) – Key Highlights:",
       "sourceChecksum": "9d3748a88cab5dc00d55e94c51f51d88ca0aa8ce1994b98d21b7927b8388538e",
-      "migrationTimestamp": "2026-08-15T12:14:02.680Z",
+      "migrationTimestamp": "2026-08-15T12:14:02.68Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
     }
   }

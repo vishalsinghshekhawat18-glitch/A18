@@ -1,7 +1,7 @@
 {
   "id": "migrated-schemes-scheme-34",
   "type": "ca_note",
-  "domain": "current-affairs",
+  "domain": "schemes",
   "title": "Employment Linked Incentive Scheme",
   "summary": "Schemes — Employment Linked Incentive Scheme",
   "blocks": [
@@ -67,14 +67,14 @@
     ],
     "category": "Schemes",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:01.510Z",
+    "lastUpdated": "2026-08-15T12:14:01.51Z",
     "provenance": {
       "sourceSystem": "Schemes",
       "sourceFile": "ca_app/updated_schemes_data.js",
       "sourceId": "scheme-34",
       "sourceTitle": "Employment Linked Incentive Scheme",
       "sourceChecksum": "52fb534f297805934b1e020d089d11f1624fdc628f65a068d4a1d8b9cea2b234",
-      "migrationTimestamp": "2026-08-15T12:14:01.510Z",
+      "migrationTimestamp": "2026-08-15T12:14:01.51Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
     }
   }

@@ -1,7 +1,7 @@
 {
   "id": "migrated-schemes-scheme-36",
   "type": "ca_note",
-  "domain": "current-affairs",
+  "domain": "schemes",
   "title": "Pradhan Mantri Fasal Bima Yojana (PMFBY):",
   "summary": "Schemes — Pradhan Mantri Fasal Bima Yojana (PMFBY):",
   "blocks": [
@@ -37,14 +37,14 @@
     ],
     "category": "Schemes",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:01.510Z",
+    "lastUpdated": "2026-08-15T12:14:01.51Z",
     "provenance": {
       "sourceSystem": "Schemes",
       "sourceFile": "ca_app/updated_schemes_data.js",
       "sourceId": "scheme-36",
       "sourceTitle": "Pradhan Mantri Fasal Bima Yojana (PMFBY):",
       "sourceChecksum": "e9ddf217f1778e989068b94364bc568896328af3213982ad1f5d165809ed2aa0",
-      "migrationTimestamp": "2026-08-15T12:14:01.510Z",
+      "migrationTimestamp": "2026-08-15T12:14:01.51Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
     }
   }

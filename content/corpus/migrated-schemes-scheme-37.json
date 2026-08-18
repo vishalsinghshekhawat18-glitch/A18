@@ -1,7 +1,7 @@
 {
   "id": "migrated-schemes-scheme-37",
   "type": "ca_note",
-  "domain": "current-affairs",
+  "domain": "schemes",
   "title": "Pradhan Mantri Kisan Samman Nidhi Scheme (PM-KISAN):",
   "summary": "Schemes — Pradhan Mantri Kisan Samman Nidhi Scheme (PM-KISAN):",
   "blocks": [
@@ -40,14 +40,14 @@
     ],
     "category": "Schemes",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:01.510Z",
+    "lastUpdated": "2026-08-15T12:14:01.51Z",
     "provenance": {
       "sourceSystem": "Schemes",
       "sourceFile": "ca_app/updated_schemes_data.js",
       "sourceId": "scheme-37",
       "sourceTitle": "Pradhan Mantri Kisan Samman Nidhi Scheme (PM-KISAN):",
       "sourceChecksum": "6597393baf991b36d50a0187b30d5106ab504eee9bce07f069475d5d298c33bb",
-      "migrationTimestamp": "2026-08-15T12:14:01.510Z",
+      "migrationTimestamp": "2026-08-15T12:14:01.51Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
     }
   }

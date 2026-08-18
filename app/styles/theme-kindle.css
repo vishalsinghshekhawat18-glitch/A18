@@ -740,6 +740,114 @@ body {
   text-transform: uppercase;
 }
 
+/* English Nested Part -> Section -> Chapter Accordion */
+.english-nested-hub {
+  display: flex;
+  flex-direction: column;
+  gap: 1.4rem;
+  width: 100%;
+}
+
+.english-part-accordion {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: 12px;
+  padding: 1rem 1.4rem;
+  box-shadow: var(--shadow-sm);
+}
+
+.english-part-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  padding: 0.4rem 0.6rem;
+  border-radius: 6px;
+  transition: background-color 0.15s ease;
+}
+
+.english-part-header:hover {
+  background-color: var(--bg-accent-subtle);
+}
+
+.english-part-title-group {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.english-part-icon {
+  font-size: 1.1rem;
+}
+
+.english-part-title {
+  font-family: var(--font-ui);
+  font-size: 1.15rem;
+  font-weight: 800;
+  color: #9e3b24;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.english-part-body {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding-left: 0.4rem;
+}
+
+.english-sec-accordion {
+  background-color: var(--bg-subcard);
+  border: 1px solid var(--border-subtle);
+  border-radius: 8px;
+  padding: 0.8rem 1.1rem;
+}
+
+.english-sec-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  padding: 0.3rem 0.5rem;
+  border-radius: 4px;
+  transition: background-color 0.15s ease;
+}
+
+.english-sec-header:hover {
+  background-color: var(--bg-accent-subtle);
+}
+
+.english-sec-title-group {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.english-sec-icon {
+  font-size: 1rem;
+}
+
+.english-sec-title {
+  font-family: var(--font-ui);
+  font-size: 0.98rem;
+  font-weight: 800;
+  color: var(--text-accent);
+  margin: 0;
+}
+
+.english-sec-count {
+  font-family: var(--font-ui);
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--text-muted);
+  background-color: var(--bg-card);
+  padding: 0.1rem 0.45rem;
+  border-radius: 10px;
+  border: 1px solid var(--border-subtle);
+}
+
 /* Notion-Style Subject Mastery Bar */
 .domain-card-mastery-box {
   margin-top: 0.6rem;

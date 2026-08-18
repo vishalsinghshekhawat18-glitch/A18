@@ -1,7 +1,7 @@
 {
   "id": "migrated-schemes-scheme-142",
   "type": "ca_note",
-  "domain": "current-affairs",
+  "domain": "schemes",
   "title": "PM Vishwakarma Kaushal Samman Yojana (PMVKSY):",
   "summary": "Schemes — PM Vishwakarma Kaushal Samman Yojana (PMVKSY):",
   "blocks": [
@@ -38,14 +38,14 @@
     ],
     "category": "Schemes",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:02.680Z",
+    "lastUpdated": "2026-08-15T12:14:02.68Z",
     "provenance": {
       "sourceSystem": "Schemes",
       "sourceFile": "ca_app/updated_schemes_data.js",
       "sourceId": "scheme-142",
       "sourceTitle": "PM Vishwakarma Kaushal Samman Yojana (PMVKSY):",
       "sourceChecksum": "79b767819d48cf32f0028ec5cfbe2a2f73ae314b6cd798777d0e7907346e10ca",
-      "migrationTimestamp": "2026-08-15T12:14:02.680Z",
+      "migrationTimestamp": "2026-08-15T12:14:02.68Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
     }
   }

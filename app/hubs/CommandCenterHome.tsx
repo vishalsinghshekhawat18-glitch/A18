@@ -30,21 +30,67 @@ export const CommandCenterHome: React.FC<Props> = ({
     return { greeting: 'Late night session', greetingIcon: '🌙' };
   }, []);
 
-  // Compute dynamic age counter from DOB: 31 Oct 1996 (format: YY.MM)
+  // Compute dynamic age counter from DOB (format: YY.MM)
   const ageCounter = useMemo(() => {
-    const dob = new Date(1996, 9, 31); // 31 Oct 1996
+    const dobStr: string = (reportingDataJson as any).dob || '1996-10-31';
+    const [dobY, dobM, dobD] = dobStr.split('-').map(Number);
+    const dob = new Date(dobY, dobM - 1, dobD);
     const now = new Date();
     let years = now.getFullYear() - dob.getFullYear();
     let months = now.getMonth() - dob.getMonth();
-    if (now.getDate() < dob.getDate()) {
-      months -= 1;
-    }
-    if (months < 0) {
-      years -= 1;
-      months += 12;
-    }
+    if (now.getDate() < dob.getDate()) months -= 1;
+    if (months < 0) { years -= 1; months += 12; }
     const mStr = months < 10 ? `0${months}` : `${months}`;
     return `${years}.${mStr}`;
+  }, []);
+
+  // Derive exam target countdown from structured examTargets data
+  const examCountdown = useMemo(() => {
+    const targets: Array<{ name: string; date: string | null; priority: string }> =
+      (reportingDataJson as any).examTargets || [];
+    const primary = targets.find(t => t.priority === 'primary');
+    if (!primary) return null;
+    if (!primary.date) return { name: primary.name, label: 'Date TBD', days: null };
+    
+    const [y, m, d] = primary.date.split('-').map(Number);
+    if (!y || !m || !d) return { name: primary.name, label: 'Date TBD', days: null };
+    
+    const examDate = new Date(y, m - 1, d);
+    const now = new Date();
+    const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+    
+    const diffMs = examDate.getTime() - today.getTime();
+    const days = Math.round(diffMs / 86400000);
+    
+    if (days < 0) return { name: primary.name, label: 'Passed', days };
+    if (days === 0) return { name: primary.name, label: 'TODAY', days: 0 };
+    return { name: primary.name, label: `${days} Day${days === 1 ? '' : 's'} Remaining`, days };
+  }, []);
+
+  // Derive revision intelligence from structured revisionCalendar data
+  const revisionIntelligence = useMemo(() => {
+    const now = new Date();
+    const today = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
+    const items = (reportingDataJson as any).revisionCalendar?.items || [];
+    
+    // Semantic definitions:
+    // dueToday: status === 'due' AND revisionDate === today
+    const dueToday = items.filter((r: any) => r.status === 'due' && r.revisionDate === today);
+    // overdue: revisionDate < today AND status is incomplete
+    const overdue = items.filter((r: any) => r.revisionDate < today && r.status !== 'complete');
+    // scheduled: status === 'scheduled' or future due items
+    const scheduled = items.filter((r: any) => r.status === 'scheduled' || (r.status === 'due' && r.revisionDate > today));
+    // complete: finished revisions
+    const complete = items.filter((r: any) => r.status === 'complete');
+    
+    return {
+      dueToday,
+      overdue,
+      scheduled,
+      complete,
+      dueTodayCount: dueToday.length,
+      overdueCount: overdue.length
+    };
   }, []);
 
   // Compute canonical totals dynamically from corpus
@@ -55,12 +101,11 @@ export const CommandCenterHome: React.FC<Props> = ({
     const ecoCount = items.filter(i => isItemInSubject(i, 'economics')).length;
     const quantCount = items.filter(i => isItemInSubject(i, 'quant')).length;
     const pyqCount = items.filter(i => isItemInSubject(i, 'pyqs')).length;
-
     return { totalCorpus, caCount, schemesCount, ecoCount, quantCount, pyqCount };
   }, [items]);
 
   // Separate subjects into Core Knowledge & Preparation Tools
-  const coreSubjectIds = ['economics', 'polity', 'history', 'geography', 'science', 'revision'];
+  const coreSubjectIds = ['economics', 'english', 'polity', 'history', 'geography', 'science', 'revision'];
   const prepSubjectIds = ['current-affairs', 'schemes', 'static-ga', 'quant', 'pyqs'];
 
   const coreSubjects = SUBJECT_DEFS.filter(s => coreSubjectIds.includes(s.id));
@@ -94,15 +139,18 @@ export const CommandCenterHome: React.FC<Props> = ({
           </div>
           <p className="home-motto">"The life you want is usually hidden inside the things you keep postponing."</p>
 
-          {/* Live Exam Target & Countdown Ticker */}
+          {/* Live Exam Target & Countdown Ticker — derived from reporting-center.json examTargets */}
           <div className="home-target-ticker">
             <div className="target-ticker-left">
               <span className="target-badge">🎯 EXAM TARGET 2026</span>
-              <span className="target-text">
-                RBI Grade B / SBI PO — <strong>82 Days Remaining</strong> • <em>"Build standard, build speed."</em>
-              </span>
+              {examCountdown ? (
+                <span className="target-text">
+                  {examCountdown.name} — <strong>{examCountdown.label}</strong> • <em>"Build standard, build speed."</em>
+                </span>
+              ) : (
+                <span className="target-text">Update <code>reporting-center.json → examTargets</code> to set exam date.</span>
+              )}
             </div>
-            <span className="target-streak-chip">🔥 5-DAY STREAK</span>
           </div>
         </header>
 
@@ -176,61 +224,62 @@ export const CommandCenterHome: React.FC<Props> = ({
                 <div className={`reporting-pillar-block ${isFocusMode ? 'focus-dimmed' : ''}`}>
                   <div className="reporting-pillar-header-row">
                     <h3 className="reporting-pillar-title">REVISION CALENDAR</h3>
-                    <span className="readwise-flash-chip">🧠 3 DUE TODAY</span>
-                  </div>
-                  <p className="reporting-pillar-desc">
-                    (Scientific Revision Calendar with timely gap and dates on when to revise what, derived from today work report)
-                  </p>
-
-                  {/* Readwise-Style Flashcard Review Prompt */}
-                  <div className="readwise-flash-prompt">
-                    <div className="flash-prompt-left">
-                      <span className="flash-prompt-icon">⚡</span>
-                      <div className="flash-prompt-info">
-                        <span className="flash-prompt-title">Daily Retrieval Spaced Review</span>
-                        <span className="flash-prompt-sub">3 Priority Revisions Ready</span>
-                      </div>
+                    <div style={{ display: 'flex', gap: '0.5rem', alignItems: 'center' }}>
+                      {revisionIntelligence.dueTodayCount > 0 && (
+                        <span className="readwise-flash-chip">🧠 {revisionIntelligence.dueTodayCount} DUE TODAY</span>
+                      )}
+                      {revisionIntelligence.overdueCount > 0 && (
+                        <span className="readwise-flash-chip" style={{ background: 'rgba(239, 68, 68, 0.15)', color: '#ef4444', borderColor: '#ef4444' }}>
+                          ⚠️ {revisionIntelligence.overdueCount} OVERDUE
+                        </span>
+                      )}
                     </div>
-                    <button
-                      className="btn-flash-review"
-                      onClick={() => onSelectSubject('revision')}
-                    >
-                      Start 5-Min Review →
-                    </button>
                   </div>
+
+                  {/* Retrieval Review Prompt — shown when revisions are due today or overdue */}
+                  {(revisionIntelligence.dueTodayCount > 0 || revisionIntelligence.overdueCount > 0) && (
+                    <div className="readwise-flash-prompt">
+                      <div className="flash-prompt-left">
+                        <span className="flash-prompt-icon">⚡</span>
+                        <div className="flash-prompt-info">
+                          <span className="flash-prompt-title">Daily Retrieval Spaced Review</span>
+                          <span className="flash-prompt-sub">
+                            {revisionIntelligence.dueTodayCount} Due Today
+                            {revisionIntelligence.overdueCount > 0 ? ` • ${revisionIntelligence.overdueCount} Overdue` : ''}
+                          </span>
+                        </div>
+                      </div>
+                      <button
+                        className="btn-flash-review"
+                        onClick={() => onSelectSubject('revision')}
+                      >
+                        Start 5-Min Review →
+                      </button>
+                    </div>
+                  )}
 
                   <div className="reporting-rev-table">
-                    {reportingDataJson.revisionCalendar?.items?.map((rev, idx) => (
-                      <div key={idx} className="reporting-rev-row">
-                        <span className="rev-stream">{rev.stream}</span>
-                        <span className="rev-stage">{rev.revStage}</span>
-                        <span className={`rev-status ${rev.status.toLowerCase().includes('due') ? 'due' : ''}`}>{rev.nextDate} — {rev.status}</span>
-                      </div>
-                    ))}
+                    {((reportingDataJson as any).revisionCalendar?.items || []).map((rev: any, idx: number) => {
+                      const stageDisplay = rev.stage || (rev.revisionNumber ? `Rev ${rev.revisionNumber}` : '');
+                      return (
+                        <div key={idx} className="reporting-rev-row">
+                          <span className="rev-stream">{rev.stream}</span>
+                          <span className="rev-stage">{stageDisplay}</span>
+                          <span className={`rev-status ${rev.status === 'due' || rev.status === 'overdue' ? 'due' : ''}`}>
+                            {rev.revisionDate} — {rev.status.charAt(0).toUpperCase() + rev.status.slice(1)}
+                          </span>
+                        </div>
+                      );
+                    })}
                   </div>
                 </div>
 
                 {/* 4. PROGRESS */}
                 <div className="reporting-pillar-block">
-                  <div className="reporting-pillar-header-row">
-                    <h3 className="reporting-pillar-title">PROGRESS</h3>
-                    <span className="progress-status-badge">🟢 ON TRACK</span>
-                  </div>
+                  <h3 className="reporting-pillar-title">PROGRESS</h3>
                   <p className="reporting-pillar-desc">
-                    {reportingDataJson.progress?.summary || '(Recent work highlight with remarks, also includes daily work report submitted info)'}
+                    {reportingDataJson.progress?.summary || '(Update reporting-center.json → progress.summary with today\'s work)'}
                   </p>
-
-                  {/* Daily Accomplishment Progress Gauge */}
-                  <div className="progress-accomplishment-box">
-                    <div className="progress-bar-track">
-                      <div className="progress-bar-fill" style={{ width: '75%' }} />
-                    </div>
-                    <div className="progress-bar-labels">
-                      <span>Daily Target Execution</span>
-                      <span className="progress-bar-percent">75% Complete (6/8 Sessions)</span>
-                    </div>
-                  </div>
-
                   <div className="reporting-pillar-chip">
                     Status: {reportingDataJson.progress?.dailyReportStatus || 'Log Pending'}
                   </div>
@@ -420,17 +469,6 @@ export const CommandCenterHome: React.FC<Props> = ({
                     <h3 className="domain-card-title">{def.title}</h3>
                     <p className="domain-card-desc">{def.description}</p>
                     
-                    {/* Notion-Style Mastery Progress Line */}
-                    <div className="domain-card-mastery-box">
-                      <div className="domain-mastery-labels">
-                        <span>Mastery Progress</span>
-                        <span className="domain-mastery-percent">65%</span>
-                      </div>
-                      <div className="domain-mastery-track">
-                        <div className="domain-mastery-fill" style={{ width: '65%' }} />
-                      </div>
-                    </div>
-
                     <div className="domain-card-footer">
                       <span className="domain-card-arrow">→</span>
                     </div>
@@ -461,17 +499,6 @@ export const CommandCenterHome: React.FC<Props> = ({
                     <h3 className="domain-card-title">{def.title}</h3>
                     <p className="domain-card-desc">{def.description}</p>
                     
-                    {/* Notion-Style Mastery Progress Line */}
-                    <div className="domain-card-mastery-box">
-                      <div className="domain-mastery-labels">
-                        <span>Mastery Progress</span>
-                        <span className="domain-mastery-percent">80%</span>
-                      </div>
-                      <div className="domain-mastery-track">
-                        <div className="domain-mastery-fill" style={{ width: '80%' }} />
-                      </div>
-                    </div>
-
                     <div className="domain-card-footer">
                       <span className="domain-card-arrow">→</span>
                     </div>

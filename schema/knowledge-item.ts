@@ -1,6 +1,7 @@
 export type Domain = 
   | 'polity' 
   | 'economics' 
+  | 'english'
   | 'history' 
   | 'geography' 
   | 'science' 
@@ -209,6 +210,8 @@ export interface Metadata {
   category?: string;
   difficulty?: 'beginner' | 'intermediate' | 'advanced';
   lastUpdated?: string;
+  part?: string;
+  section?: string;
   provenance?: MigrationProvenance;
 }
 

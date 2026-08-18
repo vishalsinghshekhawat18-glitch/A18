@@ -1,7 +1,7 @@
 {
   "id": "migrated-schemes-scheme-38",
   "type": "ca_note",
-  "domain": "current-affairs",
+  "domain": "schemes",
   "title": "Pradhan Mantri Kisan SAMPADA Yojana (PMKSY):",
   "summary": "Schemes — Pradhan Mantri Kisan SAMPADA Yojana (PMKSY):",
   "blocks": [
@@ -43,14 +43,14 @@
     ],
     "category": "Schemes",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:01.510Z",
+    "lastUpdated": "2026-08-15T12:14:01.51Z",
     "provenance": {
       "sourceSystem": "Schemes",
       "sourceFile": "ca_app/updated_schemes_data.js",
       "sourceId": "scheme-38",
       "sourceTitle": "Pradhan Mantri Kisan SAMPADA Yojana (PMKSY):",
       "sourceChecksum": "cb45004138e82a57663861204582f6bb7ca07ee4b0c25183cbfa09a7358e3364",
-      "migrationTimestamp": "2026-08-15T12:14:01.510Z",
+      "migrationTimestamp": "2026-08-15T12:14:01.51Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
     }
   }

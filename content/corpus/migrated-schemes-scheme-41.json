@@ -1,7 +1,7 @@
 {
   "id": "migrated-schemes-scheme-41",
   "type": "ca_note",
-  "domain": "current-affairs",
+  "domain": "schemes",
   "title": "The Soil Health Card Scheme (SHC):",
   "summary": "Schemes — The Soil Health Card Scheme (SHC):",
   "blocks": [
@@ -35,14 +35,14 @@
     ],
     "category": "Schemes",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:01.510Z",
+    "lastUpdated": "2026-08-15T12:14:01.51Z",
     "provenance": {
       "sourceSystem": "Schemes",
       "sourceFile": "ca_app/updated_schemes_data.js",
       "sourceId": "scheme-41",
       "sourceTitle": "The Soil Health Card Scheme (SHC):",
       "sourceChecksum": "2798f62b320a1b8e7e9bac57b7f192994ac5d349c68fb7641f38057d298e2060",
-      "migrationTimestamp": "2026-08-15T12:14:01.510Z",
+      "migrationTimestamp": "2026-08-15T12:14:01.51Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
     }
   }

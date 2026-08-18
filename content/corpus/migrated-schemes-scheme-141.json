@@ -1,7 +1,7 @@
 {
   "id": "migrated-schemes-scheme-141",
   "type": "ca_note",
-  "domain": "current-affairs",
+  "domain": "schemes",
   "title": "PM Kaushal Vikas Yojana:",
   "summary": "Schemes — PM Kaushal Vikas Yojana:",
   "blocks": [
@@ -29,14 +29,14 @@
     ],
     "category": "Schemes",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:02.680Z",
+    "lastUpdated": "2026-08-15T12:14:02.68Z",
     "provenance": {
       "sourceSystem": "Schemes",
       "sourceFile": "ca_app/updated_schemes_data.js",
       "sourceId": "scheme-141",
       "sourceTitle": "PM Kaushal Vikas Yojana:",
       "sourceChecksum": "39bb108b53aa01a5767e1dae4777498e060fc53b6c6bede8c6db91d28e103825",
-      "migrationTimestamp": "2026-08-15T12:14:02.680Z",
+      "migrationTimestamp": "2026-08-15T12:14:02.68Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
     }
   }

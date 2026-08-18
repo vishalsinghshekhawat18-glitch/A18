@@ -1,7 +1,7 @@
 {
   "id": "migrated-schemes-scheme-43",
   "type": "ca_note",
-  "domain": "current-affairs",
+  "domain": "schemes",
   "title": "Subsidy Scheme for KCC Cardholders:",
   "summary": "Schemes — Subsidy Scheme for KCC Cardholders:",
   "blocks": [
@@ -34,14 +34,14 @@
     ],
     "category": "Schemes",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:01.510Z",
+    "lastUpdated": "2026-08-15T12:14:01.51Z",
     "provenance": {
       "sourceSystem": "Schemes",
       "sourceFile": "ca_app/updated_schemes_data.js",
       "sourceId": "scheme-43",
       "sourceTitle": "Subsidy Scheme for KCC Cardholders:",
       "sourceChecksum": "b91a8a7b4df14779b2c7d05a3b804d7190b36bccbe517de270a73b75d89cbdb0",
-      "migrationTimestamp": "2026-08-15T12:14:01.510Z",
+      "migrationTimestamp": "2026-08-15T12:14:01.51Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
     }
   }

@@ -1,7 +1,7 @@
 {
   "id": "migrated-schemes-scheme-45",
   "type": "ca_note",
-  "domain": "current-affairs",
+  "domain": "schemes",
   "title": "PM-KUSUM Scheme (Pradhan Mantri Kisan Urja Suraksha evam Utthaan",
   "summary": "Schemes — PM-KUSUM Scheme (Pradhan Mantri Kisan Urja Suraksha evam Utthaan",
   "blocks": [
@@ -47,14 +47,14 @@
     ],
     "category": "Schemes",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:01.510Z",
+    "lastUpdated": "2026-08-15T12:14:01.51Z",
     "provenance": {
       "sourceSystem": "Schemes",
       "sourceFile": "ca_app/updated_schemes_data.js",
       "sourceId": "scheme-45",
       "sourceTitle": "PM-KUSUM Scheme (Pradhan Mantri Kisan Urja Suraksha evam Utthaan",
       "sourceChecksum": "094c2d77a8e45018cee34aa8f6b9d4d3840ca19565e544a97745091980568a0c",
-      "migrationTimestamp": "2026-08-15T12:14:01.510Z",
+      "migrationTimestamp": "2026-08-15T12:14:01.51Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
     }
   }

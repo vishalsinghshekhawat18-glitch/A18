@@ -1,7 +1,7 @@
 {
   "id": "migrated-schemes-scheme-51",
   "type": "ca_note",
-  "domain": "current-affairs",
+  "domain": "schemes",
   "title": "Atal Bhujal Yojana (ABY):",
   "summary": "Schemes — Atal Bhujal Yojana (ABY):",
   "blocks": [
@@ -47,14 +47,14 @@
     ],
     "category": "Schemes",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:01.510Z",
+    "lastUpdated": "2026-08-15T12:14:01.51Z",
     "provenance": {
       "sourceSystem": "Schemes",
       "sourceFile": "ca_app/updated_schemes_data.js",
       "sourceId": "scheme-51",
       "sourceTitle": "Atal Bhujal Yojana (ABY):",
       "sourceChecksum": "5c769128aa64ffbaa5059a84f28175693647e24966aa67937b8399197c67ed9c",
-      "migrationTimestamp": "2026-08-15T12:14:01.510Z",
+      "migrationTimestamp": "2026-08-15T12:14:01.51Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
     }
   }

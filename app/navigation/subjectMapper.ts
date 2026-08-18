@@ -17,6 +17,13 @@ export const SUBJECT_DEFS: SubjectDef[] = [
     description: 'Core Macroeconomics, Banking System, Monetary Policy & Fiscal Trajectories.'
   },
   {
+    id: 'english',
+    title: 'English Language',
+    icon: '✍️',
+    surfaceBadge: 'Book Chapter Reader',
+    description: 'Descriptive Writing, Essay Structure, Letter Drafting, Grammar & Comprehension.'
+  },
+  {
     id: 'polity',
     title: 'Polity & Governance',
     icon: '⚖️',
@@ -91,6 +98,7 @@ export const SUBJECT_DEFS: SubjectDef[] = [
 export function isItemInSubject(item: KnowledgeItem, subjectId: string): boolean {
   const sys = item.metadata?.provenance?.sourceSystem;
   if (subjectId === 'economics') return sys === 'Core' && (item.domain === 'economics' || item.id.includes('eco-ch'));
+  if (subjectId === 'english') return item.domain === 'english' || item.id.includes('eng-ch') || item.id.includes('english');
   if (subjectId === 'polity') return sys === 'Core' && (item.domain === 'polity' || item.id.includes('pol-ch'));
   if (subjectId === 'history') return sys === 'Core' && (item.domain === 'history' || item.id.includes('his-ch'));
   if (subjectId === 'geography') return sys === 'Core' && (item.domain === 'geography' || item.id.includes('geo-ch'));

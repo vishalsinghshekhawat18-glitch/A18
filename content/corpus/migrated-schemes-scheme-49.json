@@ -1,7 +1,7 @@
 {
   "id": "migrated-schemes-scheme-49",
   "type": "ca_note",
-  "domain": "current-affairs",
+  "domain": "schemes",
   "title": "Nano Fertilizers: Revolutionizing Agriculture:",
   "summary": "Schemes — Nano Fertilizers: Revolutionizing Agriculture:",
   "blocks": [
@@ -35,14 +35,14 @@
     ],
     "category": "Schemes",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:01.510Z",
+    "lastUpdated": "2026-08-15T12:14:01.51Z",
     "provenance": {
       "sourceSystem": "Schemes",
       "sourceFile": "ca_app/updated_schemes_data.js",
       "sourceId": "scheme-49",
       "sourceTitle": "Nano Fertilizers: Revolutionizing Agriculture:",
       "sourceChecksum": "a19c216ae0c65440875089bdcf3288f2c41637929a611d79b8a8df4a31e3162e",
-      "migrationTimestamp": "2026-08-15T12:14:01.510Z",
+      "migrationTimestamp": "2026-08-15T12:14:01.51Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
     }
   }

@@ -1,7 +1,7 @@
 {
   "id": "migrated-schemes-scheme-40",
   "type": "ca_note",
-  "domain": "current-affairs",
+  "domain": "schemes",
   "title": "Pradhan Mantri Kisan Maandhan Yojana (PMKMY):",
   "summary": "Schemes — Pradhan Mantri Kisan Maandhan Yojana (PMKMY):",
   "blocks": [
@@ -37,14 +37,14 @@
     ],
     "category": "Schemes",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:14:01.510Z",
+    "lastUpdated": "2026-08-15T12:14:01.51Z",
     "provenance": {
       "sourceSystem": "Schemes",
       "sourceFile": "ca_app/updated_schemes_data.js",
       "sourceId": "scheme-40",
       "sourceTitle": "Pradhan Mantri Kisan Maandhan Yojana (PMKMY):",
       "sourceChecksum": "57bd6be68ec459b462dabe0e0d7a2efaa2604cd0f9f826714ed077a74fefa0ac",
-      "migrationTimestamp": "2026-08-15T12:14:01.510Z",
+      "migrationTimestamp": "2026-08-15T12:14:01.51Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
     }
   }
