@@ -1,39 +1,39 @@
 {
-  "lastUpdated": "2026-08-17",
+  "lastUpdated": "2026-08-18",
   "dob": "1996-10-31",
   "progress": {
     "title": "PROGRESS & METRICS AUDIT",
-    "summary": "Mock 4 score: 60.06 (87.63%ile) — 60+ barrier broken. Quant attempts expanded +55% with 2-Pass Protocol. Reasoning precision maintained at 100% (22/22 correct).",
-    "dailyReportStatus": "Submitted (16 Aug Logged: 7.0 hrs)"
+    "summary": "Oliveboard Mock 2 executed under pressure (48.68 score on ~15% harder paper). Resilient execution. Target for Mock 6 today: 63+ Score with 90%+ Accuracy Control (< 6 wrong Qs).",
+    "dailyReportStatus": "Active (17 Aug Executed, 18 Aug War Plan Live)"
   },
   "todaysWarPlan": {
-    "title": "TODAY'S WAR PLAN",
-    "motto": "7.0 Hours Deep Work — Zero Idle Time, Zero Regression",
+    "title": "TODAY'S WAR PLAN (18 AUG — 4 DAYS LEFT)",
+    "motto": "Control Accuracy First, Expand Velocity Second — Target: 63+ Marks",
     "schedule": [
-      { "time": "07:00 - 08:30", "zone": "Block 1", "task": "Quant 2-Pass Speed Math & DI Protocol (18+ attempts target)" },
-      { "time": "08:45 - 10:15", "zone": "Block 2", "task": "Reasoning Speed Sweep & Puzzles (24+ attempts, 100% accuracy)" },
-      { "time": "14:00 - 15:30", "zone": "Block 3", "task": "IBPS PO Full Mock #5 + 30m Audit (62+ score target)" },
-      { "time": "16:30 - 18:00", "zone": "Block 4", "task": "GA Stream: Aug 14–17 Daily Current Affairs (100% coverage)" },
-      { "time": "19:30 - 21:00", "zone": "Rev Block", "task": "Scientific Revision: Rev 2 (Aug 1–10 Quiz & Aug 11–13 notes)" }
+      { "time": "10:30 - 12:00", "zone": "Block 1", "task": "Quant 2-Pass Speed Math & 2 DI Sets (18+ attempts target)" },
+      { "time": "12:00 - 13:30", "zone": "Block 2", "task": "Reasoning Speed Sweep & Puzzles (24+ attempts, 100% accuracy)" },
+      { "time": "14:15 - 15:45", "zone": "Block 3", "task": "EXECUTE IBPS PO FULL MOCK #6 (Smartkeeda) + 30m Audit (63+ target)" },
+      { "time": "16:30 - 18:00", "zone": "Block 4", "task": "GA Stream: Aug 14–18 Daily Current Affairs (100% coverage)" },
+      { "time": "19:30 - 21:00", "zone": "Rev Block", "task": "Scientific Revision: Rev 2 (Aug 11–13 CA & OB 15 Wrong Qs)" }
     ]
   },
   "revisionCalendar": {
     "title": "REVISION CALENDAR (Spaced Repetition)",
     "items": [
-      { "stream": "Aug 1–10 Current Affairs", "revStage": "Rev 2 (Day +3)", "status": "DUE TODAY", "nextDate": "17 Aug" },
-      { "stream": "Aug 11–13 Current Affairs", "revStage": "Rev 1 (Done)", "status": "Complete", "nextDate": "20 Aug" },
-      { "stream": "Aug 14–17 Current Affairs", "revStage": "Rev 1 (Scheduled)", "status": "Scheduled", "nextDate": "18 Aug" },
-      { "stream": "Mock 4 Error Log", "revStage": "Active Review", "status": "In Progress", "nextDate": "21 Aug" }
+      { "stream": "Aug 11–13 Current Affairs", "revStage": "Rev 2 (Day +3)", "status": "DUE TONIGHT", "nextDate": "18 Aug" },
+      { "stream": "Oliveboard 15 Wrong Qs", "revStage": "Active Audit", "status": "Re-solve Tonight", "nextDate": "18 Aug" },
+      { "stream": "Aug 1–10 Current Affairs", "revStage": "Rev 2 (Done)", "status": "Complete", "nextDate": "20 Aug" },
+      { "stream": "Mock 4 & 6 Error Log", "revStage": "Pre-Exam Review", "status": "In Progress", "nextDate": "21 Aug" }
     ]
   },
   "ahead": {
     "title": "AHEAD & RUTHLESS TRAJECTORY AUDIT",
     "roadmap": [
-      "1. IBPS PO Prelims (22 Aug 2026 — 5 Days Left): Target 65+ Score / 92%+ile.",
-      "2. IIBF DB&F Registration: Normal fee window verification.",
+      "1. IBPS PO Prelims (22 Aug 2026 — 4 Days Left): Target 65+ Score / 92%+ile.",
+      "2. IIBF DB&F Form Payment: Verification check on portal.iibf.org.in.",
       "3. Post-Aug 22 Certification Sprint: NISM Series V-A, XV, VIII & IIBF DB&F.",
       "4. SBI PO & IBPS PO Mains: Continuous GA & High-Level DI/Puzzle stream."
     ],
-    "workEthicAudit": "Trajectory is UPWARD & CUTOFF-CLEARING (top 12% candidate). Eliminate inconsistency spikes — 1 day of slack will kill exam momentum. Convert 5-min idle time in English to score 25+. Selection Probability: HIGH (85%)."
+    "workEthicAudit": "EXACTLY 4 DAYS LEFT (96 HOURS). Accuracy control is paramount — eliminate anxiety rushing (< 6 wrong Qs total). Pushing Quant attempts to 18-20 Qs locks in a 63-66 score buffer. Selection Probability: HIGH (85%) conditional on zero reporting gaps."
   }
 }
