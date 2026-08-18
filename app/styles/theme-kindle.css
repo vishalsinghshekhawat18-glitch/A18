@@ -40,6 +40,26 @@
   --shadow-md: 0 4px 6px -1px rgba(44, 34, 26, 0.09);
 }
 
+/* Theme Variant: Clean Light */
+[data-theme="light"] {
+  --bg-reading-paper: #ffffff;
+  --bg-sidebar: #f8fafc;
+  --bg-card: #f1f5f9;
+  --bg-subcard: #e2e8f0;
+  --bg-accent-subtle: #e0f2fe;
+  --bg-warning-subtle: #fef3c7;
+  
+  --text-primary: #0f172a;
+  --text-secondary: #334155;
+  --text-muted: #64748b;
+  --text-accent: #0369a1;
+  --text-warning: #b45309;
+
+  --border-subtle: #e2e8f0;
+  --border-strong: #cbd5e1;
+  --border-warning: #f59e0b;
+}
+
 /* Theme Variant 1: Kindle Warm Paper */
 [data-theme="warm"] {
   --bg-reading-paper: #f8f3e9;

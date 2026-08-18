@@ -23,7 +23,9 @@ export const App: React.FC = () => {
   // Routing State & Reading Controls State
   const [routeState, setRouteState] = useState<RouteState>(() => parseHash(window.location.hash));
   const [fontSize, setFontSize] = useState<number>(18);
-  const [theme, setTheme] = useState<ReadingTheme>('sepia');
+  const [theme, setTheme] = useState<ReadingTheme>(() => {
+    return (localStorage.getItem('bcc_reading_theme') as ReadingTheme) || 'light';
+  });
   const [isSearchOpen, setIsSearchOpen] = useState<boolean>(false);
   const [isOpenMobile, setIsOpenMobile] = useState<boolean>(false);
   const [isSidebarClosed, setIsSidebarClosed] = useState<boolean>(false);
@@ -35,9 +37,10 @@ export const App: React.FC = () => {
   const [activeFullItem, setActiveFullItem] = useState<KnowledgeItem | null>(null);
   const [isLoadingContent, setIsLoadingContent] = useState<boolean>(false);
 
-  // Apply theme to document root
+  // Apply theme to document root and persist
   useEffect(() => {
     document.documentElement.setAttribute('data-theme', theme);
+    localStorage.setItem('bcc_reading_theme', theme);
   }, [theme]);
 
   // Handle Hash Changes
