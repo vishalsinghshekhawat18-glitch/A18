@@ -2,22 +2,24 @@
   "id": "migrated-schemes-scheme-123",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Rs. 2000 for birth registration",
-  "summary": "Schemes — Rs. 2000 for birth registration",
+  "title": "[Sub-Component] Rs. 2000 for birth registration",
+  "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-122.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "🔗 Sub-Component Note",
+      "text": "This note represents a constituent sub-component of migrated-schemes-scheme-122. For the unified examination framework, refer to the parent master note."
+    },
     {
       "type": "bullet_list",
       "items": [
-        "o Janani Suraksha Yojana (JSY): Rs. 6000 for those enrolled under JSY.",
+        "Janani Suraksha Yojana (JSY): Rs. 6000 for those enrolled under JSY.",
         "Eligibility:",
-        "-- 33 of 47 --",
-        "34\tONE STOP SOLUTION FOR IAS, RAS, SI",
-        "Youtube \tTelegram",
-        "Indian Economy \tScheme",
-        "o Pregnant women aged 19-45 years with no prior maternity benefits.",
+        "Indian Economy Scheme",
+        "Pregnant women aged 19-45 years with no prior maternity benefits.",
         "Objective:",
-        "o To provide financial support to pregnant women in the unorganized sector.",
-        "o To address wage loss and nutritional needs, improving maternal and infant health.",
+        "To provide financial support to pregnant women in the unorganized sector.",
+        "To address wage loss and nutritional needs, improving maternal and infant health.",
         "The scheme ensures direct bank transfers for transparency and prioritizes women in rural and",
         "unorganized sectors."
       ]
@@ -44,6 +46,11 @@
       "sourceChecksum": "e189741fbfae87577851763cb9a510cad98e15145e60a2056f81724bd50b1c14",
       "migrationTimestamp": "2026-08-15T12:14:02.104Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.501Z",
+    "contentStatus": "fragment_merged",
+    "mergedInto": "migrated-schemes-scheme-122",
+    "requiresHumanReview": false
   }
 }

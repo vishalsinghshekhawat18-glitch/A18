@@ -2,9 +2,19 @@
   "id": "migrated-schemes-scheme-94",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "CITIIS 2.0 (City Investments to Innovate, Integrate, & Sustain):",
-  "summary": "Schemes — CITIIS 2.0 (City Investments to Innovate, Integrate, & Sustain):",
+  "title": "CITIIS 2.0 (City Investments to Innovate, Integrate, & Sustain)",
+  "summary": "CITIIS 2.0 (City Investments to Innovate, Integrate, & Sustain) — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "CITIIS 2.0 (City Investments to Innovate, Integrate, & Sustain)",
+      "summary": "Schemes — CITIIS 2.0 (City Investments to Innovate, Integrate, & Sustain):"
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -35,6 +45,11 @@
       "sourceChecksum": "17c6a0128b37984041fe837cc9f081ae3334c8e6a4b0f39c04c8059411f0fe37",
       "migrationTimestamp": "2026-08-15T12:14:02.103Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.476Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

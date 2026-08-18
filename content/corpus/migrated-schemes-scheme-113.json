@@ -2,9 +2,19 @@
   "id": "migrated-schemes-scheme-113",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Atal Vayo Abhyudaya Yojana (AVYAY):",
-  "summary": "Schemes — Atal Vayo Abhyudaya Yojana (AVYAY):",
+  "title": "Atal Vayo Abhyudaya Yojana (AVYAY)",
+  "summary": "Atal Vayo Abhyudaya Yojana (AVYAY) — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "Atal Vayo Abhyudaya Yojana (AVYAY)",
+      "summary": "Schemes — Atal Vayo Abhyudaya Yojana (AVYAY):"
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -41,6 +51,11 @@
       "sourceChecksum": "c333daa20399ab88285e5eccb6d7faf41ab667c45f725d7c67b226d7b1e708e1",
       "migrationTimestamp": "2026-08-15T12:14:02.104Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.490Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

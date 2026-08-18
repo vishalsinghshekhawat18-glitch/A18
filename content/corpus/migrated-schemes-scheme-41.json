@@ -3,8 +3,13 @@
   "type": "ca_note",
   "domain": "schemes",
   "title": "The Soil Health Card Scheme (SHC):",
-  "summary": "Schemes — The Soil Health Card Scheme (SHC):",
+  "summary": "The Soil Health Card Scheme (SHC): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "🏛️ Canonical Reference & Masterfile Integration",
+      "text": "This flagship scheme is comprehensively detailed in the Government Schemes Masterfile (Section: \"migrated-schemes-masterfile\"). Key highlights and parameters are summarized below."
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -44,6 +49,12 @@
       "sourceChecksum": "2798f62b320a1b8e7e9bac57b7f192994ac5d349c68fb7641f38057d298e2060",
       "migrationTimestamp": "2026-08-15T12:14:01.51Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.409Z",
+    "contentStatus": "superseded",
+    "supersededBy": "migrated-schemes-masterfile",
+    "targetMasterfileSection": "migrated-schemes-masterfile",
+    "requiresHumanReview": false
   }
 }

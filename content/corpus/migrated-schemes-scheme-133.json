@@ -2,9 +2,14 @@
   "id": "migrated-schemes-scheme-133",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Sambal (Safety and justice for women):",
-  "summary": "Schemes — Sambal (Safety and justice for women):",
+  "title": "[Sub-Component] Sambal (Safety and justice for women):",
+  "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-131.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "🔗 Sub-Component Note",
+      "text": "This note represents a constituent sub-component of migrated-schemes-scheme-131. For the unified examination framework, refer to the parent master note."
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -38,6 +43,11 @@
       "sourceChecksum": "f382f0e2fb2c4189fe6f28b04e3b6fffb679bc8cca15d8da634d650a743e76d7",
       "migrationTimestamp": "2026-08-15T12:14:02.68Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.514Z",
+    "contentStatus": "fragment_merged",
+    "mergedInto": "migrated-schemes-scheme-131",
+    "requiresHumanReview": false
   }
 }

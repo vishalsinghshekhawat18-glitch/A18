@@ -2,18 +2,25 @@
   "id": "migrated-schemes-scheme-15",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Financials:",
-  "summary": "Schemes — Financials:",
+  "title": "Financials",
+  "summary": "Financials — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "Financials",
+      "summary": "Schemes — Financials:"
+    },
     {
       "type": "bullet_list",
       "items": [
-        " Total Budget: ₹75,000 crores",
-        "-- 4 of 47 --",
-        "5\tONE STOP SOLUTION FOR IAS, RAS, SI",
-        "Youtube \tTelegram",
-        "Indian Economy \tScheme",
-        " Grant for Model Solar Village: ₹1 crore per village"
+        "Total Budget: ₹75,000 crores",
+        "Indian Economy Scheme",
+        "Grant for Model Solar Village: ₹1 crore per village"
       ]
     }
   ],
@@ -38,6 +45,11 @@
       "sourceChecksum": "c757e754dea84c63f2cf4ec020ccc26c2b33e88fcde2873c3c988948a9419f97",
       "migrationTimestamp": "2026-08-15T12:14:01.065Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.376Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

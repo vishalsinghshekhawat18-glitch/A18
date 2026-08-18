@@ -2,9 +2,19 @@
   "id": "migrated-schemes-scheme-49",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Nano Fertilizers: Revolutionizing Agriculture:",
-  "summary": "Schemes — Nano Fertilizers: Revolutionizing Agriculture:",
+  "title": "Nano Fertilizers: Revolutionizing Agriculture",
+  "summary": "Nano Fertilizers: Revolutionizing Agriculture — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "Nano Fertilizers: Revolutionizing Agriculture",
+      "summary": "Schemes — Nano Fertilizers: Revolutionizing Agriculture:"
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -44,6 +54,11 @@
       "sourceChecksum": "a19c216ae0c65440875089bdcf3288f2c41637929a611d79b8a8df4a31e3162e",
       "migrationTimestamp": "2026-08-15T12:14:01.51Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.419Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

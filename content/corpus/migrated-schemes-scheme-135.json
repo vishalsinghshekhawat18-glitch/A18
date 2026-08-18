@@ -3,35 +3,37 @@
   "type": "ca_note",
   "domain": "schemes",
   "title": "Ayushman Bharat Scheme (Launched: 28 September 2018):",
-  "summary": "Schemes — Ayushman Bharat Scheme (Launched: 28 September 2018):",
+  "summary": "Ayushman Bharat Scheme (Launched: 28 September 2018): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "🏛️ Canonical Reference & Masterfile Integration",
+      "text": "This flagship scheme is comprehensively detailed in the Government Schemes Masterfile (Section: \"migrated-schemes-masterfile\"). Key highlights and parameters are summarized below."
+    },
     {
       "type": "bullet_list",
       "items": [
-        " Ministry: Ministry of Health and Family Welfare",
-        " Aim:",
-        " Strengthen public health infrastructure.",
-        " Achieve Universal Health Coverage (UHC).",
-        " Beneficiaries: BPL families, unorganized sector laborers.",
-        " Coverage: Health insurance of Rs. 5 lakh for over 55 crore people (12 crore families).",
-        " Key Components:",
-        " Health and Wellness Centres: 1.5 lakh centres to provide primary healthcare.",
-        " PM Jan Arogya Yojna (PMJAY):",
-        " Rs. 5 lakh insurance per family.",
-        " Covers hospitalization, surgeries, diagnostics, etc.",
-        " Over 10 crore families enrolled.",
-        "-- 36 of 47 --",
-        "37\tONE STOP SOLUTION FOR IAS, RAS, SI",
-        "Youtube \tTelegram",
-        "Indian Economy \tScheme",
-        " Key Updates:",
-        " Ayushman Bhava Abhiyan (Sept 2023): Promotes health services in rural areas.",
-        " From September 2024: Additional Rs. 5 lakh insurance for elderly (70+ years).",
-        " Implementation: National Health Authority.",
-        " Additional Benefits:",
-        " Cashless Treatment at empaneled hospitals.",
-        " Telemedicine and Digital Health Records under Ayushman Bharat Digital Mission.",
-        " The scheme aims to provide affordable healthcare, reduce out-of-pocket expenses, and",
+        "Ministry: Ministry of Health and Family Welfare",
+        "Aim:",
+        "Strengthen public health infrastructure.",
+        "Achieve Universal Health Coverage (UHC).",
+        "Beneficiaries: BPL families, unorganized sector laborers.",
+        "Coverage: Health insurance of Rs. 5 lakh for over 55 crore people (12 crore families).",
+        "Key Components:",
+        "Health and Wellness Centres: 1.5 lakh centres to provide primary healthcare.",
+        "PM Jan Arogya Yojna (PMJAY):",
+        "Rs. 5 lakh insurance per family.",
+        "Covers hospitalization, surgeries, diagnostics, etc.",
+        "Over 10 crore families enrolled.",
+        "Indian Economy Scheme",
+        "Key Updates:",
+        "Ayushman Bhava Abhiyan (Sept 2023): Promotes health services in rural areas.",
+        "From September 2024: Additional Rs. 5 lakh insurance for elderly (70+ years).",
+        "Implementation: National Health Authority.",
+        "Additional Benefits:",
+        "Cashless Treatment at empaneled hospitals.",
+        "Telemedicine and Digital Health Records under Ayushman Bharat Digital Mission.",
+        "The scheme aims to provide affordable healthcare, reduce out-of-pocket expenses, and",
         "improve access to quality medical services."
       ]
     }
@@ -57,6 +59,12 @@
       "sourceChecksum": "cce06d2f5880d83851d27ccaed69051af26c966465b13315b90cc3328dcf0b92",
       "migrationTimestamp": "2026-08-15T12:14:02.68Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.516Z",
+    "contentStatus": "superseded",
+    "supersededBy": "migrated-schemes-masterfile",
+    "targetMasterfileSection": "migrated-schemes-masterfile",
+    "requiresHumanReview": false
   }
 }

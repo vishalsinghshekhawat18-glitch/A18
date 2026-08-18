@@ -2,22 +2,29 @@
   "id": "migrated-schemes-scheme-64",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "MSME Portal:",
-  "summary": "Schemes — MSME Portal:",
+  "title": "MSME Portal",
+  "summary": "MSME Portal — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "MSME Portal",
+      "summary": "Schemes — MSME Portal:"
+    },
     {
       "type": "bullet_list",
       "items": [
-        "o E-Shram Portal- Registration and welfare of unorganized workers (Ministry of Labour).",
-        "o Udyam Portal- MSME registration and access to government benefits (Ministry of MSME).",
-        "o Champions Portal- MSME grievance redressal and business support (Ministry of MSME).",
-        "-- 19 of 47 --",
-        "20\tONE STOP SOLUTION FOR IAS, RAS, SI",
-        "Youtube \tTelegram",
-        "Indian Economy \tScheme",
-        "o RAMP Portal- Enhances MSME performance through schemes and funding (Ministry of",
+        "E-Shram Portal- Registration and welfare of unorganized workers (Ministry of Labour).",
+        "Udyam Portal- MSME registration and access to government benefits (Ministry of MSME).",
+        "Champions Portal- MSME grievance redressal and business support (Ministry of MSME).",
+        "Indian Economy Scheme",
+        "RAMP Portal- Enhances MSME performance through schemes and funding (Ministry of",
         "MSME). ramp.msme.gov.in",
-        "o Samadhan Portal- Resolves delayed payment issues for MSMEs (Ministry of Labour)."
+        "Samadhan Portal- Resolves delayed payment issues for MSMEs (Ministry of Labour)."
       ]
     }
   ],
@@ -42,6 +49,11 @@
       "sourceChecksum": "a1e0ce205fead60702d132741eba893951bc13c3b4272c1e05807312e7ccd1ec",
       "migrationTimestamp": "2026-08-15T12:14:01.511Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.438Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

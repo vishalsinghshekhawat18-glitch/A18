@@ -3,22 +3,24 @@
   "type": "ca_note",
   "domain": "schemes",
   "title": "Subsidy Scheme for KCC Cardholders:",
-  "summary": "Schemes — Subsidy Scheme for KCC Cardholders:",
+  "summary": "Subsidy Scheme for KCC Cardholders: — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "🏛️ Canonical Reference & Masterfile Integration",
+      "text": "This flagship scheme is comprehensively detailed in the Government Schemes Masterfile (Section: \"migrated-schemes-masterfile\"). Key highlights and parameters are summarized below."
+    },
     {
       "type": "bullet_list",
       "items": [
-        "o Objective: Provide short-term loans to farmers in agriculture and allied sectors (animal",
+        "Objective: Provide short-term loans to farmers in agriculture and allied sectors (animal",
         "husbandry, dairy, poultry, fisheries).",
-        "o Loan Amount: Up to ₹3 lakh.",
-        "o Interest Rate: 7%, with a 3% rebate for timely repayment (effective rate of 4%).",
-        "o Repayment Period: Up to 3 years.",
-        "o Eligibility: Farmers holding a valid KCC (Kisan Credit Card).",
-        "o Impact: Reduces financial strain, supports productivity, and boosts farm income.",
-        "-- 12 of 47 --",
-        "13\tONE STOP SOLUTION FOR IAS, RAS, SI",
-        "Youtube \tTelegram",
-        "Indian Economy \tScheme"
+        "Loan Amount: Up to ₹3 lakh.",
+        "Interest Rate: 7%, with a 3% rebate for timely repayment (effective rate of 4%).",
+        "Repayment Period: Up to 3 years.",
+        "Eligibility: Farmers holding a valid KCC (Kisan Credit Card).",
+        "Impact: Reduces financial strain, supports productivity, and boosts farm income.",
+        "Indian Economy Scheme"
       ]
     }
   ],
@@ -43,6 +45,12 @@
       "sourceChecksum": "b91a8a7b4df14779b2c7d05a3b804d7190b36bccbe517de270a73b75d89cbdb0",
       "migrationTimestamp": "2026-08-15T12:14:01.51Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.411Z",
+    "contentStatus": "superseded",
+    "supersededBy": "migrated-schemes-masterfile",
+    "targetMasterfileSection": "migrated-schemes-masterfile",
+    "requiresHumanReview": false
   }
 }

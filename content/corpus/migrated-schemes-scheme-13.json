@@ -2,9 +2,14 @@
   "id": "migrated-schemes-scheme-13",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Launch & Approval:",
-  "summary": "Schemes — Launch & Approval:",
+  "title": "[Sub-Component] Launch & Approval:",
+  "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-12.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "🔗 Sub-Component Note",
+      "text": "This note represents a constituent sub-component of migrated-schemes-scheme-12. For the unified examination framework, refer to the parent master note."
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -34,6 +39,11 @@
       "sourceChecksum": "35388f2ad7bdbcae58ee9bb0188989a1030fe7ac8c0940be8fdd75815f8b8bb7",
       "migrationTimestamp": "2026-08-15T12:14:01.064Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.374Z",
+    "contentStatus": "fragment_merged",
+    "mergedInto": "migrated-schemes-scheme-12",
+    "requiresHumanReview": false
   }
 }

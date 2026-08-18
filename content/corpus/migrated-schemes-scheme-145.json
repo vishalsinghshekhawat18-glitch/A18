@@ -2,9 +2,19 @@
   "id": "migrated-schemes-scheme-145",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Aatmanirbhar Bharat Rojgar Yojana (ABRY):",
-  "summary": "Schemes — Aatmanirbhar Bharat Rojgar Yojana (ABRY):",
+  "title": "Aatmanirbhar Bharat Rojgar Yojana (ABRY)",
+  "summary": "Aatmanirbhar Bharat Rojgar Yojana (ABRY) — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "Aatmanirbhar Bharat Rojgar Yojana (ABRY)",
+      "summary": "Schemes — Aatmanirbhar Bharat Rojgar Yojana (ABRY):"
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -46,6 +56,11 @@
       "sourceChecksum": "5c9ad969a2e82b675f2d3a380f63b23b548282be805bd4b8bcb797d7655ecd57",
       "migrationTimestamp": "2026-08-15T12:14:02.68Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.529Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

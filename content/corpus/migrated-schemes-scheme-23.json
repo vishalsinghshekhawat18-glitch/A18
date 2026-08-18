@@ -2,27 +2,34 @@
   "id": "migrated-schemes-scheme-23",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "RESET Program:",
-  "summary": "Schemes — RESET Program:",
+  "title": "RESET Program",
+  "summary": "RESET Program — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "RESET Program",
+      "summary": "Schemes — RESET Program:"
+    },
     {
       "type": "bullet_list",
       "items": [
-        " Full Form: Retired Sportsperson Empowerment Training.",
-        "-- 6 of 47 --",
-        "7\tONE STOP SOLUTION FOR IAS, RAS, SI",
-        "Youtube \tTelegram",
-        "Indian Economy \tScheme",
-        " Launch Date: August 29, 2024 (National Sports Day).",
-        " Objective:",
-        "o To support retired athletes in transitioning to new careers.",
-        "o Provide training, mentorship, and skill development for post-retirement opportunities.",
-        " Target Beneficiaries: Retired sportspersons from various disciplines across India.",
-        " Key Features:",
-        "o Career counseling and educational courses.",
-        "o Skill development workshops tailored for retired athletes.",
-        "o Mentorship programs to guide professional transitions.",
-        " Implementation: Government-led initiative with collaboration from sports federations and private",
+        "Full Form: Retired Sportsperson Empowerment Training.",
+        "Indian Economy Scheme",
+        "Launch Date: August 29, 2024 (National Sports Day).",
+        "Objective:",
+        "To support retired athletes in transitioning to new careers.",
+        "Provide training, mentorship, and skill development for post-retirement opportunities.",
+        "Target Beneficiaries: Retired sportspersons from various disciplines across India.",
+        "Key Features:",
+        "Career counseling and educational courses.",
+        "Skill development workshops tailored for retired athletes.",
+        "Mentorship programs to guide professional transitions.",
+        "Implementation: Government-led initiative with collaboration from sports federations and private",
         "partners."
       ]
     }
@@ -48,6 +55,11 @@
       "sourceChecksum": "475ec2802cea54b2eca4293f8541df2a2eab891f13cede7cb6277d251b649e49",
       "migrationTimestamp": "2026-08-15T12:14:01.065Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.385Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

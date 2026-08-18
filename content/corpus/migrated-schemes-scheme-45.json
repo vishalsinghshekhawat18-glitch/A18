@@ -3,8 +3,13 @@
   "type": "ca_note",
   "domain": "schemes",
   "title": "PM-KUSUM Scheme (Pradhan Mantri Kisan Urja Suraksha evam Utthaan",
-  "summary": "Schemes — PM-KUSUM Scheme (Pradhan Mantri Kisan Urja Suraksha evam Utthaan",
+  "summary": "PM-KUSUM Scheme (Pradhan Mantri Kisan Urja Suraksha evam Utthaan — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "🏛️ Canonical Reference & Masterfile Integration",
+      "text": "This flagship scheme is comprehensively detailed in the Government Schemes Masterfile (Section: \"migrated-schemes-masterfile\"). Key highlights and parameters are summarized below."
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -13,25 +18,22 @@
         "providing farmers with solar-powered irrigation pumps and promoting the use of barren land for solar",
         "energy generation.",
         "Key Features:",
-        "o Component A: Installation of 10,000 MW decentralized solar plants on barren land.",
-        "o Component B: Installation of 14 lakh solar-powered agriculture pumps.",
-        "o Component C: Solarization of 35 lakh grid-connected agricultural pumps.",
+        "Component A: Installation of 10,000 MW decentralized solar plants on barren land.",
+        "Component B: Installation of 14 lakh solar-powered agriculture pumps.",
+        "Component C: Solarization of 35 lakh grid-connected agricultural pumps.",
         "Benefits:",
-        "o Reduces dependency on grid power.",
-        "o Generates additional income from solar power sales.",
-        "o Promotes renewable energy and rural development.",
+        "Reduces dependency on grid power.",
+        "Generates additional income from solar power sales.",
+        "Promotes renewable energy and rural development.",
         "Subsidy Structure:",
-        "o Up to 60% subsidy (30% central, 30% state, 30% loan from banks).",
-        "o Farmers contribute 10% of the total cost.",
+        "Up to 60% subsidy (30% central, 30% state, 30% loan from banks).",
+        "Farmers contribute 10% of the total cost.",
         "Eligibility:",
-        "o Farmers with agricultural land for solar pump installation.",
+        "Farmers with agricultural land for solar pump installation.",
         "Timeline:",
-        "o Launch Date: 8th March 2019",
-        "o End Date: 31st March 2026",
-        "-- 13 of 47 --",
-        "14\tONE STOP SOLUTION FOR IAS, RAS, SI",
-        "Youtube \tTelegram",
-        "Indian Economy \tScheme"
+        "Launch Date: 8th March 2019",
+        "End Date: 31st March 2026",
+        "Indian Economy Scheme"
       ]
     }
   ],
@@ -56,6 +58,12 @@
       "sourceChecksum": "094c2d77a8e45018cee34aa8f6b9d4d3840ca19565e544a97745091980568a0c",
       "migrationTimestamp": "2026-08-15T12:14:01.51Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.414Z",
+    "contentStatus": "superseded",
+    "supersededBy": "migrated-schemes-masterfile",
+    "targetMasterfileSection": "migrated-schemes-masterfile",
+    "requiresHumanReview": false
   }
 }

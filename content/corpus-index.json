@@ -27520,8 +27520,8 @@
     "id": "migrated-schemes-scheme-1",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Credit guarantee scheme:",
-    "summary": "Schemes — Credit guarantee scheme:",
+    "title": "[Index Page Reference] Credit guarantee scheme:",
+    "summary": "Migration artifact: Table of contents index reference from original scheme document (Page index citation).",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -27543,7 +27543,12 @@
         "sourceChecksum": "28ca0e2137748c321855898bee71779c4bcf30b6af2c9300d297b9b99de958b0",
         "migrationTimestamp": "2026-08-15T05:52:09.824Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.359Z",
+      "contentStatus": "artifact_deprecated",
+      "isDeprecated": true,
+      "requiresHumanReview": false
     }
   },
   {
@@ -27631,7 +27636,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "PM-DAKSH Yojana (Pradhan Mantri Dakshta Aur Kushalta Sampann Hitgrahi",
-    "summary": "Schemes — PM-DAKSH Yojana (Pradhan Mantri Dakshta Aur Kushalta Sampann Hitgrahi",
+    "summary": "PM-DAKSH Yojana (Pradhan Mantri Dakshta Aur Kushalta Sampann Hitgrahi — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -27653,7 +27658,12 @@
         "sourceChecksum": "c8ea925fa8e1f13b12495f62515542faeb626b5a465c4aebbe91f7c56b541f5a",
         "migrationTimestamp": "2026-08-15T12:14:02.104Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.483Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
@@ -27700,8 +27710,8 @@
     "id": "migrated-schemes-scheme-103",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Pre Matric (Class 9-10):",
-    "summary": "Schemes — Pre Matric (Class 9-10):",
+    "title": "[Sub-Component] Pre Matric (Class 9-10):",
+    "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-100.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -27723,15 +27733,20 @@
         "sourceChecksum": "b1c189ec26727b3ebeb385d24e9e6d7933d46963f83958645a30f9ad3839a7b7",
         "migrationTimestamp": "2026-08-15T12:14:02.104Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.485Z",
+      "contentStatus": "fragment_merged",
+      "mergedInto": "migrated-schemes-scheme-100",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-104",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Post Matric:",
-    "summary": "Schemes — Post Matric:",
+    "title": "[Sub-Component] Post Matric:",
+    "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-100.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -27753,15 +27768,20 @@
         "sourceChecksum": "a4c42792c3f1f52685901cc4e187c27f2786b88a76cd8aa350e5a334e999b2fb",
         "migrationTimestamp": "2026-08-15T12:14:02.104Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.486Z",
+      "contentStatus": "fragment_merged",
+      "mergedInto": "migrated-schemes-scheme-100",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-105",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Higher Education (Beyond Class 12):",
-    "summary": "Schemes — Higher Education (Beyond Class 12):",
+    "title": "[Sub-Component] Higher Education (Beyond Class 12):",
+    "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-100.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -27783,15 +27803,20 @@
         "sourceChecksum": "6f1369f7ea942ebb3b59a057e1c68a83e7e9cd2a3f513120daea7b8eb9b4db2b",
         "migrationTimestamp": "2026-08-15T12:14:02.104Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.487Z",
+      "contentStatus": "fragment_merged",
+      "mergedInto": "migrated-schemes-scheme-100",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-106",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Merit Improvement (Class 9-12):",
-    "summary": "Schemes — Merit Improvement (Class 9-12):",
+    "title": "[Sub-Component] Merit Improvement (Class 9-12):",
+    "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-100.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -27813,7 +27838,12 @@
         "sourceChecksum": "8a40978c66c8f56e0e85038d10080fe803276a2a10c625091b7af291df9431d1",
         "migrationTimestamp": "2026-08-15T12:14:02.104Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.488Z",
+      "contentStatus": "fragment_merged",
+      "mergedInto": "migrated-schemes-scheme-100",
+      "requiresHumanReview": false
     }
   },
   {
@@ -28100,8 +28130,8 @@
     "id": "migrated-schemes-scheme-113",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Atal Vayo Abhyudaya Yojana (AVYAY):",
-    "summary": "Schemes — Atal Vayo Abhyudaya Yojana (AVYAY):",
+    "title": "Atal Vayo Abhyudaya Yojana (AVYAY)",
+    "summary": "Atal Vayo Abhyudaya Yojana (AVYAY) — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -28123,15 +28153,20 @@
         "sourceChecksum": "c333daa20399ab88285e5eccb6d7faf41ab667c45f725d7c67b226d7b1e708e1",
         "migrationTimestamp": "2026-08-15T12:14:02.104Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.490Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-114",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Pradhan Mantri Jan Vikas Karyakram (PMJVK):",
-    "summary": "Schemes — Pradhan Mantri Jan Vikas Karyakram (PMJVK):",
+    "title": "Pradhan Mantri Jan Vikas Karyakram (PMJVK)",
+    "summary": "Pradhan Mantri Jan Vikas Karyakram (PMJVK) — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -28153,15 +28188,20 @@
         "sourceChecksum": "a4f88ff59b72235f97085ccfe6fb24f96afae19193edba106244d186531a3831",
         "migrationTimestamp": "2026-08-15T12:14:02.104Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.491Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-115",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Vanbandhu Kalyan Yojana (VKY):",
-    "summary": "Schemes — Vanbandhu Kalyan Yojana (VKY):",
+    "title": "Vanbandhu Kalyan Yojana (VKY)",
+    "summary": "Vanbandhu Kalyan Yojana (VKY) — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -28183,15 +28223,20 @@
         "sourceChecksum": "c53d9c53ad9fc94a110f5df2aa2a858003ae4b6d0002a94c09ec58f35e9c4dbc",
         "migrationTimestamp": "2026-08-15T12:14:02.104Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.492Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-116",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "PM-JANMAN Abhiyan (Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan):",
-    "summary": "Schemes — PM-JANMAN Abhiyan (Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan):",
+    "title": "PM-JANMAN Abhiyan (Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan)",
+    "summary": "PM-JANMAN Abhiyan (Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan) — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -28213,15 +28258,20 @@
         "sourceChecksum": "d4575e331252941dbfecafaa9c1172793b999d3af4566b001a7315bd0609be9f",
         "migrationTimestamp": "2026-08-15T12:14:02.104Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.494Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-117",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "NPS Vatsalya Scheme (Budget 2024-25):",
-    "summary": "Schemes — NPS Vatsalya Scheme (Budget 2024-25):",
+    "title": "NPS Vatsalya Scheme (Budget 2024-25)",
+    "summary": "NPS Vatsalya Scheme (Budget 2024-25) — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -28243,15 +28293,20 @@
         "sourceChecksum": "52b94c4e3e1c5cb8d28dc4d143467fbf05b75f19690986fd45aa9e0cc48adb5c",
         "migrationTimestamp": "2026-08-15T12:14:02.104Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.495Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-118",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Pradhan Mantri Vaya Vandana Yojana (PMVVY):",
-    "summary": "Schemes — Pradhan Mantri Vaya Vandana Yojana (PMVVY):",
+    "title": "Pradhan Mantri Vaya Vandana Yojana (PMVVY)",
+    "summary": "Pradhan Mantri Vaya Vandana Yojana (PMVVY) — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -28273,7 +28328,12 @@
         "sourceChecksum": "6505eaa1f6deec55aed09b53f120f8e02610efe96d89309fad391ed249d6ec26",
         "migrationTimestamp": "2026-08-15T12:14:02.104Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.496Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
@@ -28281,7 +28341,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Beti Bachao Beti Padhao:",
-    "summary": "Schemes — Beti Bachao Beti Padhao:",
+    "summary": "Beti Bachao Beti Padhao: — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -28303,7 +28363,13 @@
         "sourceChecksum": "97612c92dc18489f23638d3343f18909f97142f29602372de3b1845286b11ac9",
         "migrationTimestamp": "2026-08-15T12:14:02.104Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.497Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
@@ -28311,7 +28377,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Solarization of Centers & Street Lights: 1,500 centers, ₹1 Lakh each",
-    "summary": "Schemes — Solarization of Centers & Street Lights: 1,500 centers, ₹1 Lakh each",
+    "summary": "Solarization of Centers & Street Lights: 1,500 centers, ₹1 Lakh each — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -28333,15 +28399,20 @@
         "sourceChecksum": "9ef92e1b3e01decc456ca9545c8154f0cbefe792b2840fcf215be2d1874f84cc",
         "migrationTimestamp": "2026-08-15T12:14:01.064Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.372Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-120",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Nationwide",
-    "summary": "Schemes — Nationwide",
+    "title": "[Sub-Component] Nationwide",
+    "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-119.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -28363,7 +28434,12 @@
         "sourceChecksum": "33b7f822902ec2ba935982fb2f881f47eeee0b4f7ce7655a19ed7f8090c55f66",
         "migrationTimestamp": "2026-08-15T12:14:02.104Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.498Z",
+      "contentStatus": "fragment_merged",
+      "mergedInto": "migrated-schemes-scheme-119",
+      "requiresHumanReview": false
     }
   },
   {
@@ -28371,7 +28447,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Sukanya Samriddhi Yojana (SSY):",
-    "summary": "Schemes — Sukanya Samriddhi Yojana (SSY):",
+    "summary": "Sukanya Samriddhi Yojana (SSY): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -28393,7 +28469,13 @@
         "sourceChecksum": "17f437aa9a9e9de2e2c0fd8d10016df1b7019851eec5a5e6ca55e806ab630512",
         "migrationTimestamp": "2026-08-15T12:14:02.104Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.499Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
@@ -28401,7 +28483,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Pradhan Mantri Matru Vandana Yojana (PMMVY):",
-    "summary": "Schemes — Pradhan Mantri Matru Vandana Yojana (PMMVY):",
+    "summary": "Pradhan Mantri Matru Vandana Yojana (PMMVY): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -28423,15 +28505,21 @@
         "sourceChecksum": "f64a57795db2ba3796dde853be76f1d1afc51e7651a28de0f425d7e863bbf8b3",
         "migrationTimestamp": "2026-08-15T12:14:02.104Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.500Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-123",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Rs. 2000 for birth registration",
-    "summary": "Schemes — Rs. 2000 for birth registration",
+    "title": "[Sub-Component] Rs. 2000 for birth registration",
+    "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-122.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -28453,7 +28541,12 @@
         "sourceChecksum": "e189741fbfae87577851763cb9a510cad98e15145e60a2056f81724bd50b1c14",
         "migrationTimestamp": "2026-08-15T12:14:02.104Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.501Z",
+      "contentStatus": "fragment_merged",
+      "mergedInto": "migrated-schemes-scheme-122",
+      "requiresHumanReview": false
     }
   },
   {
@@ -28461,7 +28554,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "PM SHRI Schools (Prime Minister Schools for Rising India):",
-    "summary": "Schemes — PM SHRI Schools (Prime Minister Schools for Rising India):",
+    "summary": "PM SHRI Schools (Prime Minister Schools for Rising India): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -28483,7 +28576,13 @@
         "sourceChecksum": "1b59dcfaedccbc453ed8154d2ffcd04f26a2a622705c0eac34ad8e51fd4a6331",
         "migrationTimestamp": "2026-08-15T12:14:02.104Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.503Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
@@ -28491,7 +28590,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Pradhan Mantri Poshan Shakti Nirman Yojana (PM POSHAN Scheme):",
-    "summary": "Schemes — Pradhan Mantri Poshan Shakti Nirman Yojana (PM POSHAN Scheme):",
+    "summary": "Pradhan Mantri Poshan Shakti Nirman Yojana (PM POSHAN Scheme): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -28513,7 +28612,13 @@
         "sourceChecksum": "3a1d1a353d14a06bca2581820992008f6f20dad45adfb3996d55c593109c9708",
         "migrationTimestamp": "2026-08-15T12:14:02.679Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.504Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
@@ -28521,7 +28626,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "NIPUN Bharat Scheme:",
-    "summary": "Schemes — NIPUN Bharat Scheme:",
+    "summary": "NIPUN Bharat Scheme: — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -28543,7 +28648,13 @@
         "sourceChecksum": "dc5e26c89d572cd77a1a9bdb3779febe41dc7d746f2d5cd85353182d45e16993",
         "migrationTimestamp": "2026-08-15T12:14:02.679Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.506Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
@@ -28551,7 +28662,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "STARS Scheme: Strengthening Teaching-Learning and Results for States:",
-    "summary": "Schemes — STARS Scheme: Strengthening Teaching-Learning and Results for States:",
+    "summary": "STARS Scheme: Strengthening Teaching-Learning and Results for States: — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -28573,7 +28684,13 @@
         "sourceChecksum": "99f527e5dafe709c56641190a5a587c6438388898d28cca1e146940db51cadf1",
         "migrationTimestamp": "2026-08-15T12:14:02.679Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.507Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
@@ -28581,7 +28698,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "PM-WANI (Prime Minister's Wi-Fi Access Interface):",
-    "summary": "Schemes — PM-WANI (Prime Minister's Wi-Fi Access Interface):",
+    "summary": "PM-WANI (Prime Minister's Wi-Fi Access Interface): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -28603,15 +28720,21 @@
         "sourceChecksum": "b9ce03dfe191074202bfae3a05ab92d13c27e26c17c82c97214330aebaa4347e",
         "migrationTimestamp": "2026-08-15T12:14:02.679Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.509Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-129",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Janani Suraksha Yojnna:",
-    "summary": "Schemes — Janani Suraksha Yojnna:",
+    "title": "Janani Suraksha Yojnna",
+    "summary": "Janani Suraksha Yojnna — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -28633,15 +28756,20 @@
         "sourceChecksum": "fac9c1ee78115bcc81793076c9dc45035a80443a327339728b9fb0ce620cb8a0",
         "migrationTimestamp": "2026-08-15T12:14:02.679Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.510Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-13",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Launch & Approval:",
-    "summary": "Schemes — Launch & Approval:",
+    "title": "[Sub-Component] Launch & Approval:",
+    "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-12.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -28663,7 +28791,12 @@
         "sourceChecksum": "35388f2ad7bdbcae58ee9bb0188989a1030fe7ac8c0940be8fdd75815f8b8bb7",
         "migrationTimestamp": "2026-08-15T12:14:01.064Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.374Z",
+      "contentStatus": "fragment_merged",
+      "mergedInto": "migrated-schemes-scheme-12",
+      "requiresHumanReview": false
     }
   },
   {
@@ -28671,7 +28804,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "National Nutrition Mission (Poshan Abhiyaan):",
-    "summary": "Schemes — National Nutrition Mission (Poshan Abhiyaan):",
+    "summary": "National Nutrition Mission (Poshan Abhiyaan): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -28693,7 +28826,13 @@
         "sourceChecksum": "84f1f90f047c1119be06a8cd28c7d7299a56806d0afc834a8fc9154c01abed1e",
         "migrationTimestamp": "2026-08-15T12:14:02.68Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.511Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
@@ -28701,7 +28840,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Mission Shakti (2021-2026):",
-    "summary": "Schemes — Mission Shakti (2021-2026):",
+    "summary": "Mission Shakti (2021-2026): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -28723,15 +28862,21 @@
         "sourceChecksum": "d463218177a22c92ed94f982a567ec456b24de4bd52f8a9f53d7e1a68891e196",
         "migrationTimestamp": "2026-08-15T12:14:02.68Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.512Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-132",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Samarthya (Support for women’s well-being):",
-    "summary": "Schemes — Samarthya (Support for women’s well-being):",
+    "title": "[Sub-Component] Samarthya (Support for women’s well-being):",
+    "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-131.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -28753,15 +28898,20 @@
         "sourceChecksum": "e73f908f5ae96175a70907c7bf225cd662fbba37ef45b8559d374365fc6b55b4",
         "migrationTimestamp": "2026-08-15T12:14:02.68Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.513Z",
+      "contentStatus": "fragment_merged",
+      "mergedInto": "migrated-schemes-scheme-131",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-133",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Sambal (Safety and justice for women):",
-    "summary": "Schemes — Sambal (Safety and justice for women):",
+    "title": "[Sub-Component] Sambal (Safety and justice for women):",
+    "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-131.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -28783,15 +28933,20 @@
         "sourceChecksum": "f382f0e2fb2c4189fe6f28b04e3b6fffb679bc8cca15d8da634d650a743e76d7",
         "migrationTimestamp": "2026-08-15T12:14:02.68Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.514Z",
+      "contentStatus": "fragment_merged",
+      "mergedInto": "migrated-schemes-scheme-131",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-134",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Suposhit Maa Abhiyan:",
-    "summary": "Schemes — Suposhit Maa Abhiyan:",
+    "title": "Suposhit Maa Abhiyan",
+    "summary": "Suposhit Maa Abhiyan — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -28813,7 +28968,12 @@
         "sourceChecksum": "317ab2259a86e61004cf386a88f2993eb688c0a00ebbd5fb9a4e6d20ec24d7a4",
         "migrationTimestamp": "2026-08-15T12:14:02.68Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.515Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
@@ -28821,7 +28981,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Ayushman Bharat Scheme (Launched: 28 September 2018):",
-    "summary": "Schemes — Ayushman Bharat Scheme (Launched: 28 September 2018):",
+    "summary": "Ayushman Bharat Scheme (Launched: 28 September 2018): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -28843,7 +29003,13 @@
         "sourceChecksum": "cce06d2f5880d83851d27ccaed69051af26c966465b13315b90cc3328dcf0b92",
         "migrationTimestamp": "2026-08-15T12:14:02.68Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.516Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
@@ -28851,7 +29017,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "National Health Mission (NHM) – Key Highlights:",
-    "summary": "Schemes — National Health Mission (NHM) – Key Highlights:",
+    "summary": "National Health Mission (NHM) – Key Highlights: — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -28873,15 +29039,21 @@
         "sourceChecksum": "9d3748a88cab5dc00d55e94c51f51d88ca0aa8ce1994b98d21b7927b8388538e",
         "migrationTimestamp": "2026-08-15T12:14:02.68Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.518Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-137",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Prime Minister's PVTG Development Mission:",
-    "summary": "Schemes — Prime Minister's PVTG Development Mission:",
+    "title": "Prime Minister's PVTG Development Mission",
+    "summary": "Prime Minister's PVTG Development Mission — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -28903,7 +29075,12 @@
         "sourceChecksum": "b5defe51af9a303f249bfe7f49c34fc141740570ae8b45dc36c6894b541992aa",
         "migrationTimestamp": "2026-08-15T12:14:02.68Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.519Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
@@ -28911,7 +29088,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Ayushman Bharat Digital Health Mission (ABDM):",
-    "summary": "Schemes — Ayushman Bharat Digital Health Mission (ABDM):",
+    "summary": "Ayushman Bharat Digital Health Mission (ABDM): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -28933,7 +29110,13 @@
         "sourceChecksum": "beaff7f10106fa8cbef5e9e15da2027381591f96a57a44a07ff356a8c8b3258c",
         "migrationTimestamp": "2026-08-15T12:14:02.68Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.521Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
@@ -28941,7 +29124,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Ayushman Bharat Health Infrastructure Mission (ABHIM):",
-    "summary": "Schemes — Ayushman Bharat Health Infrastructure Mission (ABHIM):",
+    "summary": "Ayushman Bharat Health Infrastructure Mission (ABHIM): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -28963,15 +29146,21 @@
         "sourceChecksum": "add321689404649d28fa1275db4c6448c5ae9c07edd4b5980e6f72daa5a107da",
         "migrationTimestamp": "2026-08-15T12:14:02.68Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.522Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-14",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Key Objectives:",
-    "summary": "Schemes — Key Objectives:",
+    "title": "[Sub-Component] Key Objectives:",
+    "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-12.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -28993,15 +29182,20 @@
         "sourceChecksum": "5ff37f7a612ac30fee39771d63b71e4708891f28d26b6102afa28e85211ca87e",
         "migrationTimestamp": "2026-08-15T12:14:01.065Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.375Z",
+      "contentStatus": "fragment_merged",
+      "mergedInto": "migrated-schemes-scheme-12",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-140",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Sickle Cell Anemia Eradication Mission (Budget 2023-24):",
-    "summary": "Schemes — Sickle Cell Anemia Eradication Mission (Budget 2023-24):",
+    "title": "Sickle Cell Anemia Eradication Mission (Budget 2023-24)",
+    "summary": "Sickle Cell Anemia Eradication Mission (Budget 2023-24) — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -29023,7 +29217,12 @@
         "sourceChecksum": "2184ad6752911cdc3d4712b58f9157cdbb7cfc61934d65796652eb24303ada24",
         "migrationTimestamp": "2026-08-15T12:14:02.68Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.523Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
@@ -29031,7 +29230,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "PM Kaushal Vikas Yojana:",
-    "summary": "Schemes — PM Kaushal Vikas Yojana:",
+    "summary": "PM Kaushal Vikas Yojana: — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -29053,7 +29252,13 @@
         "sourceChecksum": "39bb108b53aa01a5767e1dae4777498e060fc53b6c6bede8c6db91d28e103825",
         "migrationTimestamp": "2026-08-15T12:14:02.68Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.525Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
@@ -29061,7 +29266,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "PM Vishwakarma Kaushal Samman Yojana (PMVKSY):",
-    "summary": "Schemes — PM Vishwakarma Kaushal Samman Yojana (PMVKSY):",
+    "summary": "PM Vishwakarma Kaushal Samman Yojana (PMVKSY): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -29083,15 +29288,21 @@
         "sourceChecksum": "79b767819d48cf32f0028ec5cfbe2a2f73ae314b6cd798777d0e7907346e10ca",
         "migrationTimestamp": "2026-08-15T12:14:02.68Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.526Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-143",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Antyodaya Shramik Suraksha Yojana:",
-    "summary": "Schemes — Antyodaya Shramik Suraksha Yojana:",
+    "title": "Antyodaya Shramik Suraksha Yojana",
+    "summary": "Antyodaya Shramik Suraksha Yojana — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -29113,15 +29324,20 @@
         "sourceChecksum": "7791b8cd4ff93db184468486528bc8d275a512865e217bc6fa71c517c9c33eae",
         "migrationTimestamp": "2026-08-15T12:14:02.68Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.527Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-144",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Pradhan Mantri Matsya Kisan Samridhi Sah-Yojana (PM-MKSSY):",
-    "summary": "Schemes — Pradhan Mantri Matsya Kisan Samridhi Sah-Yojana (PM-MKSSY):",
+    "title": "Pradhan Mantri Matsya Kisan Samridhi Sah-Yojana (PM-MKSSY)",
+    "summary": "Pradhan Mantri Matsya Kisan Samridhi Sah-Yojana (PM-MKSSY) — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -29143,15 +29359,20 @@
         "sourceChecksum": "672812677aa737103758275db902b0e7adb5bf5a0ef5c726bd9bee088a5aa4d4",
         "migrationTimestamp": "2026-08-15T12:14:02.68Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.528Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-145",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Aatmanirbhar Bharat Rojgar Yojana (ABRY):",
-    "summary": "Schemes — Aatmanirbhar Bharat Rojgar Yojana (ABRY):",
+    "title": "Aatmanirbhar Bharat Rojgar Yojana (ABRY)",
+    "summary": "Aatmanirbhar Bharat Rojgar Yojana (ABRY) — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -29173,15 +29394,20 @@
         "sourceChecksum": "5c9ad969a2e82b675f2d3a380f63b23b548282be805bd4b8bcb797d7655ecd57",
         "migrationTimestamp": "2026-08-15T12:14:02.68Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.529Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-146",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Aatmanirbhar Bharat Rojgar Yojana (ABRY):",
-    "summary": "Schemes — Aatmanirbhar Bharat Rojgar Yojana (ABRY):",
+    "title": "Aatmanirbhar Bharat Rojgar Yojana (ABRY)",
+    "summary": "Aatmanirbhar Bharat Rojgar Yojana (ABRY) — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -29203,7 +29429,12 @@
         "sourceChecksum": "9ecccf22d6ee2d446ac15a49adb6a28564353eeb62679955115e999274e437cf",
         "migrationTimestamp": "2026-08-15T12:14:02.681Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.531Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
@@ -29211,7 +29442,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Pradhan Mantri Shram Yogi Mandhan Yojana (PM-SYMY):",
-    "summary": "Schemes — Pradhan Mantri Shram Yogi Mandhan Yojana (PM-SYMY):",
+    "summary": "Pradhan Mantri Shram Yogi Mandhan Yojana (PM-SYMY): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -29233,7 +29464,13 @@
         "sourceChecksum": "01040a9b1f281f5a1ce6643897e58da85c7f5f1b7ece2c0d307cbc781cefc308",
         "migrationTimestamp": "2026-08-15T12:14:02.681Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.532Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
@@ -29241,7 +29478,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Project Bharatmala :",
-    "summary": "Schemes — Project Bharatmala :",
+    "summary": "Project Bharatmala : — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -29263,7 +29500,13 @@
         "sourceChecksum": "f551861c7afec76589b26f3e0d251fa557cf1688c48774ace1f9d4f384fa0c93",
         "migrationTimestamp": "2026-08-15T12:14:02.681Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.533Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
@@ -29271,7 +29514,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Project Sagarmala (2016–2025):",
-    "summary": "Schemes — Project Sagarmala (2016–2025):",
+    "summary": "Project Sagarmala (2016–2025): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -29293,15 +29536,21 @@
         "sourceChecksum": "c718f1f2496cac47f8606dc30822fd863a168942b401a57f58a54216662f9e85",
         "migrationTimestamp": "2026-08-15T12:14:02.681Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.534Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-15",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Financials:",
-    "summary": "Schemes — Financials:",
+    "title": "Financials",
+    "summary": "Financials — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -29323,7 +29572,12 @@
         "sourceChecksum": "c757e754dea84c63f2cf4ec020ccc26c2b33e88fcde2873c3c988948a9419f97",
         "migrationTimestamp": "2026-08-15T12:14:01.065Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.376Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
@@ -29331,7 +29585,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY):",
-    "summary": "Schemes — Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY):",
+    "summary": "Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -29353,7 +29607,13 @@
         "sourceChecksum": "1f3003c1bba8aa630a538fdad83e3c85f70d91a4a51ea8056d7432c2ce500607",
         "migrationTimestamp": "2026-08-15T12:14:02.681Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.535Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
@@ -29361,7 +29621,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "PM Gati Shakti Yojana (National Master Plan for Multi-Modal Connectivity):",
-    "summary": "Schemes — PM Gati Shakti Yojana (National Master Plan for Multi-Modal Connectivity):",
+    "summary": "PM Gati Shakti Yojana (National Master Plan for Multi-Modal Connectivity): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -29383,15 +29643,21 @@
         "sourceChecksum": "b070b4ece941693b73bc7b0a7effc83ea6c6f7b52e69dac6c35bee91e5144b29",
         "migrationTimestamp": "2026-08-15T12:14:02.681Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.537Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-152",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Shree Anna Yojana:",
-    "summary": "Schemes — Shree Anna Yojana:",
+    "title": "Shree Anna Yojana",
+    "summary": "Shree Anna Yojana — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -29413,15 +29679,20 @@
         "sourceChecksum": "65d4c2b3ca95824a6d19e488bae5857d31d6c8f0b1deb6c3c9448f268ff16a48",
         "migrationTimestamp": "2026-08-15T12:14:02.681Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.538Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-153",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "BHARAT SHRI Scheme :",
-    "summary": "Schemes — BHARAT SHRI Scheme :",
+    "title": "BHARAT SHRI Scheme",
+    "summary": "BHARAT SHRI Scheme — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -29443,15 +29714,20 @@
         "sourceChecksum": "8c0b23c2b1d4e2fef38c04ca749a2d2c3a5fdc895a7426f3fb6f67b8306d92f2",
         "migrationTimestamp": "2026-08-15T12:14:02.681Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.539Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-154",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "MISHTI Scheme:",
-    "summary": "Schemes — MISHTI Scheme:",
+    "title": "MISHTI Scheme",
+    "summary": "MISHTI Scheme — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -29473,7 +29749,12 @@
         "sourceChecksum": "76a2cde5b2a5a06ac1bb0b7c32a458c12410e5bdefc6ffd18e8b4ce0d1ea721b",
         "migrationTimestamp": "2026-08-15T12:14:02.681Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.540Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
@@ -29481,7 +29762,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "SVAMITVA Scheme:",
-    "summary": "Schemes — SVAMITVA Scheme:",
+    "summary": "SVAMITVA Scheme: — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -29503,15 +29784,21 @@
         "sourceChecksum": "b3feb7e1eb376688fac6da95e413efe680a7439d110de6a2287e54a4a1df3983",
         "migrationTimestamp": "2026-08-15T12:14:02.681Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.542Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-156",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Legal Ownership: Property cards to enable financial empowerment and dispute resolution.",
-    "summary": "Schemes — Legal Ownership: Property cards to enable financial empowerment and dispute resolution.",
+    "title": "[Sub-Component] Legal Ownership: Property cards to enable financial empowerment and dispute resolution.",
+    "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-155.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -29533,7 +29820,12 @@
         "sourceChecksum": "6c65ba655515493cd25a3ba85fd3ebfb912a9e90b51a9ae086df3a97c1add57d",
         "migrationTimestamp": "2026-08-15T12:14:02.681Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.543Z",
+      "contentStatus": "fragment_merged",
+      "mergedInto": "migrated-schemes-scheme-155",
+      "requiresHumanReview": false
     }
   },
   {
@@ -29541,7 +29833,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "National Infrastructure Pipeline (NIP):",
-    "summary": "Schemes — National Infrastructure Pipeline (NIP):",
+    "summary": "National Infrastructure Pipeline (NIP): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -29563,15 +29855,21 @@
         "sourceChecksum": "4fdc326cf6d1303eaca9897ad021a30c659728ce5c99ecc8282c28175ed14d0f",
         "migrationTimestamp": "2026-08-15T12:14:02.681Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.544Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-158",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Energy: 24% (Power Generation, Renewable Energy)",
-    "summary": "Schemes — Energy: 24% (Power Generation, Renewable Energy)",
+    "title": "[Sub-Component] Energy: 24% (Power Generation, Renewable Energy)",
+    "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-157.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -29593,7 +29891,12 @@
         "sourceChecksum": "8ae14716ada1faa9dd3b0065dacc2833225ed6e1be17e0c949bbddaefb18e5d9",
         "migrationTimestamp": "2026-08-15T12:14:02.681Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.545Z",
+      "contentStatus": "fragment_merged",
+      "mergedInto": "migrated-schemes-scheme-157",
+      "requiresHumanReview": false
     }
   },
   {
@@ -29601,7 +29904,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "National Monetization Pipeline (NMP):",
-    "summary": "Schemes — National Monetization Pipeline (NMP):",
+    "summary": "National Monetization Pipeline (NMP): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -29623,15 +29926,21 @@
         "sourceChecksum": "78551bfeb6c9d1c18774f9e58c18e4c33b536a6dffb4c5b94af98f434e6a0f90",
         "migrationTimestamp": "2026-08-15T12:14:02.681Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.546Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-16",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Subsidy Structure for Solar Plant Installation:",
-    "summary": "Schemes — Subsidy Structure for Solar Plant Installation:",
+    "title": "Subsidy Structure for Solar Plant Installation",
+    "summary": "Subsidy Structure for Solar Plant Installation — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -29653,15 +29962,20 @@
         "sourceChecksum": "6cc5eaab4135cea3f87aa37cd561cb21bfe9a113b5d104320b97a4e578558586",
         "migrationTimestamp": "2026-08-15T12:14:01.065Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.377Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-160",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Electricity (15%)",
-    "summary": "Schemes — Electricity (15%)",
+    "title": "[Sub-Component] Electricity (15%)",
+    "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-159.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -29683,15 +29997,20 @@
         "sourceChecksum": "110f5ff0fff8c30b0ce7d870cc424c3d52bfa068b46b27288b2980cdf46655c6",
         "migrationTimestamp": "2026-08-15T12:14:02.681Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.548Z",
+      "contentStatus": "fragment_merged",
+      "mergedInto": "migrated-schemes-scheme-159",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-161",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Rashtriya Gram Swaraj Abhiyan (RGSA):",
-    "summary": "Schemes — Rashtriya Gram Swaraj Abhiyan (RGSA):",
+    "title": "Rashtriya Gram Swaraj Abhiyan (RGSA)",
+    "summary": "Rashtriya Gram Swaraj Abhiyan (RGSA) — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -29713,15 +30032,20 @@
         "sourceChecksum": "81f0b6951a089525c9d75b3af71dc6b0c2d3020582ea05b877ef3ab407c18502",
         "migrationTimestamp": "2026-08-15T12:14:02.681Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.549Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-162",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Mission Karmayogi:",
-    "summary": "Schemes — Mission Karmayogi:",
+    "title": "Mission Karmayogi",
+    "summary": "Mission Karmayogi — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -29743,7 +30067,12 @@
         "sourceChecksum": "41f3d8fae70db15cbd82830d3a9fc591ba5ece54fe8b00768db7280d32d4aeb6",
         "migrationTimestamp": "2026-08-15T12:14:02.681Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.551Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
@@ -29751,7 +30080,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Vibrant Village Program (VVP):",
-    "summary": "Schemes — Vibrant Village Program (VVP):",
+    "summary": "Vibrant Village Program (VVP): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -29773,15 +30102,21 @@
         "sourceChecksum": "e1a3c11a84989a57cc9110e16fa78e13a7a2d06b8bf822f422696cf09a2a6499",
         "migrationTimestamp": "2026-08-15T12:14:02.681Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.552Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-164",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Infrastructure: Roads, housing, electricity, telecom.",
-    "summary": "Schemes — Infrastructure: Roads, housing, electricity, telecom.",
+    "title": "[Sub-Component] Infrastructure: Roads, housing, electricity, telecom.",
+    "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-163.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -29803,15 +30138,20 @@
         "sourceChecksum": "4eedd106c12132b3baa10c2e072dc3c3cd43cc6f892def5baa6d1452c9c104eb",
         "migrationTimestamp": "2026-08-15T12:14:02.681Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.553Z",
+      "contentStatus": "fragment_merged",
+      "mergedInto": "migrated-schemes-scheme-163",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-165",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Economic Growth: Tourism, skill development, cultural promotion.",
-    "summary": "Schemes — Economic Growth: Tourism, skill development, cultural promotion.",
+    "title": "[Sub-Component] Economic Growth: Tourism, skill development, cultural promotion.",
+    "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-163.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -29833,15 +30173,20 @@
         "sourceChecksum": "922ee3f91536af44cb040db9ec29b8b1d9cca75b58ee35d7c6a18b21c7cac8bf",
         "migrationTimestamp": "2026-08-15T12:14:02.681Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.554Z",
+      "contentStatus": "fragment_merged",
+      "mergedInto": "migrated-schemes-scheme-163",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-166",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "ADITI Scheme (2023-26):",
-    "summary": "Schemes — ADITI Scheme (2023-26):",
+    "title": "ADITI Scheme (2023-26)",
+    "summary": "ADITI Scheme (2023-26) — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -29863,15 +30208,20 @@
         "sourceChecksum": "b8464f76a38f7c13aa0e42e7557c504686320af3e2d7808cb2bbb197d60e707c",
         "migrationTimestamp": "2026-08-15T12:14:02.681Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.555Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-167",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "PM-DevINE Scheme:",
-    "summary": "Schemes — PM-DevINE Scheme:",
+    "title": "PM-DevINE Scheme",
+    "summary": "PM-DevINE Scheme — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -29893,15 +30243,20 @@
         "sourceChecksum": "fb6516385ba91e6840c73772229930671b69ed3ff69e0b9032c5689b86bf329b",
         "migrationTimestamp": "2026-08-15T12:14:02.681Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.556Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-168",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "PM E-Bus Scheme:",
-    "summary": "Schemes — PM E-Bus Scheme:",
+    "title": "PM E-Bus Scheme",
+    "summary": "PM E-Bus Scheme — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -29923,15 +30278,20 @@
         "sourceChecksum": "76555e5e93ce00429f4e6eaff182c6cb245611a42fe54237e88b896995ff0e52",
         "migrationTimestamp": "2026-08-15T12:14:02.681Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.557Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-169",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "PM - E-DRIVE Scheme:",
-    "summary": "Schemes — PM - E-DRIVE Scheme:",
+    "title": "PM - E-DRIVE Scheme",
+    "summary": "PM - E-DRIVE Scheme — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -29953,15 +30313,20 @@
         "sourceChecksum": "9a3d5996e90ad9559728001fb9bfaaa345247f26482b208878e7e305025fda15",
         "migrationTimestamp": "2026-08-15T12:14:02.681Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.558Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-17",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Special Focus:",
-    "summary": "Schemes — Special Focus:",
+    "title": "[Sub-Component] Special Focus:",
+    "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-12.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -29983,7 +30348,12 @@
         "sourceChecksum": "f6bae768f14458a8376cd01660c1e497b8a84984975c7dd98e31d9a384c61235",
         "migrationTimestamp": "2026-08-15T12:14:01.065Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.378Z",
+      "contentStatus": "fragment_merged",
+      "mergedInto": "migrated-schemes-scheme-12",
+      "requiresHumanReview": false
     }
   },
   {
@@ -29991,7 +30361,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Pradhan Mantri Ujjwala Yojana (PMUY) :",
-    "summary": "Schemes — Pradhan Mantri Ujjwala Yojana (PMUY) :",
+    "summary": "Pradhan Mantri Ujjwala Yojana (PMUY) : — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -30013,15 +30383,21 @@
         "sourceChecksum": "78c143248d7b6ea8b54d131992048f695a610885d7b3deebfbb5bd725a36de81",
         "migrationTimestamp": "2026-08-15T12:14:02.681Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.560Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-171",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "PMUY II (2021, Mahoba, UP)",
-    "summary": "Schemes — PMUY II (2021, Mahoba, UP)",
+    "title": "[Sub-Component] PMUY II (2021, Mahoba, UP)",
+    "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-170.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -30043,15 +30419,20 @@
         "sourceChecksum": "c3cf4fb2449b3eaf9a1a8a113b894f62f71ebcf708e9e888850308f903de1ae5",
         "migrationTimestamp": "2026-08-15T12:14:02.681Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.561Z",
+      "contentStatus": "fragment_merged",
+      "mergedInto": "migrated-schemes-scheme-170",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-18",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "PM-SURAJ Portal:",
-    "summary": "Schemes — PM-SURAJ Portal:",
+    "title": "PM-SURAJ Portal",
+    "summary": "PM-SURAJ Portal — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -30073,15 +30454,20 @@
         "sourceChecksum": "b292560d605ef53d03b71aa3c026dc9591a8a610d1952a00b8d996306941a563",
         "migrationTimestamp": "2026-08-15T12:14:01.065Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.380Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-19",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "UNNATI Scheme:",
-    "summary": "Schemes — UNNATI Scheme:",
+    "title": "UNNATI Scheme",
+    "summary": "UNNATI Scheme — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -30103,15 +30489,20 @@
         "sourceChecksum": "96d5c2c8aea6b17828fb9d2e2389620b076c9cf2e1be37cd8901788d4a41ae93",
         "migrationTimestamp": "2026-08-15T12:14:01.065Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.381Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-2",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Atal Pension Yojana (APY):",
-    "summary": "Schemes — Atal Pension Yojana (APY):",
+    "title": "[Index Page Reference] Atal Pension Yojana (APY):",
+    "summary": "Migration artifact: Table of contents index reference from original scheme document (Page index citation).",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -30133,15 +30524,20 @@
         "sourceChecksum": "60c773c07ed9b7b1c02571d00103f550dad1fbe4544af0e402ed73bd8e30754b",
         "migrationTimestamp": "2026-08-15T05:52:09.824Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.362Z",
+      "contentStatus": "artifact_deprecated",
+      "isDeprecated": true,
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-20",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Vigyan Dhara Scheme:",
-    "summary": "Schemes — Vigyan Dhara Scheme:",
+    "title": "Vigyan Dhara Scheme",
+    "summary": "Vigyan Dhara Scheme — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -30163,15 +30559,20 @@
         "sourceChecksum": "833caca192b381ae6f92e45cbf008f243ab66edb3b67272c309eae1686b04fec",
         "migrationTimestamp": "2026-08-15T12:14:01.065Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.382Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-21",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "SPICED Scheme:",
-    "summary": "Schemes — SPICED Scheme:",
+    "title": "SPICED Scheme",
+    "summary": "SPICED Scheme — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -30193,7 +30594,12 @@
         "sourceChecksum": "93e52fb3156b25a53415d621190a21fe2e3c9a53a60e4dda92f7a5aa5985fc93",
         "migrationTimestamp": "2026-08-15T12:14:01.065Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.383Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
@@ -30201,7 +30607,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Spice Incubation Centres: Encourage spice-related startups with technical and infrastructural",
-    "summary": "Schemes — Spice Incubation Centres: Encourage spice-related startups with technical and infrastructural",
+    "summary": "Spice Incubation Centres: Encourage spice-related startups with technical and infrastructural — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -30223,15 +30629,20 @@
         "sourceChecksum": "52fc0c397da7476f91888ad50963c4b59465a6ab901399e0e741603223ad1290",
         "migrationTimestamp": "2026-08-15T12:14:01.065Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.384Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-23",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "RESET Program:",
-    "summary": "Schemes — RESET Program:",
+    "title": "RESET Program",
+    "summary": "RESET Program — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -30253,15 +30664,20 @@
         "sourceChecksum": "475ec2802cea54b2eca4293f8541df2a2eab891f13cede7cb6277d251b649e49",
         "migrationTimestamp": "2026-08-15T12:14:01.065Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.385Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-24",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Deen Dayal SPARSH Yojana:",
-    "summary": "Schemes — Deen Dayal SPARSH Yojana:",
+    "title": "Deen Dayal SPARSH Yojana",
+    "summary": "Deen Dayal SPARSH Yojana — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -30283,15 +30699,20 @@
         "sourceChecksum": "7b2b467edcadd45d7abad61a8cc7d4bed4291d86d421e4983752e380dec00605",
         "migrationTimestamp": "2026-08-15T12:14:01.065Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.386Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-25",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Unified Pension Scheme (UPS) :",
-    "summary": "Schemes — Unified Pension Scheme (UPS) :",
+    "title": "Unified Pension Scheme (UPS)",
+    "summary": "Unified Pension Scheme (UPS) — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -30313,15 +30734,20 @@
         "sourceChecksum": "1862942d85b3c800d9e69a1db028223c7d9d920e13f42d8c8886cdb5445ea77a",
         "migrationTimestamp": "2026-08-15T12:14:01.509Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.387Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-26",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Pradhan Mantri Janjatiya Unnat Gram Abhiyan (PM-JUGA):",
-    "summary": "Schemes — Pradhan Mantri Janjatiya Unnat Gram Abhiyan (PM-JUGA):",
+    "title": "Pradhan Mantri Janjatiya Unnat Gram Abhiyan (PM-JUGA)",
+    "summary": "Pradhan Mantri Janjatiya Unnat Gram Abhiyan (PM-JUGA) — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -30343,15 +30769,20 @@
         "sourceChecksum": "922678b8da2324404adae805087603ed822b454dc50c99f0ba64e7b25e61e6fc",
         "migrationTimestamp": "2026-08-15T12:14:01.509Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.389Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-27",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Infrastructure Development:",
-    "summary": "Schemes — Infrastructure Development:",
+    "title": "[Sub-Component] Infrastructure Development:",
+    "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-26.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -30373,15 +30804,20 @@
         "sourceChecksum": "faa35df0aa70250ef4d736fa90a9166dada14218d2bccd5cf62e4c9617080088",
         "migrationTimestamp": "2026-08-15T12:14:01.509Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.390Z",
+      "contentStatus": "fragment_merged",
+      "mergedInto": "migrated-schemes-scheme-26",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-28",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Economic Empowerment:",
-    "summary": "Schemes — Economic Empowerment:",
+    "title": "[Sub-Component] Economic Empowerment:",
+    "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-26.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -30403,15 +30839,20 @@
         "sourceChecksum": "c17b3dac513aa59ddd42d775a04602d1ba45543831add1acfae305dce4d650e2",
         "migrationTimestamp": "2026-08-15T12:14:01.509Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.392Z",
+      "contentStatus": "fragment_merged",
+      "mergedInto": "migrated-schemes-scheme-26",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-29",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Education:",
-    "summary": "Schemes — Education:",
+    "title": "[Sub-Component] Education:",
+    "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-26.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -30433,7 +30874,12 @@
         "sourceChecksum": "41e931194740d20aa3196faa9aa3f9687506b8467dd3554f8a6c1761b77aed6b",
         "migrationTimestamp": "2026-08-15T12:14:01.509Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.393Z",
+      "contentStatus": "fragment_merged",
+      "mergedInto": "migrated-schemes-scheme-26",
+      "requiresHumanReview": false
     }
   },
   {
@@ -30441,7 +30887,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Pradhan Mantri Suraksha Bima Yojana (PMSBY):",
-    "summary": "Schemes — Pradhan Mantri Suraksha Bima Yojana (PMSBY):",
+    "summary": "Pradhan Mantri Suraksha Bima Yojana (PMSBY): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -30463,15 +30909,21 @@
         "sourceChecksum": "5f15952590b3f53e435280be3bfb34b0faf3eadfe67131f55708b2491cd9c90a",
         "migrationTimestamp": "2026-08-15T05:52:09.824Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.363Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-30",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Health & Nutrition:",
-    "summary": "Schemes — Health & Nutrition:",
+    "title": "Health & Nutrition",
+    "summary": "Health & Nutrition — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -30493,15 +30945,20 @@
         "sourceChecksum": "7491039d18e46882c240b9ccc8901a3c0ce4c900a39a98edbbd28cb3c2ceeecc",
         "migrationTimestamp": "2026-08-15T12:14:01.509Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.394Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-31",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Purvodaya:",
-    "summary": "Schemes — Purvodaya:",
+    "title": "Purvodaya",
+    "summary": "Purvodaya — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -30523,15 +30980,20 @@
         "sourceChecksum": "fedbfaa8d6c3a5f67fd5effbc506673008a30fe48f2780fc7126b1df8bf96b2c",
         "migrationTimestamp": "2026-08-15T12:14:01.509Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.396Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-32",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Higher Education Loan Scheme:",
-    "summary": "Schemes — Higher Education Loan Scheme:",
+    "title": "Higher Education Loan Scheme",
+    "summary": "Higher Education Loan Scheme — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -30553,15 +31015,20 @@
         "sourceChecksum": "0ce94c5803bfc39895c428afa3f146231313cdbfbcdc77d5957bc53d12b8d0eb",
         "migrationTimestamp": "2026-08-15T12:14:01.509Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.397Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-33",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Prime Minister’s Package:",
-    "summary": "Schemes — Prime Minister’s Package:",
+    "title": "Prime Minister’s Package",
+    "summary": "Prime Minister’s Package — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -30583,7 +31050,12 @@
         "sourceChecksum": "7dc4607026da81e3c60434a8f355d29f1eaed2a2d0b666570f9660c0e5effe45",
         "migrationTimestamp": "2026-08-15T12:14:01.509Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.398Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
@@ -30591,7 +31063,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Employment Linked Incentive Scheme",
-    "summary": "Schemes — Employment Linked Incentive Scheme",
+    "summary": "Employment Linked Incentive Scheme — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -30613,15 +31085,20 @@
         "sourceChecksum": "52fb534f297805934b1e020d089d11f1624fdc628f65a068d4a1d8b9cea2b234",
         "migrationTimestamp": "2026-08-15T12:14:01.51Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.400Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-35",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Credit guarantee scheme:",
-    "summary": "Schemes — Credit guarantee scheme:",
+    "title": "Credit guarantee scheme",
+    "summary": "Credit guarantee scheme — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -30643,7 +31120,12 @@
         "sourceChecksum": "e766756f62bdf9f04d96e97495c1bfbebe3dc5eaac960ead30168a7bb5a85b9b",
         "migrationTimestamp": "2026-08-15T12:14:01.51Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.401Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
@@ -30651,7 +31133,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Pradhan Mantri Fasal Bima Yojana (PMFBY):",
-    "summary": "Schemes — Pradhan Mantri Fasal Bima Yojana (PMFBY):",
+    "summary": "Pradhan Mantri Fasal Bima Yojana (PMFBY): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -30673,7 +31155,13 @@
         "sourceChecksum": "e9ddf217f1778e989068b94364bc568896328af3213982ad1f5d165809ed2aa0",
         "migrationTimestamp": "2026-08-15T12:14:01.51Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.402Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
@@ -30681,7 +31169,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Pradhan Mantri Kisan Samman Nidhi Scheme (PM-KISAN):",
-    "summary": "Schemes — Pradhan Mantri Kisan Samman Nidhi Scheme (PM-KISAN):",
+    "summary": "Pradhan Mantri Kisan Samman Nidhi Scheme (PM-KISAN): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -30703,7 +31191,13 @@
         "sourceChecksum": "6597393baf991b36d50a0187b30d5106ab504eee9bce07f069475d5d298c33bb",
         "migrationTimestamp": "2026-08-15T12:14:01.51Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.403Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
@@ -30711,7 +31205,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Pradhan Mantri Kisan SAMPADA Yojana (PMKSY):",
-    "summary": "Schemes — Pradhan Mantri Kisan SAMPADA Yojana (PMKSY):",
+    "summary": "Pradhan Mantri Kisan SAMPADA Yojana (PMKSY): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -30733,7 +31227,13 @@
         "sourceChecksum": "cb45004138e82a57663861204582f6bb7ca07ee4b0c25183cbfa09a7358e3364",
         "migrationTimestamp": "2026-08-15T12:14:01.51Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.404Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
@@ -30741,7 +31241,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Kisan Credit Card (KCC):",
-    "summary": "Schemes — Kisan Credit Card (KCC):",
+    "summary": "Kisan Credit Card (KCC): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -30763,15 +31263,21 @@
         "sourceChecksum": "1828fbb144f79d7123506e0d6d2324134e1abe132cf9d590ade94d14630d88a6",
         "migrationTimestamp": "2026-08-15T12:14:01.51Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.406Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-4",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "PAiSA Portal:",
-    "summary": "Schemes — PAiSA Portal:",
+    "title": "[Index Page Reference] PAiSA Portal:",
+    "summary": "Migration artifact: Table of contents index reference from original scheme document (Page index citation).",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -30793,15 +31299,20 @@
         "sourceChecksum": "6b4f0793a11ddfdf17b41e88c04e2858eaffea7a8060e220946e6d6b492c9025",
         "migrationTimestamp": "2026-08-15T05:52:09.824Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.364Z",
+      "contentStatus": "artifact_deprecated",
+      "isDeprecated": true,
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-40",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Pradhan Mantri Kisan Maandhan Yojana (PMKMY):",
-    "summary": "Schemes — Pradhan Mantri Kisan Maandhan Yojana (PMKMY):",
+    "title": "Pradhan Mantri Kisan Maandhan Yojana (PMKMY)",
+    "summary": "Pradhan Mantri Kisan Maandhan Yojana (PMKMY) — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -30823,7 +31334,12 @@
         "sourceChecksum": "57bd6be68ec459b462dabe0e0d7a2efaa2604cd0f9f826714ed077a74fefa0ac",
         "migrationTimestamp": "2026-08-15T12:14:01.51Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.407Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
@@ -30831,7 +31347,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "The Soil Health Card Scheme (SHC):",
-    "summary": "Schemes — The Soil Health Card Scheme (SHC):",
+    "summary": "The Soil Health Card Scheme (SHC): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -30853,15 +31369,21 @@
         "sourceChecksum": "2798f62b320a1b8e7e9bac57b7f192994ac5d349c68fb7641f38057d298e2060",
         "migrationTimestamp": "2026-08-15T12:14:01.51Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.409Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-42",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Operation Green:",
-    "summary": "Schemes — Operation Green:",
+    "title": "Operation Green",
+    "summary": "Operation Green — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -30883,7 +31405,12 @@
         "sourceChecksum": "a33e0b2fd3eb934944ebb37791c5dad2dcddb73c4801d2500757c844e5e0c40b",
         "migrationTimestamp": "2026-08-15T12:14:01.51Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.410Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
@@ -30891,7 +31418,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Subsidy Scheme for KCC Cardholders:",
-    "summary": "Schemes — Subsidy Scheme for KCC Cardholders:",
+    "summary": "Subsidy Scheme for KCC Cardholders: — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -30913,7 +31440,13 @@
         "sourceChecksum": "b91a8a7b4df14779b2c7d05a3b804d7190b36bccbe517de270a73b75d89cbdb0",
         "migrationTimestamp": "2026-08-15T12:14:01.51Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.411Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
@@ -30921,7 +31454,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "National Agriculture Market (e-NAM) :",
-    "summary": "Schemes — National Agriculture Market (e-NAM) :",
+    "summary": "National Agriculture Market (e-NAM) : — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -30943,7 +31476,13 @@
         "sourceChecksum": "52f75d73526c78ecbe9fcc27306ffcb3c6e3388685daf2ed635a36db0296348c",
         "migrationTimestamp": "2026-08-15T12:14:01.51Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.413Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
@@ -30951,7 +31490,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "PM-KUSUM Scheme (Pradhan Mantri Kisan Urja Suraksha evam Utthaan",
-    "summary": "Schemes — PM-KUSUM Scheme (Pradhan Mantri Kisan Urja Suraksha evam Utthaan",
+    "summary": "PM-KUSUM Scheme (Pradhan Mantri Kisan Urja Suraksha evam Utthaan — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -30973,7 +31512,13 @@
         "sourceChecksum": "094c2d77a8e45018cee34aa8f6b9d4d3840ca19565e544a97745091980568a0c",
         "migrationTimestamp": "2026-08-15T12:14:01.51Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.414Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
@@ -30981,7 +31526,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "The PM PRANAM Scheme (Promotion of Alternate Nutrients for Agriculture",
-    "summary": "Schemes — The PM PRANAM Scheme (Promotion of Alternate Nutrients for Agriculture",
+    "summary": "The PM PRANAM Scheme (Promotion of Alternate Nutrients for Agriculture — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31003,7 +31548,12 @@
         "sourceChecksum": "f0368b5edb7ed3c41d160ed71253e829f89c312aa749da278d98685fa6b2fbf2",
         "migrationTimestamp": "2026-08-15T12:14:01.51Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.415Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
@@ -31011,7 +31561,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Support Sustainable Farming: Enhance soil quality, reduce pollution, and boost long-term",
-    "summary": "Schemes — Support Sustainable Farming: Enhance soil quality, reduce pollution, and boost long-term",
+    "summary": "Support Sustainable Farming: Enhance soil quality, reduce pollution, and boost long-term — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31033,15 +31583,20 @@
         "sourceChecksum": "a5dc5c4ad022fc251653ab1b1a076019490e65834152fa2ba112784eeedab331",
         "migrationTimestamp": "2026-08-15T12:14:01.51Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.417Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-48",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Agriculture Infrastructure Fund (AIF):",
-    "summary": "Schemes — Agriculture Infrastructure Fund (AIF):",
+    "title": "Agriculture Infrastructure Fund (AIF)",
+    "summary": "Agriculture Infrastructure Fund (AIF) — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31063,15 +31618,20 @@
         "sourceChecksum": "9ae34d8cae266c0a8802c321e8728cf48575e376f6186a9566a68b7bbc09790b",
         "migrationTimestamp": "2026-08-15T12:14:01.51Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.418Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-49",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Nano Fertilizers: Revolutionizing Agriculture:",
-    "summary": "Schemes — Nano Fertilizers: Revolutionizing Agriculture:",
+    "title": "Nano Fertilizers: Revolutionizing Agriculture",
+    "summary": "Nano Fertilizers: Revolutionizing Agriculture — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31093,15 +31653,20 @@
         "sourceChecksum": "a19c216ae0c65440875089bdcf3288f2c41637929a611d79b8a8df4a31e3162e",
         "migrationTimestamp": "2026-08-15T12:14:01.51Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.419Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-5",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Pradhan Mantri Vaya Vandana Yojana (PMVVY):",
-    "summary": "Schemes — Pradhan Mantri Vaya Vandana Yojana (PMVVY):",
+    "title": "[Index Page Reference] Pradhan Mantri Vaya Vandana Yojana (PMVVY):",
+    "summary": "Migration artifact: Table of contents index reference from original scheme document (Page index citation).",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31123,7 +31688,12 @@
         "sourceChecksum": "a21495397f754d061f1af9f1eb12dbe624903bf543dec752fa7192d10c811db9",
         "migrationTimestamp": "2026-08-15T05:52:09.825Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.366Z",
+      "contentStatus": "artifact_deprecated",
+      "isDeprecated": true,
+      "requiresHumanReview": false
     }
   },
   {
@@ -31131,7 +31701,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Jal Jeevan Mission (JJM):",
-    "summary": "Schemes — Jal Jeevan Mission (JJM):",
+    "summary": "Jal Jeevan Mission (JJM): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31153,15 +31723,21 @@
         "sourceChecksum": "3c4ab992255ed0ee0f6e784efc5a5f8728ccc5a338ff7174cb35ce5dc743d896",
         "migrationTimestamp": "2026-08-15T12:14:01.51Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.420Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-51",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Atal Bhujal Yojana (ABY):",
-    "summary": "Schemes — Atal Bhujal Yojana (ABY):",
+    "title": "Atal Bhujal Yojana (ABY)",
+    "summary": "Atal Bhujal Yojana (ABY) — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31183,15 +31759,20 @@
         "sourceChecksum": "5c769128aa64ffbaa5059a84f28175693647e24966aa67937b8399197c67ed9c",
         "migrationTimestamp": "2026-08-15T12:14:01.51Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.421Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-52",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Mission Amrit Sarovar:",
-    "summary": "Schemes — Mission Amrit Sarovar:",
+    "title": "Mission Amrit Sarovar",
+    "summary": "Mission Amrit Sarovar — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31213,15 +31794,20 @@
         "sourceChecksum": "d8d5e4d84addd755952758044d8171d6d91c8d630050e6735fcd627585ba476b",
         "migrationTimestamp": "2026-08-15T12:14:01.51Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.423Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-53",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "The Green Hydrogen Mission:",
-    "summary": "Schemes — The Green Hydrogen Mission:",
+    "title": "The Green Hydrogen Mission",
+    "summary": "The Green Hydrogen Mission — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31243,15 +31829,20 @@
         "sourceChecksum": "beac3c91e6fe5fdd80fc28984b46b8679417a7fe2d1c10aac05e3e8257fc9e13",
         "migrationTimestamp": "2026-08-15T12:14:01.511Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.424Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-54",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "MAHIR: Mission on Advanced and High-Impact Research:",
-    "summary": "Schemes — MAHIR: Mission on Advanced and High-Impact Research:",
+    "title": "MAHIR: Mission on Advanced and High-Impact Research",
+    "summary": "MAHIR: Mission on Advanced and High-Impact Research — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31273,15 +31864,20 @@
         "sourceChecksum": "f5c66a1891ed6196bda9d5f90fe4fef651d35b86cfc50c9c623dde1d6fe8dee8",
         "migrationTimestamp": "2026-08-15T12:14:01.511Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.425Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-55",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Pradhan Mantri Sahaj Bijli Har Ghar Yojana – Saubhagya (2017):",
-    "summary": "Schemes — Pradhan Mantri Sahaj Bijli Har Ghar Yojana – Saubhagya (2017):",
+    "title": "Pradhan Mantri Sahaj Bijli Har Ghar Yojana – Saubhagya (2017)",
+    "summary": "Pradhan Mantri Sahaj Bijli Har Ghar Yojana – Saubhagya (2017) — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31303,7 +31899,12 @@
         "sourceChecksum": "42ab10fd1f537c0547d141ddf91106d1fdd4781ee5fa7a0cb5a0a704d9b9c7b1",
         "migrationTimestamp": "2026-08-15T12:14:01.511Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.427Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
@@ -31311,7 +31912,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Remote Areas: Free or subsidized solar connections for unelectrified households in remote",
-    "summary": "Schemes — Remote Areas: Free or subsidized solar connections for unelectrified households in remote",
+    "summary": "Remote Areas: Free or subsidized solar connections for unelectrified households in remote — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31333,7 +31934,12 @@
         "sourceChecksum": "04a7e6d64af51d224e25eee9c416724308d244e6f57bcbeabb38e7bdc4b03421",
         "migrationTimestamp": "2026-08-15T12:14:01.511Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.428Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
@@ -31341,7 +31947,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Pradhan Mantri Jan Dhan Yojana (PMJDY):",
-    "summary": "Schemes — Pradhan Mantri Jan Dhan Yojana (PMJDY):",
+    "summary": "Pradhan Mantri Jan Dhan Yojana (PMJDY): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31363,7 +31969,13 @@
         "sourceChecksum": "95a7f1a16bcfbdd7d197a8c4ddffac22a2cd796fe60933b16e56cdfd4df991c6",
         "migrationTimestamp": "2026-08-15T12:14:01.511Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.429Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
@@ -31371,7 +31983,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY):",
-    "summary": "Schemes — Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY):",
+    "summary": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31393,7 +32005,13 @@
         "sourceChecksum": "0dc3f817ae3f4bed169839a12c0a79a1d1bc4b424ec2044ec52beb20754b485a",
         "migrationTimestamp": "2026-08-15T12:14:01.511Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.432Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
@@ -31401,7 +32019,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Atal Pension Yojana (APY):",
-    "summary": "Schemes — Atal Pension Yojana (APY):",
+    "summary": "Atal Pension Yojana (APY): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31423,15 +32041,21 @@
         "sourceChecksum": "59fe69abd790d1f622d25df9ddf246414ae514f544f2cd4a3ecd02bc949f01ab",
         "migrationTimestamp": "2026-08-15T12:14:01.511Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.433Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-6",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Sickle Cell Anemia Eradication Mission (Budget 2023-24):",
-    "summary": "Schemes — Sickle Cell Anemia Eradication Mission (Budget 2023-24):",
+    "title": "[Index Page Reference] Sickle Cell Anemia Eradication Mission (Budget 2023-24):",
+    "summary": "Migration artifact: Table of contents index reference from original scheme document (Page index citation).",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31453,7 +32077,12 @@
         "sourceChecksum": "7b3fbf4e8d0fe390e81e8754608125d70071b222696193e76dbc6e44b04ed197",
         "migrationTimestamp": "2026-08-15T12:14:01.064Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.367Z",
+      "contentStatus": "artifact_deprecated",
+      "isDeprecated": true,
+      "requiresHumanReview": false
     }
   },
   {
@@ -31461,7 +32090,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Pradhan Mantri Suraksha Bima Yojana (PMSBY):",
-    "summary": "Schemes — Pradhan Mantri Suraksha Bima Yojana (PMSBY):",
+    "summary": "Pradhan Mantri Suraksha Bima Yojana (PMSBY): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31483,7 +32112,13 @@
         "sourceChecksum": "5827d1cd2dd17f8df400b4e5314747bbd1155d5922b0cb2f50eff2953ccf7183",
         "migrationTimestamp": "2026-08-15T12:14:01.511Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.434Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
@@ -31491,7 +32126,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Stand-Up India Scheme: ey Facts",
-    "summary": "Schemes — Stand-Up India Scheme: ey Facts",
+    "summary": "Stand-Up India Scheme: ey Facts — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31513,15 +32148,20 @@
         "sourceChecksum": "44106b78fab250e9fc400f2dfd99201608f613dd55b01cad3e837dc2c82d9a8a",
         "migrationTimestamp": "2026-08-15T12:14:01.511Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.435Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-62",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "MSME Competitive LEAN Scheme:",
-    "summary": "Schemes — MSME Competitive LEAN Scheme:",
+    "title": "MSME Competitive LEAN Scheme",
+    "summary": "MSME Competitive LEAN Scheme — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31543,15 +32183,20 @@
         "sourceChecksum": "358ab3fc947e11e2f1b1fe59581cd83208fb42c8efa66ff98af71114e27e87ab",
         "migrationTimestamp": "2026-08-15T12:14:01.511Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.436Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-63",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "RAMP Scheme (Raising and Accelerating MSME Performance):",
-    "summary": "Schemes — RAMP Scheme (Raising and Accelerating MSME Performance):",
+    "title": "RAMP Scheme (Raising and Accelerating MSME Performance)",
+    "summary": "RAMP Scheme (Raising and Accelerating MSME Performance) — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31573,15 +32218,20 @@
         "sourceChecksum": "599640f780e0fed83b116d8576290e14840e63db42ae9af38a3a7e4da3a3075f",
         "migrationTimestamp": "2026-08-15T12:14:01.511Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.437Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-64",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "MSME Portal:",
-    "summary": "Schemes — MSME Portal:",
+    "title": "MSME Portal",
+    "summary": "MSME Portal — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31603,15 +32253,20 @@
         "sourceChecksum": "a1e0ce205fead60702d132741eba893951bc13c3b4272c1e05807312e7ccd1ec",
         "migrationTimestamp": "2026-08-15T12:14:01.511Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.438Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-65",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Startup India Initiative:",
-    "summary": "Schemes — Startup India Initiative:",
+    "title": "Startup India Initiative",
+    "summary": "Startup India Initiative — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31633,15 +32288,20 @@
         "sourceChecksum": "59786138a0a44c8b8dc0db774c90ea8ec68a089d0918983f65baed9241eb4645",
         "migrationTimestamp": "2026-08-15T12:14:01.511Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.440Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-66",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Make in India:",
-    "summary": "Schemes — Make in India:",
+    "title": "Make in India",
+    "summary": "Make in India — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31663,15 +32323,20 @@
         "sourceChecksum": "4d7f2fbf6f446c052917fb3a6cf011b9fa5e764002c024dc1a9bb58b2e6597f3",
         "migrationTimestamp": "2026-08-15T12:14:01.511Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.441Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-67",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Production Linked Incentive (PLI) Scheme:",
-    "summary": "Schemes — Production Linked Incentive (PLI) Scheme:",
+    "title": "Production Linked Incentive (PLI) Scheme",
+    "summary": "Production Linked Incentive (PLI) Scheme — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31693,15 +32358,20 @@
         "sourceChecksum": "62e121da5af8a43e6d4759c463560e07917bb883ab169efc6faa6f30c30231b8",
         "migrationTimestamp": "2026-08-15T12:14:01.511Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.442Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-68",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Unity Mall Scheme:",
-    "summary": "Schemes — Unity Mall Scheme:",
+    "title": "Unity Mall Scheme",
+    "summary": "Unity Mall Scheme — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31723,15 +32393,20 @@
         "sourceChecksum": "ce3bd03e54473bd8e7da4eb2839b1db4cc365a92868b13a3c557af16fbc1ccec",
         "migrationTimestamp": "2026-08-15T12:14:01.511Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.444Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-69",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "FAME India Scheme:",
-    "summary": "Schemes — FAME India Scheme:",
+    "title": "FAME India Scheme",
+    "summary": "FAME India Scheme — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31753,7 +32428,12 @@
         "sourceChecksum": "75df8132dfb9fa2629b68da1106ab36a8e472e78a1b63772c18401e54ec001b1",
         "migrationTimestamp": "2026-08-15T12:14:01.511Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.445Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
@@ -31761,7 +32441,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "PMUY II (2021, Mahoba, UP)",
-    "summary": "Schemes — PMUY II (2021, Mahoba, UP)",
+    "summary": "PMUY II (2021, Mahoba, UP) — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31783,7 +32463,13 @@
         "sourceChecksum": "6e9cf1c5b4e8094a21de9577d368f52d0ac89d2f21a374ba3ee27e627e5b1b18",
         "migrationTimestamp": "2026-08-15T12:14:01.064Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.368Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
@@ -31791,7 +32477,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "FAME-II (2019-2024): ₹10,000 crore for EV subsidies and infrastructure.",
-    "summary": "Schemes — FAME-II (2019-2024): ₹10,000 crore for EV subsidies and infrastructure.",
+    "summary": "FAME-II (2019-2024): ₹10,000 crore for EV subsidies and infrastructure. — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31813,15 +32499,20 @@
         "sourceChecksum": "61c018e46137f89e5f17b2d7a261fcc02a67a738f1108b97b6fde1a549d5130d",
         "migrationTimestamp": "2026-08-15T12:14:01.511Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.446Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-71",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "PM MITRA Park Scheme:",
-    "summary": "Schemes — PM MITRA Park Scheme:",
+    "title": "PM MITRA Park Scheme",
+    "summary": "PM MITRA Park Scheme — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31843,7 +32534,12 @@
         "sourceChecksum": "15aed51ca9c525aaa7c5110f25317035b9bff2c22baa299788a66935cfa2ec28",
         "migrationTimestamp": "2026-08-15T12:14:01.511Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.447Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
@@ -31851,7 +32547,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Parks: 7 locations in Tamil Nadu, Telangana, Karnataka, Maharashtra, Gujarat, Madhya",
-    "summary": "Schemes — Parks: 7 locations in Tamil Nadu, Telangana, Karnataka, Maharashtra, Gujarat, Madhya",
+    "summary": "Parks: 7 locations in Tamil Nadu, Telangana, Karnataka, Maharashtra, Gujarat, Madhya — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31873,15 +32569,20 @@
         "sourceChecksum": "e6095e7e06f69b0c381b3252887be43f4e0c48ce8cb20eb8ac1eb67b9101417b",
         "migrationTimestamp": "2026-08-15T12:14:01.511Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.448Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-73",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Infrastructure: Integrated facilities for manufacturing, logistics, housing, and sustainability.",
-    "summary": "Schemes — Infrastructure: Integrated facilities for manufacturing, logistics, housing, and sustainability.",
+    "title": "[Index Page Reference] Infrastructure: Integrated facilities for manufacturing, logistics, housing, and sustainability.",
+    "summary": "Migration artifact: Table of contents index reference from original scheme document (Page index citation).",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31903,7 +32604,12 @@
         "sourceChecksum": "f1bd32576e92dac953d0fb74d58c2c1201a80c004a261435427f906b4398fbd7",
         "migrationTimestamp": "2026-08-15T12:14:01.511Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.449Z",
+      "contentStatus": "artifact_deprecated",
+      "isDeprecated": true,
+      "requiresHumanReview": false
     }
   },
   {
@@ -31911,7 +32617,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Pradhan Mantri Awas Yojana - Gramin (PMAY-G):",
-    "summary": "Schemes — Pradhan Mantri Awas Yojana - Gramin (PMAY-G):",
+    "summary": "Pradhan Mantri Awas Yojana - Gramin (PMAY-G): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31933,7 +32639,13 @@
         "sourceChecksum": "a814b0b35bf476d7a040907d160dc912ec87ff65f28844f9949622483a2f2f0e",
         "migrationTimestamp": "2026-08-15T12:14:01.511Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.450Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
@@ -31941,7 +32653,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Pradhan Mantri Gram Sadak Yojana (PMGSY):",
-    "summary": "Schemes — Pradhan Mantri Gram Sadak Yojana (PMGSY):",
+    "summary": "Pradhan Mantri Gram Sadak Yojana (PMGSY): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31963,15 +32675,21 @@
         "sourceChecksum": "c897d1fbfb91c58b75efc3008dc64287a00273b3d6be98fb2a63692448086c88",
         "migrationTimestamp": "2026-08-15T12:14:02.101Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.451Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-76",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "The Shyama Prasad Mukherjee Rurban Mission (SPMRM):",
-    "summary": "Schemes — The Shyama Prasad Mukherjee Rurban Mission (SPMRM):",
+    "title": "The Shyama Prasad Mukherjee Rurban Mission (SPMRM)",
+    "summary": "The Shyama Prasad Mukherjee Rurban Mission (SPMRM) — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -31993,7 +32711,12 @@
         "sourceChecksum": "1e1543af30363797ba63a52d009e24033152327b6edc09f8f29d849953350afe",
         "migrationTimestamp": "2026-08-15T12:14:02.102Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.453Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
@@ -32001,7 +32724,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "The Deendayal Antyodaya Yojana - National Rural Livelihoods Mission (DAY-NRLM):",
-    "summary": "Schemes — The Deendayal Antyodaya Yojana - National Rural Livelihoods Mission (DAY-NRLM):",
+    "summary": "The Deendayal Antyodaya Yojana - National Rural Livelihoods Mission (DAY-NRLM): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -32023,7 +32746,13 @@
         "sourceChecksum": "48fa46365c1f2b632587fd5eb22f3831ae1e532ed812763858150f17a9a3c3d4",
         "migrationTimestamp": "2026-08-15T12:14:02.102Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.454Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
@@ -32031,7 +32760,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Formation of SHGs for collective action.",
-    "summary": "Schemes — Formation of SHGs for collective action.",
+    "summary": "Formation of SHGs for collective action. — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -32053,15 +32782,20 @@
         "sourceChecksum": "f2b52a1ff4b6ae3bda0cc1def70b878329152fd665d20038e1dc9ede4ca7e742",
         "migrationTimestamp": "2026-08-15T12:14:02.102Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.455Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-79",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "The Sansad Adarsh Gram Yojana (SAGY):",
-    "summary": "Schemes — The Sansad Adarsh Gram Yojana (SAGY):",
+    "title": "The Sansad Adarsh Gram Yojana (SAGY)",
+    "summary": "The Sansad Adarsh Gram Yojana (SAGY) — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -32083,15 +32817,20 @@
         "sourceChecksum": "949cf2ce780d8ef5d71c7b88bd6ef5c1b43ac68a5136c51fbe7375d8affa42d4",
         "migrationTimestamp": "2026-08-15T12:14:02.102Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.456Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-8",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "\"One Scientist, One Product\" Scheme by ICAR:",
-    "summary": "Schemes — \"One Scientist, One Product\" Scheme by ICAR:",
+    "title": "\"One Scientist, One Product\" Scheme by ICAR",
+    "summary": "\"One Scientist, One Product\" Scheme by ICAR — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -32113,7 +32852,12 @@
         "sourceChecksum": "bc1d03c215615874d129475478698892cb330fcce7b2cbb9f0ed4c86bb1edfc5",
         "migrationTimestamp": "2026-08-15T12:14:01.064Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.369Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
@@ -32121,7 +32865,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Lakhpati Didi Scheme:",
-    "summary": "Schemes — Lakhpati Didi Scheme:",
+    "summary": "Lakhpati Didi Scheme: — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -32143,15 +32887,21 @@
         "sourceChecksum": "f3496112cc46a11e5427ae2d2c14421e8655306236c8493e921b4d2b61bff7a3",
         "migrationTimestamp": "2026-08-15T12:14:02.102Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.458Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-81",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Women Enterprise Acceleration Fund:",
-    "summary": "Schemes — Women Enterprise Acceleration Fund:",
+    "title": "Women Enterprise Acceleration Fund",
+    "summary": "Women Enterprise Acceleration Fund — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -32173,7 +32923,12 @@
         "sourceChecksum": "f4dfb210e390204e973a264b58e75ae7c62a906a2434c04bd12ae6b09b65f02a",
         "migrationTimestamp": "2026-08-15T12:14:02.102Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.459Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
@@ -32181,7 +32936,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Swachh Bharat Mission (Rural) - \"Ek Kadam Swachta Ki Aur\":",
-    "summary": "Schemes — Swachh Bharat Mission (Rural) - \"Ek Kadam Swachta Ki Aur\":",
+    "summary": "Swachh Bharat Mission (Rural) - \"Ek Kadam Swachta Ki Aur\": — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -32203,7 +32958,13 @@
         "sourceChecksum": "43dd04d0dacf52dfa7b367dc18103bb689c980f03a92b08dbbe3fe6248a3e3e1",
         "migrationTimestamp": "2026-08-15T12:14:02.102Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.461Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
@@ -32211,7 +32972,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Promote community participation and awareness.",
-    "summary": "Schemes — Promote community participation and awareness.",
+    "summary": "Promote community participation and awareness. — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -32233,7 +32994,12 @@
         "sourceChecksum": "44a1eda294074a9b23d48f1cc09dcb8a536f628799ab86105f110b6f63dcd589",
         "migrationTimestamp": "2026-08-15T12:14:02.102Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.462Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
@@ -32241,7 +33007,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "HRIDAY Scheme (Heritage City Development and Augmentation Yojana):",
-    "summary": "Schemes — HRIDAY Scheme (Heritage City Development and Augmentation Yojana):",
+    "summary": "HRIDAY Scheme (Heritage City Development and Augmentation Yojana): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -32263,7 +33029,13 @@
         "sourceChecksum": "5ac75353519804af5faa0e438008fdab7b7e454ee820df4b987ff14f26659c53",
         "migrationTimestamp": "2026-08-15T12:14:02.102Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.463Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
@@ -32271,7 +33043,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "AMRUT Mission (Atal Mission for Rejuvenation and Urban Transformation):",
-    "summary": "Schemes — AMRUT Mission (Atal Mission for Rejuvenation and Urban Transformation):",
+    "summary": "AMRUT Mission (Atal Mission for Rejuvenation and Urban Transformation): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -32293,15 +33065,21 @@
         "sourceChecksum": "a7be750b8e314083a488b7c50d62503d0e854d5b4d4a4d048b1fabbc496d7691",
         "migrationTimestamp": "2026-08-15T12:14:02.102Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.464Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-86",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "SVANidhi se Samriddhi:",
-    "summary": "Schemes — SVANidhi se Samriddhi:",
+    "title": "[Sub-Component] SVANidhi se Samriddhi:",
+    "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-85.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -32323,7 +33101,12 @@
         "sourceChecksum": "a4ca57154e6dc06c10f65359ffb2bf4487729f79d7493d09232d4ee22f7ae7d2",
         "migrationTimestamp": "2026-08-15T12:14:02.102Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.465Z",
+      "contentStatus": "fragment_merged",
+      "mergedInto": "migrated-schemes-scheme-85",
+      "requiresHumanReview": false
     }
   },
   {
@@ -32331,7 +33114,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "BOCW (Building & Other Construction Workers)– Welfare for construction workers.",
-    "summary": "Schemes — BOCW (Building & Other Construction Workers)– Welfare for construction workers.",
+    "summary": "BOCW (Building & Other Construction Workers)– Welfare for construction workers. — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -32353,7 +33136,12 @@
         "sourceChecksum": "6f34aa2fd642e8f5f1cfb6e62c239b4a55f902c44d09ced8d1b52ca17b862d59",
         "migrationTimestamp": "2026-08-15T12:14:02.102Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.467Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
@@ -32361,7 +33149,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Smart City Mission:",
-    "summary": "Schemes — Smart City Mission:",
+    "summary": "Smart City Mission: — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -32383,7 +33171,13 @@
         "sourceChecksum": "115639fa2ce88a27c579c53fded4ad614ec35f2d85e1dac1ab17b32aea09e119",
         "migrationTimestamp": "2026-08-15T12:14:02.102Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.468Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
@@ -32391,7 +33185,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Swachh Bharat Mission (Urban):",
-    "summary": "Schemes — Swachh Bharat Mission (Urban):",
+    "summary": "Swachh Bharat Mission (Urban): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -32413,15 +33207,21 @@
         "sourceChecksum": "963d6358c81f2e6ec40e728cb4abfbd84db468d0501363418a689c8704aea660",
         "migrationTimestamp": "2026-08-15T12:14:02.103Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.469Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-9",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Digital Agriculture Mission:",
-    "summary": "Schemes — Digital Agriculture Mission:",
+    "title": "Digital Agriculture Mission",
+    "summary": "Digital Agriculture Mission — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -32443,15 +33243,20 @@
         "sourceChecksum": "8f1cb33ab21eab0741465992a2103f6eb1d52ec65021b1de32084956028a193a",
         "migrationTimestamp": "2026-08-15T12:14:01.064Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.371Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-90",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Improving waste management.",
-    "summary": "Schemes — Improving waste management.",
+    "title": "[Sub-Component] Improving waste management.",
+    "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-89.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -32473,15 +33278,20 @@
         "sourceChecksum": "9be6b392f2782ecd786b2fa387cd007a246b3fa87ccbac6c12bfe4b44cbb581b",
         "migrationTimestamp": "2026-08-15T12:14:02.103Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.470Z",
+      "contentStatus": "fragment_merged",
+      "mergedInto": "migrated-schemes-scheme-89",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-91",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "NAMASTE Scheme (2022–2026):",
-    "summary": "Schemes — NAMASTE Scheme (2022–2026):",
+    "title": "NAMASTE Scheme (2022–2026)",
+    "summary": "NAMASTE Scheme (2022–2026) — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -32503,7 +33313,12 @@
         "sourceChecksum": "d17c013fbe180ce39c6e9041fc9a837190658e27c6820acb4e93b3142ba76512",
         "migrationTimestamp": "2026-08-15T12:14:02.103Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.471Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
@@ -32511,7 +33326,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Jal Jeevan Mission (Urban):",
-    "summary": "Schemes — Jal Jeevan Mission (Urban):",
+    "summary": "Jal Jeevan Mission (Urban): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -32533,15 +33348,21 @@
         "sourceChecksum": "cab2301e9fee53e1bddfd1d8adcfe8301465e94d3d52bd80f0ffbfa6dbac6ded",
         "migrationTimestamp": "2026-08-15T12:14:02.103Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.472Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-93",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Enable digital monitoring of water quality.",
-    "summary": "Schemes — Enable digital monitoring of water quality.",
+    "title": "[Sub-Component] Enable digital monitoring of water quality.",
+    "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-92.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -32563,15 +33384,20 @@
         "sourceChecksum": "494749a76e9195e06ebc065e623d0ab7ed94b881e1e5b4e5970d2f0f2933a0cf",
         "migrationTimestamp": "2026-08-15T12:14:02.103Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.474Z",
+      "contentStatus": "fragment_merged",
+      "mergedInto": "migrated-schemes-scheme-92",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-94",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "CITIIS 2.0 (City Investments to Innovate, Integrate, & Sustain):",
-    "summary": "Schemes — CITIIS 2.0 (City Investments to Innovate, Integrate, & Sustain):",
+    "title": "CITIIS 2.0 (City Investments to Innovate, Integrate, & Sustain)",
+    "summary": "CITIIS 2.0 (City Investments to Innovate, Integrate, & Sustain) — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -32593,15 +33419,20 @@
         "sourceChecksum": "17c6a0128b37984041fe837cc9f081ae3334c8e6a4b0f39c04c8059411f0fe37",
         "migrationTimestamp": "2026-08-15T12:14:02.103Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.476Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-95",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Expansion of Cities (sustainable urban growth)",
-    "summary": "Schemes — Expansion of Cities (sustainable urban growth)",
+    "title": "[Sub-Component] Expansion of Cities (sustainable urban growth)",
+    "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-94.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -32623,7 +33454,12 @@
         "sourceChecksum": "1ce6aec0ed8475e724d0a4fb11c15cf8168971ee3a18121ab0b1234663384746",
         "migrationTimestamp": "2026-08-15T12:14:02.103Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.477Z",
+      "contentStatus": "fragment_merged",
+      "mergedInto": "migrated-schemes-scheme-94",
+      "requiresHumanReview": false
     }
   },
   {
@@ -32631,7 +33467,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "Pradhan Mantri Awas Yojana (Urban):",
-    "summary": "Schemes — Pradhan Mantri Awas Yojana (Urban):",
+    "summary": "Pradhan Mantri Awas Yojana (Urban): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -32653,7 +33489,13 @@
         "sourceChecksum": "a14171ce55a2c166bdfa4882406716f27d8715931d18e40e418a136d3f2b6930",
         "migrationTimestamp": "2026-08-15T12:14:02.103Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.479Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
@@ -32661,7 +33503,7 @@
     "type": "ca_note",
     "domain": "schemes",
     "title": "DAY-NULM:",
-    "summary": "Schemes — DAY-NULM:",
+    "summary": "DAY-NULM: — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -32683,15 +33525,21 @@
         "sourceChecksum": "d6a48d89ea9c7f12be3a1d1d5545fe0df5a6d6fc01d98b9cba35fd7f29cf0be7",
         "migrationTimestamp": "2026-08-15T12:14:02.103Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.480Z",
+      "contentStatus": "superseded",
+      "supersededBy": "migrated-schemes-masterfile",
+      "targetMasterfileSection": "migrated-schemes-masterfile",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-98",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "PAiSA Portal:",
-    "summary": "Schemes — PAiSA Portal:",
+    "title": "PAiSA Portal",
+    "summary": "PAiSA Portal — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -32713,15 +33561,20 @@
         "sourceChecksum": "9bae89b9b3d9334d72869952a9c6208f547f0b656f2c6a25cdce60462f98e7ac",
         "migrationTimestamp": "2026-08-15T12:14:02.103Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.481Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-99",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "SHRESHTA Scheme: Empowering SC Students through Quality Education:",
-    "summary": "Schemes — SHRESHTA Scheme: Empowering SC Students through Quality Education:",
+    "title": "SHRESHTA Scheme: Empowering SC Students through Quality Education",
+    "summary": "SHRESHTA Scheme: Empowering SC Students through Quality Education — Government Scheme study notes covering operational framework and key exam parameters.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -32743,7 +33596,12 @@
         "sourceChecksum": "fc70b142e772429c6db3077e8aa5132734671952f63c305a4323b9242eaede84",
         "migrationTimestamp": "2026-08-15T12:14:02.103Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c10-batch",
+      "repairedTimestamp": "2026-08-18T13:49:10.482Z",
+      "contentStatus": "standalone_enriched",
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {

@@ -2,9 +2,14 @@
   "id": "migrated-schemes-scheme-93",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Enable digital monitoring of water quality.",
-  "summary": "Schemes — Enable digital monitoring of water quality.",
+  "title": "[Sub-Component] Enable digital monitoring of water quality.",
+  "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-92.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "🔗 Sub-Component Note",
+      "text": "This note represents a constituent sub-component of migrated-schemes-scheme-92. For the unified examination framework, refer to the parent master note."
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -47,6 +52,11 @@
       "sourceChecksum": "494749a76e9195e06ebc065e623d0ab7ed94b881e1e5b4e5970d2f0f2933a0cf",
       "migrationTimestamp": "2026-08-15T12:14:02.103Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.474Z",
+    "contentStatus": "fragment_merged",
+    "mergedInto": "migrated-schemes-scheme-92",
+    "requiresHumanReview": false
   }
 }

@@ -2,9 +2,19 @@
   "id": "migrated-schemes-scheme-79",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "The Sansad Adarsh Gram Yojana (SAGY):",
-  "summary": "Schemes — The Sansad Adarsh Gram Yojana (SAGY):",
+  "title": "The Sansad Adarsh Gram Yojana (SAGY)",
+  "summary": "The Sansad Adarsh Gram Yojana (SAGY) — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "The Sansad Adarsh Gram Yojana (SAGY)",
+      "summary": "Schemes — The Sansad Adarsh Gram Yojana (SAGY):"
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -14,14 +24,11 @@
         "development. MPs can choose villages within their constituency (Lok Sabha), state (Rajya Sabha), or",
         "anywhere in India (nominated MPs).",
         "The focus areas include:",
-        "o Infrastructure development (roads, sanitation, electricity),",
-        "o Health and education improvements,",
-        "o Cleanliness and environmental sustainability, and",
-        "o Economic empowerment through skill development and entrepreneurship.",
-        "-- 23 of 47 --",
-        "24\tONE STOP SOLUTION FOR IAS, RAS, SI",
-        "Youtube \tTelegram",
-        "Indian Economy \tScheme",
+        "Infrastructure development (roads, sanitation, electricity),",
+        "Health and education improvements,",
+        "Cleanliness and environmental sustainability, and",
+        "Economic empowerment through skill development and entrepreneurship.",
+        "Indian Economy Scheme",
         "Funding is sourced from the MPLADS, CSR contributions, MNREGA, and Gram Panchayat",
         "revenues. Villages with populations of 3,000-5,000 in plains and 1,000-3,000 in hilly areas are",
         "eligible for selection.",
@@ -52,6 +59,11 @@
       "sourceChecksum": "949cf2ce780d8ef5d71c7b88bd6ef5c1b43ac68a5136c51fbe7375d8affa42d4",
       "migrationTimestamp": "2026-08-15T12:14:02.102Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.456Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

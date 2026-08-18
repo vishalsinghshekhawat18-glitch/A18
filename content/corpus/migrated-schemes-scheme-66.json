@@ -2,29 +2,36 @@
   "id": "migrated-schemes-scheme-66",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Make in India:",
-  "summary": "Schemes — Make in India:",
+  "title": "Make in India",
+  "summary": "Make in India — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "Make in India",
+      "summary": "Schemes — Make in India:"
+    },
     {
       "type": "bullet_list",
       "items": [
         "(Launched on September 25, 2014) aims to transform India into a global manufacturing hub, driving",
         "economic growth and job creation.",
         "Key Highlights:",
-        "o Focus Areas: Initially 25 sectors, expanded to 27 under Make in India 2.0.",
-        "o Objectives:",
-        " Increase manufacturing’s share in GDP from 16% to 25% by 2022.",
-        " Create 10 crore jobs in manufacturing by 2022.",
-        " Establish Indian manufacturing as a global brand.",
-        " Ensure environmentally sustainable growth.",
+        "Focus Areas: Initially 25 sectors, expanded to 27 under Make in India 2.0.",
+        "Objectives:",
+        "Increase manufacturing’s share in GDP from 16% to 25% by 2022.",
+        "Create 10 crore jobs in manufacturing by 2022.",
+        "Establish Indian manufacturing as a global brand.",
+        "Ensure environmentally sustainable growth.",
         "Achievements:",
-        "o FDI Growth: Increased foreign investment in key sectors.",
-        "o Ease of Doing Business: Reforms in labor laws and infrastructure.",
-        "o Focus Sectors: Automobiles, defense, textiles, IT, electronics, and renewable energy.",
-        "-- 20 of 47 --",
-        "21\tONE STOP SOLUTION FOR IAS, RAS, SI",
-        "Youtube \tTelegram",
-        "Indian Economy \tScheme"
+        "FDI Growth: Increased foreign investment in key sectors.",
+        "Ease of Doing Business: Reforms in labor laws and infrastructure.",
+        "Focus Sectors: Automobiles, defense, textiles, IT, electronics, and renewable energy.",
+        "Indian Economy Scheme"
       ]
     }
   ],
@@ -49,6 +56,11 @@
       "sourceChecksum": "4d7f2fbf6f446c052917fb3a6cf011b9fa5e764002c024dc1a9bb58b2e6597f3",
       "migrationTimestamp": "2026-08-15T12:14:01.511Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.441Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

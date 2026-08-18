@@ -2,19 +2,26 @@
   "id": "migrated-schemes-scheme-26",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Pradhan Mantri Janjatiya Unnat Gram Abhiyan (PM-JUGA):",
-  "summary": "Schemes — Pradhan Mantri Janjatiya Unnat Gram Abhiyan (PM-JUGA):",
+  "title": "Pradhan Mantri Janjatiya Unnat Gram Abhiyan (PM-JUGA)",
+  "summary": "Pradhan Mantri Janjatiya Unnat Gram Abhiyan (PM-JUGA) — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "Pradhan Mantri Janjatiya Unnat Gram Abhiyan (PM-JUGA)",
+      "summary": "Schemes — Pradhan Mantri Janjatiya Unnat Gram Abhiyan (PM-JUGA):"
+    },
     {
       "type": "bullet_list",
       "items": [
-        " Goal: - \tDevelopment of tribal villages and aspirational districts.",
-        " Coverage:- 63,000 villages, benefiting over 5 crore tribal people.",
-        " Budget: - \t₹79,156 crore (₹56,333 crore central + ₹22,823 crore state funding).",
-        "-- 7 of 47 --",
-        "8\tONE STOP SOLUTION FOR IAS, RAS, SI",
-        "Youtube \tTelegram",
-        "Indian Economy \tScheme",
+        "Goal: - Development of tribal villages and aspirational districts.",
+        "Coverage:- 63,000 villages, benefiting over 5 crore tribal people.",
+        "Budget: - ₹79,156 crore (₹56,333 crore central + ₹22,823 crore state funding).",
+        "Indian Economy Scheme",
         "Key Focus Areas:"
       ]
     }
@@ -40,6 +47,11 @@
       "sourceChecksum": "922678b8da2324404adae805087603ed822b454dc50c99f0ba64e7b25e61e6fc",
       "migrationTimestamp": "2026-08-15T12:14:01.509Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.389Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

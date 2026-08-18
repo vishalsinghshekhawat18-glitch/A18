@@ -2,9 +2,14 @@
   "id": "migrated-schemes-scheme-158",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Energy: 24% (Power Generation, Renewable Energy)",
-  "summary": "Schemes — Energy: 24% (Power Generation, Renewable Energy)",
+  "title": "[Sub-Component] Energy: 24% (Power Generation, Renewable Energy)",
+  "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-157.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "🔗 Sub-Component Note",
+      "text": "This note represents a constituent sub-component of migrated-schemes-scheme-157. For the unified examination framework, refer to the parent master note."
+    },
     {
       "type": "paragraph",
       "content": " Objective:"
@@ -47,6 +52,11 @@
       "sourceChecksum": "8ae14716ada1faa9dd3b0065dacc2833225ed6e1be17e0c949bbddaefb18e5d9",
       "migrationTimestamp": "2026-08-15T12:14:02.681Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.545Z",
+    "contentStatus": "fragment_merged",
+    "mergedInto": "migrated-schemes-scheme-157",
+    "requiresHumanReview": false
   }
 }

@@ -2,15 +2,19 @@
   "id": "migrated-schemes-scheme-171",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "PMUY II (2021, Mahoba, UP)",
-  "summary": "Schemes — PMUY II (2021, Mahoba, UP)",
+  "title": "[Sub-Component] PMUY II (2021, Mahoba, UP)",
+  "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-170.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "🔗 Sub-Component Note",
+      "text": "This note represents a constituent sub-component of migrated-schemes-scheme-170. For the unified examination framework, refer to the parent master note."
+    },
     {
       "type": "bullet_list",
       "items": [
-        " Additional 2.3 crore connections for migrants with self-declaration for address.",
-        " Includes free first refill and stove.",
-        "-- 47 of 47 --"
+        "Additional 2.3 crore connections for migrants with self-declaration for address.",
+        "Includes free first refill and stove."
       ]
     }
   ],
@@ -35,6 +39,11 @@
       "sourceChecksum": "c3cf4fb2449b3eaf9a1a8a113b894f62f71ebcf708e9e888850308f903de1ae5",
       "migrationTimestamp": "2026-08-15T12:14:02.681Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.561Z",
+    "contentStatus": "fragment_merged",
+    "mergedInto": "migrated-schemes-scheme-170",
+    "requiresHumanReview": false
   }
 }

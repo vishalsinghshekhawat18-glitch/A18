@@ -3,20 +3,22 @@
   "type": "ca_note",
   "domain": "schemes",
   "title": "National Monetization Pipeline (NMP):",
-  "summary": "Schemes — National Monetization Pipeline (NMP):",
+  "summary": "National Monetization Pipeline (NMP): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "🏛️ Canonical Reference & Masterfile Integration",
+      "text": "This flagship scheme is comprehensively detailed in the Government Schemes Masterfile (Section: \"migrated-schemes-masterfile\"). Key highlights and parameters are summarized below."
+    },
     {
       "type": "bullet_list",
       "items": [
-        " Launch: 23 August 2021 by NITI Aayog.",
-        " Objective: Monetize ₹6 lakh crore worth of assets (2022–2025) to fund infrastructure, attract",
+        "Launch: 23 August 2021 by NITI Aayog.",
+        "Objective: Monetize ₹6 lakh crore worth of assets (2022–2025) to fund infrastructure, attract",
         "private investment, and create jobs.",
-        "-- 44 of 47 --",
-        "45\tONE STOP SOLUTION FOR IAS, RAS, SI",
-        "Youtube \tTelegram",
-        "Indian Economy \tScheme",
-        " Scope: Ownership remains with the government; operational rights leased to private entities.",
-        " Key Sectors (% of Target):"
+        "Indian Economy Scheme",
+        "Scope: Ownership remains with the government; operational rights leased to private entities.",
+        "Key Sectors (% of Target):"
       ]
     }
   ],
@@ -41,6 +43,12 @@
       "sourceChecksum": "78551bfeb6c9d1c18774f9e58c18e4c33b536a6dffb4c5b94af98f434e6a0f90",
       "migrationTimestamp": "2026-08-15T12:14:02.681Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.546Z",
+    "contentStatus": "superseded",
+    "supersededBy": "migrated-schemes-masterfile",
+    "targetMasterfileSection": "migrated-schemes-masterfile",
+    "requiresHumanReview": false
   }
 }

@@ -2,9 +2,19 @@
   "id": "migrated-schemes-scheme-25",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Unified Pension Scheme (UPS) :",
-  "summary": "Schemes — Unified Pension Scheme (UPS) :",
+  "title": "Unified Pension Scheme (UPS)",
+  "summary": "Unified Pension Scheme (UPS) — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "Unified Pension Scheme (UPS)",
+      "summary": "Schemes — Unified Pension Scheme (UPS) :"
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -45,6 +55,11 @@
       "sourceChecksum": "1862942d85b3c800d9e69a1db028223c7d9d920e13f42d8c8886cdb5445ea77a",
       "migrationTimestamp": "2026-08-15T12:14:01.509Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.387Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

@@ -2,9 +2,19 @@
   "id": "migrated-schemes-scheme-162",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Mission Karmayogi:",
-  "summary": "Schemes — Mission Karmayogi:",
+  "title": "Mission Karmayogi",
+  "summary": "Mission Karmayogi — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "Mission Karmayogi",
+      "summary": "Schemes — Mission Karmayogi:"
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -41,6 +51,11 @@
       "sourceChecksum": "41f3d8fae70db15cbd82830d3a9fc591ba5ece54fe8b00768db7280d32d4aeb6",
       "migrationTimestamp": "2026-08-15T12:14:02.681Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.551Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

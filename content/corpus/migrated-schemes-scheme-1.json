@@ -2,20 +2,18 @@
   "id": "migrated-schemes-scheme-1",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Credit guarantee scheme:",
-  "summary": "Schemes — Credit guarantee scheme:",
+  "title": "[Index Page Reference] Credit guarantee scheme:",
+  "summary": "Migration artifact: Table of contents index reference from original scheme document (Page index citation).",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Credit guarantee scheme:"
+      "type": "warning_banner",
+      "title": "📑 Migration Index Page (Non-Study Reference)",
+      "text": "This item corresponds to an index/table-of-contents marker in the legacy source document and contains no individual scheme guidelines."
     },
     {
-      "type": "paragraph",
-      "content": "AGRICULTURAL, RENEWABLE ENERGY AND WATER RESOURCES SCHEMES"
-    },
-    {
-      "type": "paragraph",
-      "content": "Page No. 9-17"
+      "type": "key_concept",
+      "title": "Index Reference Citation",
+      "summary": "AGRICULTURAL, RENEWABLE ENERGY AND WATER RESOURCES SCHEMES Page No. 9-17"
     }
   ],
   "metadata": {
@@ -39,6 +37,11 @@
       "sourceChecksum": "28ca0e2137748c321855898bee71779c4bcf30b6af2c9300d297b9b99de958b0",
       "migrationTimestamp": "2026-08-15T05:52:09.824Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.359Z",
+    "contentStatus": "artifact_deprecated",
+    "isDeprecated": true,
+    "requiresHumanReview": false
   }
 }

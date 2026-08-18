@@ -2,9 +2,19 @@
   "id": "migrated-schemes-scheme-167",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "PM-DevINE Scheme:",
-  "summary": "Schemes — PM-DevINE Scheme:",
+  "title": "PM-DevINE Scheme",
+  "summary": "PM-DevINE Scheme — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "PM-DevINE Scheme",
+      "summary": "Schemes — PM-DevINE Scheme:"
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -41,6 +51,11 @@
       "sourceChecksum": "fb6516385ba91e6840c73772229930671b69ed3ff69e0b9032c5689b86bf329b",
       "migrationTimestamp": "2026-08-15T12:14:02.681Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.556Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

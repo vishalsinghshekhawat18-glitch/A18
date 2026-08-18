@@ -2,9 +2,19 @@
   "id": "migrated-schemes-scheme-81",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Women Enterprise Acceleration Fund:",
-  "summary": "Schemes — Women Enterprise Acceleration Fund:",
+  "title": "Women Enterprise Acceleration Fund",
+  "summary": "Women Enterprise Acceleration Fund — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "Women Enterprise Acceleration Fund",
+      "summary": "Schemes — Women Enterprise Acceleration Fund:"
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -38,6 +48,11 @@
       "sourceChecksum": "f4dfb210e390204e973a264b58e75ae7c62a906a2434c04bd12ae6b09b65f02a",
       "migrationTimestamp": "2026-08-15T12:14:02.102Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.459Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

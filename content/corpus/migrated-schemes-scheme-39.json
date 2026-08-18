@@ -3,8 +3,13 @@
   "type": "ca_note",
   "domain": "schemes",
   "title": "Kisan Credit Card (KCC):",
-  "summary": "Schemes — Kisan Credit Card (KCC):",
+  "summary": "Kisan Credit Card (KCC): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "🏛️ Canonical Reference & Masterfile Integration",
+      "text": "This flagship scheme is comprehensively detailed in the Government Schemes Masterfile (Section: \"migrated-schemes-masterfile\"). Key highlights and parameters are summarized below."
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -41,6 +46,12 @@
       "sourceChecksum": "1828fbb144f79d7123506e0d6d2324134e1abe132cf9d590ade94d14630d88a6",
       "migrationTimestamp": "2026-08-15T12:14:01.51Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.406Z",
+    "contentStatus": "superseded",
+    "supersededBy": "migrated-schemes-masterfile",
+    "targetMasterfileSection": "migrated-schemes-masterfile",
+    "requiresHumanReview": false
   }
 }

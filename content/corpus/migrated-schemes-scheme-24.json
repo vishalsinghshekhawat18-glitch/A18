@@ -2,9 +2,19 @@
   "id": "migrated-schemes-scheme-24",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Deen Dayal SPARSH Yojana:",
-  "summary": "Schemes — Deen Dayal SPARSH Yojana:",
+  "title": "Deen Dayal SPARSH Yojana",
+  "summary": "Deen Dayal SPARSH Yojana — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "Deen Dayal SPARSH Yojana",
+      "summary": "Schemes — Deen Dayal SPARSH Yojana:"
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -43,6 +53,11 @@
       "sourceChecksum": "7b2b467edcadd45d7abad61a8cc7d4bed4291d86d421e4983752e380dec00605",
       "migrationTimestamp": "2026-08-15T12:14:01.065Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.386Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

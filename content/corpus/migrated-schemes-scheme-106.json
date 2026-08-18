@@ -2,9 +2,14 @@
   "id": "migrated-schemes-scheme-106",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Merit Improvement (Class 9-12):",
-  "summary": "Schemes — Merit Improvement (Class 9-12):",
+  "title": "[Sub-Component] Merit Improvement (Class 9-12):",
+  "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-100.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "🔗 Sub-Component Note",
+      "text": "This note represents a constituent sub-component of migrated-schemes-scheme-100. For the unified examination framework, refer to the parent master note."
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -35,6 +40,11 @@
       "sourceChecksum": "8a40978c66c8f56e0e85038d10080fe803276a2a10c625091b7af291df9431d1",
       "migrationTimestamp": "2026-08-15T12:14:02.104Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.488Z",
+    "contentStatus": "fragment_merged",
+    "mergedInto": "migrated-schemes-scheme-100",
+    "requiresHumanReview": false
   }
 }

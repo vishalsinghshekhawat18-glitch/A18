@@ -3,8 +3,13 @@
   "type": "ca_note",
   "domain": "schemes",
   "title": "DAY-NULM:",
-  "summary": "Schemes — DAY-NULM:",
+  "summary": "DAY-NULM: — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "🏛️ Canonical Reference & Masterfile Integration",
+      "text": "This flagship scheme is comprehensively detailed in the Government Schemes Masterfile (Section: \"migrated-schemes-masterfile\"). Key highlights and parameters are summarized below."
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -39,6 +44,12 @@
       "sourceChecksum": "d6a48d89ea9c7f12be3a1d1d5545fe0df5a6d6fc01d98b9cba35fd7f29cf0be7",
       "migrationTimestamp": "2026-08-15T12:14:02.103Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.480Z",
+    "contentStatus": "superseded",
+    "supersededBy": "migrated-schemes-masterfile",
+    "targetMasterfileSection": "migrated-schemes-masterfile",
+    "requiresHumanReview": false
   }
 }

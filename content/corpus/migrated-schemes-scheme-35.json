@@ -2,9 +2,19 @@
   "id": "migrated-schemes-scheme-35",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Credit guarantee scheme:",
-  "summary": "Schemes — Credit guarantee scheme:",
+  "title": "Credit guarantee scheme",
+  "summary": "Credit guarantee scheme — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "Credit guarantee scheme",
+      "summary": "Schemes — Credit guarantee scheme:"
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -41,6 +51,11 @@
       "sourceChecksum": "e766756f62bdf9f04d96e97495c1bfbebe3dc5eaac960ead30168a7bb5a85b9b",
       "migrationTimestamp": "2026-08-15T12:14:01.51Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.401Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

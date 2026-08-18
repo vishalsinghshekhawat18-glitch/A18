@@ -2,9 +2,19 @@
   "id": "migrated-schemes-scheme-32",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Higher Education Loan Scheme:",
-  "summary": "Schemes — Higher Education Loan Scheme:",
+  "title": "Higher Education Loan Scheme",
+  "summary": "Higher Education Loan Scheme — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "Higher Education Loan Scheme",
+      "summary": "Schemes — Higher Education Loan Scheme:"
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -13,10 +23,7 @@
         "both domestic and international studies. Eligibility includes Indian nationals with admission to",
         "recognized institutions. Required documents include proof of admission, KYC, and income details.",
         "The scheme also offers grace periods and financial relief for unemployed graduates.",
-        "-- 8 of 47 --",
-        "9\tONE STOP SOLUTION FOR IAS, RAS, SI",
-        "Youtube \tTelegram",
-        "Indian Economy \tScheme"
+        "Indian Economy Scheme"
       ]
     }
   ],
@@ -41,6 +48,11 @@
       "sourceChecksum": "0ce94c5803bfc39895c428afa3f146231313cdbfbcdc77d5957bc53d12b8d0eb",
       "migrationTimestamp": "2026-08-15T12:14:01.509Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.397Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

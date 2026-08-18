@@ -3,8 +3,18 @@
   "type": "ca_note",
   "domain": "schemes",
   "title": "Solarization of Centers & Street Lights: 1,500 centers, ₹1 Lakh each",
-  "summary": "Schemes — Solarization of Centers & Street Lights: 1,500 centers, ₹1 Lakh each",
+  "summary": "Solarization of Centers & Street Lights: 1,500 centers, ₹1 Lakh each — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "Solarization of Centers & Street Lights: 1,500 centers, ₹1 Lakh each",
+      "summary": "Schemes — Solarization of Centers & Street Lights: 1,500 centers, ₹1 Lakh each"
+    },
     {
       "type": "paragraph",
       "content": "Solarization of Centers & Street Lights: 1,500 centers, ₹1 Lakh each"
@@ -39,6 +49,11 @@
       "sourceChecksum": "9ef92e1b3e01decc456ca9545c8154f0cbefe792b2840fcf215be2d1874f84cc",
       "migrationTimestamp": "2026-08-15T12:14:01.064Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.372Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

@@ -2,9 +2,19 @@
   "id": "migrated-schemes-scheme-33",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Prime Minister’s Package:",
-  "summary": "Schemes — Prime Minister’s Package:",
+  "title": "Prime Minister’s Package",
+  "summary": "Prime Minister’s Package — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "Prime Minister’s Package",
+      "summary": "Schemes — Prime Minister’s Package:"
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -35,6 +45,11 @@
       "sourceChecksum": "7dc4607026da81e3c60434a8f355d29f1eaed2a2d0b666570f9660c0e5effe45",
       "migrationTimestamp": "2026-08-15T12:14:01.509Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.398Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

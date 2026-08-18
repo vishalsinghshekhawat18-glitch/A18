@@ -2,9 +2,19 @@
   "id": "migrated-schemes-scheme-62",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "MSME Competitive LEAN Scheme:",
-  "summary": "Schemes — MSME Competitive LEAN Scheme:",
+  "title": "MSME Competitive LEAN Scheme",
+  "summary": "MSME Competitive LEAN Scheme — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "MSME Competitive LEAN Scheme",
+      "summary": "Schemes — MSME Competitive LEAN Scheme:"
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -41,6 +51,11 @@
       "sourceChecksum": "358ab3fc947e11e2f1b1fe59581cd83208fb42c8efa66ff98af71114e27e87ab",
       "migrationTimestamp": "2026-08-15T12:14:01.511Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.436Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

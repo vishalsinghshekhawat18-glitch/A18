@@ -2,9 +2,19 @@
   "id": "migrated-schemes-scheme-152",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Shree Anna Yojana:",
-  "summary": "Schemes — Shree Anna Yojana:",
+  "title": "Shree Anna Yojana",
+  "summary": "Shree Anna Yojana — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "Shree Anna Yojana",
+      "summary": "Schemes — Shree Anna Yojana:"
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -35,6 +45,11 @@
       "sourceChecksum": "65d4c2b3ca95824a6d19e488bae5857d31d6c8f0b1deb6c3c9448f268ff16a48",
       "migrationTimestamp": "2026-08-15T12:14:02.681Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.538Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

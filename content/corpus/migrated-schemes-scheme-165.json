@@ -2,9 +2,14 @@
   "id": "migrated-schemes-scheme-165",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Economic Growth: Tourism, skill development, cultural promotion.",
-  "summary": "Schemes — Economic Growth: Tourism, skill development, cultural promotion.",
+  "title": "[Sub-Component] Economic Growth: Tourism, skill development, cultural promotion.",
+  "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-163.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "🔗 Sub-Component Note",
+      "text": "This note represents a constituent sub-component of migrated-schemes-scheme-163. For the unified examination framework, refer to the parent master note."
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -36,6 +41,11 @@
       "sourceChecksum": "922ee3f91536af44cb040db9ec29b8b1d9cca75b58ee35d7c6a18b21c7cac8bf",
       "migrationTimestamp": "2026-08-15T12:14:02.681Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.554Z",
+    "contentStatus": "fragment_merged",
+    "mergedInto": "migrated-schemes-scheme-163",
+    "requiresHumanReview": false
   }
 }

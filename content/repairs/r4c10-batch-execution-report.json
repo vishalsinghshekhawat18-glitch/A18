@@ -1,0 +1,1333 @@
+{
+  "version": "1.0.0-r4c10-batch-execution",
+  "executedAt": "2026-08-18T13:49:10.824Z",
+  "referenceDate": "2026-08-18",
+  "totalCandidatesProcessed": 161,
+  "summary": {
+    "totalProcessed": 161,
+    "superseded": 53,
+    "merged": 24,
+    "discardedArtifacts": 6,
+    "enrichedStandalone": 78,
+    "quarantined": 0,
+    "previouslyPromoted": 10
+  },
+  "batches": [
+    {
+      "batchNumber": 1,
+      "batchName": "Batch 1 (schemes 1-45)",
+      "processedCount": 43,
+      "transformations": [
+        {
+          "itemId": "migrated-schemes-scheme-1",
+          "title": "[Index Page Reference] Credit guarantee scheme:",
+          "action": "discard_artifact",
+          "reason": "Migration table of contents / OCR header artifact; cleanly deprecated with routing preserved.",
+          "originalSha256": "852377f2f7e38f0ff687341400a7bda54e7efae87246ce75cb022a2c4c852267",
+          "promotedSha256": "ad67d0593b3b13dba6a9c8648181a64a8b525981301f8f219df9dc1f36c1fc5b"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-2",
+          "title": "[Index Page Reference] Atal Pension Yojana (APY):",
+          "action": "discard_artifact",
+          "reason": "Migration table of contents / OCR header artifact; cleanly deprecated with routing preserved.",
+          "originalSha256": "1dd401776c602aea41ed0034f0aa781ff3cdcc7d1f33ed615fcce66f50961419",
+          "promotedSha256": "13c4a84179b6ebc4815f8f76325e0613adf49bb8bb33e7e8c39e9497e0af1ad1"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-3",
+          "title": "Pradhan Mantri Suraksha Bima Yojana (PMSBY):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "027823dd1c89fb02ead18f276c59f6b7ffff99ad3a3eec67fadc04640a931220",
+          "promotedSha256": "732852781a714d4f35a4b474927ccc6a1b4bfeceb5d33bd548d090e629d7c0b0"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-4",
+          "title": "[Index Page Reference] PAiSA Portal:",
+          "action": "discard_artifact",
+          "reason": "Migration table of contents / OCR header artifact; cleanly deprecated with routing preserved.",
+          "originalSha256": "72f7c6be1d17d6435bd2d51da3b8e0e5b025c0056218767b6869ed1c5f30621e",
+          "promotedSha256": "51c052fb76df19269bbafe89371debe85e6ee2dc100706dc4233573a08dfa0e3"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-5",
+          "title": "[Index Page Reference] Pradhan Mantri Vaya Vandana Yojana (PMVVY):",
+          "action": "discard_artifact",
+          "reason": "Migration table of contents / OCR header artifact; cleanly deprecated with routing preserved.",
+          "originalSha256": "8b3bfb46ecc635a26e38fb147b227ed666db11d5a7e05e977118a2c2e3132ec2",
+          "promotedSha256": "ce102fb0d649695fd5c4c1716831a7cd8e768335700570c2305ffd9e3ed06ec0"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-6",
+          "title": "[Index Page Reference] Sickle Cell Anemia Eradication Mission (Budget 2023-24):",
+          "action": "discard_artifact",
+          "reason": "Migration table of contents / OCR header artifact; cleanly deprecated with routing preserved.",
+          "originalSha256": "15a593f7f1a19133521383755d48c984e085f820a0f4659d59545042b2a6a58d",
+          "promotedSha256": "873887e656f521914aa1533432cc442c741d5ec90d731db0cc46bb023ff80cd8"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-7",
+          "title": "PMUY II (2021, Mahoba, UP)",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "dcaf3b58ab29c31dae4c71c157e1eeb92c67fa7b41d5997aa2616cfe1145797a",
+          "promotedSha256": "86ec5b42d9c31bb4a7c627b33f165d77ab9df49b35328d5fb939c9fe052184c6"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-8",
+          "title": "\"One Scientist, One Product\" Scheme by ICAR",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "0b1a1822472e83a8de561baef688429a6f1fa93b015e468d4b022cd6cd9298e7",
+          "promotedSha256": "b46e452b70b35e71431de83bf8b49a33d15e41a8f3995b592252e8b3d0108831"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-9",
+          "title": "Digital Agriculture Mission",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "09747f29a9f4fc8463d69bec44b8adf83044b142eca0a5ce7ced42d16af5a8ee",
+          "promotedSha256": "73c0a03aca79469ba6f80686f4835461667fc80ea185500c452e35103b317e57"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-12",
+          "title": "Solarization of Centers & Street Lights: 1,500 centers, ₹1 Lakh each",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "714518a4a03a9cd22604c1a528673329583b1e6e2eccb776ed51685cccfd5060",
+          "promotedSha256": "28768f96a65e07502487189a8940dcc03ab962529a73141291babd3236a72e4d"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-13",
+          "title": "[Sub-Component] Launch & Approval:",
+          "action": "merge",
+          "reason": "Structural sub-component fragment belonging to parent scheme migrated-schemes-scheme-12.",
+          "originalSha256": "b086dbe8929ced4f84b439ac3cb4cab0123051da2dcbd531fe228c7ad9d79c23",
+          "promotedSha256": "74ae520da2570cbc1fc13183de60bd7f3ba23b48de1278ba22f51619f0c468b9"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-14",
+          "title": "[Sub-Component] Key Objectives:",
+          "action": "merge",
+          "reason": "Structural sub-component fragment belonging to parent scheme migrated-schemes-scheme-12.",
+          "originalSha256": "c90ad9d347d86f2f7cc153cea6cdd503325fa4ef5d344b3956fc73766e942c8b",
+          "promotedSha256": "54e6e79bf058254d7fa106f13226d71de6542997224956359745e98915f84d87"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-15",
+          "title": "Financials",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "71db1fe813277ac8a7af245375642b63b0bc8912d9fa15e49bc81d662fb91106",
+          "promotedSha256": "86b5fd969bcdc3c6834ce831dfb799b150a9f161ba15180d060a542739479523"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-16",
+          "title": "Subsidy Structure for Solar Plant Installation",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "b5aa1e03c4a6b39eedd1a50cbf01f810fbb33b6d1d2792ced6fb4942c6d29049",
+          "promotedSha256": "2c4a3da22587e4205799844e139f695df15f41586f5a847b87023f06f28a4ff8"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-17",
+          "title": "[Sub-Component] Special Focus:",
+          "action": "merge",
+          "reason": "Structural sub-component fragment belonging to parent scheme migrated-schemes-scheme-12.",
+          "originalSha256": "53dab081d7b3af5bf9cc6ca7022e5411cca26514b517cfcbb013493906579ba2",
+          "promotedSha256": "c6ee80762d725fe91abd352219f67ebc9468b50d7926c183d47deeefec08db7f"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-18",
+          "title": "PM-SURAJ Portal",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "69c14e3636b17f7c97aec3ecbaf43e81413f9aeba8eb0e11259c91d0b2732983",
+          "promotedSha256": "48eb1fe6998c4b0f12c0740bf421d1e741cd34a8eb44fb9bf7d142b58448073b"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-19",
+          "title": "UNNATI Scheme",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "f32b6b12cb44606ae7b46c6cf08abef4901501c6f6a2badaac5afe48578b8e02",
+          "promotedSha256": "dadcdca7f7c79eb2e866f49f3fd6fbd332f9d96421121bce2755a14d9c70d4b6"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-20",
+          "title": "Vigyan Dhara Scheme",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "da7923f8a6b08705f5e1b929cdcf8d9c34ea4bb74c894446ef22790e39acf0a6",
+          "promotedSha256": "0d4adbd9fdaae3934c1751ef47ca036a5cf57440c6b510813fcb2d374cf40b5d"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-21",
+          "title": "SPICED Scheme",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "91ee341eadf7fcf35c6eca6ce022f542c07af2971760480155282fd2b284b7ed",
+          "promotedSha256": "8f43dc8197591162cb534cbd67535148a0d4a814e75fba3727d5b00baa50a420"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-22",
+          "title": "Spice Incubation Centres: Encourage spice-related startups with technical and infrastructural",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "e9a7703a085968acde3133a95f3591e9fddc5dee48a9ef9a3e65fb7ea3615adf",
+          "promotedSha256": "d77dd2d3d71623667c482da97ce37989e81666d89b0b3a60d9d396880ea89fe6"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-23",
+          "title": "RESET Program",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "78305dbede023db2118f3835c34f4dce78ebd6439f3c9454e4fddb50e89b5899",
+          "promotedSha256": "a794e1657befa92b695f977915ce49e779dc3663aa56459ec5099ec71666a96b"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-24",
+          "title": "Deen Dayal SPARSH Yojana",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "f8bedd27d93a3262a58b0471da5e11bfc0267096c186f93699e31f6bba7020f7",
+          "promotedSha256": "c26652a0ce090872d8d27f9183de06b819284a9a97764d976366cde7df3f19ad"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-25",
+          "title": "Unified Pension Scheme (UPS)",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "3fcabe0a56afeca9210ac0ce41dbf2dc7b1e9dc1700675962d74981dc25bfb0f",
+          "promotedSha256": "994915bcfebbedffc08a7be8bc15bdbf01c6620686f3ff489e3131f009fe6a49"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-26",
+          "title": "Pradhan Mantri Janjatiya Unnat Gram Abhiyan (PM-JUGA)",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "e4e0faa413ee1dfdb352f0d0240b0b2390d557fb372b5de8f17b98596d98a309",
+          "promotedSha256": "1ba8baf43ccfe24a6908bcb20d3a0c75db98a41ba8a2a6689fbe88c1cbf67329"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-27",
+          "title": "[Sub-Component] Infrastructure Development:",
+          "action": "merge",
+          "reason": "Structural sub-component fragment belonging to parent scheme migrated-schemes-scheme-26.",
+          "originalSha256": "5f573e7b0b51f9ea3b1ae6a8e584ffa0c71d1cc296057e9e83417889c1dd0dd0",
+          "promotedSha256": "1fb517effd2e03a590f4be1dd46398252ab05594a0ec521f8860dbbf09c05f4f"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-28",
+          "title": "[Sub-Component] Economic Empowerment:",
+          "action": "merge",
+          "reason": "Structural sub-component fragment belonging to parent scheme migrated-schemes-scheme-26.",
+          "originalSha256": "faaf75c9b9583058d15cd8e717822d1fd8737714196804c21adc5135c68d2ce4",
+          "promotedSha256": "c85c114c5a1e915adce03ba9b27e3d1095e8e20a0925c81a756564910613c316"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-29",
+          "title": "[Sub-Component] Education:",
+          "action": "merge",
+          "reason": "Structural sub-component fragment belonging to parent scheme migrated-schemes-scheme-26.",
+          "originalSha256": "cd4b103ddff573954f87aa890c4d8b5d6441da8abce6b369da4f8446a79255eb",
+          "promotedSha256": "827fadb00b8f4fcc33b293d6f2b6b7d25c666f7197961e2891c0e6ddbdb58c40"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-30",
+          "title": "Health & Nutrition",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "8ca82e4384e4d92a5a9414165c2a082f1e3ad467070d0adb0a6e431ff97772c5",
+          "promotedSha256": "c46d318f07ccbe81a662cd2fce552f6eefcc4eb95622b3d79b1fc852f135274a"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-31",
+          "title": "Purvodaya",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "8059a24f5f4b76bf868722ece5627a987e1163ff330dbe264146c65e2955b3b8",
+          "promotedSha256": "e093c3848b9a1b2c9ddc972953353195d4e515fb344f74f54c93dc56b4ed477e"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-32",
+          "title": "Higher Education Loan Scheme",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "6dc2909b52d7589da9dbe03eb27b07bf766ea4458280ca86fa37531c1d0751ff",
+          "promotedSha256": "6339dde4becad520b99c72b8f4bfd22f01f9137ae875747628d046edf6f620af"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-33",
+          "title": "Prime Minister’s Package",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "8885696d5115d992746e79ae89d8f0d87e8045c8c5fee345d5bef80cccdf8f0a",
+          "promotedSha256": "ccf3d1d4e158442f685b603a884d7f461853911c8b14911eecc4163280c6b027"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-34",
+          "title": "Employment Linked Incentive Scheme",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "4d69edacbf31ef73883d4697d9060481f1633c61343472c5b316ca936cae217e",
+          "promotedSha256": "4c2b12bafcf54129ef42a465220c1e5bafe15b438a040105ef9f8e2960b27bc2"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-35",
+          "title": "Credit guarantee scheme",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "5645a7999097fa8617e164d62f2fcf37951fc16f9b4b657a7e59933ea5a42f3f",
+          "promotedSha256": "1958d8862acc5af35b2da5bc10c783bfeb337f64ee0a5f5b5771a97c61080ef2"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-36",
+          "title": "Pradhan Mantri Fasal Bima Yojana (PMFBY):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "ba40f31a6d2ae395aa85df0ae2d79f7ef425f66233576faf18df2cb6acf6e536",
+          "promotedSha256": "27839c211a132a8c23f9167cb24fb924783a4562a6dda0cae442915827a44ea5"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-37",
+          "title": "Pradhan Mantri Kisan Samman Nidhi Scheme (PM-KISAN):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "80e84b8d162a309d57537aab93e368f4d06f90811ae8880f08aaefd58ad4eba9",
+          "promotedSha256": "a22438a4f979c31d238ec3e07aecc4084db606ccc4d4a4caa87598d44a191932"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-38",
+          "title": "Pradhan Mantri Kisan SAMPADA Yojana (PMKSY):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "6a413c2d5e047eae2fa99310835cc88cdc64c1a46dfeb9bb4176ee8c69efda46",
+          "promotedSha256": "31142990e3da5f30947aea1ba474ed72366cf7f4879cd7f0fa1ab7e271b8202d"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-39",
+          "title": "Kisan Credit Card (KCC):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "51847ccadde8948202cd059efb3e36582fba093cc89964a3c05a69bacbdb28cb",
+          "promotedSha256": "4adf94396ee0cb11e813195e1151fe310aff7a87399135dcd0a472c17dcca520"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-40",
+          "title": "Pradhan Mantri Kisan Maandhan Yojana (PMKMY)",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "f4d44b86bf6e749735acefe2a49d377239c3afe5760ac0b064a78d48255b290c",
+          "promotedSha256": "6e14d27472373057c43ec593ce24e72d492a4f23e8f0901cc44bf290e15a2018"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-41",
+          "title": "The Soil Health Card Scheme (SHC):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "849739f50332f42d012f656b22f310dcf5177efe9c4f63499b7f53c31c4b309e",
+          "promotedSha256": "a13ac55b9eb087233b7fd49017b7eb70a91a5188c3fec87b5eddf7de1a56ee01"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-42",
+          "title": "Operation Green",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "06c0fd40fc05b16a386da08abf62a772b4a5b22dd24bc7ecd5f3f76f5d69a64b",
+          "promotedSha256": "21f6ef9d7505a18b41cdfaaa9aca7990006e66602da1f2ae6012e7b50122a1cc"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-43",
+          "title": "Subsidy Scheme for KCC Cardholders:",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "92bf00a9a5cf1624ce304e4d19da96df685479133b2a3399f8079377d925814a",
+          "promotedSha256": "c114cdbefe2f4f9c9ba9cb09ec6d1ed37ad4e25fc3b34d6202097e3109f80008"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-44",
+          "title": "National Agriculture Market (e-NAM) :",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "36bbef3edf1b9e288bf2065aad6f0e5cd719783cd208c5a357e2c535c0f2c31d",
+          "promotedSha256": "dcbd3be8733a9ae9ae9a3aa105564007ddb421006620c1eaba915162ad6e9513"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-45",
+          "title": "PM-KUSUM Scheme (Pradhan Mantri Kisan Urja Suraksha evam Utthaan",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "270ebbc31df62be57da360933d74c225bc2d5c99aed35ec03298e488099302ef",
+          "promotedSha256": "6d09be06053d0421307091178d436aad8fc41ae91de75b762ad3ee6d7cb322a4"
+        }
+      ]
+    },
+    {
+      "batchNumber": 2,
+      "batchName": "Batch 2 (schemes 46-85)",
+      "processedCount": 40,
+      "transformations": [
+        {
+          "itemId": "migrated-schemes-scheme-46",
+          "title": "The PM PRANAM Scheme (Promotion of Alternate Nutrients for Agriculture",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "939a80f76e34ab496ddf4e6841ea85f5793d096467ddec4ae47a40b0b9f7222a",
+          "promotedSha256": "a849ff85205d80b97ed445772742b560281827a1beb8357164d59e5fe9773b0b"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-47",
+          "title": "Support Sustainable Farming: Enhance soil quality, reduce pollution, and boost long-term",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "e9561db6239a6ad5c226b864d3c1bd337fd9f129a0fac839a3744ec11dd16feb",
+          "promotedSha256": "cd5169b084ef204a4d8e43c415f7bd4f18d92c7d1d208706fbf54b85bb0dcfe7"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-48",
+          "title": "Agriculture Infrastructure Fund (AIF)",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "126f7909714f04f1879dd78811e4a9aaebe018b26e48c5dabd40d01f3ad5421c",
+          "promotedSha256": "303c060bd09509c4fc3343b353c7438cd6817569f2891cc7560422cfa38c3758"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-49",
+          "title": "Nano Fertilizers: Revolutionizing Agriculture",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "c86699d2c3ddc895708db00c1ea1ed59766e3d2955fac2ea1ec2e1603e670d8b",
+          "promotedSha256": "6d810172216cd4f4f038d37e97fbec6ac3e7b2586a58c1bb83af5829eb4696d3"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-50",
+          "title": "Jal Jeevan Mission (JJM):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "2b5a787e52f77ba83e4e7fbd49c5d85469844be3ace52875fd5cdca079046d12",
+          "promotedSha256": "6a0bc3db94aad00937410ea296031370498e2f1ee343bd423bbab2ff9ed8b190"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-51",
+          "title": "Atal Bhujal Yojana (ABY)",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "11075ed106566bfa2fc5210079eda27f30f7cea83a71a71d5f016e4d254e2b74",
+          "promotedSha256": "5ad8172075b90047d9c2ea60213919df29a746c1d39122c44d83294c32e894d4"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-52",
+          "title": "Mission Amrit Sarovar",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "37d6c5e9d0f5cf33e6cfc06aaee4b171ed8f8745e53154ae210f7320eac9ec46",
+          "promotedSha256": "df7647bd1035f36779eb0a574b84030eaa43a76471650a1fcdd9ec492e365cbf"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-53",
+          "title": "The Green Hydrogen Mission",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "1a38550d818c5bbbf2dfa5e0ce1f231d28e97b3cbb749a422770ab7047f2b365",
+          "promotedSha256": "2e80a0b636a044d747bddcdf04c4a7b475a57e8b9264c03dfd186c9032eb4c07"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-54",
+          "title": "MAHIR: Mission on Advanced and High-Impact Research",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "34858c296da3276316d93a651a6318ff59cf0c140def23ac4660ccd3634e8fb9",
+          "promotedSha256": "267bf4d0d0cc63866eb15ca77f31cd657316755e901de11f931a73c7cb35d7d1"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-55",
+          "title": "Pradhan Mantri Sahaj Bijli Har Ghar Yojana – Saubhagya (2017)",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "7a75834fc307a982b2c7f4c3f3c9c156739dbced81ec54fbfc242b9b735dfff8",
+          "promotedSha256": "a0b7c25f053430f3a85ec22c87fdd282b96d56279fbd370ad39716a33d7fb054"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-56",
+          "title": "Remote Areas: Free or subsidized solar connections for unelectrified households in remote",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "169ba654c2054193c79e3afc6854d449a10daa29933cf28ddab5e69f046f8e46",
+          "promotedSha256": "663e30a9f0b1854cdbe3841b00441cb393c29a5e9323ad5c4c66ed77b19fd593"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-57",
+          "title": "Pradhan Mantri Jan Dhan Yojana (PMJDY):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "25489fd2f60872c279e59538fee0afd811e628368bf4593c4856b383c56bbea7",
+          "promotedSha256": "ee945581f4233c0ae8468de7dcf898e91c2b8cf497bb16a68207713f23a47f5f"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-58",
+          "title": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "9d2fe8f85382dbb1d6a322acdbd142da9d33184f7edf252da8b3ef4113530a94",
+          "promotedSha256": "8f29649b525daeaa067f1d85d1bb06a65a619a7ae2e33bc5068181893bcd6375"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-59",
+          "title": "Atal Pension Yojana (APY):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "b8913772c52f7956646a0930ce57b865876c68ab47704029ecf942107cdf6b2e",
+          "promotedSha256": "d60dda52a6d07cb5f6c043c5047f99f65115fb8bac4ed683ef6e3159dd3e5c68"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-60",
+          "title": "Pradhan Mantri Suraksha Bima Yojana (PMSBY):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "d7c2c294f66bac08498374cf010bceba0c492971dc9c8448bea7d0a65338b8cb",
+          "promotedSha256": "01bf99a41195f7c939eca78b68d2cb739aeded3dd6ae5942b91a3bc8a019a378"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-61",
+          "title": "Stand-Up India Scheme: ey Facts",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "a5291213b0f97dc51f3eabf1ad021304fde7ae5045987bcf33604755372299fb",
+          "promotedSha256": "99f4e388517febc31cd00f4cf2991a4ddc758971ad1cb4943414624a6ba203c7"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-62",
+          "title": "MSME Competitive LEAN Scheme",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "12da264ac9f3edc2384f7d81c4013e827f451547eb8c08397eeb1cd77d974243",
+          "promotedSha256": "6d81ddf466faa2db11c40b609d9a6f7e7e02958231426b2f2ffac083099f5305"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-63",
+          "title": "RAMP Scheme (Raising and Accelerating MSME Performance)",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "084d0752163cbc06095038a327b58d35875f2a86bb85a1b8e40ab17baa0231ac",
+          "promotedSha256": "8ae7567d0aa3026f62d84983f3b8633ed3f0ed2644ad55d5e1c3b69b661c478a"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-64",
+          "title": "MSME Portal",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "04649459fe1ee49777ad35a784e470124b9c7a1e25f2d58eb4196a01ac0b9a8b",
+          "promotedSha256": "1adedc63831e98f4aac229b66883361b5d34292d3cc749f01549c6b11c0e9609"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-65",
+          "title": "Startup India Initiative",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "d5ce99728e6b38362e2c5244585888eec3fab081d15076d31ba0de36f9995798",
+          "promotedSha256": "67707e793395fb94f663ed1d07b5f5809208917a689b6aed200a1b0e3d821f7c"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-66",
+          "title": "Make in India",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "26ddff51a6151bf02c07795f02a1f9a33efb677f40a393916ab6ee6871d14ab2",
+          "promotedSha256": "47ccd7a0b20fdb09f5abb7992c1bfd52953ac42e76c5b9c1dc08e4dfeccd6bbc"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-67",
+          "title": "Production Linked Incentive (PLI) Scheme",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "7d67d856035e2191f8d503c62c4d66c7b7424c4829312a10a9b7a9eaa693fac7",
+          "promotedSha256": "0642126cfd08a25e1fd24fa7122f798913755831b7db4be87489581797dbfdd7"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-68",
+          "title": "Unity Mall Scheme",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "3697cfab783d8923767d94b1c5351da90dbe25b4384f9c2c51060783a014f984",
+          "promotedSha256": "d2a7fa7700febb6431f8cb33fc4f471880660736a2a6deb7d8ad2d0c5e54645b"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-69",
+          "title": "FAME India Scheme",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "2d6cb276615b549975adddc4e6ea00ec1f58b1e88fbf4f01061707bb85d000d0",
+          "promotedSha256": "4427e1dab726f5d5fd849fe7bcefc615ee184cca789c4cd1d4f439015afe8dc6"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-70",
+          "title": "FAME-II (2019-2024): ₹10,000 crore for EV subsidies and infrastructure.",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "a4ec3a0327d22a21caf5a0fbb5d99c81dc06daf0e957bf996fb60f2c2682df01",
+          "promotedSha256": "bbf058af9eef9d157cf60c8558c6dd6866345a6834ca2d9972cd5ab95aa9c401"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-71",
+          "title": "PM MITRA Park Scheme",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "99e588d62c60fb7373a89650086151297bff42f94fb0f2473a035bd05557e139",
+          "promotedSha256": "dee6072dc7f2ec715d8083a0e5419a514a04636a7bb6c9cd1e78455aac3fe01f"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-72",
+          "title": "Parks: 7 locations in Tamil Nadu, Telangana, Karnataka, Maharashtra, Gujarat, Madhya",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "2c3a86123189ab334c16d3fcf45807ee056c70fcbafc9db67fe2d3ab7c7d4154",
+          "promotedSha256": "a5b22d25517a281a0ab7002111b7cfd0ef69a3fc5906c9054bb9d0438e079639"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-73",
+          "title": "[Index Page Reference] Infrastructure: Integrated facilities for manufacturing, logistics, housing, and sustainability.",
+          "action": "discard_artifact",
+          "reason": "Migration table of contents / OCR header artifact; cleanly deprecated with routing preserved.",
+          "originalSha256": "42fe68de624e456cc5a4b398aec47966c1dc13833fce73fead3f87c9bd77adda",
+          "promotedSha256": "6e53429493fa585e9113fb3d44392bc4b132d4ae153c63dae22096e22a2f88e3"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-74",
+          "title": "Pradhan Mantri Awas Yojana - Gramin (PMAY-G):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "1f378144bdd506bf49ead51ed5bea2bbb756cd6ce401e8f0ea8cdc245de2069c",
+          "promotedSha256": "ab29d6d78e7b43455aa02ca42a41ade3294baa9e1b83e64e371b0cf84df24ce6"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-75",
+          "title": "Pradhan Mantri Gram Sadak Yojana (PMGSY):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "dcbcb3b15bf29b5740869fbf2b0c42a73478fca48b3eb775496459f627bc51e6",
+          "promotedSha256": "420d2f2288e786bb575c06aedbaf4173d5fd40585945c58fd831e569241022a4"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-76",
+          "title": "The Shyama Prasad Mukherjee Rurban Mission (SPMRM)",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "cc0345ea83654ab9f43a13dad8797bbb7d3509a98602d044b63ef3a0c489d9ff",
+          "promotedSha256": "9a5f4c9cddbb95833dbde85130c235fe4f85bc921c0419015b30b527e678c146"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-77",
+          "title": "The Deendayal Antyodaya Yojana - National Rural Livelihoods Mission (DAY-NRLM):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "8e2d9c8500bb37aeb2571039707c7c9fb08f5f432baeb2151d54a29433e754ba",
+          "promotedSha256": "dac4370916ff207308bb571343087104e65b42fa463f289a4c7f5506c1f6fd2f"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-78",
+          "title": "Formation of SHGs for collective action.",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "32a97330214b9331871d6bda98f2836d804b2e81b594bb676667c0c34d29afc4",
+          "promotedSha256": "64d632371c1a9ad289eccea5794671dec2d95c77faa42947a2044e2087b18fc0"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-79",
+          "title": "The Sansad Adarsh Gram Yojana (SAGY)",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "59310e7fcd9f1103c3db1434f6b35da2dd837867f66cd55defea5f971fe740ea",
+          "promotedSha256": "401340e9c1802afe98f158d8e23be8ee9a67a9022bd9053918a6b20e00b9f6c8"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-80",
+          "title": "Lakhpati Didi Scheme:",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "3c4dcd7e2111be447f59f2cfa7f79d3c57b0c4dfc5d2a07570d30257516c3f70",
+          "promotedSha256": "da9de3aec8e2465e085eb6680cf9ff7dd36ddaa59221e90d73ad17c5499e4a33"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-81",
+          "title": "Women Enterprise Acceleration Fund",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "8aff099aa68d8db6ab518e0287082eb56fe06dd29e6b2c84e81478f1df198a15",
+          "promotedSha256": "7c47684d2ead0f1f69b2b589cb38479d559924ae482622d0e4fa5dc2ddb85e0f"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-82",
+          "title": "Swachh Bharat Mission (Rural) - \"Ek Kadam Swachta Ki Aur\":",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "cb06aacc2f2b99d53ce411e883979218fac04b91fa78a82044c47070d07e7bf7",
+          "promotedSha256": "6f932d607ccb38849e59e84586c0fa3f422f0831a21691b2c07fac906d0392f7"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-83",
+          "title": "Promote community participation and awareness.",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "09b4c0bccf95236dcb4599f36faabe9857985dd9ed94633ee8cd3bc0304355b3",
+          "promotedSha256": "ffb06a803a1a3d07baac7174a11ea646e1d8af1cc2faa62dfc5a4a016a488893"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-84",
+          "title": "HRIDAY Scheme (Heritage City Development and Augmentation Yojana):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "c09a57c81cd4391f96b88cf0d08e54cab4142a56c1dc5588865e865d30c11e39",
+          "promotedSha256": "4763ae6d2ab06ca9ee601366c879b532b4e99385977471475c4c0a0b3bf4aeb8"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-85",
+          "title": "AMRUT Mission (Atal Mission for Rejuvenation and Urban Transformation):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "b828da40c4630c97aedf866e55d22c59284e97df039e53a83d3179c3803e7fa6",
+          "promotedSha256": "5fa258e398f997a28089da30278c653effde8ddf232ed05bcfe8391ea8d49c03"
+        }
+      ]
+    },
+    {
+      "batchNumber": 3,
+      "batchName": "Batch 3 (schemes 86-130)",
+      "processedCount": 37,
+      "transformations": [
+        {
+          "itemId": "migrated-schemes-scheme-86",
+          "title": "[Sub-Component] SVANidhi se Samriddhi:",
+          "action": "merge",
+          "reason": "Structural sub-component fragment belonging to parent scheme migrated-schemes-scheme-85.",
+          "originalSha256": "d40148d680794a4244197bfa61e2dcd4a48cac5881750117e18919147679f678",
+          "promotedSha256": "4e48d16fde9517a2c99a1bcfbf67bf810053344ee8ef48a5b87310ef6e05b2d5"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-87",
+          "title": "BOCW (Building & Other Construction Workers)– Welfare for construction workers.",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "9cd7f7b5850b6d5fb3613e53e7581452ea6e177d16a2484cc3d764a7c94209fd",
+          "promotedSha256": "000325a4e9d14c1cd9be95068056eb297a59d397ab6a4afacc9b1eaab9068582"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-88",
+          "title": "Smart City Mission:",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "ccc40693ed6080842872d1fbb62f904c7fcc9b7b5c25db434dec052eb4288b56",
+          "promotedSha256": "728698dabba6f120126bedd5285723f5355f494f30631929eb44a629ee7f45a0"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-89",
+          "title": "Swachh Bharat Mission (Urban):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "5ed3c67e68a193f6383099e5e178f30c63eb059c2a4fbb39c3539d1529754208",
+          "promotedSha256": "0d0690bb8fcf40f2fbc4bd895e7b074dd12383e0f450469716653d75511b19cc"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-90",
+          "title": "[Sub-Component] Improving waste management.",
+          "action": "merge",
+          "reason": "Structural sub-component fragment belonging to parent scheme migrated-schemes-scheme-89.",
+          "originalSha256": "a76d0cdfafa6804c4ec2b3245b0962373ffccc4dbaad64665eea11c20261cde1",
+          "promotedSha256": "c7b4ec63cd8f71f39fe56711614f7d7c71306760232528465d35d57a7cd7bf5f"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-91",
+          "title": "NAMASTE Scheme (2022–2026)",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "191edd7b1eea0aee17f002be1a6aa1ef3014b78194410544e3bae04a79ccbf9f",
+          "promotedSha256": "ad8d9f1994d872bb643c430874c5db8f263e991a352c981addfae9627e622bc9"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-92",
+          "title": "Jal Jeevan Mission (Urban):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "5c8716f0b82776761ac42a2ff506ddfce194aff03ce30b76cea17e49bb63596e",
+          "promotedSha256": "4eaf187d787f90fe6d5a85c5ad5c9ea038d14525ceecbd77edda510fc9abb868"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-93",
+          "title": "[Sub-Component] Enable digital monitoring of water quality.",
+          "action": "merge",
+          "reason": "Structural sub-component fragment belonging to parent scheme migrated-schemes-scheme-92.",
+          "originalSha256": "cac6d168a275ab94744e5c681e80fe1cbb175b0d1e0ca9d71279f2864bfe2e81",
+          "promotedSha256": "177fd03aa915b87c46c84367558c1e555f5d1a7f65345982620ad4b037cb6dba"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-94",
+          "title": "CITIIS 2.0 (City Investments to Innovate, Integrate, & Sustain)",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "1262a94f77be448724cc66fba086ec46aee7bd9bdafd558c06a6152ac1e85a24",
+          "promotedSha256": "2e702aa6d44e007b13b5a23243b79455787085e9485d971ca958d52014f24cd5"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-95",
+          "title": "[Sub-Component] Expansion of Cities (sustainable urban growth)",
+          "action": "merge",
+          "reason": "Structural sub-component fragment belonging to parent scheme migrated-schemes-scheme-94.",
+          "originalSha256": "8c2f80a17b4a99b500f99ef30d10ee86684a80c5dc82032eee4bdf0e22398167",
+          "promotedSha256": "333cbd25f680d3c24bf9c9e8a6ebc1c12d90370475aa958bfaf8a3621b131a40"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-96",
+          "title": "Pradhan Mantri Awas Yojana (Urban):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "95d475ebbbca75cd7e543c0a0b7cf8c6d423a8fb6cec82af3a21e0188556513c",
+          "promotedSha256": "f2fd68071fc56188e22fca0c13c9d6c213eacdf39d4073709a0823168a2da87c"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-97",
+          "title": "DAY-NULM:",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "41074d4b834e8f3011893245f74479b942d86d88cbb2eb9b732a83fb09a6cd07",
+          "promotedSha256": "b21139e8515b3e4e3c6a85ca887de4fa50486ad9ca38f54768afb4e1812189da"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-98",
+          "title": "PAiSA Portal",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "9f71a32e4fc5f1351e622104e641203834f648be72fd137fc916c0c4de862996",
+          "promotedSha256": "2ad79957045de96d66ebb0a00ad7d7eb7fa3cf7745722dd04e8ee931bfb33a97"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-99",
+          "title": "SHRESHTA Scheme: Empowering SC Students through Quality Education",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "522cecb7635ad8ac414398851b0c37e42590eb55142e9651c19ca1a01c8b63cc",
+          "promotedSha256": "a0980c632a78e057b1452e14c60b5508a6bb38c85008c015d634939716821e79"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-101",
+          "title": "PM-DAKSH Yojana (Pradhan Mantri Dakshta Aur Kushalta Sampann Hitgrahi",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "719a3528d1e1cd076ef2e67d9ffc458a47cf21527341af9fe260c639b93d9013",
+          "promotedSha256": "bb1ed74db8a1270c848efb0f55bd86838fffda780cd0bb9edf96fc06a76fed5d"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-103",
+          "title": "[Sub-Component] Pre Matric (Class 9-10):",
+          "action": "merge",
+          "reason": "Structural sub-component fragment belonging to parent scheme migrated-schemes-scheme-100.",
+          "originalSha256": "3ab3f4528140ddf11916c7a8dfe8b8d2aa2a11f5b1a1acf1220c2ab2dcd6ed55",
+          "promotedSha256": "ac785aedfb7bf8a35c9e8445a2f3a45ffb1c6ed358e2615cdaa2bd74f29d9171"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-104",
+          "title": "[Sub-Component] Post Matric:",
+          "action": "merge",
+          "reason": "Structural sub-component fragment belonging to parent scheme migrated-schemes-scheme-100.",
+          "originalSha256": "c6509881759581082cc07fc313c7a8e1eba59b01f2832fd720a544b7369f82a0",
+          "promotedSha256": "6ae05371ab4b9a1934447dfe6df61e7606c68c71eb3a635ec1d5eee64fd80f9b"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-105",
+          "title": "[Sub-Component] Higher Education (Beyond Class 12):",
+          "action": "merge",
+          "reason": "Structural sub-component fragment belonging to parent scheme migrated-schemes-scheme-100.",
+          "originalSha256": "e6076df16eb27fc30bcfeed25d187119839b44f7523bfa2bdf242ae88d6c66c5",
+          "promotedSha256": "022c61f4e69d5fb694a6583970c333fa157ce31d9b1d5e22cf4d7f2a73b125c7"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-106",
+          "title": "[Sub-Component] Merit Improvement (Class 9-12):",
+          "action": "merge",
+          "reason": "Structural sub-component fragment belonging to parent scheme migrated-schemes-scheme-100.",
+          "originalSha256": "8a80bceb8e496bd3b3064f41c03416c08c596ce3e8249e2a4af8b1fde3429c2b",
+          "promotedSha256": "6b7ae741c4ebc07e7c0737869f2a9bcb450be8b8e3b4c656872406ccccf9831c"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-113",
+          "title": "Atal Vayo Abhyudaya Yojana (AVYAY)",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "5297521b8cc6a22b55938c57bc54b10437509aea6f688337322a32fa5ff028bc",
+          "promotedSha256": "73ecb40ee2f98ffd39c26c4b3489397603a7a9b78cae25278350c3040e9c32c9"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-114",
+          "title": "Pradhan Mantri Jan Vikas Karyakram (PMJVK)",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "fd69aeeca1bd1a521adfbcc9ec33c292b79ba54d2d67c1146d398ed7592d795c",
+          "promotedSha256": "4c2161f4aabc6dd1c086aa7982cb0c772f57ae507ec06bd7be15bbdfd6858920"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-115",
+          "title": "Vanbandhu Kalyan Yojana (VKY)",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "c510b3dd36202dddb993e7e4879694e71753a4a187b86cc1adecd3949d063a9d",
+          "promotedSha256": "fa1efa198cf5c7be84dc4e34778721c1383660e82b3fe596e56e858e5fb8522d"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-116",
+          "title": "PM-JANMAN Abhiyan (Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan)",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "3215a776106dffe96b8928877501aea73cbd648c6ae0218e805950ef1870d973",
+          "promotedSha256": "c1059b2ab72f011edaa2f229998c88ab3d1a30a6fb5201f6a376c24a9518dbc9"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-117",
+          "title": "NPS Vatsalya Scheme (Budget 2024-25)",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "3144b44cfd3c71d1da2d3a82ff0adb9148ae01eb9a82cd918e1019b888b8b7d2",
+          "promotedSha256": "aa3e65adda40670b418946c363ede7dd64b5e8ec4a836bc87e7e86e00f80c953"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-118",
+          "title": "Pradhan Mantri Vaya Vandana Yojana (PMVVY)",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "1726b96c56ab50527d354803f1283da8dc374f951d0a16b11ef053ff940ca2e6",
+          "promotedSha256": "9443637d3914f6eab4bfc10121229b655edb15743bc0ff42b533c3f9653f1f98"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-119",
+          "title": "Beti Bachao Beti Padhao:",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "e1dbe0b676175bccc9f452c846014b56617763086fd9105171a41a28dec44655",
+          "promotedSha256": "6f9ee557872724f38a810ae3115fa903018914859ea273d2ff1dbb855afe1e63"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-120",
+          "title": "[Sub-Component] Nationwide",
+          "action": "merge",
+          "reason": "Structural sub-component fragment belonging to parent scheme migrated-schemes-scheme-119.",
+          "originalSha256": "410564219b5e1a19771383fd1c7814c2c36f07bca28d4acf980185e0d548e0cf",
+          "promotedSha256": "27431c78e8d92d22611da3233f12d9cc953bacd6b12e5ba46653c4b24d7bba61"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-121",
+          "title": "Sukanya Samriddhi Yojana (SSY):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "4f1d54d2cc0ffa4a9adce4bc0c8ff3bcf0ef92592fc9a94f92c7f786f918ece0",
+          "promotedSha256": "170d9bf32c4635d5b18073c784b9f61e5d0da1b1e1bc9a031002c143aa4ba344"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-122",
+          "title": "Pradhan Mantri Matru Vandana Yojana (PMMVY):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "5fcdbcfccd2cb7d494eee358a015d32c6ec125bbda1db4ec06a58ee4db38f7b4",
+          "promotedSha256": "1c0ac7e3cf7c2d23446852ab64c61adc44f4c83a621100d82db3bd974ae6ab8a"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-123",
+          "title": "[Sub-Component] Rs. 2000 for birth registration",
+          "action": "merge",
+          "reason": "Structural sub-component fragment belonging to parent scheme migrated-schemes-scheme-122.",
+          "originalSha256": "cddb8364f3836bf5455e4b0b9cb72f6b5bf019a995759d6759a257f269cec0ec",
+          "promotedSha256": "8aa5d98b39265b53742348e79815599881d82b4b39f29472499515008d85e637"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-124",
+          "title": "PM SHRI Schools (Prime Minister Schools for Rising India):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "9c063aeae10314a2f88f993f9ea1bb6e42f5290a898bca74fece576badfbaf4a",
+          "promotedSha256": "fd86c960732facf07dc026a594ca216365cc25837dd19e3205be9b7688a1f2e7"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-125",
+          "title": "Pradhan Mantri Poshan Shakti Nirman Yojana (PM POSHAN Scheme):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "0636411416cacff50738c28f62481862f5c859fe5f4d44c22c5bfb2a6beafecc",
+          "promotedSha256": "c94f0cecd0f0ad9a41df431556de9e06a216018b54582491bcbe5524818d9f43"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-126",
+          "title": "NIPUN Bharat Scheme:",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "913917309e540298f96f8ede82570fd541ab041ad1c3fe1ba7b6514c5d86c3c9",
+          "promotedSha256": "152e88132d5d17251c7fa5eaa0aca3964795506fd9efde21f6dc5d01401126e4"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-127",
+          "title": "STARS Scheme: Strengthening Teaching-Learning and Results for States:",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "dce3f84e0cdc596d43cdceead154f5948343706c9fc03c71ed8645a880a60e99",
+          "promotedSha256": "6c3ba357249ff83dbf174ee844b8aa47af1b26b244e00e5266b39cd349463019"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-128",
+          "title": "PM-WANI (Prime Minister's Wi-Fi Access Interface):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "3307d9e079a47f8a3e7c13a4138ccfc66513bd7e84b5b2ab4f3ad80de88a79b4",
+          "promotedSha256": "b3014cec4c22fc28e26221f9a7ab360d4609f0ef1820442c75760a912cbedb7c"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-129",
+          "title": "Janani Suraksha Yojnna",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "410958ab693defa7feb359c36f96ddfc18646ee58539180c761b2e4debb46412",
+          "promotedSha256": "b0c16781d0512aad3b687c4e742096c9b113427328bb7dbbee5d87e5c3349247"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-130",
+          "title": "National Nutrition Mission (Poshan Abhiyaan):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "c55e6434ca307e828b41fa3bd8f8676bc0cf8918d31b17b168cc5b78d37ed46e",
+          "promotedSha256": "dd18dbc59160d8e295bacbc8c5b0310af1bea36a065eb8c3cf3fde6c72044844"
+        }
+      ]
+    },
+    {
+      "batchNumber": 4,
+      "batchName": "Batch 4 (schemes 131-171)",
+      "processedCount": 41,
+      "transformations": [
+        {
+          "itemId": "migrated-schemes-scheme-131",
+          "title": "Mission Shakti (2021-2026):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "b68da02fddb6c7a667e149b98af5f76a032f5acdf8faab68e5f9ddb0c2138cc7",
+          "promotedSha256": "d9116d8dc70dd4741eec1e1bf2b2d61cde185eab79aaf97c1feb448d2e1f847f"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-132",
+          "title": "[Sub-Component] Samarthya (Support for women’s well-being):",
+          "action": "merge",
+          "reason": "Structural sub-component fragment belonging to parent scheme migrated-schemes-scheme-131.",
+          "originalSha256": "5fd3e6a9e1fbe7188a87b183c4f462fac5a8d104ccc86e0fe6f818244ec12a2d",
+          "promotedSha256": "cb0d0658a6b8d20728f8ce1e15e78ca109aeff4591922ead78e89c5198e14252"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-133",
+          "title": "[Sub-Component] Sambal (Safety and justice for women):",
+          "action": "merge",
+          "reason": "Structural sub-component fragment belonging to parent scheme migrated-schemes-scheme-131.",
+          "originalSha256": "edfc984dea2ca16a029724c34f20d8e449da80d3e23d74a66c5eb36bcdf09462",
+          "promotedSha256": "28fe1b35452b3c8f9123a1b918a063128c773dcc0cca3ddafc47b97f86c46b69"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-134",
+          "title": "Suposhit Maa Abhiyan",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "eb10ef89dcc7449b4039c59969bea770c0a1354440fa75c6befe879949e33745",
+          "promotedSha256": "de76e8f6df56453225f515265f37f3f0d64904ff4c1aec6592372ce2eb6bd7d2"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-135",
+          "title": "Ayushman Bharat Scheme (Launched: 28 September 2018):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "da15ae08ad07d5b4069f8a3cba1fbdb9a24104d474c3468d5aaae9898e35a271",
+          "promotedSha256": "7d938844fdb07ddff63a76c7fbdbb0582a4d64f15de75bbbf79bc20a932a6b3f"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-136",
+          "title": "National Health Mission (NHM) – Key Highlights:",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "4c5fe1a9756d84707391f44e99cd38a3163f73b225cb57b02077cbfea5f4319a",
+          "promotedSha256": "f229728c9e510b1c3b6f104810d85338a2aa35b80c6ef1201eb41c28ebe0a8ce"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-137",
+          "title": "Prime Minister's PVTG Development Mission",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "be2559316df1d594cee8480b15df8bef7aaf07ac0e333c543d0711e3b145d731",
+          "promotedSha256": "cc8caea26c6c626272c9428e68ad752a3d6fcef93045bf9af1f59f04056cad00"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-138",
+          "title": "Ayushman Bharat Digital Health Mission (ABDM):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "6b17939e2abc17b2cb6f4aa05d2853de9965fa43d490788e0f5df3a2edf35771",
+          "promotedSha256": "2cffdc89f222fd0049e63faf3bafde84552e1f4193c7066a4b20f912269419c7"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-139",
+          "title": "Ayushman Bharat Health Infrastructure Mission (ABHIM):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "ebe4a9bd888ff6caae63a50ca9a40e3426bd44b8205d9229cf5a83e012665d42",
+          "promotedSha256": "017f237485814f1486fa0c0b783dcb7efb72211aae676c9fbe839394d21a2db1"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-140",
+          "title": "Sickle Cell Anemia Eradication Mission (Budget 2023-24)",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "c7877f56dc22c08db6b7c8746ddafab03a71c633dfa5ed0f921c58046ef9995b",
+          "promotedSha256": "87d1667b064a24e7045a472c3e7ed25b9dd1acdf50cac0d781da65fcc39ad775"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-141",
+          "title": "PM Kaushal Vikas Yojana:",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "e704db0135e70eaea16233ece40857f7ac0ccf74e50309560e4746211a908816",
+          "promotedSha256": "8b6e9d5a38573c200f462339f59bae82176af9afe25423007bb8064a51dba825"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-142",
+          "title": "PM Vishwakarma Kaushal Samman Yojana (PMVKSY):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "cc31e63d6196c233fab54777cb36b0b7b124c5664c8565fe87431ef73a7612da",
+          "promotedSha256": "d73f0db2249939359558137d7c7a1896803ae313dabc81476c818320a5c2575d"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-143",
+          "title": "Antyodaya Shramik Suraksha Yojana",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "3cd6ad7b9cb36a8eede46551c459484540afac2399d53d93eac7a93325072838",
+          "promotedSha256": "8594536b7759482802a84151836ca2919402c1a82cfb6f5c471fe13ed21a507c"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-144",
+          "title": "Pradhan Mantri Matsya Kisan Samridhi Sah-Yojana (PM-MKSSY)",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "94323ab9b3b02b4178e75dc3e83c2e68922a4e5ff46dd4357e6abf17126960b5",
+          "promotedSha256": "bf8f756dac0d081b1bd65904189ba257c12be5ac32b218d3b1af9c0db7b083e1"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-145",
+          "title": "Aatmanirbhar Bharat Rojgar Yojana (ABRY)",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "04927595612fd303f43d74ff1a44e481b213cdf414690d0dbada83494d2b45b1",
+          "promotedSha256": "66b8df8530e2dfe6809bd17ce846dc504b5e26a637796d72e57fc07fe8789e63"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-146",
+          "title": "Aatmanirbhar Bharat Rojgar Yojana (ABRY)",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "d321471f98667911441bbb12c67642a35af77c1dd19394008f8c2b50523c2f48",
+          "promotedSha256": "6f182e8c6aa8d2fed04837795c856c70479ff508b2bb06c8629c95859c2ae1c9"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-147",
+          "title": "Pradhan Mantri Shram Yogi Mandhan Yojana (PM-SYMY):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "54a88f2f9d253b2eb74b33e41e781ee43601ce9620eda3b918602ba1756dbf24",
+          "promotedSha256": "dc6f7b8378ab3c3abe9732e9caa2e1760d96d15f6eded307701c06411b1e561d"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-148",
+          "title": "Project Bharatmala :",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "033131c1b0418ce50a25f9be64f72c0618ce9c99238541b7b51ba9e89d1956cb",
+          "promotedSha256": "8861dd2b1466c4cf5e36c34c11d4e0d5ce278159faaac30696ad87c7f65521d8"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-149",
+          "title": "Project Sagarmala (2016–2025):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "18f23cdcc2e912ab2fcb7cb434337381faac1ce9db5d44ba4cfd34114124fca3",
+          "promotedSha256": "538db07ca237516e465c1d84352f1a896bfd239969f93475b9ef7b8835a51601"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-150",
+          "title": "Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "5e1bf1a8fc59652b45945cd306c2ec6e388f3a436255b8e10050fb3341e323d1",
+          "promotedSha256": "43d03415c2b3e294cdb62a63f9ab9ac9dff26254e2b8d74852e3cb71058c8afd"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-151",
+          "title": "PM Gati Shakti Yojana (National Master Plan for Multi-Modal Connectivity):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "bd053a5aa0b3d56e86c869ee74cac66cd5529f21e4ff157a27dd129915bea3fe",
+          "promotedSha256": "5de81604a95a91fcc29f67b17c5f28e9d5be7314f38aa971374596e2052bb62e"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-152",
+          "title": "Shree Anna Yojana",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "d232fb307f006cec84397ef4d92a17e3074241914b1fa8501b701fcef7adc3aa",
+          "promotedSha256": "95948c9d305a3ea06fa07347c7a64058bd8c0a2054b1892a182b16a4795f2eed"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-153",
+          "title": "BHARAT SHRI Scheme",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "02251d5d08c9cab38bd051a858b07a5c63dbcc2914f5120f2627a2441128bc75",
+          "promotedSha256": "fb5c0caa5de98f0e6433467e99c8e6c9d85d03412ac1a49ed35869988403f30a"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-154",
+          "title": "MISHTI Scheme",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "ac8d2c277480d9983f58dd56eaf9bf85310677a45fb58b6db1ea4104ba9b9459",
+          "promotedSha256": "ce6a134650c61cbe8f001dc4ebfd1811511fa5a7c30bdca9d4fe7f42a4f3d331"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-155",
+          "title": "SVAMITVA Scheme:",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "8c3e0fd024c4efd3847215a6ad30b769a34137dcf026d539d5f4469590bd7994",
+          "promotedSha256": "abfbf803c1e5b13cdea0cd96c2ea863002434073e75b6cb3354ad540a841b5ac"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-156",
+          "title": "[Sub-Component] Legal Ownership: Property cards to enable financial empowerment and dispute resolution.",
+          "action": "merge",
+          "reason": "Structural sub-component fragment belonging to parent scheme migrated-schemes-scheme-155.",
+          "originalSha256": "704b5c2a26fdd8d1e6e5c0e919f21e66942ddbaecebaea9e50e9558505ea07fb",
+          "promotedSha256": "458fc36291cdbe652657052f535ac2373cde77517e57e8e031856615312f38a0"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-157",
+          "title": "National Infrastructure Pipeline (NIP):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "8622e820bd795aedb4a943dde98017a921ed9faf00edeb64537c31b5132cdc9e",
+          "promotedSha256": "1c2876047ba41a07fe416ea17e2c9c51e7310e6c1e4d600315339b2887754e4a"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-158",
+          "title": "[Sub-Component] Energy: 24% (Power Generation, Renewable Energy)",
+          "action": "merge",
+          "reason": "Structural sub-component fragment belonging to parent scheme migrated-schemes-scheme-157.",
+          "originalSha256": "5e6d1a988981f31a82a82e7d63555033639887b5bba53ba63113a0c6abd05b71",
+          "promotedSha256": "f8132f88a708739f4eecbcded36bd66809790eef0ba170c9783551cf663f4c14"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-159",
+          "title": "National Monetization Pipeline (NMP):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "a539335eddba7ed26e6725dab109c25caac0b1a2517c56dde7cff1594914c3fa",
+          "promotedSha256": "a1a754c8d1d76229705bc91b7cde3a212b8a5f6599ded3620a641b6fd97910f3"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-160",
+          "title": "[Sub-Component] Electricity (15%)",
+          "action": "merge",
+          "reason": "Structural sub-component fragment belonging to parent scheme migrated-schemes-scheme-159.",
+          "originalSha256": "6d8a4c31401ca0632e8ded63299f0cb9b78c5bf28edb39d73874570285ec5619",
+          "promotedSha256": "24f86262c4633889ee13f08970b0026367311510f8250ac1af97dff769879ee6"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-161",
+          "title": "Rashtriya Gram Swaraj Abhiyan (RGSA)",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "0d034d5a20fa57d6d17ed50e534d4ba35e03737fe66fe8a5f9bccfa9b5f0ea9d",
+          "promotedSha256": "db85abaf8b74504c9202e6071593a0f45b1eb1a41747577cd215dcda09e35be8"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-162",
+          "title": "Mission Karmayogi",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "690874d34da50cb7a1476acb075227a0d4e859f27eea15dcad5fe44ce176d7fa",
+          "promotedSha256": "a8f8c81a49cd629deca70cff055f0d7862347ce1d983e3dccb98cd54e15c62be"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-163",
+          "title": "Vibrant Village Program (VVP):",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "286b0bf823a25e68d5bbae76669ad5dc4afa7b11f02b7e98cda83f1de91a8053",
+          "promotedSha256": "5ce1378937bc65eb7d927e0f8bf742ba647c46dc91c940967fa73281d1550b5f"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-164",
+          "title": "[Sub-Component] Infrastructure: Roads, housing, electricity, telecom.",
+          "action": "merge",
+          "reason": "Structural sub-component fragment belonging to parent scheme migrated-schemes-scheme-163.",
+          "originalSha256": "5f505b32706205fa62e5735b3d667fbc8c736d5456f38eca3248f63840c52a2d",
+          "promotedSha256": "99807037e4f9a9cc58089e765079075e9f7aa47ac31ebf251b7c2f0e858b3b89"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-165",
+          "title": "[Sub-Component] Economic Growth: Tourism, skill development, cultural promotion.",
+          "action": "merge",
+          "reason": "Structural sub-component fragment belonging to parent scheme migrated-schemes-scheme-163.",
+          "originalSha256": "f66ff1f3eff5241668447b5861f80e39bb8c616131fc500d924c5218a8b97121",
+          "promotedSha256": "f57a61e5c479cf572c37888cc321cec8bcd5d107939cb8d6383c2d5352af7af6"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-166",
+          "title": "ADITI Scheme (2023-26)",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "9369b7d294a39279475a17f1552250ebfab72e7fba62d50b44ae7cac7357ce04",
+          "promotedSha256": "b61e4f7fd9ae89d4f7f540d03c098c486c73eaaedcf5ca2b95d17963ef7c0dc7"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-167",
+          "title": "PM-DevINE Scheme",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "d940680e3aeacb880dc3a5f71ffe4ecc7663b1aae67169108c756695028e3c1f",
+          "promotedSha256": "733a09015dac006f8fe8f32886edd6bb97717fb48d6391283cd14bacadc3b246"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-168",
+          "title": "PM E-Bus Scheme",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "8faa523afab8eedd9d9680c9a3ce5734b3a380b0085bab1341f21f8c5ccc344b",
+          "promotedSha256": "07a50ea3af28609af29c8b76bd8718838e3c76d1fa14508ee041b807a8297857"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-169",
+          "title": "PM - E-DRIVE Scheme",
+          "action": "enrich",
+          "reason": "Standalone scheme note enriched with structured administrative hierarchy and temporal indicators.",
+          "originalSha256": "4e547c3edb4bab953ba484ce1c959af2a33734c8769965249ed540da71efe6fa",
+          "promotedSha256": "e7a9c7da7e13c175f3aebabcdc34b2933c8c754aa584009a57fce5d4a709feea"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-170",
+          "title": "Pradhan Mantri Ujjwala Yojana (PMUY) :",
+          "action": "supersede",
+          "reason": "Detailed flagship scheme covered in canonical masterfile (migrated-schemes-masterfile).",
+          "originalSha256": "d536d74f2d0074cfc3dcae7f34e128df840ec8097bcd7a22579e2ad69c0d5650",
+          "promotedSha256": "d79ffbb06391f38e100b004acd209f9475c20217353883b8c4caa6070c07bb34"
+        },
+        {
+          "itemId": "migrated-schemes-scheme-171",
+          "title": "[Sub-Component] PMUY II (2021, Mahoba, UP)",
+          "action": "merge",
+          "reason": "Structural sub-component fragment belonging to parent scheme migrated-schemes-scheme-170.",
+          "originalSha256": "6020b06627d0df2b39613f60923ea03d08fccf5396967ecbd383a10df1f218d9",
+          "promotedSha256": "e02b9049b48d672cba5d6910614f544f5294c2930a1474ab409038ae854bb9d3"
+        }
+      ]
+    }
+  ]
+}

@@ -3,8 +3,13 @@
   "type": "ca_note",
   "domain": "schemes",
   "title": "Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY):",
-  "summary": "Schemes — Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY):",
+  "summary": "Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "🏛️ Canonical Reference & Masterfile Integration",
+      "text": "This flagship scheme is comprehensively detailed in the Government Schemes Masterfile (Section: \"migrated-schemes-masterfile\"). Key highlights and parameters are summarized below."
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -12,18 +17,15 @@
         "Objective: Provide free food to the poor and maintain nutritional levels during crises.",
         "Ministry: Ministry of Consumer Affairs, Food and Public Distribution",
         "Features (2020):",
-        " Covers 81.35 crore beneficiaries under NFSA.",
-        " 5 kg free foodgrains (rice/wheat) per person per month, in addition to regular entitlements (total",
+        "Covers 81.35 crore beneficiaries under NFSA.",
+        "5 kg free foodgrains (rice/wheat) per person per month, in addition to regular entitlements (total",
         "10 kg per person).",
         "Relaunch (2023):",
-        " Merged all foodgrain schemes into PMGKAY.",
-        " Beneficiaries to get 5 kg free foodgrains per person monthly (max 35 kg per family) till",
+        "Merged all foodgrain schemes into PMGKAY.",
+        "Beneficiaries to get 5 kg free foodgrains per person monthly (max 35 kg per family) till",
         "December 2028.",
-        "-- 42 of 47 --",
-        "43\tONE STOP SOLUTION FOR IAS, RAS, SI",
-        "Youtube \tTelegram",
-        "Indian Economy \tScheme",
-        " COVID-era additional 5 kg discontinued."
+        "Indian Economy Scheme",
+        "COVID-era additional 5 kg discontinued."
       ]
     }
   ],
@@ -48,6 +50,12 @@
       "sourceChecksum": "1f3003c1bba8aa630a538fdad83e3c85f70d91a4a51ea8056d7432c2ce500607",
       "migrationTimestamp": "2026-08-15T12:14:02.681Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.535Z",
+    "contentStatus": "superseded",
+    "supersededBy": "migrated-schemes-masterfile",
+    "targetMasterfileSection": "migrated-schemes-masterfile",
+    "requiresHumanReview": false
   }
 }

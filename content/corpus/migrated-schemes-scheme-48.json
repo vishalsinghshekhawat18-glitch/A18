@@ -2,37 +2,44 @@
   "id": "migrated-schemes-scheme-48",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Agriculture Infrastructure Fund (AIF):",
-  "summary": "Schemes — Agriculture Infrastructure Fund (AIF):",
+  "title": "Agriculture Infrastructure Fund (AIF)",
+  "summary": "Agriculture Infrastructure Fund (AIF) — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "Agriculture Infrastructure Fund (AIF)",
+      "summary": "Schemes — Agriculture Infrastructure Fund (AIF):"
+    },
     {
       "type": "bullet_list",
       "items": [
-        " Launched: 15 May 2020",
-        " Finance: ₹ 1 lakh crore (2020–2029, extended to 2032)",
-        " Ministry: Ministry of Agriculture and Farmers Welfare",
-        " Implementing Agency: NABARD",
+        "Launched: 15 May 2020",
+        "Finance: ₹ 1 lakh crore (2020–2029, extended to 2032)",
+        "Ministry: Ministry of Agriculture and Farmers Welfare",
+        "Implementing Agency: NABARD",
         "Objectives:",
-        " Improve post-harvest infrastructure.",
-        " Create community agricultural assets.",
+        "Improve post-harvest infrastructure.",
+        "Create community agricultural assets.",
         "Key Provisions:",
-        " Loan: Up to ₹2 crore (Guaranteed by Government).",
-        " Tenure: 7 years.",
+        "Loan: Up to ₹2 crore (Guaranteed by Government).",
+        "Tenure: 7 years.",
         "Interest Subsidy: 3% per annum.",
         "Beneficiaries:",
-        " Farmers, PACS, FPOs, agri-entrepreneurs, startups, SHGs.",
+        "Farmers, PACS, FPOs, agri-entrepreneurs, startups, SHGs.",
         "Infrastructure Focus:",
-        " Post-Harvest Management: Warehouses, pack houses, cold chains, primary processing",
+        "Post-Harvest Management: Warehouses, pack houses, cold chains, primary processing",
         "centers.",
         "Other Features:",
-        " Agriculture Infrastructure Portal for transparency.",
-        " MoUs with 11 banks for disbursement.",
-        " Goal: Reduce post-harvest losses, enhance farmer incomes, and boost rural economy through",
+        "Agriculture Infrastructure Portal for transparency.",
+        "MoUs with 11 banks for disbursement.",
+        "Goal: Reduce post-harvest losses, enhance farmer incomes, and boost rural economy through",
         "modern infrastructure.",
-        "-- 14 of 47 --",
-        "15\tONE STOP SOLUTION FOR IAS, RAS, SI",
-        "Youtube \tTelegram",
-        "Indian Economy \tScheme"
+        "Indian Economy Scheme"
       ]
     }
   ],
@@ -57,6 +64,11 @@
       "sourceChecksum": "9ae34d8cae266c0a8802c321e8728cf48575e376f6186a9566a68b7bbc09790b",
       "migrationTimestamp": "2026-08-15T12:14:01.51Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.418Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

@@ -2,9 +2,14 @@
   "id": "migrated-schemes-scheme-90",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Improving waste management.",
-  "summary": "Schemes — Improving waste management.",
+  "title": "[Sub-Component] Improving waste management.",
+  "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-89.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "🔗 Sub-Component Note",
+      "text": "This note represents a constituent sub-component of migrated-schemes-scheme-89. For the unified examination framework, refer to the parent master note."
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -40,6 +45,11 @@
       "sourceChecksum": "9be6b392f2782ecd786b2fa387cd007a246b3fa87ccbac6c12bfe4b44cbb581b",
       "migrationTimestamp": "2026-08-15T12:14:02.103Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.470Z",
+    "contentStatus": "fragment_merged",
+    "mergedInto": "migrated-schemes-scheme-89",
+    "requiresHumanReview": false
   }
 }

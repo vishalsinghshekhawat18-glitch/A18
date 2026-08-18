@@ -3,8 +3,18 @@
   "type": "ca_note",
   "domain": "schemes",
   "title": "The PM PRANAM Scheme (Promotion of Alternate Nutrients for Agriculture",
-  "summary": "Schemes — The PM PRANAM Scheme (Promotion of Alternate Nutrients for Agriculture",
+  "summary": "The PM PRANAM Scheme (Promotion of Alternate Nutrients for Agriculture — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "The PM PRANAM Scheme (Promotion of Alternate Nutrients for Agriculture",
+      "summary": "Schemes — The PM PRANAM Scheme (Promotion of Alternate Nutrients for Agriculture"
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -36,6 +46,11 @@
       "sourceChecksum": "f0368b5edb7ed3c41d160ed71253e829f89c312aa749da278d98685fa6b2fbf2",
       "migrationTimestamp": "2026-08-15T12:14:01.51Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.415Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

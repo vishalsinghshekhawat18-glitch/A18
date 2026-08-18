@@ -3,28 +3,30 @@
   "type": "ca_note",
   "domain": "schemes",
   "title": "Pradhan Mantri Suraksha Bima Yojana (PMSBY):",
-  "summary": "Schemes — Pradhan Mantri Suraksha Bima Yojana (PMSBY):",
+  "summary": "Pradhan Mantri Suraksha Bima Yojana (PMSBY): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "🏛️ Canonical Reference & Masterfile Integration",
+      "text": "This flagship scheme is comprehensively detailed in the Government Schemes Masterfile (Section: \"migrated-schemes-masterfile\"). Key highlights and parameters are summarized below."
+    },
     {
       "type": "bullet_list",
       "items": [
-        "o Launched: May 9, 2015",
-        "o Ministry: Ministry of Finance",
-        "o Premium: Rs. 20 annually, auto-debited from bank",
-        "o Coverage:",
-        " Rs. 2 lakh for accidental death/total disability",
-        " Rs. 1 lakh for partial disability",
-        "o Eligibility: Ages 18-70, with linked Aadhaar and bank account",
-        "o Objective: Affordable accident insurance for financial security",
-        "o Claim Process: Through participating banks",
-        "o Renewal: Automatic yearly renewal",
-        "o Tax Benefit: Eligible under Section 80C",
-        "o Enrollment & Administration: Through public sector banks and insurance companies",
-        "o Impact: Enhances financial inclusion, particularly for low-income groups.",
-        "-- 18 of 47 --",
-        "19\tONE STOP SOLUTION FOR IAS, RAS, SI",
-        "Youtube \tTelegram",
-        "Indian Economy \tScheme"
+        "Launched: May 9, 2015",
+        "Ministry: Ministry of Finance",
+        "Premium: Rs. 20 annually, auto-debited from bank",
+        "Coverage:",
+        "Rs. 2 lakh for accidental death/total disability",
+        "Rs. 1 lakh for partial disability",
+        "Eligibility: Ages 18-70, with linked Aadhaar and bank account",
+        "Objective: Affordable accident insurance for financial security",
+        "Claim Process: Through participating banks",
+        "Renewal: Automatic yearly renewal",
+        "Tax Benefit: Eligible under Section 80C",
+        "Enrollment & Administration: Through public sector banks and insurance companies",
+        "Impact: Enhances financial inclusion, particularly for low-income groups.",
+        "Indian Economy Scheme"
       ]
     }
   ],
@@ -49,6 +51,12 @@
       "sourceChecksum": "5827d1cd2dd17f8df400b4e5314747bbd1155d5922b0cb2f50eff2953ccf7183",
       "migrationTimestamp": "2026-08-15T12:14:01.511Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.434Z",
+    "contentStatus": "superseded",
+    "supersededBy": "migrated-schemes-masterfile",
+    "targetMasterfileSection": "migrated-schemes-masterfile",
+    "requiresHumanReview": false
   }
 }

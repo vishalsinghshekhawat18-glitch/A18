@@ -3,8 +3,13 @@
   "type": "ca_note",
   "domain": "schemes",
   "title": "Atal Pension Yojana (APY):",
-  "summary": "Schemes — Atal Pension Yojana (APY):",
+  "summary": "Atal Pension Yojana (APY): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "🏛️ Canonical Reference & Masterfile Integration",
+      "text": "This flagship scheme is comprehensively detailed in the Government Schemes Masterfile (Section: \"migrated-schemes-masterfile\"). Key highlights and parameters are summarized below."
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -44,6 +49,12 @@
       "sourceChecksum": "59fe69abd790d1f622d25df9ddf246414ae514f544f2cd4a3ecd02bc949f01ab",
       "migrationTimestamp": "2026-08-15T12:14:01.511Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.433Z",
+    "contentStatus": "superseded",
+    "supersededBy": "migrated-schemes-masterfile",
+    "targetMasterfileSection": "migrated-schemes-masterfile",
+    "requiresHumanReview": false
   }
 }

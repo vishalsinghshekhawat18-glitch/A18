@@ -2,9 +2,19 @@
   "id": "migrated-schemes-scheme-31",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Purvodaya:",
-  "summary": "Schemes — Purvodaya:",
+  "title": "Purvodaya",
+  "summary": "Purvodaya — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "Purvodaya",
+      "summary": "Schemes — Purvodaya:"
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -45,6 +55,11 @@
       "sourceChecksum": "fedbfaa8d6c3a5f67fd5effbc506673008a30fe48f2780fc7126b1df8bf96b2c",
       "migrationTimestamp": "2026-08-15T12:14:01.509Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.396Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

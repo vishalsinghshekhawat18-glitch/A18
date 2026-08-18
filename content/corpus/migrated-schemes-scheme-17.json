@@ -2,9 +2,14 @@
   "id": "migrated-schemes-scheme-17",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Special Focus:",
-  "summary": "Schemes — Special Focus:",
+  "title": "[Sub-Component] Special Focus:",
+  "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-12.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "🔗 Sub-Component Note",
+      "text": "This note represents a constituent sub-component of migrated-schemes-scheme-12. For the unified examination framework, refer to the parent master note."
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -34,6 +39,11 @@
       "sourceChecksum": "f6bae768f14458a8376cd01660c1e497b8a84984975c7dd98e31d9a384c61235",
       "migrationTimestamp": "2026-08-15T12:14:01.065Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.378Z",
+    "contentStatus": "fragment_merged",
+    "mergedInto": "migrated-schemes-scheme-12",
+    "requiresHumanReview": false
   }
 }

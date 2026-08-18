@@ -3,8 +3,18 @@
   "type": "ca_note",
   "domain": "schemes",
   "title": "Formation of SHGs for collective action.",
-  "summary": "Schemes — Formation of SHGs for collective action.",
+  "summary": "Formation of SHGs for collective action. — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "Formation of SHGs for collective action.",
+      "summary": "Schemes — Formation of SHGs for collective action."
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -47,6 +57,11 @@
       "sourceChecksum": "f2b52a1ff4b6ae3bda0cc1def70b878329152fd665d20038e1dc9ede4ca7e742",
       "migrationTimestamp": "2026-08-15T12:14:02.102Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.455Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

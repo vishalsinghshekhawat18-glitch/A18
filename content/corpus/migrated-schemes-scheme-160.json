@@ -2,9 +2,14 @@
   "id": "migrated-schemes-scheme-160",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Electricity (15%)",
-  "summary": "Schemes — Electricity (15%)",
+  "title": "[Sub-Component] Electricity (15%)",
+  "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-159.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "🔗 Sub-Component Note",
+      "text": "This note represents a constituent sub-component of migrated-schemes-scheme-159. For the unified examination framework, refer to the parent master note."
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -36,6 +41,11 @@
       "sourceChecksum": "110f5ff0fff8c30b0ce7d870cc424c3d52bfa068b46b27288b2980cdf46655c6",
       "migrationTimestamp": "2026-08-15T12:14:02.681Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.548Z",
+    "contentStatus": "fragment_merged",
+    "mergedInto": "migrated-schemes-scheme-159",
+    "requiresHumanReview": false
   }
 }

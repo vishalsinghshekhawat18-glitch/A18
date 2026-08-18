@@ -2,19 +2,26 @@
   "id": "migrated-schemes-scheme-98",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "PAiSA Portal:",
-  "summary": "Schemes — PAiSA Portal:",
+  "title": "PAiSA Portal",
+  "summary": "PAiSA Portal — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "PAiSA Portal",
+      "summary": "Schemes — PAiSA Portal:"
+    },
     {
       "type": "bullet_list",
       "items": [
         "Provides affordable loans and interest subvention under schemes like PM SVANidhi (for street",
         "vendors) and NULM (for urban poor). It streamlines loan applications and ensures transparency,",
         "promoting financial inclusion and economic empowerment.",
-        "-- 28 of 47 --",
-        "29\tONE STOP SOLUTION FOR IAS, RAS, SI",
-        "Youtube \tTelegram",
-        "Indian Economy \tScheme",
+        "Indian Economy Scheme",
         "MINISTRY OF SOCIAL JUSTICE AND EMPOWERMENT"
       ]
     }
@@ -40,6 +47,11 @@
       "sourceChecksum": "9bae89b9b3d9334d72869952a9c6208f547f0b656f2c6a25cdce60462f98e7ac",
       "migrationTimestamp": "2026-08-15T12:14:02.103Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.481Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

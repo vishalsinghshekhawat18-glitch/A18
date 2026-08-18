@@ -2,9 +2,19 @@
   "id": "migrated-schemes-scheme-65",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Startup India Initiative:",
-  "summary": "Schemes — Startup India Initiative:",
+  "title": "Startup India Initiative",
+  "summary": "Startup India Initiative — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "Startup India Initiative",
+      "summary": "Schemes — Startup India Initiative:"
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -54,6 +64,11 @@
       "sourceChecksum": "59786138a0a44c8b8dc0db774c90ea8ec68a089d0918983f65baed9241eb4645",
       "migrationTimestamp": "2026-08-15T12:14:01.511Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.440Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

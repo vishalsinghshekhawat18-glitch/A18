@@ -3,8 +3,13 @@
   "type": "ca_note",
   "domain": "schemes",
   "title": "Pradhan Mantri Ujjwala Yojana (PMUY) :",
-  "summary": "Schemes — Pradhan Mantri Ujjwala Yojana (PMUY) :",
+  "summary": "Pradhan Mantri Ujjwala Yojana (PMUY) : — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "🏛️ Canonical Reference & Masterfile Integration",
+      "text": "This flagship scheme is comprehensively detailed in the Government Schemes Masterfile (Section: \"migrated-schemes-masterfile\"). Key highlights and parameters are summarized below."
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -41,6 +46,12 @@
       "sourceChecksum": "78c143248d7b6ea8b54d131992048f695a610885d7b3deebfbb5bd725a36de81",
       "migrationTimestamp": "2026-08-15T12:14:02.681Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.560Z",
+    "contentStatus": "superseded",
+    "supersededBy": "migrated-schemes-masterfile",
+    "targetMasterfileSection": "migrated-schemes-masterfile",
+    "requiresHumanReview": false
   }
 }

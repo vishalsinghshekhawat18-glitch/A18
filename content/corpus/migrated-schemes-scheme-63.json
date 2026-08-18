@@ -2,9 +2,19 @@
   "id": "migrated-schemes-scheme-63",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "RAMP Scheme (Raising and Accelerating MSME Performance):",
-  "summary": "Schemes — RAMP Scheme (Raising and Accelerating MSME Performance):",
+  "title": "RAMP Scheme (Raising and Accelerating MSME Performance)",
+  "summary": "RAMP Scheme (Raising and Accelerating MSME Performance) — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "RAMP Scheme (Raising and Accelerating MSME Performance)",
+      "summary": "Schemes — RAMP Scheme (Raising and Accelerating MSME Performance):"
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -40,6 +50,11 @@
       "sourceChecksum": "599640f780e0fed83b116d8576290e14840e63db42ae9af38a3a7e4da3a3075f",
       "migrationTimestamp": "2026-08-15T12:14:01.511Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.437Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

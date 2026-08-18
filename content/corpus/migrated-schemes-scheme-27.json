@@ -2,9 +2,14 @@
   "id": "migrated-schemes-scheme-27",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Infrastructure Development:",
-  "summary": "Schemes — Infrastructure Development:",
+  "title": "[Sub-Component] Infrastructure Development:",
+  "summary": "Sub-component fragment integrated into parent scheme: migrated-schemes-scheme-26.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "🔗 Sub-Component Note",
+      "text": "This note represents a constituent sub-component of migrated-schemes-scheme-26. For the unified examination framework, refer to the parent master note."
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -34,6 +39,11 @@
       "sourceChecksum": "faa35df0aa70250ef4d736fa90a9166dada14218d2bccd5cf62e4c9617080088",
       "migrationTimestamp": "2026-08-15T12:14:01.509Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.390Z",
+    "contentStatus": "fragment_merged",
+    "mergedInto": "migrated-schemes-scheme-26",
+    "requiresHumanReview": false
   }
 }

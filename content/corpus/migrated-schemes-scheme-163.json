@@ -3,8 +3,13 @@
   "type": "ca_note",
   "domain": "schemes",
   "title": "Vibrant Village Program (VVP):",
-  "summary": "Schemes — Vibrant Village Program (VVP):",
+  "summary": "Vibrant Village Program (VVP): — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "🏛️ Canonical Reference & Masterfile Integration",
+      "text": "This flagship scheme is comprehensively detailed in the Government Schemes Masterfile (Section: \"migrated-schemes-masterfile\"). Key highlights and parameters are summarized below."
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -37,6 +42,12 @@
       "sourceChecksum": "e1a3c11a84989a57cc9110e16fa78e13a7a2d06b8bf822f422696cf09a2a6499",
       "migrationTimestamp": "2026-08-15T12:14:02.681Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.552Z",
+    "contentStatus": "superseded",
+    "supersededBy": "migrated-schemes-masterfile",
+    "targetMasterfileSection": "migrated-schemes-masterfile",
+    "requiresHumanReview": false
   }
 }

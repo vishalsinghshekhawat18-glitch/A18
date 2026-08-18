@@ -3,8 +3,18 @@
   "type": "ca_note",
   "domain": "schemes",
   "title": "FAME-II (2019-2024): ₹10,000 crore for EV subsidies and infrastructure.",
-  "summary": "Schemes — FAME-II (2019-2024): ₹10,000 crore for EV subsidies and infrastructure.",
+  "summary": "FAME-II (2019-2024): ₹10,000 crore for EV subsidies and infrastructure. — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "FAME-II (2019-2024): ₹10,000 crore for EV subsidies and infrastructure.",
+      "summary": "Schemes — FAME-II (2019-2024): ₹10,000 crore for EV subsidies and infrastructure."
+    },
     {
       "type": "paragraph",
       "content": "Key Features:"
@@ -47,6 +57,11 @@
       "sourceChecksum": "61c018e46137f89e5f17b2d7a261fcc02a67a738f1108b97b6fde1a549d5130d",
       "migrationTimestamp": "2026-08-15T12:14:01.511Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.446Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

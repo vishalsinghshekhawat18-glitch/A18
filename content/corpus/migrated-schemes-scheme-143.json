@@ -2,9 +2,19 @@
   "id": "migrated-schemes-scheme-143",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Antyodaya Shramik Suraksha Yojana:",
-  "summary": "Schemes — Antyodaya Shramik Suraksha Yojana:",
+  "title": "Antyodaya Shramik Suraksha Yojana",
+  "summary": "Antyodaya Shramik Suraksha Yojana — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "Antyodaya Shramik Suraksha Yojana",
+      "summary": "Schemes — Antyodaya Shramik Suraksha Yojana:"
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -39,6 +49,11 @@
       "sourceChecksum": "7791b8cd4ff93db184468486528bc8d275a512865e217bc6fa71c517c9c33eae",
       "migrationTimestamp": "2026-08-15T12:14:02.68Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.527Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

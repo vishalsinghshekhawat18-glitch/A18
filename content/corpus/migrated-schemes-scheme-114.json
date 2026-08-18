@@ -2,9 +2,19 @@
   "id": "migrated-schemes-scheme-114",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Pradhan Mantri Jan Vikas Karyakram (PMJVK):",
-  "summary": "Schemes — Pradhan Mantri Jan Vikas Karyakram (PMJVK):",
+  "title": "Pradhan Mantri Jan Vikas Karyakram (PMJVK)",
+  "summary": "Pradhan Mantri Jan Vikas Karyakram (PMJVK) — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "Pradhan Mantri Jan Vikas Karyakram (PMJVK)",
+      "summary": "Schemes — Pradhan Mantri Jan Vikas Karyakram (PMJVK):"
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -38,6 +48,11 @@
       "sourceChecksum": "a4f88ff59b72235f97085ccfe6fb24f96afae19193edba106244d186531a3831",
       "migrationTimestamp": "2026-08-15T12:14:02.104Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.491Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

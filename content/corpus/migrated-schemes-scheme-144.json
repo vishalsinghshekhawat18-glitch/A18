@@ -2,35 +2,42 @@
   "id": "migrated-schemes-scheme-144",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Pradhan Mantri Matsya Kisan Samridhi Sah-Yojana (PM-MKSSY):",
-  "summary": "Schemes — Pradhan Mantri Matsya Kisan Samridhi Sah-Yojana (PM-MKSSY):",
+  "title": "Pradhan Mantri Matsya Kisan Samridhi Sah-Yojana (PM-MKSSY)",
+  "summary": "Pradhan Mantri Matsya Kisan Samridhi Sah-Yojana (PM-MKSSY) — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "Pradhan Mantri Matsya Kisan Samridhi Sah-Yojana (PM-MKSSY)",
+      "summary": "Schemes — Pradhan Mantri Matsya Kisan Samridhi Sah-Yojana (PM-MKSSY):"
+    },
     {
       "type": "bullet_list",
       "items": [
-        " Objective:",
+        "Objective:",
         "To digitalize, formalize, and enhance the fisheries sector, improving fish production and creating",
         "employment.",
-        " Key Features:",
-        " Budget: ₹6000 Crores (50:50 Centre: World Bank)",
-        " Duration: 2023-2027",
-        "-- 39 of 47 --",
-        "40\tONE STOP SOLUTION FOR IAS, RAS, SI",
-        "Youtube \tTelegram",
-        "Indian Economy \tScheme",
-        " Target Beneficiaries: Fishermen, fish workers, vendors, cooperatives, SHGs, FPOs, and",
+        "Key Features:",
+        "Budget: ₹6000 Crores (50:50 Centre: World Bank)",
+        "Duration: 2023-2027",
+        "Indian Economy Scheme",
+        "Target Beneficiaries: Fishermen, fish workers, vendors, cooperatives, SHGs, FPOs, and",
         "fisheries companies.",
-        " Main Provisions:",
-        " 6.4 lakh micro-enterprise registrations",
-        " Loans to 5000 fisheries cooperatives",
-        " 1.7 lakh new jobs (75,000 for women)",
-        " Grants for value chain development (up to ₹2 Crores)",
-        " Core Components:",
-        " Formalization & Working Capital",
-        " Value Chain Enhancement",
-        " Fish Product Quality Improvement",
-        " Project Management",
-        " Expected Outcome:",
+        "Main Provisions:",
+        "6.4 lakh micro-enterprise registrations",
+        "Loans to 5000 fisheries cooperatives",
+        "1.7 lakh new jobs (75,000 for women)",
+        "Grants for value chain development (up to ₹2 Crores)",
+        "Core Components:",
+        "Formalization & Working Capital",
+        "Value Chain Enhancement",
+        "Fish Product Quality Improvement",
+        "Project Management",
+        "Expected Outcome:",
         "A sustainable, digitalized fisheries sector with increased production, exports, and enhanced",
         "livelihoods."
       ]
@@ -57,6 +64,11 @@
       "sourceChecksum": "672812677aa737103758275db902b0e7adb5bf5a0ef5c726bd9bee088a5aa4d4",
       "migrationTimestamp": "2026-08-15T12:14:02.68Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.528Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

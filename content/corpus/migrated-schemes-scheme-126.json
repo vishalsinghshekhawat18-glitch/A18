@@ -3,8 +3,13 @@
   "type": "ca_note",
   "domain": "schemes",
   "title": "NIPUN Bharat Scheme:",
-  "summary": "Schemes — NIPUN Bharat Scheme:",
+  "summary": "NIPUN Bharat Scheme: — Flagship scheme comprehensively covered in the Government Schemes Consolidated Masterfile.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "🏛️ Canonical Reference & Masterfile Integration",
+      "text": "This flagship scheme is comprehensively detailed in the Government Schemes Masterfile (Section: \"migrated-schemes-masterfile\"). Key highlights and parameters are summarized below."
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -12,16 +17,13 @@
         "foundational literacy and numeracy by Grade 3. Launched by the Ministry of Education, it supports",
         "the implementation of NEP 2020.",
         "Objectives:",
-        " Improve literacy and numeracy for young children.",
-        " Achieve proficiency in reading, writing, and numeracy by 2026-27.",
-        " Focus on play-based, child-centered learning.",
-        "-- 34 of 47 --",
-        "35\tONE STOP SOLUTION FOR IAS, RAS, SI",
-        "Youtube \tTelegram",
-        "Indian Economy \tScheme",
+        "Improve literacy and numeracy for young children.",
+        "Achieve proficiency in reading, writing, and numeracy by 2026-27.",
+        "Focus on play-based, child-centered learning.",
+        "Indian Economy Scheme",
         "Key Features:",
-        " Target: Children aged 3-9 years.",
-        " Approach: Teacher capacity building, use of technology, and regular assessments.",
+        "Target: Children aged 3-9 years.",
+        "Approach: Teacher capacity building, use of technology, and regular assessments.",
         "The scheme aims to ensure quality early education and address disparities in learning."
       ]
     }
@@ -47,6 +49,12 @@
       "sourceChecksum": "dc5e26c89d572cd77a1a9bdb3779febe41dc7d746f2d5cd85353182d45e16993",
       "migrationTimestamp": "2026-08-15T12:14:02.679Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.506Z",
+    "contentStatus": "superseded",
+    "supersededBy": "migrated-schemes-masterfile",
+    "targetMasterfileSection": "migrated-schemes-masterfile",
+    "requiresHumanReview": false
   }
 }

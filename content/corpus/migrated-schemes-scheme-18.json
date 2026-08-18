@@ -2,9 +2,19 @@
   "id": "migrated-schemes-scheme-18",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "PM-SURAJ Portal:",
-  "summary": "Schemes — PM-SURAJ Portal:",
+  "title": "PM-SURAJ Portal",
+  "summary": "PM-SURAJ Portal — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "PM-SURAJ Portal",
+      "summary": "Schemes — PM-SURAJ Portal:"
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -41,6 +51,11 @@
       "sourceChecksum": "b292560d605ef53d03b71aa3c026dc9591a8a610d1952a00b8d996306941a563",
       "migrationTimestamp": "2026-08-15T12:14:01.065Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.380Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

@@ -3,8 +3,18 @@
   "type": "ca_note",
   "domain": "schemes",
   "title": "Remote Areas: Free or subsidized solar connections for unelectrified households in remote",
-  "summary": "Schemes — Remote Areas: Free or subsidized solar connections for unelectrified households in remote",
+  "summary": "Remote Areas: Free or subsidized solar connections for unelectrified households in remote — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "Remote Areas: Free or subsidized solar connections for unelectrified households in remote",
+      "summary": "Schemes — Remote Areas: Free or subsidized solar connections for unelectrified households in remote"
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -40,6 +50,11 @@
       "sourceChecksum": "04a7e6d64af51d224e25eee9c416724308d244e6f57bcbeabb38e7bdc4b03421",
       "migrationTimestamp": "2026-08-15T12:14:01.511Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.428Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

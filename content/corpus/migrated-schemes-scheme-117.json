@@ -2,9 +2,19 @@
   "id": "migrated-schemes-scheme-117",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "NPS Vatsalya Scheme (Budget 2024-25):",
-  "summary": "Schemes — NPS Vatsalya Scheme (Budget 2024-25):",
+  "title": "NPS Vatsalya Scheme (Budget 2024-25)",
+  "summary": "NPS Vatsalya Scheme (Budget 2024-25) — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "NPS Vatsalya Scheme (Budget 2024-25)",
+      "summary": "Schemes — NPS Vatsalya Scheme (Budget 2024-25):"
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -38,6 +48,11 @@
       "sourceChecksum": "52b94c4e3e1c5cb8d28dc4d143467fbf05b75f19690986fd45aa9e0cc48adb5c",
       "migrationTimestamp": "2026-08-15T12:14:02.104Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.495Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

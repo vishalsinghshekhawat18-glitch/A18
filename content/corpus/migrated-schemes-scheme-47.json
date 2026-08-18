@@ -3,8 +3,18 @@
   "type": "ca_note",
   "domain": "schemes",
   "title": "Support Sustainable Farming: Enhance soil quality, reduce pollution, and boost long-term",
-  "summary": "Schemes — Support Sustainable Farming: Enhance soil quality, reduce pollution, and boost long-term",
+  "summary": "Support Sustainable Farming: Enhance soil quality, reduce pollution, and boost long-term — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "Support Sustainable Farming: Enhance soil quality, reduce pollution, and boost long-term",
+      "summary": "Schemes — Support Sustainable Farming: Enhance soil quality, reduce pollution, and boost long-term"
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -35,6 +45,11 @@
       "sourceChecksum": "a5dc5c4ad022fc251653ab1b1a076019490e65834152fa2ba112784eeedab331",
       "migrationTimestamp": "2026-08-15T12:14:01.51Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.417Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

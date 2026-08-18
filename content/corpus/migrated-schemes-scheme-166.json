@@ -2,9 +2,19 @@
   "id": "migrated-schemes-scheme-166",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "ADITI Scheme (2023-26):",
-  "summary": "Schemes — ADITI Scheme (2023-26):",
+  "title": "ADITI Scheme (2023-26)",
+  "summary": "ADITI Scheme (2023-26) — Government Scheme study notes covering operational framework and key exam parameters.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📋 Scheme Study Overview",
+      "text": "Verified standalone scheme summary. Key administrative parameters and operational guidelines."
+    },
+    {
+      "type": "key_concept",
+      "title": "ADITI Scheme (2023-26)",
+      "summary": "Schemes — ADITI Scheme (2023-26):"
+    },
     {
       "type": "bullet_list",
       "items": [
@@ -46,6 +56,11 @@
       "sourceChecksum": "b8464f76a38f7c13aa0e42e7557c504686320af3e2d7808cb2bbb197d60e707c",
       "migrationTimestamp": "2026-08-15T12:14:02.681Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.555Z",
+    "contentStatus": "standalone_enriched",
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
   }
 }

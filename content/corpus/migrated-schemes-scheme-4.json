@@ -2,16 +2,18 @@
   "id": "migrated-schemes-scheme-4",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "PAiSA Portal:",
-  "summary": "Schemes — PAiSA Portal:",
+  "title": "[Index Page Reference] PAiSA Portal:",
+  "summary": "Migration artifact: Table of contents index reference from original scheme document (Page index citation).",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "PAiSA Portal:"
+      "type": "warning_banner",
+      "title": "📑 Migration Index Page (Non-Study Reference)",
+      "text": "This item corresponds to an index/table-of-contents marker in the legacy source document and contains no individual scheme guidelines."
     },
     {
-      "type": "paragraph",
-      "content": "MINISTRY OF SOCIAL JUSTICE AND EMPOWERMENT \tPage No. 29-32"
+      "type": "key_concept",
+      "title": "Index Reference Citation",
+      "summary": "MINISTRY OF SOCIAL JUSTICE AND EMPOWERMENT Page No. 29-32"
     }
   ],
   "metadata": {
@@ -35,6 +37,11 @@
       "sourceChecksum": "6b4f0793a11ddfdf17b41e88c04e2858eaffea7a8060e220946e6d6b492c9025",
       "migrationTimestamp": "2026-08-15T05:52:09.824Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c10-batch",
+    "repairedTimestamp": "2026-08-18T13:49:10.364Z",
+    "contentStatus": "artifact_deprecated",
+    "isDeprecated": true,
+    "requiresHumanReview": false
   }
 }
