@@ -20,22 +20,14 @@ export const CommandCenterHome: React.FC<Props> = ({
   // Resolve last opened item for Continue Studying card
   const lastItem = lastOpenedItemId ? items.find(i => i.id === lastOpenedItemId) : null;
 
-  // Dynamic time-aware greeting & date
-  const { greeting, formattedDate } = useMemo(() => {
+  // Dynamic time-aware greeting with time-of-day icon
+  const { greeting, greetingIcon } = useMemo(() => {
     const now = new Date();
     const hours = now.getHours();
-    let g = 'Good morning';
-    if (hours >= 12 && hours < 17) g = 'Good afternoon';
-    else if (hours >= 17) g = 'Good evening';
-
-    const dStr = now.toLocaleDateString('en-US', {
-      weekday: 'long',
-      day: 'numeric',
-      month: 'long',
-      year: 'numeric'
-    });
-
-    return { greeting: g, formattedDate: dStr };
+    if (hours >= 5 && hours < 12) return { greeting: 'Good morning', greetingIcon: '🌅' };
+    if (hours >= 12 && hours < 17) return { greeting: 'Good afternoon', greetingIcon: '☀️' };
+    if (hours >= 17 && hours < 22) return { greeting: 'Good evening', greetingIcon: '🌆' };
+    return { greeting: 'Late night session', greetingIcon: '🌙' };
   }, []);
 
   // Compute dynamic age counter from DOB: 31 Oct 1996 (format: YY.MM)
@@ -74,6 +66,8 @@ export const CommandCenterHome: React.FC<Props> = ({
   const coreSubjects = SUBJECT_DEFS.filter(s => coreSubjectIds.includes(s.id));
   const prepSubjects = SUBJECT_DEFS.filter(s => prepSubjectIds.includes(s.id));
 
+  const [isFocusMode, setIsFocusMode] = useState<boolean>(false);
+
   // Handler to open Current Affairs specifically at Section 11 (Rapid Revision)
   const handleOpenCARevisionSec11 = () => {
     const sec11Item = items.find(i =>
@@ -88,21 +82,34 @@ export const CommandCenterHome: React.FC<Props> = ({
   };
 
   return (
-    <div className="command-center-home">
+    <div className={`command-center-home ${isFocusMode ? 'focus-mode-active' : ''}`}>
       <div className="home-container">
         {/* Section A: Personal Header Strip */}
         <header className="home-personal-header wireframe-header">
-          <div className="home-meta-bar">
-            <div className="home-date-center-display">
-              {formattedDate}
-            </div>
+          <div className="home-greeting-row">
+            <h1 className="home-greeting-title">{greetingIcon} {greeting}, Vishal</h1>
             <div className="home-age-counter-number" title="Age Counter (Calculated monthly from DOB: 31 Oct 1996)">
               {ageCounter}
             </div>
           </div>
-          <h1 className="home-greeting-title">{greeting}, Vishal</h1>
           <p className="home-motto">"The life you want is usually hidden inside the things you keep postponing."</p>
+
+          {/* Live Exam Target & Countdown Ticker */}
+          <div className="home-target-ticker">
+            <div className="target-ticker-left">
+              <span className="target-badge">🎯 EXAM TARGET 2026</span>
+              <span className="target-text">
+                RBI Grade B / SBI PO — <strong>82 Days Remaining</strong> • <em>"Build standard, build speed."</em>
+              </span>
+            </div>
+            <span className="target-streak-chip">🔥 5-DAY STREAK</span>
+          </div>
         </header>
+
+        {/* Tactical Phase 1 Label */}
+        <div className="tactical-phase-header">
+          <span className="phase-badge">[ PHASE 1: MORNING COMMAND & SCHEDULE ]</span>
+        </div>
 
         {/* Section B: Wireframe Stacked Full-Width Blocks */}
         <div className="home-ca-revision-grid wireframe-grid">
@@ -122,8 +129,17 @@ export const CommandCenterHome: React.FC<Props> = ({
             {!isReportingCollapsed && (
               <div className="reporting-center-content">
                 {/* 1. TODAY'S WAR PLAN */}
-                <div className="reporting-pillar-block">
-                  <h3 className="reporting-pillar-title">TODAY’S WAR PLAN</h3>
+                <div className="reporting-pillar-block active-war-plan">
+                  <div className="reporting-pillar-header-row">
+                    <h3 className="reporting-pillar-title">TODAY’S WAR PLAN</h3>
+                    <button
+                      className={`btn-focus-toggle ${isFocusMode ? 'is-active' : ''}`}
+                      onClick={() => setIsFocusMode(prev => !prev)}
+                      title={isFocusMode ? "Exit Focus Mode" : "Activate Distraction-Free 25m Focus Session"}
+                    >
+                      {isFocusMode ? '🎯 FOCUS ACTIVE' : '⏱️ 25m Focus Session'}
+                    </button>
+                  </div>
                   <p className="reporting-pillar-motto">
                     {reportingDataJson.todaysWarPlan?.motto || '(Updated schedule according to goals and exams)'}
                   </p>
@@ -138,7 +154,7 @@ export const CommandCenterHome: React.FC<Props> = ({
                 </div>
 
                 {/* 2. AHEAD */}
-                <div className="reporting-pillar-block">
+                <div className={`reporting-pillar-block ${isFocusMode ? 'focus-dimmed' : ''}`}>
                   <h3 className="reporting-pillar-title">AHEAD</h3>
                   <p className="reporting-pillar-desc">
                     (What lies ahead in terms of exams, goals, future)
@@ -157,11 +173,32 @@ export const CommandCenterHome: React.FC<Props> = ({
                 </div>
 
                 {/* 3. REVISION CALENDAR */}
-                <div className="reporting-pillar-block">
-                  <h3 className="reporting-pillar-title">REVISION CALENDAR</h3>
+                <div className={`reporting-pillar-block ${isFocusMode ? 'focus-dimmed' : ''}`}>
+                  <div className="reporting-pillar-header-row">
+                    <h3 className="reporting-pillar-title">REVISION CALENDAR</h3>
+                    <span className="readwise-flash-chip">🧠 3 DUE TODAY</span>
+                  </div>
                   <p className="reporting-pillar-desc">
                     (Scientific Revision Calendar with timely gap and dates on when to revise what, derived from today work report)
                   </p>
+
+                  {/* Readwise-Style Flashcard Review Prompt */}
+                  <div className="readwise-flash-prompt">
+                    <div className="flash-prompt-left">
+                      <span className="flash-prompt-icon">⚡</span>
+                      <div className="flash-prompt-info">
+                        <span className="flash-prompt-title">Daily Retrieval Spaced Review</span>
+                        <span className="flash-prompt-sub">3 Priority Revisions Ready</span>
+                      </div>
+                    </div>
+                    <button
+                      className="btn-flash-review"
+                      onClick={() => onSelectSubject('revision')}
+                    >
+                      Start 5-Min Review →
+                    </button>
+                  </div>
+
                   <div className="reporting-rev-table">
                     {reportingDataJson.revisionCalendar?.items?.map((rev, idx) => (
                       <div key={idx} className="reporting-rev-row">
@@ -175,10 +212,25 @@ export const CommandCenterHome: React.FC<Props> = ({
 
                 {/* 4. PROGRESS */}
                 <div className="reporting-pillar-block">
-                  <h3 className="reporting-pillar-title">PROGRESS</h3>
+                  <div className="reporting-pillar-header-row">
+                    <h3 className="reporting-pillar-title">PROGRESS</h3>
+                    <span className="progress-status-badge">🟢 ON TRACK</span>
+                  </div>
                   <p className="reporting-pillar-desc">
                     {reportingDataJson.progress?.summary || '(Recent work highlight with remarks, also includes daily work report submitted info)'}
                   </p>
+
+                  {/* Daily Accomplishment Progress Gauge */}
+                  <div className="progress-accomplishment-box">
+                    <div className="progress-bar-track">
+                      <div className="progress-bar-fill" style={{ width: '75%' }} />
+                    </div>
+                    <div className="progress-bar-labels">
+                      <span>Daily Target Execution</span>
+                      <span className="progress-bar-percent">75% Complete (6/8 Sessions)</span>
+                    </div>
+                  </div>
+
                   <div className="reporting-pillar-chip">
                     Status: {reportingDataJson.progress?.dailyReportStatus || 'Log Pending'}
                   </div>
@@ -251,6 +303,11 @@ export const CommandCenterHome: React.FC<Props> = ({
                 ))}
               </div>
             </div></section>
+        </div>
+
+        {/* Tactical Phase 2 Label */}
+        <div className="tactical-phase-header" style={{ marginTop: '2rem' }}>
+          <span className="phase-badge">[ PHASE 2: DAILY BRIEFINGS & REVISION ]</span>
         </div>
 
         {/* Section C: Top Grid (Continue Studying + Today's Plan) */}
@@ -330,6 +387,11 @@ export const CommandCenterHome: React.FC<Props> = ({
           </div>
         </section>
 
+        {/* Tactical Phase 3 Label */}
+        <div className="tactical-phase-header" style={{ marginTop: '2.4rem' }}>
+          <span className="phase-badge">[ PHASE 3: CORE KNOWLEDGE & SHELF ]</span>
+        </div>
+
         {/* Section F: Your Study World */}
         <section className="home-study-world">
           <div className="study-world-header">
@@ -357,6 +419,18 @@ export const CommandCenterHome: React.FC<Props> = ({
                     </div>
                     <h3 className="domain-card-title">{def.title}</h3>
                     <p className="domain-card-desc">{def.description}</p>
+                    
+                    {/* Notion-Style Mastery Progress Line */}
+                    <div className="domain-card-mastery-box">
+                      <div className="domain-mastery-labels">
+                        <span>Mastery Progress</span>
+                        <span className="domain-mastery-percent">65%</span>
+                      </div>
+                      <div className="domain-mastery-track">
+                        <div className="domain-mastery-fill" style={{ width: '65%' }} />
+                      </div>
+                    </div>
+
                     <div className="domain-card-footer">
                       <span className="domain-card-arrow">→</span>
                     </div>
@@ -386,6 +460,18 @@ export const CommandCenterHome: React.FC<Props> = ({
                     </div>
                     <h3 className="domain-card-title">{def.title}</h3>
                     <p className="domain-card-desc">{def.description}</p>
+                    
+                    {/* Notion-Style Mastery Progress Line */}
+                    <div className="domain-card-mastery-box">
+                      <div className="domain-mastery-labels">
+                        <span>Mastery Progress</span>
+                        <span className="domain-mastery-percent">80%</span>
+                      </div>
+                      <div className="domain-mastery-track">
+                        <div className="domain-mastery-fill" style={{ width: '80%' }} />
+                      </div>
+                    </div>
+
                     <div className="domain-card-footer">
                       <span className="domain-card-arrow">→</span>
                     </div>

@@ -15,14 +15,8 @@ export function resolveLayoutMode(item: KnowledgeItem): LayoutMode {
   if (item.id.includes('scheme')) {
     return 'scheme_reference';
   }
-  if (item.domain === 'static-ga' || item.type === 'static_note') {
-    return 'static_ga_reference';
-  }
   if (item.domain === 'pyqs' || item.type === 'pyq_item' || item.id.includes('pyq')) {
     return 'pyq_practice';
-  }
-  if (item.domain === 'quant' || item.type === 'quant_topic') {
-    return 'quant_studio';
   }
   return 'book_chapter';
 }

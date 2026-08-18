@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useMemo } from 'react';
 
 export type ReadingTheme = 'sepia' | 'warm' | 'night';
 
@@ -21,6 +21,15 @@ export const ReadingControls: React.FC<Props> = ({
   onToggleMobileMenu,
   onGoHome
 }) => {
+  const formattedDate = useMemo(() => {
+    return new Date().toLocaleDateString('en-US', {
+      weekday: 'long',
+      month: 'long',
+      day: 'numeric',
+      year: 'numeric'
+    }).toUpperCase();
+  }, []);
+
   return (
     <header className="reader-header">
       <div style={{ display: 'flex', alignItems: 'center', gap: '0.8rem' }}>
@@ -42,10 +51,10 @@ export const ReadingControls: React.FC<Props> = ({
         <div
           className="reader-header-title"
           onClick={onGoHome}
-          style={{ cursor: 'pointer' }}
+          style={{ cursor: 'pointer', fontFamily: 'var(--font-ui)', fontSize: '0.9rem', fontWeight: 800, color: '#9e3b24', letterSpacing: '0.03em' }}
           title="Go to Command Center Home"
         >
-          🏛️ Banking Command Center
+          {formattedDate}
         </div>
       </div>
 
