@@ -1,0 +1,54 @@
+{
+  "schemeId": "migrated-schemes-scheme-111",
+  "schemeTitle": "SEED Scheme (Scheme for Economic Empowerment of DNT/NT/SNT Communities)",
+  "claims": [
+    {
+      "claim": "Launched on 16 February 2022 by Ministry of Social Justice and Empowerment with ₹200 Crore outlay (2021-22 to 2025-26).",
+      "claimType": "launch",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=1798782",
+      "sourceTitle": "Union Minister Launches SEED Scheme for Welfare of DNT Communities",
+      "sourcePublisher": "Press Information Bureau (PIB Delhi)",
+      "sourceDate": "2022-02-16",
+      "evidenceQuote": "Ministry of Social Justice and Empowerment launched the Scheme for Economic Empowerment of DNTs (SEED) on 16th February, 2022 with an outlay of approximately Rs. 200 Crore for five years (2021-22 to 2025-26).",
+      "verificationStatus": "confirmed",
+      "notes": "Launch date and outlay confirmed."
+    },
+    {
+      "claim": "Implemented through the Development and Welfare Board for DNTs (DWBDNC).",
+      "claimType": "agency",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=1798782",
+      "sourceTitle": "SEED Scheme Administration",
+      "sourcePublisher": "Press Information Bureau (PIB Delhi)",
+      "sourceDate": "2022-02-16",
+      "evidenceQuote": "The scheme is implemented through the Development and Welfare Board for De-notified, Nomadic and Semi-Nomadic Communities (DWBDNC).",
+      "verificationStatus": "confirmed",
+      "notes": "DWBDNC Board confirmed."
+    },
+    {
+      "claim": "Four core components: Free coaching, Health insurance under PM-JAY (₹5 Lakh cover), Livelihoods via NRLM, Housing assistance under PMAY.",
+      "claimType": "benefit",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=1798782",
+      "sourceTitle": "SEED Four Pillars",
+      "sourcePublisher": "Press Information Bureau (PIB Delhi)",
+      "sourceDate": "2022-02-16",
+      "evidenceQuote": "Four components: Free coaching for competitive examinations, Health insurance through PM-JAY, Livelihood initiatives through NRLM, and Financial assistance for housing construction.",
+      "verificationStatus": "confirmed",
+      "notes": "Four pillars confirmed."
+    },
+    {
+      "claim": "Family income ceiling is ₹2.50 Lakh per annum.",
+      "claimType": "eligibility",
+      "sourceUrl": "https://seed.dosje.gov.in",
+      "sourceTitle": "SEED Portal Eligibility Criteria",
+      "sourcePublisher": "Department of Social Justice and Empowerment",
+      "sourceDate": "2022-02-16",
+      "evidenceQuote": "Beneficiaries must belong to DNT/NT/SNT communities not covered under SC/ST/OBC and family annual income should not exceed Rs. 2.50 lakh.",
+      "verificationStatus": "confirmed",
+      "notes": "Income ceiling confirmed."
+    }
+  ],
+  "statusPeriod": "CURRENT",
+  "crossSchemeRelationship": "Dedicated flagship scheme executed by DWBDNC Board under MoSJE.",
+  "examTrapVerified": "Confirmed: Nodal agency is DWBDNC; covers 4 specific pillars (Coaching, PM-JAY health, Livelihoods, Housing).",
+  "requiresHumanReview": true
+}

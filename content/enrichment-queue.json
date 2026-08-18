@@ -1,0 +1,1234 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-08-18T13:39:09.139Z",
+  "queueLength": 86,
+  "workflow": "official source -> verified facts -> canonical structured note -> validation -> corpus",
+  "queue": [
+    {
+      "id": "migrated-pyqs-qsec8-1",
+      "domain": "pyqs",
+      "title": "8.1 Mensuration PYQs",
+      "qualityStatus": "thin",
+      "missingFields": [
+        "contentExpansion"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Note content is suspiciously short (87 chars)."
+      ]
+    },
+    {
+      "id": "migrated-pyqs-qsec8-2",
+      "domain": "pyqs",
+      "title": "8.2 Arithmetic PYQs",
+      "qualityStatus": "thin",
+      "missingFields": [
+        "contentExpansion"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Note content is suspiciously short (43 chars)."
+      ]
+    },
+    {
+      "id": "migrated-pyqs-qsec8-3",
+      "domain": "pyqs",
+      "title": "8.3 Data Interpretation & Algebra PYQs",
+      "qualityStatus": "thin",
+      "missingFields": [
+        "contentExpansion"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Note content is suspiciously short (87 chars)."
+      ]
+    },
+    {
+      "id": "migrated-quant-qsec4-3",
+      "domain": "quant",
+      "title": "4.3 Worked Examples",
+      "qualityStatus": "thin",
+      "missingFields": [
+        "contentExpansion"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Note content is suspiciously short (87 chars)."
+      ]
+    },
+    {
+      "id": "migrated-quant-qsec5-3",
+      "domain": "quant",
+      "title": "5.3 Worked Examples",
+      "qualityStatus": "thin",
+      "missingFields": [
+        "contentExpansion"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Note content is suspiciously short (87 chars)."
+      ]
+    },
+    {
+      "id": "migrated-quant-qsec6-3",
+      "domain": "quant",
+      "title": "6.3 Worked Examples",
+      "qualityStatus": "thin",
+      "missingFields": [
+        "contentExpansion"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Note content is suspiciously short (87 chars)."
+      ]
+    },
+    {
+      "id": "migrated-quant-qsec7-3",
+      "domain": "quant",
+      "title": "7.3 Worked Examples",
+      "qualityStatus": "thin",
+      "missingFields": [
+        "contentExpansion"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Note content is suspiciously short (87 chars)."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-10",
+      "domain": "schemes",
+      "title": "Krishi-Decision Support System (Krishi-DSS / ADSS)",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "keyObjectives"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-102",
+      "domain": "schemes",
+      "title": "PM YASASVI (PM Young Achievers Scholarship Award Scheme for Vibrant India)",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "keyObjectives"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-107",
+      "domain": "schemes",
+      "title": "National Overseas Scholarship (NOS) for SC, DNT, and Landless Labourers",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "keyObjectives"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-108",
+      "domain": "schemes",
+      "title": "SMILE Scheme (Support for Marginalised Individuals for Livelihood and Enterprise)",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "keyObjectives"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-109",
+      "domain": "schemes",
+      "title": "Dr. Ambedkar Central Sector Scheme of Interest Subvention on Overseas Educational Loans for OBCs and EBCs",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "keyObjectives"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-11",
+      "domain": "schemes",
+      "title": "Solar Power Scheme for PVTGs (under PM-JANMAN)",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "keyObjectives"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-110",
+      "domain": "schemes",
+      "title": "National Fellowship for OBC Students (NF-OBC)",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "keyObjectives"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-111",
+      "domain": "schemes",
+      "title": "SEED Scheme (Scheme for Economic Empowerment of DNT/NT/SNT Communities)",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "keyObjectives"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-112",
+      "domain": "schemes",
+      "title": "National Action Plan for Drug Demand Reduction (NAPDDR) & Nasha Mukt Bharat Abhiyaan",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "keyObjectives"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-113",
+      "domain": "schemes",
+      "title": "Atal Vayo Abhyudaya Yojana (AVYAY):",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "targetBeneficiaries",
+        "launchYear"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-114",
+      "domain": "schemes",
+      "title": "Pradhan Mantri Jan Vikas Karyakram (PMJVK):",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "targetBeneficiaries",
+        "launchYear"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-115",
+      "domain": "schemes",
+      "title": "Vanbandhu Kalyan Yojana (VKY):",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "targetBeneficiaries",
+        "launchYear",
+        "financialOutlay"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-116",
+      "domain": "schemes",
+      "title": "PM-JANMAN Abhiyan (Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan):",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-117",
+      "domain": "schemes",
+      "title": "NPS Vatsalya Scheme (Budget 2024-25):",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "targetBeneficiaries"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-118",
+      "domain": "schemes",
+      "title": "Pradhan Mantri Vaya Vandana Yojana (PMVVY):",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "targetBeneficiaries"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-12",
+      "domain": "schemes",
+      "title": "Solarization of Centers & Street Lights: 1,500 centers, ₹1 Lakh each",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "targetBeneficiaries",
+        "launchYear",
+        "financialOutlay"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-129",
+      "domain": "schemes",
+      "title": "Janani Suraksha Yojnna:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-134",
+      "domain": "schemes",
+      "title": "Suposhit Maa Abhiyan:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "targetBeneficiaries",
+        "financialOutlay"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-137",
+      "domain": "schemes",
+      "title": "Prime Minister's PVTG Development Mission:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "launchYear"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-140",
+      "domain": "schemes",
+      "title": "Sickle Cell Anemia Eradication Mission (Budget 2023-24):",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "targetBeneficiaries"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-143",
+      "domain": "schemes",
+      "title": "Antyodaya Shramik Suraksha Yojana:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "targetBeneficiaries",
+        "financialOutlay"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-144",
+      "domain": "schemes",
+      "title": "Pradhan Mantri Matsya Kisan Samridhi Sah-Yojana (PM-MKSSY):",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "launchYear"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-145",
+      "domain": "schemes",
+      "title": "Aatmanirbhar Bharat Rojgar Yojana (ABRY):",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "targetBeneficiaries"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-146",
+      "domain": "schemes",
+      "title": "Aatmanirbhar Bharat Rojgar Yojana (ABRY):",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "financialOutlay"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-15",
+      "domain": "schemes",
+      "title": "Financials:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "targetBeneficiaries",
+        "launchYear"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-152",
+      "domain": "schemes",
+      "title": "Shree Anna Yojana:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "targetBeneficiaries",
+        "financialOutlay"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-153",
+      "domain": "schemes",
+      "title": "BHARAT SHRI Scheme :",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "targetBeneficiaries",
+        "launchYear"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-154",
+      "domain": "schemes",
+      "title": "MISHTI Scheme:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "targetBeneficiaries",
+        "launchYear"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-16",
+      "domain": "schemes",
+      "title": "Subsidy Structure for Solar Plant Installation:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "targetBeneficiaries",
+        "launchYear",
+        "financialOutlay"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-161",
+      "domain": "schemes",
+      "title": "Rashtriya Gram Swaraj Abhiyan (RGSA):",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "targetBeneficiaries"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-162",
+      "domain": "schemes",
+      "title": "Mission Karmayogi:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "targetBeneficiaries",
+        "financialOutlay"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-166",
+      "domain": "schemes",
+      "title": "ADITI Scheme (2023-26):",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "launchYear"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-167",
+      "domain": "schemes",
+      "title": "PM-DevINE Scheme:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "targetBeneficiaries"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-168",
+      "domain": "schemes",
+      "title": "PM E-Bus Scheme:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-169",
+      "domain": "schemes",
+      "title": "PM - E-DRIVE Scheme:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "launchYear"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-18",
+      "domain": "schemes",
+      "title": "PM-SURAJ Portal:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "financialOutlay"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-19",
+      "domain": "schemes",
+      "title": "UNNATI Scheme:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "targetBeneficiaries",
+        "financialOutlay"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-20",
+      "domain": "schemes",
+      "title": "Vigyan Dhara Scheme:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "targetBeneficiaries"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-21",
+      "domain": "schemes",
+      "title": "SPICED Scheme:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "targetBeneficiaries"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-22",
+      "domain": "schemes",
+      "title": "Spice Incubation Centres: Encourage spice-related startups with technical and infrastructural",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "targetBeneficiaries",
+        "launchYear",
+        "financialOutlay"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-23",
+      "domain": "schemes",
+      "title": "RESET Program:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-25",
+      "domain": "schemes",
+      "title": "Unified Pension Scheme (UPS) :",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "targetBeneficiaries"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-26",
+      "domain": "schemes",
+      "title": "Pradhan Mantri Janjatiya Unnat Gram Abhiyan (PM-JUGA):",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "targetBeneficiaries",
+        "launchYear"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-30",
+      "domain": "schemes",
+      "title": "Health & Nutrition:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "targetBeneficiaries"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-31",
+      "domain": "schemes",
+      "title": "Purvodaya:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "targetBeneficiaries",
+        "launchYear",
+        "financialOutlay"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-33",
+      "domain": "schemes",
+      "title": "Prime Minister’s Package:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "launchYear"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-34",
+      "domain": "schemes",
+      "title": "Employment Linked Incentive Scheme",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-35",
+      "domain": "schemes",
+      "title": "Credit guarantee scheme:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "launchYear"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-40",
+      "domain": "schemes",
+      "title": "Pradhan Mantri Kisan Maandhan Yojana (PMKMY):",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-42",
+      "domain": "schemes",
+      "title": "Operation Green:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "targetBeneficiaries",
+        "financialOutlay"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-46",
+      "domain": "schemes",
+      "title": "The PM PRANAM Scheme (Promotion of Alternate Nutrients for Agriculture",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "targetBeneficiaries",
+        "launchYear"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-47",
+      "domain": "schemes",
+      "title": "Support Sustainable Farming: Enhance soil quality, reduce pollution, and boost long-term",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "targetBeneficiaries",
+        "launchYear"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-49",
+      "domain": "schemes",
+      "title": "Nano Fertilizers: Revolutionizing Agriculture:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "targetBeneficiaries"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-5",
+      "domain": "schemes",
+      "title": "Pradhan Mantri Vaya Vandana Yojana (PMVVY):",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "targetBeneficiaries",
+        "launchYear",
+        "financialOutlay"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-52",
+      "domain": "schemes",
+      "title": "Mission Amrit Sarovar:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "financialOutlay"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-54",
+      "domain": "schemes",
+      "title": "MAHIR: Mission on Advanced and High-Impact Research:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "targetBeneficiaries",
+        "launchYear",
+        "financialOutlay"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-55",
+      "domain": "schemes",
+      "title": "Pradhan Mantri Sahaj Bijli Har Ghar Yojana – Saubhagya (2017):",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "launchYear",
+        "financialOutlay"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-56",
+      "domain": "schemes",
+      "title": "Remote Areas: Free or subsidized solar connections for unelectrified households in remote",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "keyObjectives",
+        "targetBeneficiaries"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-61",
+      "domain": "schemes",
+      "title": "Stand-Up India Scheme: ey Facts",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-62",
+      "domain": "schemes",
+      "title": "MSME Competitive LEAN Scheme:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "targetBeneficiaries"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-63",
+      "domain": "schemes",
+      "title": "RAMP Scheme (Raising and Accelerating MSME Performance):",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "targetBeneficiaries"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-64",
+      "domain": "schemes",
+      "title": "MSME Portal:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "keyObjectives",
+        "targetBeneficiaries",
+        "launchYear"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-66",
+      "domain": "schemes",
+      "title": "Make in India:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "targetBeneficiaries"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-67",
+      "domain": "schemes",
+      "title": "Production Linked Incentive (PLI) Scheme:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "targetBeneficiaries"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-68",
+      "domain": "schemes",
+      "title": "Unity Mall Scheme:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "targetBeneficiaries",
+        "launchYear"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-69",
+      "domain": "schemes",
+      "title": "FAME India Scheme:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "targetBeneficiaries",
+        "financialOutlay"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-70",
+      "domain": "schemes",
+      "title": "FAME-II (2019-2024): ₹10,000 crore for EV subsidies and infrastructure.",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "targetBeneficiaries",
+        "launchYear"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-71",
+      "domain": "schemes",
+      "title": "PM MITRA Park Scheme:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "targetBeneficiaries"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-72",
+      "domain": "schemes",
+      "title": "Parks: 7 locations in Tamil Nadu, Telangana, Karnataka, Maharashtra, Gujarat, Madhya",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "targetBeneficiaries",
+        "launchYear",
+        "financialOutlay"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-78",
+      "domain": "schemes",
+      "title": "Formation of SHGs for collective action.",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "targetBeneficiaries"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-8",
+      "domain": "schemes",
+      "title": "\"One Scientist, One Product\" Scheme by ICAR:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "financialOutlay"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-81",
+      "domain": "schemes",
+      "title": "Women Enterprise Acceleration Fund:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "targetBeneficiaries"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-83",
+      "domain": "schemes",
+      "title": "Promote community participation and awareness.",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "targetBeneficiaries",
+        "launchYear",
+        "financialOutlay"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-87",
+      "domain": "schemes",
+      "title": "BOCW (Building & Other Construction Workers)– Welfare for construction workers.",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "targetBeneficiaries",
+        "launchYear",
+        "financialOutlay"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-9",
+      "domain": "schemes",
+      "title": "Digital Agriculture Mission:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "nodalMinistry",
+        "targetBeneficiaries"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-91",
+      "domain": "schemes",
+      "title": "NAMASTE Scheme (2022–2026):",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "targetBeneficiaries",
+        "launchYear"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-94",
+      "domain": "schemes",
+      "title": "CITIIS 2.0 (City Investments to Innovate, Integrate, & Sustain):",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "targetBeneficiaries",
+        "launchYear",
+        "financialOutlay"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-98",
+      "domain": "schemes",
+      "title": "PAiSA Portal:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "keyObjectives",
+        "targetBeneficiaries",
+        "launchYear",
+        "financialOutlay"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    },
+    {
+      "id": "migrated-schemes-scheme-99",
+      "domain": "schemes",
+      "title": "SHRESHTA Scheme: Empowering SC Students through Quality Education:",
+      "qualityStatus": "needs_enrichment",
+      "missingFields": [
+        "financialOutlay"
+      ],
+      "action": "enrich",
+      "reasons": [
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
+      ]
+    }
+  ]
+}

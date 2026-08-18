@@ -1,0 +1,3220 @@
+{
+  "version": "1.0.0-r4c9-canonical-promotion-plan",
+  "generatedAt": "2026-08-18T13:36:02.775Z",
+  "referenceDate": "2026-08-18",
+  "totalSchemeItems": 172,
+  "actionSummary": {
+    "replace": 10,
+    "leave_unchanged": 1,
+    "enrich": 78,
+    "merge": 24,
+    "supersede": 53,
+    "discard_artifact": 6
+  },
+  "corpusInvariantCheck": {
+    "totalOriginalCorpus": 1088,
+    "canonicalCorpusModified": false,
+    "zeroWritesEnforced": true
+  },
+  "plan": [
+    {
+      "sourceItemId": "migrated-schemes-masterfile",
+      "sourceFile": "content/corpus/migrated-schemes-masterfile.json",
+      "sourceChecksum": "34feef102d571ad4f7bca4cde2b99bf143e10eceff0683c81837e036adea6ba5",
+      "sourceTitle": "Government Schemes Masterfile (10-Bucket Complete Framework)",
+      "proposedAction": "leave_unchanged",
+      "destinationId": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": "34feef102d571ad4f7bca4cde2b99bf143e10eceff0683c81837e036adea6ba5",
+      "promotionGate": "canonical_baseline",
+      "reasons": [
+        "Comprehensive canonical consolidated scheme repository."
+      ],
+      "evidenceSources": [
+        "Government Schemes Consolidated Database"
+      ],
+      "validationStatus": "canonical_preserved"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-1",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-1.json",
+      "sourceChecksum": "852377f2f7e38f0ff687341400a7bda54e7efae87246ce75cb022a2c4c852267",
+      "sourceTitle": "Credit guarantee scheme:",
+      "proposedAction": "discard_artifact",
+      "destinationId": null,
+      "destinationFile": null,
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Migration index / OCR page-number artifact containing zero study material."
+      ],
+      "evidenceSources": [
+        "Content Forensics Engine Report"
+      ],
+      "validationStatus": "staged_for_deprecation"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-10",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-10.json",
+      "sourceChecksum": "fc1740a946cc9e3698a900d41c7b09433b4c881944f2246a75c7aac978a049e8",
+      "sourceTitle": "Agriculture Decision Support System (ADSS): Integrates remote sensing data (crop, soil,",
+      "proposedAction": "replace",
+      "destinationId": "migrated-schemes-scheme-10",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-10.json",
+      "repairedChecksum": "b0275280f65c5c0565dbca50ac50dc314961c86fe4077e68c64d603d2c7d61c7",
+      "promotionGate": "R4.C9-validated",
+      "temporalStatus": "CURRENT",
+      "promotionStatus": "approved",
+      "reasons": [
+        "Factually verified against authoritative government sources (PIB, Gazettes, Ministry Portals).",
+        "Structural integrity 100% valid with complete blocks and zero orphan headings.",
+        "Component-level temporal lifecycles delineated with structured notices."
+      ],
+      "evidenceSources": [
+        "Press Information Bureau (PIB Delhi), Cabinet approves Digital Agriculture Mission (02-September-2024)",
+        "Department of Agriculture & Farmers' Welfare, Official Guidelines on Krishi-DSS Portal (agricoop.gov.in)"
+      ],
+      "validationStatus": "ready_for_promotion"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-100",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-100.json",
+      "sourceChecksum": "0619dc14553517a57d4eb165da8c5308dfdc134178899d610cbdb72aeb388159",
+      "sourceTitle": "SHREYAS Scheme (2021-2025):",
+      "proposedAction": "replace",
+      "destinationId": "migrated-schemes-scheme-100",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-100.json",
+      "repairedChecksum": "2d4b03847a1bbeed6650f6634be4335b1bc966be02b5e1b742248baec76dce18",
+      "promotionGate": "R4.C9-validated",
+      "temporalStatus": "MIXED",
+      "promotionStatus": "approved-with-temporal-components",
+      "reasons": [
+        "Factually verified against authoritative government sources (PIB, Gazettes, Ministry Portals).",
+        "Structural integrity 100% valid with complete blocks and zero orphan headings.",
+        "Component-level temporal lifecycles delineated with structured notices."
+      ],
+      "evidenceSources": [
+        "Ministry of Social Justice and Empowerment, Annual Report & Scheme Guidelines (socialjustice.gov.in)",
+        "PIB Delhi, \"SHREYAS: Umbrella Scheme for Higher Education Youth Empowerment\" (2023)"
+      ],
+      "validationStatus": "ready_for_promotion"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-101",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-101.json",
+      "sourceChecksum": "719a3528d1e1cd076ef2e67d9ffc458a47cf21527341af9fe260c639b93d9013",
+      "sourceTitle": "PM-DAKSH Yojana (Pradhan Mantri Dakshta Aur Kushalta Sampann Hitgrahi",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-101",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-101.json",
+      "repairedChecksum": "719a3528d1e1cd076ef2e67d9ffc458a47cf21527341af9fe260c639b93d9013",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-102",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-102.json",
+      "sourceChecksum": "d33bf60825905c8e3499d246659784c108273c1c97b114d231f158f5cf70933a",
+      "sourceTitle": "PM YASASVI (PM Young Achievers Scholarship Award Scheme for Vibrant India):",
+      "proposedAction": "replace",
+      "destinationId": "migrated-schemes-scheme-102",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-102.json",
+      "repairedChecksum": "8a6cb6ae7a1211bab69b0f673baf9136c45bd2d2b9a235d3ea1bc315d07b5d89",
+      "promotionGate": "R4.C9-validated",
+      "temporalStatus": "MIXED",
+      "promotionStatus": "approved-with-temporal-components",
+      "reasons": [
+        "Factually verified against authoritative government sources (PIB, Gazettes, Ministry Portals).",
+        "Structural integrity 100% valid with complete blocks and zero orphan headings.",
+        "Component-level temporal lifecycles delineated with structured notices."
+      ],
+      "evidenceSources": [
+        "Ministry of Social Justice and Empowerment, PM YASASVI Scheme Guidelines (socialjustice.gov.in)",
+        "National Scholarship Portal (scholarships.gov.in), Official Guidelines for PM-YASASVI"
+      ],
+      "validationStatus": "ready_for_promotion"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-103",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-103.json",
+      "sourceChecksum": "3ab3f4528140ddf11916c7a8dfe8b8d2aa2a11f5b1a1acf1220c2ab2dcd6ed55",
+      "sourceTitle": "Pre Matric (Class 9-10):",
+      "proposedAction": "merge",
+      "destinationId": "migrated-schemes-scheme-100",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-100.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Structural fragment of parent scheme migrated-schemes-scheme-100; reunified in parent note."
+      ],
+      "evidenceSources": [
+        "Content Reconciliation Report"
+      ],
+      "validationStatus": "staged_for_merge"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-104",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-104.json",
+      "sourceChecksum": "c6509881759581082cc07fc313c7a8e1eba59b01f2832fd720a544b7369f82a0",
+      "sourceTitle": "Post Matric:",
+      "proposedAction": "merge",
+      "destinationId": "migrated-schemes-scheme-100",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-100.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Structural fragment of parent scheme migrated-schemes-scheme-100; reunified in parent note."
+      ],
+      "evidenceSources": [
+        "Content Reconciliation Report"
+      ],
+      "validationStatus": "staged_for_merge"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-105",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-105.json",
+      "sourceChecksum": "e6076df16eb27fc30bcfeed25d187119839b44f7523bfa2bdf242ae88d6c66c5",
+      "sourceTitle": "Higher Education (Beyond Class 12):",
+      "proposedAction": "merge",
+      "destinationId": "migrated-schemes-scheme-100",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-100.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Structural fragment of parent scheme migrated-schemes-scheme-100; reunified in parent note."
+      ],
+      "evidenceSources": [
+        "Content Reconciliation Report"
+      ],
+      "validationStatus": "staged_for_merge"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-106",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-106.json",
+      "sourceChecksum": "8a80bceb8e496bd3b3064f41c03416c08c596ce3e8249e2a4af8b1fde3429c2b",
+      "sourceTitle": "Merit Improvement (Class 9-12):",
+      "proposedAction": "merge",
+      "destinationId": "migrated-schemes-scheme-100",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-100.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Structural fragment of parent scheme migrated-schemes-scheme-100; reunified in parent note."
+      ],
+      "evidenceSources": [
+        "Content Reconciliation Report"
+      ],
+      "validationStatus": "staged_for_merge"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-107",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-107.json",
+      "sourceChecksum": "ebd83421ae0f12cd762703ac839b0d08d8c171d120b75003465d9342a541d21c",
+      "sourceTitle": "National Overseas Scholarship (Master's/PhD abroad):",
+      "proposedAction": "replace",
+      "destinationId": "migrated-schemes-scheme-107",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-107.json",
+      "repairedChecksum": "ab89713ef0134dddfc74cce4ee3dfb110c8a4eea5083e6cc079714b51df3b5b6",
+      "promotionGate": "R4.C9-validated",
+      "temporalStatus": "CURRENT",
+      "promotionStatus": "approved",
+      "reasons": [
+        "Factually verified against authoritative government sources (PIB, Gazettes, Ministry Portals).",
+        "Structural integrity 100% valid with complete blocks and zero orphan headings.",
+        "Component-level temporal lifecycles delineated with structured notices."
+      ],
+      "evidenceSources": [
+        "Ministry of Social Justice and Empowerment, NOS Official Portal & Guidelines (nosmsje.gov.in)",
+        "PIB Delhi, \"National Overseas Scholarship Scheme Guidelines & Implementation\" (2024)"
+      ],
+      "validationStatus": "ready_for_promotion"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-108",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-108.json",
+      "sourceChecksum": "c8d3bf615f42ce4aa77ea111aa616381da594062c101990e3873bade75a1ae68",
+      "sourceTitle": "SMILE (Support for Marginalised Individuals for Livelihood & Enterprise):",
+      "proposedAction": "replace",
+      "destinationId": "migrated-schemes-scheme-108",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-108.json",
+      "repairedChecksum": "c342c2a59a1ebb9153eed61a10e3ae67cfb06d2e3630395b546efac7020ee6bd",
+      "promotionGate": "R4.C9-validated",
+      "temporalStatus": "MIXED",
+      "promotionStatus": "approved-with-temporal-components",
+      "reasons": [
+        "Factually verified against authoritative government sources (PIB, Gazettes, Ministry Portals).",
+        "Structural integrity 100% valid with complete blocks and zero orphan headings.",
+        "Component-level temporal lifecycles delineated with structured notices."
+      ],
+      "evidenceSources": [
+        "**Target Beneficiaries:** Transgender persons holding Transgender Certificate/ID from National Portal for Transgender Persons, and individuals/families engaged in begging.",
+        "**Eligibility Criteria:** Transgender persons holding Transgender Certificate/ID card issued through the National Portal for Transgender Persons (transgender.dosje.gov.in), and destitute individuals identified through municipal surveys."
+      ],
+      "validationStatus": "ready_for_promotion"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-109",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-109.json",
+      "sourceChecksum": "b046c9683bed9d8adb8abb3518219f0ad90c92f4b4dfcad1f83fa1059d06b175",
+      "sourceTitle": "Ambedkar Interest Subvention Scheme for Education Loans",
+      "proposedAction": "replace",
+      "destinationId": "migrated-schemes-scheme-109",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-109.json",
+      "repairedChecksum": "314d3d34de3e5d8af0e77b43e98243bc65e1c7fa21c811cfcb6bf68e7fe38316",
+      "promotionGate": "R4.C9-validated",
+      "temporalStatus": "CURRENT",
+      "promotionStatus": "approved",
+      "reasons": [
+        "Factually verified against authoritative government sources (PIB, Gazettes, Ministry Portals).",
+        "Structural integrity 100% valid with complete blocks and zero orphan headings.",
+        "Component-level temporal lifecycles delineated with structured notices."
+      ],
+      "evidenceSources": [
+        "Ministry of Social Justice and Empowerment, Scheme Guidelines (socialjustice.gov.in)",
+        "Canara Bank Nodal Cell, Guidelines on Dr. Ambedkar Interest Subvention Scheme"
+      ],
+      "validationStatus": "ready_for_promotion"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-11",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-11.json",
+      "sourceChecksum": "25b5a5fca3dfe541bf29fa081c1875bb3b25c1980efe6130c0e207842ea6d94b",
+      "sourceTitle": "Solar Power Scheme for PVTGs (PM JANMAN):",
+      "proposedAction": "replace",
+      "destinationId": "migrated-schemes-scheme-11",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-11.json",
+      "repairedChecksum": "dca4cbb2308192e98246b61ffd32a11b26f3d50b82940306533413af772b9edb",
+      "promotionGate": "R4.C9-validated",
+      "temporalStatus": "MIXED",
+      "promotionStatus": "approved-with-temporal-components",
+      "reasons": [
+        "Factually verified against authoritative government sources (PIB, Gazettes, Ministry Portals).",
+        "Structural integrity 100% valid with complete blocks and zero orphan headings.",
+        "Component-level temporal lifecycles delineated with structured notices."
+      ],
+      "evidenceSources": [
+        "Ministry of New and Renewable Energy (MNRE), Official Guidelines on Solar Power for PVTGs (mnre.gov.in)",
+        "PIB Delhi, \"Cabinet approves PM-JANMAN Scheme Components\" (Nov 2023 / Jan 2024)"
+      ],
+      "validationStatus": "ready_for_promotion"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-110",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-110.json",
+      "sourceChecksum": "98c8b80a63828233fe3189551cddc3e608a17975ae9d7e877e6fbd4b4685567b",
+      "sourceTitle": "National Fellowship for OBC Students (2014-15):",
+      "proposedAction": "replace",
+      "destinationId": "migrated-schemes-scheme-110",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-110.json",
+      "repairedChecksum": "4b8cbbe4b832ec618fdb074770bfb8aac697dd03575c01eb8159ce9e3c0b33fb",
+      "promotionGate": "R4.C9-validated",
+      "temporalStatus": "CURRENT",
+      "promotionStatus": "approved",
+      "reasons": [
+        "Factually verified against authoritative government sources (PIB, Gazettes, Ministry Portals).",
+        "Structural integrity 100% valid with complete blocks and zero orphan headings.",
+        "Component-level temporal lifecycles delineated with structured notices."
+      ],
+      "evidenceSources": [
+        "Ministry of Social Justice and Empowerment, NF-OBC Guidelines (socialjustice.gov.in)",
+        "UGC / NBCFDC Official Notification on National Fellowship for OBC Students"
+      ],
+      "validationStatus": "ready_for_promotion"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-111",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-111.json",
+      "sourceChecksum": "749ba909a815a89b0cfdc481733daca0748e8724687005779ab24fdf1643edb9",
+      "sourceTitle": "SEED Scheme (Scheme for Economic Empowerment of DNT):",
+      "proposedAction": "replace",
+      "destinationId": "migrated-schemes-scheme-111",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-111.json",
+      "repairedChecksum": "5181821170a7531258dbd13a694d3fbe76230641619703301a079ce396ba59c5",
+      "promotionGate": "R4.C9-validated",
+      "temporalStatus": "MIXED",
+      "promotionStatus": "approved-with-temporal-components",
+      "reasons": [
+        "Factually verified against authoritative government sources (PIB, Gazettes, Ministry Portals).",
+        "Structural integrity 100% valid with complete blocks and zero orphan headings.",
+        "Component-level temporal lifecycles delineated with structured notices."
+      ],
+      "evidenceSources": [
+        "Ministry of Social Justice and Empowerment, SEED Portal & Launch Notification (seed.dosje.gov.in)",
+        "PIB Delhi, \"Union Minister Launches SEED Scheme for Welfare of DNT Communities\" (16-Feb-2022)"
+      ],
+      "validationStatus": "ready_for_promotion"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-112",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-112.json",
+      "sourceChecksum": "0ce14cd7d70d9da53de074f574cfa8df5cbf085e4017a22a650476a02770dafb",
+      "sourceTitle": "National Action Plan for Drug Demand Reduction (NAPDDR) (2018–2025):",
+      "proposedAction": "replace",
+      "destinationId": "migrated-schemes-scheme-112",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-112.json",
+      "repairedChecksum": "4e42cc375b5baf663527d31b05521f9888b12a144b22acc518e86c1ab6479758",
+      "promotionGate": "R4.C9-validated",
+      "temporalStatus": "MIXED",
+      "promotionStatus": "approved-with-temporal-components",
+      "reasons": [
+        "Factually verified against authoritative government sources (PIB, Gazettes, Ministry Portals).",
+        "Structural integrity 100% valid with complete blocks and zero orphan headings.",
+        "Component-level temporal lifecycles delineated with structured notices."
+      ],
+      "evidenceSources": [
+        "Ministry of Social Justice and Empowerment, NAPDDR Guidelines & NMBA Portal (nmba.dosje.gov.in)",
+        "PIB Delhi, \"Achievements under National Action Plan for Drug Demand Reduction\" (2024)"
+      ],
+      "validationStatus": "ready_for_promotion"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-113",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-113.json",
+      "sourceChecksum": "5297521b8cc6a22b55938c57bc54b10437509aea6f688337322a32fa5ff028bc",
+      "sourceTitle": "Atal Vayo Abhyudaya Yojana (AVYAY):",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-113",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-113.json",
+      "repairedChecksum": "5297521b8cc6a22b55938c57bc54b10437509aea6f688337322a32fa5ff028bc",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-114",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-114.json",
+      "sourceChecksum": "fd69aeeca1bd1a521adfbcc9ec33c292b79ba54d2d67c1146d398ed7592d795c",
+      "sourceTitle": "Pradhan Mantri Jan Vikas Karyakram (PMJVK):",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-114",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-114.json",
+      "repairedChecksum": "fd69aeeca1bd1a521adfbcc9ec33c292b79ba54d2d67c1146d398ed7592d795c",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-115",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-115.json",
+      "sourceChecksum": "c510b3dd36202dddb993e7e4879694e71753a4a187b86cc1adecd3949d063a9d",
+      "sourceTitle": "Vanbandhu Kalyan Yojana (VKY):",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-115",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-115.json",
+      "repairedChecksum": "c510b3dd36202dddb993e7e4879694e71753a4a187b86cc1adecd3949d063a9d",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-116",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-116.json",
+      "sourceChecksum": "3215a776106dffe96b8928877501aea73cbd648c6ae0218e805950ef1870d973",
+      "sourceTitle": "PM-JANMAN Abhiyan (Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan):",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-116",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-116.json",
+      "repairedChecksum": "3215a776106dffe96b8928877501aea73cbd648c6ae0218e805950ef1870d973",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-117",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-117.json",
+      "sourceChecksum": "3144b44cfd3c71d1da2d3a82ff0adb9148ae01eb9a82cd918e1019b888b8b7d2",
+      "sourceTitle": "NPS Vatsalya Scheme (Budget 2024-25):",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-117",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-117.json",
+      "repairedChecksum": "3144b44cfd3c71d1da2d3a82ff0adb9148ae01eb9a82cd918e1019b888b8b7d2",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-118",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-118.json",
+      "sourceChecksum": "1726b96c56ab50527d354803f1283da8dc374f951d0a16b11ef053ff940ca2e6",
+      "sourceTitle": "Pradhan Mantri Vaya Vandana Yojana (PMVVY):",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-118",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-118.json",
+      "repairedChecksum": "1726b96c56ab50527d354803f1283da8dc374f951d0a16b11ef053ff940ca2e6",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-119",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-119.json",
+      "sourceChecksum": "e1dbe0b676175bccc9f452c846014b56617763086fd9105171a41a28dec44655",
+      "sourceTitle": "Beti Bachao Beti Padhao:",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-12",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-12.json",
+      "sourceChecksum": "714518a4a03a9cd22604c1a528673329583b1e6e2eccb776ed51685cccfd5060",
+      "sourceTitle": "Solarization of Centers & Street Lights: 1,500 centers, ₹1 Lakh each",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-12",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-12.json",
+      "repairedChecksum": "714518a4a03a9cd22604c1a528673329583b1e6e2eccb776ed51685cccfd5060",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-120",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-120.json",
+      "sourceChecksum": "410564219b5e1a19771383fd1c7814c2c36f07bca28d4acf980185e0d548e0cf",
+      "sourceTitle": "Nationwide",
+      "proposedAction": "merge",
+      "destinationId": "migrated-schemes-scheme-119",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-119.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Structural fragment of parent scheme migrated-schemes-scheme-119; reunified in parent note."
+      ],
+      "evidenceSources": [
+        "Content Reconciliation Report"
+      ],
+      "validationStatus": "staged_for_merge"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-121",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-121.json",
+      "sourceChecksum": "4f1d54d2cc0ffa4a9adce4bc0c8ff3bcf0ef92592fc9a94f92c7f786f918ece0",
+      "sourceTitle": "Sukanya Samriddhi Yojana (SSY):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-122",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-122.json",
+      "sourceChecksum": "5fcdbcfccd2cb7d494eee358a015d32c6ec125bbda1db4ec06a58ee4db38f7b4",
+      "sourceTitle": "Pradhan Mantri Matru Vandana Yojana (PMMVY):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-123",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-123.json",
+      "sourceChecksum": "cddb8364f3836bf5455e4b0b9cb72f6b5bf019a995759d6759a257f269cec0ec",
+      "sourceTitle": "Rs. 2000 for birth registration",
+      "proposedAction": "merge",
+      "destinationId": "migrated-schemes-scheme-122",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-122.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Structural fragment of parent scheme migrated-schemes-scheme-122; reunified in parent note."
+      ],
+      "evidenceSources": [
+        "Content Reconciliation Report"
+      ],
+      "validationStatus": "staged_for_merge"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-124",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-124.json",
+      "sourceChecksum": "9c063aeae10314a2f88f993f9ea1bb6e42f5290a898bca74fece576badfbaf4a",
+      "sourceTitle": "PM SHRI Schools (Prime Minister Schools for Rising India):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-125",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-125.json",
+      "sourceChecksum": "0636411416cacff50738c28f62481862f5c859fe5f4d44c22c5bfb2a6beafecc",
+      "sourceTitle": "Pradhan Mantri Poshan Shakti Nirman Yojana (PM POSHAN Scheme):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-126",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-126.json",
+      "sourceChecksum": "913917309e540298f96f8ede82570fd541ab041ad1c3fe1ba7b6514c5d86c3c9",
+      "sourceTitle": "NIPUN Bharat Scheme:",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-127",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-127.json",
+      "sourceChecksum": "dce3f84e0cdc596d43cdceead154f5948343706c9fc03c71ed8645a880a60e99",
+      "sourceTitle": "STARS Scheme: Strengthening Teaching-Learning and Results for States:",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-128",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-128.json",
+      "sourceChecksum": "3307d9e079a47f8a3e7c13a4138ccfc66513bd7e84b5b2ab4f3ad80de88a79b4",
+      "sourceTitle": "PM-WANI (Prime Minister's Wi-Fi Access Interface):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-129",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-129.json",
+      "sourceChecksum": "410958ab693defa7feb359c36f96ddfc18646ee58539180c761b2e4debb46412",
+      "sourceTitle": "Janani Suraksha Yojnna:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-129",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-129.json",
+      "repairedChecksum": "410958ab693defa7feb359c36f96ddfc18646ee58539180c761b2e4debb46412",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-13",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-13.json",
+      "sourceChecksum": "b086dbe8929ced4f84b439ac3cb4cab0123051da2dcbd531fe228c7ad9d79c23",
+      "sourceTitle": "Launch & Approval:",
+      "proposedAction": "merge",
+      "destinationId": "migrated-schemes-scheme-12",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-12.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Structural fragment of parent scheme migrated-schemes-scheme-12; reunified in parent note."
+      ],
+      "evidenceSources": [
+        "Content Reconciliation Report"
+      ],
+      "validationStatus": "staged_for_merge"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-130",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-130.json",
+      "sourceChecksum": "c55e6434ca307e828b41fa3bd8f8676bc0cf8918d31b17b168cc5b78d37ed46e",
+      "sourceTitle": "National Nutrition Mission (Poshan Abhiyaan):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-131",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-131.json",
+      "sourceChecksum": "b68da02fddb6c7a667e149b98af5f76a032f5acdf8faab68e5f9ddb0c2138cc7",
+      "sourceTitle": "Mission Shakti (2021-2026):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-132",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-132.json",
+      "sourceChecksum": "5fd3e6a9e1fbe7188a87b183c4f462fac5a8d104ccc86e0fe6f818244ec12a2d",
+      "sourceTitle": "Samarthya (Support for women’s well-being):",
+      "proposedAction": "merge",
+      "destinationId": "migrated-schemes-scheme-131",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-131.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Structural fragment of parent scheme migrated-schemes-scheme-131; reunified in parent note."
+      ],
+      "evidenceSources": [
+        "Content Reconciliation Report"
+      ],
+      "validationStatus": "staged_for_merge"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-133",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-133.json",
+      "sourceChecksum": "edfc984dea2ca16a029724c34f20d8e449da80d3e23d74a66c5eb36bcdf09462",
+      "sourceTitle": "Sambal (Safety and justice for women):",
+      "proposedAction": "merge",
+      "destinationId": "migrated-schemes-scheme-131",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-131.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Structural fragment of parent scheme migrated-schemes-scheme-131; reunified in parent note."
+      ],
+      "evidenceSources": [
+        "Content Reconciliation Report"
+      ],
+      "validationStatus": "staged_for_merge"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-134",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-134.json",
+      "sourceChecksum": "eb10ef89dcc7449b4039c59969bea770c0a1354440fa75c6befe879949e33745",
+      "sourceTitle": "Suposhit Maa Abhiyan:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-134",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-134.json",
+      "repairedChecksum": "eb10ef89dcc7449b4039c59969bea770c0a1354440fa75c6befe879949e33745",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-135",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-135.json",
+      "sourceChecksum": "da15ae08ad07d5b4069f8a3cba1fbdb9a24104d474c3468d5aaae9898e35a271",
+      "sourceTitle": "Ayushman Bharat Scheme (Launched: 28 September 2018):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-136",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-136.json",
+      "sourceChecksum": "4c5fe1a9756d84707391f44e99cd38a3163f73b225cb57b02077cbfea5f4319a",
+      "sourceTitle": "National Health Mission (NHM) – Key Highlights:",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-137",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-137.json",
+      "sourceChecksum": "be2559316df1d594cee8480b15df8bef7aaf07ac0e333c543d0711e3b145d731",
+      "sourceTitle": "Prime Minister's PVTG Development Mission:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-137",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-137.json",
+      "repairedChecksum": "be2559316df1d594cee8480b15df8bef7aaf07ac0e333c543d0711e3b145d731",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-138",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-138.json",
+      "sourceChecksum": "6b17939e2abc17b2cb6f4aa05d2853de9965fa43d490788e0f5df3a2edf35771",
+      "sourceTitle": "Ayushman Bharat Digital Health Mission (ABDM):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-139",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-139.json",
+      "sourceChecksum": "ebe4a9bd888ff6caae63a50ca9a40e3426bd44b8205d9229cf5a83e012665d42",
+      "sourceTitle": "Ayushman Bharat Health Infrastructure Mission (ABHIM):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-14",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-14.json",
+      "sourceChecksum": "c90ad9d347d86f2f7cc153cea6cdd503325fa4ef5d344b3956fc73766e942c8b",
+      "sourceTitle": "Key Objectives:",
+      "proposedAction": "merge",
+      "destinationId": "migrated-schemes-scheme-12",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-12.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Structural fragment of parent scheme migrated-schemes-scheme-12; reunified in parent note."
+      ],
+      "evidenceSources": [
+        "Content Reconciliation Report"
+      ],
+      "validationStatus": "staged_for_merge"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-140",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-140.json",
+      "sourceChecksum": "c7877f56dc22c08db6b7c8746ddafab03a71c633dfa5ed0f921c58046ef9995b",
+      "sourceTitle": "Sickle Cell Anemia Eradication Mission (Budget 2023-24):",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-140",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-140.json",
+      "repairedChecksum": "c7877f56dc22c08db6b7c8746ddafab03a71c633dfa5ed0f921c58046ef9995b",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-141",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-141.json",
+      "sourceChecksum": "e704db0135e70eaea16233ece40857f7ac0ccf74e50309560e4746211a908816",
+      "sourceTitle": "PM Kaushal Vikas Yojana:",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-142",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-142.json",
+      "sourceChecksum": "cc31e63d6196c233fab54777cb36b0b7b124c5664c8565fe87431ef73a7612da",
+      "sourceTitle": "PM Vishwakarma Kaushal Samman Yojana (PMVKSY):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-143",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-143.json",
+      "sourceChecksum": "3cd6ad7b9cb36a8eede46551c459484540afac2399d53d93eac7a93325072838",
+      "sourceTitle": "Antyodaya Shramik Suraksha Yojana:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-143",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-143.json",
+      "repairedChecksum": "3cd6ad7b9cb36a8eede46551c459484540afac2399d53d93eac7a93325072838",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-144",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-144.json",
+      "sourceChecksum": "94323ab9b3b02b4178e75dc3e83c2e68922a4e5ff46dd4357e6abf17126960b5",
+      "sourceTitle": "Pradhan Mantri Matsya Kisan Samridhi Sah-Yojana (PM-MKSSY):",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-144",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-144.json",
+      "repairedChecksum": "94323ab9b3b02b4178e75dc3e83c2e68922a4e5ff46dd4357e6abf17126960b5",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-145",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-145.json",
+      "sourceChecksum": "04927595612fd303f43d74ff1a44e481b213cdf414690d0dbada83494d2b45b1",
+      "sourceTitle": "Aatmanirbhar Bharat Rojgar Yojana (ABRY):",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-145",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-145.json",
+      "repairedChecksum": "04927595612fd303f43d74ff1a44e481b213cdf414690d0dbada83494d2b45b1",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-146",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-146.json",
+      "sourceChecksum": "d321471f98667911441bbb12c67642a35af77c1dd19394008f8c2b50523c2f48",
+      "sourceTitle": "Aatmanirbhar Bharat Rojgar Yojana (ABRY):",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-146",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-146.json",
+      "repairedChecksum": "d321471f98667911441bbb12c67642a35af77c1dd19394008f8c2b50523c2f48",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-147",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-147.json",
+      "sourceChecksum": "54a88f2f9d253b2eb74b33e41e781ee43601ce9620eda3b918602ba1756dbf24",
+      "sourceTitle": "Pradhan Mantri Shram Yogi Mandhan Yojana (PM-SYMY):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-148",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-148.json",
+      "sourceChecksum": "033131c1b0418ce50a25f9be64f72c0618ce9c99238541b7b51ba9e89d1956cb",
+      "sourceTitle": "Project Bharatmala :",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-149",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-149.json",
+      "sourceChecksum": "18f23cdcc2e912ab2fcb7cb434337381faac1ce9db5d44ba4cfd34114124fca3",
+      "sourceTitle": "Project Sagarmala (2016–2025):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-15",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-15.json",
+      "sourceChecksum": "71db1fe813277ac8a7af245375642b63b0bc8912d9fa15e49bc81d662fb91106",
+      "sourceTitle": "Financials:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-15",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-15.json",
+      "repairedChecksum": "71db1fe813277ac8a7af245375642b63b0bc8912d9fa15e49bc81d662fb91106",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-150",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-150.json",
+      "sourceChecksum": "5e1bf1a8fc59652b45945cd306c2ec6e388f3a436255b8e10050fb3341e323d1",
+      "sourceTitle": "Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-151",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-151.json",
+      "sourceChecksum": "bd053a5aa0b3d56e86c869ee74cac66cd5529f21e4ff157a27dd129915bea3fe",
+      "sourceTitle": "PM Gati Shakti Yojana (National Master Plan for Multi-Modal Connectivity):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-152",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-152.json",
+      "sourceChecksum": "d232fb307f006cec84397ef4d92a17e3074241914b1fa8501b701fcef7adc3aa",
+      "sourceTitle": "Shree Anna Yojana:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-152",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-152.json",
+      "repairedChecksum": "d232fb307f006cec84397ef4d92a17e3074241914b1fa8501b701fcef7adc3aa",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-153",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-153.json",
+      "sourceChecksum": "02251d5d08c9cab38bd051a858b07a5c63dbcc2914f5120f2627a2441128bc75",
+      "sourceTitle": "BHARAT SHRI Scheme :",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-153",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-153.json",
+      "repairedChecksum": "02251d5d08c9cab38bd051a858b07a5c63dbcc2914f5120f2627a2441128bc75",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-154",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-154.json",
+      "sourceChecksum": "ac8d2c277480d9983f58dd56eaf9bf85310677a45fb58b6db1ea4104ba9b9459",
+      "sourceTitle": "MISHTI Scheme:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-154",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-154.json",
+      "repairedChecksum": "ac8d2c277480d9983f58dd56eaf9bf85310677a45fb58b6db1ea4104ba9b9459",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-155",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-155.json",
+      "sourceChecksum": "8c3e0fd024c4efd3847215a6ad30b769a34137dcf026d539d5f4469590bd7994",
+      "sourceTitle": "SVAMITVA Scheme:",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-156",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-156.json",
+      "sourceChecksum": "704b5c2a26fdd8d1e6e5c0e919f21e66942ddbaecebaea9e50e9558505ea07fb",
+      "sourceTitle": "Legal Ownership: Property cards to enable financial empowerment and dispute resolution.",
+      "proposedAction": "merge",
+      "destinationId": "migrated-schemes-scheme-155",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-155.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Structural fragment of parent scheme migrated-schemes-scheme-155; reunified in parent note."
+      ],
+      "evidenceSources": [
+        "Content Reconciliation Report"
+      ],
+      "validationStatus": "staged_for_merge"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-157",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-157.json",
+      "sourceChecksum": "8622e820bd795aedb4a943dde98017a921ed9faf00edeb64537c31b5132cdc9e",
+      "sourceTitle": "National Infrastructure Pipeline (NIP):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-158",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-158.json",
+      "sourceChecksum": "5e6d1a988981f31a82a82e7d63555033639887b5bba53ba63113a0c6abd05b71",
+      "sourceTitle": "Energy: 24% (Power Generation, Renewable Energy)",
+      "proposedAction": "merge",
+      "destinationId": "migrated-schemes-scheme-157",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-157.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Structural fragment of parent scheme migrated-schemes-scheme-157; reunified in parent note."
+      ],
+      "evidenceSources": [
+        "Content Reconciliation Report"
+      ],
+      "validationStatus": "staged_for_merge"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-159",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-159.json",
+      "sourceChecksum": "a539335eddba7ed26e6725dab109c25caac0b1a2517c56dde7cff1594914c3fa",
+      "sourceTitle": "National Monetization Pipeline (NMP):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-16",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-16.json",
+      "sourceChecksum": "b5aa1e03c4a6b39eedd1a50cbf01f810fbb33b6d1d2792ced6fb4942c6d29049",
+      "sourceTitle": "Subsidy Structure for Solar Plant Installation:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-16",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-16.json",
+      "repairedChecksum": "b5aa1e03c4a6b39eedd1a50cbf01f810fbb33b6d1d2792ced6fb4942c6d29049",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-160",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-160.json",
+      "sourceChecksum": "6d8a4c31401ca0632e8ded63299f0cb9b78c5bf28edb39d73874570285ec5619",
+      "sourceTitle": "Electricity (15%)",
+      "proposedAction": "merge",
+      "destinationId": "migrated-schemes-scheme-159",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-159.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Structural fragment of parent scheme migrated-schemes-scheme-159; reunified in parent note."
+      ],
+      "evidenceSources": [
+        "Content Reconciliation Report"
+      ],
+      "validationStatus": "staged_for_merge"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-161",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-161.json",
+      "sourceChecksum": "0d034d5a20fa57d6d17ed50e534d4ba35e03737fe66fe8a5f9bccfa9b5f0ea9d",
+      "sourceTitle": "Rashtriya Gram Swaraj Abhiyan (RGSA):",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-161",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-161.json",
+      "repairedChecksum": "0d034d5a20fa57d6d17ed50e534d4ba35e03737fe66fe8a5f9bccfa9b5f0ea9d",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-162",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-162.json",
+      "sourceChecksum": "690874d34da50cb7a1476acb075227a0d4e859f27eea15dcad5fe44ce176d7fa",
+      "sourceTitle": "Mission Karmayogi:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-162",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-162.json",
+      "repairedChecksum": "690874d34da50cb7a1476acb075227a0d4e859f27eea15dcad5fe44ce176d7fa",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-163",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-163.json",
+      "sourceChecksum": "286b0bf823a25e68d5bbae76669ad5dc4afa7b11f02b7e98cda83f1de91a8053",
+      "sourceTitle": "Vibrant Village Program (VVP):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-164",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-164.json",
+      "sourceChecksum": "5f505b32706205fa62e5735b3d667fbc8c736d5456f38eca3248f63840c52a2d",
+      "sourceTitle": "Infrastructure: Roads, housing, electricity, telecom.",
+      "proposedAction": "merge",
+      "destinationId": "migrated-schemes-scheme-163",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-163.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Structural fragment of parent scheme migrated-schemes-scheme-163; reunified in parent note."
+      ],
+      "evidenceSources": [
+        "Content Reconciliation Report"
+      ],
+      "validationStatus": "staged_for_merge"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-165",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-165.json",
+      "sourceChecksum": "f66ff1f3eff5241668447b5861f80e39bb8c616131fc500d924c5218a8b97121",
+      "sourceTitle": "Economic Growth: Tourism, skill development, cultural promotion.",
+      "proposedAction": "merge",
+      "destinationId": "migrated-schemes-scheme-163",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-163.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Structural fragment of parent scheme migrated-schemes-scheme-163; reunified in parent note."
+      ],
+      "evidenceSources": [
+        "Content Reconciliation Report"
+      ],
+      "validationStatus": "staged_for_merge"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-166",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-166.json",
+      "sourceChecksum": "9369b7d294a39279475a17f1552250ebfab72e7fba62d50b44ae7cac7357ce04",
+      "sourceTitle": "ADITI Scheme (2023-26):",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-166",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-166.json",
+      "repairedChecksum": "9369b7d294a39279475a17f1552250ebfab72e7fba62d50b44ae7cac7357ce04",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-167",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-167.json",
+      "sourceChecksum": "d940680e3aeacb880dc3a5f71ffe4ecc7663b1aae67169108c756695028e3c1f",
+      "sourceTitle": "PM-DevINE Scheme:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-167",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-167.json",
+      "repairedChecksum": "d940680e3aeacb880dc3a5f71ffe4ecc7663b1aae67169108c756695028e3c1f",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-168",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-168.json",
+      "sourceChecksum": "8faa523afab8eedd9d9680c9a3ce5734b3a380b0085bab1341f21f8c5ccc344b",
+      "sourceTitle": "PM E-Bus Scheme:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-168",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-168.json",
+      "repairedChecksum": "8faa523afab8eedd9d9680c9a3ce5734b3a380b0085bab1341f21f8c5ccc344b",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-169",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-169.json",
+      "sourceChecksum": "4e547c3edb4bab953ba484ce1c959af2a33734c8769965249ed540da71efe6fa",
+      "sourceTitle": "PM - E-DRIVE Scheme:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-169",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-169.json",
+      "repairedChecksum": "4e547c3edb4bab953ba484ce1c959af2a33734c8769965249ed540da71efe6fa",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-17",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-17.json",
+      "sourceChecksum": "53dab081d7b3af5bf9cc6ca7022e5411cca26514b517cfcbb013493906579ba2",
+      "sourceTitle": "Special Focus:",
+      "proposedAction": "merge",
+      "destinationId": "migrated-schemes-scheme-12",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-12.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Structural fragment of parent scheme migrated-schemes-scheme-12; reunified in parent note."
+      ],
+      "evidenceSources": [
+        "Content Reconciliation Report"
+      ],
+      "validationStatus": "staged_for_merge"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-170",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-170.json",
+      "sourceChecksum": "d536d74f2d0074cfc3dcae7f34e128df840ec8097bcd7a22579e2ad69c0d5650",
+      "sourceTitle": "Pradhan Mantri Ujjwala Yojana (PMUY) :",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-171",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-171.json",
+      "sourceChecksum": "6020b06627d0df2b39613f60923ea03d08fccf5396967ecbd383a10df1f218d9",
+      "sourceTitle": "PMUY II (2021, Mahoba, UP)",
+      "proposedAction": "merge",
+      "destinationId": "migrated-schemes-scheme-170",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-170.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Structural fragment of parent scheme migrated-schemes-scheme-170; reunified in parent note."
+      ],
+      "evidenceSources": [
+        "Content Reconciliation Report"
+      ],
+      "validationStatus": "staged_for_merge"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-18",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-18.json",
+      "sourceChecksum": "69c14e3636b17f7c97aec3ecbaf43e81413f9aeba8eb0e11259c91d0b2732983",
+      "sourceTitle": "PM-SURAJ Portal:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-18",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-18.json",
+      "repairedChecksum": "69c14e3636b17f7c97aec3ecbaf43e81413f9aeba8eb0e11259c91d0b2732983",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-19",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-19.json",
+      "sourceChecksum": "f32b6b12cb44606ae7b46c6cf08abef4901501c6f6a2badaac5afe48578b8e02",
+      "sourceTitle": "UNNATI Scheme:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-19",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-19.json",
+      "repairedChecksum": "f32b6b12cb44606ae7b46c6cf08abef4901501c6f6a2badaac5afe48578b8e02",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-2",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-2.json",
+      "sourceChecksum": "1dd401776c602aea41ed0034f0aa781ff3cdcc7d1f33ed615fcce66f50961419",
+      "sourceTitle": "Atal Pension Yojana (APY):",
+      "proposedAction": "discard_artifact",
+      "destinationId": null,
+      "destinationFile": null,
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Migration index / OCR page-number artifact containing zero study material."
+      ],
+      "evidenceSources": [
+        "Content Forensics Engine Report"
+      ],
+      "validationStatus": "staged_for_deprecation"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-20",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-20.json",
+      "sourceChecksum": "da7923f8a6b08705f5e1b929cdcf8d9c34ea4bb74c894446ef22790e39acf0a6",
+      "sourceTitle": "Vigyan Dhara Scheme:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-20",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-20.json",
+      "repairedChecksum": "da7923f8a6b08705f5e1b929cdcf8d9c34ea4bb74c894446ef22790e39acf0a6",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-21",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-21.json",
+      "sourceChecksum": "91ee341eadf7fcf35c6eca6ce022f542c07af2971760480155282fd2b284b7ed",
+      "sourceTitle": "SPICED Scheme:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-21",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-21.json",
+      "repairedChecksum": "91ee341eadf7fcf35c6eca6ce022f542c07af2971760480155282fd2b284b7ed",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-22",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-22.json",
+      "sourceChecksum": "e9a7703a085968acde3133a95f3591e9fddc5dee48a9ef9a3e65fb7ea3615adf",
+      "sourceTitle": "Spice Incubation Centres: Encourage spice-related startups with technical and infrastructural",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-22",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-22.json",
+      "repairedChecksum": "e9a7703a085968acde3133a95f3591e9fddc5dee48a9ef9a3e65fb7ea3615adf",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-23",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-23.json",
+      "sourceChecksum": "78305dbede023db2118f3835c34f4dce78ebd6439f3c9454e4fddb50e89b5899",
+      "sourceTitle": "RESET Program:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-23",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-23.json",
+      "repairedChecksum": "78305dbede023db2118f3835c34f4dce78ebd6439f3c9454e4fddb50e89b5899",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-24",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-24.json",
+      "sourceChecksum": "f8bedd27d93a3262a58b0471da5e11bfc0267096c186f93699e31f6bba7020f7",
+      "sourceTitle": "Deen Dayal SPARSH Yojana:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-24",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-24.json",
+      "repairedChecksum": "f8bedd27d93a3262a58b0471da5e11bfc0267096c186f93699e31f6bba7020f7",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-25",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-25.json",
+      "sourceChecksum": "3fcabe0a56afeca9210ac0ce41dbf2dc7b1e9dc1700675962d74981dc25bfb0f",
+      "sourceTitle": "Unified Pension Scheme (UPS) :",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-25",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-25.json",
+      "repairedChecksum": "3fcabe0a56afeca9210ac0ce41dbf2dc7b1e9dc1700675962d74981dc25bfb0f",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-26",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-26.json",
+      "sourceChecksum": "e4e0faa413ee1dfdb352f0d0240b0b2390d557fb372b5de8f17b98596d98a309",
+      "sourceTitle": "Pradhan Mantri Janjatiya Unnat Gram Abhiyan (PM-JUGA):",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-26",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-26.json",
+      "repairedChecksum": "e4e0faa413ee1dfdb352f0d0240b0b2390d557fb372b5de8f17b98596d98a309",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-27",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-27.json",
+      "sourceChecksum": "5f573e7b0b51f9ea3b1ae6a8e584ffa0c71d1cc296057e9e83417889c1dd0dd0",
+      "sourceTitle": "Infrastructure Development:",
+      "proposedAction": "merge",
+      "destinationId": "migrated-schemes-scheme-26",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-26.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Structural fragment of parent scheme migrated-schemes-scheme-26; reunified in parent note."
+      ],
+      "evidenceSources": [
+        "Content Reconciliation Report"
+      ],
+      "validationStatus": "staged_for_merge"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-28",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-28.json",
+      "sourceChecksum": "faaf75c9b9583058d15cd8e717822d1fd8737714196804c21adc5135c68d2ce4",
+      "sourceTitle": "Economic Empowerment:",
+      "proposedAction": "merge",
+      "destinationId": "migrated-schemes-scheme-26",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-26.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Structural fragment of parent scheme migrated-schemes-scheme-26; reunified in parent note."
+      ],
+      "evidenceSources": [
+        "Content Reconciliation Report"
+      ],
+      "validationStatus": "staged_for_merge"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-29",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-29.json",
+      "sourceChecksum": "cd4b103ddff573954f87aa890c4d8b5d6441da8abce6b369da4f8446a79255eb",
+      "sourceTitle": "Education:",
+      "proposedAction": "merge",
+      "destinationId": "migrated-schemes-scheme-26",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-26.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Structural fragment of parent scheme migrated-schemes-scheme-26; reunified in parent note."
+      ],
+      "evidenceSources": [
+        "Content Reconciliation Report"
+      ],
+      "validationStatus": "staged_for_merge"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-3",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-3.json",
+      "sourceChecksum": "027823dd1c89fb02ead18f276c59f6b7ffff99ad3a3eec67fadc04640a931220",
+      "sourceTitle": "Pradhan Mantri Suraksha Bima Yojana (PMSBY):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-30",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-30.json",
+      "sourceChecksum": "8ca82e4384e4d92a5a9414165c2a082f1e3ad467070d0adb0a6e431ff97772c5",
+      "sourceTitle": "Health & Nutrition:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-30",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-30.json",
+      "repairedChecksum": "8ca82e4384e4d92a5a9414165c2a082f1e3ad467070d0adb0a6e431ff97772c5",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-31",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-31.json",
+      "sourceChecksum": "8059a24f5f4b76bf868722ece5627a987e1163ff330dbe264146c65e2955b3b8",
+      "sourceTitle": "Purvodaya:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-31",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-31.json",
+      "repairedChecksum": "8059a24f5f4b76bf868722ece5627a987e1163ff330dbe264146c65e2955b3b8",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-32",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-32.json",
+      "sourceChecksum": "6dc2909b52d7589da9dbe03eb27b07bf766ea4458280ca86fa37531c1d0751ff",
+      "sourceTitle": "Higher Education Loan Scheme:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-32",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-32.json",
+      "repairedChecksum": "6dc2909b52d7589da9dbe03eb27b07bf766ea4458280ca86fa37531c1d0751ff",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-33",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-33.json",
+      "sourceChecksum": "8885696d5115d992746e79ae89d8f0d87e8045c8c5fee345d5bef80cccdf8f0a",
+      "sourceTitle": "Prime Minister’s Package:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-33",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-33.json",
+      "repairedChecksum": "8885696d5115d992746e79ae89d8f0d87e8045c8c5fee345d5bef80cccdf8f0a",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-34",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-34.json",
+      "sourceChecksum": "4d69edacbf31ef73883d4697d9060481f1633c61343472c5b316ca936cae217e",
+      "sourceTitle": "Employment Linked Incentive Scheme",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-34",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-34.json",
+      "repairedChecksum": "4d69edacbf31ef73883d4697d9060481f1633c61343472c5b316ca936cae217e",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-35",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-35.json",
+      "sourceChecksum": "5645a7999097fa8617e164d62f2fcf37951fc16f9b4b657a7e59933ea5a42f3f",
+      "sourceTitle": "Credit guarantee scheme:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-35",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-35.json",
+      "repairedChecksum": "5645a7999097fa8617e164d62f2fcf37951fc16f9b4b657a7e59933ea5a42f3f",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-36",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-36.json",
+      "sourceChecksum": "ba40f31a6d2ae395aa85df0ae2d79f7ef425f66233576faf18df2cb6acf6e536",
+      "sourceTitle": "Pradhan Mantri Fasal Bima Yojana (PMFBY):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-37",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-37.json",
+      "sourceChecksum": "80e84b8d162a309d57537aab93e368f4d06f90811ae8880f08aaefd58ad4eba9",
+      "sourceTitle": "Pradhan Mantri Kisan Samman Nidhi Scheme (PM-KISAN):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-38",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-38.json",
+      "sourceChecksum": "6a413c2d5e047eae2fa99310835cc88cdc64c1a46dfeb9bb4176ee8c69efda46",
+      "sourceTitle": "Pradhan Mantri Kisan SAMPADA Yojana (PMKSY):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-39",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-39.json",
+      "sourceChecksum": "51847ccadde8948202cd059efb3e36582fba093cc89964a3c05a69bacbdb28cb",
+      "sourceTitle": "Kisan Credit Card (KCC):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-4",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-4.json",
+      "sourceChecksum": "72f7c6be1d17d6435bd2d51da3b8e0e5b025c0056218767b6869ed1c5f30621e",
+      "sourceTitle": "PAiSA Portal:",
+      "proposedAction": "discard_artifact",
+      "destinationId": null,
+      "destinationFile": null,
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Migration index / OCR page-number artifact containing zero study material."
+      ],
+      "evidenceSources": [
+        "Content Forensics Engine Report"
+      ],
+      "validationStatus": "staged_for_deprecation"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-40",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-40.json",
+      "sourceChecksum": "f4d44b86bf6e749735acefe2a49d377239c3afe5760ac0b064a78d48255b290c",
+      "sourceTitle": "Pradhan Mantri Kisan Maandhan Yojana (PMKMY):",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-40",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-40.json",
+      "repairedChecksum": "f4d44b86bf6e749735acefe2a49d377239c3afe5760ac0b064a78d48255b290c",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-41",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-41.json",
+      "sourceChecksum": "849739f50332f42d012f656b22f310dcf5177efe9c4f63499b7f53c31c4b309e",
+      "sourceTitle": "The Soil Health Card Scheme (SHC):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-42",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-42.json",
+      "sourceChecksum": "06c0fd40fc05b16a386da08abf62a772b4a5b22dd24bc7ecd5f3f76f5d69a64b",
+      "sourceTitle": "Operation Green:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-42",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-42.json",
+      "repairedChecksum": "06c0fd40fc05b16a386da08abf62a772b4a5b22dd24bc7ecd5f3f76f5d69a64b",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-43",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-43.json",
+      "sourceChecksum": "92bf00a9a5cf1624ce304e4d19da96df685479133b2a3399f8079377d925814a",
+      "sourceTitle": "Subsidy Scheme for KCC Cardholders:",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-44",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-44.json",
+      "sourceChecksum": "36bbef3edf1b9e288bf2065aad6f0e5cd719783cd208c5a357e2c535c0f2c31d",
+      "sourceTitle": "National Agriculture Market (e-NAM) :",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-45",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-45.json",
+      "sourceChecksum": "270ebbc31df62be57da360933d74c225bc2d5c99aed35ec03298e488099302ef",
+      "sourceTitle": "PM-KUSUM Scheme (Pradhan Mantri Kisan Urja Suraksha evam Utthaan",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-46",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-46.json",
+      "sourceChecksum": "939a80f76e34ab496ddf4e6841ea85f5793d096467ddec4ae47a40b0b9f7222a",
+      "sourceTitle": "The PM PRANAM Scheme (Promotion of Alternate Nutrients for Agriculture",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-46",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-46.json",
+      "repairedChecksum": "939a80f76e34ab496ddf4e6841ea85f5793d096467ddec4ae47a40b0b9f7222a",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-47",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-47.json",
+      "sourceChecksum": "e9561db6239a6ad5c226b864d3c1bd337fd9f129a0fac839a3744ec11dd16feb",
+      "sourceTitle": "Support Sustainable Farming: Enhance soil quality, reduce pollution, and boost long-term",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-47",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-47.json",
+      "repairedChecksum": "e9561db6239a6ad5c226b864d3c1bd337fd9f129a0fac839a3744ec11dd16feb",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-48",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-48.json",
+      "sourceChecksum": "126f7909714f04f1879dd78811e4a9aaebe018b26e48c5dabd40d01f3ad5421c",
+      "sourceTitle": "Agriculture Infrastructure Fund (AIF):",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-48",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-48.json",
+      "repairedChecksum": "126f7909714f04f1879dd78811e4a9aaebe018b26e48c5dabd40d01f3ad5421c",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-49",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-49.json",
+      "sourceChecksum": "c86699d2c3ddc895708db00c1ea1ed59766e3d2955fac2ea1ec2e1603e670d8b",
+      "sourceTitle": "Nano Fertilizers: Revolutionizing Agriculture:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-49",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-49.json",
+      "repairedChecksum": "c86699d2c3ddc895708db00c1ea1ed59766e3d2955fac2ea1ec2e1603e670d8b",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-5",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-5.json",
+      "sourceChecksum": "8b3bfb46ecc635a26e38fb147b227ed666db11d5a7e05e977118a2c2e3132ec2",
+      "sourceTitle": "Pradhan Mantri Vaya Vandana Yojana (PMVVY):",
+      "proposedAction": "discard_artifact",
+      "destinationId": null,
+      "destinationFile": null,
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Migration index / OCR page-number artifact containing zero study material."
+      ],
+      "evidenceSources": [
+        "Content Forensics Engine Report"
+      ],
+      "validationStatus": "staged_for_deprecation"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-50",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-50.json",
+      "sourceChecksum": "2b5a787e52f77ba83e4e7fbd49c5d85469844be3ace52875fd5cdca079046d12",
+      "sourceTitle": "Jal Jeevan Mission (JJM):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-51",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-51.json",
+      "sourceChecksum": "11075ed106566bfa2fc5210079eda27f30f7cea83a71a71d5f016e4d254e2b74",
+      "sourceTitle": "Atal Bhujal Yojana (ABY):",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-51",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-51.json",
+      "repairedChecksum": "11075ed106566bfa2fc5210079eda27f30f7cea83a71a71d5f016e4d254e2b74",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-52",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-52.json",
+      "sourceChecksum": "37d6c5e9d0f5cf33e6cfc06aaee4b171ed8f8745e53154ae210f7320eac9ec46",
+      "sourceTitle": "Mission Amrit Sarovar:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-52",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-52.json",
+      "repairedChecksum": "37d6c5e9d0f5cf33e6cfc06aaee4b171ed8f8745e53154ae210f7320eac9ec46",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-53",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-53.json",
+      "sourceChecksum": "1a38550d818c5bbbf2dfa5e0ce1f231d28e97b3cbb749a422770ab7047f2b365",
+      "sourceTitle": "The Green Hydrogen Mission:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-53",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-53.json",
+      "repairedChecksum": "1a38550d818c5bbbf2dfa5e0ce1f231d28e97b3cbb749a422770ab7047f2b365",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-54",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-54.json",
+      "sourceChecksum": "34858c296da3276316d93a651a6318ff59cf0c140def23ac4660ccd3634e8fb9",
+      "sourceTitle": "MAHIR: Mission on Advanced and High-Impact Research:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-54",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-54.json",
+      "repairedChecksum": "34858c296da3276316d93a651a6318ff59cf0c140def23ac4660ccd3634e8fb9",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-55",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-55.json",
+      "sourceChecksum": "7a75834fc307a982b2c7f4c3f3c9c156739dbced81ec54fbfc242b9b735dfff8",
+      "sourceTitle": "Pradhan Mantri Sahaj Bijli Har Ghar Yojana – Saubhagya (2017):",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-55",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-55.json",
+      "repairedChecksum": "7a75834fc307a982b2c7f4c3f3c9c156739dbced81ec54fbfc242b9b735dfff8",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-56",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-56.json",
+      "sourceChecksum": "169ba654c2054193c79e3afc6854d449a10daa29933cf28ddab5e69f046f8e46",
+      "sourceTitle": "Remote Areas: Free or subsidized solar connections for unelectrified households in remote",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-56",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-56.json",
+      "repairedChecksum": "169ba654c2054193c79e3afc6854d449a10daa29933cf28ddab5e69f046f8e46",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-57",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-57.json",
+      "sourceChecksum": "25489fd2f60872c279e59538fee0afd811e628368bf4593c4856b383c56bbea7",
+      "sourceTitle": "Pradhan Mantri Jan Dhan Yojana (PMJDY):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-58",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-58.json",
+      "sourceChecksum": "9d2fe8f85382dbb1d6a322acdbd142da9d33184f7edf252da8b3ef4113530a94",
+      "sourceTitle": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-59",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-59.json",
+      "sourceChecksum": "b8913772c52f7956646a0930ce57b865876c68ab47704029ecf942107cdf6b2e",
+      "sourceTitle": "Atal Pension Yojana (APY):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-6",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-6.json",
+      "sourceChecksum": "15a593f7f1a19133521383755d48c984e085f820a0f4659d59545042b2a6a58d",
+      "sourceTitle": "Sickle Cell Anemia Eradication Mission (Budget 2023-24):",
+      "proposedAction": "discard_artifact",
+      "destinationId": null,
+      "destinationFile": null,
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Migration index / OCR page-number artifact containing zero study material."
+      ],
+      "evidenceSources": [
+        "Content Forensics Engine Report"
+      ],
+      "validationStatus": "staged_for_deprecation"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-60",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-60.json",
+      "sourceChecksum": "d7c2c294f66bac08498374cf010bceba0c492971dc9c8448bea7d0a65338b8cb",
+      "sourceTitle": "Pradhan Mantri Suraksha Bima Yojana (PMSBY):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-61",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-61.json",
+      "sourceChecksum": "a5291213b0f97dc51f3eabf1ad021304fde7ae5045987bcf33604755372299fb",
+      "sourceTitle": "Stand-Up India Scheme: ey Facts",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-61",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-61.json",
+      "repairedChecksum": "a5291213b0f97dc51f3eabf1ad021304fde7ae5045987bcf33604755372299fb",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-62",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-62.json",
+      "sourceChecksum": "12da264ac9f3edc2384f7d81c4013e827f451547eb8c08397eeb1cd77d974243",
+      "sourceTitle": "MSME Competitive LEAN Scheme:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-62",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-62.json",
+      "repairedChecksum": "12da264ac9f3edc2384f7d81c4013e827f451547eb8c08397eeb1cd77d974243",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-63",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-63.json",
+      "sourceChecksum": "084d0752163cbc06095038a327b58d35875f2a86bb85a1b8e40ab17baa0231ac",
+      "sourceTitle": "RAMP Scheme (Raising and Accelerating MSME Performance):",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-63",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-63.json",
+      "repairedChecksum": "084d0752163cbc06095038a327b58d35875f2a86bb85a1b8e40ab17baa0231ac",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-64",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-64.json",
+      "sourceChecksum": "04649459fe1ee49777ad35a784e470124b9c7a1e25f2d58eb4196a01ac0b9a8b",
+      "sourceTitle": "MSME Portal:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-64",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-64.json",
+      "repairedChecksum": "04649459fe1ee49777ad35a784e470124b9c7a1e25f2d58eb4196a01ac0b9a8b",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-65",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-65.json",
+      "sourceChecksum": "d5ce99728e6b38362e2c5244585888eec3fab081d15076d31ba0de36f9995798",
+      "sourceTitle": "Startup India Initiative:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-65",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-65.json",
+      "repairedChecksum": "d5ce99728e6b38362e2c5244585888eec3fab081d15076d31ba0de36f9995798",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-66",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-66.json",
+      "sourceChecksum": "26ddff51a6151bf02c07795f02a1f9a33efb677f40a393916ab6ee6871d14ab2",
+      "sourceTitle": "Make in India:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-66",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-66.json",
+      "repairedChecksum": "26ddff51a6151bf02c07795f02a1f9a33efb677f40a393916ab6ee6871d14ab2",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-67",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-67.json",
+      "sourceChecksum": "7d67d856035e2191f8d503c62c4d66c7b7424c4829312a10a9b7a9eaa693fac7",
+      "sourceTitle": "Production Linked Incentive (PLI) Scheme:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-67",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-67.json",
+      "repairedChecksum": "7d67d856035e2191f8d503c62c4d66c7b7424c4829312a10a9b7a9eaa693fac7",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-68",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-68.json",
+      "sourceChecksum": "3697cfab783d8923767d94b1c5351da90dbe25b4384f9c2c51060783a014f984",
+      "sourceTitle": "Unity Mall Scheme:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-68",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-68.json",
+      "repairedChecksum": "3697cfab783d8923767d94b1c5351da90dbe25b4384f9c2c51060783a014f984",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-69",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-69.json",
+      "sourceChecksum": "2d6cb276615b549975adddc4e6ea00ec1f58b1e88fbf4f01061707bb85d000d0",
+      "sourceTitle": "FAME India Scheme:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-69",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-69.json",
+      "repairedChecksum": "2d6cb276615b549975adddc4e6ea00ec1f58b1e88fbf4f01061707bb85d000d0",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-7",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-7.json",
+      "sourceChecksum": "dcaf3b58ab29c31dae4c71c157e1eeb92c67fa7b41d5997aa2616cfe1145797a",
+      "sourceTitle": "PMUY II (2021, Mahoba, UP)",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-70",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-70.json",
+      "sourceChecksum": "a4ec3a0327d22a21caf5a0fbb5d99c81dc06daf0e957bf996fb60f2c2682df01",
+      "sourceTitle": "FAME-II (2019-2024): ₹10,000 crore for EV subsidies and infrastructure.",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-70",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-70.json",
+      "repairedChecksum": "a4ec3a0327d22a21caf5a0fbb5d99c81dc06daf0e957bf996fb60f2c2682df01",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-71",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-71.json",
+      "sourceChecksum": "99e588d62c60fb7373a89650086151297bff42f94fb0f2473a035bd05557e139",
+      "sourceTitle": "PM MITRA Park Scheme:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-71",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-71.json",
+      "repairedChecksum": "99e588d62c60fb7373a89650086151297bff42f94fb0f2473a035bd05557e139",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-72",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-72.json",
+      "sourceChecksum": "2c3a86123189ab334c16d3fcf45807ee056c70fcbafc9db67fe2d3ab7c7d4154",
+      "sourceTitle": "Parks: 7 locations in Tamil Nadu, Telangana, Karnataka, Maharashtra, Gujarat, Madhya",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-72",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-72.json",
+      "repairedChecksum": "2c3a86123189ab334c16d3fcf45807ee056c70fcbafc9db67fe2d3ab7c7d4154",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-73",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-73.json",
+      "sourceChecksum": "42fe68de624e456cc5a4b398aec47966c1dc13833fce73fead3f87c9bd77adda",
+      "sourceTitle": "Infrastructure: Integrated facilities for manufacturing, logistics, housing, and sustainability.",
+      "proposedAction": "discard_artifact",
+      "destinationId": null,
+      "destinationFile": null,
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Migration index / OCR page-number artifact containing zero study material."
+      ],
+      "evidenceSources": [
+        "Content Forensics Engine Report"
+      ],
+      "validationStatus": "staged_for_deprecation"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-74",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-74.json",
+      "sourceChecksum": "1f378144bdd506bf49ead51ed5bea2bbb756cd6ce401e8f0ea8cdc245de2069c",
+      "sourceTitle": "Pradhan Mantri Awas Yojana - Gramin (PMAY-G):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-75",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-75.json",
+      "sourceChecksum": "dcbcb3b15bf29b5740869fbf2b0c42a73478fca48b3eb775496459f627bc51e6",
+      "sourceTitle": "Pradhan Mantri Gram Sadak Yojana (PMGSY):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-76",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-76.json",
+      "sourceChecksum": "cc0345ea83654ab9f43a13dad8797bbb7d3509a98602d044b63ef3a0c489d9ff",
+      "sourceTitle": "The Shyama Prasad Mukherjee Rurban Mission (SPMRM):",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-76",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-76.json",
+      "repairedChecksum": "cc0345ea83654ab9f43a13dad8797bbb7d3509a98602d044b63ef3a0c489d9ff",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-77",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-77.json",
+      "sourceChecksum": "8e2d9c8500bb37aeb2571039707c7c9fb08f5f432baeb2151d54a29433e754ba",
+      "sourceTitle": "The Deendayal Antyodaya Yojana - National Rural Livelihoods Mission (DAY-NRLM):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-78",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-78.json",
+      "sourceChecksum": "32a97330214b9331871d6bda98f2836d804b2e81b594bb676667c0c34d29afc4",
+      "sourceTitle": "Formation of SHGs for collective action.",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-78",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-78.json",
+      "repairedChecksum": "32a97330214b9331871d6bda98f2836d804b2e81b594bb676667c0c34d29afc4",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-79",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-79.json",
+      "sourceChecksum": "59310e7fcd9f1103c3db1434f6b35da2dd837867f66cd55defea5f971fe740ea",
+      "sourceTitle": "The Sansad Adarsh Gram Yojana (SAGY):",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-79",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-79.json",
+      "repairedChecksum": "59310e7fcd9f1103c3db1434f6b35da2dd837867f66cd55defea5f971fe740ea",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-8",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-8.json",
+      "sourceChecksum": "0b1a1822472e83a8de561baef688429a6f1fa93b015e468d4b022cd6cd9298e7",
+      "sourceTitle": "\"One Scientist, One Product\" Scheme by ICAR:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-8",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-8.json",
+      "repairedChecksum": "0b1a1822472e83a8de561baef688429a6f1fa93b015e468d4b022cd6cd9298e7",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-80",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-80.json",
+      "sourceChecksum": "3c4dcd7e2111be447f59f2cfa7f79d3c57b0c4dfc5d2a07570d30257516c3f70",
+      "sourceTitle": "Lakhpati Didi Scheme:",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-81",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-81.json",
+      "sourceChecksum": "8aff099aa68d8db6ab518e0287082eb56fe06dd29e6b2c84e81478f1df198a15",
+      "sourceTitle": "Women Enterprise Acceleration Fund:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-81",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-81.json",
+      "repairedChecksum": "8aff099aa68d8db6ab518e0287082eb56fe06dd29e6b2c84e81478f1df198a15",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-82",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-82.json",
+      "sourceChecksum": "cb06aacc2f2b99d53ce411e883979218fac04b91fa78a82044c47070d07e7bf7",
+      "sourceTitle": "Swachh Bharat Mission (Rural) - \"Ek Kadam Swachta Ki Aur\":",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-83",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-83.json",
+      "sourceChecksum": "09b4c0bccf95236dcb4599f36faabe9857985dd9ed94633ee8cd3bc0304355b3",
+      "sourceTitle": "Promote community participation and awareness.",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-83",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-83.json",
+      "repairedChecksum": "09b4c0bccf95236dcb4599f36faabe9857985dd9ed94633ee8cd3bc0304355b3",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-84",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-84.json",
+      "sourceChecksum": "c09a57c81cd4391f96b88cf0d08e54cab4142a56c1dc5588865e865d30c11e39",
+      "sourceTitle": "HRIDAY Scheme (Heritage City Development and Augmentation Yojana):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-85",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-85.json",
+      "sourceChecksum": "b828da40c4630c97aedf866e55d22c59284e97df039e53a83d3179c3803e7fa6",
+      "sourceTitle": "AMRUT Mission (Atal Mission for Rejuvenation and Urban Transformation):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-86",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-86.json",
+      "sourceChecksum": "d40148d680794a4244197bfa61e2dcd4a48cac5881750117e18919147679f678",
+      "sourceTitle": "SVANidhi se Samriddhi:",
+      "proposedAction": "merge",
+      "destinationId": "migrated-schemes-scheme-85",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-85.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Structural fragment of parent scheme migrated-schemes-scheme-85; reunified in parent note."
+      ],
+      "evidenceSources": [
+        "Content Reconciliation Report"
+      ],
+      "validationStatus": "staged_for_merge"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-87",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-87.json",
+      "sourceChecksum": "9cd7f7b5850b6d5fb3613e53e7581452ea6e177d16a2484cc3d764a7c94209fd",
+      "sourceTitle": "BOCW (Building & Other Construction Workers)– Welfare for construction workers.",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-87",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-87.json",
+      "repairedChecksum": "9cd7f7b5850b6d5fb3613e53e7581452ea6e177d16a2484cc3d764a7c94209fd",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-88",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-88.json",
+      "sourceChecksum": "ccc40693ed6080842872d1fbb62f904c7fcc9b7b5c25db434dec052eb4288b56",
+      "sourceTitle": "Smart City Mission:",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-89",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-89.json",
+      "sourceChecksum": "5ed3c67e68a193f6383099e5e178f30c63eb059c2a4fbb39c3539d1529754208",
+      "sourceTitle": "Swachh Bharat Mission (Urban):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-9",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-9.json",
+      "sourceChecksum": "09747f29a9f4fc8463d69bec44b8adf83044b142eca0a5ce7ced42d16af5a8ee",
+      "sourceTitle": "Digital Agriculture Mission:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-9",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-9.json",
+      "repairedChecksum": "09747f29a9f4fc8463d69bec44b8adf83044b142eca0a5ce7ced42d16af5a8ee",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-90",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-90.json",
+      "sourceChecksum": "a76d0cdfafa6804c4ec2b3245b0962373ffccc4dbaad64665eea11c20261cde1",
+      "sourceTitle": "Improving waste management.",
+      "proposedAction": "merge",
+      "destinationId": "migrated-schemes-scheme-89",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-89.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Structural fragment of parent scheme migrated-schemes-scheme-89; reunified in parent note."
+      ],
+      "evidenceSources": [
+        "Content Reconciliation Report"
+      ],
+      "validationStatus": "staged_for_merge"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-91",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-91.json",
+      "sourceChecksum": "191edd7b1eea0aee17f002be1a6aa1ef3014b78194410544e3bae04a79ccbf9f",
+      "sourceTitle": "NAMASTE Scheme (2022–2026):",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-91",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-91.json",
+      "repairedChecksum": "191edd7b1eea0aee17f002be1a6aa1ef3014b78194410544e3bae04a79ccbf9f",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-92",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-92.json",
+      "sourceChecksum": "5c8716f0b82776761ac42a2ff506ddfce194aff03ce30b76cea17e49bb63596e",
+      "sourceTitle": "Jal Jeevan Mission (Urban):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-93",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-93.json",
+      "sourceChecksum": "cac6d168a275ab94744e5c681e80fe1cbb175b0d1e0ca9d71279f2864bfe2e81",
+      "sourceTitle": "Enable digital monitoring of water quality.",
+      "proposedAction": "merge",
+      "destinationId": "migrated-schemes-scheme-92",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-92.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Structural fragment of parent scheme migrated-schemes-scheme-92; reunified in parent note."
+      ],
+      "evidenceSources": [
+        "Content Reconciliation Report"
+      ],
+      "validationStatus": "staged_for_merge"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-94",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-94.json",
+      "sourceChecksum": "1262a94f77be448724cc66fba086ec46aee7bd9bdafd558c06a6152ac1e85a24",
+      "sourceTitle": "CITIIS 2.0 (City Investments to Innovate, Integrate, & Sustain):",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-94",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-94.json",
+      "repairedChecksum": "1262a94f77be448724cc66fba086ec46aee7bd9bdafd558c06a6152ac1e85a24",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-95",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-95.json",
+      "sourceChecksum": "8c2f80a17b4a99b500f99ef30d10ee86684a80c5dc82032eee4bdf0e22398167",
+      "sourceTitle": "Expansion of Cities (sustainable urban growth)",
+      "proposedAction": "merge",
+      "destinationId": "migrated-schemes-scheme-94",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-94.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Structural fragment of parent scheme migrated-schemes-scheme-94; reunified in parent note."
+      ],
+      "evidenceSources": [
+        "Content Reconciliation Report"
+      ],
+      "validationStatus": "staged_for_merge"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-96",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-96.json",
+      "sourceChecksum": "95d475ebbbca75cd7e543c0a0b7cf8c6d423a8fb6cec82af3a21e0188556513c",
+      "sourceTitle": "Pradhan Mantri Awas Yojana (Urban):",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-97",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-97.json",
+      "sourceChecksum": "41074d4b834e8f3011893245f74479b942d86d88cbb2eb9b732a83fb09a6cd07",
+      "sourceTitle": "DAY-NULM:",
+      "proposedAction": "supersede",
+      "destinationId": "migrated-schemes-masterfile",
+      "targetSection": "migrated-schemes-masterfile",
+      "destinationFile": "content/corpus/migrated-schemes-masterfile.json",
+      "repairedChecksum": null,
+      "promotionGate": "reconciliation_audited",
+      "reasons": [
+        "Detailed flagship scheme comprehensively covered in canonical masterfile."
+      ],
+      "evidenceSources": [
+        "migrated-schemes-masterfile.json"
+      ],
+      "validationStatus": "staged_for_supersession"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-98",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-98.json",
+      "sourceChecksum": "9f71a32e4fc5f1351e622104e641203834f648be72fd137fc916c0c4de862996",
+      "sourceTitle": "PAiSA Portal:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-98",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-98.json",
+      "repairedChecksum": "9f71a32e4fc5f1351e622104e641203834f648be72fd137fc916c0c4de862996",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    },
+    {
+      "sourceItemId": "migrated-schemes-scheme-99",
+      "sourceFile": "content/corpus/migrated-schemes-scheme-99.json",
+      "sourceChecksum": "522cecb7635ad8ac414398851b0c37e42590eb55142e9651c19ca1a01c8b63cc",
+      "sourceTitle": "SHRESHTA Scheme: Empowering SC Students through Quality Education:",
+      "proposedAction": "enrich",
+      "destinationId": "migrated-schemes-scheme-99",
+      "destinationFile": "content/corpus/migrated-schemes-scheme-99.json",
+      "repairedChecksum": "522cecb7635ad8ac414398851b0c37e42590eb55142e9651c19ca1a01c8b63cc",
+      "promotionGate": "enrichment_queue",
+      "reasons": [
+        "Genuine standalone scheme stub; preserved unchanged in canonical corpus pending research batch."
+      ],
+      "evidenceSources": [
+        "Enrichment Queue Catalog"
+      ],
+      "validationStatus": "queued_for_enrichment"
+    }
+  ]
+}

@@ -2,19 +2,134 @@
   "id": "migrated-schemes-scheme-109",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Ambedkar Interest Subvention Scheme for Education Loans",
-  "summary": "Schemes — Ambedkar Interest Subvention Scheme for Education Loans",
+  "title": "Dr. Ambedkar Central Sector Scheme of Interest Subvention on Overseas Educational Loans for OBCs and EBCs",
+  "summary": "Dr. Ambedkar Central Sector Scheme of Interest Subvention on Overseas Educational Loans for OBCs and EBCs — Comprehensive study notes covering objectives, eligibility, outlay, and exam traps.",
   "blocks": [
+    {
+      "type": "key_concept",
+      "title": "Dr. Ambedkar Central Sector Scheme of Interest Subvention on Overseas Educational Loans for OBCs and EBCs",
+      "summary": "To provide 100% interest subsidy on education loans to meritorious Other Backward Classes (OBC) and Economically Backward Classes (EBC) students pursuing Master's, M.Phil., and Ph.D. level courses abroad."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⏱️ Component Lifecycles & Temporal Status"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Component / Pillar",
+        "Type",
+        "Period",
+        "Status (Aug 2026)",
+        "Exam Relevance"
+      ],
+      "rows": [
+        [
+          "Canara Bank Nodal Cell Interest Subsidy Operations",
+          "scheme",
+          "Since 2022-04-01",
+          "CURRENT",
+          "100% interest subsidy on loans up to ₹20L during moratorium (Course + 1 yr)."
+        ],
+        [
+          "Income Ceiling Criteria (₹8.00 Lakh/annum)",
+          "component",
+          "Since 2022-04-01",
+          "CURRENT",
+          "Income threshold raised to ₹8.00 Lakh/annum."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🏛️ Administrative & Financial Framework"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Parameter",
+        "Official Specification"
+      ],
+      "rows": [
+        [
+          "Nodal Ministry",
+          "Ministry of Social Justice and Empowerment"
+        ],
+        [
+          "Department",
+          "Department of Social Justice and Empowerment"
+        ],
+        [
+          "Launch Year / Period",
+          "2014-15 (Revised guidelines issued in 2022-23)"
+        ],
+        [
+          "Financial Outlay",
+          "Demand-driven annual budgetary allocation under MoSJE."
+        ],
+        [
+          "Funding Pattern",
+          "100% Central Sector Scheme."
+        ],
+        [
+          "Implementing Agency",
+          "Canara Bank (Designated Nodal Bank) on behalf of Ministry of Social Justice & Empowerment."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🎯 Target Beneficiaries & Eligibility"
+    },
     {
       "type": "bullet_list",
       "items": [
-        "o Eligibility: OBC/EBC students with family income < ₹2.5 Lakhs",
-        "o Loan Coverage: Tuition, accommodation, travel, and more",
-        "o Interest Subvention: Government covers interest during study and moratorium",
-        "o Loan Amount: ₹10 Lakhs to ₹20 Lakhs",
-        "o Repayment: Starts after course completion",
-        "This scheme supports OBC and EBC students in accessing higher education abroad by easing",
-        "financial burdens."
+        "**Target Beneficiaries:** OBC and EBC students who have secured admission to accredited overseas institutions for higher studies.",
+        "**Eligibility Criteria:** Total family income must not exceed ₹8.00 Lakh per annum (formerly ₹2.50 Lakh). Candidate must have secured an education loan from an IBA-member scheduled commercial bank under the IBA Model Educational Loan Scheme."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "✨ Key Components & Features"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Interest Subsidy Period: 100% interest payable on loan is reimbursed by the Central Government during the moratorium period (Course Period + 1 year or 6 months after securing job).",
+        "Principal Repayment: The student/borrower is responsible for paying only the principal amount and interest after the moratorium period ends.",
+        "Eligible Levels: Master's, M.Phil, and Ph.D. programs only (Undergraduate courses are strictly ineligible).",
+        "IBA Model Loan Linkage: Loan must be sanctioned under the Indian Banks' Association (IBA) Model Educational Loan Scheme.",
+        "Maximum Loan Eligible for Subsidy: Up to ₹20 Lakhs."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚠️ Exam Traps & Key Distinctions"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Exam Trap: Nodal Bank is CANARA BANK (not SBI, RBI, or NABARD).",
+        "IBA Loan Scheme: Mandatory linkage with the IBA Model Educational Loan Scheme.",
+        "Income limit: ₹8.00 Lakh/annum (do not confuse with pre-matric ₹2.5L limit).",
+        "Coverage: Covers INTEREST during moratorium ONLY; principal is repaid by borrower."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📚 Authoritative Sources"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Ministry of Social Justice and Empowerment, Scheme Guidelines (socialjustice.gov.in)",
+        "Canara Bank Nodal Cell, Guidelines on Dr. Ambedkar Interest Subvention Scheme"
       ]
     }
   ],
@@ -39,6 +154,44 @@
       "sourceChecksum": "92114c78f0ed033dff196ba9ee9865f2fc81bd8c760889b72064b4ecc05ad20b",
       "migrationTimestamp": "2026-08-15T12:14:02.104Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c9-fine-tuned",
+    "repairedTimestamp": "2026-08-18T13:35:21.437Z",
+    "promotionGate": "R4.C9-passed",
+    "promotionStatus": "approved",
+    "promotedTimestamp": "2026-08-18T13:35:21.437Z",
+    "overallTemporalStatus": "CURRENT",
+    "temporalWarning": null,
+    "temporalComponentsCount": 2,
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
+  },
+  "temporal": {
+    "statusAsOf": "2026-08-18",
+    "overallStatus": "CURRENT",
+    "components": [
+      {
+        "name": "Canara Bank Nodal Cell Interest Subsidy Operations",
+        "type": "scheme",
+        "startDate": "2022-04-01",
+        "status": "CURRENT",
+        "evidence": [
+          "Continuous online interest subsidy reimbursement linked to IBA loan scheme."
+        ],
+        "lastVerified": "2023-01-10",
+        "historicalExamRelevance": "100% interest subsidy on loans up to ₹20L during moratorium (Course + 1 yr)."
+      },
+      {
+        "name": "Income Ceiling Criteria (₹8.00 Lakh/annum)",
+        "type": "component",
+        "startDate": "2022-04-01",
+        "status": "CURRENT",
+        "evidence": [
+          "MoSJE revised eligibility criteria for OBC/EBC overseas studies."
+        ],
+        "lastVerified": "2023-01-10",
+        "historicalExamRelevance": "Income threshold raised to ₹8.00 Lakh/annum."
+      }
+    ]
   }
 }

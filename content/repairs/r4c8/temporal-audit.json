@@ -1,0 +1,153 @@
+{
+  "version": "1.0.0-r4c8-temporal-audit",
+  "referenceDate": "2026-08-18",
+  "totalAudited": 10,
+  "summary": {
+    "CURRENT": 4,
+    "EXPIRED": 6,
+    "EXTENDED": 0,
+    "UNCLEAR": 0
+  },
+  "audit": [
+    {
+      "itemId": "migrated-schemes-scheme-10",
+      "title": "Krishi-Decision Support System (Krishi-DSS / ADSS)",
+      "schemePeriod": "2024-09-02 to 2027-03-31",
+      "latestEvidenceDate": "2024-09-02",
+      "currentStatusEvidence": [
+        "Union Cabinet approved Digital Agriculture Mission on 02-09-2024 for FY 2024-25 to 2026-27 (ends 31 March 2027)."
+      ],
+      "temporalClassification": "CURRENT",
+      "temporalWarning": null,
+      "previousR4C7Status": "approved (CURRENT)",
+      "correctedStatus": "approved (CURRENT)",
+      "promotionConsequence": "approved"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-100",
+      "title": "SHREYAS Scheme (Scholarships for Higher Education for Young Achievers Scheme)",
+      "schemePeriod": "2021-04-01 to 2026-03-31",
+      "latestEvidenceDate": "2023-09-24",
+      "currentStatusEvidence": [
+        "Documented financial allocation of ₹4,103.55 Cr covers the 15th Finance Commission cycle (2021-22 to 2025-26, ended 31 March 2026). Renewal under 16th FC cycle pending gazette notification."
+      ],
+      "temporalClassification": "EXPIRED",
+      "temporalWarning": "Documented operational period (2021-04-01 to 2026-03-31) ended on 2026-03-31. Factual parameters (outlay, components) represent the verified 15th Finance Commission cycle. Extension under 16th FC cycle pending gazette confirmation.",
+      "previousR4C7Status": "approved (CURRENT)",
+      "correctedStatus": "approved-with-warning (EXPIRED)",
+      "promotionConsequence": "approved-with-warning"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-102",
+      "title": "PM YASASVI (PM Young Achievers Scholarship Award Scheme for Vibrant India)",
+      "schemePeriod": "2021-04-01 to 2026-03-31",
+      "latestEvidenceDate": "2023-08-15",
+      "currentStatusEvidence": [
+        "Operational guidelines on National Scholarship Portal cover 2021-22 to 2025-26 (ended 31 March 2026)."
+      ],
+      "temporalClassification": "EXPIRED",
+      "temporalWarning": "Documented operational period (2021-04-01 to 2026-03-31) ended on 2026-03-31. Factual parameters (outlay, components) represent the verified 15th Finance Commission cycle. Extension under 16th FC cycle pending gazette confirmation.",
+      "previousR4C7Status": "approved (CURRENT)",
+      "correctedStatus": "approved-with-warning (EXPIRED)",
+      "promotionConsequence": "approved-with-warning"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-107",
+      "title": "National Overseas Scholarship (NOS) for SC, DNT, and Landless Labourers",
+      "schemePeriod": "Ongoing / Open-Ended",
+      "latestEvidenceDate": "2024-02-15",
+      "currentStatusEvidence": [
+        "Ongoing central sector scholarship program with annual portal application cycles on nosmsje.gov.in (revised guidelines 2023-24)."
+      ],
+      "temporalClassification": "CURRENT",
+      "temporalWarning": null,
+      "previousR4C7Status": "approved (CURRENT)",
+      "correctedStatus": "approved (CURRENT)",
+      "promotionConsequence": "approved"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-108",
+      "title": "SMILE Scheme (Support for Marginalised Individuals for Livelihood and Enterprise)",
+      "schemePeriod": "2021-04-01 to 2026-03-31",
+      "latestEvidenceDate": "2022-08-24",
+      "currentStatusEvidence": [
+        "Approved financial outlay of ₹365 Cr covers 2021-22 to 2025-26 (ended 31 March 2026). SMILE-75 municipal activities undergoing evaluation."
+      ],
+      "temporalClassification": "EXPIRED",
+      "temporalWarning": "Documented operational period (2021-04-01 to 2026-03-31) ended on 2026-03-31. Factual parameters (outlay, components) represent the verified 15th Finance Commission cycle. Extension under 16th FC cycle pending gazette confirmation.",
+      "previousR4C7Status": "approved (CURRENT)",
+      "correctedStatus": "approved-with-warning (EXPIRED)",
+      "promotionConsequence": "approved-with-warning"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-109",
+      "title": "Dr. Ambedkar Central Sector Scheme of Interest Subvention on Overseas Educational Loans",
+      "schemePeriod": "Ongoing / Open-Ended",
+      "latestEvidenceDate": "2023-01-10",
+      "currentStatusEvidence": [
+        "Continuous demand-driven interest subsidy scheme linked to IBA Model Educational Loan Scheme administered continuously via Canara Bank."
+      ],
+      "temporalClassification": "CURRENT",
+      "temporalWarning": null,
+      "previousR4C7Status": "approved (CURRENT)",
+      "correctedStatus": "approved (CURRENT)",
+      "promotionConsequence": "approved"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-11",
+      "title": "Solar Power Scheme for PVTGs (under PM-JANMAN)",
+      "schemePeriod": "2023-04-01 to 2026-03-31",
+      "latestEvidenceDate": "2024-07-25",
+      "currentStatusEvidence": [
+        "MNRE notification approved ₹515 Cr for 2023-24 to 2025-26 (ended 31 March 2026). Physical household electrification ongoing under PM-JANMAN mission."
+      ],
+      "temporalClassification": "EXPIRED",
+      "temporalWarning": "Documented operational period (2023-04-01 to 2026-03-31) ended on 2026-03-31. Factual parameters (outlay, components) represent the verified 15th Finance Commission cycle. Extension under 16th FC cycle pending gazette confirmation.",
+      "previousR4C7Status": "approved (CURRENT)",
+      "correctedStatus": "approved-with-warning (EXPIRED)",
+      "promotionConsequence": "approved-with-warning"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-110",
+      "title": "National Fellowship for OBC Students (NF-OBC)",
+      "schemePeriod": "Ongoing / Open-Ended",
+      "latestEvidenceDate": "2023-10-16",
+      "currentStatusEvidence": [
+        "Continuous regular research fellowship administered through NBCFDC/UGC with UGC-aligned fellowship scales."
+      ],
+      "temporalClassification": "CURRENT",
+      "temporalWarning": null,
+      "previousR4C7Status": "approved (CURRENT)",
+      "correctedStatus": "approved (CURRENT)",
+      "promotionConsequence": "approved"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-111",
+      "title": "SEED Scheme (Scheme for Economic Empowerment of DNT/NT/SNT Communities)",
+      "schemePeriod": "2021-04-01 to 2026-03-31",
+      "latestEvidenceDate": "2022-02-16",
+      "currentStatusEvidence": [
+        "Outlay of ₹200 Cr approved for 5 years (2021-22 to 2025-26, ended 31 March 2026) under DWBDNC."
+      ],
+      "temporalClassification": "EXPIRED",
+      "temporalWarning": "Documented operational period (2021-04-01 to 2026-03-31) ended on 2026-03-31. Factual parameters (outlay, components) represent the verified 15th Finance Commission cycle. Extension under 16th FC cycle pending gazette confirmation.",
+      "previousR4C7Status": "approved (CURRENT)",
+      "correctedStatus": "approved-with-warning (EXPIRED)",
+      "promotionConsequence": "approved-with-warning"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-112",
+      "title": "National Action Plan for Drug Demand Reduction (NAPDDR) & Nasha Mukt Bharat Abhiyaan",
+      "schemePeriod": "2018-04-01 to 2026-03-31",
+      "latestEvidenceDate": "2023-08-15",
+      "currentStatusEvidence": [
+        "NAPDDR original 7-year action plan (2018–2025/26) concluded on 31 March 2026. Nasha Mukt Bharat Abhiyaan (NMBA) campaign remains active nationwide."
+      ],
+      "temporalClassification": "EXPIRED",
+      "temporalWarning": "Documented operational period (2018-04-01 to 2026-03-31) ended on 2026-03-31. Factual parameters (outlay, components) represent the verified 15th Finance Commission cycle. Extension under 16th FC cycle pending gazette confirmation.",
+      "previousR4C7Status": "approved (CURRENT)",
+      "correctedStatus": "approved-with-warning (EXPIRED)",
+      "promotionConsequence": "approved-with-warning"
+    }
+  ]
+}

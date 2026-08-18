@@ -1,0 +1,54 @@
+{
+  "schemeId": "migrated-schemes-scheme-10",
+  "schemeTitle": "Krishi-Decision Support System (Krishi-DSS / ADSS)",
+  "claims": [
+    {
+      "claim": "Approved by Union Cabinet on 2 September 2024 under the Digital Agriculture Mission.",
+      "claimType": "launch",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=2051101",
+      "sourceTitle": "Cabinet approves Digital Agriculture Mission with total outlay of Rs 2,817 Crore",
+      "sourcePublisher": "Press Information Bureau (PIB Delhi), Cabinet Decisions",
+      "sourceDate": "2024-09-02",
+      "evidenceQuote": "The Union Cabinet chaired by Prime Minister Shri Narendra Modi has approved the Digital Agriculture Mission with an outlay of Rs. 2,817 crore, including central share of Rs. 1,940 crore on 02.09.2024.",
+      "verificationStatus": "confirmed",
+      "notes": "Official cabinet approval date and name confirmed."
+    },
+    {
+      "claim": "Total outlay is ₹2,817 Crore with Central share of ₹1,940 Crore and State share of ₹877 Crore.",
+      "claimType": "outlay",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=2051101",
+      "sourceTitle": "Cabinet approves Digital Agriculture Mission",
+      "sourcePublisher": "Press Information Bureau (PIB Delhi)",
+      "sourceDate": "2024-09-02",
+      "evidenceQuote": "Total outlay of Rs. 2,817 Crore, which includes a central share of Rs. 1,940 crore and state share of Rs. 877 crore.",
+      "verificationStatus": "confirmed",
+      "notes": "Exact funding breakdown confirmed."
+    },
+    {
+      "claim": "Nodal Ministry is Ministry of Agriculture & Farmers' Welfare in collaboration with ISRO and MNCFC.",
+      "claimType": "agency",
+      "sourceUrl": "https://agricoop.gov.in",
+      "sourceTitle": "Operational Guidelines on Krishi-DSS & Digital Agriculture Mission",
+      "sourcePublisher": "Department of Agriculture & Farmers Welfare",
+      "sourceDate": "2024-09-02",
+      "evidenceQuote": "Krishi-DSS platform developed by DA&FW in collaboration with Department of Space (ISRO) and Mahalanobis National Crop Forecast Centre (MNCFC).",
+      "verificationStatus": "confirmed",
+      "notes": "Institutional partnerships confirmed."
+    },
+    {
+      "claim": "Integrates satellite remote sensing, weather, soil health, and groundwater for crop estimation and drought monitoring.",
+      "claimType": "benefit",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=2051101",
+      "sourceTitle": "Cabinet approves Digital Agriculture Mission",
+      "sourcePublisher": "Press Information Bureau (PIB Delhi)",
+      "sourceDate": "2024-09-02",
+      "evidenceQuote": "Krishi-DSS unifies remote sensing-based information on crops, soil, weather, and water resources to support crop mapping, drought monitoring, and yield estimation.",
+      "verificationStatus": "confirmed",
+      "notes": "Technical capabilities confirmed."
+    }
+  ],
+  "statusPeriod": "CURRENT",
+  "crossSchemeRelationship": "Krishi-DSS is a core Digital Public Infrastructure (DPI) pillar under the ₹2,817 Cr Digital Agriculture Mission umbrella.",
+  "examTrapVerified": "Confirmed: Krishi-DSS is an umbrella DPI component under Digital Agriculture Mission, not a private tech vendor tool.",
+  "requiresHumanReview": true
+}

@@ -1,0 +1,195 @@
+{
+  "sourceItemId": "migrated-schemes-scheme-11",
+  "repairVersion": "r4.c5",
+  "originalQualityStatus": "needs_enrichment",
+  "repairedQualityStatus": "valid",
+  "originalContent": {
+    "id": "migrated-schemes-scheme-11",
+    "type": "ca_note",
+    "domain": "schemes",
+    "title": "Solar Power Scheme for PVTGs (PM JANMAN):",
+    "summary": "Schemes — Solar Power Scheme for PVTGs (PM JANMAN):",
+    "blocks": [
+      {
+        "type": "bullet_list",
+        "items": [
+          " Launched: January 2024",
+          " Ministry: Ministry of New and Renewable Energy",
+          " Implementing Agency: DISCOMs",
+          " Coverage: 18 States and UTs",
+          " Objective: Provide solar energy to PVTGs for improved access and living conditions",
+          "Components:"
+        ]
+      }
+    ],
+    "metadata": {
+      "exam": [
+        "Bank PO",
+        "RBI Grade B",
+        "SBI PO"
+      ],
+      "tags": [
+        "schemes",
+        "Health, Social Justice & Education"
+      ],
+      "category": "Schemes",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-15T12:14:01.064Z",
+      "provenance": {
+        "sourceSystem": "Schemes",
+        "sourceFile": "ca_app/updated_schemes_data.js",
+        "sourceId": "scheme-11",
+        "sourceTitle": "Solar Power Scheme for PVTGs (PM JANMAN):",
+        "sourceChecksum": "ac2961a89badbfa9e9d6fe7bac48b80ba85aa8ef145205bff2eaa5eb25b27a88",
+        "migrationTimestamp": "2026-08-15T12:14:01.064Z",
+        "normalizationRuleVersion": "1.0.0-phase4-corrected"
+      }
+    }
+  },
+  "repairedContent": {
+    "id": "migrated-schemes-scheme-11",
+    "type": "ca_note",
+    "domain": "schemes",
+    "title": "Solar Power Scheme for PVTGs (under PM-JANMAN)",
+    "summary": "Solar Power Scheme for PVTGs (under PM-JANMAN) — Comprehensive study notes covering objectives, eligibility, outlay, and exam traps.",
+    "blocks": [
+      {
+        "type": "key_concept",
+        "title": "Solar Power Scheme for PVTGs (under PM-JANMAN)",
+        "summary": "To electrify 1,00,000 un-electrified households in Particularly Vulnerable Tribal Groups (PVTGs) habitations across 18 States and UTs and power community facilities through standalone decentralized solar power packs."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "🏛️ Administrative & Financial Framework"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Parameter",
+          "Official Specification"
+        ],
+        "rows": [
+          [
+            "Nodal Ministry",
+            "Ministry of New and Renewable Energy"
+          ],
+          [
+            "Department",
+            "Off-Grid & Decentralized Solar Division"
+          ],
+          [
+            "Launch Year / Period",
+            "January 2024 (Notified under PM-JANMAN Tribal Mission)"
+          ],
+          [
+            "Financial Outlay",
+            "₹515 Crore (Allocated for 2023-24 to 2025-26 under PM-JANMAN)."
+          ],
+          [
+            "Funding Pattern",
+            "100% Central Sector funding."
+          ],
+          [
+            "Implementing Agency",
+            "State DISCOMs / State Renewable Energy Development Agencies (SNAs) in coordination with Ministry of Tribal Affairs and MNRE."
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "🎯 Target Beneficiaries & Eligibility"
+      },
+      {
+        "type": "bullet_list",
+        "items": [
+          "**Target Beneficiaries:** Un-electrified households in 75 PVTG communities across 18 States and Union Territories (Andaman & Nicobar Islands, Andhra Pradesh, Bihar, Chhattisgarh, Gujarat, Jharkhand, Karnataka, Kerala, MP, Maharashtra, Manipur, Odisha, Rajasthan, Tamil Nadu, Telangana, Tripura, UP, and West Bengal).",
+          "**Eligibility Criteria:** Households identified under PM-JANMAN baseline survey that cannot be electrified via conventional grid extension due to remote forest terrain."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "✨ Key Components & Features"
+      },
+      {
+        "type": "bullet_list",
+        "items": [
+          "Individual Households: 1,00,000 un-electrified PVTG households provided with 0.3 kW (300 W) Off-Grid Solar Home Lighting Systems (SHLS) with battery bank, LED lamps, DC fan, and mobile charging port (₹50,000 per household).",
+          "Multi-Purpose Centres (MPCs): 1,500 PVTG Multi-Purpose Centres provided with 2.5 kW Solar PV power packs with battery storage (₹1.00 Lakh per centre).",
+          "Comprehensive Maintenance: 5 years of free warranty and operational maintenance by executing agencies."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "⚠️ Exam Traps & Key Distinctions"
+      },
+      {
+        "type": "bullet_list",
+        "items": [
+          "Exam Trap: Ministry is MNRE (Ministry of New and Renewable Energy), working in convergence with Ministry of Tribal Affairs.",
+          "System Capacities: 0.3 kW (300 W) for households; 2.5 kW for Multi-Purpose Centres."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "📚 Authoritative Sources"
+      },
+      {
+        "type": "bullet_list",
+        "items": [
+          "Ministry of New and Renewable Energy (MNRE), Official Guidelines on Solar Power for PVTGs (mnre.gov.in)",
+          "PIB Delhi, \"Cabinet approves PM-JANMAN Scheme Components\" (Nov 2023 / Jan 2024)"
+        ]
+      }
+    ],
+    "metadata": {
+      "exam": [
+        "Bank PO",
+        "RBI Grade B",
+        "SBI PO"
+      ],
+      "tags": [
+        "schemes",
+        "Health, Social Justice & Education"
+      ],
+      "category": "Schemes",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-15T12:14:01.064Z",
+      "provenance": {
+        "sourceSystem": "Schemes",
+        "sourceFile": "ca_app/updated_schemes_data.js",
+        "sourceId": "scheme-11",
+        "sourceTitle": "Solar Power Scheme for PVTGs (PM JANMAN):",
+        "sourceChecksum": "ac2961a89badbfa9e9d6fe7bac48b80ba85aa8ef145205bff2eaa5eb25b27a88",
+        "migrationTimestamp": "2026-08-15T12:14:01.064Z",
+        "normalizationRuleVersion": "1.0.0-phase4-corrected"
+      },
+      "repairedVersion": "r4.c5-pilot",
+      "repairedTimestamp": "2026-08-18T13:11:12.069Z",
+      "requiresHumanReview": true
+    }
+  },
+  "detectedProblems": [
+    "Original note was a 6-line fragment with an empty \"Components:\" heading."
+  ],
+  "addedFacts": [
+    "Total Outlay: ₹515 Crore",
+    "Specific targets: 1,00,000 households (0.3 kW / ₹50k each) + 1,500 MPCs (2.5 kW / ₹1L each)",
+    "Geographical coverage: 18 States/UTs (75 PVTG tribes)",
+    "5 years free warranty and maintenance"
+  ],
+  "removedContent": [
+    "Empty trailing \"Components:\" heading"
+  ],
+  "sources": [
+    "Ministry of New and Renewable Energy (MNRE), Official Guidelines on Solar Power for PVTGs (mnre.gov.in)",
+    "PIB Delhi, \"Cabinet approves PM-JANMAN Scheme Components\" (Nov 2023 / Jan 2024)"
+  ],
+  "confidence": "high",
+  "requiresHumanReview": true,
+  "status": "pending_review"
+}

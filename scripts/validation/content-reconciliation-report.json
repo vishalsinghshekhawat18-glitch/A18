@@ -1,0 +1,2564 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-08-18T13:39:08.744Z",
+  "summary": {
+    "totalAnalyzed": 171,
+    "artifacts": 6,
+    "fragments": 24,
+    "redundant": 53,
+    "standaloneThin": 88
+  },
+  "schemes": [
+    {
+      "id": "migrated-schemes-scheme-1",
+      "title": "Credit guarantee scheme:",
+      "contentStatus": "artifact",
+      "canonicalSourceId": null,
+      "recommendedAction": "discard-artifact",
+      "evidence": "AGRICULTURAL, RENEWABLE ENERGY AND WATER RESOURCES SCHEMES Page No. 9-17",
+      "confidence": "high",
+      "details": "Migration artifact containing table of contents citations or raw OCR channel banners."
+    },
+    {
+      "id": "migrated-schemes-scheme-2",
+      "title": "Atal Pension Yojana (APY):",
+      "contentStatus": "artifact",
+      "canonicalSourceId": null,
+      "recommendedAction": "discard-artifact",
+      "evidence": "-- 1 of 47 -- 2 ONE STOP SOLUTION FOR IAS, RAS, SI Youtube Telegram",
+      "confidence": "high",
+      "details": "Migration artifact containing table of contents citations or raw OCR channel banners."
+    },
+    {
+      "id": "migrated-schemes-scheme-3",
+      "title": "Pradhan Mantri Suraksha Bima Yojana (PMSBY):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Pradhan Mantri Suraksha Bima Yojana (PMSBY)\" in Bucket 1: Problem Map 3 & MoF Quick-Map",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "SURAKSHA BIMA",
+        "name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+        "bucket": "Bucket 1: Problem Map 3 & MoF Quick-Map"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-4",
+      "title": "PAiSA Portal:",
+      "contentStatus": "artifact",
+      "canonicalSourceId": null,
+      "recommendedAction": "discard-artifact",
+      "evidence": "MINISTRY OF SOCIAL JUSTICE AND EMPOWERMENT Page No. 29-32",
+      "confidence": "high",
+      "details": "Migration artifact containing table of contents citations or raw OCR channel banners."
+    },
+    {
+      "id": "migrated-schemes-scheme-5",
+      "title": "Pradhan Mantri Vaya Vandana Yojana (PMVVY):",
+      "contentStatus": "artifact",
+      "canonicalSourceId": null,
+      "recommendedAction": "discard-artifact",
+      "evidence": "WELFARE SCHEMES Page No. 33-38",
+      "confidence": "high",
+      "details": "Migration artifact containing table of contents citations or raw OCR channel banners."
+    },
+    {
+      "id": "migrated-schemes-scheme-6",
+      "title": "Sickle Cell Anemia Eradication Mission (Budget 2023-24):",
+      "contentStatus": "artifact",
+      "canonicalSourceId": null,
+      "recommendedAction": "discard-artifact",
+      "evidence": "EMPLOYMENT AND SKILL DEVELOPMENT SCHEMES Page No. 39-41",
+      "confidence": "high",
+      "details": "Migration artifact containing table of contents citations or raw OCR channel banners."
+    },
+    {
+      "id": "migrated-schemes-scheme-7",
+      "title": "PMUY II (2021, Mahoba, UP)",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Pradhan Mantri Ujjwala Yojana (PMUY)\" in MoPNG Clean Cooking LPG",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "PMUY",
+        "name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+        "bucket": "MoPNG Clean Cooking LPG"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-8",
+      "title": "\"One Scientist, One Product\" Scheme by ICAR:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-9",
+      "title": "Digital Agriculture Mission:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-10",
+      "title": "Krishi-Decision Support System (Krishi-DSS / ADSS)",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 262 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-11",
+      "title": "Solar Power Scheme for PVTGs (under PM-JANMAN)",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 489 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-12",
+      "title": "Solarization of Centers & Street Lights: 1,500 centers, ₹1 Lakh each",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 121 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-13",
+      "title": "Launch & Approval:",
+      "contentStatus": "fragment",
+      "canonicalSourceId": "migrated-schemes-scheme-12",
+      "recommendedAction": "merge",
+      "evidence": "Launch Date: 15 Feb 2024, Approval: 29 Feb 2024",
+      "confidence": "high",
+      "parentScheme": "PM Surya Ghar Muft Bijli Yojana",
+      "semanticRole": "Launch & Approval Date",
+      "details": "Sub-component or section fragment of parent scheme PM Surya Ghar Muft Bijli Yojana (migrated-schemes-scheme-12)."
+    },
+    {
+      "id": "migrated-schemes-scheme-14",
+      "title": "Key Objectives:",
+      "contentStatus": "fragment",
+      "canonicalSourceId": "migrated-schemes-scheme-12",
+      "recommendedAction": "merge",
+      "evidence": "Provide 300 units/month electricity to 1 cr consumers",
+      "confidence": "high",
+      "parentScheme": "PM Surya Ghar Muft Bijli Yojana",
+      "semanticRole": "Key Objectives (300 units/mo)",
+      "details": "Sub-component or section fragment of parent scheme PM Surya Ghar Muft Bijli Yojana (migrated-schemes-scheme-12)."
+    },
+    {
+      "id": "migrated-schemes-scheme-15",
+      "title": "Financials:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-16",
+      "title": "Subsidy Structure for Solar Plant Installation:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-17",
+      "title": "Special Focus:",
+      "contentStatus": "fragment",
+      "canonicalSourceId": "migrated-schemes-scheme-12",
+      "recommendedAction": "merge",
+      "evidence": "Focus on urban local bodies & gram panchayats",
+      "confidence": "high",
+      "parentScheme": "PM Surya Ghar Muft Bijli Yojana",
+      "semanticRole": "Special Focus & Local Bodies",
+      "details": "Sub-component or section fragment of parent scheme PM Surya Ghar Muft Bijli Yojana (migrated-schemes-scheme-12)."
+    },
+    {
+      "id": "migrated-schemes-scheme-18",
+      "title": "PM-SURAJ Portal:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-19",
+      "title": "UNNATI Scheme:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-20",
+      "title": "Vigyan Dhara Scheme:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-21",
+      "title": "SPICED Scheme:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-22",
+      "title": "Spice Incubation Centres: Encourage spice-related startups with technical and infrastructural",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-23",
+      "title": "RESET Program:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-24",
+      "title": "Deen Dayal SPARSH Yojana:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-25",
+      "title": "Unified Pension Scheme (UPS) :",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-26",
+      "title": "Pradhan Mantri Janjatiya Unnat Gram Abhiyan (PM-JUGA):",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-27",
+      "title": "Infrastructure Development:",
+      "contentStatus": "fragment",
+      "canonicalSourceId": "migrated-schemes-scheme-26",
+      "recommendedAction": "merge",
+      "evidence": "Pucca houses, clean water, electricity, roads",
+      "confidence": "high",
+      "parentScheme": "PM-JANMAN Abhiyan",
+      "semanticRole": "Infrastructure Development Component",
+      "details": "Sub-component or section fragment of parent scheme PM-JANMAN Abhiyan (migrated-schemes-scheme-26)."
+    },
+    {
+      "id": "migrated-schemes-scheme-28",
+      "title": "Economic Empowerment:",
+      "contentStatus": "fragment",
+      "canonicalSourceId": "migrated-schemes-scheme-26",
+      "recommendedAction": "merge",
+      "evidence": "Skill training, marketing support, and agricultural assistance",
+      "confidence": "high",
+      "parentScheme": "PM-JANMAN Abhiyan",
+      "semanticRole": "Economic Empowerment Component",
+      "details": "Sub-component or section fragment of parent scheme PM-JANMAN Abhiyan (migrated-schemes-scheme-26)."
+    },
+    {
+      "id": "migrated-schemes-scheme-29",
+      "title": "Education:",
+      "contentStatus": "fragment",
+      "canonicalSourceId": "migrated-schemes-scheme-26",
+      "recommendedAction": "merge",
+      "evidence": "Higher enrollment, tribal hostels, and scholarships",
+      "confidence": "high",
+      "parentScheme": "PM-JANMAN Abhiyan",
+      "semanticRole": "Education Component",
+      "details": "Sub-component or section fragment of parent scheme PM-JANMAN Abhiyan (migrated-schemes-scheme-26)."
+    },
+    {
+      "id": "migrated-schemes-scheme-30",
+      "title": "Health & Nutrition:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-31",
+      "title": "Purvodaya:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-32",
+      "title": "Higher Education Loan Scheme:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-33",
+      "title": "Prime Minister’s Package:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-34",
+      "title": "Employment Linked Incentive Scheme",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-35",
+      "title": "Credit guarantee scheme:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-36",
+      "title": "Pradhan Mantri Fasal Bima Yojana (PMFBY):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Pradhan Mantri Fasal Bima Yojana (PMFBY)\" in MoA&FW Quick-Map",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "FASAL BIMA",
+        "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+        "bucket": "MoA&FW Quick-Map"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-37",
+      "title": "Pradhan Mantri Kisan Samman Nidhi Scheme (PM-KISAN):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)\" in Bucket 1: Core Problem 2 & MoA&FW Quick-Map",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "PM-KISAN",
+        "name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+        "bucket": "Bucket 1: Core Problem 2 & MoA&FW Quick-Map"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-38",
+      "title": "Pradhan Mantri Kisan SAMPADA Yojana (PMKSY):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)\" in MoA&FW Quick-Map",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "PMKSY",
+        "name": "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)",
+        "bucket": "MoA&FW Quick-Map"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-39",
+      "title": "Kisan Credit Card (KCC):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Kisan Credit Card (KCC)\" in MoA&FW Quick-Map",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "KISAN CREDIT CARD",
+        "name": "Kisan Credit Card (KCC)",
+        "bucket": "MoA&FW Quick-Map"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-40",
+      "title": "Pradhan Mantri Kisan Maandhan Yojana (PMKMY):",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-41",
+      "title": "The Soil Health Card Scheme (SHC):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Soil Health Card Scheme\" in MoA&FW Quick-Map",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "SOIL HEALTH",
+        "name": "Soil Health Card Scheme",
+        "bucket": "MoA&FW Quick-Map"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-42",
+      "title": "Operation Green:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-43",
+      "title": "Subsidy Scheme for KCC Cardholders:",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Kisan Credit Card (KCC)\" in MoA&FW Quick-Map",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "KCC",
+        "name": "Kisan Credit Card (KCC)",
+        "bucket": "MoA&FW Quick-Map"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-44",
+      "title": "National Agriculture Market (e-NAM) :",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"National Agriculture Market (e-NAM)\" in MoA&FW Quick-Map",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "E-NAM",
+        "name": "National Agriculture Market (e-NAM)",
+        "bucket": "MoA&FW Quick-Map"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-45",
+      "title": "PM-KUSUM Scheme (Pradhan Mantri Kisan Urja Suraksha evam Utthaan",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan (PM-KUSUM)\" in Master Trap Table 4",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "KUSUM",
+        "name": "Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan (PM-KUSUM)",
+        "bucket": "Master Trap Table 4"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-46",
+      "title": "The PM PRANAM Scheme (Promotion of Alternate Nutrients for Agriculture",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-47",
+      "title": "Support Sustainable Farming: Enhance soil quality, reduce pollution, and boost long-term",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-48",
+      "title": "Agriculture Infrastructure Fund (AIF):",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-49",
+      "title": "Nano Fertilizers: Revolutionizing Agriculture:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-50",
+      "title": "Jal Jeevan Mission (JJM):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Jal Jeevan Mission (Har Ghar Jal)\" in Ministry of Jal Shakti Flagship",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "JAL JEEVAN",
+        "name": "Jal Jeevan Mission (Har Ghar Jal)",
+        "bucket": "Ministry of Jal Shakti Flagship"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-51",
+      "title": "Atal Bhujal Yojana (ABY):",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-52",
+      "title": "Mission Amrit Sarovar:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-53",
+      "title": "The Green Hydrogen Mission:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-54",
+      "title": "MAHIR: Mission on Advanced and High-Impact Research:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-55",
+      "title": "Pradhan Mantri Sahaj Bijli Har Ghar Yojana – Saubhagya (2017):",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-56",
+      "title": "Remote Areas: Free or subsidized solar connections for unelectrified households in remote",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-57",
+      "title": "Pradhan Mantri Jan Dhan Yojana (PMJDY):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Pradhan Mantri Jan Dhan Yojana (PMJDY)\" in Bucket 1: Problem Map 1 & MoF Quick-Map",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "JAN DHAN",
+        "name": "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+        "bucket": "Bucket 1: Problem Map 1 & MoF Quick-Map"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-58",
+      "title": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)\" in Bucket 1: Problem Map 3 & MoF Quick-Map & Trap 2",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "JEEVAN JYOTI",
+        "name": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
+        "bucket": "Bucket 1: Problem Map 3 & MoF Quick-Map & Trap 2"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-59",
+      "title": "Atal Pension Yojana (APY):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Atal Pension Yojana (APY)\" in MoF Quick-Map",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "ATAL PENSION",
+        "name": "Atal Pension Yojana (APY)",
+        "bucket": "MoF Quick-Map"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-60",
+      "title": "Pradhan Mantri Suraksha Bima Yojana (PMSBY):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Pradhan Mantri Suraksha Bima Yojana (PMSBY)\" in Bucket 1: Problem Map 3 & MoF Quick-Map",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "SURAKSHA BIMA",
+        "name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+        "bucket": "Bucket 1: Problem Map 3 & MoF Quick-Map"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-61",
+      "title": "Stand-Up India Scheme: ey Facts",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-62",
+      "title": "MSME Competitive LEAN Scheme:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-63",
+      "title": "RAMP Scheme (Raising and Accelerating MSME Performance):",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-64",
+      "title": "MSME Portal:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-65",
+      "title": "Startup India Initiative:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-66",
+      "title": "Make in India:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-67",
+      "title": "Production Linked Incentive (PLI) Scheme:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-68",
+      "title": "Unity Mall Scheme:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-69",
+      "title": "FAME India Scheme:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-70",
+      "title": "FAME-II (2019-2024): ₹10,000 crore for EV subsidies and infrastructure.",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 235 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-71",
+      "title": "PM MITRA Park Scheme:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-72",
+      "title": "Parks: 7 locations in Tamil Nadu, Telangana, Karnataka, Maharashtra, Gujarat, Madhya",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 151 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-73",
+      "title": "Infrastructure: Integrated facilities for manufacturing, logistics, housing, and sustainability.",
+      "contentStatus": "artifact",
+      "canonicalSourceId": null,
+      "recommendedAction": "discard-artifact",
+      "evidence": "-- 21 of 47 -- 22 ONE STOP SOLUTION FOR IAS, RAS, SI Youtube Telegram",
+      "confidence": "high",
+      "details": "Migration artifact containing table of contents citations or raw OCR channel banners."
+    },
+    {
+      "id": "migrated-schemes-scheme-74",
+      "title": "Pradhan Mantri Awas Yojana - Gramin (PMAY-G):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Pradhan Mantri Awas Yojana - Gramin (PMAY-G)\" in Bucket 1: Table 1, Table 2 Funding, MoRD Quick-Map",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "PMAY-G",
+        "name": "Pradhan Mantri Awas Yojana - Gramin (PMAY-G)",
+        "bucket": "Bucket 1: Table 1, Table 2 Funding, MoRD Quick-Map"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-75",
+      "title": "Pradhan Mantri Gram Sadak Yojana (PMGSY):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Pradhan Mantri Gram Sadak Yojana (PMGSY)\" in Table 2 Funding, MoRD Quick-Map",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "GRAM SADAK",
+        "name": "Pradhan Mantri Gram Sadak Yojana (PMGSY)",
+        "bucket": "Table 2 Funding, MoRD Quick-Map"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-76",
+      "title": "The Shyama Prasad Mukherjee Rurban Mission (SPMRM):",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-77",
+      "title": "The Deendayal Antyodaya Yojana - National Rural Livelihoods Mission (DAY-NRLM):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Deendayal Antyodaya Yojana - NRLM (Lakhpati Didi)\" in MoRD Quick-Map",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "DAY-NRLM",
+        "name": "Deendayal Antyodaya Yojana - NRLM (Lakhpati Didi)",
+        "bucket": "MoRD Quick-Map"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-78",
+      "title": "Formation of SHGs for collective action.",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-79",
+      "title": "The Sansad Adarsh Gram Yojana (SAGY):",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-80",
+      "title": "Lakhpati Didi Scheme:",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"DAY-NRLM (Lakhpati Didi Initiative)\" in MoRD Quick-Map",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "LAKHPATI DIDI",
+        "name": "DAY-NRLM (Lakhpati Didi Initiative)",
+        "bucket": "MoRD Quick-Map"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-81",
+      "title": "Women Enterprise Acceleration Fund:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-82",
+      "title": "Swachh Bharat Mission (Rural) - \"Ek Kadam Swachta Ki Aur\":",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Swachh Bharat Mission (Urban 2.0 & Gramin)\" in MoHUA Quick-Map",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "SWACHH BHARAT",
+        "name": "Swachh Bharat Mission (Urban 2.0 & Gramin)",
+        "bucket": "MoHUA Quick-Map"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-83",
+      "title": "Promote community participation and awareness.",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-84",
+      "title": "HRIDAY Scheme (Heritage City Development and Augmentation Yojana):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"National Heritage City Development (HRIDAY)\" in MoHUA Quick-Map",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "HRIDAY",
+        "name": "National Heritage City Development (HRIDAY)",
+        "bucket": "MoHUA Quick-Map"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-85",
+      "title": "AMRUT Mission (Atal Mission for Rejuvenation and Urban Transformation):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"AMRUT 2.0 Mission\" in MoHUA Quick-Map",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "AMRUT",
+        "name": "AMRUT 2.0 Mission",
+        "bucket": "MoHUA Quick-Map"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-86",
+      "title": "SVANidhi se Samriddhi:",
+      "contentStatus": "fragment",
+      "canonicalSourceId": "migrated-schemes-scheme-85",
+      "recommendedAction": "merge",
+      "evidence": "SVANidhi se Samriddhi component",
+      "confidence": "high",
+      "parentScheme": "PM SVANidhi",
+      "semanticRole": "Socio-Economic Profiling Component (SVANidhi se Samriddhi)",
+      "details": "Sub-component or section fragment of parent scheme PM SVANidhi (migrated-schemes-scheme-85)."
+    },
+    {
+      "id": "migrated-schemes-scheme-87",
+      "title": "BOCW (Building & Other Construction Workers)– Welfare for construction workers.",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-88",
+      "title": "Smart City Mission:",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Smart Cities Mission\" in MoHUA Quick-Map",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "SMART CITY",
+        "name": "Smart Cities Mission",
+        "bucket": "MoHUA Quick-Map"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-89",
+      "title": "Swachh Bharat Mission (Urban):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Swachh Bharat Mission (Urban 2.0 & Gramin)\" in MoHUA Quick-Map",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "SWACHH BHARAT",
+        "name": "Swachh Bharat Mission (Urban 2.0 & Gramin)",
+        "bucket": "MoHUA Quick-Map"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-90",
+      "title": "Improving waste management.",
+      "contentStatus": "fragment",
+      "canonicalSourceId": "migrated-schemes-scheme-89",
+      "recommendedAction": "merge",
+      "evidence": "Improving waste management bullet",
+      "confidence": "high",
+      "parentScheme": "Swachh Bharat Mission (Urban)",
+      "semanticRole": "Waste Management Focus Area",
+      "details": "Sub-component or section fragment of parent scheme Swachh Bharat Mission (Urban) (migrated-schemes-scheme-89)."
+    },
+    {
+      "id": "migrated-schemes-scheme-91",
+      "title": "NAMASTE Scheme (2022–2026):",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-92",
+      "title": "Jal Jeevan Mission (Urban):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Jal Jeevan Mission (Har Ghar Jal)\" in Ministry of Jal Shakti Flagship",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "JAL JEEVAN",
+        "name": "Jal Jeevan Mission (Har Ghar Jal)",
+        "bucket": "Ministry of Jal Shakti Flagship"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-93",
+      "title": "Enable digital monitoring of water quality.",
+      "contentStatus": "fragment",
+      "canonicalSourceId": "migrated-schemes-scheme-92",
+      "recommendedAction": "merge",
+      "evidence": "Enable digital monitoring of water quality",
+      "confidence": "high",
+      "parentScheme": "Jal Jeevan Mission (Urban)",
+      "semanticRole": "Digital Monitoring Feature",
+      "details": "Sub-component or section fragment of parent scheme Jal Jeevan Mission (Urban) (migrated-schemes-scheme-92)."
+    },
+    {
+      "id": "migrated-schemes-scheme-94",
+      "title": "CITIIS 2.0 (City Investments to Innovate, Integrate, & Sustain):",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-95",
+      "title": "Expansion of Cities (sustainable urban growth)",
+      "contentStatus": "fragment",
+      "canonicalSourceId": "migrated-schemes-scheme-94",
+      "recommendedAction": "merge",
+      "evidence": "Expansion of Cities (sustainable urban growth)",
+      "confidence": "high",
+      "parentScheme": "CITIIS 2.0",
+      "semanticRole": "Expansion of Cities Objective",
+      "details": "Sub-component or section fragment of parent scheme CITIIS 2.0 (migrated-schemes-scheme-94)."
+    },
+    {
+      "id": "migrated-schemes-scheme-96",
+      "title": "Pradhan Mantri Awas Yojana (Urban):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Pradhan Mantri Awas Yojana - Urban (PMAY-U)\" in Bucket 1: Table 1, MoHUA Quick-Map, Trap 3",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "AWAS YOJANA (URBAN)",
+        "name": "Pradhan Mantri Awas Yojana - Urban (PMAY-U)",
+        "bucket": "Bucket 1: Table 1, MoHUA Quick-Map, Trap 3"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-97",
+      "title": "DAY-NULM:",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Deendayal Antyodaya Yojana - NULM\" in MoHUA Quick-Map",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "DAY-NULM",
+        "name": "Deendayal Antyodaya Yojana - NULM",
+        "bucket": "MoHUA Quick-Map"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-98",
+      "title": "PAiSA Portal:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-99",
+      "title": "SHRESHTA Scheme: Empowering SC Students through Quality Education:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-100",
+      "title": "SHREYAS Scheme (Scholarships for Higher Education for Young Achievers Scheme)",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 538 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-101",
+      "title": "PM-DAKSH Yojana (Pradhan Mantri Dakshta Aur Kushalta Sampann Hitgrahi",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-102",
+      "title": "PM YASASVI (PM Young Achievers Scholarship Award Scheme for Vibrant India)",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 533 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-103",
+      "title": "Pre Matric (Class 9-10):",
+      "contentStatus": "fragment",
+      "canonicalSourceId": "migrated-schemes-scheme-100",
+      "recommendedAction": "merge",
+      "evidence": "Component of SC/OBC education scheme",
+      "confidence": "high",
+      "parentScheme": "SHREYAS Scheme",
+      "semanticRole": "Pre-Matric Scholarship (Class 9-10)",
+      "details": "Sub-component or section fragment of parent scheme SHREYAS Scheme (migrated-schemes-scheme-100)."
+    },
+    {
+      "id": "migrated-schemes-scheme-104",
+      "title": "Post Matric:",
+      "contentStatus": "fragment",
+      "canonicalSourceId": "migrated-schemes-scheme-100",
+      "recommendedAction": "merge",
+      "evidence": "Component of SC/OBC education scheme",
+      "confidence": "high",
+      "parentScheme": "SHREYAS Scheme",
+      "semanticRole": "Post-Matric Scholarship",
+      "details": "Sub-component or section fragment of parent scheme SHREYAS Scheme (migrated-schemes-scheme-100)."
+    },
+    {
+      "id": "migrated-schemes-scheme-105",
+      "title": "Higher Education (Beyond Class 12):",
+      "contentStatus": "fragment",
+      "canonicalSourceId": "migrated-schemes-scheme-100",
+      "recommendedAction": "merge",
+      "evidence": "Rs. 2 lakh/year + allowance",
+      "confidence": "high",
+      "parentScheme": "SHREYAS Scheme",
+      "semanticRole": "Higher Education Beyond Class 12",
+      "details": "Sub-component or section fragment of parent scheme SHREYAS Scheme (migrated-schemes-scheme-100)."
+    },
+    {
+      "id": "migrated-schemes-scheme-106",
+      "title": "Merit Improvement (Class 9-12):",
+      "contentStatus": "fragment",
+      "canonicalSourceId": "migrated-schemes-scheme-100",
+      "recommendedAction": "merge",
+      "evidence": "Rs. 25,000/year allowance",
+      "confidence": "high",
+      "parentScheme": "SHREYAS Scheme",
+      "semanticRole": "Merit Improvement (Class 9-12)",
+      "details": "Sub-component or section fragment of parent scheme SHREYAS Scheme (migrated-schemes-scheme-100)."
+    },
+    {
+      "id": "migrated-schemes-scheme-107",
+      "title": "National Overseas Scholarship (NOS) for SC, DNT, and Landless Labourers",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 283 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-108",
+      "title": "SMILE Scheme (Support for Marginalised Individuals for Livelihood and Enterprise)",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 582 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-109",
+      "title": "Dr. Ambedkar Central Sector Scheme of Interest Subvention on Overseas Educational Loans for OBCs and EBCs",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 317 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-110",
+      "title": "National Fellowship for OBC Students (NF-OBC)",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 257 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-111",
+      "title": "SEED Scheme (Scheme for Economic Empowerment of DNT/NT/SNT Communities)",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 508 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-112",
+      "title": "National Action Plan for Drug Demand Reduction (NAPDDR) & Nasha Mukt Bharat Abhiyaan",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 524 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-113",
+      "title": "Atal Vayo Abhyudaya Yojana (AVYAY):",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-114",
+      "title": "Pradhan Mantri Jan Vikas Karyakram (PMJVK):",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-115",
+      "title": "Vanbandhu Kalyan Yojana (VKY):",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-116",
+      "title": "PM-JANMAN Abhiyan (Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan):",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-117",
+      "title": "NPS Vatsalya Scheme (Budget 2024-25):",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-118",
+      "title": "Pradhan Mantri Vaya Vandana Yojana (PMVVY):",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-119",
+      "title": "Beti Bachao Beti Padhao:",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Beti Bachao Beti Padhao Scheme\" in MoWCD National Mission",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "BETI BACHAO",
+        "name": "Beti Bachao Beti Padhao Scheme",
+        "bucket": "MoWCD National Mission"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-120",
+      "title": "Nationwide",
+      "contentStatus": "fragment",
+      "canonicalSourceId": "migrated-schemes-scheme-119",
+      "recommendedAction": "merge",
+      "evidence": "Single word heading \"Nationwide\"",
+      "confidence": "high",
+      "parentScheme": "Beti Bachao Beti Padhao",
+      "semanticRole": "Geographical Scope: Nationwide",
+      "details": "Sub-component or section fragment of parent scheme Beti Bachao Beti Padhao (migrated-schemes-scheme-119)."
+    },
+    {
+      "id": "migrated-schemes-scheme-121",
+      "title": "Sukanya Samriddhi Yojana (SSY):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Sukanya Samriddhi Yojana (SSY)\" in Small Savings / MoF / MoWCD",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "SUKANYA SAMRIDDHI",
+        "name": "Sukanya Samriddhi Yojana (SSY)",
+        "bucket": "Small Savings / MoF / MoWCD"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-122",
+      "title": "Pradhan Mantri Matru Vandana Yojana (PMMVY):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Pradhan Mantri Matru Vandana Yojana (PMMVY)\" in MoWCD DBT Maternity Benefit",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "MATRU VANDANA",
+        "name": "Pradhan Mantri Matru Vandana Yojana (PMMVY)",
+        "bucket": "MoWCD DBT Maternity Benefit"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-123",
+      "title": "Rs. 2000 for birth registration",
+      "contentStatus": "fragment",
+      "canonicalSourceId": "migrated-schemes-scheme-122",
+      "recommendedAction": "merge",
+      "evidence": "Rs. 2000 for birth registration bullet",
+      "confidence": "high",
+      "parentScheme": "Pradhan Mantri Matru Vandana Yojana (PMMVY)",
+      "semanticRole": "Birth Registration Benefit Installment",
+      "details": "Sub-component or section fragment of parent scheme Pradhan Mantri Matru Vandana Yojana (PMMVY) (migrated-schemes-scheme-122)."
+    },
+    {
+      "id": "migrated-schemes-scheme-124",
+      "title": "PM SHRI Schools (Prime Minister Schools for Rising India):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"PM SHRI Schools for Rising India\" in Ministry of Education National Mission",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "PM SHRI",
+        "name": "PM SHRI Schools for Rising India",
+        "bucket": "Ministry of Education National Mission"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-125",
+      "title": "Pradhan Mantri Poshan Shakti Nirman Yojana (PM POSHAN Scheme):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Poshan Abhiyaan (National Nutrition Mission)\" in MoWCD Nutrition Mission",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "POSHAN",
+        "name": "Poshan Abhiyaan (National Nutrition Mission)",
+        "bucket": "MoWCD Nutrition Mission"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-126",
+      "title": "NIPUN Bharat Scheme:",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"National Infrastructure Pipeline (NIP)\" in MoF Quick-Map",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "NIP",
+        "name": "National Infrastructure Pipeline (NIP)",
+        "bucket": "MoF Quick-Map"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-127",
+      "title": "STARS Scheme: Strengthening Teaching-Learning and Results for States:",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"STARS Scheme (Strengthening Teaching-Learning and Results)\" in Ministry of Education & World Bank",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "STARS",
+        "name": "STARS Scheme (Strengthening Teaching-Learning and Results)",
+        "bucket": "Ministry of Education & World Bank"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-128",
+      "title": "PM-WANI (Prime Minister's Wi-Fi Access Interface):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Prime Minister Wi-Fi Access Network Interface (PM-WANI)\" in Bucket 1: Table 1",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "PM-WANI",
+        "name": "Prime Minister Wi-Fi Access Network Interface (PM-WANI)",
+        "bucket": "Bucket 1: Table 1"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-129",
+      "title": "Janani Suraksha Yojnna:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-130",
+      "title": "National Nutrition Mission (Poshan Abhiyaan):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Poshan Abhiyaan (National Nutrition Mission)\" in MoWCD Nutrition Mission",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "POSHAN",
+        "name": "Poshan Abhiyaan (National Nutrition Mission)",
+        "bucket": "MoWCD Nutrition Mission"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-131",
+      "title": "Mission Shakti (2021-2026):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Mission Shakti (Samarthya & Sambal)\" in MoWCD Women Empowerment",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "MISSION SHAKTI",
+        "name": "Mission Shakti (Samarthya & Sambal)",
+        "bucket": "MoWCD Women Empowerment"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-132",
+      "title": "Samarthya (Support for women’s well-being):",
+      "contentStatus": "fragment",
+      "canonicalSourceId": "migrated-schemes-scheme-131",
+      "recommendedAction": "merge",
+      "evidence": "Samarthya component of Mission Shakti",
+      "confidence": "high",
+      "parentScheme": "Mission Shakti",
+      "semanticRole": "Samarthya Sub-Scheme (Empowerment)",
+      "details": "Sub-component or section fragment of parent scheme Mission Shakti (migrated-schemes-scheme-131)."
+    },
+    {
+      "id": "migrated-schemes-scheme-133",
+      "title": "Sambal (Safety and justice for women):",
+      "contentStatus": "fragment",
+      "canonicalSourceId": "migrated-schemes-scheme-131",
+      "recommendedAction": "merge",
+      "evidence": "Sambal component of Mission Shakti",
+      "confidence": "high",
+      "parentScheme": "Mission Shakti",
+      "semanticRole": "Sambal Sub-Scheme (Safety & Justice)",
+      "details": "Sub-component or section fragment of parent scheme Mission Shakti (migrated-schemes-scheme-131)."
+    },
+    {
+      "id": "migrated-schemes-scheme-134",
+      "title": "Suposhit Maa Abhiyan:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-135",
+      "title": "Ayushman Bharat Scheme (Launched: 28 September 2018):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Ayushman Bharat PM-JAY & Health Infrastructure\" in Bucket 1: Table 1, Master Trap Table",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "AYUSHMAN BHARAT",
+        "name": "Ayushman Bharat PM-JAY & Health Infrastructure",
+        "bucket": "Bucket 1: Table 1, Master Trap Table"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-136",
+      "title": "National Health Mission (NHM) – Key Highlights:",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"National Health Mission (NHM)\" in Table 2 Funding Pattern",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "NATIONAL HEALTH MISSION",
+        "name": "National Health Mission (NHM)",
+        "bucket": "Table 2 Funding Pattern"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-137",
+      "title": "Prime Minister's PVTG Development Mission:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-138",
+      "title": "Ayushman Bharat Digital Health Mission (ABDM):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Ayushman Bharat PM-JAY & Health Infrastructure\" in Bucket 1: Table 1, Master Trap Table",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "AYUSHMAN BHARAT",
+        "name": "Ayushman Bharat PM-JAY & Health Infrastructure",
+        "bucket": "Bucket 1: Table 1, Master Trap Table"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-139",
+      "title": "Ayushman Bharat Health Infrastructure Mission (ABHIM):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Ayushman Bharat PM-JAY & Health Infrastructure\" in Bucket 1: Table 1, Master Trap Table",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "AYUSHMAN BHARAT",
+        "name": "Ayushman Bharat PM-JAY & Health Infrastructure",
+        "bucket": "Bucket 1: Table 1, Master Trap Table"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-140",
+      "title": "Sickle Cell Anemia Eradication Mission (Budget 2023-24):",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-141",
+      "title": "PM Kaushal Vikas Yojana:",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Pradhan Mantri Kaushal Vikas Yojana (PMKVY 4.0)\" in Bucket 1: Table 1",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "KAUSHAL VIKAS",
+        "name": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY 4.0)",
+        "bucket": "Bucket 1: Table 1"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-142",
+      "title": "PM Vishwakarma Kaushal Samman Yojana (PMVKSY):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"PM Vishwakarma Kaushal Samman Yojana\" in MoF / MSME Flagship",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "VISHWAKARMA",
+        "name": "PM Vishwakarma Kaushal Samman Yojana",
+        "bucket": "MoF / MSME Flagship"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-143",
+      "title": "Antyodaya Shramik Suraksha Yojana:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-144",
+      "title": "Pradhan Mantri Matsya Kisan Samridhi Sah-Yojana (PM-MKSSY):",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-145",
+      "title": "Aatmanirbhar Bharat Rojgar Yojana (ABRY):",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-146",
+      "title": "Aatmanirbhar Bharat Rojgar Yojana (ABRY):",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-147",
+      "title": "Pradhan Mantri Shram Yogi Mandhan Yojana (PM-SYMY):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Pradhan Mantri Shram Yogi Maandhan (PM-SYM)\" in Master Trap Table 10",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "SHRAM YOGI",
+        "name": "Pradhan Mantri Shram Yogi Maandhan (PM-SYM)",
+        "bucket": "Master Trap Table 10"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-148",
+      "title": "Project Bharatmala :",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Bharatmala Pariyojana\" in MoRTH Highways Master Framework",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "BHARATMALA",
+        "name": "Bharatmala Pariyojana",
+        "bucket": "MoRTH Highways Master Framework"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-149",
+      "title": "Project Sagarmala (2016–2025):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Sagarmala Programme\" in MoPSW Ports & Shipping Master Framework",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "SAGARMALA",
+        "name": "Sagarmala Programme",
+        "bucket": "MoPSW Ports & Shipping Master Framework"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-150",
+      "title": "Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY)\" in NFSA / MoCAF&PD Free Foodgrains",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "GARIB KALYAN ANNA",
+        "name": "Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY)",
+        "bucket": "NFSA / MoCAF&PD Free Foodgrains"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-151",
+      "title": "PM Gati Shakti Yojana (National Master Plan for Multi-Modal Connectivity):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"PM Gati Shakti National Master Plan\" in Logistics Master Framework",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "GATI SHAKTI",
+        "name": "PM Gati Shakti National Master Plan",
+        "bucket": "Logistics Master Framework"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-152",
+      "title": "Shree Anna Yojana:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-153",
+      "title": "BHARAT SHRI Scheme :",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-154",
+      "title": "MISHTI Scheme:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-155",
+      "title": "SVAMITVA Scheme:",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Survey of Villages and Mapping with Improvised Technology in Village Areas (SVAMITVA)\" in Master Trap Table 5",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "SVAMITVA",
+        "name": "Survey of Villages and Mapping with Improvised Technology in Village Areas (SVAMITVA)",
+        "bucket": "Master Trap Table 5"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-156",
+      "title": "Legal Ownership: Property cards to enable financial empowerment and dispute resolution.",
+      "contentStatus": "fragment",
+      "canonicalSourceId": "migrated-schemes-scheme-155",
+      "recommendedAction": "merge",
+      "evidence": "Property cards to enable financial empowerment",
+      "confidence": "high",
+      "parentScheme": "SVAMITVA Scheme",
+      "semanticRole": "Legal Ownership & Property Cards",
+      "details": "Sub-component or section fragment of parent scheme SVAMITVA Scheme (migrated-schemes-scheme-155)."
+    },
+    {
+      "id": "migrated-schemes-scheme-157",
+      "title": "National Infrastructure Pipeline (NIP):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"National Infrastructure Pipeline (NIP)\" in MoF Quick-Map",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "NATIONAL INFRASTRUCTURE PIPELINE",
+        "name": "National Infrastructure Pipeline (NIP)",
+        "bucket": "MoF Quick-Map"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-158",
+      "title": "Energy: 24% (Power Generation, Renewable Energy)",
+      "contentStatus": "fragment",
+      "canonicalSourceId": "migrated-schemes-scheme-157",
+      "recommendedAction": "merge",
+      "evidence": "Energy: 24% (Power Generation, Renewable Energy)",
+      "confidence": "high",
+      "parentScheme": "National Infrastructure Pipeline (NIP)",
+      "semanticRole": "Sectoral Allocation: Energy (24%)",
+      "details": "Sub-component or section fragment of parent scheme National Infrastructure Pipeline (NIP) (migrated-schemes-scheme-157)."
+    },
+    {
+      "id": "migrated-schemes-scheme-159",
+      "title": "National Monetization Pipeline (NMP):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"National Monetization Pipeline (NMP)\" in MoF Quick-Map",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "NATIONAL MONETIZATION PIPELINE",
+        "name": "National Monetization Pipeline (NMP)",
+        "bucket": "MoF Quick-Map"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-160",
+      "title": "Electricity (15%)",
+      "contentStatus": "fragment",
+      "canonicalSourceId": "migrated-schemes-scheme-159",
+      "recommendedAction": "merge",
+      "evidence": "Electricity (15%) sector slice",
+      "confidence": "high",
+      "parentScheme": "National Monetization Pipeline (NMP)",
+      "semanticRole": "Sectoral Allocation: Electricity (15%)",
+      "details": "Sub-component or section fragment of parent scheme National Monetization Pipeline (NMP) (migrated-schemes-scheme-159)."
+    },
+    {
+      "id": "migrated-schemes-scheme-161",
+      "title": "Rashtriya Gram Swaraj Abhiyan (RGSA):",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-162",
+      "title": "Mission Karmayogi:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-163",
+      "title": "Vibrant Village Program (VVP):",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Vibrant Villages Programme (VVP)\" in MHA Border Infrastructure",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "VIBRANT VILLAGE",
+        "name": "Vibrant Villages Programme (VVP)",
+        "bucket": "MHA Border Infrastructure"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-164",
+      "title": "Infrastructure: Roads, housing, electricity, telecom.",
+      "contentStatus": "fragment",
+      "canonicalSourceId": "migrated-schemes-scheme-163",
+      "recommendedAction": "merge",
+      "evidence": "Roads, housing, electricity, telecom",
+      "confidence": "high",
+      "parentScheme": "Vibrant Village Program (VVP)",
+      "semanticRole": "Infrastructure Focus Area",
+      "details": "Sub-component or section fragment of parent scheme Vibrant Village Program (VVP) (migrated-schemes-scheme-163)."
+    },
+    {
+      "id": "migrated-schemes-scheme-165",
+      "title": "Economic Growth: Tourism, skill development, cultural promotion.",
+      "contentStatus": "fragment",
+      "canonicalSourceId": "migrated-schemes-scheme-163",
+      "recommendedAction": "merge",
+      "evidence": "Tourism, skill development, cultural promotion",
+      "confidence": "high",
+      "parentScheme": "Vibrant Village Program (VVP)",
+      "semanticRole": "Economic Growth Focus Area",
+      "details": "Sub-component or section fragment of parent scheme Vibrant Village Program (VVP) (migrated-schemes-scheme-163)."
+    },
+    {
+      "id": "migrated-schemes-scheme-166",
+      "title": "ADITI Scheme (2023-26):",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-167",
+      "title": "PM-DevINE Scheme:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-168",
+      "title": "PM E-Bus Scheme:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-169",
+      "title": "PM - E-DRIVE Scheme:",
+      "contentStatus": "standalone-thin",
+      "canonicalSourceId": null,
+      "recommendedAction": "enrich",
+      "evidence": "Valid standalone initiative (current content length: 0 chars).",
+      "confidence": "high",
+      "missingFields": [
+        "Nodal Ministry",
+        "Target Beneficiaries",
+        "Outlay / Budget",
+        "Key Implementation Guidelines"
+      ],
+      "details": "Genuine standalone government scheme requiring verified source enrichment before production finalization."
+    },
+    {
+      "id": "migrated-schemes-scheme-170",
+      "title": "Pradhan Mantri Ujjwala Yojana (PMUY) :",
+      "contentStatus": "redundant",
+      "canonicalSourceId": "migrated-schemes-masterfile",
+      "recommendedAction": "supersede",
+      "evidence": "Fully consolidated in masterfile under \"Pradhan Mantri Ujjwala Yojana (PMUY)\" in MoPNG Clean Cooking LPG",
+      "confidence": "high",
+      "masterfileMapping": {
+        "key": "UJJWALA",
+        "name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+        "bucket": "MoPNG Clean Cooking LPG"
+      },
+      "details": "Redundant with authoritative 10-Bucket Government Schemes Masterfile."
+    },
+    {
+      "id": "migrated-schemes-scheme-171",
+      "title": "PMUY II (2021, Mahoba, UP)",
+      "contentStatus": "fragment",
+      "canonicalSourceId": "migrated-schemes-scheme-170",
+      "recommendedAction": "merge",
+      "evidence": "PMUY II expansion launch record",
+      "confidence": "high",
+      "parentScheme": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+      "semanticRole": "Phase 2 Launch: Mahoba UP (2021)",
+      "details": "Sub-component or section fragment of parent scheme Pradhan Mantri Ujjwala Yojana (PMUY) (migrated-schemes-scheme-170)."
+    }
+  ]
+}

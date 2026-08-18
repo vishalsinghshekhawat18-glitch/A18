@@ -1,0 +1,80 @@
+{
+  "version": "1.0.0-r4c9-diff",
+  "referenceDate": "2026-08-18",
+  "summary": {
+    "CURRENT": 4,
+    "MIXED": 6
+  },
+  "items": [
+    {
+      "itemId": "migrated-schemes-scheme-10",
+      "title": "Krishi-Decision Support System (Krishi-DSS / ADSS)",
+      "promotionStatus": "approved",
+      "overallTemporalStatus": "CURRENT",
+      "componentsAudited": 2
+    },
+    {
+      "itemId": "migrated-schemes-scheme-100",
+      "title": "SHREYAS Scheme (Scholarships for Higher Education for Young Achievers Scheme)",
+      "promotionStatus": "approved-with-temporal-components",
+      "overallTemporalStatus": "MIXED",
+      "componentsAudited": 2
+    },
+    {
+      "itemId": "migrated-schemes-scheme-102",
+      "title": "PM YASASVI (PM Young Achievers Scholarship Award Scheme for Vibrant India)",
+      "promotionStatus": "approved-with-temporal-components",
+      "overallTemporalStatus": "MIXED",
+      "componentsAudited": 2
+    },
+    {
+      "itemId": "migrated-schemes-scheme-107",
+      "title": "National Overseas Scholarship (NOS) for SC, DNT, and Landless Labourers",
+      "promotionStatus": "approved",
+      "overallTemporalStatus": "CURRENT",
+      "componentsAudited": 2
+    },
+    {
+      "itemId": "migrated-schemes-scheme-108",
+      "title": "SMILE Scheme (Support for Marginalised Individuals for Livelihood and Enterprise)",
+      "promotionStatus": "approved-with-temporal-components",
+      "overallTemporalStatus": "MIXED",
+      "componentsAudited": 3
+    },
+    {
+      "itemId": "migrated-schemes-scheme-109",
+      "title": "Dr. Ambedkar Central Sector Scheme of Interest Subvention on Overseas Educational Loans for OBCs and EBCs",
+      "promotionStatus": "approved",
+      "overallTemporalStatus": "CURRENT",
+      "componentsAudited": 2
+    },
+    {
+      "itemId": "migrated-schemes-scheme-11",
+      "title": "Solar Power Scheme for PVTGs (under PM-JANMAN)",
+      "promotionStatus": "approved-with-temporal-components",
+      "overallTemporalStatus": "MIXED",
+      "componentsAudited": 2
+    },
+    {
+      "itemId": "migrated-schemes-scheme-110",
+      "title": "National Fellowship for OBC Students (NF-OBC)",
+      "promotionStatus": "approved",
+      "overallTemporalStatus": "CURRENT",
+      "componentsAudited": 2
+    },
+    {
+      "itemId": "migrated-schemes-scheme-111",
+      "title": "SEED Scheme (Scheme for Economic Empowerment of DNT/NT/SNT Communities)",
+      "promotionStatus": "approved-with-temporal-components",
+      "overallTemporalStatus": "MIXED",
+      "componentsAudited": 2
+    },
+    {
+      "itemId": "migrated-schemes-scheme-112",
+      "title": "National Action Plan for Drug Demand Reduction (NAPDDR) & Nasha Mukt Bharat Abhiyaan",
+      "promotionStatus": "approved-with-temporal-components",
+      "overallTemporalStatus": "MIXED",
+      "componentsAudited": 2
+    }
+  ]
+}

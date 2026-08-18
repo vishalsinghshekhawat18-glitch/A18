@@ -1,0 +1,101 @@
+{
+  "version": "1.0.0-r4c8-diff",
+  "referenceDate": "2026-08-18",
+  "summary": {
+    "unmodifiedApproved": 4,
+    "convertedToApprovedWithWarning": 6,
+    "convertedToHumanReview": 0
+  },
+  "items": [
+    {
+      "itemId": "migrated-schemes-scheme-10",
+      "title": "Krishi-Decision Support System (Krishi-DSS / ADSS)",
+      "previousPromotionStatus": "approved",
+      "newPromotionStatus": "approved",
+      "previousTemporalStatus": "CURRENT",
+      "newTemporalStatus": "CURRENT",
+      "temporalWarningAdded": false
+    },
+    {
+      "itemId": "migrated-schemes-scheme-100",
+      "title": "SHREYAS Scheme (Scholarships for Higher Education for Young Achievers Scheme)",
+      "previousPromotionStatus": "approved",
+      "newPromotionStatus": "approved-with-warning",
+      "previousTemporalStatus": "CURRENT",
+      "newTemporalStatus": "EXPIRED",
+      "temporalWarningAdded": true
+    },
+    {
+      "itemId": "migrated-schemes-scheme-102",
+      "title": "PM YASASVI (PM Young Achievers Scholarship Award Scheme for Vibrant India)",
+      "previousPromotionStatus": "approved",
+      "newPromotionStatus": "approved-with-warning",
+      "previousTemporalStatus": "CURRENT",
+      "newTemporalStatus": "EXPIRED",
+      "temporalWarningAdded": true
+    },
+    {
+      "itemId": "migrated-schemes-scheme-107",
+      "title": "National Overseas Scholarship (NOS) for SC, DNT, and Landless Labourers",
+      "previousPromotionStatus": "approved",
+      "newPromotionStatus": "approved",
+      "previousTemporalStatus": "CURRENT",
+      "newTemporalStatus": "CURRENT",
+      "temporalWarningAdded": false
+    },
+    {
+      "itemId": "migrated-schemes-scheme-108",
+      "title": "SMILE Scheme (Support for Marginalised Individuals for Livelihood and Enterprise)",
+      "previousPromotionStatus": "approved",
+      "newPromotionStatus": "approved-with-warning",
+      "previousTemporalStatus": "CURRENT",
+      "newTemporalStatus": "EXPIRED",
+      "temporalWarningAdded": true
+    },
+    {
+      "itemId": "migrated-schemes-scheme-109",
+      "title": "Dr. Ambedkar Central Sector Scheme of Interest Subvention on Overseas Educational Loans",
+      "previousPromotionStatus": "approved",
+      "newPromotionStatus": "approved",
+      "previousTemporalStatus": "CURRENT",
+      "newTemporalStatus": "CURRENT",
+      "temporalWarningAdded": false
+    },
+    {
+      "itemId": "migrated-schemes-scheme-11",
+      "title": "Solar Power Scheme for PVTGs (under PM-JANMAN)",
+      "previousPromotionStatus": "approved",
+      "newPromotionStatus": "approved-with-warning",
+      "previousTemporalStatus": "CURRENT",
+      "newTemporalStatus": "EXPIRED",
+      "temporalWarningAdded": true
+    },
+    {
+      "itemId": "migrated-schemes-scheme-110",
+      "title": "National Fellowship for OBC Students (NF-OBC)",
+      "previousPromotionStatus": "approved",
+      "newPromotionStatus": "approved",
+      "previousTemporalStatus": "CURRENT",
+      "newTemporalStatus": "CURRENT",
+      "temporalWarningAdded": false
+    },
+    {
+      "itemId": "migrated-schemes-scheme-111",
+      "title": "SEED Scheme (Scheme for Economic Empowerment of DNT/NT/SNT Communities)",
+      "previousPromotionStatus": "approved",
+      "newPromotionStatus": "approved-with-warning",
+      "previousTemporalStatus": "CURRENT",
+      "newTemporalStatus": "EXPIRED",
+      "temporalWarningAdded": true
+    },
+    {
+      "itemId": "migrated-schemes-scheme-112",
+      "title": "National Action Plan for Drug Demand Reduction (NAPDDR) & Nasha Mukt Bharat Abhiyaan",
+      "previousPromotionStatus": "approved",
+      "newPromotionStatus": "approved-with-warning",
+      "previousTemporalStatus": "CURRENT",
+      "newTemporalStatus": "EXPIRED",
+      "temporalWarningAdded": true
+    }
+  ]
+}

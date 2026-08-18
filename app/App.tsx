@@ -10,10 +10,14 @@ import { ReadingControls, ReadingTheme } from './reader/ReadingControls';
 import { SearchModal } from './search/SearchModal';
 import { FlexSearchProvider } from './search/FlexSearchProvider';
 import { corpusStubs, loadFullKnowledgeItem, loadAllCorpusItemsForSearch } from './contentLoader';
+import { useUserStudyState } from './intelligence/userStateStore';
 
 export const App: React.FC = () => {
   // Lightweight corpus stubs for Home Page grid & Sidebar navigation
   const allCorpusMap = corpusStubs;
+
+  // Real User Study State Store (R4.1)
+  const { state: userStudyState, isCompleted, toggleCompletion, recordView } = useUserStudyState();
 
   // Routing State & Reading Controls State
   const [routeState, setRouteState] = useState<RouteState>(() => parseHash(window.location.hash));
@@ -22,9 +26,9 @@ export const App: React.FC = () => {
   const [isSearchOpen, setIsSearchOpen] = useState<boolean>(false);
   const [isOpenMobile, setIsOpenMobile] = useState<boolean>(false);
   const [isSidebarClosed, setIsSidebarClosed] = useState<boolean>(false);
-  const [lastOpenedItemId, setLastOpenedItemId] = useState<string | null>(() => {
-    return localStorage.getItem('bcc_last_opened_item');
-  });
+
+  // Derive last opened item id from userStudyState
+  const lastOpenedItemId = userStudyState.lastOpenedItemId;
 
   // Active loaded item with full blocks
   const [activeFullItem, setActiveFullItem] = useState<KnowledgeItem | null>(null);
@@ -76,10 +80,11 @@ export const App: React.FC = () => {
     return allCorpusMap[0]?.id || 'migrated-core-eco-ch-1';
   }, [routeState, allCorpusMap]);
 
-  // Lazy-load full active item on demand
+  // Lazy-load full active item on demand and record genuine viewing activity
   useEffect(() => {
     if (routeState.type !== 'home' && activeItemId) {
       setIsLoadingContent(true);
+      recordView(activeItemId);
       loadFullKnowledgeItem(activeItemId).then(item => {
         setActiveFullItem(item);
         setIsLoadingContent(false);
@@ -98,8 +103,7 @@ export const App: React.FC = () => {
   };
 
   const handleSelectItem = (itemId: string) => {
-    localStorage.setItem('bcc_last_opened_item', itemId);
-    setLastOpenedItemId(itemId);
+    recordView(itemId);
     window.location.hash = buildHash({ type: 'read', itemId });
   };
 
@@ -140,6 +144,9 @@ export const App: React.FC = () => {
         <ReadingControls
           fontSize={fontSize}
           theme={theme}
+          activeItemId={routeState.type !== 'home' && activeItemId ? activeItemId : undefined}
+          isCompleted={Boolean(activeItemId && isCompleted(activeItemId))}
+          onToggleComplete={activeItemId ? () => toggleCompletion(activeItemId) : undefined}
           onFontSizeChange={setFontSize}
           onThemeChange={setTheme}
           onOpenSearch={() => setIsSearchOpen(true)}

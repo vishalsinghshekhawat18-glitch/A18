@@ -1,0 +1,452 @@
+{
+  "version": "1.0.0-r4c9-manifest",
+  "referenceDate": "2026-08-18",
+  "totalPiloted": 10,
+  "summary": {
+    "approved": 4,
+    "approvedWithTemporalComponents": 6,
+    "humanReview": 0,
+    "rejected": 0,
+    "totalStagedInPromoted": 10
+  },
+  "manifest": [
+    {
+      "itemId": "migrated-schemes-scheme-10",
+      "title": "Krishi-Decision Support System (Krishi-DSS / ADSS)",
+      "contentQuality": "valid",
+      "evidenceStatus": "verified",
+      "overallTemporalStatus": "CURRENT",
+      "promotionStatus": "approved",
+      "temporalWarning": null,
+      "componentsCount": 2,
+      "temporal": {
+        "statusAsOf": "2026-08-18",
+        "overallStatus": "CURRENT",
+        "components": [
+          {
+            "name": "Digital Agriculture Mission Umbrella Outlay (₹2,817 Cr)",
+            "type": "financial-cycle",
+            "startDate": "2024-09-02",
+            "endDate": "2027-03-31",
+            "status": "CURRENT",
+            "evidence": [
+              "Union Cabinet approval PRID 2051101 for FY 2024-25 to 2026-27."
+            ],
+            "lastVerified": "2024-09-02",
+            "historicalExamRelevance": "Total outlay ₹2,817 Cr (Centre ₹1,940 Cr, State ₹877 Cr) for 2024-2027."
+          },
+          {
+            "name": "Krishi-DSS Geospatial Platform Operations",
+            "type": "mission",
+            "startDate": "2024-09-02",
+            "status": "CURRENT",
+            "evidence": [
+              "Department of Agriculture & ISRO continuous geospatial crop/drought modeling."
+            ],
+            "lastVerified": "2024-09-02",
+            "historicalExamRelevance": "Integrates remote sensing, soil health GIS, weather, and groundwater."
+          }
+        ]
+      },
+      "evidenceFiles": [
+        "content/repairs/r4c6/migrated-schemes-scheme-10-evidence.json"
+      ],
+      "repairFile": "content/repairs/r4c5/migrated-schemes-scheme-10.json"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-100",
+      "title": "SHREYAS Scheme (Scholarships for Higher Education for Young Achievers Scheme)",
+      "contentQuality": "valid",
+      "evidenceStatus": "verified",
+      "overallTemporalStatus": "MIXED",
+      "promotionStatus": "approved-with-temporal-components",
+      "temporalWarning": "Component Temporal Delineation: Financial allocation/cycle ended on 31 March 2026 for [15th Finance Commission Umbrella Outlay (₹4,103.55 Cr)], while operations/mission continues under [Top Class SC, Free Coaching & Fellowship Operational Portals].",
+      "componentsCount": 2,
+      "temporal": {
+        "statusAsOf": "2026-08-18",
+        "overallStatus": "MIXED",
+        "components": [
+          {
+            "name": "15th Finance Commission Umbrella Outlay (₹4,103.55 Cr)",
+            "type": "financial-cycle",
+            "startDate": "2021-04-01",
+            "endDate": "2026-03-31",
+            "status": "EXPIRED",
+            "evidence": [
+              "MoSJE consolidated allocation for 15th FC cycle (2021-22 to 2025-26)."
+            ],
+            "lastVerified": "2023-09-24",
+            "historicalExamRelevance": "Fixed ₹4,103.55 Cr financial ceiling for 2021-2026."
+          },
+          {
+            "name": "Top Class SC, Free Coaching & Fellowship Operational Portals",
+            "type": "scheme",
+            "startDate": "2021-04-01",
+            "status": "CURRENT",
+            "evidence": [
+              "Continuous annual application windows on National Scholarship Portal and UGC portal."
+            ],
+            "lastVerified": "2024-01-10",
+            "historicalExamRelevance": "Subsumes 4 central sector sub-schemes for SC/OBC higher education."
+          }
+        ]
+      },
+      "evidenceFiles": [
+        "content/repairs/r4c6/migrated-schemes-scheme-100-evidence.json"
+      ],
+      "repairFile": "content/repairs/r4c5/migrated-schemes-scheme-100.json"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-102",
+      "title": "PM YASASVI (PM Young Achievers Scholarship Award Scheme for Vibrant India)",
+      "contentQuality": "valid",
+      "evidenceStatus": "verified",
+      "overallTemporalStatus": "MIXED",
+      "promotionStatus": "approved-with-temporal-components",
+      "temporalWarning": "Component Temporal Delineation: Financial allocation/cycle ended on 31 March 2026 for [15th Finance Commission Allocation Cycle (2021-22 to 2025-26)], while operations/mission continues under [National Scholarship Portal (NSP) Operational Slabs].",
+      "componentsCount": 2,
+      "temporal": {
+        "statusAsOf": "2026-08-18",
+        "overallStatus": "MIXED",
+        "components": [
+          {
+            "name": "15th Finance Commission Allocation Cycle (2021-22 to 2025-26)",
+            "type": "financial-cycle",
+            "startDate": "2021-04-01",
+            "endDate": "2026-03-31",
+            "status": "EXPIRED",
+            "evidence": [
+              "Initial 5-year financial envelope under MoSJE for 2021-2026."
+            ],
+            "lastVerified": "2023-08-15",
+            "historicalExamRelevance": "Historical budget envelope for pre-matric/post-matric consolidation."
+          },
+          {
+            "name": "National Scholarship Portal (NSP) Operational Slabs",
+            "type": "scheme",
+            "startDate": "2021-04-01",
+            "status": "CURRENT",
+            "evidence": [
+              "Active annual scholarship disbursement pipeline on scholarships.gov.in."
+            ],
+            "lastVerified": "2024-02-01",
+            "historicalExamRelevance": "Income limit ₹2.50L; Pre-matric ₹4k; Top Class school up to ₹1.25L."
+          }
+        ]
+      },
+      "evidenceFiles": [
+        "content/repairs/r4c6/migrated-schemes-scheme-102-evidence.json"
+      ],
+      "repairFile": "content/repairs/r4c5/migrated-schemes-scheme-102.json"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-107",
+      "title": "National Overseas Scholarship (NOS) for SC, DNT, and Landless Labourers",
+      "contentQuality": "valid",
+      "evidenceStatus": "verified",
+      "overallTemporalStatus": "CURRENT",
+      "promotionStatus": "approved",
+      "temporalWarning": null,
+      "componentsCount": 2,
+      "temporal": {
+        "statusAsOf": "2026-08-18",
+        "overallStatus": "CURRENT",
+        "components": [
+          {
+            "name": "Annual Quota Allocation (125 Slots)",
+            "type": "scheme",
+            "startDate": "2023-04-01",
+            "status": "CURRENT",
+            "evidence": [
+              "Annual application cycle notified on nosmsje.gov.in (PIB PRID 1986421)."
+            ],
+            "lastVerified": "2024-02-15",
+            "historicalExamRelevance": "115 SC + 6 DNT + 4 Artisans; 30% women quota; Top 500 QS ranking."
+          },
+          {
+            "name": "Maintenance Allowance & Tuition Coverage",
+            "type": "component",
+            "startDate": "2023-04-01",
+            "status": "CURRENT",
+            "evidence": [
+              "Official rates ($15,400 USD / £9,900 GBP) under MoSJE revised rules."
+            ],
+            "lastVerified": "2024-02-15",
+            "historicalExamRelevance": "Covers full tuition, visa, airfare, and maintenance allowance."
+          }
+        ]
+      },
+      "evidenceFiles": [
+        "content/repairs/r4c6/migrated-schemes-scheme-107-evidence.json"
+      ],
+      "repairFile": "content/repairs/r4c5/migrated-schemes-scheme-107.json"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-108",
+      "title": "SMILE Scheme (Support for Marginalised Individuals for Livelihood and Enterprise)",
+      "contentQuality": "valid",
+      "evidenceStatus": "verified",
+      "overallTemporalStatus": "MIXED",
+      "promotionStatus": "approved-with-temporal-components",
+      "temporalWarning": "Component Temporal Delineation: Financial allocation/cycle ended on 31 March 2026 for [15th Finance Commission Financial Outlay (₹365 Cr)], while operations/mission continues under [Garima Greh Shelter Homes & PM-DAKSH Livelihood Support; SMILE-75 Municipal Begging Rehabilitation Pilot].",
+      "componentsCount": 3,
+      "temporal": {
+        "statusAsOf": "2026-08-18",
+        "overallStatus": "MIXED",
+        "components": [
+          {
+            "name": "15th Finance Commission Financial Outlay (₹365 Cr)",
+            "type": "financial-cycle",
+            "startDate": "2021-04-01",
+            "endDate": "2026-03-31",
+            "status": "EXPIRED",
+            "evidence": [
+              "Approved 5-year budget of ₹365 Cr (₹265 Cr TG + ₹100 Cr Begging) for 2021-2026."
+            ],
+            "lastVerified": "2022-08-24",
+            "historicalExamRelevance": "₹365 Cr total outlay (₹265 Cr Transgender, ₹100 Cr Begging)."
+          },
+          {
+            "name": "Garima Greh Shelter Homes & PM-DAKSH Livelihood Support",
+            "type": "mission",
+            "startDate": "2022-02-12",
+            "status": "CURRENT",
+            "evidence": [
+              "Continuous operations of community shelter homes and Ayushman TG health cards."
+            ],
+            "lastVerified": "2024-03-01",
+            "historicalExamRelevance": "Garima Greh shelter homes; Ayushman Bharat ₹5L TG health package."
+          },
+          {
+            "name": "SMILE-75 Municipal Begging Rehabilitation Pilot",
+            "type": "campaign",
+            "startDate": "2022-08-12",
+            "status": "CURRENT",
+            "evidence": [
+              "Ongoing rehabilitation initiatives across 75 municipal corporations."
+            ],
+            "lastVerified": "2023-11-20",
+            "historicalExamRelevance": "Pilot in 75 major municipal corporations for rescue and skill training."
+          }
+        ]
+      },
+      "evidenceFiles": [
+        "content/repairs/r4c6/migrated-schemes-scheme-108-evidence.json"
+      ],
+      "repairFile": "content/repairs/r4c5/migrated-schemes-scheme-108.json"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-109",
+      "title": "Dr. Ambedkar Central Sector Scheme of Interest Subvention on Overseas Educational Loans for OBCs and EBCs",
+      "contentQuality": "valid",
+      "evidenceStatus": "verified",
+      "overallTemporalStatus": "CURRENT",
+      "promotionStatus": "approved",
+      "temporalWarning": null,
+      "componentsCount": 2,
+      "temporal": {
+        "statusAsOf": "2026-08-18",
+        "overallStatus": "CURRENT",
+        "components": [
+          {
+            "name": "Canara Bank Nodal Cell Interest Subsidy Operations",
+            "type": "scheme",
+            "startDate": "2022-04-01",
+            "status": "CURRENT",
+            "evidence": [
+              "Continuous online interest subsidy reimbursement linked to IBA loan scheme."
+            ],
+            "lastVerified": "2023-01-10",
+            "historicalExamRelevance": "100% interest subsidy on loans up to ₹20L during moratorium (Course + 1 yr)."
+          },
+          {
+            "name": "Income Ceiling Criteria (₹8.00 Lakh/annum)",
+            "type": "component",
+            "startDate": "2022-04-01",
+            "status": "CURRENT",
+            "evidence": [
+              "MoSJE revised eligibility criteria for OBC/EBC overseas studies."
+            ],
+            "lastVerified": "2023-01-10",
+            "historicalExamRelevance": "Income threshold raised to ₹8.00 Lakh/annum."
+          }
+        ]
+      },
+      "evidenceFiles": [
+        "content/repairs/r4c6/migrated-schemes-scheme-109-evidence.json"
+      ],
+      "repairFile": "content/repairs/r4c5/migrated-schemes-scheme-109.json"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-11",
+      "title": "Solar Power Scheme for PVTGs (under PM-JANMAN)",
+      "contentQuality": "valid",
+      "evidenceStatus": "verified",
+      "overallTemporalStatus": "MIXED",
+      "promotionStatus": "approved-with-temporal-components",
+      "temporalWarning": "Component Temporal Delineation: Financial allocation/cycle ended on 31 March 2026 for [MNRE Dedicated Financial Package (₹515 Cr)], while operations/mission continues under [PM-JANMAN Multi-Ministry Tribal Mission Implementation].",
+      "componentsCount": 2,
+      "temporal": {
+        "statusAsOf": "2026-08-18",
+        "overallStatus": "MIXED",
+        "components": [
+          {
+            "name": "MNRE Dedicated Financial Package (₹515 Cr)",
+            "type": "financial-cycle",
+            "startDate": "2023-04-01",
+            "endDate": "2026-03-31",
+            "status": "EXPIRED",
+            "evidence": [
+              "MNRE notification approved ₹515 Cr for 2023-24 to 2025-26."
+            ],
+            "lastVerified": "2024-07-25",
+            "historicalExamRelevance": "₹515 Cr outlay for 1 lakh households (0.3 kW) + 1,500 MPCs (2.5 kW)."
+          },
+          {
+            "name": "PM-JANMAN Multi-Ministry Tribal Mission Implementation",
+            "type": "mission",
+            "startDate": "2023-11-15",
+            "status": "CURRENT",
+            "evidence": [
+              "Ongoing physical electrification of PVTG habitations reported in June 2026 PIB releases."
+            ],
+            "lastVerified": "2026-06-30",
+            "historicalExamRelevance": "Electrification across 75 PVTG tribes in 18 States and UT of Andaman & Nicobar."
+          }
+        ]
+      },
+      "evidenceFiles": [
+        "content/repairs/r4c6/migrated-schemes-scheme-11-evidence.json"
+      ],
+      "repairFile": "content/repairs/r4c5/migrated-schemes-scheme-11.json"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-110",
+      "title": "National Fellowship for OBC Students (NF-OBC)",
+      "contentQuality": "valid",
+      "evidenceStatus": "verified",
+      "overallTemporalStatus": "CURRENT",
+      "promotionStatus": "approved",
+      "temporalWarning": null,
+      "componentsCount": 2,
+      "temporal": {
+        "statusAsOf": "2026-08-18",
+        "overallStatus": "CURRENT",
+        "components": [
+          {
+            "name": "Annual Fellowship Quota (1,000 Slots)",
+            "type": "scheme",
+            "startDate": "2021-04-01",
+            "status": "CURRENT",
+            "evidence": [
+              "NBCFDC/UGC annual research selection cycles."
+            ],
+            "lastVerified": "2023-10-16",
+            "historicalExamRelevance": "1,000 annual research slots for OBC M.Phil/Ph.D. scholars."
+          },
+          {
+            "name": "UGC Aligned Fellowship Scales (JRF ₹37k / SRF ₹42k)",
+            "type": "component",
+            "startDate": "2023-01-01",
+            "status": "CURRENT",
+            "evidence": [
+              "UGC official notification on fellowship rate revision."
+            ],
+            "lastVerified": "2023-10-16",
+            "historicalExamRelevance": "JRF: ₹37,000/mo (first 2 yrs); SRF: ₹42,000/mo (next 3 yrs) + HRA."
+          }
+        ]
+      },
+      "evidenceFiles": [
+        "content/repairs/r4c6/migrated-schemes-scheme-110-evidence.json"
+      ],
+      "repairFile": "content/repairs/r4c5/migrated-schemes-scheme-110.json"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-111",
+      "title": "SEED Scheme (Scheme for Economic Empowerment of DNT/NT/SNT Communities)",
+      "contentQuality": "valid",
+      "evidenceStatus": "verified",
+      "overallTemporalStatus": "MIXED",
+      "promotionStatus": "approved-with-temporal-components",
+      "temporalWarning": "Component Temporal Delineation: Financial allocation/cycle ended on 31 March 2026 for [15th Finance Commission 5-Year Outlay (₹200 Cr)], while operations/mission continues under [DWBDNC Online Portal & Four Welfare Pillars].",
+      "componentsCount": 2,
+      "temporal": {
+        "statusAsOf": "2026-08-18",
+        "overallStatus": "MIXED",
+        "components": [
+          {
+            "name": "15th Finance Commission 5-Year Outlay (₹200 Cr)",
+            "type": "financial-cycle",
+            "startDate": "2021-04-01",
+            "endDate": "2026-03-31",
+            "status": "EXPIRED",
+            "evidence": [
+              "Approved 5-year budget (₹200 Cr) for 2021-22 to 2025-26 under DWBDNC."
+            ],
+            "lastVerified": "2022-02-16",
+            "historicalExamRelevance": "₹200 Crore outlay over 5 years (2021-2026)."
+          },
+          {
+            "name": "DWBDNC Online Portal & Four Welfare Pillars",
+            "type": "mission",
+            "startDate": "2022-02-16",
+            "status": "CURRENT",
+            "evidence": [
+              "Active portal operations (seed.dosje.gov.in) for coaching, PM-JAY health, and housing."
+            ],
+            "lastVerified": "2024-01-15",
+            "historicalExamRelevance": "4 Pillars: Free coaching, PM-JAY ₹5L cover, NRLM livelihoods, PMAY housing."
+          }
+        ]
+      },
+      "evidenceFiles": [
+        "content/repairs/r4c6/migrated-schemes-scheme-111-evidence.json"
+      ],
+      "repairFile": "content/repairs/r4c5/migrated-schemes-scheme-111.json"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-112",
+      "title": "National Action Plan for Drug Demand Reduction (NAPDDR) & Nasha Mukt Bharat Abhiyaan",
+      "contentQuality": "valid",
+      "evidenceStatus": "verified",
+      "overallTemporalStatus": "MIXED",
+      "promotionStatus": "approved-with-temporal-components",
+      "temporalWarning": "Component Temporal Delineation: Financial allocation/cycle ended on 31 March 2026 for [NAPDDR 7-Year Action Plan Cycle (2018–2025/26)], while operations/mission continues under [Nasha Mukt Bharat Abhiyaan (NMBA) Mass Campaign].",
+      "componentsCount": 2,
+      "temporal": {
+        "statusAsOf": "2026-08-18",
+        "overallStatus": "MIXED",
+        "components": [
+          {
+            "name": "NAPDDR 7-Year Action Plan Cycle (2018–2025/26)",
+            "type": "financial-cycle",
+            "startDate": "2018-04-01",
+            "endDate": "2026-03-31",
+            "status": "EXPIRED",
+            "evidence": [
+              "Initial 7-year action plan timeline (2018–2025) concluded on 31 March 2026."
+            ],
+            "lastVerified": "2023-08-15",
+            "historicalExamRelevance": "Institutional funding for 340+ IRCAs, CPLIs, ODICs, and Helpline 14446."
+          },
+          {
+            "name": "Nasha Mukt Bharat Abhiyaan (NMBA) Mass Campaign",
+            "type": "campaign",
+            "startDate": "2020-08-15",
+            "status": "CURRENT",
+            "evidence": [
+              "Flagship mass community campaign expanded nationwide to all 372+ districts."
+            ],
+            "lastVerified": "2023-08-15",
+            "historicalExamRelevance": "Launched 15 August 2020; expanded to all 372+ districts on 15 August 2023."
+          }
+        ]
+      },
+      "evidenceFiles": [
+        "content/repairs/r4c6/migrated-schemes-scheme-112-evidence.json"
+      ],
+      "repairFile": "content/repairs/r4c5/migrated-schemes-scheme-112.json"
+    }
+  ]
+}

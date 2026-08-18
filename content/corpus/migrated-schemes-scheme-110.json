@@ -2,20 +2,133 @@
   "id": "migrated-schemes-scheme-110",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "National Fellowship for OBC Students (2014-15):",
-  "summary": "Schemes — National Fellowship for OBC Students (2014-15):",
+  "title": "National Fellowship for OBC Students (NF-OBC)",
+  "summary": "National Fellowship for OBC Students (NF-OBC) — Comprehensive study notes covering objectives, eligibility, outlay, and exam traps.",
   "blocks": [
+    {
+      "type": "key_concept",
+      "title": "National Fellowship for OBC Students (NF-OBC)",
+      "summary": "To provide financial assistance to students belonging to Other Backward Classes (OBC) to pursue regular and full-time higher studies leading to M.Phil. and Ph.D. degrees in Sciences, Humanities, Social Sciences, and Engineering/Technology."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⏱️ Component Lifecycles & Temporal Status"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Component / Pillar",
+        "Type",
+        "Period",
+        "Status (Aug 2026)",
+        "Exam Relevance"
+      ],
+      "rows": [
+        [
+          "Annual Fellowship Quota (1,000 Slots)",
+          "scheme",
+          "Since 2021-04-01",
+          "CURRENT",
+          "1,000 annual research slots for OBC M.Phil/Ph.D. scholars."
+        ],
+        [
+          "UGC Aligned Fellowship Scales (JRF ₹37k / SRF ₹42k)",
+          "component",
+          "Since 2023-01-01",
+          "CURRENT",
+          "JRF: ₹37,000/mo (first 2 yrs); SRF: ₹42,000/mo (next 3 yrs) + HRA."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🏛️ Administrative & Financial Framework"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Parameter",
+        "Official Specification"
+      ],
+      "rows": [
+        [
+          "Nodal Ministry",
+          "Ministry of Social Justice and Empowerment"
+        ],
+        [
+          "Department",
+          "Department of Social Justice and Empowerment"
+        ],
+        [
+          "Launch Year / Period",
+          "2014-15 (Subsumed under SHREYAS Umbrella 2021-26)"
+        ],
+        [
+          "Financial Outlay",
+          "Central Sector component under SHREYAS umbrella (₹4,103.55 Cr total SHREYAS allocation)."
+        ],
+        [
+          "Funding Pattern",
+          "100% Central Sector Scheme."
+        ],
+        [
+          "Implementing Agency",
+          "National Backward Classes Finance & Development Corporation (NBCFDC) / UGC."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🎯 Target Beneficiaries & Eligibility"
+    },
     {
       "type": "bullet_list",
       "items": [
-        "o Support for M.Phil. & Ph.D. Students",
-        "o Stipend: ₹25,000/month (JRF), ₹28,000/month (SRF)",
-        "o Annual Awards: 300 students",
-        "o Duration: Up to 5 years, performance-based renewal",
-        "-- 30 of 47 --",
-        "31\tONE STOP SOLUTION FOR IAS, RAS, SI",
-        "Youtube \tTelegram",
-        "Indian Economy \tScheme"
+        "**Target Beneficiaries:** OBC research scholars who have qualified UGC-NET / CSIR-NET-JRF and registered in recognized Indian universities (including 5% horizontal reservation for Persons with Disabilities).",
+        "**Eligibility Criteria:** Candidate must belong to OBC category (Non-Creamy Layer) with annual family income below ₹8.00 Lakh per annum and registered in regular M.Phil./Ph.D. programs. 5% slots are horizontally reserved for PwD candidates."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "✨ Key Components & Features"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Slots: 1,000 slots per year (increased from historical 300 slots).",
+        "Horizontal Reservation: 5% of total fellowship slots are horizontally reserved for Persons with Disabilities (PwD) belonging to OBC category.",
+        "Fellowship Rates: Equivalent to UGC Fellowship rates (JRF: ₹37,000/month for first 2 years; SRF: ₹42,000/month for remaining 3 years).",
+        "Contingency Allowance: Humanities/Social Sciences: ₹10,000/year (JRF) & ₹20,500/year (SRF); Science/Engg: ₹12,000/year (JRF) & ₹25,000/year (SRF).",
+        "Tenure: Maximum 5 years (M.Phil: 2 years; Ph.D.: 5 years; M.Phil + Ph.D.: 5 years)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚠️ Exam Traps & Key Distinctions"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Slots: 1,000 slots per year (do not write obsolete 300 slots).",
+        "Horizontal Reservation: 5% slots for Persons with Disabilities (PwD).",
+        "Fellowship Rates: Updated to ₹37,000/mo (JRF) and ₹42,000/mo (SRF) as per revised UGC scales."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📚 Authoritative Sources"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Ministry of Social Justice and Empowerment, NF-OBC Guidelines (socialjustice.gov.in)",
+        "UGC / NBCFDC Official Notification on National Fellowship for OBC Students"
       ]
     }
   ],
@@ -40,6 +153,44 @@
       "sourceChecksum": "9083d0174de55ed74571bc1bc8b34f0898185cf334a11b37b450ab16e56cfa33",
       "migrationTimestamp": "2026-08-15T12:14:02.104Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c9-fine-tuned",
+    "repairedTimestamp": "2026-08-18T13:35:21.439Z",
+    "promotionGate": "R4.C9-passed",
+    "promotionStatus": "approved",
+    "promotedTimestamp": "2026-08-18T13:35:21.439Z",
+    "overallTemporalStatus": "CURRENT",
+    "temporalWarning": null,
+    "temporalComponentsCount": 2,
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
+  },
+  "temporal": {
+    "statusAsOf": "2026-08-18",
+    "overallStatus": "CURRENT",
+    "components": [
+      {
+        "name": "Annual Fellowship Quota (1,000 Slots)",
+        "type": "scheme",
+        "startDate": "2021-04-01",
+        "status": "CURRENT",
+        "evidence": [
+          "NBCFDC/UGC annual research selection cycles."
+        ],
+        "lastVerified": "2023-10-16",
+        "historicalExamRelevance": "1,000 annual research slots for OBC M.Phil/Ph.D. scholars."
+      },
+      {
+        "name": "UGC Aligned Fellowship Scales (JRF ₹37k / SRF ₹42k)",
+        "type": "component",
+        "startDate": "2023-01-01",
+        "status": "CURRENT",
+        "evidence": [
+          "UGC official notification on fellowship rate revision."
+        ],
+        "lastVerified": "2023-10-16",
+        "historicalExamRelevance": "JRF: ₹37,000/mo (first 2 yrs); SRF: ₹42,000/mo (next 3 yrs) + HRA."
+      }
+    ]
   }
 }

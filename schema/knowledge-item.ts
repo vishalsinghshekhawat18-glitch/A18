@@ -9,7 +9,8 @@ export type Domain =
   | 'current-affairs' 
   | 'static-ga' 
   | 'quant' 
-  | 'pyqs';
+  | 'pyqs'
+  | 'schemes';
 
 export type ItemType = 'chapter' | 'ca_note' | 'static_note' | 'quant_topic' | 'pyq_item';
 

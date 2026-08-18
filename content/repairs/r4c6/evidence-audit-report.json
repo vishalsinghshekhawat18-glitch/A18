@@ -1,0 +1,121 @@
+{
+  "version": "1.0.0-r4c6-evidence-audit",
+  "generatedAt": "2026-08-18T13:18:25.629Z",
+  "totalSchemes": 10,
+  "totalClaimsAudited": 34,
+  "confirmed": 34,
+  "partiallyConfirmed": 0,
+  "conflicting": 0,
+  "unsupported": 0,
+  "outdated": 0,
+  "requiresHumanReview": 10,
+  "sourcesUsed": [
+    "Press Information Bureau (PIB Delhi), Cabinet Decisions (https://pib.gov.in/PressReleasePage.aspx?PRID=2051101)",
+    "Press Information Bureau (PIB Delhi) (https://pib.gov.in/PressReleasePage.aspx?PRID=2051101)",
+    "Department of Agriculture & Farmers Welfare (https://agricoop.gov.in)",
+    "Press Information Bureau (PIB Delhi), Ministry of Social Justice & Empowerment (https://pib.gov.in/PressReleasePage.aspx?PRID=1960251)",
+    "Press Information Bureau (PIB Delhi) (https://pib.gov.in/PressReleasePage.aspx?PRID=1960251)",
+    "Ministry of Social Justice and Empowerment (https://socialjustice.gov.in)",
+    "Department of Social Justice & Empowerment (https://scholarships.gov.in)",
+    "National Scholarship Portal / MoSJE (https://scholarships.gov.in)",
+    "Press Information Bureau (PIB Delhi), Ministry of Social Justice & Empowerment (https://pib.gov.in/PressReleasePage.aspx?PRID=1986421)",
+    "Press Information Bureau (PIB Delhi) (https://pib.gov.in/PressReleasePage.aspx?PRID=1986421)",
+    "Department of Social Justice and Empowerment (https://nosmsje.gov.in)",
+    "Press Information Bureau (PIB Delhi) (https://pib.gov.in/PressReleasePage.aspx?PRID=1797825)",
+    "Press Information Bureau (PIB Delhi) (https://pib.gov.in/PressReleasePage.aspx?PRID=1853920)",
+    "Press Information Bureau (PIB Delhi) (https://pib.gov.in/PressReleasePage.aspx?PRID=1845124)",
+    "Department of Social Justice and Empowerment (https://socialjustice.gov.in)",
+    "Canara Bank (Nodal Agency) (https://canarabank.com)",
+    "Ministry of New and Renewable Energy (MNRE) (https://mnre.gov.in)",
+    "Press Information Bureau (PIB Delhi), MNRE (https://pib.gov.in/PressReleasePage.aspx?PRID=2038910)",
+    "Ministry of New and Renewable Energy (https://mnre.gov.in)",
+    "University Grants Commission (UGC) (https://ugc.gov.in)",
+    "Press Information Bureau (PIB Delhi) (https://pib.gov.in/PressReleasePage.aspx?PRID=1798782)",
+    "Department of Social Justice and Empowerment (https://seed.dosje.gov.in)",
+    "Press Information Bureau (PIB Delhi), Ministry of Social Justice & Empowerment (https://pib.gov.in/PressReleasePage.aspx?PRID=1949112)",
+    "Press Information Bureau (PIB Delhi) (https://pib.gov.in/PressReleasePage.aspx?PRID=1949112)",
+    "National Institute of Social Defence / MoSJE (https://nmba.dosje.gov.in)"
+  ],
+  "schemes": [
+    {
+      "schemeId": "migrated-schemes-scheme-10",
+      "schemeTitle": "Krishi-Decision Support System (Krishi-DSS / ADSS)",
+      "statusPeriod": "CURRENT",
+      "claimsAudited": 4,
+      "crossSchemeRelationship": "Krishi-DSS is a core Digital Public Infrastructure (DPI) pillar under the ₹2,817 Cr Digital Agriculture Mission umbrella.",
+      "examTrapVerified": "Confirmed: Krishi-DSS is an umbrella DPI component under Digital Agriculture Mission, not a private tech vendor tool."
+    },
+    {
+      "schemeId": "migrated-schemes-scheme-100",
+      "schemeTitle": "SHREYAS Scheme (Scholarships for Higher Education for Young Achievers Scheme)",
+      "statusPeriod": "CURRENT",
+      "claimsAudited": 3,
+      "crossSchemeRelationship": "SHREYAS umbrella subsumes Top Class SC, Free Coaching SC/OBC, NOS for SC, and National Fellowship for SC. (NF-OBC is parallelly administered under OBC Welfare).",
+      "examTrapVerified": "Confirmed: SHREYAS (Higher education scholarships/fellowships) is distinct from SHRESHTA (CBSE residential schools for SC students)."
+    },
+    {
+      "schemeId": "migrated-schemes-scheme-102",
+      "schemeTitle": "PM YASASVI (PM Young Achievers Scholarship Award Scheme for Vibrant India)",
+      "statusPeriod": "CURRENT",
+      "claimsAudited": 3,
+      "crossSchemeRelationship": "Consolidates 5 sub-components: Pre-Matric, Post-Matric, Top Class School, Top Class College, and Hostels.",
+      "examTrapVerified": "Confirmed: Selection for Top Class School Education uses merit lists from National Scholarship Portal (NSP)."
+    },
+    {
+      "schemeId": "migrated-schemes-scheme-107",
+      "schemeTitle": "National Overseas Scholarship (NOS) for SC, DNT, and Landless Labourers",
+      "statusPeriod": "CURRENT",
+      "claimsAudited": 4,
+      "crossSchemeRelationship": "Operates as a flagship central sector overseas study scholarship administered under Social Justice framework.",
+      "examTrapVerified": "Confirmed: 125 annual slots total; strictly requires Top 500 QS ranking; 30% women quota."
+    },
+    {
+      "schemeId": "migrated-schemes-scheme-108",
+      "schemeTitle": "SMILE Scheme (Support for Marginalised Individuals for Livelihood and Enterprise)",
+      "statusPeriod": "CURRENT",
+      "claimsAudited": 3,
+      "crossSchemeRelationship": "SMILE contains 2 distinct sub-schemes: Transgender Persons Welfare (₹265 Cr) + Begging Rehabilitation (₹100 Cr).",
+      "examTrapVerified": "Confirmed: Encompasses both Transgender welfare and Begging rehabilitation; includes Garima Greh shelter homes."
+    },
+    {
+      "schemeId": "migrated-schemes-scheme-109",
+      "schemeTitle": "Dr. Ambedkar Central Sector Scheme of Interest Subvention on Overseas Educational Loans for OBCs and EBCs",
+      "statusPeriod": "CURRENT",
+      "claimsAudited": 3,
+      "crossSchemeRelationship": "Central sector interest subvention linked with IBA Model Educational Loan scheme and administered via Canara Bank.",
+      "examTrapVerified": "Confirmed: Nodal Bank is Canara Bank; covers interest during moratorium only; principal repaid by borrower."
+    },
+    {
+      "schemeId": "migrated-schemes-scheme-11",
+      "schemeTitle": "Solar Power Scheme for PVTGs (under PM-JANMAN)",
+      "statusPeriod": "CURRENT",
+      "claimsAudited": 4,
+      "crossSchemeRelationship": "The Solar Power Scheme for PVTGs is MNRE's dedicated component under the broader multi-ministry PM-JANMAN mission.",
+      "examTrapVerified": "Confirmed: Nodal ministry is MNRE; individual systems are 0.3 kW; MPC systems are 2.5 kW."
+    },
+    {
+      "schemeId": "migrated-schemes-scheme-110",
+      "schemeTitle": "National Fellowship for OBC Students (NF-OBC)",
+      "statusPeriod": "CURRENT",
+      "claimsAudited": 3,
+      "crossSchemeRelationship": "Specialized central sector fellowship under MoSJE OBC Welfare portfolio.",
+      "examTrapVerified": "Confirmed: 1,000 annual slots (not 300); updated to ₹37k/₹42k rates."
+    },
+    {
+      "schemeId": "migrated-schemes-scheme-111",
+      "schemeTitle": "SEED Scheme (Scheme for Economic Empowerment of DNT/NT/SNT Communities)",
+      "statusPeriod": "CURRENT",
+      "claimsAudited": 4,
+      "crossSchemeRelationship": "Dedicated flagship scheme executed by DWBDNC Board under MoSJE.",
+      "examTrapVerified": "Confirmed: Nodal agency is DWBDNC; covers 4 specific pillars (Coaching, PM-JAY health, Livelihoods, Housing)."
+    },
+    {
+      "schemeId": "migrated-schemes-scheme-112",
+      "schemeTitle": "National Action Plan for Drug Demand Reduction (NAPDDR) & Nasha Mukt Bharat Abhiyaan",
+      "statusPeriod": "CURRENT",
+      "claimsAudited": 3,
+      "crossSchemeRelationship": "NAPDDR is the umbrella centrally sponsored action plan under which NMBA operates as the mass community campaign.",
+      "examTrapVerified": "Confirmed: NMBA launched on 15 Aug 2020; helpline is 14446; expanded from 272 to all districts."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "schemeId": "migrated-schemes-scheme-109",
+  "schemeTitle": "Dr. Ambedkar Central Sector Scheme of Interest Subvention on Overseas Educational Loans for OBCs and EBCs",
+  "claims": [
+    {
+      "claim": "Administered by Ministry of Social Justice & Empowerment with Canara Bank as designated Nodal Bank.",
+      "claimType": "agency",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=1845124",
+      "sourceTitle": "Dr. Ambedkar Scheme of Interest Subsidy for Overseas Studies",
+      "sourcePublisher": "Press Information Bureau (PIB Delhi)",
+      "sourceDate": "2022-07-26",
+      "evidenceQuote": "Dr. Ambedkar Central Sector Scheme of Interest Subsidy on Educational Loans for Overseas Studies for OBCs and EBCs is implemented through Canara Bank as the Nodal Bank.",
+      "verificationStatus": "confirmed",
+      "notes": "Canara Bank as Nodal Bank confirmed."
+    },
+    {
+      "claim": "Provides 100% interest subsidy during the moratorium period (Course Period + 1 year or 6 months after job).",
+      "claimType": "benefit",
+      "sourceUrl": "https://socialjustice.gov.in",
+      "sourceTitle": "Dr. Ambedkar Scheme Guidelines",
+      "sourcePublisher": "Department of Social Justice and Empowerment",
+      "sourceDate": "2022-07-01",
+      "evidenceQuote": "Under the scheme, 100% interest payable on educational loan is subsidized by the government for the moratorium period (i.e. Course Period plus one year or six months after getting job, whichever is earlier).",
+      "verificationStatus": "confirmed",
+      "notes": "100% moratorium interest subsidy confirmed."
+    },
+    {
+      "claim": "Maximum loan eligible for interest subsidy is up to ₹20 Lakhs.",
+      "claimType": "benefit",
+      "sourceUrl": "https://canarabank.com",
+      "sourceTitle": "Canara Bank Nodal Cell — Dr. Ambedkar Interest Subsidy Portal Guidelines",
+      "sourcePublisher": "Canara Bank (Nodal Agency)",
+      "sourceDate": "2023-01-10",
+      "evidenceQuote": "Interest subsidy shall be linked with the existing Educational Loan Scheme of Indian Banks' Association (IBA) and restricted to maximum loan amount of Rs. 20.00 lakhs.",
+      "verificationStatus": "confirmed",
+      "notes": "Loan threshold confirmed."
+    }
+  ],
+  "statusPeriod": "CURRENT",
+  "crossSchemeRelationship": "Central sector interest subvention linked with IBA Model Educational Loan scheme and administered via Canara Bank.",
+  "examTrapVerified": "Confirmed: Nodal Bank is Canara Bank; covers interest during moratorium only; principal repaid by borrower.",
+  "requiresHumanReview": true
+}

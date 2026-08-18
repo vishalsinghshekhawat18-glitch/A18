@@ -1,0 +1,43 @@
+{
+  "schemeId": "migrated-schemes-scheme-108",
+  "schemeTitle": "SMILE Scheme (Support for Marginalised Individuals for Livelihood and Enterprise)",
+  "claims": [
+    {
+      "claim": "Launched on 12 February 2022 by Ministry of Social Justice and Empowerment with ₹365 Crore outlay (2021-22 to 2025-26).",
+      "claimType": "launch",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=1797825",
+      "sourceTitle": "Union Minister Launches SMILE Scheme for Marginalized Groups",
+      "sourcePublisher": "Press Information Bureau (PIB Delhi)",
+      "sourceDate": "2022-02-12",
+      "evidenceQuote": "Ministry of Social Justice and Empowerment launched the Central Sector scheme \"SMILE: Support for Marginalised Individuals for Livelihood and Enterprise\" on 12th February, 2022 with an outlay of Rs. 365 Crore from 2021-22 to 2025-26.",
+      "verificationStatus": "confirmed",
+      "notes": "Launch date and outlay confirmed."
+    },
+    {
+      "claim": "Sub-scheme 1: ₹265 Crore for Comprehensive Rehabilitation for Welfare of Transgender Persons.",
+      "claimType": "outlay",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=1797825",
+      "sourceTitle": "SMILE Scheme Outlay Breakdown",
+      "sourcePublisher": "Press Information Bureau (PIB Delhi)",
+      "sourceDate": "2022-02-12",
+      "evidenceQuote": "The scheme includes two sub-schemes: Comprehensive Rehabilitation for Welfare of Transgender Persons with Rs. 265 Crore and Comprehensive Rehabilitation of persons engaged in Begging with Rs. 100 Crore.",
+      "verificationStatus": "confirmed",
+      "notes": "Component-wise allocations confirmed."
+    },
+    {
+      "claim": "Includes Garima Greh shelter homes and Ayushman Bharat Transgender Package (₹5 Lakh cover).",
+      "claimType": "benefit",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=1853920",
+      "sourceTitle": "SMILE Components & Garima Greh",
+      "sourcePublisher": "Press Information Bureau (PIB Delhi)",
+      "sourceDate": "2022-08-24",
+      "evidenceQuote": "Under SMILE, Garima Greh shelter homes provide food, medical care, and recreational facilities, and composite medical package is provided under PM-JAY for transgender persons.",
+      "verificationStatus": "confirmed",
+      "notes": "Garima Greh and Ayushman package confirmed."
+    }
+  ],
+  "statusPeriod": "CURRENT",
+  "crossSchemeRelationship": "SMILE contains 2 distinct sub-schemes: Transgender Persons Welfare (₹265 Cr) + Begging Rehabilitation (₹100 Cr).",
+  "examTrapVerified": "Confirmed: Encompasses both Transgender welfare and Begging rehabilitation; includes Garima Greh shelter homes.",
+  "requiresHumanReview": true
+}

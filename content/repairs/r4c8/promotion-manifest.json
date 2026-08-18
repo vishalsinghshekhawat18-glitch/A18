@@ -1,0 +1,311 @@
+{
+  "version": "1.0.0-r4c8-promotion-manifest",
+  "referenceDate": "2026-08-18",
+  "totalPiloted": 10,
+  "summary": {
+    "approved": 4,
+    "approvedWithWarning": 6,
+    "humanReview": 0,
+    "rejected": 0,
+    "totalStagedInPromoted": 10
+  },
+  "manifest": [
+    {
+      "itemId": "migrated-schemes-scheme-10",
+      "title": "Krishi-Decision Support System (Krishi-DSS / ADSS)",
+      "contentQuality": "valid",
+      "evidenceStatus": "verified",
+      "temporalStatus": "CURRENT",
+      "temporalWarning": null,
+      "crossSchemeStatus": "verified",
+      "structuralStatus": "valid",
+      "promotionStatus": "approved",
+      "reasons": [
+        "Factual claims 100% verified.",
+        "Temporal state as of 2026-08-18: CURRENT.",
+        "Currently active within valid documented operational period."
+      ],
+      "temporal": {
+        "statusAsOf": "2026-08-18",
+        "status": "CURRENT",
+        "schemePeriodStart": "2024-09-02",
+        "schemePeriodEnd": "2027-03-31",
+        "statusEvidence": [
+          "Union Cabinet approved Digital Agriculture Mission on 02-09-2024 for FY 2024-25 to 2026-27 (ends 31 March 2027)."
+        ],
+        "lastVerified": "2024-09-02"
+      },
+      "evidenceFiles": [
+        "content/repairs/r4c6/migrated-schemes-scheme-10-evidence.json"
+      ],
+      "repairFile": "content/repairs/r4c5/migrated-schemes-scheme-10.json"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-100",
+      "title": "SHREYAS Scheme (Scholarships for Higher Education for Young Achievers Scheme)",
+      "contentQuality": "valid",
+      "evidenceStatus": "verified",
+      "temporalStatus": "EXPIRED",
+      "temporalWarning": "Documented operational period (2021-04-01 to 2026-03-31) ended on 2026-03-31. Factual parameters (outlay, components) represent the verified 15th Finance Commission cycle. Extension under 16th FC cycle pending gazette confirmation.",
+      "crossSchemeStatus": "verified",
+      "structuralStatus": "valid",
+      "promotionStatus": "approved-with-warning",
+      "reasons": [
+        "Factual claims 100% verified.",
+        "Temporal state as of 2026-08-18: EXPIRED.",
+        "Documented operational period (2021-04-01 to 2026-03-31) ended on 2026-03-31. Factual parameters (outlay, components) represent the verified 15th Finance Commission cycle. Extension under 16th FC cycle pending gazette confirmation."
+      ],
+      "temporal": {
+        "statusAsOf": "2026-08-18",
+        "status": "EXPIRED",
+        "schemePeriodStart": "2021-04-01",
+        "schemePeriodEnd": "2026-03-31",
+        "statusEvidence": [
+          "Documented financial allocation of ₹4,103.55 Cr covers the 15th Finance Commission cycle (2021-22 to 2025-26, ended 31 March 2026). Renewal under 16th FC cycle pending gazette notification."
+        ],
+        "lastVerified": "2023-09-24"
+      },
+      "evidenceFiles": [
+        "content/repairs/r4c6/migrated-schemes-scheme-100-evidence.json"
+      ],
+      "repairFile": "content/repairs/r4c5/migrated-schemes-scheme-100.json"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-102",
+      "title": "PM YASASVI (PM Young Achievers Scholarship Award Scheme for Vibrant India)",
+      "contentQuality": "valid",
+      "evidenceStatus": "verified",
+      "temporalStatus": "EXPIRED",
+      "temporalWarning": "Documented operational period (2021-04-01 to 2026-03-31) ended on 2026-03-31. Factual parameters (outlay, components) represent the verified 15th Finance Commission cycle. Extension under 16th FC cycle pending gazette confirmation.",
+      "crossSchemeStatus": "verified",
+      "structuralStatus": "valid",
+      "promotionStatus": "approved-with-warning",
+      "reasons": [
+        "Factual claims 100% verified.",
+        "Temporal state as of 2026-08-18: EXPIRED.",
+        "Documented operational period (2021-04-01 to 2026-03-31) ended on 2026-03-31. Factual parameters (outlay, components) represent the verified 15th Finance Commission cycle. Extension under 16th FC cycle pending gazette confirmation."
+      ],
+      "temporal": {
+        "statusAsOf": "2026-08-18",
+        "status": "EXPIRED",
+        "schemePeriodStart": "2021-04-01",
+        "schemePeriodEnd": "2026-03-31",
+        "statusEvidence": [
+          "Operational guidelines on National Scholarship Portal cover 2021-22 to 2025-26 (ended 31 March 2026)."
+        ],
+        "lastVerified": "2023-08-15"
+      },
+      "evidenceFiles": [
+        "content/repairs/r4c6/migrated-schemes-scheme-102-evidence.json"
+      ],
+      "repairFile": "content/repairs/r4c5/migrated-schemes-scheme-102.json"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-107",
+      "title": "National Overseas Scholarship (NOS) for SC, DNT, and Landless Labourers",
+      "contentQuality": "valid",
+      "evidenceStatus": "verified",
+      "temporalStatus": "CURRENT",
+      "temporalWarning": null,
+      "crossSchemeStatus": "verified",
+      "structuralStatus": "valid",
+      "promotionStatus": "approved",
+      "reasons": [
+        "Factual claims 100% verified.",
+        "Temporal state as of 2026-08-18: CURRENT.",
+        "Currently active within valid documented operational period."
+      ],
+      "temporal": {
+        "statusAsOf": "2026-08-18",
+        "status": "CURRENT",
+        "schemePeriodStart": "2023-04-01",
+        "statusEvidence": [
+          "Ongoing central sector scholarship program with annual portal application cycles on nosmsje.gov.in (revised guidelines 2023-24)."
+        ],
+        "lastVerified": "2024-02-15"
+      },
+      "evidenceFiles": [
+        "content/repairs/r4c6/migrated-schemes-scheme-107-evidence.json"
+      ],
+      "repairFile": "content/repairs/r4c5/migrated-schemes-scheme-107.json"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-108",
+      "title": "SMILE Scheme (Support for Marginalised Individuals for Livelihood and Enterprise)",
+      "contentQuality": "valid",
+      "evidenceStatus": "verified",
+      "temporalStatus": "EXPIRED",
+      "temporalWarning": "Documented operational period (2021-04-01 to 2026-03-31) ended on 2026-03-31. Factual parameters (outlay, components) represent the verified 15th Finance Commission cycle. Extension under 16th FC cycle pending gazette confirmation.",
+      "crossSchemeStatus": "verified",
+      "structuralStatus": "valid",
+      "promotionStatus": "approved-with-warning",
+      "reasons": [
+        "Factual claims 100% verified.",
+        "Temporal state as of 2026-08-18: EXPIRED.",
+        "Documented operational period (2021-04-01 to 2026-03-31) ended on 2026-03-31. Factual parameters (outlay, components) represent the verified 15th Finance Commission cycle. Extension under 16th FC cycle pending gazette confirmation."
+      ],
+      "temporal": {
+        "statusAsOf": "2026-08-18",
+        "status": "EXPIRED",
+        "schemePeriodStart": "2021-04-01",
+        "schemePeriodEnd": "2026-03-31",
+        "statusEvidence": [
+          "Approved financial outlay of ₹365 Cr covers 2021-22 to 2025-26 (ended 31 March 2026). SMILE-75 municipal activities undergoing evaluation."
+        ],
+        "lastVerified": "2022-08-24"
+      },
+      "evidenceFiles": [
+        "content/repairs/r4c6/migrated-schemes-scheme-108-evidence.json"
+      ],
+      "repairFile": "content/repairs/r4c5/migrated-schemes-scheme-108.json"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-109",
+      "title": "Dr. Ambedkar Central Sector Scheme of Interest Subvention on Overseas Educational Loans",
+      "contentQuality": "valid",
+      "evidenceStatus": "verified",
+      "temporalStatus": "CURRENT",
+      "temporalWarning": null,
+      "crossSchemeStatus": "verified",
+      "structuralStatus": "valid",
+      "promotionStatus": "approved",
+      "reasons": [
+        "Factual claims 100% verified.",
+        "Temporal state as of 2026-08-18: CURRENT.",
+        "Currently active within valid documented operational period."
+      ],
+      "temporal": {
+        "statusAsOf": "2026-08-18",
+        "status": "CURRENT",
+        "schemePeriodStart": "2022-04-01",
+        "statusEvidence": [
+          "Continuous demand-driven interest subsidy scheme linked to IBA Model Educational Loan Scheme administered continuously via Canara Bank."
+        ],
+        "lastVerified": "2023-01-10"
+      },
+      "evidenceFiles": [
+        "content/repairs/r4c6/migrated-schemes-scheme-109-evidence.json"
+      ],
+      "repairFile": "content/repairs/r4c5/migrated-schemes-scheme-109.json"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-11",
+      "title": "Solar Power Scheme for PVTGs (under PM-JANMAN)",
+      "contentQuality": "valid",
+      "evidenceStatus": "verified",
+      "temporalStatus": "EXPIRED",
+      "temporalWarning": "Documented operational period (2023-04-01 to 2026-03-31) ended on 2026-03-31. Factual parameters (outlay, components) represent the verified 15th Finance Commission cycle. Extension under 16th FC cycle pending gazette confirmation.",
+      "crossSchemeStatus": "verified",
+      "structuralStatus": "valid",
+      "promotionStatus": "approved-with-warning",
+      "reasons": [
+        "Factual claims 100% verified.",
+        "Temporal state as of 2026-08-18: EXPIRED.",
+        "Documented operational period (2023-04-01 to 2026-03-31) ended on 2026-03-31. Factual parameters (outlay, components) represent the verified 15th Finance Commission cycle. Extension under 16th FC cycle pending gazette confirmation."
+      ],
+      "temporal": {
+        "statusAsOf": "2026-08-18",
+        "status": "EXPIRED",
+        "schemePeriodStart": "2023-04-01",
+        "schemePeriodEnd": "2026-03-31",
+        "statusEvidence": [
+          "MNRE notification approved ₹515 Cr for 2023-24 to 2025-26 (ended 31 March 2026). Physical household electrification ongoing under PM-JANMAN mission."
+        ],
+        "lastVerified": "2024-07-25"
+      },
+      "evidenceFiles": [
+        "content/repairs/r4c6/migrated-schemes-scheme-11-evidence.json"
+      ],
+      "repairFile": "content/repairs/r4c5/migrated-schemes-scheme-11.json"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-110",
+      "title": "National Fellowship for OBC Students (NF-OBC)",
+      "contentQuality": "valid",
+      "evidenceStatus": "verified",
+      "temporalStatus": "CURRENT",
+      "temporalWarning": null,
+      "crossSchemeStatus": "verified",
+      "structuralStatus": "valid",
+      "promotionStatus": "approved",
+      "reasons": [
+        "Factual claims 100% verified.",
+        "Temporal state as of 2026-08-18: CURRENT.",
+        "Currently active within valid documented operational period."
+      ],
+      "temporal": {
+        "statusAsOf": "2026-08-18",
+        "status": "CURRENT",
+        "schemePeriodStart": "2021-04-01",
+        "statusEvidence": [
+          "Continuous regular research fellowship administered through NBCFDC/UGC with UGC-aligned fellowship scales."
+        ],
+        "lastVerified": "2023-10-16"
+      },
+      "evidenceFiles": [
+        "content/repairs/r4c6/migrated-schemes-scheme-110-evidence.json"
+      ],
+      "repairFile": "content/repairs/r4c5/migrated-schemes-scheme-110.json"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-111",
+      "title": "SEED Scheme (Scheme for Economic Empowerment of DNT/NT/SNT Communities)",
+      "contentQuality": "valid",
+      "evidenceStatus": "verified",
+      "temporalStatus": "EXPIRED",
+      "temporalWarning": "Documented operational period (2021-04-01 to 2026-03-31) ended on 2026-03-31. Factual parameters (outlay, components) represent the verified 15th Finance Commission cycle. Extension under 16th FC cycle pending gazette confirmation.",
+      "crossSchemeStatus": "verified",
+      "structuralStatus": "valid",
+      "promotionStatus": "approved-with-warning",
+      "reasons": [
+        "Factual claims 100% verified.",
+        "Temporal state as of 2026-08-18: EXPIRED.",
+        "Documented operational period (2021-04-01 to 2026-03-31) ended on 2026-03-31. Factual parameters (outlay, components) represent the verified 15th Finance Commission cycle. Extension under 16th FC cycle pending gazette confirmation."
+      ],
+      "temporal": {
+        "statusAsOf": "2026-08-18",
+        "status": "EXPIRED",
+        "schemePeriodStart": "2021-04-01",
+        "schemePeriodEnd": "2026-03-31",
+        "statusEvidence": [
+          "Outlay of ₹200 Cr approved for 5 years (2021-22 to 2025-26, ended 31 March 2026) under DWBDNC."
+        ],
+        "lastVerified": "2022-02-16"
+      },
+      "evidenceFiles": [
+        "content/repairs/r4c6/migrated-schemes-scheme-111-evidence.json"
+      ],
+      "repairFile": "content/repairs/r4c5/migrated-schemes-scheme-111.json"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-112",
+      "title": "National Action Plan for Drug Demand Reduction (NAPDDR) & Nasha Mukt Bharat Abhiyaan",
+      "contentQuality": "valid",
+      "evidenceStatus": "verified",
+      "temporalStatus": "EXPIRED",
+      "temporalWarning": "Documented operational period (2018-04-01 to 2026-03-31) ended on 2026-03-31. Factual parameters (outlay, components) represent the verified 15th Finance Commission cycle. Extension under 16th FC cycle pending gazette confirmation.",
+      "crossSchemeStatus": "verified",
+      "structuralStatus": "valid",
+      "promotionStatus": "approved-with-warning",
+      "reasons": [
+        "Factual claims 100% verified.",
+        "Temporal state as of 2026-08-18: EXPIRED.",
+        "Documented operational period (2018-04-01 to 2026-03-31) ended on 2026-03-31. Factual parameters (outlay, components) represent the verified 15th Finance Commission cycle. Extension under 16th FC cycle pending gazette confirmation."
+      ],
+      "temporal": {
+        "statusAsOf": "2026-08-18",
+        "status": "EXPIRED",
+        "schemePeriodStart": "2018-04-01",
+        "schemePeriodEnd": "2026-03-31",
+        "statusEvidence": [
+          "NAPDDR original 7-year action plan (2018–2025/26) concluded on 31 March 2026. Nasha Mukt Bharat Abhiyaan (NMBA) campaign remains active nationwide."
+        ],
+        "lastVerified": "2023-08-15"
+      },
+      "evidenceFiles": [
+        "content/repairs/r4c6/migrated-schemes-scheme-112-evidence.json"
+      ],
+      "repairFile": "content/repairs/r4c5/migrated-schemes-scheme-112.json"
+    }
+  ]
+}

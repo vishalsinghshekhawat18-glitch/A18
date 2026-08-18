@@ -5,6 +5,9 @@ export type ReadingTheme = 'sepia' | 'warm' | 'night';
 interface Props {
   fontSize: number;
   theme: ReadingTheme;
+  activeItemId?: string;
+  isCompleted?: boolean;
+  onToggleComplete?: () => void;
   onFontSizeChange: (newSize: number) => void;
   onThemeChange: (theme: ReadingTheme) => void;
   onOpenSearch: () => void;
@@ -15,6 +18,9 @@ interface Props {
 export const ReadingControls: React.FC<Props> = ({
   fontSize,
   theme,
+  activeItemId,
+  isCompleted = false,
+  onToggleComplete,
   onFontSizeChange,
   onThemeChange,
   onOpenSearch,
@@ -96,6 +102,29 @@ export const ReadingControls: React.FC<Props> = ({
           <span style={{ minWidth: '2.2ch', textAlign: 'center' }}>{fontSize}px</span>
           <button className="btn-control" onClick={() => onFontSizeChange(Math.min(24, fontSize + 1))}>A+</button>
         </div>
+
+        {/* Item Completion Action (Active when reading an item) */}
+        {activeItemId && onToggleComplete && (
+          <div className="control-group" style={{ marginLeft: '0.4rem' }}>
+            <button
+              className={`btn-control btn-completion-toggle ${isCompleted ? 'is-completed' : ''}`}
+              onClick={onToggleComplete}
+              aria-label={isCompleted ? "Mark item as uncompleted" : "Mark item as completed"}
+              title={isCompleted ? "Marked as Completed (Click to undo)" : "Mark as Completed"}
+              style={isCompleted ? {
+                background: '#2e7d32',
+                color: '#ffffff',
+                borderColor: '#2e7d32',
+                fontWeight: 700
+              } : {
+                fontWeight: 600,
+                color: 'var(--text-primary)'
+              }}
+            >
+              {isCompleted ? '✓ Completed' : '○ Mark Complete'}
+            </button>
+          </div>
+        )}
       </div>
     </header>
   );

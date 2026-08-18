@@ -1,0 +1,43 @@
+{
+  "schemeId": "migrated-schemes-scheme-102",
+  "schemeTitle": "PM YASASVI (PM Young Achievers Scholarship Award Scheme for Vibrant India)",
+  "claims": [
+    {
+      "claim": "Umbrella scheme for OBC, EBC, and DNT/SNT students under Ministry of Social Justice and Empowerment.",
+      "claimType": "ministry",
+      "sourceUrl": "https://scholarships.gov.in",
+      "sourceTitle": "Operational Guidelines for PM-YASASVI on National Scholarship Portal",
+      "sourcePublisher": "Department of Social Justice & Empowerment",
+      "sourceDate": "2023-08-15",
+      "evidenceQuote": "PM Young Achievers Scholarship Award Scheme for Vibrant India (PM-YASASVI) is an umbrella scheme for OBC, EBC and DNT students implemented by MoSJE.",
+      "verificationStatus": "confirmed",
+      "notes": "Beneficiary categories confirmed."
+    },
+    {
+      "claim": "Family income ceiling is strictly ₹2.50 Lakh per annum.",
+      "claimType": "eligibility",
+      "sourceUrl": "https://scholarships.gov.in",
+      "sourceTitle": "PM-YASASVI Eligibility Criteria",
+      "sourcePublisher": "National Scholarship Portal / MoSJE",
+      "sourceDate": "2023-08-15",
+      "evidenceQuote": "The total annual family income of the parents/guardians from all sources should not exceed Rs. 2.50 lakh per annum.",
+      "verificationStatus": "confirmed",
+      "notes": "Income threshold confirmed."
+    },
+    {
+      "claim": "Pre-Matric scholarship is ₹4,000/year; Top Class school is up to ₹75k (9-10) and ₹1.25L (11-12).",
+      "claimType": "benefit",
+      "sourceUrl": "https://socialjustice.gov.in",
+      "sourceTitle": "PM YASASVI Guidelines",
+      "sourcePublisher": "Ministry of Social Justice and Empowerment",
+      "sourceDate": "2022-10-01",
+      "evidenceQuote": "Pre-matric scholarship rate is Rs. 4,000 per annum. Top class school scholarship covers up to Rs. 75,000 p.a. for class 9-10 and Rs. 1,25,000 p.a. for class 11-12.",
+      "verificationStatus": "confirmed",
+      "notes": "Financial slabs confirmed."
+    }
+  ],
+  "statusPeriod": "CURRENT",
+  "crossSchemeRelationship": "Consolidates 5 sub-components: Pre-Matric, Post-Matric, Top Class School, Top Class College, and Hostels.",
+  "examTrapVerified": "Confirmed: Selection for Top Class School Education uses merit lists from National Scholarship Portal (NSP).",
+  "requiresHumanReview": true
+}

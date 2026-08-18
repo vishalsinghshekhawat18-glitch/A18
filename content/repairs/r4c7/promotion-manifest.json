@@ -1,0 +1,225 @@
+{
+  "version": "1.0.0-r4c7-manifest",
+  "generatedAt": "2026-08-18T13:20:41.078Z",
+  "totalPiloted": 10,
+  "summary": {
+    "approved": 10,
+    "approvedWithWarning": 0,
+    "humanReview": 0,
+    "rejected": 0,
+    "promotedFilesStaged": 10
+  },
+  "manifest": [
+    {
+      "itemId": "migrated-schemes-scheme-10",
+      "title": "Krishi-Decision Support System (Krishi-DSS / ADSS)",
+      "contentQuality": "valid",
+      "evidenceStatus": "verified",
+      "temporalStatus": "current",
+      "temporalNote": "Approved by Union Cabinet on 2 September 2024 under Digital Agriculture Mission (active 2024–2026+ rollout).",
+      "crossSchemeStatus": "verified",
+      "crossSchemeRole": "PRIMARY",
+      "structuralStatus": "valid",
+      "promotionStatus": "approved",
+      "reasons": [
+        "100% of claims verified via PIB PRID 2051101 and DA&FW official guidelines.",
+        "Exact Cabinet outlay breakdown: ₹2,817 Cr total (₹1,940 Cr Centre, ₹877 Cr States).",
+        "Structural hierarchy clean with table, bullets, and zero orphan fragments."
+      ],
+      "evidenceFiles": [
+        "content/repairs/r4c6/migrated-schemes-scheme-10-evidence.json"
+      ],
+      "repairFile": "content/repairs/r4c5/migrated-schemes-scheme-10.json"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-100",
+      "title": "SHREYAS Scheme (Scholarships for Higher Education for Young Achievers Scheme)",
+      "contentQuality": "valid",
+      "evidenceStatus": "verified",
+      "temporalStatus": "current",
+      "temporalNote": "Operational umbrella scheme covering 2021-22 to 2025-26 under 15th Finance Commission cycle.",
+      "crossSchemeStatus": "verified",
+      "crossSchemeRole": "PRIMARY",
+      "structuralStatus": "valid",
+      "promotionStatus": "approved",
+      "reasons": [
+        "100% of claims verified via PIB PRID 1960251 and MoSJE guidelines.",
+        "Correctly delineates 4 sub-schemes and ₹4,103.55 Cr consolidated 15th FC allocation.",
+        "Explicitly distinguishes SHREYAS (Higher education) from SHRESHTA (CBSE schools)."
+      ],
+      "evidenceFiles": [
+        "content/repairs/r4c6/migrated-schemes-scheme-100-evidence.json"
+      ],
+      "repairFile": "content/repairs/r4c5/migrated-schemes-scheme-100.json"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-102",
+      "title": "PM YASASVI (PM Young Achievers Scholarship Award Scheme for Vibrant India)",
+      "contentQuality": "valid",
+      "evidenceStatus": "verified",
+      "temporalStatus": "current",
+      "temporalNote": "Active national umbrella scheme on National Scholarship Portal (NSP) (2021-22 to 2025-26).",
+      "crossSchemeStatus": "verified",
+      "crossSchemeRole": "PRIMARY",
+      "structuralStatus": "valid",
+      "promotionStatus": "approved",
+      "reasons": [
+        "100% verified via National Scholarship Portal (scholarships.gov.in) and MoSJE.",
+        "Strict ₹2.50 Lakh income ceiling and detailed scholarship slabs verified.",
+        "Reunifies 4 orphan fragment files into a single coherent master structure."
+      ],
+      "evidenceFiles": [
+        "content/repairs/r4c6/migrated-schemes-scheme-102-evidence.json"
+      ],
+      "repairFile": "content/repairs/r4c5/migrated-schemes-scheme-102.json"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-107",
+      "title": "National Overseas Scholarship (NOS) for SC, DNT, and Landless Labourers",
+      "contentQuality": "valid",
+      "evidenceStatus": "verified",
+      "temporalStatus": "current",
+      "temporalNote": "Active central sector scheme with annual application cycles on nosmsje.gov.in (revised guidelines 2023-24).",
+      "crossSchemeStatus": "verified",
+      "crossSchemeRole": "COMPLEMENTARY",
+      "structuralStatus": "valid",
+      "promotionStatus": "approved",
+      "reasons": [
+        "100% verified via PIB PRID 1986421 and nosmsje.gov.in.",
+        "Exact 125 slot breakdown (115 SC, 6 DNT, 4 Landless/Artisans) and 30% women quota verified.",
+        "Top 500 QS World Ranking requirement and ₹8.00 Lakh income ceiling verified."
+      ],
+      "evidenceFiles": [
+        "content/repairs/r4c6/migrated-schemes-scheme-107-evidence.json"
+      ],
+      "repairFile": "content/repairs/r4c5/migrated-schemes-scheme-107.json"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-108",
+      "title": "SMILE Scheme (Support for Marginalised Individuals for Livelihood and Enterprise)",
+      "contentQuality": "valid",
+      "evidenceStatus": "verified",
+      "temporalStatus": "current",
+      "temporalNote": "Active Central Sector Scheme (launched 12 Feb 2022, 5-year cycle 2021-22 to 2025-26; SMILE-75 ongoing).",
+      "crossSchemeStatus": "verified",
+      "crossSchemeRole": "PRIMARY",
+      "structuralStatus": "valid",
+      "promotionStatus": "approved",
+      "reasons": [
+        "100% verified via PIB PRID 1797825 & PRID 1853920.",
+        "Exact outlay: ₹365 Cr total (₹265 Cr Transgender, ₹100 Cr Begging rehabilitation).",
+        "Garima Greh shelter homes and Ayushman Bharat ₹5L Transgender health package verified."
+      ],
+      "evidenceFiles": [
+        "content/repairs/r4c6/migrated-schemes-scheme-108-evidence.json"
+      ],
+      "repairFile": "content/repairs/r4c5/migrated-schemes-scheme-108.json"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-109",
+      "title": "Dr. Ambedkar Central Sector Scheme of Interest Subvention on Overseas Educational Loans",
+      "contentQuality": "valid",
+      "evidenceStatus": "verified",
+      "temporalStatus": "current",
+      "temporalNote": "Active ongoing scheme administered through Canara Bank Nodal Cell.",
+      "crossSchemeStatus": "verified",
+      "crossSchemeRole": "PRIMARY",
+      "structuralStatus": "valid",
+      "promotionStatus": "approved",
+      "reasons": [
+        "100% verified via PIB PRID 1845124, MoSJE, and Canara Bank guidelines.",
+        "Corrected obsolete ₹2.5L income ceiling to verified ₹8.00 Lakh/annum.",
+        "Nodal Bank (Canara Bank), ₹20L max loan threshold, and 100% moratorium interest subsidy verified."
+      ],
+      "evidenceFiles": [
+        "content/repairs/r4c6/migrated-schemes-scheme-109-evidence.json"
+      ],
+      "repairFile": "content/repairs/r4c5/migrated-schemes-scheme-109.json"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-11",
+      "title": "Solar Power Scheme for PVTGs (under PM-JANMAN)",
+      "contentQuality": "valid",
+      "evidenceStatus": "verified",
+      "temporalStatus": "current",
+      "temporalNote": "Active off-grid solar scheme notified January 2024 for 2023-24 to 2025-26 under PM-JANMAN.",
+      "crossSchemeStatus": "verified",
+      "crossSchemeRole": "COMPONENT",
+      "structuralStatus": "valid",
+      "promotionStatus": "approved",
+      "reasons": [
+        "100% verified via PIB PRID 2038910 and MNRE official notification.",
+        "Exact physical and technical targets: 1,00,000 HHs (0.3 kW / ₹50k) + 1,500 MPCs (2.5 kW / ₹1L) across 18 states.",
+        "₹515 Crore approved outlay and 5-year free maintenance verified."
+      ],
+      "evidenceFiles": [
+        "content/repairs/r4c6/migrated-schemes-scheme-11-evidence.json"
+      ],
+      "repairFile": "content/repairs/r4c5/migrated-schemes-scheme-11.json"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-110",
+      "title": "National Fellowship for OBC Students (NF-OBC)",
+      "contentQuality": "valid",
+      "evidenceStatus": "verified",
+      "temporalStatus": "current",
+      "temporalNote": "Active ongoing fellowship implemented via NBCFDC/UGC with revised fellowship rates.",
+      "crossSchemeStatus": "verified",
+      "crossSchemeRole": "COMPLEMENTARY",
+      "structuralStatus": "valid",
+      "promotionStatus": "approved",
+      "reasons": [
+        "100% verified via MoSJE guidelines and UGC circular.",
+        "Corrected obsolete 300 slots to verified 1,000 annual slots.",
+        "Stipends updated to revised UGC scales (JRF ₹37k/mo, SRF ₹42k/mo).",
+        "Raw OCR channel banner garbage cleanly removed."
+      ],
+      "evidenceFiles": [
+        "content/repairs/r4c6/migrated-schemes-scheme-110-evidence.json"
+      ],
+      "repairFile": "content/repairs/r4c5/migrated-schemes-scheme-110.json"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-111",
+      "title": "SEED Scheme (Scheme for Economic Empowerment of DNT/NT/SNT Communities)",
+      "contentQuality": "valid",
+      "evidenceStatus": "verified",
+      "temporalStatus": "current",
+      "temporalNote": "Active 5-year Central Sector Scheme launched 16 Feb 2022 (2021-22 to 2025-26).",
+      "crossSchemeStatus": "verified",
+      "crossSchemeRole": "PRIMARY",
+      "structuralStatus": "valid",
+      "promotionStatus": "approved",
+      "reasons": [
+        "100% verified via PIB PRID 1798782 and seed.dosje.gov.in.",
+        "Outlay (₹200 Cr for 5 years), DWBDNC board, and ₹2.50L income ceiling verified.",
+        "Four specific pillars (Free coaching, PM-JAY ₹5L cover, NRLM livelihoods, PMAY housing) verified."
+      ],
+      "evidenceFiles": [
+        "content/repairs/r4c6/migrated-schemes-scheme-111-evidence.json"
+      ],
+      "repairFile": "content/repairs/r4c5/migrated-schemes-scheme-111.json"
+    },
+    {
+      "itemId": "migrated-schemes-scheme-112",
+      "title": "National Action Plan for Drug Demand Reduction (NAPDDR) & Nasha Mukt Bharat Abhiyaan",
+      "contentQuality": "valid",
+      "evidenceStatus": "verified",
+      "temporalStatus": "current",
+      "temporalNote": "Active nationwide action plan (2018–2025+); NMBA campaign launched 15 Aug 2020 and expanded nationwide.",
+      "crossSchemeStatus": "verified",
+      "crossSchemeRole": "PRIMARY",
+      "structuralStatus": "valid",
+      "promotionStatus": "approved",
+      "reasons": [
+        "100% verified via PIB PRID 1949112 and nmba.dosje.gov.in.",
+        "NMBA campaign details (15 Aug 2020 launch, 272 to all 372+ districts expansion) verified.",
+        "100% Central funding for IRCAs, CPLIs, ODICs, and National Helpline 14446 verified."
+      ],
+      "evidenceFiles": [
+        "content/repairs/r4c6/migrated-schemes-scheme-112-evidence.json"
+      ],
+      "repairFile": "content/repairs/r4c5/migrated-schemes-scheme-112.json"
+    }
+  ]
+}

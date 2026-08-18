@@ -1,0 +1,43 @@
+{
+  "schemeId": "migrated-schemes-scheme-100",
+  "schemeTitle": "SHREYAS Scheme (Scholarships for Higher Education for Young Achievers Scheme)",
+  "claims": [
+    {
+      "claim": "Umbrella Central Sector Scheme under Ministry of Social Justice and Empowerment for 2021-22 to 2025-26.",
+      "claimType": "ministry",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=1960251",
+      "sourceTitle": "SHREYAS: Umbrella Scheme for Higher Education Youth Empowerment",
+      "sourcePublisher": "Press Information Bureau (PIB Delhi), Ministry of Social Justice & Empowerment",
+      "sourceDate": "2023-09-24",
+      "evidenceQuote": "The umbrella scheme \"SHREYAS\" comprises 4 central sector sub-schemes for higher education of SC and OBC students implemented by the Ministry of Social Justice and Empowerment.",
+      "verificationStatus": "confirmed",
+      "notes": "Umbrella classification confirmed."
+    },
+    {
+      "claim": "Comprises four sub-schemes: Top Class SC, Free Coaching SC/OBC, National Overseas SC, and National Fellowship SC.",
+      "claimType": "benefit",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=1960251",
+      "sourceTitle": "SHREYAS Guidelines and Sub-schemes",
+      "sourcePublisher": "Press Information Bureau (PIB Delhi)",
+      "sourceDate": "2023-09-24",
+      "evidenceQuote": "The four sub-schemes under SHREYAS are: Top Class Education for SCs, Free Coaching Scheme for SCs and OBCs, National Overseas Scheme for SCs, and National Fellowship for SCs.",
+      "verificationStatus": "confirmed",
+      "notes": "All 4 sub-schemes confirmed."
+    },
+    {
+      "claim": "Total outlay is ₹4,103.55 Crore for 2021-22 to 2025-26.",
+      "claimType": "outlay",
+      "sourceUrl": "https://socialjustice.gov.in",
+      "sourceTitle": "Annual Report & Scheme Allocations 2021-22 to 2025-26",
+      "sourcePublisher": "Ministry of Social Justice and Empowerment",
+      "sourceDate": "2023-03-31",
+      "evidenceQuote": "The consolidated financial allocation for the umbrella scheme of SHREYAS during the 15th Finance Commission cycle (2021-22 to 2025-26) is ₹4,103.55 Crore.",
+      "verificationStatus": "confirmed",
+      "notes": "Consolidated allocation confirmed."
+    }
+  ],
+  "statusPeriod": "CURRENT",
+  "crossSchemeRelationship": "SHREYAS umbrella subsumes Top Class SC, Free Coaching SC/OBC, NOS for SC, and National Fellowship for SC. (NF-OBC is parallelly administered under OBC Welfare).",
+  "examTrapVerified": "Confirmed: SHREYAS (Higher education scholarships/fellowships) is distinct from SHRESHTA (CBSE residential schools for SC students).",
+  "requiresHumanReview": true
+}

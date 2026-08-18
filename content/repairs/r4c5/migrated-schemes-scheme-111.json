@@ -1,0 +1,199 @@
+{
+  "sourceItemId": "migrated-schemes-scheme-111",
+  "repairVersion": "r4.c5",
+  "originalQualityStatus": "needs_enrichment",
+  "repairedQualityStatus": "valid",
+  "originalContent": {
+    "id": "migrated-schemes-scheme-111",
+    "type": "ca_note",
+    "domain": "schemes",
+    "title": "SEED Scheme (Scheme for Economic Empowerment of DNT):",
+    "summary": "Schemes — SEED Scheme (Scheme for Economic Empowerment of DNT):",
+    "blocks": [
+      {
+        "type": "bullet_list",
+        "items": [
+          "The SEED Scheme is designed to uplift Denotified Tribes (DNTs) by providing essential support in",
+          "key areas:",
+          "o Educational Support: Free coaching for competitive exams and skill development.",
+          "o Health Coverage: Health insurance for DNT families to cover medical expenses.",
+          "o Economic Assistance: Financial aid for livelihood creation and small business ventures.",
+          "o Housing Support: Assistance in constructing safe and secure homes.",
+          "Eligibility: Families with an annual income of less than ₹2.5 lakhs.",
+          "The scheme aims to enhance the socio-economic status of DNT communities by improving access to",
+          "education, healthcare, livelihood opportunities, and housing."
+        ]
+      }
+    ],
+    "metadata": {
+      "exam": [
+        "Bank PO",
+        "RBI Grade B",
+        "SBI PO"
+      ],
+      "tags": [
+        "schemes",
+        "Health, Social Justice & Education"
+      ],
+      "category": "Schemes",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-15T12:14:02.104Z",
+      "provenance": {
+        "sourceSystem": "Schemes",
+        "sourceFile": "ca_app/updated_schemes_data.js",
+        "sourceId": "scheme-111",
+        "sourceTitle": "SEED Scheme (Scheme for Economic Empowerment of DNT):",
+        "sourceChecksum": "89a565d1129b3165134fbeea5fdff6b411a2e5e89fc0655276476df8dd325df9",
+        "migrationTimestamp": "2026-08-15T12:14:02.104Z",
+        "normalizationRuleVersion": "1.0.0-phase4-corrected"
+      }
+    }
+  },
+  "repairedContent": {
+    "id": "migrated-schemes-scheme-111",
+    "type": "ca_note",
+    "domain": "schemes",
+    "title": "SEED Scheme (Scheme for Economic Empowerment of DNT/NT/SNT Communities)",
+    "summary": "SEED Scheme (Scheme for Economic Empowerment of DNT/NT/SNT Communities) — Comprehensive study notes covering objectives, eligibility, outlay, and exam traps.",
+    "blocks": [
+      {
+        "type": "key_concept",
+        "title": "SEED Scheme (Scheme for Economic Empowerment of DNT/NT/SNT Communities)",
+        "summary": "To provide comprehensive socio-economic upliftment, quality coaching, health insurance, livelihood assistance, and housing support to De-notified, Nomadic, and Semi-Nomadic Tribes (DNT/NT/SNT) not classified under SC/ST/OBC."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "🏛️ Administrative & Financial Framework"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Parameter",
+          "Official Specification"
+        ],
+        "rows": [
+          [
+            "Nodal Ministry",
+            "Ministry of Social Justice and Empowerment"
+          ],
+          [
+            "Department",
+            "Development and Welfare Board for De-notified, Nomadic and Semi-Nomadic Communities (DWBDNC)"
+          ],
+          [
+            "Launch Year / Period",
+            "16 February 2022"
+          ],
+          [
+            "Financial Outlay",
+            "₹200 Crore (Allocated for 5 years: 2021-22 to 2025-26)."
+          ],
+          [
+            "Funding Pattern",
+            "100% Central Sector Scheme with funds transferred directly via DBT to beneficiaries / implementing bodies."
+          ],
+          [
+            "Implementing Agency",
+            "Development and Welfare Board for DNTs (DWBDNC) in coordination with National Health Authority (NHA) and National Rural Livelihood Mission (NRLM)."
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "🎯 Target Beneficiaries & Eligibility"
+      },
+      {
+        "type": "bullet_list",
+        "items": [
+          "**Target Beneficiaries:** Members of De-notified, Nomadic and Semi-Nomadic Tribes across India.",
+          "**Eligibility Criteria:** Families belonging to identified DNT/NT/SNT communities with total annual family income not exceeding ₹2.50 Lakh per annum."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "✨ Key Components & Features"
+      },
+      {
+        "type": "bullet_list",
+        "items": [
+          "Four Core Pillars:",
+          "1. Free Coaching: Financial support for civil services, banking, insurance, defense, and NEET/JEE coaching.",
+          "2. Health Insurance: Comprehensive health coverage under PM-JAY (₹5.00 Lakh/family/year).",
+          "3. Livelihood Initiatives: Financial assistance and cluster formation via DAY-NRLM / SHGs.",
+          "4. Housing Support: Special financial assistance of ₹1.20 Lakh (plains) / ₹1.30 Lakh (hills) under PMAY-Gramin."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "⚠️ Exam Traps & Key Distinctions"
+      },
+      {
+        "type": "bullet_list",
+        "items": [
+          "Nodal Board: DWBDNC (Development and Welfare Board for DNT/NT/SNT Communities).",
+          "Outlay: ₹200 Crore over 5 years.",
+          "Four distinct pillars: Coaching, Health Insurance (PM-JAY), Livelihoods (NRLM), Housing (PMAY)."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "📚 Authoritative Sources"
+      },
+      {
+        "type": "bullet_list",
+        "items": [
+          "Ministry of Social Justice and Empowerment, SEED Portal & Launch Notification (seed.dosje.gov.in)",
+          "PIB Delhi, \"Union Minister Launches SEED Scheme for Welfare of DNT Communities\" (16-Feb-2022)"
+        ]
+      }
+    ],
+    "metadata": {
+      "exam": [
+        "Bank PO",
+        "RBI Grade B",
+        "SBI PO"
+      ],
+      "tags": [
+        "schemes",
+        "Health, Social Justice & Education"
+      ],
+      "category": "Schemes",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-15T12:14:02.104Z",
+      "provenance": {
+        "sourceSystem": "Schemes",
+        "sourceFile": "ca_app/updated_schemes_data.js",
+        "sourceId": "scheme-111",
+        "sourceTitle": "SEED Scheme (Scheme for Economic Empowerment of DNT):",
+        "sourceChecksum": "89a565d1129b3165134fbeea5fdff6b411a2e5e89fc0655276476df8dd325df9",
+        "migrationTimestamp": "2026-08-15T12:14:02.104Z",
+        "normalizationRuleVersion": "1.0.0-phase4-corrected"
+      },
+      "repairedVersion": "r4.c5-pilot",
+      "repairedTimestamp": "2026-08-18T13:11:12.071Z",
+      "requiresHumanReview": true
+    }
+  },
+  "detectedProblems": [
+    "Original note was a brief bulleted summary lacking launch date (Feb 2022), outlay (₹200 Cr), and Nodal Board (DWBDNC)."
+  ],
+  "addedFacts": [
+    "Launch Date: 16 February 2022",
+    "Outlay: ₹200 Crore (2021-22 to 2025-26)",
+    "Nodal Board: DWBDNC under MoSJE",
+    "Specific integration with PM-JAY (₹5L health cover) and PMAY"
+  ],
+  "removedContent": [],
+  "sources": [
+    "Ministry of Social Justice and Empowerment, SEED Portal & Launch Notification (seed.dosje.gov.in)",
+    "PIB Delhi, \"Union Minister Launches SEED Scheme for Welfare of DNT Communities\" (16-Feb-2022)"
+  ],
+  "confidence": "high",
+  "requiresHumanReview": true,
+  "status": "pending_review"
+}

@@ -1,0 +1,43 @@
+{
+  "schemeId": "migrated-schemes-scheme-112",
+  "schemeTitle": "National Action Plan for Drug Demand Reduction (NAPDDR) & Nasha Mukt Bharat Abhiyaan",
+  "claims": [
+    {
+      "claim": "Nasha Mukt Bharat Abhiyaan (NMBA) was launched on 15 August 2020 by Ministry of Social Justice and Empowerment under NAPDDR umbrella.",
+      "claimType": "launch",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=1949112",
+      "sourceTitle": "Nasha Mukt Bharat Abhiyaan Implementation & Extension",
+      "sourcePublisher": "Press Information Bureau (PIB Delhi), Ministry of Social Justice & Empowerment",
+      "sourceDate": "2023-08-15",
+      "evidenceQuote": "Nasha Mukt Bharat Abhiyaan (NMBA) was launched on 15th August, 2020 by the Ministry of Social Justice and Empowerment as a flagship campaign under NAPDDR.",
+      "verificationStatus": "confirmed",
+      "notes": "Launch date of NMBA confirmed."
+    },
+    {
+      "claim": "Initially covered 272 vulnerable districts; expanded nationwide to cover all 372+ districts on 15 August 2023.",
+      "claimType": "benefit",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=1949112",
+      "sourceTitle": "NMBA District Expansion",
+      "sourcePublisher": "Press Information Bureau (PIB Delhi)",
+      "sourceDate": "2023-08-15",
+      "evidenceQuote": "NMBA was initially launched in 272 vulnerable districts and has now been extended to cover all districts across the country from 15th August 2023.",
+      "verificationStatus": "confirmed",
+      "notes": "272 -> All districts expansion confirmed."
+    },
+    {
+      "claim": "Provides 100% Central assistance to State Governments/UTs and NGOs for running Integrated Rehabilitation Centres for Addicts (IRCAs) and operates National Helpline 14446.",
+      "claimType": "benefit",
+      "sourceUrl": "https://nmba.dosje.gov.in",
+      "sourceTitle": "NAPDDR & NMBA Official Portal Guidelines",
+      "sourcePublisher": "National Institute of Social Defence / MoSJE",
+      "sourceDate": "2024-01-10",
+      "evidenceQuote": "Under NAPDDR, financial assistance is provided for running Integrated Rehabilitation Centres for Addicts (IRCAs), Community based Peer Led Intervention, Outreach and Drop In Centres, and National Toll-Free Helpline 14446.",
+      "verificationStatus": "confirmed",
+      "notes": "100% assistance, IRCAs, and Helpline 14446 confirmed."
+    }
+  ],
+  "statusPeriod": "CURRENT",
+  "crossSchemeRelationship": "NAPDDR is the umbrella centrally sponsored action plan under which NMBA operates as the mass community campaign.",
+  "examTrapVerified": "Confirmed: NMBA launched on 15 Aug 2020; helpline is 14446; expanded from 272 to all districts.",
+  "requiresHumanReview": true
+}

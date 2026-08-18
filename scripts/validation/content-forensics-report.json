@@ -1,0 +1,1264 @@
+{
+  "truncatedSentences": [],
+  "emptyOrMalformedBlocks": [],
+  "duplicateHeadingsOrBlocks": [],
+  "suspiciouslyShortNotes": [
+    {
+      "id": "migrated-ca-2026-01-sec6-2",
+      "domain": "current-affairs",
+      "title": "India AI Impact Summit 2026 to be Held in New Delhi",
+      "totalLength": 108,
+      "sample": "Ministry of Electronics & IT announced **India AI Impact Summit 2026** for 15–20 February 2026 in Ne"
+    },
+    {
+      "id": "migrated-ca-2026-02-sec6-2",
+      "domain": "current-affairs",
+      "title": "India & Sri Lanka Co-Host 10th ICC Men's T20 World Cup 2026",
+      "totalLength": 109,
+      "sample": "India and Sri Lanka co-host the **10th ICC Men's T20 World Cup 2026** (20 teams, 55 matches across 8"
+    },
+    {
+      "id": "migrated-ca-2026-03-sec2-2",
+      "domain": "current-affairs",
+      "title": "RBI & Bank of Japan Renew $75 Billion Bilateral Swap Arrangement (BSA)",
+      "totalLength": 111,
+      "sample": "RBI and Bank of Japan renewed the **$75 billion Bilateral Swap Arrangement (BSA)** effective Februar"
+    },
+    {
+      "id": "migrated-ca-note-sec4-77",
+      "domain": "current-affairs",
+      "title": "25 Years of Himalayan Chandra Telescope (HCT) in Hanle, Ladakh",
+      "totalLength": 111,
+      "sample": "2-metre HCT at Hanle, Ladakh completed 25 years of scientific operations (operated by IIA Bengaluru "
+    },
+    {
+      "id": "migrated-pyqs-qsec8-1",
+      "domain": "pyqs",
+      "title": "8.1 Mensuration PYQs",
+      "totalLength": 87,
+      "sample": "Q1 (SBI PO Mains 2025). A cuboid has TSA... Q2 (SBI PO Mains 2022). A cylindrical ve..."
+    },
+    {
+      "id": "migrated-pyqs-qsec8-2",
+      "domain": "pyqs",
+      "title": "8.2 Arithmetic PYQs",
+      "totalLength": 43,
+      "sample": "Q1 (SBI PO Mains 2025). A completes work..."
+    },
+    {
+      "id": "migrated-pyqs-qsec8-3",
+      "domain": "pyqs",
+      "title": "8.3 Data Interpretation & Algebra PYQs",
+      "totalLength": 87,
+      "sample": "Q1 (SBI PO Mains 2022). Equation 1: a²−7... Q2 (SBI PO Mains 2022). Wrong-number ser..."
+    },
+    {
+      "id": "migrated-quant-qsec4-3",
+      "domain": "quant",
+      "title": "4.3 Worked Examples",
+      "totalLength": 87,
+      "sample": "Quadratic comparison (x vs y). I. x²−7x+... a+1/a identity chain. a+1/a=5, find a³+1..."
+    },
+    {
+      "id": "migrated-quant-qsec5-3",
+      "domain": "quant",
+      "title": "5.3 Worked Examples",
+      "totalLength": 87,
+      "sample": "Second-level difference series. 3, 4, 8,... Wrong number in series. 5, 10, 20, 41, 8..."
+    },
+    {
+      "id": "migrated-quant-qsec6-3",
+      "domain": "quant",
+      "title": "6.3 Worked Examples",
+      "totalLength": 87,
+      "sample": "Quantity-based: find the number. Is x kn... Comparison-based: is x>y? I. x=y+5. II. ..."
+    },
+    {
+      "id": "migrated-quant-qsec7-3",
+      "domain": "quant",
+      "title": "7.3 Worked Examples",
+      "totalLength": 87,
+      "sample": "Word arrangement with repeated letters. ... Independent events — at least one succes..."
+    },
+    {
+      "id": "migrated-schemes-scheme-1",
+      "domain": "schemes",
+      "title": "Credit guarantee scheme:",
+      "totalLength": 97,
+      "sample": "Credit guarantee scheme: AGRICULTURAL, RENEWABLE ENERGY AND WATER RESOURCES SCHEMES Page No. 9-17"
+    },
+    {
+      "id": "migrated-schemes-scheme-105",
+      "domain": "schemes",
+      "title": "Higher Education (Beyond Class 12):",
+      "totalLength": 72,
+      "sample": "o Rs. 2 lakh/year + Rs. 86,000 allowance. o Family income < Rs. 8 lakhs."
+    },
+    {
+      "id": "migrated-schemes-scheme-106",
+      "domain": "schemes",
+      "title": "Merit Improvement (Class 9-12):",
+      "totalLength": 75,
+      "sample": "o Rs. 25,000/year. o Family income < Rs. 3 lakhs. o Available in 19 states."
+    },
+    {
+      "id": "migrated-schemes-scheme-13",
+      "domain": "schemes",
+      "title": "Launch & Approval:",
+      "totalLength": 65,
+      "sample": " Launch Date: 15 February 2024  Approval Date: 29 February 2024"
+    },
+    {
+      "id": "migrated-schemes-scheme-14",
+      "domain": "schemes",
+      "title": "Key Objectives:",
+      "totalLength": 61,
+      "sample": " Provide 300 units/month of electricity to 1 crore consumers"
+    },
+    {
+      "id": "migrated-schemes-scheme-164",
+      "domain": "schemes",
+      "title": "Infrastructure: Roads, housing, electricity, telecom.",
+      "totalLength": 93,
+      "sample": "-- 45 of 47 -- 46\tONE STOP SOLUTION FOR IAS, RAS, SI Youtube \tTelegram Indian Economy \tScheme"
+    },
+    {
+      "id": "migrated-schemes-scheme-2",
+      "domain": "schemes",
+      "title": "Atal Pension Yojana (APY):",
+      "totalLength": 118,
+      "sample": "Atal Pension Yojana (APY): -- 1 of 47 -- 2\tONE STOP SOLUTION FOR IAS, RAS, SI Youtube \tTelegram Indi"
+    },
+    {
+      "id": "migrated-schemes-scheme-27",
+      "domain": "schemes",
+      "title": "Infrastructure Development:",
+      "totalLength": 103,
+      "sample": "o Pucca houses, clean water, electricity, roads, mobile connectivity, and health/ education faciliti"
+    },
+    {
+      "id": "migrated-schemes-scheme-28",
+      "domain": "schemes",
+      "title": "Economic Empowerment:",
+      "totalLength": 65,
+      "sample": "o Skill training, marketing support, and agricultural assistance."
+    },
+    {
+      "id": "migrated-schemes-scheme-29",
+      "domain": "schemes",
+      "title": "Education:",
+      "totalLength": 54,
+      "sample": "o Higher enrollment, tribal hostels, and scholarships."
+    },
+    {
+      "id": "migrated-schemes-scheme-3",
+      "domain": "schemes",
+      "title": "Pradhan Mantri Suraksha Bima Yojana (PMSBY):",
+      "totalLength": 67,
+      "sample": "Content preserved for Pradhan Mantri Suraksha Bima Yojana (PMSBY):."
+    },
+    {
+      "id": "migrated-schemes-scheme-4",
+      "domain": "schemes",
+      "title": "PAiSA Portal:",
+      "totalLength": 72,
+      "sample": "PAiSA Portal: MINISTRY OF SOCIAL JUSTICE AND EMPOWERMENT \tPage No. 29-32"
+    },
+    {
+      "id": "migrated-schemes-scheme-6",
+      "domain": "schemes",
+      "title": "Sickle Cell Anemia Eradication Mission (Budget 2023-24):",
+      "totalLength": 113,
+      "sample": "Sickle Cell Anemia Eradication Mission (Budget 2023-24): EMPLOYMENT AND SKILL DEVELOPMENT SCHEMES \tP"
+    },
+    {
+      "id": "migrated-schemes-scheme-73",
+      "domain": "schemes",
+      "title": "Infrastructure: Integrated facilities for manufacturing, logistics, housing, and sustainability.",
+      "totalLength": 119,
+      "sample": "-- 21 of 47 -- 22\tONE STOP SOLUTION FOR IAS, RAS, SI Youtube \tTelegram Indian Economy \tScheme RURAL "
+    },
+    {
+      "id": "migrated-schemes-scheme-89",
+      "domain": "schemes",
+      "title": "Swachh Bharat Mission (Urban):",
+      "totalLength": 98,
+      "sample": "Launched on 2nd October 2014 by the Ministry of Housing and Urban Affairs, the mission focuses on:"
+    }
+  ],
+  "migrationArtifacts": [
+    {
+      "id": "migrated-schemes-scheme-1",
+      "domain": "schemes",
+      "title": "Credit guarantee scheme:",
+      "artifact": "Page No. 9-17"
+    },
+    {
+      "id": "migrated-schemes-scheme-4",
+      "domain": "schemes",
+      "title": "PAiSA Portal:",
+      "artifact": "MINISTRY OF SOCIAL JUSTICE AND EMPOWERMENT \tPage No. 29-32"
+    },
+    {
+      "id": "migrated-schemes-scheme-5",
+      "domain": "schemes",
+      "title": "Pradhan Mantri Vaya Vandana Yojana (PMVVY):",
+      "artifact": "WELFARE SCHEMES \tPage No. 33-38"
+    },
+    {
+      "id": "migrated-schemes-scheme-6",
+      "domain": "schemes",
+      "title": "Sickle Cell Anemia Eradication Mission (Budget 2023-24):",
+      "artifact": "EMPLOYMENT AND SKILL DEVELOPMENT SCHEMES \tPage No. 39-41"
+    }
+  ],
+  "metadataAnomalies": [],
+  "schemeForensics": {
+    "totalStubs": 171,
+    "pageNumberArtifacts": [
+      {
+        "id": "migrated-schemes-scheme-1",
+        "title": "Credit guarantee scheme:",
+        "length": 97
+      },
+      {
+        "id": "migrated-schemes-scheme-4",
+        "title": "PAiSA Portal:",
+        "length": 72
+      },
+      {
+        "id": "migrated-schemes-scheme-5",
+        "title": "Pradhan Mantri Vaya Vandana Yojana (PMVVY):",
+        "length": 225
+      },
+      {
+        "id": "migrated-schemes-scheme-6",
+        "title": "Sickle Cell Anemia Eradication Mission (Budget 2023-24):",
+        "length": 113
+      }
+    ],
+    "nearEmptyStubs": [
+      {
+        "id": "migrated-schemes-scheme-1",
+        "title": "Credit guarantee scheme:",
+        "length": 97
+      },
+      {
+        "id": "migrated-schemes-scheme-104",
+        "title": "Post Matric:",
+        "length": 128
+      },
+      {
+        "id": "migrated-schemes-scheme-105",
+        "title": "Higher Education (Beyond Class 12):",
+        "length": 72
+      },
+      {
+        "id": "migrated-schemes-scheme-106",
+        "title": "Merit Improvement (Class 9-12):",
+        "length": 75
+      },
+      {
+        "id": "migrated-schemes-scheme-12",
+        "title": "Solarization of Centers & Street Lights: 1,500 centers, ₹1 Lakh each",
+        "length": 121
+      },
+      {
+        "id": "migrated-schemes-scheme-120",
+        "title": "Nationwide",
+        "length": 124
+      },
+      {
+        "id": "migrated-schemes-scheme-13",
+        "title": "Launch & Approval:",
+        "length": 65
+      },
+      {
+        "id": "migrated-schemes-scheme-14",
+        "title": "Key Objectives:",
+        "length": 61
+      },
+      {
+        "id": "migrated-schemes-scheme-151",
+        "title": "PM Gati Shakti Yojana (National Master Plan for Multi-Modal Connectivity):",
+        "length": 138
+      },
+      {
+        "id": "migrated-schemes-scheme-152",
+        "title": "Shree Anna Yojana:",
+        "length": 132
+      },
+      {
+        "id": "migrated-schemes-scheme-164",
+        "title": "Infrastructure: Roads, housing, electricity, telecom.",
+        "length": 93
+      },
+      {
+        "id": "migrated-schemes-scheme-17",
+        "title": "Special Focus:",
+        "length": 124
+      },
+      {
+        "id": "migrated-schemes-scheme-171",
+        "title": "PMUY II (2021, Mahoba, UP)",
+        "length": 137
+      },
+      {
+        "id": "migrated-schemes-scheme-2",
+        "title": "Atal Pension Yojana (APY):",
+        "length": 118
+      },
+      {
+        "id": "migrated-schemes-scheme-27",
+        "title": "Infrastructure Development:",
+        "length": 103
+      },
+      {
+        "id": "migrated-schemes-scheme-28",
+        "title": "Economic Empowerment:",
+        "length": 65
+      },
+      {
+        "id": "migrated-schemes-scheme-29",
+        "title": "Education:",
+        "length": 54
+      },
+      {
+        "id": "migrated-schemes-scheme-3",
+        "title": "Pradhan Mantri Suraksha Bima Yojana (PMSBY):",
+        "length": 67
+      },
+      {
+        "id": "migrated-schemes-scheme-4",
+        "title": "PAiSA Portal:",
+        "length": 72
+      },
+      {
+        "id": "migrated-schemes-scheme-55",
+        "title": "Pradhan Mantri Sahaj Bijli Har Ghar Yojana – Saubhagya (2017):",
+        "length": 137
+      },
+      {
+        "id": "migrated-schemes-scheme-6",
+        "title": "Sickle Cell Anemia Eradication Mission (Budget 2023-24):",
+        "length": 113
+      },
+      {
+        "id": "migrated-schemes-scheme-69",
+        "title": "FAME India Scheme:",
+        "length": 145
+      },
+      {
+        "id": "migrated-schemes-scheme-7",
+        "title": "PMUY II (2021, Mahoba, UP)",
+        "length": 123
+      },
+      {
+        "id": "migrated-schemes-scheme-73",
+        "title": "Infrastructure: Integrated facilities for manufacturing, logistics, housing, and sustainability.",
+        "length": 119
+      },
+      {
+        "id": "migrated-schemes-scheme-83",
+        "title": "Promote community participation and awareness.",
+        "length": 143
+      },
+      {
+        "id": "migrated-schemes-scheme-89",
+        "title": "Swachh Bharat Mission (Urban):",
+        "length": 98
+      },
+      {
+        "id": "migrated-schemes-scheme-92",
+        "title": "Jal Jeevan Mission (Urban):",
+        "length": 130
+      }
+    ],
+    "masterfileMatched": [
+      {
+        "id": "migrated-schemes-scheme-109",
+        "title": "Dr. Ambedkar Central Sector Scheme of Interest Subvention on Overseas Educational Loans for OBCs and EBCs",
+        "matchedTokens": [
+          "central",
+          "sector",
+          "for",
+          "and"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-11",
+        "title": "Solar Power Scheme for PVTGs (under PM-JANMAN)",
+        "matchedTokens": [
+          "for"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-110",
+        "title": "National Fellowship for OBC Students (NF-OBC)",
+        "matchedTokens": [
+          "for"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-112",
+        "title": "National Action Plan for Drug Demand Reduction (NAPDDR) & Nasha Mukt Bharat Abhiyaan",
+        "matchedTokens": [
+          "for"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-114",
+        "title": "Pradhan Mantri Jan Vikas Karyakram (PMJVK):",
+        "matchedTokens": [
+          "jan"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-123",
+        "title": "Rs. 2000 for birth registration",
+        "matchedTokens": [
+          "for"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-126",
+        "title": "NIPUN Bharat Scheme:",
+        "matchedTokens": [
+          "bharat"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-128",
+        "title": "PM-WANI (Prime Minister's Wi-Fi Access Interface):",
+        "matchedTokens": [
+          "wani"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-135",
+        "title": "Ayushman Bharat Scheme (Launched: 28 September 2018):",
+        "matchedTokens": [
+          "ayushman",
+          "bharat"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-136",
+        "title": "National Health Mission (NHM) – Key Highlights:",
+        "matchedTokens": [
+          "health"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-137",
+        "title": "Prime Minister's PVTG Development Mission:",
+        "matchedTokens": [
+          "development"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-138",
+        "title": "Ayushman Bharat Digital Health Mission (ABDM):",
+        "matchedTokens": [
+          "ayushman",
+          "bharat",
+          "digital",
+          "health"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-139",
+        "title": "Ayushman Bharat Health Infrastructure Mission (ABHIM):",
+        "matchedTokens": [
+          "ayushman",
+          "bharat",
+          "health"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-14",
+        "title": "Key Objectives:",
+        "matchedTokens": [
+          "key"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-145",
+        "title": "Aatmanirbhar Bharat Rojgar Yojana (ABRY):",
+        "matchedTokens": [
+          "bharat"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-146",
+        "title": "Aatmanirbhar Bharat Rojgar Yojana (ABRY):",
+        "matchedTokens": [
+          "bharat"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-153",
+        "title": "BHARAT SHRI Scheme :",
+        "matchedTokens": [
+          "bharat"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-155",
+        "title": "SVAMITVA Scheme:",
+        "matchedTokens": [
+          "svamitva"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-158",
+        "title": "Energy: 24% (Power Generation, Renewable Energy)",
+        "matchedTokens": [
+          "energy"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-16",
+        "title": "Subsidy Structure for Solar Plant Installation:",
+        "matchedTokens": [
+          "for"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-18",
+        "title": "PM-SURAJ Portal:",
+        "matchedTokens": [
+          "portal"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-2",
+        "title": "Atal Pension Yojana (APY):",
+        "matchedTokens": [
+          "pension"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-25",
+        "title": "Unified Pension Scheme (UPS) :",
+        "matchedTokens": [
+          "pension"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-27",
+        "title": "Infrastructure Development:",
+        "matchedTokens": [
+          "development"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-30",
+        "title": "Health & Nutrition:",
+        "matchedTokens": [
+          "health"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-34",
+        "title": "Employment Linked Incentive Scheme",
+        "matchedTokens": [
+          "employment"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-39",
+        "title": "Kisan Credit Card (KCC):",
+        "matchedTokens": [
+          "card"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-4",
+        "title": "PAiSA Portal:",
+        "matchedTokens": [
+          "portal"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-41",
+        "title": "The Soil Health Card Scheme (SHC):",
+        "matchedTokens": [
+          "the",
+          "soil",
+          "health",
+          "card"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-43",
+        "title": "Subsidy Scheme for KCC Cardholders:",
+        "matchedTokens": [
+          "for",
+          "kcc"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-44",
+        "title": "National Agriculture Market (e-NAM) :",
+        "matchedTokens": [
+          "agriculture"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-46",
+        "title": "The PM PRANAM Scheme (Promotion of Alternate Nutrients for Agriculture",
+        "matchedTokens": [
+          "the"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-48",
+        "title": "Agriculture Infrastructure Fund (AIF):",
+        "matchedTokens": [
+          "agriculture"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-53",
+        "title": "The Green Hydrogen Mission:",
+        "matchedTokens": [
+          "the"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-56",
+        "title": "Remote Areas: Free or subsidized solar connections for unelectrified households in remote",
+        "matchedTokens": [
+          "areas"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-57",
+        "title": "Pradhan Mantri Jan Dhan Yojana (PMJDY):",
+        "matchedTokens": [
+          "jan",
+          "dhan"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-59",
+        "title": "Atal Pension Yojana (APY):",
+        "matchedTokens": [
+          "pension"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-61",
+        "title": "Stand-Up India Scheme: ey Facts",
+        "matchedTokens": [
+          "stand",
+          "india"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-64",
+        "title": "MSME Portal:",
+        "matchedTokens": [
+          "portal"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-65",
+        "title": "Startup India Initiative:",
+        "matchedTokens": [
+          "india"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-66",
+        "title": "Make in India:",
+        "matchedTokens": [
+          "india"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-69",
+        "title": "FAME India Scheme:",
+        "matchedTokens": [
+          "india"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-76",
+        "title": "The Shyama Prasad Mukherjee Rurban Mission (SPMRM):",
+        "matchedTokens": [
+          "the"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-77",
+        "title": "The Deendayal Antyodaya Yojana - National Rural Livelihoods Mission (DAY-NRLM):",
+        "matchedTokens": [
+          "the",
+          "rural"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-78",
+        "title": "Formation of SHGs for collective action.",
+        "matchedTokens": [
+          "for"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-79",
+        "title": "The Sansad Adarsh Gram Yojana (SAGY):",
+        "matchedTokens": [
+          "the"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-80",
+        "title": "Lakhpati Didi Scheme:",
+        "matchedTokens": [
+          "lakhpati",
+          "didi"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-82",
+        "title": "Swachh Bharat Mission (Rural) - \"Ek Kadam Swachta Ki Aur\":",
+        "matchedTokens": [
+          "swachh",
+          "bharat"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-83",
+        "title": "Promote community participation and awareness.",
+        "matchedTokens": [
+          "and"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-84",
+        "title": "HRIDAY Scheme (Heritage City Development and Augmentation Yojana):",
+        "matchedTokens": [
+          "hriday"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-85",
+        "title": "AMRUT Mission (Atal Mission for Rejuvenation and Urban Transformation):",
+        "matchedTokens": [
+          "amrut"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-86",
+        "title": "SVANidhi se Samriddhi:",
+        "matchedTokens": [
+          "svanidhi"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-88",
+        "title": "Smart City Mission:",
+        "matchedTokens": [
+          "smart"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-89",
+        "title": "Swachh Bharat Mission (Urban):",
+        "matchedTokens": [
+          "swachh",
+          "bharat"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-9",
+        "title": "Digital Agriculture Mission:",
+        "matchedTokens": [
+          "digital",
+          "agriculture"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-90",
+        "title": "Improving waste management.",
+        "matchedTokens": [
+          "management"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-93",
+        "title": "Enable digital monitoring of water quality.",
+        "matchedTokens": [
+          "digital"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-95",
+        "title": "Expansion of Cities (sustainable urban growth)",
+        "matchedTokens": [
+          "cities"
+        ]
+      },
+      {
+        "id": "migrated-schemes-scheme-98",
+        "title": "PAiSA Portal:",
+        "matchedTokens": [
+          "portal"
+        ]
+      }
+    ],
+    "masterfileUnmatched": [
+      {
+        "id": "migrated-schemes-scheme-1",
+        "title": "Credit guarantee scheme:"
+      },
+      {
+        "id": "migrated-schemes-scheme-10",
+        "title": "Krishi-Decision Support System (Krishi-DSS / ADSS)"
+      },
+      {
+        "id": "migrated-schemes-scheme-100",
+        "title": "SHREYAS Scheme (Scholarships for Higher Education for Young Achievers Scheme)"
+      },
+      {
+        "id": "migrated-schemes-scheme-101",
+        "title": "PM-DAKSH Yojana (Pradhan Mantri Dakshta Aur Kushalta Sampann Hitgrahi"
+      },
+      {
+        "id": "migrated-schemes-scheme-102",
+        "title": "PM YASASVI (PM Young Achievers Scholarship Award Scheme for Vibrant India)"
+      },
+      {
+        "id": "migrated-schemes-scheme-103",
+        "title": "Pre Matric (Class 9-10):"
+      },
+      {
+        "id": "migrated-schemes-scheme-104",
+        "title": "Post Matric:"
+      },
+      {
+        "id": "migrated-schemes-scheme-105",
+        "title": "Higher Education (Beyond Class 12):"
+      },
+      {
+        "id": "migrated-schemes-scheme-106",
+        "title": "Merit Improvement (Class 9-12):"
+      },
+      {
+        "id": "migrated-schemes-scheme-107",
+        "title": "National Overseas Scholarship (NOS) for SC, DNT, and Landless Labourers"
+      },
+      {
+        "id": "migrated-schemes-scheme-108",
+        "title": "SMILE Scheme (Support for Marginalised Individuals for Livelihood and Enterprise)"
+      },
+      {
+        "id": "migrated-schemes-scheme-111",
+        "title": "SEED Scheme (Scheme for Economic Empowerment of DNT/NT/SNT Communities)"
+      },
+      {
+        "id": "migrated-schemes-scheme-113",
+        "title": "Atal Vayo Abhyudaya Yojana (AVYAY):"
+      },
+      {
+        "id": "migrated-schemes-scheme-115",
+        "title": "Vanbandhu Kalyan Yojana (VKY):"
+      },
+      {
+        "id": "migrated-schemes-scheme-116",
+        "title": "PM-JANMAN Abhiyan (Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan):"
+      },
+      {
+        "id": "migrated-schemes-scheme-117",
+        "title": "NPS Vatsalya Scheme (Budget 2024-25):"
+      },
+      {
+        "id": "migrated-schemes-scheme-118",
+        "title": "Pradhan Mantri Vaya Vandana Yojana (PMVVY):"
+      },
+      {
+        "id": "migrated-schemes-scheme-119",
+        "title": "Beti Bachao Beti Padhao:"
+      },
+      {
+        "id": "migrated-schemes-scheme-12",
+        "title": "Solarization of Centers & Street Lights: 1,500 centers, ₹1 Lakh each"
+      },
+      {
+        "id": "migrated-schemes-scheme-120",
+        "title": "Nationwide"
+      },
+      {
+        "id": "migrated-schemes-scheme-121",
+        "title": "Sukanya Samriddhi Yojana (SSY):"
+      },
+      {
+        "id": "migrated-schemes-scheme-122",
+        "title": "Pradhan Mantri Matru Vandana Yojana (PMMVY):"
+      },
+      {
+        "id": "migrated-schemes-scheme-124",
+        "title": "PM SHRI Schools (Prime Minister Schools for Rising India):"
+      },
+      {
+        "id": "migrated-schemes-scheme-125",
+        "title": "Pradhan Mantri Poshan Shakti Nirman Yojana (PM POSHAN Scheme):"
+      },
+      {
+        "id": "migrated-schemes-scheme-127",
+        "title": "STARS Scheme: Strengthening Teaching-Learning and Results for States:"
+      },
+      {
+        "id": "migrated-schemes-scheme-129",
+        "title": "Janani Suraksha Yojnna:"
+      },
+      {
+        "id": "migrated-schemes-scheme-13",
+        "title": "Launch & Approval:"
+      },
+      {
+        "id": "migrated-schemes-scheme-130",
+        "title": "National Nutrition Mission (Poshan Abhiyaan):"
+      },
+      {
+        "id": "migrated-schemes-scheme-131",
+        "title": "Mission Shakti (2021-2026):"
+      },
+      {
+        "id": "migrated-schemes-scheme-132",
+        "title": "Samarthya (Support for women’s well-being):"
+      },
+      {
+        "id": "migrated-schemes-scheme-133",
+        "title": "Sambal (Safety and justice for women):"
+      },
+      {
+        "id": "migrated-schemes-scheme-134",
+        "title": "Suposhit Maa Abhiyan:"
+      },
+      {
+        "id": "migrated-schemes-scheme-140",
+        "title": "Sickle Cell Anemia Eradication Mission (Budget 2023-24):"
+      },
+      {
+        "id": "migrated-schemes-scheme-141",
+        "title": "PM Kaushal Vikas Yojana:"
+      },
+      {
+        "id": "migrated-schemes-scheme-142",
+        "title": "PM Vishwakarma Kaushal Samman Yojana (PMVKSY):"
+      },
+      {
+        "id": "migrated-schemes-scheme-143",
+        "title": "Antyodaya Shramik Suraksha Yojana:"
+      },
+      {
+        "id": "migrated-schemes-scheme-144",
+        "title": "Pradhan Mantri Matsya Kisan Samridhi Sah-Yojana (PM-MKSSY):"
+      },
+      {
+        "id": "migrated-schemes-scheme-147",
+        "title": "Pradhan Mantri Shram Yogi Mandhan Yojana (PM-SYMY):"
+      },
+      {
+        "id": "migrated-schemes-scheme-148",
+        "title": "Project Bharatmala :"
+      },
+      {
+        "id": "migrated-schemes-scheme-149",
+        "title": "Project Sagarmala (2016–2025):"
+      },
+      {
+        "id": "migrated-schemes-scheme-15",
+        "title": "Financials:"
+      },
+      {
+        "id": "migrated-schemes-scheme-150",
+        "title": "Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY):"
+      },
+      {
+        "id": "migrated-schemes-scheme-151",
+        "title": "PM Gati Shakti Yojana (National Master Plan for Multi-Modal Connectivity):"
+      },
+      {
+        "id": "migrated-schemes-scheme-152",
+        "title": "Shree Anna Yojana:"
+      },
+      {
+        "id": "migrated-schemes-scheme-154",
+        "title": "MISHTI Scheme:"
+      },
+      {
+        "id": "migrated-schemes-scheme-156",
+        "title": "Legal Ownership: Property cards to enable financial empowerment and dispute resolution."
+      },
+      {
+        "id": "migrated-schemes-scheme-157",
+        "title": "National Infrastructure Pipeline (NIP):"
+      },
+      {
+        "id": "migrated-schemes-scheme-159",
+        "title": "National Monetization Pipeline (NMP):"
+      },
+      {
+        "id": "migrated-schemes-scheme-160",
+        "title": "Electricity (15%)"
+      },
+      {
+        "id": "migrated-schemes-scheme-161",
+        "title": "Rashtriya Gram Swaraj Abhiyan (RGSA):"
+      },
+      {
+        "id": "migrated-schemes-scheme-162",
+        "title": "Mission Karmayogi:"
+      },
+      {
+        "id": "migrated-schemes-scheme-163",
+        "title": "Vibrant Village Program (VVP):"
+      },
+      {
+        "id": "migrated-schemes-scheme-164",
+        "title": "Infrastructure: Roads, housing, electricity, telecom."
+      },
+      {
+        "id": "migrated-schemes-scheme-165",
+        "title": "Economic Growth: Tourism, skill development, cultural promotion."
+      },
+      {
+        "id": "migrated-schemes-scheme-166",
+        "title": "ADITI Scheme (2023-26):"
+      },
+      {
+        "id": "migrated-schemes-scheme-167",
+        "title": "PM-DevINE Scheme:"
+      },
+      {
+        "id": "migrated-schemes-scheme-168",
+        "title": "PM E-Bus Scheme:"
+      },
+      {
+        "id": "migrated-schemes-scheme-169",
+        "title": "PM - E-DRIVE Scheme:"
+      },
+      {
+        "id": "migrated-schemes-scheme-17",
+        "title": "Special Focus:"
+      },
+      {
+        "id": "migrated-schemes-scheme-170",
+        "title": "Pradhan Mantri Ujjwala Yojana (PMUY) :"
+      },
+      {
+        "id": "migrated-schemes-scheme-171",
+        "title": "PMUY II (2021, Mahoba, UP)"
+      },
+      {
+        "id": "migrated-schemes-scheme-19",
+        "title": "UNNATI Scheme:"
+      },
+      {
+        "id": "migrated-schemes-scheme-20",
+        "title": "Vigyan Dhara Scheme:"
+      },
+      {
+        "id": "migrated-schemes-scheme-21",
+        "title": "SPICED Scheme:"
+      },
+      {
+        "id": "migrated-schemes-scheme-22",
+        "title": "Spice Incubation Centres: Encourage spice-related startups with technical and infrastructural"
+      },
+      {
+        "id": "migrated-schemes-scheme-23",
+        "title": "RESET Program:"
+      },
+      {
+        "id": "migrated-schemes-scheme-24",
+        "title": "Deen Dayal SPARSH Yojana:"
+      },
+      {
+        "id": "migrated-schemes-scheme-26",
+        "title": "Pradhan Mantri Janjatiya Unnat Gram Abhiyan (PM-JUGA):"
+      },
+      {
+        "id": "migrated-schemes-scheme-28",
+        "title": "Economic Empowerment:"
+      },
+      {
+        "id": "migrated-schemes-scheme-29",
+        "title": "Education:"
+      },
+      {
+        "id": "migrated-schemes-scheme-3",
+        "title": "Pradhan Mantri Suraksha Bima Yojana (PMSBY):"
+      },
+      {
+        "id": "migrated-schemes-scheme-31",
+        "title": "Purvodaya:"
+      },
+      {
+        "id": "migrated-schemes-scheme-32",
+        "title": "Higher Education Loan Scheme:"
+      },
+      {
+        "id": "migrated-schemes-scheme-33",
+        "title": "Prime Minister’s Package:"
+      },
+      {
+        "id": "migrated-schemes-scheme-35",
+        "title": "Credit guarantee scheme:"
+      },
+      {
+        "id": "migrated-schemes-scheme-36",
+        "title": "Pradhan Mantri Fasal Bima Yojana (PMFBY):"
+      },
+      {
+        "id": "migrated-schemes-scheme-37",
+        "title": "Pradhan Mantri Kisan Samman Nidhi Scheme (PM-KISAN):"
+      },
+      {
+        "id": "migrated-schemes-scheme-38",
+        "title": "Pradhan Mantri Kisan SAMPADA Yojana (PMKSY):"
+      },
+      {
+        "id": "migrated-schemes-scheme-40",
+        "title": "Pradhan Mantri Kisan Maandhan Yojana (PMKMY):"
+      },
+      {
+        "id": "migrated-schemes-scheme-42",
+        "title": "Operation Green:"
+      },
+      {
+        "id": "migrated-schemes-scheme-45",
+        "title": "PM-KUSUM Scheme (Pradhan Mantri Kisan Urja Suraksha evam Utthaan"
+      },
+      {
+        "id": "migrated-schemes-scheme-47",
+        "title": "Support Sustainable Farming: Enhance soil quality, reduce pollution, and boost long-term"
+      },
+      {
+        "id": "migrated-schemes-scheme-49",
+        "title": "Nano Fertilizers: Revolutionizing Agriculture:"
+      },
+      {
+        "id": "migrated-schemes-scheme-5",
+        "title": "Pradhan Mantri Vaya Vandana Yojana (PMVVY):"
+      },
+      {
+        "id": "migrated-schemes-scheme-50",
+        "title": "Jal Jeevan Mission (JJM):"
+      },
+      {
+        "id": "migrated-schemes-scheme-51",
+        "title": "Atal Bhujal Yojana (ABY):"
+      },
+      {
+        "id": "migrated-schemes-scheme-52",
+        "title": "Mission Amrit Sarovar:"
+      },
+      {
+        "id": "migrated-schemes-scheme-54",
+        "title": "MAHIR: Mission on Advanced and High-Impact Research:"
+      },
+      {
+        "id": "migrated-schemes-scheme-55",
+        "title": "Pradhan Mantri Sahaj Bijli Har Ghar Yojana – Saubhagya (2017):"
+      },
+      {
+        "id": "migrated-schemes-scheme-58",
+        "title": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY):"
+      },
+      {
+        "id": "migrated-schemes-scheme-6",
+        "title": "Sickle Cell Anemia Eradication Mission (Budget 2023-24):"
+      },
+      {
+        "id": "migrated-schemes-scheme-60",
+        "title": "Pradhan Mantri Suraksha Bima Yojana (PMSBY):"
+      },
+      {
+        "id": "migrated-schemes-scheme-62",
+        "title": "MSME Competitive LEAN Scheme:"
+      },
+      {
+        "id": "migrated-schemes-scheme-63",
+        "title": "RAMP Scheme (Raising and Accelerating MSME Performance):"
+      },
+      {
+        "id": "migrated-schemes-scheme-67",
+        "title": "Production Linked Incentive (PLI) Scheme:"
+      },
+      {
+        "id": "migrated-schemes-scheme-68",
+        "title": "Unity Mall Scheme:"
+      },
+      {
+        "id": "migrated-schemes-scheme-7",
+        "title": "PMUY II (2021, Mahoba, UP)"
+      },
+      {
+        "id": "migrated-schemes-scheme-70",
+        "title": "FAME-II (2019-2024): ₹10,000 crore for EV subsidies and infrastructure."
+      },
+      {
+        "id": "migrated-schemes-scheme-71",
+        "title": "PM MITRA Park Scheme:"
+      },
+      {
+        "id": "migrated-schemes-scheme-72",
+        "title": "Parks: 7 locations in Tamil Nadu, Telangana, Karnataka, Maharashtra, Gujarat, Madhya"
+      },
+      {
+        "id": "migrated-schemes-scheme-73",
+        "title": "Infrastructure: Integrated facilities for manufacturing, logistics, housing, and sustainability."
+      },
+      {
+        "id": "migrated-schemes-scheme-74",
+        "title": "Pradhan Mantri Awas Yojana - Gramin (PMAY-G):"
+      },
+      {
+        "id": "migrated-schemes-scheme-75",
+        "title": "Pradhan Mantri Gram Sadak Yojana (PMGSY):"
+      },
+      {
+        "id": "migrated-schemes-scheme-8",
+        "title": "\"One Scientist, One Product\" Scheme by ICAR:"
+      },
+      {
+        "id": "migrated-schemes-scheme-81",
+        "title": "Women Enterprise Acceleration Fund:"
+      },
+      {
+        "id": "migrated-schemes-scheme-87",
+        "title": "BOCW (Building & Other Construction Workers)– Welfare for construction workers."
+      },
+      {
+        "id": "migrated-schemes-scheme-91",
+        "title": "NAMASTE Scheme (2022–2026):"
+      },
+      {
+        "id": "migrated-schemes-scheme-92",
+        "title": "Jal Jeevan Mission (Urban):"
+      },
+      {
+        "id": "migrated-schemes-scheme-94",
+        "title": "CITIIS 2.0 (City Investments to Innovate, Integrate, & Sustain):"
+      },
+      {
+        "id": "migrated-schemes-scheme-96",
+        "title": "Pradhan Mantri Awas Yojana (Urban):"
+      },
+      {
+        "id": "migrated-schemes-scheme-97",
+        "title": "DAY-NULM:"
+      },
+      {
+        "id": "migrated-schemes-scheme-99",
+        "title": "SHRESHTA Scheme: Empowering SC Students through Quality Education:"
+      }
+    ],
+    "structuralIssues": []
+  }
+}

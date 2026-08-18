@@ -1,5 +1,7 @@
 import React from 'react';
 import { KnowledgeItem } from '../../schema/knowledge-item';
+import { useUserStudyState } from '../intelligence/userStateStore';
+import { computeSubjectCoverage } from '../intelligence/deriveCoverage';
 
 interface Props {
   subjectId: string;
@@ -30,6 +32,8 @@ export const SubjectHubView: React.FC<Props> = ({
   onBackHome,
   onSelectItem
 }) => {
+  const { state: userStudyState, isCompleted } = useUserStudyState();
+
   const meta = SUBJECT_METADATA[subjectId] || {
     title: subjectId.toUpperCase(),
     icon: '🏛️',
@@ -66,6 +70,9 @@ export const SubjectHubView: React.FC<Props> = ({
     return i.domain === subjectId;
   });
 
+  // Calculate genuine subject coverage
+  const coverage = computeSubjectCoverage(items, subjectId, userStudyState.completedItemIds);
+
   // Current Affairs Month-First Grouping
   const isCA = subjectId === 'current-affairs';
   const caAugust = subjectItems.filter(i => i.metadata?.date?.startsWith('2026-08') || i.title.includes('August') || i.title.includes('July 2026') || !i.metadata?.date);
@@ -101,7 +108,9 @@ export const SubjectHubView: React.FC<Props> = ({
           <div className="hub-badge-row">
             <span className="hub-icon">{meta.icon}</span>
             <span className="hub-surface-badge">{meta.badge}</span>
-            <span className="hub-count-chip">{subjectItems.length} Available Modules</span>
+            <span className="hub-count-chip">
+              {coverage.completedCount} / {coverage.totalCount} Completed ({coverage.coveragePct}%)
+            </span>
           </div>
 
           <h1 className="hub-title">{meta.title} Hub</h1>
@@ -159,6 +168,11 @@ export const SubjectHubView: React.FC<Props> = ({
                                       <h3 className="hub-item-title">{item.title}</h3>
                                       {item.summary && <p className="hub-item-summary">{item.summary}</p>}
                                       <div className="hub-item-meta">
+                                        {isCompleted(item.id) && (
+                                          <span className="tag-pill bold-pill" style={{ background: '#2e7d32', color: '#ffffff', borderColor: '#2e7d32' }}>
+                                            ✓ Completed
+                                          </span>
+                                        )}
                                         <span className="tag-pill">{secName}</span>
                                         <span className="tag-pill">ID: {item.id}</span>
                                       </div>
@@ -197,6 +211,11 @@ export const SubjectHubView: React.FC<Props> = ({
                       <h3 className="hub-item-title">{item.title}</h3>
                       {item.summary && <p className="hub-item-summary">{item.summary}</p>}
                       <div className="hub-item-meta">
+                        {isCompleted(item.id) && (
+                          <span className="tag-pill bold-pill" style={{ background: '#2e7d32', color: '#ffffff', borderColor: '#2e7d32' }}>
+                            ✓ Completed
+                          </span>
+                        )}
                         {item.metadata?.date && <span className="tag-pill">📅 {item.metadata.date}</span>}
                         {item.metadata?.category && <span className="tag-pill">{item.metadata.category}</span>}
                       </div>
@@ -239,6 +258,11 @@ export const SubjectHubView: React.FC<Props> = ({
                   <h3 className="hub-item-title">{item.title}</h3>
                   {item.summary && <p className="hub-item-summary">{item.summary}</p>}
                   <div className="hub-item-meta">
+                    {isCompleted(item.id) && (
+                      <span className="tag-pill bold-pill" style={{ background: '#2e7d32', color: '#ffffff', borderColor: '#2e7d32' }}>
+                        ✓ Completed
+                      </span>
+                    )}
                     {item.metadata?.date && <span className="tag-pill">📅 {item.metadata.date}</span>}
                     {item.metadata?.category && <span className="tag-pill">{item.metadata.category}</span>}
                     <span className="tag-pill">ID: {item.id}</span>

@@ -2,6 +2,8 @@ import React, { useMemo, useState } from 'react';
 import { KnowledgeItem } from '../../schema/knowledge-item';
 import { SUBJECT_DEFS, isItemInSubject } from '../navigation/subjectMapper';
 import reportingDataJson from '../../content/reporting-center.json';
+import { useUserStudyState } from '../intelligence/userStateStore';
+import { computeSubjectCoverage } from '../intelligence/deriveCoverage';
 
 interface Props {
   items: KnowledgeItem[];
@@ -16,6 +18,7 @@ export const CommandCenterHome: React.FC<Props> = ({
   onSelectSubject,
   onSelectItem
 }) => {
+  const { state: userStudyState } = useUserStudyState();
   const [isReportingCollapsed, setIsReportingCollapsed] = useState(false);
   // Resolve last opened item for Continue Studying card
   const lastItem = lastOpenedItemId ? items.find(i => i.id === lastOpenedItemId) : null;
@@ -455,7 +458,7 @@ export const CommandCenterHome: React.FC<Props> = ({
             </div>
             <div className="domain-cards-grid">
               {coreSubjects.map(def => {
-                const count = items.filter(i => isItemInSubject(i, def.id)).length;
+                const cov = computeSubjectCoverage(items, def.id, userStudyState.completedItemIds);
                 return (
                   <div
                     key={def.id}
@@ -464,11 +467,24 @@ export const CommandCenterHome: React.FC<Props> = ({
                   >
                     <div className="domain-card-top">
                       <span className="domain-card-icon">{def.icon}</span>
-                      <span className="domain-card-count">{count} {count === 1 ? 'item' : 'items'}</span>
+                      <span className="domain-card-count">{cov.totalCount} {cov.totalCount === 1 ? 'item' : 'items'}</span>
                     </div>
                     <h3 className="domain-card-title">{def.title}</h3>
                     <p className="domain-card-desc">{def.description}</p>
                     
+                    {/* Truthful Subject Coverage Bar (Completion, not mastery) */}
+                    <div className="domain-card-mastery-box">
+                      <div className="domain-mastery-labels">
+                        <span>Topic Coverage</span>
+                        <span className="domain-mastery-percent">
+                          {cov.completedCount} / {cov.totalCount} ({cov.coveragePct}%)
+                        </span>
+                      </div>
+                      <div className="domain-mastery-track">
+                        <div className="domain-mastery-fill" style={{ width: `${cov.coveragePct}%` }} />
+                      </div>
+                    </div>
+
                     <div className="domain-card-footer">
                       <span className="domain-card-arrow">→</span>
                     </div>
@@ -485,7 +501,7 @@ export const CommandCenterHome: React.FC<Props> = ({
             </div>
             <div className="domain-cards-grid">
               {prepSubjects.map(def => {
-                const count = items.filter(i => isItemInSubject(i, def.id)).length;
+                const cov = computeSubjectCoverage(items, def.id, userStudyState.completedItemIds);
                 return (
                   <div
                     key={def.id}
@@ -494,11 +510,24 @@ export const CommandCenterHome: React.FC<Props> = ({
                   >
                     <div className="domain-card-top">
                       <span className="domain-card-icon">{def.icon}</span>
-                      <span className="domain-card-count">{count} {count === 1 ? 'item' : 'items'}</span>
+                      <span className="domain-card-count">{cov.totalCount} {cov.totalCount === 1 ? 'item' : 'items'}</span>
                     </div>
                     <h3 className="domain-card-title">{def.title}</h3>
                     <p className="domain-card-desc">{def.description}</p>
                     
+                    {/* Truthful Prep Tool Coverage Bar (Completion, not mastery) */}
+                    <div className="domain-card-mastery-box">
+                      <div className="domain-mastery-labels">
+                        <span>Module Coverage</span>
+                        <span className="domain-mastery-percent">
+                          {cov.completedCount} / {cov.totalCount} ({cov.coveragePct}%)
+                        </span>
+                      </div>
+                      <div className="domain-mastery-track">
+                        <div className="domain-mastery-fill" style={{ width: `${cov.coveragePct}%` }} />
+                      </div>
+                    </div>
+
                     <div className="domain-card-footer">
                       <span className="domain-card-arrow">→</span>
                     </div>

@@ -1,0 +1,54 @@
+{
+  "schemeId": "migrated-schemes-scheme-11",
+  "schemeTitle": "Solar Power Scheme for PVTGs (under PM-JANMAN)",
+  "claims": [
+    {
+      "claim": "Notified in January 2024 under PM-JANMAN by Ministry of New and Renewable Energy (MNRE) with ₹515 Crore outlay (2023-24 to 2025-26).",
+      "claimType": "launch",
+      "sourceUrl": "https://mnre.gov.in",
+      "sourceTitle": "Operational Guidelines for New Solar Power Scheme for PVTGs under PM-JANMAN",
+      "sourcePublisher": "Ministry of New and Renewable Energy (MNRE)",
+      "sourceDate": "2024-01-15",
+      "evidenceQuote": "MNRE notified the New Solar Power Scheme for Particularly Vulnerable Tribal Groups (PVTGs) habitations and villages under PM-JANMAN with an approved financial outlay of Rs. 515 Crore for 2023-24 to 2025-26.",
+      "verificationStatus": "confirmed",
+      "notes": "MNRE notification and ₹515 Cr outlay confirmed."
+    },
+    {
+      "claim": "Electrifies 1,00,000 un-electrified households (0.3 kW SHLS / ₹50,000 per HH) across 18 States and UT of Andaman & Nicobar.",
+      "claimType": "benefit",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=2038910",
+      "sourceTitle": "Solarization of PVTG Habitations under PM-JANMAN",
+      "sourcePublisher": "Press Information Bureau (PIB Delhi), MNRE",
+      "sourceDate": "2024-07-25",
+      "evidenceQuote": "The scheme covers 1 lakh un-electrified households in PVTG areas across 18 states and UT of Andaman & Nicobar Islands through 0.3 kW off-grid solar home lighting systems with financial assistance of Rs. 50,000 per household.",
+      "verificationStatus": "confirmed",
+      "notes": "Target count, 0.3 kW capacity, and 18 states confirmed."
+    },
+    {
+      "claim": "Solarises 1,500 Multi-Purpose Centres (MPCs) with 2.5 kW Solar PV packs (₹1.00 Lakh per centre).",
+      "claimType": "benefit",
+      "sourceUrl": "https://mnre.gov.in",
+      "sourceTitle": "Guidelines on Solar Power for PVTGs",
+      "sourcePublisher": "Ministry of New and Renewable Energy",
+      "sourceDate": "2024-01-15",
+      "evidenceQuote": "Solarisation of 1,500 Multi-Purpose Centres (MPCs) with 2.5 kW Solar PV power packs with battery storage with Central Financial Assistance of Rs. 1 Lakh per MPC.",
+      "verificationStatus": "confirmed",
+      "notes": "1,500 MPCs and 2.5 kW capacity confirmed."
+    },
+    {
+      "claim": "Includes 5 years of comprehensive free maintenance.",
+      "claimType": "benefit",
+      "sourceUrl": "https://mnre.gov.in",
+      "sourceTitle": "Guidelines on Solar Power for PVTGs",
+      "sourcePublisher": "Ministry of New and Renewable Energy",
+      "sourceDate": "2024-01-15",
+      "evidenceQuote": "System installations include 5 years of comprehensive maintenance by the implementing agencies.",
+      "verificationStatus": "confirmed",
+      "notes": "5-year warranty/maintenance confirmed."
+    }
+  ],
+  "statusPeriod": "CURRENT",
+  "crossSchemeRelationship": "The Solar Power Scheme for PVTGs is MNRE's dedicated component under the broader multi-ministry PM-JANMAN mission.",
+  "examTrapVerified": "Confirmed: Nodal ministry is MNRE; individual systems are 0.3 kW; MPC systems are 2.5 kW.",
+  "requiresHumanReview": true
+}

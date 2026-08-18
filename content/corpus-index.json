@@ -26660,8 +26660,7 @@
       "subject": "english",
       "part": "PART 1 - Writing",
       "section": "Section A - Essay Writing"
-    },
-    "relationships": []
+    }
   },
   {
     "id": "migrated-eng-ch-2",
@@ -26676,8 +26675,7 @@
       "subject": "english",
       "part": "PART 1 - Writing",
       "section": "Section A - Essay Writing"
-    },
-    "relationships": []
+    }
   },
   {
     "id": "migrated-eng-ch-3",
@@ -26692,8 +26690,7 @@
       "subject": "english",
       "part": "PART 1 - Writing",
       "section": "Section B - Letters & Formal Correspondence"
-    },
-    "relationships": []
+    }
   },
   {
     "id": "migrated-eng-ch-4",
@@ -26708,8 +26705,7 @@
       "subject": "english",
       "part": "PART 2 - Grammar",
       "section": "Section A - Core Grammar Rules"
-    },
-    "relationships": []
+    }
   },
   {
     "id": "migrated-eng-ch-5",
@@ -26724,8 +26720,7 @@
       "subject": "english",
       "part": "PART 3 - Vocab",
       "section": "Section A - Financial & Banking Vocabulary"
-    },
-    "relationships": []
+    }
   },
   {
     "id": "migrated-pyqs-qsec8-1",
@@ -27519,8 +27514,7 @@
       },
       "date": "2026-08-18",
       "category": "Master Reference"
-    },
-    "relationships": []
+    }
   },
   {
     "id": "migrated-schemes-scheme-1",
@@ -27556,8 +27550,8 @@
     "id": "migrated-schemes-scheme-10",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Agriculture Decision Support System (ADSS): Integrates remote sensing data (crop, soil,",
-    "summary": "Schemes — Agriculture Decision Support System (ADSS): Integrates remote sensing data (crop, soil,",
+    "title": "Krishi-Decision Support System (Krishi-DSS / ADSS)",
+    "summary": "Krishi-Decision Support System (Krishi-DSS / ADSS) — Comprehensive study notes covering objectives, eligibility, outlay, and exam traps.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -27579,15 +27573,25 @@
         "sourceChecksum": "0781e6f5bb80336b354413f55fffccd4c8379d5293f4cd5bee376bf1bb202258",
         "migrationTimestamp": "2026-08-15T12:14:01.064Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c9-fine-tuned",
+      "repairedTimestamp": "2026-08-18T13:35:21.431Z",
+      "promotionGate": "R4.C9-passed",
+      "promotionStatus": "approved",
+      "promotedTimestamp": "2026-08-18T13:35:21.432Z",
+      "overallTemporalStatus": "CURRENT",
+      "temporalWarning": null,
+      "temporalComponentsCount": 2,
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-100",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "SHREYAS Scheme (2021-2025):",
-    "summary": "Schemes — SHREYAS Scheme (2021-2025):",
+    "title": "SHREYAS Scheme (Scholarships for Higher Education for Young Achievers Scheme)",
+    "summary": "SHREYAS Scheme (Scholarships for Higher Education for Young Achievers Scheme) — Comprehensive study notes covering objectives, eligibility, outlay, and exam traps.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -27609,7 +27613,17 @@
         "sourceChecksum": "84eafffacfda6f3448ed1703306db90bbb44de2d7c909570406b85a06c99546d",
         "migrationTimestamp": "2026-08-15T12:14:02.104Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c9-fine-tuned",
+      "repairedTimestamp": "2026-08-18T13:35:21.433Z",
+      "promotionGate": "R4.C9-passed",
+      "promotionStatus": "approved-with-temporal-components",
+      "promotedTimestamp": "2026-08-18T13:35:21.433Z",
+      "overallTemporalStatus": "MIXED",
+      "temporalWarning": "Component Temporal Delineation: Financial allocation/cycle ended on 31 March 2026 for [15th Finance Commission Umbrella Outlay (₹4,103.55 Cr)], while operations/mission continues under [Top Class SC, Free Coaching & Fellowship Operational Portals].",
+      "temporalComponentsCount": 2,
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
@@ -27646,8 +27660,8 @@
     "id": "migrated-schemes-scheme-102",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "PM YASASVI (PM Young Achievers Scholarship Award Scheme for Vibrant India):",
-    "summary": "Schemes — PM YASASVI (PM Young Achievers Scholarship Award Scheme for Vibrant India):",
+    "title": "PM YASASVI (PM Young Achievers Scholarship Award Scheme for Vibrant India)",
+    "summary": "PM YASASVI (PM Young Achievers Scholarship Award Scheme for Vibrant India) — Comprehensive study notes covering objectives, eligibility, outlay, and exam traps.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -27669,7 +27683,17 @@
         "sourceChecksum": "cce9478eac7a11594b142739b36d1e867e443411873c95be8311201fd4b2f0a4",
         "migrationTimestamp": "2026-08-15T12:14:02.104Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c9-fine-tuned",
+      "repairedTimestamp": "2026-08-18T13:35:21.434Z",
+      "promotionGate": "R4.C9-passed",
+      "promotionStatus": "approved-with-temporal-components",
+      "promotedTimestamp": "2026-08-18T13:35:21.434Z",
+      "overallTemporalStatus": "MIXED",
+      "temporalWarning": "Component Temporal Delineation: Financial allocation/cycle ended on 31 March 2026 for [15th Finance Commission Allocation Cycle (2021-22 to 2025-26)], while operations/mission continues under [National Scholarship Portal (NSP) Operational Slabs].",
+      "temporalComponentsCount": 2,
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
@@ -27796,8 +27820,8 @@
     "id": "migrated-schemes-scheme-107",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "National Overseas Scholarship (Master's/PhD abroad):",
-    "summary": "Schemes — National Overseas Scholarship (Master's/PhD abroad):",
+    "title": "National Overseas Scholarship (NOS) for SC, DNT, and Landless Labourers",
+    "summary": "National Overseas Scholarship (NOS) for SC, DNT, and Landless Labourers — Comprehensive study notes covering objectives, eligibility, outlay, and exam traps.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -27819,15 +27843,25 @@
         "sourceChecksum": "05d9c516d4ea3b1b8bf214d64e3b504f4d21657e1f2da5ee98852beb4f5b47df",
         "migrationTimestamp": "2026-08-15T12:14:02.104Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c9-fine-tuned",
+      "repairedTimestamp": "2026-08-18T13:35:21.435Z",
+      "promotionGate": "R4.C9-passed",
+      "promotionStatus": "approved",
+      "promotedTimestamp": "2026-08-18T13:35:21.435Z",
+      "overallTemporalStatus": "CURRENT",
+      "temporalWarning": null,
+      "temporalComponentsCount": 2,
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-108",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "SMILE (Support for Marginalised Individuals for Livelihood & Enterprise):",
-    "summary": "Schemes — SMILE (Support for Marginalised Individuals for Livelihood & Enterprise):",
+    "title": "SMILE Scheme (Support for Marginalised Individuals for Livelihood and Enterprise)",
+    "summary": "SMILE Scheme (Support for Marginalised Individuals for Livelihood and Enterprise) — Comprehensive study notes covering objectives, eligibility, outlay, and exam traps.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -27849,15 +27883,25 @@
         "sourceChecksum": "1331823d52ae732156c14e4ed7e28111bb07cd06325bfd02a97f2561df926fa9",
         "migrationTimestamp": "2026-08-15T12:14:02.104Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c9-fine-tuned",
+      "repairedTimestamp": "2026-08-18T13:35:21.436Z",
+      "promotionGate": "R4.C9-passed",
+      "promotionStatus": "approved-with-temporal-components",
+      "promotedTimestamp": "2026-08-18T13:35:21.436Z",
+      "overallTemporalStatus": "MIXED",
+      "temporalWarning": "Component Temporal Delineation: Financial allocation/cycle ended on 31 March 2026 for [15th Finance Commission Financial Outlay (₹365 Cr)], while operations/mission continues under [Garima Greh Shelter Homes & PM-DAKSH Livelihood Support; SMILE-75 Municipal Begging Rehabilitation Pilot].",
+      "temporalComponentsCount": 3,
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-109",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Ambedkar Interest Subvention Scheme for Education Loans",
-    "summary": "Schemes — Ambedkar Interest Subvention Scheme for Education Loans",
+    "title": "Dr. Ambedkar Central Sector Scheme of Interest Subvention on Overseas Educational Loans for OBCs and EBCs",
+    "summary": "Dr. Ambedkar Central Sector Scheme of Interest Subvention on Overseas Educational Loans for OBCs and EBCs — Comprehensive study notes covering objectives, eligibility, outlay, and exam traps.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -27879,15 +27923,25 @@
         "sourceChecksum": "92114c78f0ed033dff196ba9ee9865f2fc81bd8c760889b72064b4ecc05ad20b",
         "migrationTimestamp": "2026-08-15T12:14:02.104Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c9-fine-tuned",
+      "repairedTimestamp": "2026-08-18T13:35:21.437Z",
+      "promotionGate": "R4.C9-passed",
+      "promotionStatus": "approved",
+      "promotedTimestamp": "2026-08-18T13:35:21.437Z",
+      "overallTemporalStatus": "CURRENT",
+      "temporalWarning": null,
+      "temporalComponentsCount": 2,
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-11",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "Solar Power Scheme for PVTGs (PM JANMAN):",
-    "summary": "Schemes — Solar Power Scheme for PVTGs (PM JANMAN):",
+    "title": "Solar Power Scheme for PVTGs (under PM-JANMAN)",
+    "summary": "Solar Power Scheme for PVTGs (under PM-JANMAN) — Comprehensive study notes covering objectives, eligibility, outlay, and exam traps.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -27909,15 +27963,25 @@
         "sourceChecksum": "ac2961a89badbfa9e9d6fe7bac48b80ba85aa8ef145205bff2eaa5eb25b27a88",
         "migrationTimestamp": "2026-08-15T12:14:01.064Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c9-fine-tuned",
+      "repairedTimestamp": "2026-08-18T13:35:21.438Z",
+      "promotionGate": "R4.C9-passed",
+      "promotionStatus": "approved-with-temporal-components",
+      "promotedTimestamp": "2026-08-18T13:35:21.438Z",
+      "overallTemporalStatus": "MIXED",
+      "temporalWarning": "Component Temporal Delineation: Financial allocation/cycle ended on 31 March 2026 for [MNRE Dedicated Financial Package (₹515 Cr)], while operations/mission continues under [PM-JANMAN Multi-Ministry Tribal Mission Implementation].",
+      "temporalComponentsCount": 2,
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-110",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "National Fellowship for OBC Students (2014-15):",
-    "summary": "Schemes — National Fellowship for OBC Students (2014-15):",
+    "title": "National Fellowship for OBC Students (NF-OBC)",
+    "summary": "National Fellowship for OBC Students (NF-OBC) — Comprehensive study notes covering objectives, eligibility, outlay, and exam traps.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -27939,15 +28003,25 @@
         "sourceChecksum": "9083d0174de55ed74571bc1bc8b34f0898185cf334a11b37b450ab16e56cfa33",
         "migrationTimestamp": "2026-08-15T12:14:02.104Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c9-fine-tuned",
+      "repairedTimestamp": "2026-08-18T13:35:21.439Z",
+      "promotionGate": "R4.C9-passed",
+      "promotionStatus": "approved",
+      "promotedTimestamp": "2026-08-18T13:35:21.439Z",
+      "overallTemporalStatus": "CURRENT",
+      "temporalWarning": null,
+      "temporalComponentsCount": 2,
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-111",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "SEED Scheme (Scheme for Economic Empowerment of DNT):",
-    "summary": "Schemes — SEED Scheme (Scheme for Economic Empowerment of DNT):",
+    "title": "SEED Scheme (Scheme for Economic Empowerment of DNT/NT/SNT Communities)",
+    "summary": "SEED Scheme (Scheme for Economic Empowerment of DNT/NT/SNT Communities) — Comprehensive study notes covering objectives, eligibility, outlay, and exam traps.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -27969,15 +28043,25 @@
         "sourceChecksum": "89a565d1129b3165134fbeea5fdff6b411a2e5e89fc0655276476df8dd325df9",
         "migrationTimestamp": "2026-08-15T12:14:02.104Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c9-fine-tuned",
+      "repairedTimestamp": "2026-08-18T13:35:21.440Z",
+      "promotionGate": "R4.C9-passed",
+      "promotionStatus": "approved-with-temporal-components",
+      "promotedTimestamp": "2026-08-18T13:35:21.440Z",
+      "overallTemporalStatus": "MIXED",
+      "temporalWarning": "Component Temporal Delineation: Financial allocation/cycle ended on 31 March 2026 for [15th Finance Commission 5-Year Outlay (₹200 Cr)], while operations/mission continues under [DWBDNC Online Portal & Four Welfare Pillars].",
+      "temporalComponentsCount": 2,
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {
     "id": "migrated-schemes-scheme-112",
     "type": "ca_note",
     "domain": "schemes",
-    "title": "National Action Plan for Drug Demand Reduction (NAPDDR) (2018–2025):",
-    "summary": "Schemes — National Action Plan for Drug Demand Reduction (NAPDDR) (2018–2025):",
+    "title": "National Action Plan for Drug Demand Reduction (NAPDDR) & Nasha Mukt Bharat Abhiyaan",
+    "summary": "National Action Plan for Drug Demand Reduction (NAPDDR) & Nasha Mukt Bharat Abhiyaan — Comprehensive study notes covering objectives, eligibility, outlay, and exam traps.",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -27999,7 +28083,17 @@
         "sourceChecksum": "4e096ebd549407a022b34a7f523187a881422122b39cfa7552bbde8b28a8224d",
         "migrationTimestamp": "2026-08-15T12:14:02.104Z",
         "normalizationRuleVersion": "1.0.0-phase4-corrected"
-      }
+      },
+      "repairedVersion": "r4.c9-fine-tuned",
+      "repairedTimestamp": "2026-08-18T13:35:21.441Z",
+      "promotionGate": "R4.C9-passed",
+      "promotionStatus": "approved-with-temporal-components",
+      "promotedTimestamp": "2026-08-18T13:35:21.441Z",
+      "overallTemporalStatus": "MIXED",
+      "temporalWarning": "Component Temporal Delineation: Financial allocation/cycle ended on 31 March 2026 for [NAPDDR 7-Year Action Plan Cycle (2018–2025/26)], while operations/mission continues under [Nasha Mukt Bharat Abhiyaan (NMBA) Mass Campaign].",
+      "temporalComponentsCount": 2,
+      "statusAsOf": "2026-08-18",
+      "requiresHumanReview": false
     }
   },
   {

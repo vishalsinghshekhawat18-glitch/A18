@@ -1,0 +1,167 @@
+{
+  "version": "1.0.0-phase1-execution",
+  "executedAt": "2026-08-18T13:39:03.288Z",
+  "totalPromoted": 10,
+  "items": [
+    {
+      "step": 1,
+      "itemId": "migrated-schemes-scheme-10",
+      "canonicalFile": "content/corpus/migrated-schemes-scheme-10.json",
+      "stagedFile": "content/repairs/r4c9/promoted/migrated-schemes-scheme-10.json",
+      "originalSha256": "b0275280f65c5c0565dbca50ac50dc314961c86fe4077e68c64d603d2c7d61c7",
+      "promotedSha256": "b0275280f65c5c0565dbca50ac50dc314961c86fe4077e68c64d603d2c7d61c7",
+      "action": "replace",
+      "reason": "Promoted R4.C9 fine-tuned verified canonical note with component-level temporal lifecycle.",
+      "evidenceSources": [
+        "Press Information Bureau (PIB Delhi), Cabinet approves Digital Agriculture Mission (02-September-2024)",
+        "Department of Agriculture & Farmers' Welfare, Official Guidelines on Krishi-DSS Portal (agricoop.gov.in)"
+      ],
+      "temporalStatus": "CURRENT",
+      "promotedTimestamp": "2026-08-18T13:39:03.264Z"
+    },
+    {
+      "step": 2,
+      "itemId": "migrated-schemes-scheme-100",
+      "canonicalFile": "content/corpus/migrated-schemes-scheme-100.json",
+      "stagedFile": "content/repairs/r4c9/promoted/migrated-schemes-scheme-100.json",
+      "originalSha256": "2d4b03847a1bbeed6650f6634be4335b1bc966be02b5e1b742248baec76dce18",
+      "promotedSha256": "2d4b03847a1bbeed6650f6634be4335b1bc966be02b5e1b742248baec76dce18",
+      "action": "replace",
+      "reason": "Promoted R4.C9 fine-tuned verified canonical note with component-level temporal lifecycle.",
+      "evidenceSources": [
+        "Ministry of Social Justice and Empowerment, Annual Report & Scheme Guidelines (socialjustice.gov.in)",
+        "PIB Delhi, \"SHREYAS: Umbrella Scheme for Higher Education Youth Empowerment\" (2023)"
+      ],
+      "temporalStatus": "MIXED",
+      "promotedTimestamp": "2026-08-18T13:39:03.268Z"
+    },
+    {
+      "step": 3,
+      "itemId": "migrated-schemes-scheme-102",
+      "canonicalFile": "content/corpus/migrated-schemes-scheme-102.json",
+      "stagedFile": "content/repairs/r4c9/promoted/migrated-schemes-scheme-102.json",
+      "originalSha256": "8a6cb6ae7a1211bab69b0f673baf9136c45bd2d2b9a235d3ea1bc315d07b5d89",
+      "promotedSha256": "8a6cb6ae7a1211bab69b0f673baf9136c45bd2d2b9a235d3ea1bc315d07b5d89",
+      "action": "replace",
+      "reason": "Promoted R4.C9 fine-tuned verified canonical note with component-level temporal lifecycle.",
+      "evidenceSources": [
+        "Ministry of Social Justice and Empowerment, PM YASASVI Scheme Guidelines (socialjustice.gov.in)",
+        "National Scholarship Portal (scholarships.gov.in), Official Guidelines for PM-YASASVI"
+      ],
+      "temporalStatus": "MIXED",
+      "promotedTimestamp": "2026-08-18T13:39:03.271Z"
+    },
+    {
+      "step": 4,
+      "itemId": "migrated-schemes-scheme-107",
+      "canonicalFile": "content/corpus/migrated-schemes-scheme-107.json",
+      "stagedFile": "content/repairs/r4c9/promoted/migrated-schemes-scheme-107.json",
+      "originalSha256": "ab89713ef0134dddfc74cce4ee3dfb110c8a4eea5083e6cc079714b51df3b5b6",
+      "promotedSha256": "ab89713ef0134dddfc74cce4ee3dfb110c8a4eea5083e6cc079714b51df3b5b6",
+      "action": "replace",
+      "reason": "Promoted R4.C9 fine-tuned verified canonical note with component-level temporal lifecycle.",
+      "evidenceSources": [
+        "Ministry of Social Justice and Empowerment, NOS Official Portal & Guidelines (nosmsje.gov.in)",
+        "PIB Delhi, \"National Overseas Scholarship Scheme Guidelines & Implementation\" (2024)"
+      ],
+      "temporalStatus": "CURRENT",
+      "promotedTimestamp": "2026-08-18T13:39:03.274Z"
+    },
+    {
+      "step": 5,
+      "itemId": "migrated-schemes-scheme-108",
+      "canonicalFile": "content/corpus/migrated-schemes-scheme-108.json",
+      "stagedFile": "content/repairs/r4c9/promoted/migrated-schemes-scheme-108.json",
+      "originalSha256": "c342c2a59a1ebb9153eed61a10e3ae67cfb06d2e3630395b546efac7020ee6bd",
+      "promotedSha256": "c342c2a59a1ebb9153eed61a10e3ae67cfb06d2e3630395b546efac7020ee6bd",
+      "action": "replace",
+      "reason": "Promoted R4.C9 fine-tuned verified canonical note with component-level temporal lifecycle.",
+      "evidenceSources": [
+        "**Target Beneficiaries:** Transgender persons holding Transgender Certificate/ID from National Portal for Transgender Persons, and individuals/families engaged in begging.",
+        "**Eligibility Criteria:** Transgender persons holding Transgender Certificate/ID card issued through the National Portal for Transgender Persons (transgender.dosje.gov.in), and destitute individuals identified through municipal surveys."
+      ],
+      "temporalStatus": "MIXED",
+      "promotedTimestamp": "2026-08-18T13:39:03.276Z"
+    },
+    {
+      "step": 6,
+      "itemId": "migrated-schemes-scheme-109",
+      "canonicalFile": "content/corpus/migrated-schemes-scheme-109.json",
+      "stagedFile": "content/repairs/r4c9/promoted/migrated-schemes-scheme-109.json",
+      "originalSha256": "314d3d34de3e5d8af0e77b43e98243bc65e1c7fa21c811cfcb6bf68e7fe38316",
+      "promotedSha256": "314d3d34de3e5d8af0e77b43e98243bc65e1c7fa21c811cfcb6bf68e7fe38316",
+      "action": "replace",
+      "reason": "Promoted R4.C9 fine-tuned verified canonical note with component-level temporal lifecycle.",
+      "evidenceSources": [
+        "Ministry of Social Justice and Empowerment, Scheme Guidelines (socialjustice.gov.in)",
+        "Canara Bank Nodal Cell, Guidelines on Dr. Ambedkar Interest Subvention Scheme"
+      ],
+      "temporalStatus": "CURRENT",
+      "promotedTimestamp": "2026-08-18T13:39:03.278Z"
+    },
+    {
+      "step": 7,
+      "itemId": "migrated-schemes-scheme-11",
+      "canonicalFile": "content/corpus/migrated-schemes-scheme-11.json",
+      "stagedFile": "content/repairs/r4c9/promoted/migrated-schemes-scheme-11.json",
+      "originalSha256": "dca4cbb2308192e98246b61ffd32a11b26f3d50b82940306533413af772b9edb",
+      "promotedSha256": "dca4cbb2308192e98246b61ffd32a11b26f3d50b82940306533413af772b9edb",
+      "action": "replace",
+      "reason": "Promoted R4.C9 fine-tuned verified canonical note with component-level temporal lifecycle.",
+      "evidenceSources": [
+        "Ministry of New and Renewable Energy (MNRE), Official Guidelines on Solar Power for PVTGs (mnre.gov.in)",
+        "PIB Delhi, \"Cabinet approves PM-JANMAN Scheme Components\" (Nov 2023 / Jan 2024)"
+      ],
+      "temporalStatus": "MIXED",
+      "promotedTimestamp": "2026-08-18T13:39:03.280Z"
+    },
+    {
+      "step": 8,
+      "itemId": "migrated-schemes-scheme-110",
+      "canonicalFile": "content/corpus/migrated-schemes-scheme-110.json",
+      "stagedFile": "content/repairs/r4c9/promoted/migrated-schemes-scheme-110.json",
+      "originalSha256": "4b8cbbe4b832ec618fdb074770bfb8aac697dd03575c01eb8159ce9e3c0b33fb",
+      "promotedSha256": "4b8cbbe4b832ec618fdb074770bfb8aac697dd03575c01eb8159ce9e3c0b33fb",
+      "action": "replace",
+      "reason": "Promoted R4.C9 fine-tuned verified canonical note with component-level temporal lifecycle.",
+      "evidenceSources": [
+        "Ministry of Social Justice and Empowerment, NF-OBC Guidelines (socialjustice.gov.in)",
+        "UGC / NBCFDC Official Notification on National Fellowship for OBC Students"
+      ],
+      "temporalStatus": "CURRENT",
+      "promotedTimestamp": "2026-08-18T13:39:03.283Z"
+    },
+    {
+      "step": 9,
+      "itemId": "migrated-schemes-scheme-111",
+      "canonicalFile": "content/corpus/migrated-schemes-scheme-111.json",
+      "stagedFile": "content/repairs/r4c9/promoted/migrated-schemes-scheme-111.json",
+      "originalSha256": "5181821170a7531258dbd13a694d3fbe76230641619703301a079ce396ba59c5",
+      "promotedSha256": "5181821170a7531258dbd13a694d3fbe76230641619703301a079ce396ba59c5",
+      "action": "replace",
+      "reason": "Promoted R4.C9 fine-tuned verified canonical note with component-level temporal lifecycle.",
+      "evidenceSources": [
+        "Ministry of Social Justice and Empowerment, SEED Portal & Launch Notification (seed.dosje.gov.in)",
+        "PIB Delhi, \"Union Minister Launches SEED Scheme for Welfare of DNT Communities\" (16-Feb-2022)"
+      ],
+      "temporalStatus": "MIXED",
+      "promotedTimestamp": "2026-08-18T13:39:03.285Z"
+    },
+    {
+      "step": 10,
+      "itemId": "migrated-schemes-scheme-112",
+      "canonicalFile": "content/corpus/migrated-schemes-scheme-112.json",
+      "stagedFile": "content/repairs/r4c9/promoted/migrated-schemes-scheme-112.json",
+      "originalSha256": "4e42cc375b5baf663527d31b05521f9888b12a144b22acc518e86c1ab6479758",
+      "promotedSha256": "4e42cc375b5baf663527d31b05521f9888b12a144b22acc518e86c1ab6479758",
+      "action": "replace",
+      "reason": "Promoted R4.C9 fine-tuned verified canonical note with component-level temporal lifecycle.",
+      "evidenceSources": [
+        "Ministry of Social Justice and Empowerment, NAPDDR Guidelines & NMBA Portal (nmba.dosje.gov.in)",
+        "PIB Delhi, \"Achievements under National Action Plan for Drug Demand Reduction\" (2024)"
+      ],
+      "temporalStatus": "MIXED",
+      "promotedTimestamp": "2026-08-18T13:39:03.287Z"
+    }
+  ]
+}

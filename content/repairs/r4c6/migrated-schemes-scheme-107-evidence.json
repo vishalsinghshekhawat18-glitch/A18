@@ -1,0 +1,54 @@
+{
+  "schemeId": "migrated-schemes-scheme-107",
+  "schemeTitle": "National Overseas Scholarship (NOS) for SC, DNT, and Landless Labourers",
+  "claims": [
+    {
+      "claim": "Offers 125 slots annually: 115 for SC, 6 for DNT/NT/SNT, 4 for Landless Agricultural Labourers/Artisans.",
+      "claimType": "slots",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=1986421",
+      "sourceTitle": "National Overseas Scholarship Scheme Guidelines & Slot Allocations",
+      "sourcePublisher": "Press Information Bureau (PIB Delhi), Ministry of Social Justice & Empowerment",
+      "sourceDate": "2023-12-14",
+      "evidenceQuote": "Under NOS, 125 fresh slots are available every year: 115 for Scheduled Castes, 6 for De-notified, Nomadic and Semi-Nomadic Tribes, and 4 for Landless Agricultural Labourers and Traditional Artisans.",
+      "verificationStatus": "confirmed",
+      "notes": "Exact quotas confirmed."
+    },
+    {
+      "claim": "Minimum 30% of total slots are reserved for female candidates.",
+      "claimType": "quota",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=1986421",
+      "sourceTitle": "National Overseas Scholarship Scheme Guidelines",
+      "sourcePublisher": "Press Information Bureau (PIB Delhi)",
+      "sourceDate": "2023-12-14",
+      "evidenceQuote": "30% of the scholarships each year are earmarked for female candidates.",
+      "verificationStatus": "confirmed",
+      "notes": "Gender earmarking confirmed."
+    },
+    {
+      "claim": "Income limit is ₹8.00 Lakh/annum; Age limit is below 35 years as on 1st April of selection year.",
+      "claimType": "eligibility",
+      "sourceUrl": "https://nosmsje.gov.in",
+      "sourceTitle": "NOS Portal Eligibility Guidelines",
+      "sourcePublisher": "Department of Social Justice and Empowerment",
+      "sourceDate": "2024-02-15",
+      "evidenceQuote": "Total family income from all sources must not exceed Rs. 8.00 lakh per annum. The candidate must not be more than 35 years of age on the first day of April of selection year.",
+      "verificationStatus": "confirmed",
+      "notes": "Age and income limits confirmed."
+    },
+    {
+      "claim": "Candidates must possess unconditional admission from a top-500 QS ranked foreign university.",
+      "claimType": "eligibility",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=1986421",
+      "sourceTitle": "NOS Official Guidelines",
+      "sourcePublisher": "Press Information Bureau (PIB Delhi)",
+      "sourceDate": "2023-12-14",
+      "evidenceQuote": "Candidates must have obtained unconditional offer of admission from top 500 ranked foreign Institutes/Universities as per the latest QS World University Rankings.",
+      "verificationStatus": "confirmed",
+      "notes": "QS ranking mandate confirmed."
+    }
+  ],
+  "statusPeriod": "CURRENT",
+  "crossSchemeRelationship": "Operates as a flagship central sector overseas study scholarship administered under Social Justice framework.",
+  "examTrapVerified": "Confirmed: 125 annual slots total; strictly requires Top 500 QS ranking; 30% women quota.",
+  "requiresHumanReview": true
+}

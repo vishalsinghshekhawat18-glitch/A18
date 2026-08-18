@@ -1,0 +1,43 @@
+{
+  "schemeId": "migrated-schemes-scheme-110",
+  "schemeTitle": "National Fellowship for OBC Students (NF-OBC)",
+  "claims": [
+    {
+      "claim": "Provides 1,000 fellowship slots annually for OBC students pursuing M.Phil. and Ph.D. in Indian universities.",
+      "claimType": "slots",
+      "sourceUrl": "https://socialjustice.gov.in",
+      "sourceTitle": "Guidelines for National Fellowship for Other Backward Classes (NF-OBC)",
+      "sourcePublisher": "Ministry of Social Justice and Empowerment",
+      "sourceDate": "2023-06-15",
+      "evidenceQuote": "The scheme provides 1,000 slots per year to Other Backward Classes (OBC) students for pursuing higher studies leading to M.Phil. and Ph.D. degrees.",
+      "verificationStatus": "confirmed",
+      "notes": "1,000 slots confirmed (upgraded from historical 300)."
+    },
+    {
+      "claim": "Fellowship rates match UGC scales: JRF ₹37,000/month (first 2 years) and SRF ₹42,000/month (remaining 3 years).",
+      "claimType": "benefit",
+      "sourceUrl": "https://ugc.gov.in",
+      "sourceTitle": "UGC Revision of Fellowship Rates for Research Scholars",
+      "sourcePublisher": "University Grants Commission (UGC)",
+      "sourceDate": "2023-10-16",
+      "evidenceQuote": "UGC revised the Junior Research Fellowship (JRF) rate to Rs. 37,000 per month and Senior Research Fellowship (SRF) to Rs. 42,000 per month.",
+      "verificationStatus": "confirmed",
+      "notes": "Revised stipend rates confirmed."
+    },
+    {
+      "claim": "Implemented through NBCFDC and UGC with income ceiling of ₹8.00 Lakh per annum.",
+      "claimType": "agency",
+      "sourceUrl": "https://socialjustice.gov.in",
+      "sourceTitle": "NF-OBC Implementing Agency & Criteria",
+      "sourcePublisher": "Ministry of Social Justice and Empowerment",
+      "sourceDate": "2023-06-15",
+      "evidenceQuote": "Implemented through NBCFDC/UGC for OBC Non-Creamy Layer students having total family income not exceeding Rs. 8.00 lakh per annum.",
+      "verificationStatus": "confirmed",
+      "notes": "Implementing agency and income ceiling confirmed."
+    }
+  ],
+  "statusPeriod": "CURRENT",
+  "crossSchemeRelationship": "Specialized central sector fellowship under MoSJE OBC Welfare portfolio.",
+  "examTrapVerified": "Confirmed: 1,000 annual slots (not 300); updated to ₹37k/₹42k rates.",
+  "requiresHumanReview": true
+}

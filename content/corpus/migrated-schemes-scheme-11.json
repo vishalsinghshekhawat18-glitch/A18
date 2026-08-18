@@ -2,18 +2,137 @@
   "id": "migrated-schemes-scheme-11",
   "type": "ca_note",
   "domain": "schemes",
-  "title": "Solar Power Scheme for PVTGs (PM JANMAN):",
-  "summary": "Schemes — Solar Power Scheme for PVTGs (PM JANMAN):",
+  "title": "Solar Power Scheme for PVTGs (under PM-JANMAN)",
+  "summary": "Solar Power Scheme for PVTGs (under PM-JANMAN) — Comprehensive study notes covering objectives, eligibility, outlay, and exam traps.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "⏳ Multi-Component Temporal Intelligence (As of August 2026)",
+      "text": "Component Temporal Delineation: Financial allocation/cycle ended on 31 March 2026 for [MNRE Dedicated Financial Package (₹515 Cr)], while operations/mission continues under [PM-JANMAN Multi-Ministry Tribal Mission Implementation]."
+    },
+    {
+      "type": "key_concept",
+      "title": "Solar Power Scheme for PVTGs (under PM-JANMAN)",
+      "summary": "To electrify 1,00,000 un-electrified households in Particularly Vulnerable Tribal Groups (PVTGs) habitations across 18 States and UTs and power community facilities through standalone decentralized solar power packs."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⏱️ Component Lifecycles & Temporal Status"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Component / Pillar",
+        "Type",
+        "Period",
+        "Status (Aug 2026)",
+        "Exam Relevance"
+      ],
+      "rows": [
+        [
+          "MNRE Dedicated Financial Package (₹515 Cr)",
+          "financial-cycle",
+          "2023-04-01 to 2026-03-31",
+          "EXPIRED",
+          "₹515 Cr outlay for 1 lakh households (0.3 kW) + 1,500 MPCs (2.5 kW)."
+        ],
+        [
+          "PM-JANMAN Multi-Ministry Tribal Mission Implementation",
+          "mission",
+          "Since 2023-11-15",
+          "CURRENT",
+          "Electrification across 75 PVTG tribes in 18 States and UT of Andaman & Nicobar."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🏛️ Administrative & Financial Framework"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Parameter",
+        "Official Specification"
+      ],
+      "rows": [
+        [
+          "Nodal Ministry",
+          "Ministry of New and Renewable Energy (in convergence with Ministry of Tribal Affairs)"
+        ],
+        [
+          "Department",
+          "Off-Grid & Decentralized Solar Division"
+        ],
+        [
+          "Launch Year / Period",
+          "January 2024 (Notified under PM-JANMAN Tribal Mission)"
+        ],
+        [
+          "Financial Outlay",
+          "₹515 Crore (Allocated for 2023-24 to 2025-26 under PM-JANMAN)."
+        ],
+        [
+          "Funding Pattern",
+          "100% Central Sector funding."
+        ],
+        [
+          "Implementing Agency",
+          "State DISCOMs / State Renewable Energy Development Agencies (SNAs) in convergence with Ministry of Tribal Affairs and MNRE."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🎯 Target Beneficiaries & Eligibility"
+    },
     {
       "type": "bullet_list",
       "items": [
-        " Launched: January 2024",
-        " Ministry: Ministry of New and Renewable Energy",
-        " Implementing Agency: DISCOMs",
-        " Coverage: 18 States and UTs",
-        " Objective: Provide solar energy to PVTGs for improved access and living conditions",
-        "Components:"
+        "**Target Beneficiaries:** Un-electrified households in 75 PVTG communities across 18 States and Union Territories.",
+        "**Eligibility Criteria:** Households identified under PM-JANMAN baseline survey that cannot be electrified via conventional grid extension due to remote forest terrain."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "✨ Key Components & Features"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Individual Households: 1,00,000 un-electrified PVTG households provided with 0.3 kW (300 W) Off-Grid Solar Home Lighting Systems (SHLS) with battery bank, LED lamps, DC fan, and mobile charging port (₹50,000 per household).",
+        "Multi-Purpose Centres (MPCs): 1,500 PVTG Multi-Purpose Centres provided with 2.5 kW Solar PV power packs with battery storage (₹1.00 Lakh per centre).",
+        "Inter-Ministerial Convergence: Implemented by MNRE in close convergence with the Ministry of Tribal Affairs (nodal ministry for PM-JANMAN).",
+        "Comprehensive Maintenance: 5 years of free warranty and operational maintenance by executing agencies."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚠️ Exam Traps & Key Distinctions"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Exam Trap: Ministry executing the solar package is MNRE (Ministry of New and Renewable Energy), in convergence with Ministry of Tribal Affairs.",
+        "System Capacities: 0.3 kW (300 W) for households; 2.5 kW for Multi-Purpose Centres.",
+        "Geographical Scope: 75 PVTG communities across 18 States and Andaman & Nicobar UT."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📚 Authoritative Sources"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Ministry of New and Renewable Energy (MNRE), Official Guidelines on Solar Power for PVTGs (mnre.gov.in)",
+        "PIB Delhi, \"Cabinet approves PM-JANMAN Scheme Components\" (Nov 2023 / Jan 2024)"
       ]
     }
   ],
@@ -38,6 +157,45 @@
       "sourceChecksum": "ac2961a89badbfa9e9d6fe7bac48b80ba85aa8ef145205bff2eaa5eb25b27a88",
       "migrationTimestamp": "2026-08-15T12:14:01.064Z",
       "normalizationRuleVersion": "1.0.0-phase4-corrected"
-    }
+    },
+    "repairedVersion": "r4.c9-fine-tuned",
+    "repairedTimestamp": "2026-08-18T13:35:21.438Z",
+    "promotionGate": "R4.C9-passed",
+    "promotionStatus": "approved-with-temporal-components",
+    "promotedTimestamp": "2026-08-18T13:35:21.438Z",
+    "overallTemporalStatus": "MIXED",
+    "temporalWarning": "Component Temporal Delineation: Financial allocation/cycle ended on 31 March 2026 for [MNRE Dedicated Financial Package (₹515 Cr)], while operations/mission continues under [PM-JANMAN Multi-Ministry Tribal Mission Implementation].",
+    "temporalComponentsCount": 2,
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
+  },
+  "temporal": {
+    "statusAsOf": "2026-08-18",
+    "overallStatus": "MIXED",
+    "components": [
+      {
+        "name": "MNRE Dedicated Financial Package (₹515 Cr)",
+        "type": "financial-cycle",
+        "startDate": "2023-04-01",
+        "endDate": "2026-03-31",
+        "status": "EXPIRED",
+        "evidence": [
+          "MNRE notification approved ₹515 Cr for 2023-24 to 2025-26."
+        ],
+        "lastVerified": "2024-07-25",
+        "historicalExamRelevance": "₹515 Cr outlay for 1 lakh households (0.3 kW) + 1,500 MPCs (2.5 kW)."
+      },
+      {
+        "name": "PM-JANMAN Multi-Ministry Tribal Mission Implementation",
+        "type": "mission",
+        "startDate": "2023-11-15",
+        "status": "CURRENT",
+        "evidence": [
+          "Ongoing physical electrification of PVTG habitations reported in June 2026 PIB releases."
+        ],
+        "lastVerified": "2026-06-30",
+        "historicalExamRelevance": "Electrification across 75 PVTG tribes in 18 States and UT of Andaman & Nicobar."
+      }
+    ]
   }
 }

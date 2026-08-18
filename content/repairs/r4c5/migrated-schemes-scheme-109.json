@@ -1,0 +1,199 @@
+{
+  "sourceItemId": "migrated-schemes-scheme-109",
+  "repairVersion": "r4.c5",
+  "originalQualityStatus": "needs_enrichment",
+  "repairedQualityStatus": "valid",
+  "originalContent": {
+    "id": "migrated-schemes-scheme-109",
+    "type": "ca_note",
+    "domain": "schemes",
+    "title": "Ambedkar Interest Subvention Scheme for Education Loans",
+    "summary": "Schemes — Ambedkar Interest Subvention Scheme for Education Loans",
+    "blocks": [
+      {
+        "type": "bullet_list",
+        "items": [
+          "o Eligibility: OBC/EBC students with family income < ₹2.5 Lakhs",
+          "o Loan Coverage: Tuition, accommodation, travel, and more",
+          "o Interest Subvention: Government covers interest during study and moratorium",
+          "o Loan Amount: ₹10 Lakhs to ₹20 Lakhs",
+          "o Repayment: Starts after course completion",
+          "This scheme supports OBC and EBC students in accessing higher education abroad by easing",
+          "financial burdens."
+        ]
+      }
+    ],
+    "metadata": {
+      "exam": [
+        "Bank PO",
+        "RBI Grade B",
+        "SBI PO"
+      ],
+      "tags": [
+        "schemes",
+        "Health, Social Justice & Education"
+      ],
+      "category": "Schemes",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-15T12:14:02.104Z",
+      "provenance": {
+        "sourceSystem": "Schemes",
+        "sourceFile": "ca_app/updated_schemes_data.js",
+        "sourceId": "scheme-109",
+        "sourceTitle": "Ambedkar Interest Subvention Scheme for Education Loans",
+        "sourceChecksum": "92114c78f0ed033dff196ba9ee9865f2fc81bd8c760889b72064b4ecc05ad20b",
+        "migrationTimestamp": "2026-08-15T12:14:02.104Z",
+        "normalizationRuleVersion": "1.0.0-phase4-corrected"
+      }
+    }
+  },
+  "repairedContent": {
+    "id": "migrated-schemes-scheme-109",
+    "type": "ca_note",
+    "domain": "schemes",
+    "title": "Dr. Ambedkar Central Sector Scheme of Interest Subvention on Overseas Educational Loans for OBCs and EBCs",
+    "summary": "Dr. Ambedkar Central Sector Scheme of Interest Subvention on Overseas Educational Loans for OBCs and EBCs — Comprehensive study notes covering objectives, eligibility, outlay, and exam traps.",
+    "blocks": [
+      {
+        "type": "key_concept",
+        "title": "Dr. Ambedkar Central Sector Scheme of Interest Subvention on Overseas Educational Loans for OBCs and EBCs",
+        "summary": "To provide 100% interest subsidy on education loans to meritorious Other Backward Classes (OBC) and Economically Backward Classes (EBC) students pursuing Master's, M.Phil., and Ph.D. level courses abroad."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "🏛️ Administrative & Financial Framework"
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Parameter",
+          "Official Specification"
+        ],
+        "rows": [
+          [
+            "Nodal Ministry",
+            "Ministry of Social Justice and Empowerment"
+          ],
+          [
+            "Department",
+            "Department of Social Justice and Empowerment"
+          ],
+          [
+            "Launch Year / Period",
+            "2014-15 (Revised guidelines issued in 2022-23)"
+          ],
+          [
+            "Financial Outlay",
+            "Demand-driven annual budgetary allocation under MoSJE."
+          ],
+          [
+            "Funding Pattern",
+            "100% Central Sector Scheme."
+          ],
+          [
+            "Implementing Agency",
+            "Canara Bank (Designated Nodal Bank) on behalf of Ministry of Social Justice & Empowerment."
+          ]
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "🎯 Target Beneficiaries & Eligibility"
+      },
+      {
+        "type": "bullet_list",
+        "items": [
+          "**Target Beneficiaries:** OBC and EBC students who have secured admission to accredited overseas institutions for higher studies.",
+          "**Eligibility Criteria:** Total family income must not exceed ₹8.00 Lakh per annum (formerly ₹2.50 Lakh). Candidate must have secured an education loan from an IBA-member scheduled commercial bank under IBA Model Educational Loan Scheme."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "✨ Key Components & Features"
+      },
+      {
+        "type": "bullet_list",
+        "items": [
+          "Interest Subsidy Period: 100% interest payable on loan is reimbursed by the Central Government during the moratorium period (Course Period + 1 year or 6 months after securing job).",
+          "Principal Repayment: The student/borrower is responsible for paying only the principal amount and interest after the moratorium period ends.",
+          "Eligible Levels: Master's, M.Phil, and Ph.D. programs only (Undergraduate courses are strictly ineligible).",
+          "Maximum Loan Eligible for Subsidy: Up to ₹20 Lakhs."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "⚠️ Exam Traps & Key Distinctions"
+      },
+      {
+        "type": "bullet_list",
+        "items": [
+          "Exam Trap: Nodal Bank is CANARA BANK (not SBI, RBI, or NABARD).",
+          "Income limit: ₹8.00 Lakh/annum (do not confuse with pre-matric ₹2.5L limit).",
+          "Coverage: Covers INTEREST during moratorium ONLY; principal is repaid by borrower."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "📚 Authoritative Sources"
+      },
+      {
+        "type": "bullet_list",
+        "items": [
+          "Ministry of Social Justice and Empowerment, Scheme Guidelines (socialjustice.gov.in)",
+          "Canara Bank Nodal Cell, Guidelines on Dr. Ambedkar Interest Subvention Scheme"
+        ]
+      }
+    ],
+    "metadata": {
+      "exam": [
+        "Bank PO",
+        "RBI Grade B",
+        "SBI PO"
+      ],
+      "tags": [
+        "schemes",
+        "Health, Social Justice & Education"
+      ],
+      "category": "Schemes",
+      "difficulty": "intermediate",
+      "lastUpdated": "2026-08-15T12:14:02.104Z",
+      "provenance": {
+        "sourceSystem": "Schemes",
+        "sourceFile": "ca_app/updated_schemes_data.js",
+        "sourceId": "scheme-109",
+        "sourceTitle": "Ambedkar Interest Subvention Scheme for Education Loans",
+        "sourceChecksum": "92114c78f0ed033dff196ba9ee9865f2fc81bd8c760889b72064b4ecc05ad20b",
+        "migrationTimestamp": "2026-08-15T12:14:02.104Z",
+        "normalizationRuleVersion": "1.0.0-phase4-corrected"
+      },
+      "repairedVersion": "r4.c5-pilot",
+      "repairedTimestamp": "2026-08-18T13:11:12.068Z",
+      "requiresHumanReview": true
+    }
+  },
+  "detectedProblems": [
+    "Original note listed outdated income limit (₹2.5 Lakhs instead of ₹8 Lakhs).",
+    "Missing Nodal Bank (Canara Bank), maximum eligible loan amount (₹20 Lakhs), and moratorium definition."
+  ],
+  "addedFacts": [
+    "Corrected Income Limit: ₹8.00 Lakh/annum (upward revision from ₹2.5L)",
+    "Nodal Bank: Canara Bank",
+    "Max Loan for Subsidy: ₹20 Lakhs",
+    "100% Interest coverage during moratorium (Course + 1 year)"
+  ],
+  "removedContent": [
+    "Outdated \"income < ₹2.5 Lakhs\" claim"
+  ],
+  "sources": [
+    "Ministry of Social Justice and Empowerment, Scheme Guidelines (socialjustice.gov.in)",
+    "Canara Bank Nodal Cell, Guidelines on Dr. Ambedkar Interest Subvention Scheme"
+  ],
+  "confidence": "high",
+  "requiresHumanReview": true,
+  "status": "pending_review"
+}
