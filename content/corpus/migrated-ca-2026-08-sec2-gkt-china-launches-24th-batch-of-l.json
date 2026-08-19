@@ -1,0 +1,63 @@
+{
+  "id": "migrated-ca-2026-08-sec2-gkt-china-launches-24th-batch-of-l",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "China Launches 24th Batch of Low-Orbit Internet Satellites",
+  "summary": "China launched the 24th batch of low-Earth orbit internet satellites on 16 August 2026 from the Wenchang Space Launch Site in Hainan Province, southern China. The satellites, identified as SatNet LEO Group 24, were carried by a Long March-1...",
+  "blocks": [
+    {
+      "id": "blk-1",
+      "type": "paragraph",
+      "content": "China launched the 24th batch of low-Earth orbit internet satellites on 16 August 2026 from the Wenchang Space Launch Site in Hainan Province, southern China. The satellites, identified as SatNet LEO Group 24, were carried by a Long March-12 carrier rocket during its Y8 mission and entered their preset orbits after launch at 12:10 p.m. Beijing Time, or 04:10 UTC."
+    },
+    {
+      "id": "blk-2",
+      "type": "bullet_list",
+      "items": [
+        "Low-Earth orbit is commonly used for communication satellites because it supports lower signal delay than higher orbits.",
+        "The geostationary orbit lies at about 35,786 km above Earth’s equator.",
+        "China’s Long March series is the country’s main family of orbital launch vehicles.",
+        "Hainan is a southern Chinese island province with commercial launch facilities near the equator."
+      ]
+    },
+    {
+      "id": "blk-3",
+      "type": "definition",
+      "term": "Static Regulatory Framework",
+      "definition": "Regulator / Apex Category: SEC2 · Sourced from official GKToday Banking Archives."
+    },
+    {
+      "id": "blk-4",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle: Most likely MCQ focus for Bank PO Mains — Testing precise dates, statutory caps, financial outlays, and institutional authority.\n\n💼 Interview Q: What is the broader economic and regulatory implication of China Launches 24th Batch of Low?\n Model Answer: It strengthens institutional governance, provides vital capital/regulatory support to key sectors, and aligns with broader macroeconomic and financial inclusion frameworks.\n"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO",
+      "IBPS PO",
+      "RBI Grade B",
+      "NABARD Grade A"
+    ],
+    "tags": [
+      "current-affairs",
+      "gktoday",
+      "sec2",
+      "tier-a",
+      "2026-08"
+    ],
+    "category": "SEC2",
+    "sectionCode": "SEC2",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-17",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "gktoday.in",
+      "sourceTitle": "China Launches 24th Batch of Low-Orbit Internet Satellites",
+      "statutoryConcept": "China Launches 24th Batch of Low-Orbit Internet Satellites"
+    }
+  },
+  "relationships": []
+}

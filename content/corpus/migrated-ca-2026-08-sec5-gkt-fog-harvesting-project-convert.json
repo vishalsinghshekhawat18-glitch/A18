@@ -1,0 +1,63 @@
+{
+  "id": "migrated-ca-2026-08-sec5-gkt-fog-harvesting-project-convert",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Fog-Harvesting Project Converts Mountain Fog into Water",
+  "summary": "Fog harvesting is a water-collection method that uses mesh nets to capture tiny water droplets from fog and channel them into storage or piping systems. In southwestern Morocco, a fog-harvesting network on Mount Boutmezguida supplies piped ...",
+  "blocks": [
+    {
+      "id": "blk-1",
+      "type": "paragraph",
+      "content": "Fog harvesting is a water-collection method that uses mesh nets to capture tiny water droplets from fog and channel them into storage or piping systems. In southwestern Morocco, a fog-harvesting network on Mount Boutmezguida supplies piped water to local homes in the Aït Baamrane region."
+    },
+    {
+      "id": "blk-2",
+      "type": "bullet_list",
+      "items": [
+        "Fog harvesting is also called cloud or mist water collection in arid and semi-arid regions.",
+        "Gravity-fed water systems move water without pumps when the source is at a higher elevation.",
+        "The Amazigh are an indigenous people of North Africa, including Morocco.",
+        "The Anti-Atlas Mountains form part of the mountain system in southern Morocco."
+      ]
+    },
+    {
+      "id": "blk-3",
+      "type": "definition",
+      "term": "Static Regulatory Framework",
+      "definition": "Regulator / Apex Category: SEC5 · Sourced from official GKToday Banking Archives."
+    },
+    {
+      "id": "blk-4",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle: Most likely MCQ focus for Bank PO Mains — Testing precise dates, statutory caps, financial outlays, and institutional authority."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO",
+      "IBPS PO",
+      "RBI Grade B",
+      "NABARD Grade A"
+    ],
+    "tags": [
+      "current-affairs",
+      "gktoday",
+      "sec5",
+      "tier-b-plus",
+      "2026-08"
+    ],
+    "category": "SEC5",
+    "sectionCode": "SEC5",
+    "difficulty": "intermediate",
+    "relevanceTier": "TIER_B",
+    "noteTier": "TIER_B_PLUS",
+    "date": "2026-08-19",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "gktoday.in",
+      "sourceTitle": "Fog-Harvesting Project Converts Mountain Fog into Water",
+      "statutoryConcept": "Fog-Harvesting Project Converts Mountain Fog into Water"
+    }
+  },
+  "relationships": []
+}

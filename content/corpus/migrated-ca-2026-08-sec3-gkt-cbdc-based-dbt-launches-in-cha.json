@@ -1,0 +1,63 @@
+{
+  "id": "migrated-ca-2026-08-sec3-gkt-cbdc-based-dbt-launches-in-cha",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "CBDC-Based DBT Launches in Chandigarh and Dadra &amp; Nagar Haveli",
+  "summary": "India is scheduled to launch a Central Bank Digital Currency-based Direct Benefit Transfer system for food subsidies under the Pradhan Mantri Garib Kalyan Anna Yojana on 14 August 2026. Chandigarh and Dadra &amp; Nagar Haveli will become th...",
+  "blocks": [
+    {
+      "id": "blk-1",
+      "type": "paragraph",
+      "content": "India is scheduled to launch a Central Bank Digital Currency-based Direct Benefit Transfer system for food subsidies under the Pradhan Mantri Garib Kalyan Anna Yojana on 14 August 2026. Chandigarh and Dadra &amp; Nagar Haveli will become the first Union Territories to fully operationalise food subsidy transfers through programmable Digital Rupee tokens credited directly to beneficiaries’ CBDC wallets."
+    },
+    {
+      "id": "blk-2",
+      "type": "bullet_list",
+      "items": [
+        "The Digital Rupee is India’s central bank digital currency and is issued by the Reserve Bank of India.",
+        "Direct Benefit Transfer is used in India for the direct transfer of subsidies and welfare payments.",
+        "Pradhan Mantri Garib Kalyan Anna Yojana is associated with foodgrain support for eligible beneficiaries.",
+        "Programmable CBDC tokens can be restricted to specific goods or merchants through digital controls."
+      ]
+    },
+    {
+      "id": "blk-3",
+      "type": "definition",
+      "term": "Static Regulatory Framework",
+      "definition": "Regulator / Apex Category: SEC3 · Sourced from official GKToday Banking Archives."
+    },
+    {
+      "id": "blk-4",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle: Most likely MCQ focus for Bank PO Mains — Testing precise dates, statutory caps, financial outlays, and institutional authority.\n\n💼 Interview Q: What is the broader economic and regulatory implication of CBDC?\n Model Answer: It strengthens institutional governance, provides vital capital/regulatory support to key sectors, and aligns with broader macroeconomic and financial inclusion frameworks.\n"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO",
+      "IBPS PO",
+      "RBI Grade B",
+      "NABARD Grade A"
+    ],
+    "tags": [
+      "current-affairs",
+      "gktoday",
+      "sec3",
+      "tier-a",
+      "2026-08"
+    ],
+    "category": "SEC3",
+    "sectionCode": "SEC3",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-13",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "gktoday.in",
+      "sourceTitle": "CBDC-Based DBT Launches in Chandigarh and Dadra &amp; Nagar Haveli",
+      "statutoryConcept": "CBDC-Based DBT Launches in Chandigarh and Dadra &amp; Nagar Haveli"
+    }
+  },
+  "relationships": []
+}

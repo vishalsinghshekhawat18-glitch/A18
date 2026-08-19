@@ -1,0 +1,63 @@
+{
+  "id": "migrated-ca-2026-08-sec5-gkt-mount-bromo-wildfire-spreads-i",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Mount Bromo Wildfire Spreads in Indonesia",
+  "summary": "A wildfire broke out on 3 August 2026 inside Bromo Tengger Semeru National Park in East Java, Indonesia, and affected the Gunung Bromo Watu Gede and Jantur areas. The fire later spread near the volcano’s caldera, and emergency agencies depl...",
+  "blocks": [
+    {
+      "id": "blk-1",
+      "type": "paragraph",
+      "content": "A wildfire broke out on 3 August 2026 inside Bromo Tengger Semeru National Park in East Java, Indonesia, and affected the Gunung Bromo Watu Gede and Jantur areas. The fire later spread near the volcano’s caldera, and emergency agencies deployed helicopters, fire trucks, and drones for containment."
+    },
+    {
+      "id": "blk-2",
+      "type": "bullet_list",
+      "items": [
+        "Mount Bromo is an active volcano in East Java and forms part of the Tengger volcanic complex.",
+        "Water-bombing is an aerial firefighting method that uses helicopters or aircraft to drop water on active fire zones.",
+        "A caldera is a large volcanic depression formed after an eruption or collapse of a volcano’s summit area.",
+        "Bromo Tengger Semeru National Park is a major protected area in Indonesia and a frequent site of volcanic and tourism-related news."
+      ]
+    },
+    {
+      "id": "blk-3",
+      "type": "definition",
+      "term": "Static Regulatory Framework",
+      "definition": "Regulator / Apex Category: SEC5 · Sourced from official GKToday Banking Archives."
+    },
+    {
+      "id": "blk-4",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle: Most likely MCQ focus for Bank PO Mains — Testing precise dates, statutory caps, financial outlays, and institutional authority."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO",
+      "IBPS PO",
+      "RBI Grade B",
+      "NABARD Grade A"
+    ],
+    "tags": [
+      "current-affairs",
+      "gktoday",
+      "sec5",
+      "tier-b-plus",
+      "2026-08"
+    ],
+    "category": "SEC5",
+    "sectionCode": "SEC5",
+    "difficulty": "intermediate",
+    "relevanceTier": "TIER_B",
+    "noteTier": "TIER_B_PLUS",
+    "date": "2026-08-10",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "gktoday.in",
+      "sourceTitle": "Mount Bromo Wildfire Spreads in Indonesia",
+      "statutoryConcept": "Mount Bromo Wildfire Spreads in Indonesia"
+    }
+  },
+  "relationships": []
+}

@@ -1,0 +1,63 @@
+{
+  "id": "migrated-ca-2026-08-sec3-gkt-government-proposes-mdr-on-sel",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Government Proposes MDR on Select UPI Payments",
+  "summary": "The Union Ministry of Finance proposed amendments to the Payment and Settlement Systems Act, 2007, on 3 August 2026 to reintroduce Merchant Discount Rate on select digital payment modes. The proposal seeks to remove the zero MDR provision u...",
+  "blocks": [
+    {
+      "id": "blk-1",
+      "type": "paragraph",
+      "content": "The Union Ministry of Finance proposed amendments to the Payment and Settlement Systems Act, 2007, on 3 August 2026 to reintroduce Merchant Discount Rate on select digital payment modes. The proposal seeks to remove the zero MDR provision under Section 10A, which currently bars banks and payment system providers from levying charges on online transactions, including Unified Payments Interface and RuPay debit card payments."
+    },
+    {
+      "id": "blk-2",
+      "type": "bullet_list",
+      "items": [
+        "Section 10A of the Payment and Settlement Systems Act, 2007 currently provides for zero MDR on specified digital transactions.",
+        "Unified Payments Interface was launched by the National Payments Corporation of India for instant bank-to-bank transfers.",
+        "RuPay is India’s domestic card network developed by the National Payments Corporation of India.",
+        "Merchant Discount Rate is usually expressed as a percentage of the transaction value."
+      ]
+    },
+    {
+      "id": "blk-3",
+      "type": "definition",
+      "term": "Static Regulatory Framework",
+      "definition": "Regulator / Apex Category: SEC3 · Sourced from official GKToday Banking Archives."
+    },
+    {
+      "id": "blk-4",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle: Most likely MCQ focus for Bank PO Mains — Testing precise dates, statutory caps, financial outlays, and institutional authority.\n\n💼 Interview Q: What is the broader economic and regulatory implication of Government Proposes MDR on Select UPI Payments?\n Model Answer: It strengthens institutional governance, provides vital capital/regulatory support to key sectors, and aligns with broader macroeconomic and financial inclusion frameworks.\n"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO",
+      "IBPS PO",
+      "RBI Grade B",
+      "NABARD Grade A"
+    ],
+    "tags": [
+      "current-affairs",
+      "gktoday",
+      "sec3",
+      "tier-a",
+      "2026-08"
+    ],
+    "category": "SEC3",
+    "sectionCode": "SEC3",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-04",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "gktoday.in",
+      "sourceTitle": "Government Proposes MDR on Select UPI Payments",
+      "statutoryConcept": "Government Proposes MDR on Select UPI Payments"
+    }
+  },
+  "relationships": []
+}

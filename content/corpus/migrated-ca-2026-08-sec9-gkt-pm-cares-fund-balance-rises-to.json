@@ -1,0 +1,63 @@
+{
+  "id": "migrated-ca-2026-08-sec9-gkt-pm-cares-fund-balance-rises-to",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "PM CARES Fund Balance Rises to ₹8,452 Crore",
+  "summary": "The PM CARES Fund is a public charitable trust created in 2020 for emergency relief and disaster-related assistance in India. Its audited financial statements for FY 2023–24 and FY 2024–25 were made public, and the closing balance stood at ...",
+  "blocks": [
+    {
+      "id": "blk-1",
+      "type": "paragraph",
+      "content": "The PM CARES Fund is a public charitable trust created in 2020 for emergency relief and disaster-related assistance in India. Its audited financial statements for FY 2023–24 and FY 2024–25 were made public, and the closing balance stood at ₹8,452.07 crore as of 31 March 2025."
+    },
+    {
+      "id": "blk-2",
+      "type": "bullet_list",
+      "items": [
+        "PM CARES stands for Prime Minister’s Citizen Assistance and Relief in Emergency Situations Fund.",
+        "The fund was created in March 2020 as a public charitable trust.",
+        "Fixed deposits held ₹7,846.65 crore of the fund’s balance as of 31 March 2025.",
+        "The PM CARES for Children Scheme is one of the welfare components linked to the trust."
+      ]
+    },
+    {
+      "id": "blk-3",
+      "type": "definition",
+      "term": "Static Regulatory Framework",
+      "definition": "Regulator / Apex Category: SEC9 · Sourced from official GKToday Banking Archives."
+    },
+    {
+      "id": "blk-4",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle: Most likely MCQ focus for Bank PO Mains — Testing precise dates, statutory caps, financial outlays, and institutional authority."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO",
+      "IBPS PO",
+      "RBI Grade B",
+      "NABARD Grade A"
+    ],
+    "tags": [
+      "current-affairs",
+      "gktoday",
+      "sec9",
+      "tier-b-plus",
+      "2026-08"
+    ],
+    "category": "SEC9",
+    "sectionCode": "SEC9",
+    "difficulty": "intermediate",
+    "relevanceTier": "TIER_B",
+    "noteTier": "TIER_B_PLUS",
+    "date": "2026-08-18",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "gktoday.in",
+      "sourceTitle": "PM CARES Fund Balance Rises to ₹8,452 Crore",
+      "statutoryConcept": "PM CARES Fund Balance Rises to ₹8,452 Crore"
+    }
+  },
+  "relationships": []
+}

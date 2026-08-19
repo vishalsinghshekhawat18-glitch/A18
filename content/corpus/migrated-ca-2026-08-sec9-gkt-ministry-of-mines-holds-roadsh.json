@@ -1,0 +1,63 @@
+{
+  "id": "migrated-ca-2026-08-sec9-gkt-ministry-of-mines-holds-roadsh",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Ministry of Mines Holds Roadshow for Critical Mineral Auctions",
+  "summary": "The Ministry of Mines, Government of India, is holding a promotional roadshow in Patna, Bihar, on 17 August 2026 for the 8th tranche of Critical and Strategic Mineral Block Auctions. The event is linked to the auction of 20 critical mineral...",
+  "blocks": [
+    {
+      "id": "blk-1",
+      "type": "paragraph",
+      "content": "The Ministry of Mines, Government of India, is holding a promotional roadshow in Patna, Bihar, on 17 August 2026 for the 8th tranche of Critical and Strategic Mineral Block Auctions. The event is linked to the auction of 20 critical mineral blocks across nine Indian states, with 3 Mining Leases and 17 Composite Licences."
+    },
+    {
+      "id": "blk-2",
+      "type": "bullet_list",
+      "items": [
+        "The Geological Survey of India was established in 1851 and functions under the Ministry of Mines.",
+        "Rare earth elements are a group of 17 chemically similar elements used in electronics, magnets, and defence applications.",
+        "Lithium is used in rechargeable batteries, ceramics, and certain alloys.",
+        "The National Geoscience Data Repository is a digital platform for geoscientific data management in India."
+      ]
+    },
+    {
+      "id": "blk-3",
+      "type": "definition",
+      "term": "Static Regulatory Framework",
+      "definition": "Regulator / Apex Category: SEC9 · Sourced from official GKToday Banking Archives."
+    },
+    {
+      "id": "blk-4",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle: Most likely MCQ focus for Bank PO Mains — Testing precise dates, statutory caps, financial outlays, and institutional authority."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO",
+      "IBPS PO",
+      "RBI Grade B",
+      "NABARD Grade A"
+    ],
+    "tags": [
+      "current-affairs",
+      "gktoday",
+      "sec9",
+      "tier-b-plus",
+      "2026-08"
+    ],
+    "category": "SEC9",
+    "sectionCode": "SEC9",
+    "difficulty": "intermediate",
+    "relevanceTier": "TIER_B",
+    "noteTier": "TIER_B_PLUS",
+    "date": "2026-08-17",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "gktoday.in",
+      "sourceTitle": "Ministry of Mines Holds Roadshow for Critical Mineral Auctions",
+      "statutoryConcept": "Ministry of Mines Holds Roadshow for Critical Mineral Auctions"
+    }
+  },
+  "relationships": []
+}

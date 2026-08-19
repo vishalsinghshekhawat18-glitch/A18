@@ -1,0 +1,63 @@
+{
+  "id": "migrated-ca-2026-08-sec6-gkt-indore-gets-india-s-first-virt",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Indore Gets India’s First Virtual Zoo",
+  "summary": "Indore in Madhya Pradesh has India’s first virtual zoo at the Kamala Nehru Prani Sangrahalaya, also known as the Indore Zoological Museum. The facility covers 8,000 square feet and was developed under a Public-Private Partnership model at a...",
+  "blocks": [
+    {
+      "id": "blk-1",
+      "type": "paragraph",
+      "content": "Indore in Madhya Pradesh has India’s first virtual zoo at the Kamala Nehru Prani Sangrahalaya, also known as the Indore Zoological Museum. The facility covers 8,000 square feet and was developed under a Public-Private Partnership model at an estimated cost of ₹4.5 crore."
+    },
+    {
+      "id": "blk-2",
+      "type": "bullet_list",
+      "items": [
+        "Kamala Nehru Prani Sangrahalaya is the zoological museum in Indore where the virtual zoo has been set up.",
+        "Public-Private Partnership, or PPP, is a model in which a government body and a private entity share project responsibilities.",
+        "3-D dome theatres use a curved screen to create a wide field of view for viewers.",
+        "14-D cinema is a commercial entertainment format that combines visual projection with motion seats and environmental effects."
+      ]
+    },
+    {
+      "id": "blk-3",
+      "type": "definition",
+      "term": "Static Regulatory Framework",
+      "definition": "Regulator / Apex Category: SEC6 · Sourced from official GKToday Banking Archives."
+    },
+    {
+      "id": "blk-4",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle: Most likely MCQ focus for Bank PO Mains — Testing precise dates, statutory caps, financial outlays, and institutional authority."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO",
+      "IBPS PO",
+      "RBI Grade B",
+      "NABARD Grade A"
+    ],
+    "tags": [
+      "current-affairs",
+      "gktoday",
+      "sec6",
+      "tier-b-plus",
+      "2026-08"
+    ],
+    "category": "SEC6",
+    "sectionCode": "SEC6",
+    "difficulty": "intermediate",
+    "relevanceTier": "TIER_B",
+    "noteTier": "TIER_B_PLUS",
+    "date": "2026-08-17",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "gktoday.in",
+      "sourceTitle": "Indore Gets India’s First Virtual Zoo",
+      "statutoryConcept": "Indore Gets India’s First Virtual Zoo"
+    }
+  },
+  "relationships": []
+}
