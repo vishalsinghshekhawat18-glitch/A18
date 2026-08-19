@@ -3,15 +3,16 @@
   "title": "🌐 India–EU Free Trade Agreement Concluded — 15 Bank Branches, 100% Insurance FDI & Euratom",
   "type": "ca_note",
   "domain": "current-affairs",
-  "summary": "India and EU concluded FTA negotiations on 26 Jan 2026 (\"Mother of all deals\"). EU is India's 2nd largest goods trading partner (€120B in 2024; EU FDI in India €132B). India-Euratom nuclear cooperation signed. India allows EU banks to open 15 branches over 4 years and binds 100% insurance FDI.",
+  "summary": "Commerce ministry data showed Spain, Germany, Belgium, and Poland emerging as key export destinations within the EU bloc. Bilateral trade in goods reached USD 136.53 billion in 2024-25 (exports $75.85B, imports $60.68B).",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "**Overview**: India and EU concluded FTA negotiations on 26 Jan 2026 (\"Mother of all deals\"). EU is India's 2nd largest goods trading partner (€120B in 2024; EU FDI in India €132B). India-Euratom nuclear cooperation signed. India allows EU banks to open 15 branches over 4 years and binds 100% insurance FDI."
+      "content": "**Overview**: Commerce ministry data showed Spain, Germany, Belgium, and Poland emerging as key export destinations within the EU bloc. Bilateral trade in goods reached USD 136.53 billion in 2024-25 (exports $75.85B, imports $60.68B)."
     },
     {
       "type": "bullet_list",
       "items": [
+        "**EU Emerges as Largest Trading Partner for Indian Goods at $136.53 Billion** (Page 4): Commerce ministry data showed Spain, Germany, Belgium, and Poland emerging as key export destinations within the EU bloc. Bilateral trade in goods reached USD 136.53 billion in 2024-25 (exports $75.85B, imports $60.68B).",
         "**Historic India–EU Free Trade Agreement Concluded on Republic Day 2026** (Page 10): India and EU concluded FTA negotiations on 26 Jan 2026 (\"Mother of all deals\"). EU is India's 2nd largest goods trading partner (€120B in 2024; EU FDI in India €132B). India-Euratom nuclear cooperation signed. India allows EU banks to open 15 branches over 4 years and binds 100% insurance FDI."
       ]
     },
@@ -36,17 +37,18 @@
     "date": "2026-01-15",
     "category": "SEC4",
     "difficulty": "hard",
-    "lastUpdated": "2026-08-19T02:37:59.680Z",
+    "lastUpdated": "2026-08-19T03:12:44.570Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "Jan2026.pdf",
       "sourceId": "emu-jan-india-eu-free-trade-agreement",
       "sourceTitle": "🌐 India–EU Free Trade Agreement Concluded — 15 Bank Branches, 100% Insurance FDI & Euratom",
       "provenancePages": [
+        4,
         10
       ],
-      "constituentArticleCount": 1,
-      "migrationTimestamp": "2026-08-19T02:37:59.680Z",
+      "constituentArticleCount": 2,
+      "migrationTimestamp": "2026-08-19T03:12:44.570Z",
       "normalizationRuleVersion": "5.5.0-r5-production"
     },
     "caFrameworkVersion": "v5.5.0-r5-production",

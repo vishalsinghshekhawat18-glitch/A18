@@ -1,24 +1,24 @@
 {
   "id": "migrated-ca-2026-01-sec3-3",
-  "title": "🏦 AIFIs & SME Liquidity — ₹5,000 Crore SIDBI Equity Infusion & RXIL 21.6% Maiden Dividend",
+  "title": "🏦 State Bank of India — Bilateral Israel Rupee Trade (SRVA), ₹1,000 Cr ATM Contract & $250M Bonds",
   "type": "ca_note",
   "domain": "current-affairs",
-  "summary": "Receivables Exchange of India Ltd (RXIL, promoted by SIDBI and NSE with SBI, ICICI, Yes Bank) declared maiden interim dividend of 21.6% on ₹10 face value shares.",
+  "summary": "SBI (only Indian bank with Israel branch, opened 2007) announced INR trade settlement with Israel through Special Rupee Vostro Accounts (SRVA).",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "**Overview**: Receivables Exchange of India Ltd (RXIL, promoted by SIDBI and NSE with SBI, ICICI, Yes Bank) declared maiden interim dividend of 21.6% on ₹10 face value shares."
+      "content": "**Overview**: SBI (only Indian bank with Israel branch, opened 2007) announced INR trade settlement with Israel through Special Rupee Vostro Accounts (SRVA)."
     },
     {
       "type": "bullet_list",
       "items": [
-        "**RXIL Becomes First TReDS Platform in India to Declare Dividend (21.6%)** (Page 47): Receivables Exchange of India Ltd (RXIL, promoted by SIDBI and NSE with SBI, ICICI, Yes Bank) declared maiden interim dividend of 21.6% on ₹10 face value shares."
+        "**SBI to Facilitate Bilateral India-Israel Trade in Rupee via SRVA Mechanism** (Page 38): SBI (only Indian bank with Israel branch, opened 2007) announced INR trade settlement with Israel through Special Rupee Vostro Accounts (SRVA)."
       ]
     },
     {
       "type": "exam_trap",
       "title": "🎯 Exam Focus & Pitfalls",
-      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Development Financial Institutions & MSME Factoring. DFS ₹5,000 Cr capital infusion into SIDBI across 3 tranches, and RXIL becomes 1st TReDS platform to declare a dividend."
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Public Sector Banking Scale & International Operations. SBI facilitates INR-Israel trade via SRVA, awards India's 1st ₹1,000 Cr direct 10-yr ATM outsourcing contract, and raises $250M SOFR bonds."
     }
   ],
   "metadata": {
@@ -31,33 +31,33 @@
       "sec3",
       "Current Affairs 2026",
       "January 2026",
-      "TIER_B_PLUS"
+      "TIER_A"
     ],
     "date": "2026-01-15",
     "category": "SEC3",
-    "difficulty": "intermediate",
-    "lastUpdated": "2026-08-19T02:37:59.677Z",
+    "difficulty": "hard",
+    "lastUpdated": "2026-08-19T03:12:44.563Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "Jan2026.pdf",
-      "sourceId": "emu-jan-aifi-sidbi-equity-rxil",
-      "sourceTitle": "🏦 AIFIs & SME Liquidity — ₹5,000 Crore SIDBI Equity Infusion & RXIL 21.6% Maiden Dividend",
+      "sourceId": "emu-jan-sbi-scale-israel-atm-outsource",
+      "sourceTitle": "🏦 State Bank of India — Bilateral Israel Rupee Trade (SRVA), ₹1,000 Cr ATM Contract & $250M Bonds",
       "provenancePages": [
-        47
+        38
       ],
       "constituentArticleCount": 1,
-      "migrationTimestamp": "2026-08-19T02:37:59.677Z",
+      "migrationTimestamp": "2026-08-19T03:12:44.563Z",
       "normalizationRuleVersion": "5.5.0-r5-production"
     },
     "caFrameworkVersion": "v5.5.0-r5-production",
-    "relevanceTier": "TIER_B_PLUS",
+    "relevanceTier": "TIER_A",
     "temporalZone": "CORE",
     "sectionCode": "SEC3",
     "relationshipDecision": "UNIQUE_STANDALONE",
     "editorialDecision": "RETAIN_NEW",
     "isStudyMaterial": true,
-    "noteTier": "TIER_B_PLUS",
-    "studyUtilityScore": 85
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   },
   "relationships": []
 }

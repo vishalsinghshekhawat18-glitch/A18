@@ -1,24 +1,24 @@
 {
   "id": "migrated-ca-2026-01-sec3-2",
-  "title": "🏦 State Bank of India — Bilateral Israel Rupee Trade (SRVA), ₹1,000 Cr ATM Contract & $250M Bonds",
+  "title": "🏦 Reinsurance Market Landscape — Indian Insurance AUM Crosses ₹74.44 Lakh Crore",
   "type": "ca_note",
   "domain": "current-affairs",
-  "summary": "SBI (only Indian bank with Israel branch, opened 2007) announced INR trade settlement with Israel through Special Rupee Vostro Accounts (SRVA).",
+  "summary": "DFS Secretary M. Nagaraju addressed 3rd Global Reinsurance Summit in Mumbai. Total insurance premiums in FY25 reached ₹11.93L Cr with AUM of ₹74.44L Cr; reinsurance market stood at ₹1.12L Cr under \"Insurance for All by 2047\" vision.",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "**Overview**: SBI (only Indian bank with Israel branch, opened 2007) announced INR trade settlement with Israel through Special Rupee Vostro Accounts (SRVA)."
+      "content": "**Overview**: DFS Secretary M. Nagaraju addressed 3rd Global Reinsurance Summit in Mumbai. Total insurance premiums in FY25 reached ₹11.93L Cr with AUM of ₹74.44L Cr; reinsurance market stood at ₹1.12L Cr under \"Insurance for All by 2047\" vision."
     },
     {
       "type": "bullet_list",
       "items": [
-        "**SBI to Facilitate Bilateral India-Israel Trade in Rupee via SRVA Mechanism** (Page 38): SBI (only Indian bank with Israel branch, opened 2007) announced INR trade settlement with Israel through Special Rupee Vostro Accounts (SRVA)."
+        "**3rd IFSC-IRDAI-GIFT City Global Reinsurance Summit: Indian Insurance AUM at ₹74.44 Lakh Crore** (Page 52): DFS Secretary M. Nagaraju addressed 3rd Global Reinsurance Summit in Mumbai. Total insurance premiums in FY25 reached ₹11.93L Cr with AUM of ₹74.44L Cr; reinsurance market stood at ₹1.12L Cr under \"Insurance for All by 2047\" vision."
       ]
     },
     {
       "type": "exam_trap",
       "title": "🎯 Exam Focus & Pitfalls",
-      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Public Sector Banking Scale & International Operations. SBI facilitates INR-Israel trade via SRVA, awards India's 1st ₹1,000 Cr direct 10-yr ATM outsourcing contract, and raises $250M SOFR bonds."
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under National Reinsurance Architecture & GIFT City Hub. Global Reinsurance Summit highlights: ₹11.93L Cr premiums, ₹74.44L Cr AUM, and ₹1.12L Cr reinsurance market aligned with Insurance 2047."
     }
   ],
   "metadata": {
@@ -36,17 +36,17 @@
     "date": "2026-01-15",
     "category": "SEC3",
     "difficulty": "hard",
-    "lastUpdated": "2026-08-19T02:37:59.676Z",
+    "lastUpdated": "2026-08-19T03:12:44.561Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "Jan2026.pdf",
-      "sourceId": "emu-jan-sbi-scale-israel-atm-outsource",
-      "sourceTitle": "🏦 State Bank of India — Bilateral Israel Rupee Trade (SRVA), ₹1,000 Cr ATM Contract & $250M Bonds",
+      "sourceId": "emu-jan-dfs-reinsurance-summit",
+      "sourceTitle": "🏦 Reinsurance Market Landscape — Indian Insurance AUM Crosses ₹74.44 Lakh Crore",
       "provenancePages": [
-        38
+        52
       ],
       "constituentArticleCount": 1,
-      "migrationTimestamp": "2026-08-19T02:37:59.676Z",
+      "migrationTimestamp": "2026-08-19T03:12:44.562Z",
       "normalizationRuleVersion": "5.5.0-r5-production"
     },
     "caFrameworkVersion": "v5.5.0-r5-production",

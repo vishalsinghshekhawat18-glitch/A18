@@ -1,8 +1,9 @@
 {
-  "id": "migrated-ca-2026-01-sec3-1",
+  "id": "emu-jan-digital-payments-food-cbdc",
   "title": "🏦 Digital Payments Architecture — Programmed CBDC Food Tokens for PDS & UPI Record 21.7B Volume",
-  "type": "ca_note",
-  "domain": "current-affairs",
+  "category": "SEC3",
+  "tier": "TIER_A",
+  "theme": "Digital Public Infrastructure & Targeted Welfare CBDC",
   "summary": "CMIE data showed outstanding bank credit crossed the ₹200 lakh crore mark for the first time, reaching ₹203.2 lakh crore at end-December 2025 (14.5% YoY growth). YTD credit expanded by ₹20.78 lakh crore.",
   "blocks": [
     {
@@ -22,42 +23,14 @@
     }
   ],
   "metadata": {
-    "exam": [
-      "RBI Grade B",
-      "NABARD Grade A",
-      "SBI PO"
+    "provenancePages": [
+      3
     ],
-    "tags": [
-      "sec3",
-      "Current Affairs 2026",
-      "January 2026",
-      "TIER_A"
+    "constituentArticleCount": 1,
+    "provenanceArticleIds": [
+      "jan-art-7"
     ],
-    "date": "2026-01-15",
-    "category": "SEC3",
-    "difficulty": "hard",
-    "lastUpdated": "2026-08-19T03:12:44.558Z",
-    "provenance": {
-      "sourceSystem": "CA",
-      "sourceFile": "Jan2026.pdf",
-      "sourceId": "emu-jan-digital-payments-food-cbdc",
-      "sourceTitle": "🏦 Digital Payments Architecture — Programmed CBDC Food Tokens for PDS & UPI Record 21.7B Volume",
-      "provenancePages": [
-        3
-      ],
-      "constituentArticleCount": 1,
-      "migrationTimestamp": "2026-08-19T03:12:44.558Z",
-      "normalizationRuleVersion": "5.5.0-r5-production"
-    },
-    "caFrameworkVersion": "v5.5.0-r5-production",
-    "relevanceTier": "TIER_A",
-    "temporalZone": "CORE",
-    "sectionCode": "SEC3",
-    "relationshipDecision": "UNIQUE_STANDALONE",
-    "editorialDecision": "RETAIN_NEW",
-    "isStudyMaterial": true,
-    "noteTier": "TIER_A",
-    "studyUtilityScore": 95
-  },
-  "relationships": []
+    "statutoryConcept": "Digital Public Infrastructure & Targeted Welfare CBDC",
+    "whyStandalone": "Pilot programmed e-Rupee tokens for ration delivery in 3 states, alongside record 21.70 billion monthly UPI transactions (₹28.33L Cr)."
+  }
 }

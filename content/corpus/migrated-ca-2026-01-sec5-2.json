@@ -12,7 +12,8 @@
     {
       "type": "bullet_list",
       "items": [
-        "**PFRDA Sets Up M.S. Sahoo Committee on Assured Payouts & SAARG Investment Panel** (Page 150): PFRDA constituted 15-member advisory committee chaired by Dr. M.S. Sahoo for guaranteed payouts under NPS, and SAARG panel chaired by Narayan Ramachandran for NPS investment governance."
+        "**PFRDA Sets Up M.S. Sahoo Committee on Assured Payouts & SAARG Investment Panel** (Page 150): PFRDA constituted 15-member advisory committee chaired by Dr. M.S. Sahoo for guaranteed payouts under NPS, and SAARG panel chaired by Narayan Ramachandran for NPS investment governance.",
+        "**IRDAI Reconstitutes Reinsurance Advisory Committee (RAC) Under A.V. Girija Kumar** (Page 151): IRDAI reconstituted Reinsurance Advisory Committee under Section 101B of Insurance Act 1938 for 3-year term chaired by former OICL CMD A.V. Girija Kumar."
       ]
     },
     {
@@ -36,17 +37,18 @@
     "date": "2026-01-15",
     "category": "SEC5",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-19T02:37:59.683Z",
+    "lastUpdated": "2026-08-19T03:12:44.579Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "Jan2026.pdf",
       "sourceId": "emu-jan-pfrda-sahoo-saarg-committees",
       "sourceTitle": "🤝 PFRDA Strategic Panels — M.S. Sahoo Assured Payout Committee & SAARG Investment Review",
       "provenancePages": [
-        150
+        150,
+        151
       ],
-      "constituentArticleCount": 1,
-      "migrationTimestamp": "2026-08-19T02:37:59.683Z",
+      "constituentArticleCount": 2,
+      "migrationTimestamp": "2026-08-19T03:12:44.579Z",
       "normalizationRuleVersion": "5.5.0-r5-production"
     },
     "caFrameworkVersion": "v5.5.0-r5-production",

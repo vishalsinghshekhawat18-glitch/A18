@@ -1,24 +1,24 @@
 {
   "id": "migrated-ca-2026-01-sec3-4",
-  "title": "🏦 PFRDA Launches NPS Swasthya Pension Scheme — 25% Medical Withdrawal in Regulatory Sandbox",
+  "title": "🏦 AIFIs & SME Liquidity — ₹5,000 Crore SIDBI Equity Infusion & RXIL 21.6% Maiden Dividend",
   "type": "ca_note",
   "domain": "current-affairs",
-  "summary": "PFRDA launched contributory NPS Swasthya Pension under Regulatory Sandbox allowing partial withdrawals up to 25% of contributions for OPD/IPD expenses after ₹50,000 corpus, and 100% exit for critical illnesses exceeding 70% of corpus.",
+  "summary": "Receivables Exchange of India Ltd (RXIL, promoted by SIDBI and NSE with SBI, ICICI, Yes Bank) declared maiden interim dividend of 21.6% on ₹10 face value shares.",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "**Overview**: PFRDA launched contributory NPS Swasthya Pension under Regulatory Sandbox allowing partial withdrawals up to 25% of contributions for OPD/IPD expenses after ₹50,000 corpus, and 100% exit for critical illnesses exceeding 70% of corpus."
+      "content": "**Overview**: Receivables Exchange of India Ltd (RXIL, promoted by SIDBI and NSE with SBI, ICICI, Yes Bank) declared maiden interim dividend of 21.6% on ₹10 face value shares."
     },
     {
       "type": "bullet_list",
       "items": [
-        "**PFRDA Launches NPS Swasthya Pension Scheme in Regulatory Sandbox for Health Expenses** (Page 50): PFRDA launched contributory NPS Swasthya Pension under Regulatory Sandbox allowing partial withdrawals up to 25% of contributions for OPD/IPD expenses after ₹50,000 corpus, and 100% exit for critical illnesses exceeding 70% of corpus."
+        "**RXIL Becomes First TReDS Platform in India to Declare Dividend (21.6%)** (Page 47): Receivables Exchange of India Ltd (RXIL, promoted by SIDBI and NSE with SBI, ICICI, Yes Bank) declared maiden interim dividend of 21.6% on ₹10 face value shares."
       ]
     },
     {
       "type": "exam_trap",
       "title": "🎯 Exam Focus & Pitfalls",
-      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Pension Sandbox Innovations & Health Financing. PFRDA voluntary health pension allowing 25% partial withdrawals for OPD/IPD and 100% premature exit for critical illness >70% corpus."
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Development Financial Institutions & MSME Factoring. DFS ₹5,000 Cr capital infusion into SIDBI across 3 tranches, and RXIL becomes 1st TReDS platform to declare a dividend."
     }
   ],
   "metadata": {
@@ -36,17 +36,17 @@
     "date": "2026-01-15",
     "category": "SEC3",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-19T02:37:59.678Z",
+    "lastUpdated": "2026-08-19T03:12:44.564Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "Jan2026.pdf",
-      "sourceId": "emu-jan-pfrda-nps-swasthya-pension",
-      "sourceTitle": "🏦 PFRDA Launches NPS Swasthya Pension Scheme — 25% Medical Withdrawal in Regulatory Sandbox",
+      "sourceId": "emu-jan-aifi-sidbi-equity-rxil",
+      "sourceTitle": "🏦 AIFIs & SME Liquidity — ₹5,000 Crore SIDBI Equity Infusion & RXIL 21.6% Maiden Dividend",
       "provenancePages": [
-        50
+        47
       ],
       "constituentArticleCount": 1,
-      "migrationTimestamp": "2026-08-19T02:37:59.678Z",
+      "migrationTimestamp": "2026-08-19T03:12:44.564Z",
       "normalizationRuleVersion": "5.5.0-r5-production"
     },
     "caFrameworkVersion": "v5.5.0-r5-production",

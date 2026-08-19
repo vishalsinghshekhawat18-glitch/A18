@@ -13,7 +13,8 @@
       "type": "bullet_list",
       "items": [
         "**Henley Passport Index 2026: India Ranks 80th with Visa-Free Access to 55 Nations** (Page 115): India ranked 80th (tied with Algeria & Niger) with visa-free/VoA access to 55 countries. Singapore ranked 1st (192 destinations), Japan/South Korea 2nd.",
-        "**Responsible Nations Index 2026: India Ranks 16th Globally in Ethical Governance Benchmark** (Page 116): Former President Ram Nath Kovind launched RNI (154 nations) developed by WIF, JNU, IIM Mumbai, and DAIC: Singapore #1, Switzerland #2, Denmark #3, India #16 (score 0.5515)."
+        "**Responsible Nations Index 2026: India Ranks 16th Globally in Ethical Governance Benchmark** (Page 116): Former President Ram Nath Kovind launched RNI (154 nations) developed by WIF, JNU, IIM Mumbai, and DAIC: Singapore #1, Switzerland #2, Denmark #3, India #16 (score 0.5515).",
+        "**Brand Finance Global Soft Power Index 2026: India Ranks 32nd Globally** (Page 120): Global Soft Power Index ranked 193 UN states: US #1 (score 74.9), China #2, UK #3; India ranked 32nd (score 48.0)."
       ]
     },
     {
@@ -37,7 +38,7 @@
     "date": "2026-01-15",
     "category": "SEC7",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-19T02:37:59.688Z",
+    "lastUpdated": "2026-08-19T03:12:44.590Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "Jan2026.pdf",
@@ -45,10 +46,11 @@
       "sourceTitle": "🏆 Global Indices 2026 — Henley Passport Index (80th), NITI EPI 2024 (Maharashtra #1) & RNI (16th)",
       "provenancePages": [
         115,
-        116
+        116,
+        120
       ],
-      "constituentArticleCount": 2,
-      "migrationTimestamp": "2026-08-19T02:37:59.688Z",
+      "constituentArticleCount": 3,
+      "migrationTimestamp": "2026-08-19T03:12:44.590Z",
       "normalizationRuleVersion": "5.5.0-r5-production"
     },
     "caFrameworkVersion": "v5.5.0-r5-production",

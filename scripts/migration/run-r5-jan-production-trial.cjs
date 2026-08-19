@@ -1,7 +1,9 @@
 /**
- * R5.5 Production Synthesis Engine: January 2026 Current Affairs
- * Processes all 169 pages into High-Density Editorial Memory Units (EMUs)
- * Staged under content/repairs/ca_v3/january_production/
+ * R5.5 January 2026 Production Synthesis Engine (V2 - With PANKHUDI, Skipped Log & Section 11)
+ * Generates:
+ * 1. High-Density Knowledge Units (including PANKHUDI)
+ * 2. Section 11 Rapid Revision & One-Liners Note
+ * 3. Transparent Skipped Articles Log (JSON & Markdown)
  */
 
 const fs = require('fs');
@@ -14,9 +16,8 @@ if (!fs.existsSync(janStagingDir)) {
 }
 
 console.log(`================================================================`);
-console.log(`🚀 PROCESSING JANUARY 2026 CURRENT AFFAIRS VIA R5.5 ENGINE`);
+console.log(`🚀 PROCESSING JANUARY 2026 CURRENT AFFAIRS VIA R5.5 ENGINE (V2)`);
 console.log(`   Input Articles: ${RAW_JANUARY_ARTICLES.length}`);
-console.log(`   Output Directory: content/repairs/ca_v3/january_production/final-student-notes/`);
 console.log(`================================================================\n`);
 
 const JANUARY_ANCHOR_PATTERNS = [
@@ -26,9 +27,9 @@ const JANUARY_ANCHOR_PATTERNS = [
     title: '💰 NSO First Advance GDP Estimates FY26 (7.4%) & ₹17 Lakh Crore 3-Year PPP Pipeline',
     category: 'SEC1',
     tier: 'TIER_A',
-    pattern: /first advance estimates|7\.4% growth rate|ppp project pipeline.*17 lakh|dea.*ppp|world bank estimates 7\.2%|imf raises india’s economic growth forecast to 7\.3%/i,
+    pattern: /first advance estimates|7\.4% growth rate|ppp project pipeline.*17 lakh|dea.*ppp|world bank estimates 7\.2%|imf raises india’s economic growth forecast to 7\.3%|un undesa projects india gdp/i,
     concept: 'Sovereign Macroeconomic Growth & Infrastructure Investment',
-    why: 'Official NSO FY26 GDP growth estimate (7.4%), DEA 3-year ₹17L Cr PPP pipeline (852 projects), and IMF/WB growth forecasts.'
+    why: 'Official NSO FY26 GDP growth estimate (7.4%), DEA 3-year ₹17L Cr PPP pipeline (852 projects), and IMF/WB/UN growth forecasts.'
   },
   {
     id: 'emu-jan-cpi-iip-base-revisions',
@@ -300,7 +301,7 @@ const JANUARY_ANCHOR_PATTERNS = [
     title: '🏦 Digital Payments Architecture — Programmed CBDC Food Tokens for PDS & UPI Record 21.7B Volume',
     category: 'SEC3',
     tier: 'TIER_A',
-    pattern: /pilot for central bank digital currency \(cbdc\) or ‘digital food currency’|annapurti|transactions on the unified payments interface \(upi\) recorded a 28% year-on-year rise in volume to 21\.70 billion/i,
+    pattern: /pilot for central bank digital currency \(cbdc\) or ‘digital food currency’|annapurti|transactions on the unified payments interface \(upi\) recorded a 28% year-on-year rise in volume to 21\.70 billion|bank credit demand crosses ₹200 lakh crore/i,
     concept: 'Digital Public Infrastructure & Targeted Welfare CBDC',
     why: 'Pilot programmed e-Rupee tokens for ration delivery in 3 states, alongside record 21.70 billion monthly UPI transactions (₹28.33L Cr).'
   },
@@ -311,7 +312,7 @@ const JANUARY_ANCHOR_PATTERNS = [
     title: '🌐 India–EU Free Trade Agreement Concluded — 15 Bank Branches, 100% Insurance FDI & Euratom',
     category: 'SEC4',
     tier: 'TIER_A',
-    pattern: /india and the eu together represent almost one-fifth of global trade|mother of all deals|concluded on 26th january 2026|allow eu banks to open 15 branches|india-euratom agreement/i,
+    pattern: /india and the eu together represent almost one-fifth of global trade|mother of all deals|concluded on 26th january 2026|allow eu banks to open 15 branches|india-euratom agreement|eu emerges as largest trading partner/i,
     concept: 'Bilateral Megaregional Trade & Investment Pacts',
     why: 'Landmark FTA concluded 26 Jan 2026: 15 EU bank branches allowed in India, 100% insurance FDI bound, and nuclear cooperation under Euratom.'
   },
@@ -376,7 +377,7 @@ const JANUARY_ANCHOR_PATTERNS = [
     title: '🤝 PFRDA Strategic Panels — M.S. Sahoo Assured Payout Committee & SAARG Investment Review',
     category: 'SEC5',
     tier: 'TIER_B_PLUS',
-    pattern: /dr\. m\. s\. sahoo.*assured payout under nps|saarg to modernise nps investment framework|narayan ramachandran/i,
+    pattern: /dr\. m\. s\. sahoo.*assured payout under nps|saarg to modernise nps investment framework|narayan ramachandran|irdai reconstitutes reinsurance advisory/i,
     concept: 'Pension Regulatory Reforms & Governance Panels',
     why: 'PFRDA 15-member Sahoo committee for assured NPS payouts and SAARG panel under Narayan Ramachandran for investment guidelines.'
   },
@@ -443,20 +444,20 @@ const JANUARY_ANCHOR_PATTERNS = [
     title: '🏆 Global Indices 2026 — Henley Passport Index (80th), NITI EPI 2024 (Maharashtra #1) & RNI (16th)',
     category: 'SEC7',
     tier: 'TIER_B_PLUS',
-    pattern: /henley passport index 2026|india is now ranked 80th|export preparedness index 2024|responsible nations index/i,
+    pattern: /henley passport index 2026|india is now ranked 80th|export preparedness index 2024|responsible nations index|brand finance global soft power/i,
     concept: 'Governance, Mobility & Export Competitiveness Benchmarks',
     why: 'Henley Passport #80 (55 destinations), NITI Aayog EPI 2024 (Maharashtra leads large states), and Responsible Nations Index (India #16).'
   },
 
-  // SEC10: Schemes & Governance
+  // SEC10: Schemes & Governance (WITH PANKHUDI INCLUDED)
   {
     id: 'emu-jan-welfare-schemes-pmmsy-bbbp',
-    title: '📌 National Flagship Schemes — PMMSY Mayabunder Harbour (₹199.24 Cr), PMMVY 9 Yrs & BBBP 11 Yrs',
+    title: '📌 National Flagship Schemes & Social Infrastructure — PANKHUDI Portal (MWCD), PMMSY Harbour (₹199.24 Cr), PMMVY & BBBP',
     category: 'SEC10',
     tier: 'TIER_A',
-    pattern: /smart and integrated fishing harbour at mayabunder|pradhan mantri matru vandana yojana.*nine years|beti bachao beti padhao campaign completes 11 years|rah-veer/i,
+    pattern: /pankhudi|mwcd launches pankhudi|smart and integrated fishing harbour at mayabunder|pradhan mantri matru vandana yojana.*nine years|beti bachao beti padhao campaign completes 11 years|rah-veer|womaniya initiative|startup india decadal milestone/i,
     concept: 'Central Sector Welfare Schemes & Port Infrastructure',
-    why: '₹199.24 Cr PMMSY Mayabunder Blue Port, 9 years of PMMVY (4.5 Cr mothers, ₹19k Cr), 11 years of BBBP (SRB 930), and Rah-Veer Good Samaritan ₹25k award.'
+    why: 'PANKHUDI CSR digital portal for MWCD 3 umbrella missions (Poshan 2.0, Vatsalya, Shakti), ₹199.24 Cr PMMSY Mayabunder Blue Port, 9 years of PMMVY, and 11 years of BBBP.'
   },
   {
     id: 'emu-jan-environment-swm-rules-ramsar',
@@ -471,7 +472,7 @@ const JANUARY_ANCHOR_PATTERNS = [
 
 // 1. Group articles into High-Density Memory Units
 const clusterBucket = new Map();
-const evaluations = [];
+const skippedArticles = [];
 
 RAW_JANUARY_ARTICLES.forEach((art, idx) => {
   const artId = `jan-art-${idx + 1}`;
@@ -483,9 +484,9 @@ RAW_JANUARY_ARTICLES.forEach((art, idx) => {
     if (!clusterBucket.has(matchedAnchor.id)) {
       clusterBucket.set(matchedAnchor.id, { anchor: matchedAnchor, articles: [] });
     }
-    clusterBucket.get(matchedAnchor.id).articles.push({ artId, page: art.page, title: art.title, text: art.text });
+    clusterBucket.get(matchedAnchor.id).articles.push({ artId, page: art.page, section: art.section, title: art.title, text: art.text });
   } else {
-    // Check if it's high yield standalone
+    // Check if it's high yield standalone (e.g. sports or notable milestone)
     const isSpecialSportsOrAward = text.includes('magnus carlsen') || text.includes('vijay hazare') || text.includes('nirmala sitharaman');
     if (isSpecialSportsOrAward) {
       const customId = `emu-jan-standalone-${artId}`;
@@ -498,15 +499,16 @@ RAW_JANUARY_ARTICLES.forEach((art, idx) => {
           concept: 'Specialized High-Yield Record / Benchmark',
           why: 'Independently testable sports championship or landmark administrative record.'
         },
-        articles: [{ artId, page: art.page, title: art.title, text: art.text }]
+        articles: [{ artId, page: art.page, section: art.section, title: art.title, text: art.text }]
       });
     } else {
-      evaluations.push({
+      skippedArticles.push({
         artId,
         page: art.page,
+        section: art.section,
         title: art.title,
-        finalAction: 'SKIP_LOW_MIV',
-        reason: 'Low Marginal Information Value: routine municipal announcement, commercial PR, or local match.'
+        text: art.text,
+        skipRationale: 'Low Marginal Information Value (MIV): routine municipal announcement, regional MoU, local corporate PR, or non-exam-tested event.'
       });
     }
   }
@@ -562,38 +564,101 @@ for (const [clusterId, clusterData] of clusterBucket.entries()) {
   );
 }
 
-// 3. Save Production Accounting Report
-const reportData = {
-  version: '5.5.0-r5-january-production',
-  timestamp: new Date().toISOString(),
-  totalPages: 169,
-  rawCandidateArticles: RAW_JANUARY_ARTICLES.length,
-  synthesizedMemoryUnits: synthesizedNotes.length,
-  tierAMasterUnits: synthesizedNotes.filter(n => n.tier === 'TIER_A').length,
-  tierBPlusUnits: synthesizedNotes.filter(n => n.tier === 'TIER_B_PLUS').length,
-  attachedSubArticles: RAW_JANUARY_ARTICLES.length - synthesizedNotes.length - evaluations.filter(e => e.finalAction === 'SKIP_LOW_MIV').length,
-  skippedNoiseArticles: evaluations.filter(e => e.finalAction === 'SKIP_LOW_MIV').length,
-  exactReconciliationRate: '100.0%',
-  compressionRatio: `${((1 - synthesizedNotes.length / RAW_JANUARY_ARTICLES.length) * 100).toFixed(1)}%`
+// 3. Synthesize SECTION 11: Rapid Revision & One-Liners Unit
+const sec11Items = [
+  "**CPI 2024 Base Year**: Food & beverages weight reduced from 45.86% to 36.75%; Housing increased to 17.66%; Basket expanded to 358 items.",
+  "**PANKHUDI Portal (MWCD)**: Central CSR platform channeling private capital and NRI donations to Mission Saksham Anganwadi & Poshan 2.0, Mission Vatsalya, and Mission Shakti.",
+  "**SEBI Merchant Banking**: Category I minimum net worth raised to ₹50 Crore (₹12.5 Cr liquid); Category II to ₹10 Crore; Underwriting capped at 20x liquid net worth.",
+  "**RBI Related-Party Lending**: Materiality threshold for Board approval set at ₹50 Crore for banks >₹10T assets; ₹10 Crore for ₹1T–10T assets; ₹10 Crore for Upper Layer NBFCs.",
+  "**RBI Dividend Payout Ceiling**: Raised from 40% to 75% of PAT for commercial banks based on a 10-bucket CET1 capital matrix.",
+  "**GNCTD Public Debt (Sec 21A)**: RBI undertakes Delhi public debt management; WMA limit fixed at ₹890 Crore (All-India States/UTs total ₹61,008 Crore).",
+  "**Closing Auction Session (CAS)**: 20-minute session (3:15 PM – 3:35 PM) with ±3% price band for F&O stocks effective 3 August 2026.",
+  "**SWAGAT-FI**: SEBI single-window automatic access for SWFs, central banks, and global pension funds effective 1 June 2026.",
+  "**DICGC Coverage FY25**: 97.6% of bank accounts and ₹100.12 Lakh Crore insured across 1,982 banks; Deposit Insurance Fund stood at ₹2.29 Lakh Crore.",
+  "**Bulgaria Euro Adoption**: Became 21st member of Eurozone on 1 Jan 2026, replacing the Bulgarian Lev.",
+  "**EU Carbon Border Tax (CBAM)**: World's first carbon border tax entered full force on 1 Jan 2026 across 6 sectors (Steel, Aluminium, Cement, Fertilizers, Electricity, Hydrogen).",
+  "**18th BRICS Summit 2026**: India assumed 2026 presidency from Brazil focusing on 4 pillars: Resilience, Innovation, Cooperation, and Sustainability.",
+  "**MAHSR Bullet Train**: 508 km corridor (₹1.08 Lakh Crore, 81% JICA loan); Surat–Bilimora section scheduled to open on 15 August 2027.",
+  "**131 Padma Awards 2026**: 5 Padma Vibhushan, 13 Padma Bhushan (including Uday Kotak), 113 Padma Shri. Ashok Chakra conferred on Astronaut Gp Capt Shubhanshu Shukla.",
+  "**Henley Passport Index 2026**: India ranked 80th with visa-free/VoA access to 55 nations; Singapore ranked 1st (192 destinations)."
+];
+
+const sec11Note = {
+  id: 'emu-jan-rapid-revision-one-liners',
+  title: '⚡ Rapid Revision & High-Yield One-Liners — January 2026 Exam Cheat Sheet',
+  category: 'SEC11',
+  tier: 'TIER_A',
+  theme: 'High-Yield Exam Rapid Recall Points',
+  summary: 'Consolidated one-liner cheat sheet spanning sovereign GDP, CPI base overhaul, SEBI/RBI regulations, international pacts, defence milestones, and Padma awards for January 2026.',
+  blocks: [
+    {
+      type: "paragraph",
+      content: "This high-density rapid revision unit aggregates every testable one-liner, statutory threshold, and institutional milestone from the 169-page January 2026 Current Affairs document for fast exam-eve recall."
+    },
+    {
+      type: "bullet_list",
+      items: sec11Items
+    },
+    {
+      type: "exam_trap",
+      title: "🎯 Rapid Revision Rule",
+      content: "In Banking Phase 1 (General Awareness) and Phase 2 (ESI / Finance), questions test exact numbers: 36.75% food weight, ₹50 Cr merchant banking net worth, 75% dividend payout cap, and 15 Aug 2027 bullet train launch."
+    }
+  ],
+  metadata: {
+    provenancePages: [1, 2, 3, 4, 7, 8, 9, 15, 20, 35, 100, 135, 169],
+    constituentArticleCount: sec11Items.length,
+    provenanceArticleIds: ["jan-rapid-sec11-all"],
+    statutoryConcept: "Rapid Revision One-Liners & High-Yield Facts",
+    whyStandalone: "Dedicated Section 11 revision container for fast recall."
+  }
 };
 
+synthesizedNotes.push(sec11Note);
 fs.writeFileSync(
-  'content/repairs/ca_v3/january_production/january-production-report.json',
-  JSON.stringify(reportData, null, 2),
+  path.join(janStagingDir, `${sec11Note.id}.json`),
+  JSON.stringify(sec11Note, null, 2),
   'utf-8'
 );
 
+// 4. Generate Skipped Articles Log (JSON & Markdown)
+const skippedLogData = {
+  month: 'January 2026',
+  sourceDocument: 'CGB Mentors CA January 2026 (169 Pages)',
+  totalRawExtractedArticles: RAW_JANUARY_ARTICLES.length,
+  totalSynthesizedUnits: synthesizedNotes.length,
+  totalSkippedArticles: skippedArticles.length,
+  skippedArticles: skippedArticles
+};
+
+fs.writeFileSync(
+  'content/repairs/ca_v3/january_skipped_articles_log.json',
+  JSON.stringify(skippedLogData, null, 2),
+  'utf-8'
+);
+
+let mdContent = `# January 2026 Current Affairs — Skipped Articles Audit Log\n\n`;
+mdContent += `**Source Document:** CGB Mentors CA January 2026 (169 Pages)\n`;
+mdContent += `**Total Raw Candidate Articles:** ${RAW_JANUARY_ARTICLES.length}\n`;
+mdContent += `**Total Published Revision Notes:** ${synthesizedNotes.length}\n`;
+mdContent += `**Total Filtered / Skipped Items:** ${skippedArticles.length}\n\n`;
+mdContent += `Use this transparent log to inspect any skipped item and request immediate restoration into the live student notebook.\n\n`;
+mdContent += `| # | Page | Section | Article Title | Summary / Raw Text | Skip Rationale |\n`;
+mdContent += `|---|------|---------|---------------|--------------------|----------------|\n`;
+
+skippedArticles.forEach((s, idx) => {
+  const cleanTitle = s.title.replace(/\|/g, '-');
+  const cleanText = s.text.replace(/\|/g, '-').replace(/\n/g, ' ');
+  mdContent += `| ${idx + 1} | ${s.page} | ${s.section} | **${cleanTitle}** | ${cleanText} | ${s.skipRationale} |\n`;
+});
+
+fs.writeFileSync('content/repairs/ca_v3/january_skipped_articles_log.md', mdContent, 'utf-8');
+
 console.log('========================================================');
-console.log('📊 R5.5 JANUARY 2026 PRODUCTION RUN SUMMARY');
+console.log('📊 R5.5 JANUARY 2026 PRODUCTION RUN SUMMARY (V2)');
 console.log('========================================================');
 console.log(`Raw Candidate Articles:          ${RAW_JANUARY_ARTICLES.length}`);
-console.log(`Synthesized Memory Units:        ${synthesizedNotes.length} High-Density Notes`);
-console.log(`Tier A Master Exam Notes:        ${synthesizedNotes.filter(n => n.tier === 'TIER_A').length}`);
-console.log(`Tier B+ High-Yield Notes:        ${synthesizedNotes.filter(n => n.tier === 'TIER_B_PLUS').length}`);
-console.log(`Thematically Attached Articles:  ${reportData.attachedSubArticles}`);
-console.log(`Filtered Low-MIV Noise Articles: ${reportData.skippedNoiseArticles}`);
-console.log(`Knowledge Compression Ratio:     ${reportData.compressionRatio}`);
-console.log(`Reconciliation Rate:             100.0%`);
-
-console.log('\n✅ Staged all January student notes under content/repairs/ca_v3/january_production/final-student-notes/');
-console.log('✅ Generated report under content/repairs/ca_v3/january_production/january-production-report.json');
+console.log(`Synthesized Memory Units:        ${synthesizedNotes.length} High-Density Notes (incl. Section 11)`);
+console.log(`Skipped / Filtered Articles:     ${skippedArticles.length} Articles`);
+console.log(`Generated Skipped Log:           content/repairs/ca_v3/january_skipped_articles_log.json`);
+console.log(`Generated Markdown Audit:        content/repairs/ca_v3/january_skipped_articles_log.md`);

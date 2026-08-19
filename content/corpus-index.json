@@ -20,17 +20,18 @@
       "date": "2026-01-15",
       "category": "SEC1",
       "difficulty": "hard",
-      "lastUpdated": "2026-08-19T02:37:59.661Z",
+      "lastUpdated": "2026-08-19T03:12:44.510Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
         "sourceId": "emu-jan-gdp-first-advance-estimates",
         "sourceTitle": "💰 NSO First Advance GDP Estimates FY26 (7.4%) & ₹17 Lakh Crore 3-Year PPP Pipeline",
         "provenancePages": [
-          2
+          2,
+          3
         ],
-        "constituentArticleCount": 2,
-        "migrationTimestamp": "2026-08-19T02:37:59.663Z",
+        "constituentArticleCount": 3,
+        "migrationTimestamp": "2026-08-19T03:12:44.513Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -66,7 +67,7 @@
       "date": "2026-01-15",
       "category": "SEC1",
       "difficulty": "hard",
-      "lastUpdated": "2026-08-19T02:37:59.664Z",
+      "lastUpdated": "2026-08-19T03:12:44.515Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -76,7 +77,7 @@
           7
         ],
         "constituentArticleCount": 1,
-        "migrationTimestamp": "2026-08-19T02:37:59.664Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.515Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -112,7 +113,7 @@
       "date": "2026-01-15",
       "category": "SEC1",
       "difficulty": "hard",
-      "lastUpdated": "2026-08-19T02:37:59.665Z",
+      "lastUpdated": "2026-08-19T03:12:44.517Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -122,7 +123,7 @@
           13
         ],
         "constituentArticleCount": 1,
-        "migrationTimestamp": "2026-08-19T02:37:59.665Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.518Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -158,7 +159,7 @@
       "date": "2026-01-15",
       "category": "SEC1",
       "difficulty": "hard",
-      "lastUpdated": "2026-08-19T02:37:59.666Z",
+      "lastUpdated": "2026-08-19T03:12:44.520Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -168,7 +169,7 @@
           2
         ],
         "constituentArticleCount": 1,
-        "migrationTimestamp": "2026-08-19T02:37:59.666Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.520Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -204,7 +205,7 @@
       "date": "2026-01-15",
       "category": "SEC1",
       "difficulty": "hard",
-      "lastUpdated": "2026-08-19T02:37:59.666Z",
+      "lastUpdated": "2026-08-19T03:12:44.523Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -214,7 +215,7 @@
           13
         ],
         "constituentArticleCount": 1,
-        "migrationTimestamp": "2026-08-19T02:37:59.666Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.523Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -250,7 +251,7 @@
       "date": "2026-01-15",
       "category": "SEC1",
       "difficulty": "intermediate",
-      "lastUpdated": "2026-08-19T02:37:59.667Z",
+      "lastUpdated": "2026-08-19T03:12:44.527Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -260,7 +261,7 @@
           5
         ],
         "constituentArticleCount": 1,
-        "migrationTimestamp": "2026-08-19T02:37:59.667Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.527Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -296,7 +297,7 @@
       "date": "2026-01-15",
       "category": "SEC10",
       "difficulty": "hard",
-      "lastUpdated": "2026-08-19T02:37:59.691Z",
+      "lastUpdated": "2026-08-19T03:12:44.596Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -308,7 +309,7 @@
           89
         ],
         "constituentArticleCount": 3,
-        "migrationTimestamp": "2026-08-19T02:37:59.691Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.596Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -327,7 +328,7 @@
     "id": "migrated-ca-2026-01-sec10-2",
     "type": "ca_note",
     "domain": "current-affairs",
-    "title": "📌 National Flagship Schemes — PMMSY Mayabunder Harbour (₹199.24 Cr), PMMVY 9 Yrs & BBBP 11 Yrs",
+    "title": "📌 National Flagship Schemes & Social Infrastructure — PANKHUDI Portal (MWCD), PMMSY Harbour (₹199.24 Cr), PMMVY & BBBP",
     "summary": "PMMVY completed 9 years on 1st January 2026 (launched 1 Jan 2017). Provides cash benefit of ₹5,000 for the first child (₹3,000 on registration, ₹2,000 after childbirth) and ₹6,000 for the second girl child. Eligible beneficiaries also receive cash incentive under Janani Suraksha Yojana. Over 4.5 crore beneficiaries enrolled with >₹19,000 crore disbursed.",
     "metadata": {
       "exam": [
@@ -344,20 +345,23 @@
       "date": "2026-01-15",
       "category": "SEC10",
       "difficulty": "hard",
-      "lastUpdated": "2026-08-19T02:37:59.691Z",
+      "lastUpdated": "2026-08-19T03:12:44.598Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
         "sourceId": "emu-jan-welfare-schemes-pmmsy-bbbp",
-        "sourceTitle": "📌 National Flagship Schemes — PMMSY Mayabunder Harbour (₹199.24 Cr), PMMVY 9 Yrs & BBBP 11 Yrs",
+        "sourceTitle": "📌 National Flagship Schemes & Social Infrastructure — PANKHUDI Portal (MWCD), PMMSY Harbour (₹199.24 Cr), PMMVY & BBBP",
         "provenancePages": [
           2,
+          3,
+          5,
+          6,
           8,
           11,
           62
         ],
-        "constituentArticleCount": 4,
-        "migrationTimestamp": "2026-08-19T02:37:59.691Z",
+        "constituentArticleCount": 7,
+        "migrationTimestamp": "2026-08-19T03:12:44.598Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -393,7 +397,7 @@
       "date": "2026-01-15",
       "category": "SEC10",
       "difficulty": "hard",
-      "lastUpdated": "2026-08-19T02:37:59.692Z",
+      "lastUpdated": "2026-08-19T03:12:44.599Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -404,13 +408,71 @@
           87
         ],
         "constituentArticleCount": 2,
-        "migrationTimestamp": "2026-08-19T02:37:59.692Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.599Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
       "relevanceTier": "TIER_A",
       "temporalZone": "CORE",
       "sectionCode": "SEC10",
+      "relationshipDecision": "UNIQUE_STANDALONE",
+      "editorialDecision": "RETAIN_NEW",
+      "isStudyMaterial": true,
+      "noteTier": "TIER_A",
+      "studyUtilityScore": 95
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-01-sec11-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "⚡ Rapid Revision & High-Yield One-Liners — January 2026 Exam Cheat Sheet",
+    "summary": "Consolidated one-liner cheat sheet spanning sovereign GDP, CPI base overhaul, SEBI/RBI regulations, international pacts, defence milestones, and Padma awards for January 2026.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec11",
+        "Current Affairs 2026",
+        "January 2026",
+        "TIER_A"
+      ],
+      "date": "2026-01-15",
+      "category": "SEC11",
+      "difficulty": "hard",
+      "lastUpdated": "2026-08-19T03:12:44.601Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Jan2026.pdf",
+        "sourceId": "emu-jan-rapid-revision-one-liners",
+        "sourceTitle": "⚡ Rapid Revision & High-Yield One-Liners — January 2026 Exam Cheat Sheet",
+        "provenancePages": [
+          1,
+          2,
+          3,
+          4,
+          7,
+          8,
+          9,
+          15,
+          20,
+          35,
+          100,
+          135,
+          169
+        ],
+        "constituentArticleCount": 15,
+        "migrationTimestamp": "2026-08-19T03:12:44.601Z",
+        "normalizationRuleVersion": "5.5.0-r5-production"
+      },
+      "caFrameworkVersion": "v5.5.0-r5-production",
+      "relevanceTier": "TIER_A",
+      "temporalZone": "CORE",
+      "sectionCode": "SEC11",
       "relationshipDecision": "UNIQUE_STANDALONE",
       "editorialDecision": "RETAIN_NEW",
       "isStudyMaterial": true,
@@ -440,7 +502,7 @@
       "date": "2026-01-15",
       "category": "SEC2",
       "difficulty": "hard",
-      "lastUpdated": "2026-08-19T02:37:59.668Z",
+      "lastUpdated": "2026-08-19T03:12:44.530Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -450,7 +512,7 @@
           17
         ],
         "constituentArticleCount": 1,
-        "migrationTimestamp": "2026-08-19T02:37:59.668Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.530Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -486,7 +548,7 @@
       "date": "2026-01-15",
       "category": "SEC2",
       "difficulty": "intermediate",
-      "lastUpdated": "2026-08-19T02:37:59.674Z",
+      "lastUpdated": "2026-08-19T03:12:44.553Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -496,7 +558,7 @@
           16
         ],
         "constituentArticleCount": 1,
-        "migrationTimestamp": "2026-08-19T02:37:59.674Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.553Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -532,7 +594,7 @@
       "date": "2026-01-15",
       "category": "SEC2",
       "difficulty": "intermediate",
-      "lastUpdated": "2026-08-19T02:37:59.675Z",
+      "lastUpdated": "2026-08-19T03:12:44.556Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -542,7 +604,7 @@
           36
         ],
         "constituentArticleCount": 1,
-        "migrationTimestamp": "2026-08-19T02:37:59.675Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.556Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -578,7 +640,7 @@
       "date": "2026-01-15",
       "category": "SEC2",
       "difficulty": "hard",
-      "lastUpdated": "2026-08-19T02:37:59.669Z",
+      "lastUpdated": "2026-08-19T03:12:44.533Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -588,7 +650,7 @@
           28
         ],
         "constituentArticleCount": 1,
-        "migrationTimestamp": "2026-08-19T02:37:59.669Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.533Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -624,7 +686,7 @@
       "date": "2026-01-15",
       "category": "SEC2",
       "difficulty": "hard",
-      "lastUpdated": "2026-08-19T02:37:59.669Z",
+      "lastUpdated": "2026-08-19T03:12:44.536Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -634,7 +696,7 @@
           19
         ],
         "constituentArticleCount": 1,
-        "migrationTimestamp": "2026-08-19T02:37:59.669Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.536Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -670,7 +732,7 @@
       "date": "2026-01-15",
       "category": "SEC2",
       "difficulty": "hard",
-      "lastUpdated": "2026-08-19T02:37:59.670Z",
+      "lastUpdated": "2026-08-19T03:12:44.539Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -680,7 +742,7 @@
           18
         ],
         "constituentArticleCount": 1,
-        "migrationTimestamp": "2026-08-19T02:37:59.670Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.539Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -716,7 +778,7 @@
       "date": "2026-01-15",
       "category": "SEC2",
       "difficulty": "hard",
-      "lastUpdated": "2026-08-19T02:37:59.671Z",
+      "lastUpdated": "2026-08-19T03:12:44.541Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -726,7 +788,7 @@
           34
         ],
         "constituentArticleCount": 1,
-        "migrationTimestamp": "2026-08-19T02:37:59.671Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.542Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -762,7 +824,7 @@
       "date": "2026-01-15",
       "category": "SEC2",
       "difficulty": "hard",
-      "lastUpdated": "2026-08-19T02:37:59.672Z",
+      "lastUpdated": "2026-08-19T03:12:44.545Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -772,7 +834,7 @@
           32
         ],
         "constituentArticleCount": 1,
-        "migrationTimestamp": "2026-08-19T02:37:59.672Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.545Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -808,7 +870,7 @@
       "date": "2026-01-15",
       "category": "SEC2",
       "difficulty": "hard",
-      "lastUpdated": "2026-08-19T02:37:59.672Z",
+      "lastUpdated": "2026-08-19T03:12:44.548Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -818,7 +880,7 @@
           29
         ],
         "constituentArticleCount": 1,
-        "migrationTimestamp": "2026-08-19T02:37:59.672Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.548Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -854,7 +916,7 @@
       "date": "2026-01-15",
       "category": "SEC2",
       "difficulty": "hard",
-      "lastUpdated": "2026-08-19T02:37:59.673Z",
+      "lastUpdated": "2026-08-19T03:12:44.550Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -864,7 +926,7 @@
           30
         ],
         "constituentArticleCount": 1,
-        "migrationTimestamp": "2026-08-19T02:37:59.673Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.550Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -900,7 +962,7 @@
       "date": "2026-01-15",
       "category": "SEC2",
       "difficulty": "intermediate",
-      "lastUpdated": "2026-08-19T02:37:59.674Z",
+      "lastUpdated": "2026-08-19T03:12:44.551Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -910,7 +972,7 @@
           21
         ],
         "constituentArticleCount": 1,
-        "migrationTimestamp": "2026-08-19T02:37:59.674Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.551Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -927,6 +989,52 @@
   },
   {
     "id": "migrated-ca-2026-01-sec3-1",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "🏦 Digital Payments Architecture — Programmed CBDC Food Tokens for PDS & UPI Record 21.7B Volume",
+    "summary": "CMIE data showed outstanding bank credit crossed the ₹200 lakh crore mark for the first time, reaching ₹203.2 lakh crore at end-December 2025 (14.5% YoY growth). YTD credit expanded by ₹20.78 lakh crore.",
+    "metadata": {
+      "exam": [
+        "RBI Grade B",
+        "NABARD Grade A",
+        "SBI PO"
+      ],
+      "tags": [
+        "sec3",
+        "Current Affairs 2026",
+        "January 2026",
+        "TIER_A"
+      ],
+      "date": "2026-01-15",
+      "category": "SEC3",
+      "difficulty": "hard",
+      "lastUpdated": "2026-08-19T03:12:44.558Z",
+      "provenance": {
+        "sourceSystem": "CA",
+        "sourceFile": "Jan2026.pdf",
+        "sourceId": "emu-jan-digital-payments-food-cbdc",
+        "sourceTitle": "🏦 Digital Payments Architecture — Programmed CBDC Food Tokens for PDS & UPI Record 21.7B Volume",
+        "provenancePages": [
+          3
+        ],
+        "constituentArticleCount": 1,
+        "migrationTimestamp": "2026-08-19T03:12:44.558Z",
+        "normalizationRuleVersion": "5.5.0-r5-production"
+      },
+      "caFrameworkVersion": "v5.5.0-r5-production",
+      "relevanceTier": "TIER_A",
+      "temporalZone": "CORE",
+      "sectionCode": "SEC3",
+      "relationshipDecision": "UNIQUE_STANDALONE",
+      "editorialDecision": "RETAIN_NEW",
+      "isStudyMaterial": true,
+      "noteTier": "TIER_A",
+      "studyUtilityScore": 95
+    },
+    "relationships": []
+  },
+  {
+    "id": "migrated-ca-2026-01-sec3-2",
     "type": "ca_note",
     "domain": "current-affairs",
     "title": "🏦 Reinsurance Market Landscape — Indian Insurance AUM Crosses ₹74.44 Lakh Crore",
@@ -946,7 +1054,7 @@
       "date": "2026-01-15",
       "category": "SEC3",
       "difficulty": "hard",
-      "lastUpdated": "2026-08-19T02:37:59.676Z",
+      "lastUpdated": "2026-08-19T03:12:44.561Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -956,7 +1064,7 @@
           52
         ],
         "constituentArticleCount": 1,
-        "migrationTimestamp": "2026-08-19T02:37:59.676Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.562Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -972,7 +1080,7 @@
     "relationships": []
   },
   {
-    "id": "migrated-ca-2026-01-sec3-2",
+    "id": "migrated-ca-2026-01-sec3-3",
     "type": "ca_note",
     "domain": "current-affairs",
     "title": "🏦 State Bank of India — Bilateral Israel Rupee Trade (SRVA), ₹1,000 Cr ATM Contract & $250M Bonds",
@@ -992,7 +1100,7 @@
       "date": "2026-01-15",
       "category": "SEC3",
       "difficulty": "hard",
-      "lastUpdated": "2026-08-19T02:37:59.676Z",
+      "lastUpdated": "2026-08-19T03:12:44.563Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -1002,7 +1110,7 @@
           38
         ],
         "constituentArticleCount": 1,
-        "migrationTimestamp": "2026-08-19T02:37:59.676Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.563Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -1018,7 +1126,7 @@
     "relationships": []
   },
   {
-    "id": "migrated-ca-2026-01-sec3-3",
+    "id": "migrated-ca-2026-01-sec3-4",
     "type": "ca_note",
     "domain": "current-affairs",
     "title": "🏦 AIFIs & SME Liquidity — ₹5,000 Crore SIDBI Equity Infusion & RXIL 21.6% Maiden Dividend",
@@ -1038,7 +1146,7 @@
       "date": "2026-01-15",
       "category": "SEC3",
       "difficulty": "intermediate",
-      "lastUpdated": "2026-08-19T02:37:59.677Z",
+      "lastUpdated": "2026-08-19T03:12:44.564Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -1048,7 +1156,7 @@
           47
         ],
         "constituentArticleCount": 1,
-        "migrationTimestamp": "2026-08-19T02:37:59.677Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.564Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -1064,7 +1172,7 @@
     "relationships": []
   },
   {
-    "id": "migrated-ca-2026-01-sec3-4",
+    "id": "migrated-ca-2026-01-sec3-5",
     "type": "ca_note",
     "domain": "current-affairs",
     "title": "🏦 PFRDA Launches NPS Swasthya Pension Scheme — 25% Medical Withdrawal in Regulatory Sandbox",
@@ -1084,7 +1192,7 @@
       "date": "2026-01-15",
       "category": "SEC3",
       "difficulty": "intermediate",
-      "lastUpdated": "2026-08-19T02:37:59.678Z",
+      "lastUpdated": "2026-08-19T03:12:44.566Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -1094,7 +1202,7 @@
           50
         ],
         "constituentArticleCount": 1,
-        "migrationTimestamp": "2026-08-19T02:37:59.678Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.566Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -1130,7 +1238,7 @@
       "date": "2026-01-15",
       "category": "SEC4",
       "difficulty": "hard",
-      "lastUpdated": "2026-08-19T02:37:59.678Z",
+      "lastUpdated": "2026-08-19T03:12:44.567Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -1140,7 +1248,7 @@
           94
         ],
         "constituentArticleCount": 1,
-        "migrationTimestamp": "2026-08-19T02:37:59.678Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.567Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -1176,7 +1284,7 @@
       "date": "2026-01-15",
       "category": "SEC4",
       "difficulty": "hard",
-      "lastUpdated": "2026-08-19T02:37:59.679Z",
+      "lastUpdated": "2026-08-19T03:12:44.569Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -1187,7 +1295,7 @@
           95
         ],
         "constituentArticleCount": 2,
-        "migrationTimestamp": "2026-08-19T02:37:59.679Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.569Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -1207,7 +1315,7 @@
     "type": "ca_note",
     "domain": "current-affairs",
     "title": "🌐 India–EU Free Trade Agreement Concluded — 15 Bank Branches, 100% Insurance FDI & Euratom",
-    "summary": "India and EU concluded FTA negotiations on 26 Jan 2026 (\"Mother of all deals\"). EU is India's 2nd largest goods trading partner (€120B in 2024; EU FDI in India €132B). India-Euratom nuclear cooperation signed. India allows EU banks to open 15 branches over 4 years and binds 100% insurance FDI.",
+    "summary": "Commerce ministry data showed Spain, Germany, Belgium, and Poland emerging as key export destinations within the EU bloc. Bilateral trade in goods reached USD 136.53 billion in 2024-25 (exports $75.85B, imports $60.68B).",
     "metadata": {
       "exam": [
         "RBI Grade B",
@@ -1223,17 +1331,18 @@
       "date": "2026-01-15",
       "category": "SEC4",
       "difficulty": "hard",
-      "lastUpdated": "2026-08-19T02:37:59.680Z",
+      "lastUpdated": "2026-08-19T03:12:44.570Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
         "sourceId": "emu-jan-india-eu-free-trade-agreement",
         "sourceTitle": "🌐 India–EU Free Trade Agreement Concluded — 15 Bank Branches, 100% Insurance FDI & Euratom",
         "provenancePages": [
+          4,
           10
         ],
-        "constituentArticleCount": 1,
-        "migrationTimestamp": "2026-08-19T02:37:59.680Z",
+        "constituentArticleCount": 2,
+        "migrationTimestamp": "2026-08-19T03:12:44.570Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -1269,7 +1378,7 @@
       "date": "2026-01-15",
       "category": "SEC4",
       "difficulty": "intermediate",
-      "lastUpdated": "2026-08-19T02:37:59.681Z",
+      "lastUpdated": "2026-08-19T03:12:44.572Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -1279,7 +1388,7 @@
           93
         ],
         "constituentArticleCount": 1,
-        "migrationTimestamp": "2026-08-19T02:37:59.681Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.572Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -1315,7 +1424,7 @@
       "date": "2026-01-15",
       "category": "SEC4",
       "difficulty": "intermediate",
-      "lastUpdated": "2026-08-19T02:37:59.681Z",
+      "lastUpdated": "2026-08-19T03:12:44.574Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -1325,7 +1434,7 @@
           95
         ],
         "constituentArticleCount": 1,
-        "migrationTimestamp": "2026-08-19T02:37:59.681Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.574Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -1361,7 +1470,7 @@
       "date": "2026-01-15",
       "category": "SEC5",
       "difficulty": "intermediate",
-      "lastUpdated": "2026-08-19T02:37:59.682Z",
+      "lastUpdated": "2026-08-19T03:12:44.577Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -1371,7 +1480,7 @@
           144
         ],
         "constituentArticleCount": 1,
-        "migrationTimestamp": "2026-08-19T02:37:59.682Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.577Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -1407,17 +1516,18 @@
       "date": "2026-01-15",
       "category": "SEC5",
       "difficulty": "intermediate",
-      "lastUpdated": "2026-08-19T02:37:59.683Z",
+      "lastUpdated": "2026-08-19T03:12:44.579Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
         "sourceId": "emu-jan-pfrda-sahoo-saarg-committees",
         "sourceTitle": "🤝 PFRDA Strategic Panels — M.S. Sahoo Assured Payout Committee & SAARG Investment Review",
         "provenancePages": [
-          150
+          150,
+          151
         ],
-        "constituentArticleCount": 1,
-        "migrationTimestamp": "2026-08-19T02:37:59.683Z",
+        "constituentArticleCount": 2,
+        "migrationTimestamp": "2026-08-19T03:12:44.579Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -1453,7 +1563,7 @@
       "date": "2026-01-15",
       "category": "SEC5",
       "difficulty": "intermediate",
-      "lastUpdated": "2026-08-19T02:37:59.684Z",
+      "lastUpdated": "2026-08-19T03:12:44.580Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -1463,7 +1573,7 @@
           11
         ],
         "constituentArticleCount": 1,
-        "migrationTimestamp": "2026-08-19T02:37:59.684Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.580Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -1499,7 +1609,7 @@
       "date": "2026-01-15",
       "category": "SEC5",
       "difficulty": "intermediate",
-      "lastUpdated": "2026-08-19T02:37:59.684Z",
+      "lastUpdated": "2026-08-19T03:12:44.581Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -1509,7 +1619,7 @@
           157
         ],
         "constituentArticleCount": 1,
-        "migrationTimestamp": "2026-08-19T02:37:59.684Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.581Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -1545,7 +1655,7 @@
       "date": "2026-01-15",
       "category": "SEC6",
       "difficulty": "hard",
-      "lastUpdated": "2026-08-19T02:37:59.685Z",
+      "lastUpdated": "2026-08-19T03:12:44.583Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -1555,7 +1665,7 @@
           108
         ],
         "constituentArticleCount": 1,
-        "migrationTimestamp": "2026-08-19T02:37:59.685Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.583Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -1591,7 +1701,7 @@
       "date": "2026-01-15",
       "category": "SEC6",
       "difficulty": "hard",
-      "lastUpdated": "2026-08-19T02:37:59.686Z",
+      "lastUpdated": "2026-08-19T03:12:44.584Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -1602,7 +1712,7 @@
           112
         ],
         "constituentArticleCount": 4,
-        "migrationTimestamp": "2026-08-19T02:37:59.686Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.584Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -1638,7 +1748,7 @@
       "date": "2026-01-15",
       "category": "SEC6",
       "difficulty": "intermediate",
-      "lastUpdated": "2026-08-19T02:37:59.686Z",
+      "lastUpdated": "2026-08-19T03:12:44.586Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -1648,7 +1758,7 @@
           112
         ],
         "constituentArticleCount": 1,
-        "migrationTimestamp": "2026-08-19T02:37:59.686Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.586Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -1684,7 +1794,7 @@
       "date": "2026-01-15",
       "category": "SEC7",
       "difficulty": "hard",
-      "lastUpdated": "2026-08-19T02:37:59.687Z",
+      "lastUpdated": "2026-08-19T03:12:44.587Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -1694,7 +1804,7 @@
           135
         ],
         "constituentArticleCount": 1,
-        "migrationTimestamp": "2026-08-19T02:37:59.687Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.587Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -1730,7 +1840,7 @@
       "date": "2026-01-15",
       "category": "SEC7",
       "difficulty": "intermediate",
-      "lastUpdated": "2026-08-19T02:37:59.688Z",
+      "lastUpdated": "2026-08-19T03:12:44.590Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -1738,10 +1848,11 @@
         "sourceTitle": "🏆 Global Indices 2026 — Henley Passport Index (80th), NITI EPI 2024 (Maharashtra #1) & RNI (16th)",
         "provenancePages": [
           115,
-          116
+          116,
+          120
         ],
-        "constituentArticleCount": 2,
-        "migrationTimestamp": "2026-08-19T02:37:59.688Z",
+        "constituentArticleCount": 3,
+        "migrationTimestamp": "2026-08-19T03:12:44.590Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -1777,7 +1888,7 @@
       "date": "2026-01-15",
       "category": "SEC8",
       "difficulty": "intermediate",
-      "lastUpdated": "2026-08-19T02:37:59.689Z",
+      "lastUpdated": "2026-08-19T03:12:44.592Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -1787,7 +1898,7 @@
           142
         ],
         "constituentArticleCount": 1,
-        "migrationTimestamp": "2026-08-19T02:37:59.689Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.592Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
@@ -1823,7 +1934,7 @@
       "date": "2026-01-15",
       "category": "SEC8",
       "difficulty": "intermediate",
-      "lastUpdated": "2026-08-19T02:37:59.690Z",
+      "lastUpdated": "2026-08-19T03:12:44.594Z",
       "provenance": {
         "sourceSystem": "CA",
         "sourceFile": "Jan2026.pdf",
@@ -1833,7 +1944,7 @@
           141
         ],
         "constituentArticleCount": 1,
-        "migrationTimestamp": "2026-08-19T02:37:59.690Z",
+        "migrationTimestamp": "2026-08-19T03:12:44.594Z",
         "normalizationRuleVersion": "5.5.0-r5-production"
       },
       "caFrameworkVersion": "v5.5.0-r5-production",
