@@ -207,7 +207,8 @@ export function groupCAItemsByMonth(caItems: KnowledgeItem[]): CAMonthGroup[] {
       const sortedSecItems = [...secItems].sort((a, b) => {
         const dA = a.metadata?.date || '';
         const dB = b.metadata?.date || '';
-        return dB.localeCompare(dA);
+        if (dA !== dB) return dA.localeCompare(dB); // Month start to end (ascending)
+        return a.id.localeCompare(b.id, undefined, { numeric: true });
       });
       sections.push({
         secId: secDef.secId,
