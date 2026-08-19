@@ -13,6 +13,7 @@ interface Props {
 
 // Subject display metadata mapping
 const SUBJECT_METADATA: Record<string, { title: string; icon: string; badge: string; desc: string }> = {
+  'iibf-regulations': { title: 'IIBF & Banking Regulations', icon: '🏛️', badge: 'Master Compendium', desc: 'Deposit Operations, Credit Risk & ECL, Liquidity LMF, Digital Banking, ESG & Capital Markets.' },
   'economics': { title: 'Economics', icon: '📚', badge: 'Book Chapter Reader', desc: 'Core Economics Chapters & Financial System Notes.' },
   'english': { title: 'English Language', icon: '✍️', badge: 'Book Chapter Reader', desc: 'Descriptive Essay Writing, Letter Drafting Formats & Grammar.' },
   'polity': { title: 'Polity & Governance', icon: '⚖️', badge: 'Book Chapter Reader', desc: 'Constitutional Acts, Statutory Bodies & ECI.' },

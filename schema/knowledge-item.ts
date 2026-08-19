@@ -10,7 +10,8 @@ export type Domain =
   | 'static-ga' 
   | 'quant' 
   | 'pyqs'
-  | 'schemes';
+  | 'schemes'
+  | 'iibf-regulations';
 
 export type ItemType = 'chapter' | 'ca_note' | 'static_note' | 'quant_topic' | 'pyq_item';
 

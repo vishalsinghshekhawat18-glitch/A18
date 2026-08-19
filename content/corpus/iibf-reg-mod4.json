@@ -1,0 +1,57 @@
+{
+  "id": "iibf-reg-mod4",
+  "domain": "iibf-regulations",
+  "title": "📌 Module 4: Digital Banking, Payments Architecture & Cyber Governance",
+  "summary": "Comprehensive architecture of UPI Lite (₹2,000 wallet / ₹500 txn), UPI 123PAY (4 feature phone modes), UPI Circle & Credit Lines, BHIM 3.0, Finternet (BIS Unified Ledger with 3 U's: User-centric, Unified, Universal), DPDP Rules 2025 (SARAL notices, ₹250 Cr penalties), Financial Fraud Risk Indicator (FRI - DoT Chakshu), BaaS / Embedded Finance, Stablecoins (MiCA, GENIUS) vs CBDC Digital Rupee, and EASE 8.0 PSB reforms.",
+  "blocks": [
+    {
+      "id": "blk-1",
+      "type": "paragraph",
+      "content": "India's Digital Public Infrastructure (DPI) and fintech ecosystem have driven massive shifts in payment velocity, data protection, cyber fraud defense, and open banking models."
+    },
+    {
+      "id": "blk-2",
+      "type": "bullet_list",
+      "items": [
+        "Unified Payments Interface (UPI) Advanced Modes: UPI Lite (On-device wallet, ₹2,000 max balance, ₹500 per-txn cap, zero PIN, near-zero failure rate); UPI 123PAY (4 non-internet modes: IVR numbers, Missed call, Sound-based proximity, and OEM apps); UPI Circle (delegated primary-secondary user authorization); Credit Lines on UPI (pre-approved bank credit lines accessed via UPI QR).",
+        "BHIM 3.0: 22-language AI voice assistant, automated family spend management, biometric authentication, real-time integration with Centralised Fraud Registry.",
+        "Finternet (BIS Unified Ledger Model): Conceptualized by Agustin Carstens & Nandan Nilekani. The Three U's: User-centric (user retains asset control), Unified (connects multiple asset classes on programmable smart contracts), Universal (interoperable across borders).",
+        "Digital Personal Data Protection (DPDP) Rules 2025: Data Protection Board of India (DPBI). SARAL approach (Simple, Accessible, Rational, Actionable notices). Maximum penalties: ₹250 Crore for security safeguards failure preventing data breach; ₹200 Crore for non-notification of breach or child data violations. 90-day grievance redressal mandate.",
+        "Financial Fraud Risk Indicator (FRI): Joint DoT & I4C initiative integrating Chakshu platform and NCRP portal. Scores suspect mobile numbers as Medium, High, or Very High Risk in real time during digital onboarding and KYC.",
+        "Banking as a Service (BaaS) & Embedded Finance: Licensed banks expose CBS APIs for white-label debit cards, embedded BNPL checkout, corporate payroll, and digital escrow.",
+        "Stablecoins & Crypto Assets: Pegged to fiat/commodities. Global laws: EU MiCA (100% liquid reserve backing), US GENIUS Act, China total ban. India: Cryptos not legal tender; RBI highlights currency substitution, seigniorage loss, and deposit flight. Digital Rupee (CBDC e₹-R & e₹-W) issued as sovereign alternative.",
+        "EASE 8.0 PSB Reforms: 4 Themes: Risk & Resilience, Innovation (GenAI), Excellence (CASA growth & cost optimization), Socio-Economic Impact (inclusive lending)."
+      ]
+    },
+    {
+      "id": "blk-3",
+      "type": "exam_trap",
+      "content": "Exam Traps & Distractors:\n1. UPI Lite has a wallet balance ceiling of ₹2,000 and per-transaction ceiling of ₹500 (requires no PIN).\n2. Under DPDP Act 2023 / Rules 2025, the maximum statutory penalty is ₹250 Crore.\n3. Stablecoins and cryptocurrencies are NOT legal tender in India; only the RBI-issued Digital Rupee (e₹) is legal tender.\n4. The 3 U's of Finternet are User-centric, Unified, and Universal."
+    }
+  ],
+  "metadata": {
+    "tags": [
+      "iibf",
+      "banking-regulations",
+      "static-ga",
+      "digital-banking",
+      "upi",
+      "bhim",
+      "finternet",
+      "dpdp",
+      "fraud-risk-indicator",
+      "baas",
+      "stablecoins",
+      "ease-8"
+    ],
+    "category": "IIBF_MODULE",
+    "difficulty": "hard",
+    "relevanceTier": "TIER_A",
+    "sectionCode": "IIBF_MOD4",
+    "date": "2026-02-01",
+    "provenance": {
+      "sourceSystem": "IIBF",
+      "statutoryConcept": "Digital Banking, Payments & DPI"
+    }
+  }
+}

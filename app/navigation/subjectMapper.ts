@@ -10,6 +10,13 @@ export interface SubjectDef {
 
 export const SUBJECT_DEFS: SubjectDef[] = [
   {
+    id: 'iibf-regulations',
+    title: 'IIBF & Banking Regulations',
+    icon: '🏛️',
+    surfaceBadge: 'Master Compendium',
+    description: 'Deposit Operations, Credit Risk & ECL, Liquidity LMF, Digital Banking, ESG & Capital Markets.'
+  },
+  {
     id: 'economics',
     title: 'Economics',
     icon: '📚',
@@ -97,16 +104,25 @@ export const SUBJECT_DEFS: SubjectDef[] = [
 
 export function isItemInSubject(item: KnowledgeItem, subjectId: string): boolean {
   const sys = item.metadata?.provenance?.sourceSystem;
-  if (subjectId === 'economics') return sys === 'Core' && (item.domain === 'economics' || item.id.includes('eco-ch'));
+  const tags = item.metadata?.tags || [];
+
+  if (subjectId === 'iibf-regulations') {
+    return item.domain === 'iibf-regulations' || item.id.startsWith('iibf-') || tags.includes('iibf');
+  }
+  if (subjectId === 'economics') {
+    return (sys === 'Core' && (item.domain === 'economics' || item.id.includes('eco-ch'))) || tags.includes('economics');
+  }
   if (subjectId === 'english') return item.domain === 'english' || item.id.includes('eng-ch') || item.id.includes('english');
   if (subjectId === 'polity') return sys === 'Core' && (item.domain === 'polity' || item.id.includes('pol-ch'));
   if (subjectId === 'history') return sys === 'Core' && (item.domain === 'history' || item.id.includes('his-ch'));
   if (subjectId === 'geography') return sys === 'Core' && (item.domain === 'geography' || item.id.includes('geo-ch'));
   if (subjectId === 'science') return sys === 'Core' && (item.domain === 'science' || item.id.includes('sci-ch'));
-  if (subjectId === 'revision') return sys === 'Core' && (item.domain === 'revision' || item.id.includes('rev-ch'));
+  if (subjectId === 'revision') {
+    return (sys === 'Core' && (item.domain === 'revision' || item.id.includes('rev-ch'))) || tags.includes('revision');
+  }
   if (subjectId === 'current-affairs') return sys === 'CA' || (item.domain === 'current-affairs' && sys !== 'Schemes' && !item.id.includes('schemes-scheme'));
-  if (subjectId === 'schemes') return sys === 'Schemes' || item.id.includes('schemes-scheme');
-  if (subjectId === 'static-ga') return sys === 'StaticGA' || item.domain === 'static-ga';
+  if (subjectId === 'schemes') return sys === 'Schemes' || item.id.includes('schemes-scheme') || tags.includes('schemes');
+  if (subjectId === 'static-ga') return sys === 'StaticGA' || item.domain === 'static-ga' || tags.includes('static-ga');
   if (subjectId === 'quant') return sys === 'Quant' || (item.domain === 'quant' && sys !== 'PYQs');
   if (subjectId === 'pyqs') return sys === 'PYQs' || item.domain === 'pyqs';
   return false;

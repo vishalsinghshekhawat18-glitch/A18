@@ -1,0 +1,53 @@
+{
+  "id": "iibf-reg-mod6",
+  "domain": "iibf-regulations",
+  "title": "📌 Module 6: Capital Markets, External Trade & Fiscal Dynamics",
+  "summary": "Detailed framework of Special Rupee Vostro Accounts (SRVA) under FEMA (autonomous AD bank approval, INR invoicing, G-Sec investment of surplus), Merchanting Trade Transactions (MTT 6-month outlay cap), SEBI Specialized Investment Funds (SIF - ₹10 Lakh minimum ticket), Sachetization of Mutual Funds (₹250 Micro-SIPs), RBI Financial Inclusion Index (Access 35%, Usage 45%, Quality 20%), and Union Budget FY27 macro-fiscal parameters.",
+  "blocks": [
+    {
+      "id": "blk-1",
+      "type": "paragraph",
+      "content": "Cross-border trade internationalisation, innovative asset classes, micro-investing democratization, and macro-fiscal targets drive India's expanding financial architecture."
+    },
+    {
+      "id": "blk-2",
+      "type": "bullet_list",
+      "items": [
+        "Special Rupee Vostro Accounts (SRVA) & INR Trade: AD Category-I banks can open INR-denominated SRVAs for overseas correspondent banks autonomously without prior RBI approval. Invoicing and settlements in INR. Surplus balances invested in Indian G-Secs and T-Bills. Balances in SNRA and SRVAs cross-utilized for legitimate trade and non-debt FDI.",
+        "Merchanting Trade Transactions (MTT) Revised Norms: Goods routed between foreign nations without entering India. Foreign currency outlay/expenditure period extended from 4 months to 6 months; overall transaction cycle completed within 9 months.",
+        "Specialized Investment Funds (SIF - SEBI New Asset Class): Formalized Dec 16, 2024 to bridge Mutual Funds (₹500 SIP) and PMS (₹50 Lakh). Minimum ticket size: ₹10 Lakh. Allows long-short equity, inverse ETFs, unlisted debt derivatives for high-risk investors.",
+        "Sachetization of Mutual Funds: Micro-SIPs starting at ₹250/month with zero commission friction via UPI AutoPay, expanding rural/semi-urban capital market penetration.",
+        "RBI Financial Inclusion Index (FI-Index): Published annually in July (0 to 100 scale, zero base year). 3 Weighted Dimensions: Access (35%), Usage (45%), Quality (20% - literacy, consumer protection, grievance resolution).",
+        "Union Budget & Fiscal Benchmarks (FY27): Real GDP growth 7.4% (FY26) / 6.8%-7.2% (FY27). Fiscal Deficit target: 4.3% (glide path <4.5%). Capital expenditure: ₹12.2 Lakh Crore (3.4% of GDP). Demerit goods: 40% GST + excise on tobacco (replacing compensation cess). 16th Finance Commission 41% tax devolution."
+      ]
+    },
+    {
+      "id": "blk-3",
+      "type": "exam_trap",
+      "content": "Exam Traps & Distractors:\n1. The minimum investment threshold for SEBI SIF (Specialized Investment Fund) is ₹10 Lakh (PMS is ₹50 Lakh, Mutual Fund is ₹500).\n2. RBI FI-Index weights: Usage carries highest weight at 45%, Access is 35%, Quality is 20%.\n3. In Merchanting Trade Transactions, the outlay period is 6 months, and overall completion is 9 months.\n4. AD Category-I banks do NOT need prior RBI approval to open SRVAs for overseas banks under the liberalized framework."
+    }
+  ],
+  "metadata": {
+    "tags": [
+      "iibf",
+      "banking-regulations",
+      "economics",
+      "external-trade",
+      "srva",
+      "mtt",
+      "sif",
+      "sachetization",
+      "fi-index",
+      "budget-fy27"
+    ],
+    "category": "IIBF_MODULE",
+    "difficulty": "hard",
+    "relevanceTier": "TIER_A",
+    "sectionCode": "IIBF_MOD6",
+    "date": "2026-02-01",
+    "provenance": {
+      "sourceSystem": "IIBF",
+      "statutoryConcept": "Capital Markets, External Trade & Fiscal Framework"
+    }
+  }
+}

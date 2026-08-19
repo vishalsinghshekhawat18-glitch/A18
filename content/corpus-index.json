@@ -43185,5 +43185,205 @@
       }
     },
     "relationships": []
+  },
+  {
+    "id": "iibf-reg-mod1",
+    "domain": "iibf-regulations",
+    "title": "📌 Module 1: Deposit Operations, Customer Rights & Statutory Governance",
+    "summary": "Comprehensive statutory compendium on Nomination under Banking Laws (Amendment) Act 2025 (4 nominees, simultaneous % share vs successive ranking), RBI Deposit Accounts of Minors (Mothers natural guardianship, age 10+ self-operation), DICGC Deposit Insurance (₹5 Lakh cap, Section 18A 90-day mandatory interim payout, Risk-Based Premiums), SEBI Nominee Norms for Incapacitated Folios, and Reserve Bank - Integrated Ombudsman Scheme 2026 (RB-IOS 2026, ₹30L compensation).",
+    "metadata": {
+      "tags": [
+        "iibf",
+        "banking-regulations",
+        "static-ga",
+        "deposit-insurance",
+        "dicgc",
+        "ombudsman",
+        "nomination",
+        "minors"
+      ],
+      "category": "IIBF_MODULE",
+      "difficulty": "hard",
+      "relevanceTier": "TIER_A",
+      "sectionCode": "IIBF_MOD1",
+      "date": "2026-02-01",
+      "provenance": {
+        "sourceSystem": "IIBF",
+        "statutoryConcept": "Deposit Operations & Customer Rights"
+      }
+    }
+  },
+  {
+    "id": "iibf-reg-mod2",
+    "domain": "iibf-regulations",
+    "title": "📌 Module 2: Credit Risk, Prudential Lending & Fair Lending Frameworks",
+    "summary": "Comprehensive analysis of Expected Credit Loss (ECL Ind-AS 109 3-stage forward-looking impairment), RBI Co-Lending Model (CLM 1 & CLM 2 with mandatory 20% NBFC risk retention), Fair Practices Code on Penal Charges (abolition of compounding penal interest), Digital Lending Guidelines 2025 (direct disbursals, KFS/APR, cooling-off, 5% FLDG cap), MCGS & CGTMSE, MISS (4% net crop loans), PM Vishwakarma (5% loan), PSL Norms 2025-26 (population tiers ₹50L/₹45L/₹35L, 60% UCBs), and HFC Regulations (1.5x NOF public deposit ceiling).",
+    "metadata": {
+      "tags": [
+        "iibf",
+        "banking-regulations",
+        "economics",
+        "schemes",
+        "ecl",
+        "co-lending",
+        "digital-lending",
+        "penal-charges",
+        "psl",
+        "hfc",
+        "cgtmse"
+      ],
+      "category": "IIBF_MODULE",
+      "difficulty": "hard",
+      "relevanceTier": "TIER_A",
+      "sectionCode": "IIBF_MOD2",
+      "date": "2026-02-01",
+      "provenance": {
+        "sourceSystem": "IIBF",
+        "statutoryConcept": "Credit Risk, Prudential Lending & PSL"
+      }
+    }
+  },
+  {
+    "id": "iibf-reg-mod3",
+    "domain": "iibf-regulations",
+    "title": "📌 Module 3: Liquidity Management & Monetary Policy Transmission",
+    "summary": "In-depth analysis of RBI Revised Liquidity Management Framework (LMF) anchoring on Weighted Average Call Rate (WACR), discontinuation of 14-day VRR/VRRR in favor of 7-day VRR/VRRR primary operations, 50 bps symmetric corridor (MSF at Repo+25 bps, SDF at Repo-25 bps), and RBI Financial Conditions Index (FCI) Dynamic Factor Model across 5 market segments.",
+    "metadata": {
+      "tags": [
+        "iibf",
+        "banking-regulations",
+        "economics",
+        "liquidity",
+        "lmf",
+        "vrr",
+        "vrrr",
+        "fci",
+        "monetary-policy"
+      ],
+      "category": "IIBF_MODULE",
+      "difficulty": "hard",
+      "relevanceTier": "TIER_A",
+      "sectionCode": "IIBF_MOD3",
+      "date": "2026-02-01",
+      "provenance": {
+        "sourceSystem": "IIBF",
+        "statutoryConcept": "Liquidity Management & Monetary Framework"
+      }
+    }
+  },
+  {
+    "id": "iibf-reg-mod4",
+    "domain": "iibf-regulations",
+    "title": "📌 Module 4: Digital Banking, Payments Architecture & Cyber Governance",
+    "summary": "Comprehensive architecture of UPI Lite (₹2,000 wallet / ₹500 txn), UPI 123PAY (4 feature phone modes), UPI Circle & Credit Lines, BHIM 3.0, Finternet (BIS Unified Ledger with 3 U's: User-centric, Unified, Universal), DPDP Rules 2025 (SARAL notices, ₹250 Cr penalties), Financial Fraud Risk Indicator (FRI - DoT Chakshu), BaaS / Embedded Finance, Stablecoins (MiCA, GENIUS) vs CBDC Digital Rupee, and EASE 8.0 PSB reforms.",
+    "metadata": {
+      "tags": [
+        "iibf",
+        "banking-regulations",
+        "static-ga",
+        "digital-banking",
+        "upi",
+        "bhim",
+        "finternet",
+        "dpdp",
+        "fraud-risk-indicator",
+        "baas",
+        "stablecoins",
+        "ease-8"
+      ],
+      "category": "IIBF_MODULE",
+      "difficulty": "hard",
+      "relevanceTier": "TIER_A",
+      "sectionCode": "IIBF_MOD4",
+      "date": "2026-02-01",
+      "provenance": {
+        "sourceSystem": "IIBF",
+        "statutoryConcept": "Digital Banking, Payments & DPI"
+      }
+    }
+  },
+  {
+    "id": "iibf-reg-mod5",
+    "domain": "iibf-regulations",
+    "title": "📌 Module 5: Sustainable Finance, Climate Risk & ESG Frameworks",
+    "summary": "Deep dive into SEBI BRSR Core (9 NGRBC principles, 9 assured quantitative KPIs), India's Climate Finance Taxonomy (Climate Supportive vs Climate Transition baskets), Basel Committee CRFR (6 climate risk disclosure templates), IFSCA Anti-Greenwashing Principles (GIFT City), Social Stock Exchange (ZCZP instruments: ₹50L min issue, ₹10,000 min application, NISM Series-XXIII audit), NITI Aayog SDG India Index (4 tiers), COP29 Baku ($300B NCQG), and COP30 Belem.",
+    "metadata": {
+      "tags": [
+        "iibf",
+        "banking-regulations",
+        "static-ga",
+        "sustainable-finance",
+        "brsr",
+        "climate-finance",
+        "bcbs",
+        "ifsca",
+        "social-stock-exchange",
+        "sdg",
+        "cop29",
+        "cop30"
+      ],
+      "category": "IIBF_MODULE",
+      "difficulty": "hard",
+      "relevanceTier": "TIER_A",
+      "sectionCode": "IIBF_MOD5",
+      "date": "2026-02-01",
+      "provenance": {
+        "sourceSystem": "IIBF",
+        "statutoryConcept": "Sustainable Finance & ESG Disclosures"
+      }
+    }
+  },
+  {
+    "id": "iibf-reg-mod6",
+    "domain": "iibf-regulations",
+    "title": "📌 Module 6: Capital Markets, External Trade & Fiscal Dynamics",
+    "summary": "Detailed framework of Special Rupee Vostro Accounts (SRVA) under FEMA (autonomous AD bank approval, INR invoicing, G-Sec investment of surplus), Merchanting Trade Transactions (MTT 6-month outlay cap), SEBI Specialized Investment Funds (SIF - ₹10 Lakh minimum ticket), Sachetization of Mutual Funds (₹250 Micro-SIPs), RBI Financial Inclusion Index (Access 35%, Usage 45%, Quality 20%), and Union Budget FY27 macro-fiscal parameters.",
+    "metadata": {
+      "tags": [
+        "iibf",
+        "banking-regulations",
+        "economics",
+        "external-trade",
+        "srva",
+        "mtt",
+        "sif",
+        "sachetization",
+        "fi-index",
+        "budget-fy27"
+      ],
+      "category": "IIBF_MODULE",
+      "difficulty": "hard",
+      "relevanceTier": "TIER_A",
+      "sectionCode": "IIBF_MOD6",
+      "date": "2026-02-01",
+      "provenance": {
+        "sourceSystem": "IIBF",
+        "statutoryConcept": "Capital Markets, External Trade & Fiscal Framework"
+      }
+    }
+  },
+  {
+    "id": "iibf-reg-mod7-traps",
+    "domain": "iibf-regulations",
+    "title": "⚡ IIBF High-Yield Banking Traps & Rapid Recall Cheat Sheet",
+    "summary": "Comprehensive exam-eve recall cheat sheet comparing all critical statutory numbers, penalties, caps, ratios, and trap distractors for RBI Grade B, JAIIB/CAIIB, and Bank PO examinations.",
+    "metadata": {
+      "tags": [
+        "iibf",
+        "banking-regulations",
+        "revision",
+        "exam-traps",
+        "cheat-sheet"
+      ],
+      "category": "IIBF_MODULE",
+      "difficulty": "medium",
+      "relevanceTier": "TIER_A",
+      "sectionCode": "IIBF_MOD7",
+      "date": "2026-02-01",
+      "provenance": {
+        "sourceSystem": "IIBF",
+        "statutoryConcept": "High-Yield Numerical Cheat Sheet"
+      }
+    }
   }
 ]

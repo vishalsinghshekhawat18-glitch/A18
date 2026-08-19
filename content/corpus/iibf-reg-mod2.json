@@ -1,0 +1,57 @@
+{
+  "id": "iibf-reg-mod2",
+  "domain": "iibf-regulations",
+  "title": "📌 Module 2: Credit Risk, Prudential Lending & Fair Lending Frameworks",
+  "summary": "Comprehensive analysis of Expected Credit Loss (ECL Ind-AS 109 3-stage forward-looking impairment), RBI Co-Lending Model (CLM 1 & CLM 2 with mandatory 20% NBFC risk retention), Fair Practices Code on Penal Charges (abolition of compounding penal interest), Digital Lending Guidelines 2025 (direct disbursals, KFS/APR, cooling-off, 5% FLDG cap), MCGS & CGTMSE, MISS (4% net crop loans), PM Vishwakarma (5% loan), PSL Norms 2025-26 (population tiers ₹50L/₹45L/₹35L, 60% UCBs), and HFC Regulations (1.5x NOF public deposit ceiling).",
+  "blocks": [
+    {
+      "id": "blk-1",
+      "type": "paragraph",
+      "content": "Prudential credit guidelines govern credit risk underwriting, portfolio provisioning, and borrower protections across Scheduled Commercial Banks, NBFCs, and Housing Finance Companies."
+    },
+    {
+      "id": "blk-2",
+      "type": "bullet_list",
+      "items": [
+        "Expected Credit Loss (ECL) Ind-AS 109 / IFRS 9 Framework: Replaces ex-post Incurred Loss Model with ex-ante forward-looking provisioning based on macroeconomic forecasts. Three stages: Stage 1 (Performing, 0-30 DPD) = 12-Month ECL; Stage 2 (Underperforming, 31-89 DPD / Significant Increase in Credit Risk - SICR) = Lifetime ECL; Stage 3 (Credit-Impaired / Default, 90+ DPD) = Lifetime ECL based on PD x LGD x EAD. 5-year capital transition glide path.",
+        "RBI Co-Lending Model (CLM 1 & CLM 2): Combines low-cost bank capital with last-mile NBFC sourcing reach for Priority Sector. CLM 1 = Joint Lending; CLM 2 = Direct Assignment / Sourcing takeover. Mandatory Invariant: NBFC MUST retain minimum 20% credit risk on its own balance sheet. End-borrower pays blended interest rate. All repayments routed via tripartite Escrow account.",
+        "Fair Practices Code on Penal Charges: Abolished compounding penal interest. Only reasonable, board-approved Penal Charges permitted. Penal charges cannot be capitalized or added to principal balance (no interest charged on penal charges). For individual non-business loans, charges cannot exceed commercial defaults.",
+        "Digital Lending Guidelines 2025 (DLG): Regulated Entities (REs) fully responsible for LSPs/DLAs. Fund disbursals & repayments must flow directly between RE bank account and borrower bank account without synthetic pass-through pool accounts. Key Fact Statement (KFS) disclosing APR mandatory. Minimum cooling-off window: 3 days (tenor >=7 days) or 1 day (<7 days). First Loss Default Guarantee (FLDG) strictly capped at 5% of portfolio.",
+        "Mutual Credit Guarantee Scheme (MCGS) & CGTMSE: Credit guarantee for MSEs up to ₹5 Crore (₹10 Cr for high-tech). Tiered guarantee: 85% for micro loans up to ₹5 Lakh, women, SC/ST, and NER; 75% for standard MSEs.",
+        "Modified Interest Subvention Scheme (MISS): Short-term crop loans up to ₹3 Lakh at benchmark 7.0% p.a. GoI provides 1.5% subvention to banks + 3.0% Prompt Repayment Incentive (PRI) to farmers -> effective net rate of 4.0% p.a.",
+        "PM Vishwakarma Scheme: Collateral-free loans up to ₹3 Lakh (Tranche 1: ₹1L, Tranche 2: ₹2L) at concessional 5.0% interest rate (MoMSME subvention up to 8%).",
+        "Priority Sector Lending (PSL) 2025-26 Overhaul: Housing loan limits categorized into 3 population tiers: >=50 Lakh pop (₹50 Lakh limit), 10L-50L pop (₹45 Lakh limit), <10L pop (₹35 Lakh limit). Urban Co-operative Banks PSL target fixed at 60% ANBC/CEOBE. Renewable Energy PSL limit: ₹35 Crore for utilities, ₹10 Lakh for households.",
+        "Housing Finance Companies (HFCs) Revised Norms: Public deposit ceiling reduced from 3x to 1.5x Net Owned Funds (NOF); liquid assets requirement raised from 13% to 15%; maximum deposit tenor reduced from 10 to 5 years; co-branded credit cards and interest rate hedging permitted."
+      ]
+    },
+    {
+      "id": "blk-3",
+      "type": "exam_trap",
+      "content": "Exam Traps & Distractors:\n1. In Co-Lending (CLM), the NBFC cannot offload 100% risk; it MUST retain at least 20% on its own books.\n2. Penal charges CANNOT be compounded or added to the principal balance under any circumstance.\n3. Under Digital Lending Guidelines, FLDG backed by cash/FD cannot exceed 5% of total portfolio exposure.\n4. Under MISS, the effective interest rate for prompt repaying farmers is 4% (7% benchmark - 3% PRI)."
+    }
+  ],
+  "metadata": {
+    "tags": [
+      "iibf",
+      "banking-regulations",
+      "economics",
+      "schemes",
+      "ecl",
+      "co-lending",
+      "digital-lending",
+      "penal-charges",
+      "psl",
+      "hfc",
+      "cgtmse"
+    ],
+    "category": "IIBF_MODULE",
+    "difficulty": "hard",
+    "relevanceTier": "TIER_A",
+    "sectionCode": "IIBF_MOD2",
+    "date": "2026-02-01",
+    "provenance": {
+      "sourceSystem": "IIBF",
+      "statutoryConcept": "Credit Risk, Prudential Lending & PSL"
+    }
+  }
+}

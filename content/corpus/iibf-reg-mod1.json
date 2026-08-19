@@ -1,0 +1,53 @@
+{
+  "id": "iibf-reg-mod1",
+  "domain": "iibf-regulations",
+  "title": "📌 Module 1: Deposit Operations, Customer Rights & Statutory Governance",
+  "summary": "Comprehensive statutory compendium on Nomination under Banking Laws (Amendment) Act 2025 (4 nominees, simultaneous % share vs successive ranking), RBI Deposit Accounts of Minors (Mothers natural guardianship, age 10+ self-operation), DICGC Deposit Insurance (₹5 Lakh cap, Section 18A 90-day mandatory interim payout, Risk-Based Premiums), SEBI Nominee Norms for Incapacitated Folios, and Reserve Bank - Integrated Ombudsman Scheme 2026 (RB-IOS 2026, ₹30L compensation).",
+  "blocks": [
+    {
+      "id": "blk-1",
+      "type": "paragraph",
+      "content": "Deposit operations and customer protection form the bedrock of statutory banking law in India. Recent legislative overhauls under the Banking Laws (Amendment) Act 2025, DICGC Act, and the Reserve Bank - Integrated Ombudsman Scheme (RB-IOS) 2026 have modernized customer rights, expedited distress payouts, and streamlined estate transmissions."
+    },
+    {
+      "id": "blk-2",
+      "type": "bullet_list",
+      "items": [
+        "Nomination under Banking Laws (Amendment) Act, 2025 (Effective 01.11.2025): Depositors can nominate up to 4 persons per deposit account, safe custody article, or safe deposit locker under either Simultaneous Nomination (with explicit % shares summing to 100%) or Successive Nomination (Nominee 1 -> Nominee 2 -> Nominee 3 -> Nominee 4). For single locker hirers, successive nomination applies; for joint hirers, nomination delivers contents to survivors along with nominee.",
+        "Legal Status of Nominee: A nominee acts as a trustee/custodian for legal heirs, not the absolute beneficial owner (Supreme Court ruling in Sarbati Devi vs Usha Devi). Bank obtains valid discharge under Section 45ZA, but legal heirs retain succession rights.",
+        "RBI Revised Norms for Deposit Accounts of Minors: Minors of any age can open/operate savings & term deposits with natural/legal guardian, with mothers explicitly recognized on par with fathers. Literate minors aged 10+ can independently operate accounts with board-approved velocity limits. Section 11 of Indian Contract Act strictly prohibits overdrafts/credit to minors. Fresh KYC and signature verification mandatory upon turning 18.",
+        "DICGC Deposit Insurance System (DICGC Act 1961): Insures up to ₹5,00,000 per depositor per bank (principal + interest). Covers Commercial Banks, RRBs, Co-op Banks, SFBs, and PBs. Excludes foreign/state/central govt and inter-bank deposits. Account coverage ratio: 97.6%; Value coverage ratio: 41.5%.",
+        "DICGC Section 18A 90-Day Mandatory Interim Payout: When a bank is placed under All-Inclusive Directions (AID) / moratorium by RBI, the bank has 45 days to submit claims, and DICGC has 45 days to verify and disburse up to ₹5 Lakh directly into depositors alternate bank accounts.",
+        "DICGC Risk-Based Premium (RBP) Transition (FY27): Transitioning from flat 12p per ₹100 p.a. to CAMELS-linked risk rating (Tier 1/Tier 2 models offering up to 33.33% risk discount and 25% vintage discount).",
+        "SEBI Revised Nomination Norms for Demat/MFs: Incapacitated single investors can authorize 1 nominee to operate folios. AMC/DP official must conduct physical verification. Strict zero-alteration rule on mobile/email/bank details; redemptions flow exclusively to linked investor bank account.",
+        "Reserve Bank - Integrated Ombudsman Scheme (RB-IOS) 2026 (Effective 01.07.2026): One Nation One Ombudsman architecture covering SCBs, RRBs, SFBs, PBs, NBFCs (>=₹100 Cr assets), and UCBs (>=₹50 Cr deposits). Consequential financial loss compensation increased from ₹20 Lakh to ₹30 Lakh, plus up to ₹1 Lakh for mental harassment/loss of time. Centralised Receipt and Processing Centre (CRPC) at RBI Chandigarh."
+      ]
+    },
+    {
+      "id": "blk-3",
+      "type": "exam_trap",
+      "content": "Exam Traps & Distractors:\n1. DICGC insurance of ₹5 Lakh applies PER DEPOSITOR PER BANK across all branches combined (NOT per branch and NOT per individual account).\n2. Inter-bank deposits and Government deposits are 100% EXCLUDED from DICGC insurance coverage.\n3. A nominee under Section 45ZA is NOT the owner of the money; they receive funds purely as a trustee for the deceased legal heirs.\n4. Minors CANNOT be granted overdraft facilities under any circumstance due to Section 11 of Indian Contract Act 1872."
+    }
+  ],
+  "metadata": {
+    "tags": [
+      "iibf",
+      "banking-regulations",
+      "static-ga",
+      "deposit-insurance",
+      "dicgc",
+      "ombudsman",
+      "nomination",
+      "minors"
+    ],
+    "category": "IIBF_MODULE",
+    "difficulty": "hard",
+    "relevanceTier": "TIER_A",
+    "sectionCode": "IIBF_MOD1",
+    "date": "2026-02-01",
+    "provenance": {
+      "sourceSystem": "IIBF",
+      "statutoryConcept": "Deposit Operations & Customer Rights"
+    }
+  }
+}
