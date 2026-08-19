@@ -11,7 +11,6 @@ import { SearchModal } from './search/SearchModal';
 import { FlexSearchProvider } from './search/FlexSearchProvider';
 import { corpusStubs, loadFullKnowledgeItem, loadAllCorpusItemsForSearch } from './contentLoader';
 import { useUserStudyState } from './intelligence/userStateStore';
-import { BookBox } from './components/BookBox/BookBox';
 
 export const App: React.FC = () => {
   // Lightweight corpus stubs for Home Page grid & Sidebar navigation
@@ -23,9 +22,7 @@ export const App: React.FC = () => {
   // Routing State & Reading Controls State
   const [routeState, setRouteState] = useState<RouteState>(() => parseHash(window.location.hash));
   const [fontSize, setFontSize] = useState<number>(18);
-  const [theme, setTheme] = useState<ReadingTheme>(() => {
-    return (localStorage.getItem('bcc_reading_theme') as ReadingTheme) || 'light';
-  });
+  const [theme, setTheme] = useState<ReadingTheme>('sepia');
   const [isSearchOpen, setIsSearchOpen] = useState<boolean>(false);
   const [isOpenMobile, setIsOpenMobile] = useState<boolean>(false);
   const [isSidebarClosed, setIsSidebarClosed] = useState<boolean>(false);
@@ -201,9 +198,6 @@ export const App: React.FC = () => {
         searchService={searchService}
         onSelectResult={item => handleSelectItem(item.id)}
       />
-
-      {/* Strictly Private & Isolated Bottom Book Box */}
-      <BookBox />
     </div>
   );
 };

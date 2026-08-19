@@ -1,6 +1,6 @@
 import React, { useMemo } from 'react';
 
-export type ReadingTheme = 'light' | 'sepia' | 'warm' | 'night';
+export type ReadingTheme = 'sepia' | 'warm' | 'night';
 
 interface Props {
   fontSize: number;
@@ -72,13 +72,6 @@ export const ReadingControls: React.FC<Props> = ({
         {/* Theme Selector */}
         <div className="control-group">
           <span>Theme:</span>
-          <button
-            className={`btn-control ${theme === 'light' ? 'active-theme' : ''}`}
-            onClick={() => onThemeChange('light')}
-            title="Clean Light Theme"
-          >
-            ☀️ Light
-          </button>
           <button
             className={`btn-control ${theme === 'sepia' ? 'active-theme' : ''}`}
             onClick={() => onThemeChange('sepia')}
