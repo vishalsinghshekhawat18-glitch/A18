@@ -1,0 +1,36 @@
+{
+  "id": "emu-jan-sebi-swagat-fi-framework",
+  "title": "🏛️ SEBI SWAGAT-FI Framework — Streamlined Single-Window Access for FPIs & FVCIs",
+  "category": "SEC2",
+  "tier": "TIER_A",
+  "theme": "Foreign Portfolio Investment (FPI) Market Access",
+  "summary": "SEBI issued circulars on Single Window Automatic and Generalized Access for Trusted Foreign Investors (SWAGAT-FI) effective June 1, 2026, creating streamlined onboarding for SWFs, pension funds, and central banks.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "**Overview**: SEBI issued circulars on Single Window Automatic and Generalized Access for Trusted Foreign Investors (SWAGAT-FI) effective June 1, 2026, creating streamlined onboarding for SWFs, pension funds, and central banks."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**SEBI Notifies SWAGAT-FI Unified Registration Framework for FPIs & FVCIs** (Page 30): SEBI issued circulars on Single Window Automatic and Generalized Access for Trusted Foreign Investors (SWAGAT-FI) effective June 1, 2026, creating streamlined onboarding for SWFs, pension funds, and central banks."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Foreign Portfolio Investment (FPI) Market Access. Unified registration and simplified compliance for SWFs, central banks, and global pension funds effective 1 June 2026."
+    }
+  ],
+  "metadata": {
+    "provenancePages": [
+      30
+    ],
+    "constituentArticleCount": 1,
+    "provenanceArticleIds": [
+      "jan-art-51"
+    ],
+    "statutoryConcept": "Foreign Portfolio Investment (FPI) Market Access",
+    "whyStandalone": "Unified registration and simplified compliance for SWFs, central banks, and global pension funds effective 1 June 2026."
+  }
+}

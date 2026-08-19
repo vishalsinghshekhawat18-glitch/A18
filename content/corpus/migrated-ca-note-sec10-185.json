@@ -1,31 +1,28 @@
 {
   "id": "migrated-ca-note-sec10-185",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Cabinet Approves Revamped Khelo India Scheme & Enhanced ANSFs Assistance with ₹36,441 Cr Outlay",
+  "type": "ca_note",
   "summary": "8-fold budget increase creates athlete development pathway from grassroots to TOPS.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "8-fold budget increase creates athlete development pathway from grassroots to TOPS."
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 Cabinet Approves Revamped Khelo India Scheme & Enhanced ANSFs Assistance with ₹36,441 Cr Outlay. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "8-fold budget increase creates athlete development pathway from grassroots to TOPS.",
         "Outlay Allocation: Total ₹36,441 crore (FY27 to FY31) comprising ₹29,054 crore for Khelo India and ₹7,387 crore for ANSFs.",
         "New Athlete Category: Introduced 'Emerging Khelo India Athletes (E-KIAs)' alongside school programs KIFS and KIUV.",
-        "Coaching Standardisation: Setting up National Coach Accreditation Board (NCAB) to professionalise coaching."
+        "Coaching Standardisation: Setting up National Coach Accreditation Board (NCAB) to professionalise coaching.",
+        "Khelo India outlay (₹29,054 crore) vs National Sports Federations ANSF outlay (₹7,387 crore).",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Sports Minister: Mansukh Mandaviya | Targets 2030 CWG hosting and 2036 Olympic Games bid."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Khelo India outlay (₹29,054 crore) vs National Sports Federations ANSF outlay (₹7,387 crore)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
     }
   ],
   "metadata": {
@@ -39,7 +36,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-08-03",
-    "category": "SEC10",
+    "category": "SEC1",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:13:11.200Z",
     "provenance": {
@@ -50,6 +47,16 @@
       "sourceChecksum": "2db9f47cce2f7c65075d4faef45a5eaba7dce8feb528f996fac6e43a5d27599c",
       "migrationTimestamp": "2026-08-15T12:13:11.200Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 92
   }
 }

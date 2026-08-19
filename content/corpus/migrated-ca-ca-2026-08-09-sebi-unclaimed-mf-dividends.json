@@ -1,31 +1,33 @@
 {
   "id": "migrated-ca-ca-2026-08-09-sebi-unclaimed-mf-dividends",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "SEBI Report: Unclaimed Mutual Fund Amounts Reach ₹3,811 Crore as of March 2026",
+  "type": "ca_note",
   "summary": "Unclaimed mutual fund dividends rose 15.7% to ₹2,689 crore, bringing total unclaimed MF pool to ₹3,811 crore.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Unclaimed mutual fund dividends rose 15.7% to ₹2,689 crore, bringing total unclaimed MF pool to ₹3,811 crore."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 SEBI Report: Unclaimed Mutual Fund Amounts Reach ₹3,811 Crore as of March 2026. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Unclaimed mutual fund dividends rose 15.7% to ₹2,689 crore, bringing total unclaimed MF pool to ₹3,811 crore.",
         "**Unclaimed Breakdown:** Unclaimed dividends rose 15.7% to **₹2,689 crore**; unclaimed redemption fell 0.5% to **₹1,122 crore**.",
         "**Total Unclaimed Pool:** Stood at **₹3,811 crore** as of March 31, 2026.",
-        "**Remedial Measures:** Centralised nominee reporting with KRA, DigiLocker access, and 'Niveshak Shivir' drive by SEBI + IEPFA."
+        "**Remedial Measures:** Centralised nominee reporting with KRA, DigiLocker access, and 'Niveshak Shivir' drive by SEBI + IEPFA.",
+        "⚠️ **Direction Trap:** Unclaimed dividends INCREASED by 15.7%, whereas unclaimed redemption DECREASED by 0.5%.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
       "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "IEPFA: Investor Education and Protection Fund Authority under Ministry of Corporate Affairs."
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "SEBI Established: 12 April 1992 (SEBI Act 1992) · HQ: Mumbai · Regulatory Scope: Securities & Capital Markets"
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Direction Trap:** Unclaimed dividends INCREASED by 15.7%, whereas unclaimed redemption DECREASED by 0.5%."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -50,6 +52,16 @@
       "sourceChecksum": "2ed66a56b2271cb7f851bb366f1cbfb2024cd2b3727cc5f1a323858ac9b05bf0",
       "migrationTimestamp": "2026-08-15T12:19:15.620Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

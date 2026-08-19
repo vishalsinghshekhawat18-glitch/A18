@@ -1,49 +1,28 @@
 {
   "id": "migrated-ca-note-sec4-276",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "UN SOFI 2026 Report: India Undernourished Population Share Drops to 9.8%",
+  "type": "ca_note",
   "summary": "Undernourished population in India declines from 21.1% (2004-06) to 9.8% (2023-25).",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Undernourished population in India declines from 21.1% (2004-06) to 9.8% (2023-25)."
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 UN SOFI 2026 Report: India Undernourished Population Share Drops to 9.8%. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Undernourished population in India declines from 21.1% (2004-06) to 9.8% (2023-25).",
         "Undernourishment Reduction: Share dropped from 21.1% to 9.8% (142.5 million people).",
         "Healthy Diet Cost: Cost of healthy diet in India stands at .11 PPP per person per day (2nd lowest in South Asia after Pakistan .94).",
-        "Child Stunting: Stunting in under-5 children fell to 32.9% in 2024 (down from 41.7% in 2012)."
+        "Child Stunting: Stunting in under-5 children fell to 32.9% in 2024 (down from 41.7% in 2012).",
+        "India undernourished share (9.8%) vs healthy diet cost (.11 PPP/day).",
+        "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Metric / Component",
-        "Threshold / Provision Detail"
-      ],
-      "rows": [
-        [
-          "Undernourishment Reduction",
-          "Share dropped from 21.1% to 9.8% (142.5 million people)."
-        ],
-        [
-          "Child Stunting",
-          "Stunting in under-5 children fell to 32.9% in 2024 (down from 41.7% in 2012)."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "SOFI Report published jointly by FAO, IFAD, UNICEF, WFP, and WHO."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "India undernourished share (9.8%) vs healthy diet cost (.11 PPP/day)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of UN SOFI 2026 Report."
     }
   ],
   "metadata": {
@@ -68,6 +47,16 @@
       "sourceChecksum": "3b5f07e7080e04df6ece1240a48b4cced5b17be75a2efe6c73969f9c8a7f13bf",
       "migrationTimestamp": "2026-08-15T12:15:40.420Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

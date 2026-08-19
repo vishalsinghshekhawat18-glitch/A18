@@ -1,0 +1,86 @@
+{
+  "id": "migrated-ca-note-sec3-28",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India-Maldives Real-Time Payment Corridor Goes Live via Favara and UPI Integration",
+  "summary": "Expands India's digital public infrastructure internationally, reducing cross-border remittance costs.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 3. 🏦 BANKING & INSURANCE NEWS",
+      "text": "🪝 India-Maldives Real-Time Payment Corridor Goes Live via Favara and UPI Integration. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Expands India's digital public infrastructure internationally, reducing cross-border remittance costs.",
+        "Maldives integrated instant payment system **'Favara'** with India's **Unified Payments Interface (UPI)**.",
+        "Transfer Flow: Transferred in **Maldivian Rufiyaa (MVR)** and credited directly in **Indian Rupees (₹/INR)** to UPI bank accounts.",
+        "Implementation: Partnership between **Maldives Monetary Authority (MMA)**, **RBI**, and **NIPL**.",
+        "Maldives' instant payment system Favara vs Singapore's PayNow vs UAE's AANI/Jaywan vs Sri Lanka's LankaPay.",
+        "🎯 Exam Angle → Focus on monthly transaction volume & value records, NPCI market cap limits, and international UPI linkage countries."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on monthly transaction volume & value records, NPCI market cap limits, and international UPI linkage countries."
+    },
+    {
+      "type": "warning_banner",
+      "title": "💼 Interview Question & Model Answer",
+      "text": "**Q:** How does international UPI linkage assist Indian cross-border trade and remittances?\n\n**Model Answer:** It lowers cross-border transaction fees by bypassing intermediary correspondent banking networks and enables real-time sovereign currency settlements."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 3,
+      "code": "SEC3",
+      "name": "BANKING & INSURANCE NEWS",
+      "emoji": "🏦",
+      "fullName": "3. 🏦 BANKING & INSURANCE NEWS"
+    },
+    "hook": "🪝 India-Maldives Real-Time Payment Corridor Goes Live via Favara and UPI Integration",
+    "examAngle": "🎯 Exam Angle → Focus on monthly transaction volume & value records, NPCI market cap limits, and international UPI linkage countries.",
+    "interviewQ": {
+      "question": "How does international UPI linkage assist Indian cross-border trade and remittances?",
+      "modelAnswer": "It lowers cross-border transaction fees by bypassing intermediary correspondent banking networks and enables real-time sovereign currency settlements."
+    },
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-08-05"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:02.257Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec3-28",
+      "sourceTitle": "India-Maldives Real-Time Payment Corridor Goes Live via Favara and UPI Integration",
+      "sourceChecksum": "b1f99c39c1b5ad32ab0b51f25e96ceb11258643f915cc7c6216fc8c74759336f",
+      "migrationTimestamp": "2026-08-15T12:10:02.257Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC3",
+    "sectionNumber": 3,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

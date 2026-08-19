@@ -1,0 +1,77 @@
+{
+  "id": "migrated-ca-note-sec1-421",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Government Announces ₹1.25 Lakh Crore 'VB-GRAMG' Rural Development Framework",
+  "summary": "Viksit Bharat-Guarantee for Rozgar and Ajeevika Mission effective July 1, 2026.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 Government Announces ₹1.25 Lakh Crore 'VB-GRAMG' Rural Development Framework. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Viksit Bharat-Guarantee for Rozgar and Ajeevika Mission effective July 1, 2026.",
+        "VB-GRAMG Framework: Total allocation exceeds ₹1.25 lakh crore, covering 2.80 lakh Gram Panchayats.",
+        "MGNREGA Integration: Includes ₹30,000 crore central allocation under MGNREGA 2005.",
+        "Top State Allocations: Uttar Pradesh (₹9,721 cr), West Bengal (₹8,508 cr), Andhra Pradesh (₹7,707 cr), Tamil Nadu (₹7,585 cr).",
+        "VB-GRAMG total outlay (₹1.25 lakh crore) vs MGNREGA component (₹30,000 crore).",
+        "🎯 Exam Angle → Focus on 125-day wage guarantee expansion, minimum statutory wage rate (₹300/day), and replacement of MGNREGA 2005."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on 125-day wage guarantee expansion, minimum statutory wage rate (₹300/day), and replacement of MGNREGA 2005."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 10,
+      "code": "SEC10",
+      "name": "MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "emoji": "📌",
+      "fullName": "10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC"
+    },
+    "hook": "🪝 Government Announces ₹1.25 Lakh Crore 'VB-GRAMG' Rural Development Framework",
+    "examAngle": "🎯 Exam Angle → Focus on 125-day wage guarantee expansion, minimum statutory wage rate (₹300/day), and replacement of MGNREGA 2005.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-06-13"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-13",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:18:39.842Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-421",
+      "sourceTitle": "Government Announces ₹1.25 Lakh Crore 'VB-GRAMG' Rural Development Framework",
+      "sourceChecksum": "3970f48e4cf9c86557b3c64c2fb6a550f79a70db9891b7ae40a4cfb8cbadb4da",
+      "migrationTimestamp": "2026-08-15T12:18:39.842Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "emu-rbi-external-commercial-borrowing",
+  "title": "RBI External Commercial Borrowing (ECB) Framework 2026 ($1B / 300% Net Worth)",
+  "category": "SEC2",
+  "tier": "TIER_A",
+  "theme": "External Debt & Foreign Exchange Management",
+  "summary": "RBI notified FEMA Borrowing & Lending First Amendment Regulations 2026: Automatic ECB limit raised from $750M to higher of $1B or 300% net worth; minimum 3-year maturity; acquisition of control permitted.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "**Overview**: RBI notified FEMA Borrowing & Lending First Amendment Regulations 2026: Automatic ECB limit raised from $750M to higher of $1B or 300% net worth; minimum 3-year maturity; acquisition of control permitted."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**RBI notifies amended ECB framework, replaces cap with higher of $1B or 300% net worth** (Page 15): RBI notified FEMA Borrowing & Lending First Amendment Regulations 2026: Automatic ECB limit raised from $750M to higher of $1B or 300% net worth; minimum 3-year maturity; acquisition of control permitted."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under External Debt & Foreign Exchange Management. Liberalizes external borrowing limits replacing $750M cap."
+    }
+  ],
+  "metadata": {
+    "provenancePages": [
+      15
+    ],
+    "constituentArticleCount": 1,
+    "provenanceArticleIds": [
+      "cgb-art-38"
+    ],
+    "statutoryConcept": "External Debt & Foreign Exchange Management",
+    "whyStandalone": "Liberalizes external borrowing limits replacing $750M cap."
+  }
+}

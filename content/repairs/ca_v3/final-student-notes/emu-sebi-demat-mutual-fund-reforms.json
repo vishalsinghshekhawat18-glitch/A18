@@ -1,0 +1,41 @@
+{
+  "id": "emu-sebi-demat-mutual-fund-reforms",
+  "title": "SEBI Market Infrastructure — SWP/STP in Demat & ETF Dynamic Price Bands",
+  "category": "SEC2",
+  "tier": "TIER_A",
+  "theme": "Capital Market Infrastructure & Operations",
+  "summary": "SEBI proposed allowing standing instructions for Systematic Withdrawal Plans (SWP) and Systematic Transfer Plans (STP) for demat mutual fund units.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "**Overview**: SEBI proposed allowing standing instructions for Systematic Withdrawal Plans (SWP) and Systematic Transfer Plans (STP) for demat mutual fund units."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**SEBI proposal for SWP and STP in demat mutual funds** (Page 7): SEBI proposed allowing standing instructions for Systematic Withdrawal Plans (SWP) and Systematic Transfer Plans (STP) for demat mutual fund units.",
+        "**SEBI eases SGF rules for commodity derivatives clearing houses** (Page 7): SEBI proposed reducing Z-score for historical stress testing in commodity derivatives from 10 to 5, revising Core Settlement Guarantee Fund coverage to top 3 defaults.",
+        "**SEBI floats proposal to revamp ETF price band framework** (Page 14): SEBI proposed shifting ETF base price from T-2 closing NAV to T-1 data/iNAV with dynamic price bands (10-20% equity/debt, 6-20% gold/silver, 5% overnight)."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Capital Market Infrastructure & Operations. Demat mutual fund standing instructions and dynamic ETF bands."
+    }
+  ],
+  "metadata": {
+    "provenancePages": [
+      7,
+      14
+    ],
+    "constituentArticleCount": 3,
+    "provenanceArticleIds": [
+      "cgb-art-20",
+      "cgb-art-21",
+      "cgb-art-37"
+    ],
+    "statutoryConcept": "Capital Market Infrastructure & Operations",
+    "whyStandalone": "Demat mutual fund standing instructions and dynamic ETF bands."
+  }
+}

@@ -1,31 +1,28 @@
 {
   "id": "migrated-ca-note-sec1-162",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Brookfield Launches  Million 'Lumara' Renewable Energy Platform in India",
+  "type": "ca_note",
   "summary": "Accelerates solar, wind, and Battery Energy Storage Systems (BESS) buildout backed by ALTÉRRA fund.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Accelerates solar, wind, and Battery Energy Storage Systems (BESS) buildout backed by ALTÉRRA fund."
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 Brookfield Launches  Million 'Lumara' Renewable Energy Platform in India. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Accelerates solar, wind, and Battery Energy Storage Systems (BESS) buildout backed by ALTÉRRA fund.",
         "Platform Capital: Initial deployment of ~ million backed by Brookfield Catalytic Transition Fund (CTF).",
         "Anchor Investor: Funded by UAE-backed climate vehicle ALTÉRRA (target corpus up to  billion).",
-        "National Target Alignment: Supports India's goal of reaching 500 GW installed renewable capacity by 2030."
+        "National Target Alignment: Supports India's goal of reaching 500 GW installed renewable capacity by 2030.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Brookfield Launches  Million 'Lumara' Renewable Energy Platform in India."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Brookfield Asset Management HQ: Toronto/New York | CEO: Bruce Flatt."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Brookfield Launches  Million 'Lumara' Renewable Energy Platform in India."
     }
   ],
   "metadata": {
@@ -50,6 +47,16 @@
       "sourceChecksum": "e0e8cfe3efee232f315e8a07fdff9063b0f0866c705231012ed4294fc715c5f8",
       "migrationTimestamp": "2026-08-15T12:12:37.958Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

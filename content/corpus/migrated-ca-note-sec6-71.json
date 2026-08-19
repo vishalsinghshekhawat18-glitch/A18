@@ -1,31 +1,39 @@
 {
   "id": "migrated-ca-note-sec6-71",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "ICAR Develops India's First Complete Pigeonpea Genome ('Asha' Variety)",
+  "type": "ca_note",
   "summary": "Telomere-to-telomere reference genomes enable molecular breeding of climate-resilient pulse crops.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Telomere-to-telomere reference genomes enable molecular breeding of climate-resilient pulse crops."
+      "type": "warning_banner",
+      "title": "📰 6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS",
+      "text": "🪝 ICAR Develops India's First Complete Pigeonpea Genome ('Asha' Variety). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Telomere-to-telomere reference genomes enable molecular breeding of climate-resilient pulse crops.",
         "ICAR developed India's first fully annotated telomere-to-telomere (**T2T**) reference genome for **pigeonpea (matar/arhar)**.",
         "Variety Name: Pigeonpea variety **'Asha'** approved as global reference genome.",
-        "Milestone: First crop in India to have a fully annotated T2T reference genome (pigeonpea is India's 2nd most important pulse crop)."
+        "Milestone: First crop in India to have a fully annotated T2T reference genome (pigeonpea is India's 2nd most important pulse crop).",
+        "Pigeonpea T2T reference genome ('Asha' variety) vs unannotated draft genomes.",
+        "🎯 Exam Angle → Focus on ICAR 'Asha' (ICPL 87119) pulse variety, Telomere-to-Telomere (T2T) sequencing, and molecular breeding applications."
       ]
     },
     {
       "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "ICAR established July 16, 1929 | HQ: New Delhi."
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "ICAR Established: 16 July 1929 · Nodal Ministry: Ministry of Agriculture & Farmers Welfare · HQ: New Delhi"
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Pigeonpea T2T reference genome ('Asha' variety) vs unannotated draft genomes."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on ICAR 'Asha' (ICPL 87119) pulse variety, Telomere-to-Telomere (T2T) sequencing, and molecular breeding applications."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "ICAR develops India’s 1st telomere-to-telomere (T2T) reference genome for pigeonpea (variety Asha)."
+      ]
     }
   ],
   "metadata": {
@@ -50,6 +58,16 @@
       "sourceChecksum": "c7c4eff7c932c7cea5547dfd7ad5684d5bac05868ed57f2c9c0a776a1f8a3ffb",
       "migrationTimestamp": "2026-08-15T12:10:34.066Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "sectionNumber": 6,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 80
   }
 }

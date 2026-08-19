@@ -1,46 +1,27 @@
 {
   "id": "migrated-ca-note-sec5-319",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "GBU, Space Kidz India, and IN-SPACe Launch Mission ShakthiSAT (World's 1st All-Girls Lunar Satellite)",
+  "type": "ca_note",
   "summary": "Engages 12,000 young girls from 108 countries to build a lunar satellite.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Engages 12,000 young girls from 108 countries to build a lunar satellite."
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 GBU, Space Kidz India, and IN-SPACe Launch Mission ShakthiSAT (World's 1st All-Girls Lunar Satellite). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Engages 12,000 young girls from 108 countries to build a lunar satellite.",
         "Mission Scope: World's 1st all-girls international satellite mission to the Moon.",
-        "Lead Agency: Conceptualised and led by Space Kidz India; Gautam Buddha University (GBU) academic partner."
+        "Lead Agency: Conceptualised and led by Space Kidz India; Gautam Buddha University (GBU) academic partner.",
+        "Mission ShakthiSAT reach (12,000 girls from 108 countries).",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Appointee / Official",
-        "New Position & Organization",
-        "Key Context & Details"
-      ],
-      "rows": [
-        [
-          "GBU, Space Kidz India, and IN-SPACe Launch Mission ShakthiSAT (World's 1st All-Girls Lunar Satellite)",
-          "Official Appointment",
-          "Mission Scope: World's 1st all-girls international satellite mission to the Moon."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Space Kidz India Founder & CEO: Dr. Srimathy Kesan | HQ: Chennai."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Mission ShakthiSAT reach (12,000 girls from 108 countries)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
     }
   ],
   "metadata": {
@@ -65,6 +46,16 @@
       "sourceChecksum": "7a5e8fc28ac4378476803a8d3384c7f4157165fb67aeee3ce53a184c13c30b7a",
       "migrationTimestamp": "2026-08-15T12:16:15.974Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

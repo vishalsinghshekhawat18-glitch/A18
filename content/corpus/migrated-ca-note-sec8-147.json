@@ -1,36 +1,26 @@
 {
   "id": "migrated-ca-note-sec8-147",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Squadron Leader Bhawana Kanth Becomes First Woman IAF 'Top Gun' Combat Leader",
+  "type": "ca_note",
   "summary": "1st woman to graduate from IAF Fighter Combat Leader course after 20-week training.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "1st woman to graduate from IAF Fighter Combat Leader course after 20-week training."
+      "type": "warning_banner",
+      "title": "📰 8. 📅 IMPORTANT DAYS & PERSONS IN NEWS",
+      "text": "🪝 Squadron Leader Bhawana Kanth Becomes First Woman IAF 'Top Gun' Combat Leader. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "1st woman to graduate from IAF Fighter Combat Leader course after 20-week training.",
         "Squadron Leader Bhawana Kanth became the first woman fighter pilot in IAF history to qualify as a 'Top Gun' Combat Leader.",
-        "Completed Tactics and Air Combat Development Establishment (TACDE) course."
+        "Completed Tactics and Air Combat Development Establishment (TACDE) course.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Squadron Leader Bhawana Kanth Becomes First Woman IAF 'Top Gun' Combat Leader."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Date & Event",
-        "Official Theme / Mandate",
-        "Nodal Body / Significance"
-      ],
-      "rows": [
-        [
-          "Squadron Leader Bhawana Kanth Becomes First Woman IAF 'Top Gun' Combat Leader",
-          "Squadron Leader Bhawana Kanth became the first woman fighter pilot in IAF history to qualify as a 'Top Gun' Combat Leader.",
-          "Global Observance"
-        ]
-      ]
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Squadron Leader Bhawana Kanth Becomes First Woman IAF 'Top Gun' Combat Leader."
     }
   ],
   "metadata": {
@@ -55,6 +45,16 @@
       "sourceChecksum": "8ad03371f7f19040398d25691acf8f0b3f869ff681b4dcff625ef2eb64e747fa",
       "migrationTimestamp": "2026-08-15T12:12:07.934Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC8",
+    "sectionNumber": 8,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

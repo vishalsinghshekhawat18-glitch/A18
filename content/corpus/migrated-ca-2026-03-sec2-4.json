@@ -1,13 +1,29 @@
 {
   "id": "migrated-ca-2026-03-sec2-4",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "SEBI Graded 6-Tier Minimum Public Shareholding (MPS) Framework for Mega-IPOs",
-  "summary": "Government eases MPS rules for large IPOs, creating 6 post-issue capital categories from ≤₹1,600 Cr to >₹5 lakh Cr.",
+  "type": "ca_note",
+  "summary": "Government eases MPS (minimum public shareholding threshold for listed firms) rules for large IPOs, creating 6 post-issue capital categories from ≤₹1,600 Cr to >₹5 lakh Cr.",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 SEBI Graded 6-Tier Minimum Public Shareholding (MPS) Framework for Mega-IPOs. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "SEBI notified a **6-tier MPS (minimum public shareholding threshold for listed firms) framework** for mega-IPOs. For post-issue capital >₹5 lakh crore, minimum public offer is ₹15,000 Cr + 1% shareholding (with universal 2.5% floor).",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "SEBI Established: 12 April 1992 (SEBI Act 1992) · HQ: Mumbai · Regulatory Scope: Securities & Capital Markets"
+    },
+    {
       "type": "paragraph",
-      "content": "SEBI notified a **6-tier MPS framework** for mega-IPOs. For post-issue capital >₹5 lakh crore, minimum public offer is ₹15,000 Cr + 1% shareholding (with universal 2.5% floor)."
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -22,7 +38,7 @@
       "March 2026"
     ],
     "date": "2026-03-15",
-    "category": "SEC4",
+    "category": "SEC2",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-16T11:13:16.778Z",
     "provenance": {
@@ -33,6 +49,16 @@
       "sourceChecksum": "c2d0b36d4541a43e631a4d14ed91fbeb67d6ce438e827120e4d3cc36633841eb",
       "migrationTimestamp": "2026-08-16T11:13:16.778Z",
       "normalizationRuleVersion": "1.0.0-mar2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

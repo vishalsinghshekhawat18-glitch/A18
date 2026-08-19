@@ -1,31 +1,28 @@
 {
   "id": "migrated-ca-ca-2026-08-11-pm-vbry-women-enrolment",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "PM-VBRY Enrolment Update: Women Account for 28.56% of 9.99 Million First-Time Employees",
+  "type": "ca_note",
   "summary": "PM Viksit Bharat Rozgar Yojana enrolled 9.99M first-time employees (2.85M women = 28.56%). Maharashtra led registrations.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "PM Viksit Bharat Rozgar Yojana enrolled 9.99M first-time employees (2.85M women = 28.56%). Maharashtra led registrations."
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 PM-VBRY Enrolment Update: Women Account for 28.56% of 9.99 Million First-Time Employees. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "PM Viksit Bharat Rozgar Yojana enrolled 9.99M first-time employees (2.85M women = 28.56%). Maharashtra led registrations.",
         "**Enrolment Stats:** Of 9.99M first-time workers, **2.85 million were women (28.56%)** vs 7.14M men.",
         "**Top 3 States:** (1) Maharashtra, (2) Karnataka, (3) Tamil Nadu.",
-        "**Scheme Outlay:** Implemented Aug 1, 2025 to July 31, 2027 with **₹99,446 crore** outlay."
+        "**Scheme Outlay:** Implemented Aug 1, 2025 to July 31, 2027 with **₹99,446 crore** outlay.",
+        "≠ **Outlay & Period:** 2-year implementation period with ₹99,446 crore outlay.",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "PM-VBRY: Nodal Ministry of Labour and Employment."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "≠ **Outlay & Period:** 2-year implementation period with ₹99,446 crore outlay."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
     }
   ],
   "metadata": {
@@ -39,7 +36,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-08-11",
-    "category": "SEC4",
+    "category": "SEC6",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:19:51.522Z",
     "provenance": {
@@ -50,6 +47,16 @@
       "sourceChecksum": "bfef9c9be21d4e211ae670ec21483c9bedcbd9558ab1491bd2062068e00fff96",
       "migrationTimestamp": "2026-08-15T12:19:51.522Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 82
   }
 }

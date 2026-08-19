@@ -1,0 +1,36 @@
+{
+  "id": "emu-dicgc-risk-based-premium",
+  "title": "DICGC Risk-Based Premium Framework 2026 — 4-Tier Differential Deposit Insurance",
+  "category": "SEC2",
+  "tier": "TIER_A",
+  "theme": "Deposit Insurance & Financial Stability",
+  "summary": "DICGC with RBI approval advised banks on Risk-Based Premium framework under Section 15(1) of DICGC Act 1961. Flat rate 12 paise/₹100 replaced by Tier 1/2 CAMELS models with up to 33.33% risk incentive and 25% vintage incentive from April 1, 2026.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "**Overview**: DICGC with RBI approval advised banks on Risk-Based Premium framework under Section 15(1) of DICGC Act 1961. Flat rate 12 paise/₹100 replaced by Tier 1/2 CAMELS models with up to 33.33% risk incentive and 25% vintage incentive from April 1, 2026."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**DICGC Risk-based Premium Framework for Deposit Insurance in India** (Page 8): DICGC with RBI approval advised banks on Risk-Based Premium framework under Section 15(1) of DICGC Act 1961. Flat rate 12 paise/₹100 replaced by Tier 1/2 CAMELS models with up to 33.33% risk incentive and 25% vintage incentive from April 1, 2026."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Deposit Insurance & Financial Stability. Overhauls 1962 flat 12p rate into 4 CAMELS risk tiers with 33.33% risk and 25% vintage incentives."
+    }
+  ],
+  "metadata": {
+    "provenancePages": [
+      8
+    ],
+    "constituentArticleCount": 1,
+    "provenanceArticleIds": [
+      "cgb-art-23"
+    ],
+    "statutoryConcept": "Deposit Insurance & Financial Stability",
+    "whyStandalone": "Overhauls 1962 flat 12p rate into 4 CAMELS risk tiers with 33.33% risk and 25% vintage incentives."
+  }
+}

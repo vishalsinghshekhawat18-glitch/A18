@@ -1,36 +1,25 @@
 {
   "id": "migrated-ca-note-sec1-90",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Tamil Nadu Wins 'Best State' Award for Organ Donations in NOTTO Report 2025-26",
+  "type": "ca_note",
   "summary": "Tamil Nadu Wins 'Best State' Award for Organ Donations in NOTTO Report 2025-26",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 7. 🏆 AWARDS, BOOKS, INDICES & RANKINGS",
+      "text": "🪝 Tamil Nadu Wins 'Best State' Award for Organ Donations in NOTTO Report 2025-26. Key development for Banking & General Awareness."
+    },
+    {
       "type": "bullet_list",
       "items": [
-        "Tamil Nadu won 'Best State' award (266 deceased donors); Delhi ranked #1 in total transplants (4,564)."
+        "Tamil Nadu won 'Best State' award (266 deceased donors); Delhi ranked #1 in total transplants (4,564).",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Award Title",
-        "Recipient / Winner",
-        "Conferred By / Key Detail"
-      ],
-      "rows": [
-        [
-          "Tamil Nadu Wins 'Best State' Award for Organ Donations in NOTTO Report 2025-26",
-          "Tamil Nadu won 'Best State' award (266 deceased donors); Delhi ranked #1 in total transplants (4,564).",
-          "Annual Recognition"
-        ]
-      ]
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
     }
   ],
   "metadata": {
@@ -44,7 +33,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-08-05",
-    "category": "SEC1",
+    "category": "SEC6",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:11:08.725Z",
     "provenance": {
@@ -55,6 +44,16 @@
       "sourceChecksum": "6a1c80485c85d5582dbedd584038edb8e714f94f5470fb3405e1baa32e3b2173",
       "migrationTimestamp": "2026-08-15T12:11:08.725Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC7",
+    "sectionNumber": 7,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 82
   }
 }

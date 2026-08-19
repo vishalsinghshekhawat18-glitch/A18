@@ -1,0 +1,76 @@
+{
+  "id": "migrated-ca-note-sec4-294",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Static GK: Narmada River Hydroelectric Projects & Geography",
+  "summary": "Longest west-flowing river in India, originating in Maikala range near Amarkantak.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 Static GK: Narmada River Hydroelectric Projects & Geography. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Longest west-flowing river in India, originating in Maikala range near Amarkantak.",
+        "Geography & Course: Also known as Reva; originates from Amarkantak (MP) and empties into Gulf of Khambhat (Arabian Sea); spans MP, Gujarat, Maharashtra, and Chhattisgarh.",
+        "Major Hydropower Projects: Sardar Sarovar Dam (Gujarat), Indira Sagar Dam (MP), Maheshwar Dam, and Omkareshwar Dam.",
+        "Narmada discharge (Gulf of Khambhat, Arabian Sea) vs east-flowing rivers (Bay of Bengal).",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 10,
+      "code": "SEC10",
+      "name": "MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "emoji": "📌",
+      "fullName": "10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC"
+    },
+    "hook": "🪝 Static GK: Narmada River Hydroelectric Projects & Geography",
+    "examAngle": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-07-04"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-04",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:15:40.421Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-294",
+      "sourceTitle": "Static GK: Narmada River Hydroelectric Projects & Geography",
+      "sourceChecksum": "710599acd28c7bac29ba4df9d99bcd3d9ac335b2a87358e27edeb557cce4d89f",
+      "migrationTimestamp": "2026-08-15T12:15:40.421Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

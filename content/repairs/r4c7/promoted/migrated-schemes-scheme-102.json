@@ -1,0 +1,135 @@
+{
+  "id": "migrated-schemes-scheme-102",
+  "type": "ca_note",
+  "domain": "schemes",
+  "title": "PM YASASVI (PM Young Achievers Scholarship Award Scheme for Vibrant India)",
+  "summary": "PM YASASVI (PM Young Achievers Scholarship Award Scheme for Vibrant India) — Comprehensive study notes covering objectives, eligibility, outlay, and exam traps.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "PM YASASVI (PM Young Achievers Scholarship Award Scheme for Vibrant India)",
+      "summary": "To provide financial assistance to meritorious students from Other Backward Classes (OBC), Economically Backward Classes (EBC), and De-notified, Nomadic & Semi-Nomadic Tribes (DNT/SNT) for pre-matric, post-matric, and top-class higher education."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🏛️ Administrative & Financial Framework"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Parameter",
+        "Official Specification"
+      ],
+      "rows": [
+        [
+          "Nodal Ministry",
+          "Ministry of Social Justice and Empowerment"
+        ],
+        [
+          "Department",
+          "Department of Social Justice and Empowerment"
+        ],
+        [
+          "Launch Year / Period",
+          "2021-22 (Operational for 2021-22 to 2025-26)"
+        ],
+        [
+          "Financial Outlay",
+          "₹1,500+ Crore annual allocation under MoSJE budget."
+        ],
+        [
+          "Funding Pattern",
+          "Central Sector Scheme (with state sharing in pre-matric/post-matric components under DBT)."
+        ],
+        [
+          "Implementing Agency",
+          "Department of Social Justice and Empowerment, National Scholarship Portal (NSP), and National Testing Agency (NTA)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🎯 Target Beneficiaries & Eligibility"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Target Beneficiaries:** OBC, EBC, and DNT students studying in Class 9 through higher education institutions.",
+        "**Eligibility Criteria:** Annual family income must not exceed ₹2.50 Lakh per annum."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "✨ Key Components & Features"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Pre-Matric Scholarship: ₹4,000/year for Class 9 and 10 students.",
+        "Post-Matric Scholarship: ₹5,000 to ₹20,000/year depending on course level.",
+        "Top Class School Education: Up to ₹75,000/year (Class 9-10) and ₹1,25,000/year (Class 11-12) in top identified schools.",
+        "Top Class College Education: Full tuition fee + ₹2.00 Lakh to ₹3.72 Lakh living/academic allowance in top identified institutes.",
+        "Construction of Hostels: Financial assistance for building hostels for OBC boys and girls."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚠️ Exam Traps & Key Distinctions"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Exam Trap: Selection for Top Class School Education uses merit lists from the National Scholarship Portal (formerly YASASVI Entrance Test).",
+        "Income ceiling: Strictly ₹2.50 Lakh/annum (not ₹8 Lakh)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📚 Authoritative Sources"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Ministry of Social Justice and Empowerment, PM YASASVI Scheme Guidelines (socialjustice.gov.in)",
+        "National Scholarship Portal (scholarships.gov.in) — Guidelines for PM-YASASVI"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.104Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-102",
+      "sourceTitle": "PM YASASVI (PM Young Achievers Scholarship Award Scheme for Vibrant India):",
+      "sourceChecksum": "cce9478eac7a11594b142739b36d1e867e443411873c95be8311201fd4b2f0a4",
+      "migrationTimestamp": "2026-08-15T12:14:02.104Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    },
+    "repairedVersion": "r4.c5-pilot",
+    "repairedTimestamp": "2026-08-18T13:11:12.064Z",
+    "requiresHumanReview": true,
+    "promotionGate": "R4.C7-passed",
+    "promotionStatus": "approved",
+    "promotedTimestamp": "2026-08-18T13:20:41.066Z",
+    "evidenceAuditFile": "content/repairs/r4c6/migrated-schemes-scheme-102-evidence.json",
+    "temporalStatus": "current",
+    "crossSchemeRole": "PRIMARY"
+  }
+}

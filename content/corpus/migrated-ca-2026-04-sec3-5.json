@@ -1,20 +1,26 @@
 {
   "id": "migrated-ca-2026-04-sec3-5",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "LIC Board Approves First-Ever 1:1 Bonus Issue Since 2022 Listing",
+  "type": "ca_note",
   "summary": "LIC capitalises ₹6,325 crore from reserves to issue 1 free share for every 1 share held, doubling paid-up capital to ₹12,650 crore.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "LIC Board approved a **1:1 bonus issue**, capitalizing ₹6,325 crore from reserves to double paid-up capital to ₹12,650 crore by June 12, 2026."
+      "type": "warning_banner",
+      "title": "📰 3. 🏦 BANKING & INSURANCE NEWS",
+      "text": "🪝 LIC Board Approves First-Ever 1:1 Bonus Issue Since 2022 Listing. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "LIC Board approved a **1:1 bonus issue**, capitalizing ₹6,325 crore from reserves to double paid-up capital to ₹12,650 crore by June 12, 2026.",
         "**Purpose**: Boost share liquidity and make stock accessible to retail investors.",
-        "**MPS Compliance**: Helps Govt of India (holding 96.5%) move towards SEBI's 10% minimum public shareholding norm by May 2027."
+        "**MPS (minimum public shareholding threshold for listed firms) Compliance**: Helps Govt of India (holding 96.5%) move towards SEBI's 10% minimum public shareholding norm by May 2027.",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
       ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
     }
   ],
   "metadata": {
@@ -40,6 +46,16 @@
       "sourceChecksum": "1a9a1b29b9daf98b336593f477d44d44a0ce5a9a86e27b2db780e87efb8284e7",
       "migrationTimestamp": "2026-08-16T11:56:36.842Z",
       "normalizationRuleVersion": "1.0.0-apr2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC3",
+    "sectionNumber": 3,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

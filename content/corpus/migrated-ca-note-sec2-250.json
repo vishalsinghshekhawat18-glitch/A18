@@ -1,30 +1,27 @@
 {
   "id": "migrated-ca-note-sec2-250",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "NABARD Facilitates GI Registration for 28 New Products (Total 176 Supported)",
+  "type": "ca_note",
   "summary": "Expands GI tagging for indigenous craft and agri-products across Bihar, Assam, and MP.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Expands GI tagging for indigenous craft and agri-products across Bihar, Assam, and MP."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 NABARD Facilitates GI Registration for 28 New Products (Total 176 Supported). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Expands GI tagging for indigenous craft and agri-products across Bihar, Assam, and MP.",
         "New GI Products: Nalanda Bawanbuti Saree (Bihar), Gaya Pattharkatti Stone Craft (Bihar), Kuchai Silk (Jharkhand), Ba Shilp & Bihu Pepa (Assam), Khajuraho Metal Craft (MP).",
-        "NABARD Total: NABARD has supported 176 total products in obtaining GI tags."
+        "NABARD Total: NABARD has supported 176 total products in obtaining GI tags.",
+        "GI products in this round (28) vs total NABARD-supported GI products (176).",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "NABARD established July 12, 1982 | Chairman: Shaji K. V."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "GI products in this round (28) vs total NABARD-supported GI products (176)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -49,6 +46,16 @@
       "sourceChecksum": "715f58b07d475a69081f7b8f9534ac216fcc59fb887b68d126141a9267ee3dc7",
       "migrationTimestamp": "2026-08-15T12:14:29.731Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

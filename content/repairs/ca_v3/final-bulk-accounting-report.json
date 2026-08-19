@@ -1,0 +1,33 @@
+{
+  "version": "1.0.0-final-ca-v3-bulk",
+  "generatedAt": "2026-08-18T16:34:26.269Z",
+  "accounting": {
+    "originalCACount": 661,
+    "retainNew": 645,
+    "mergeIntoExisting": 1,
+    "chronologicalUpdate": 2,
+    "redirectDuplicate": 6,
+    "skipLowYield": 7,
+    "skipObituary": 0,
+    "sectionDistribution": {
+      "SEC4": 61,
+      "SEC1": 151,
+      "SEC6": 71,
+      "SEC10": 36,
+      "SEC3": 52,
+      "SEC2": 199,
+      "SEC7": 20,
+      "SEC5": 42,
+      "SEC8": 15
+    },
+    "tierDistribution": {
+      "TIER_A": 240,
+      "TIER_B_PLUS": 407,
+      "REDIRECT": 6,
+      "MERGE": 1,
+      "SKIP": 7
+    }
+  },
+  "totalAccounted": 661,
+  "exactReconciliation": true
+}

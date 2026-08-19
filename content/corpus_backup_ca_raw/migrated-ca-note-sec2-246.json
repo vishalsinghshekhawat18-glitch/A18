@@ -1,0 +1,84 @@
+{
+  "id": "migrated-ca-note-sec2-246",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SEBI Revises Rules for Unpaid Client Securities (CUSPA Account Auto-Pledge)",
+  "summary": "Mandates direct demat payout followed by auto-pledge in Client Unpaid Securities Pledgee Account.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 SEBI Revises Rules for Unpaid Client Securities (CUSPA Account Auto-Pledge). Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Mandates direct demat payout followed by auto-pledge in Client Unpaid Securities Pledgee Account.",
+        "CUSPA Mechanism: Unpaid securities credited directly to client demat and auto-pledged to broker's CUSPA account.",
+        "Broker Right: Broker permitted to liquidate unpaid securities if payment obligation is not fulfilled.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "SEBI Established: 12 April 1992 (SEBI Act 1992) · HQ: Mumbai · Regulatory Scope: Securities & Capital Markets"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 2,
+      "code": "SEC2",
+      "name": "REGULATORY BODIES NEWS",
+      "emoji": "🏛️",
+      "fullName": "2. 🏛️ REGULATORY BODIES NEWS"
+    },
+    "hook": "🪝 SEBI Revises Rules for Unpaid Client Securities (CUSPA Account Auto-Pledge)",
+    "examAngle": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks.",
+    "staticGK": {
+      "summary": "SEBI Established: 12 April 1992 (SEBI Act 1992) · HQ: Mumbai · Regulatory Scope: Securities & Capital Markets"
+    },
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-07-10"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-10",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:29.731Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-246",
+      "sourceTitle": "SEBI Revises Rules for Unpaid Client Securities (CUSPA Account Auto-Pledge)",
+      "sourceChecksum": "f5e821a981f927155c7ad58734bb9174e81eb380ec5db405589d329e9bd663d4",
+      "migrationTimestamp": "2026-08-15T12:14:29.731Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

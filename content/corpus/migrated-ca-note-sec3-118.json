@@ -1,24 +1,25 @@
 {
   "id": "migrated-ca-note-sec3-118",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Home Minister Receives ₹22.90 Crore Dividend from REPCO Bank for FY26",
+  "type": "ca_note",
   "summary": "State-backed cooperative bank returns 30% dividend on government equity.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "State-backed cooperative bank returns 30% dividend on government equity."
+      "type": "warning_banner",
+      "title": "📰 3. 🏦 BANKING & INSURANCE NEWS",
+      "text": "🪝 Home Minister Receives ₹22.90 Crore Dividend from REPCO Bank for FY26. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
-        "Shareholding: Govt of India holds 76.32% share capital (₹76.32 crore)."
+        "State-backed cooperative bank returns 30% dividend on government equity.",
+        "Shareholding: Govt of India holds 76.32% share capital (₹76.32 crore).",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "REPCO Bank established Nov 19, 1969 under Madras Cooperative Societies Act 1961 (Chairman: E. Santhanam; MHA control; operates in TN, AP, KL, KA)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
     }
   ],
   "metadata": {
@@ -43,6 +44,16 @@
       "sourceChecksum": "881befe82be69be25cf940cd099aa577bce7d0204ce70d8dd2bae7a61488815e",
       "migrationTimestamp": "2026-08-15T12:11:38.420Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC3",
+    "sectionNumber": 3,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

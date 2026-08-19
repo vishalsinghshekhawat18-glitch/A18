@@ -1,13 +1,24 @@
 {
   "id": "migrated-ca-2026-02-sec6-3",
+  "title": "Micron ₹22,500 Crore Semiconductor ATMP Facility in Sanand, Gujarat",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "BCCI Scraps A+ Grade in Central Contracts Restructure",
-  "summary": "BCCI moves from 4-tier to 3-tier central contract system (A, B, C), discontinuing the ₹7 Cr/year A+ bracket.",
+  "summary": "Commercial memory module production commenced at Sanand Gujarat under India Semiconductor Mission.",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "BCCI restructured player contracts into a **3-tier system (A, B, C)**. Virat Kohli and Rohit Sharma moved to Grade B; new Grade A features **Shubman Gill, Jasprit Bumrah, and Ravindra Jadeja**."
+      "content": "**Overview**: Commercial memory module production commenced at Sanand Gujarat under India Semiconductor Mission."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**PM Modi inaugurates Micron's ₹22,500 Crore Semiconductor ATMP facility in Sanand** (Page 57): Commercial memory module production commenced at Sanand Gujarat under India Semiconductor Mission."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under India Semiconductor Mission Commercial Manufacturing. First commercial made-in-India semiconductor memory modules."
     }
   ],
   "metadata": {
@@ -17,22 +28,36 @@
       "SBI PO"
     ],
     "tags": [
-      "sec8",
+      "sec6",
       "Current Affairs 2026",
-      "February 2026"
+      "February 2026",
+      "TIER_A"
     ],
     "date": "2026-02-15",
-    "category": "SEC8",
-    "difficulty": "intermediate",
-    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "category": "SEC6",
+    "difficulty": "hard",
+    "lastUpdated": "2026-08-18T17:42:36.843Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "Feb2026.pdf",
-      "sourceId": "migrated-ca-2026-02-sec6-3",
-      "sourceTitle": "BCCI Scraps A+ Grade in Central Contracts Restructure",
-      "sourceChecksum": "667c9fcfb400835e5fe387aa1e894ba53bad954348ac6bda1b1144de88e66c6d",
-      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
-      "normalizationRuleVersion": "1.0.0-feb2026"
-    }
-  }
+      "sourceId": "emu-semiconductor-atmp-micron-sanand",
+      "sourceTitle": "Micron ₹22,500 Crore Semiconductor ATMP Facility in Sanand, Gujarat",
+      "provenancePages": [
+        57
+      ],
+      "constituentArticleCount": 1,
+      "migrationTimestamp": "2026-08-18T17:42:36.843Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
+  },
+  "relationships": []
 }

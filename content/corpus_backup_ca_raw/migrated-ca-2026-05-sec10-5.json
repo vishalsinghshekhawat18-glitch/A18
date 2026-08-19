@@ -1,0 +1,74 @@
+{
+  "id": "migrated-ca-2026-05-sec10-5",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "CCEA Fixes Sugarcane FRP for 2026-27 Season at Record ₹365 per Quintal",
+  "summary": "Fair and Remunerative Price (FRP) of sugarcane fixed at ₹365/qtl for basic 10.25% recovery rate for 2026-27 sugar season.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 CCEA Fixes Sugarcane FRP for 2026-27 Season at Record ₹365 per Quintal. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "CCEA approved sugarcane FRP of **₹365/quintal** for Sugar Season 2026-27 (Oct-Sept), 100.5% over A2+FL cost of production (₹182/qtl) on CACP recommendations.",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 10,
+      "code": "SEC10",
+      "name": "MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "emoji": "📌",
+      "fullName": "10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC"
+    },
+    "hook": "🪝 CCEA Fixes Sugarcane FRP for 2026-27 Season at Record ₹365 per Quintal",
+    "examAngle": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-05-15"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec10",
+      "Current Affairs 2026",
+      "May 2026"
+    ],
+    "date": "2026-05-15",
+    "category": "SEC10",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T16:10:30.135Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-05-sec10-5",
+      "sourceTitle": "CCEA Fixes Sugarcane FRP for 2026-27 Season at Record ₹365 per Quintal",
+      "sourceChecksum": "0ea4df12354207c697b3a8c28d95a286dc13f14453f5ca2bc0f1db5571479814",
+      "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+      "normalizationRuleVersion": "1.0.0-may2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

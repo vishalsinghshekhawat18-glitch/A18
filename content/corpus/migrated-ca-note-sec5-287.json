@@ -1,36 +1,24 @@
 {
   "id": "migrated-ca-note-sec5-287",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Lokhande Prashant Sitaram Appointed CBSE Chairperson",
+  "type": "ca_note",
   "summary": "Lokhande Prashant Sitaram Appointed CBSE Chairperson",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 5. 🤝 MoUs, CONFERENCES & APPOINTMENTS",
+      "text": "🪝 Lokhande Prashant Sitaram Appointed CBSE Chairperson. Key development for Banking & General Awareness."
+    },
+    {
       "type": "bullet_list",
       "items": [
-        "Appointment: Lokhande Prashant Sitaram appointed CBSE Chairperson."
+        "Appointment: Lokhande Prashant Sitaram appointed CBSE Chairperson.",
+        "🎯 Exam Angle → Focus on appointee name, nominating body (FSIB / ACC), predecessor, tenure duration, and statutory establishment year."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Appointee / Official",
-        "New Position & Organization",
-        "Key Context & Details"
-      ],
-      "rows": [
-        [
-          "Lokhande Prashant Sitaram",
-          "CBSE Chairperson",
-          "Appointment: Lokhande Prashant Sitaram appointed CBSE Chairperson."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "CBSE HQ: New Delhi | Works under Ministry of Education."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on appointee name, nominating body (FSIB / ACC), predecessor, tenure duration, and statutory establishment year."
     }
   ],
   "metadata": {
@@ -55,6 +43,16 @@
       "sourceChecksum": "bd5b2c9c9d72b3ff4ac392d4aae0a1519696e4df4e89b764135bf7df4c400e46",
       "migrationTimestamp": "2026-08-15T12:15:40.420Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC5",
+    "sectionNumber": 5,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

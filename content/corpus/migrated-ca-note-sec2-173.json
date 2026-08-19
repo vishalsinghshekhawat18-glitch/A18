@@ -1,42 +1,31 @@
 {
   "id": "migrated-ca-note-sec2-173",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Monisha Chakraborty Appointed Executive Director of Reserve Bank of India",
+  "type": "ca_note",
   "summary": "Monisha Chakraborty Appointed Executive Director of Reserve Bank of India",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 Monisha Chakraborty Appointed Executive Director of Reserve Bank of India. Key development for Banking & General Awareness."
+    },
     {
       "type": "bullet_list",
       "items": [
         "Appointed ED overseeing Foreign Exchange Department and Financial Markets Regulation Department.",
-        "Career background: Over 3 decades at RBI; previously Chief General Manager-in-Charge of Department of Supervision."
-      ]
-    },
-    {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Appointee / Official",
-        "New Position & Organization",
-        "Key Context & Details"
-      ],
-      "rows": [
-        [
-          "Monisha Chakraborty",
-          "Executive Director of Reserve Bank of India",
-          "Appointed ED overseeing Foreign Exchange Department and Financial Markets Regulation Department."
-        ]
+        "Career background: Over 3 decades at RBI; previously Chief General Manager-in-Charge of Department of Supervision.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on appointee name, nominating body (FSIB / ACC), predecessor, tenure duration, and statutory establishment year."
       ]
     },
     {
       "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "RBI Governor: Sanjay Malhotra (26th) | 4 Deputy Governors."
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on appointee name, nominating body (FSIB / ACC), predecessor, tenure duration, and statutory establishment year."
     }
   ],
   "metadata": {
@@ -61,6 +50,16 @@
       "sourceChecksum": "85560842c569936e74588d0ed2d76080763eee350a12962d319299c17f858877",
       "migrationTimestamp": "2026-08-15T12:12:37.959Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

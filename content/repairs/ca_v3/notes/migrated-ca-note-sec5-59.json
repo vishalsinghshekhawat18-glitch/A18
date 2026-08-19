@@ -1,0 +1,76 @@
+{
+  "id": "migrated-ca-note-sec5-59",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "A S Rajeev Appointed Acting Central Vigilance Commissioner (CVC)",
+  "summary": "A S Rajeev Appointed Acting Central Vigilance Commissioner (CVC)",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 A S Rajeev Appointed Acting Central Vigilance Commissioner (CVC). Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**A S Rajeev** appointed Acting Central Vigilance Commissioner.",
+        "Appointment Committee: PM (Chair) + Union Home Minister + Leader of Opposition in Lok Sabha.",
+        "Tenure Rules: Fixed **4 years or until age 65**.",
+        "Central Vigilance Commissioner (CVC) vs Chief Information Commissioner (CIC).",
+        "🎯 Exam Angle → Focus on appointee name, nominating body (FSIB / ACC), predecessor, tenure duration, and statutory establishment year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on appointee name, nominating body (FSIB / ACC), predecessor, tenure duration, and statutory establishment year."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 10,
+      "code": "SEC10",
+      "name": "MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "emoji": "📌",
+      "fullName": "10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC"
+    },
+    "hook": "🪝 A S Rajeev Appointed Acting Central Vigilance Commissioner (CVC)",
+    "examAngle": "🎯 Exam Angle → Focus on appointee name, nominating body (FSIB / ACC), predecessor, tenure duration, and statutory establishment year.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-08-01"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:34.066Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec5-59",
+      "sourceTitle": "A S Rajeev Appointed Acting Central Vigilance Commissioner (CVC)",
+      "sourceChecksum": "7a4c277372c4470dcf0ce41cfee7c708668e3c12534a39afd4f5aa32b195fb95",
+      "migrationTimestamp": "2026-08-15T12:10:34.066Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

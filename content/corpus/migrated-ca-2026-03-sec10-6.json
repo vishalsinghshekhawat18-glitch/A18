@@ -1,23 +1,29 @@
 {
   "id": "migrated-ca-2026-03-sec10-6",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "March 2026 Rapid Recall & Key Milestones Summary",
+  "type": "ca_note",
   "summary": "Consolidated high-yield recall summary of key figures, policies, and macro indicators from March 2026.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "High-speed sweep of top facts for March 2026:"
+      "type": "warning_banner",
+      "title": "📰 11. 🧠 REVISION",
+      "text": "🪝 March 2026 Rapid Recall & Key Milestones Summary. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "High-speed sweep of top facts for March 2026:",
         "**Income Tax Act 2025**: Replaces 1961 Act from April 1, 2026 (PRARAMBH 2026).",
         "**VB-G RAM G Act 2025**: Replaces MGNREGA; wage days raised to 125.",
         "**JJM 2.0**: Extended to Dec 2028 (Rs 8.69 lakh Cr outlay).",
         "**MUFG-Shriram Deal**: ₹39,618 Cr (20% stake).",
-        "**Forex Record**: $728.494 billion all-time high."
+        "**Forex Record**: $728.494 billion all-time high.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of March 2026 Rapid Recall & Key Milestones Summary."
       ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of March 2026 Rapid Recall & Key Milestones Summary."
     }
   ],
   "metadata": {
@@ -32,7 +38,7 @@
       "March 2026"
     ],
     "date": "2026-03-15",
-    "category": "SEC11",
+    "category": "SEC1",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-16T11:13:16.778Z",
     "provenance": {
@@ -43,6 +49,16 @@
       "sourceChecksum": "18859f1fe506c760a18a007cc22a65bda475b3cfb95d205043d61a70b5af454a",
       "migrationTimestamp": "2026-08-16T11:13:16.778Z",
       "normalizationRuleVersion": "1.0.0-mar2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "LIGHT_TOUCH",
+    "sectionCode": "SEC11",
+    "sectionNumber": 11,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 92
   }
 }

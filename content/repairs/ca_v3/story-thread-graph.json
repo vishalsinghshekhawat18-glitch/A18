@@ -1,0 +1,26 @@
+[
+  {
+    "childId": "migrated-ca-2026-04-sec10-1",
+    "parentStoryId": "migrated-ca-2026-01-sec1-2",
+    "relationship": "CHRONOLOGICAL_UPDATE",
+    "reason": "Chronological update: Launch of Phase 1 of Census 2027 (Jan 26 -> Apr 15)"
+  },
+  {
+    "childId": "migrated-ca-note-sec2-396",
+    "parentStoryId": "migrated-ca-2026-03-sec2-3",
+    "relationship": "CHRONOLOGICAL_UPDATE",
+    "reason": "Chronological update: RBI issues final digital fraud compensation framework (Mar 15 -> Jun 18)"
+  },
+  {
+    "childId": "migrated-ca-note-sec2-397",
+    "parentStoryId": "migrated-ca-2026-04-sec2-4",
+    "relationship": "CHRONOLOGICAL_UPDATE",
+    "reason": "Chronological update: RBI fixes final ₹1L Cr asset threshold for NBFC-UL (Apr 15 -> Jun 19)"
+  },
+  {
+    "childId": "migrated-ca-note-sec4-202",
+    "parentStoryId": "migrated-ca-note-sec2-238",
+    "relationship": "CHRONOLOGICAL_UPDATE",
+    "reason": "Chronological update: Presidential assent to Public Examinations Bill (July 2 -> Aug 6)"
+  }
+]

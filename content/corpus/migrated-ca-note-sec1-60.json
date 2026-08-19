@@ -1,38 +1,25 @@
 {
   "id": "migrated-ca-note-sec1-60",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Ministry of Ayush Signs MoU with IndiaAI Mission",
+  "type": "ca_note",
   "summary": "Ministry of Ayush Signs MoU with IndiaAI Mission",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 5. 🤝 MoUs, CONFERENCES & APPOINTMENTS",
+      "text": "🪝 Ministry of Ayush Signs MoU with IndiaAI Mission. Key development for Banking & General Awareness."
+    },
+    {
       "type": "bullet_list",
       "items": [
-        "Ministry of Ayush signed MoU with IndiaAI Mission to promote AI adoption across traditional medicine research and diagnosis."
+        "Ministry of Ayush signed MoU with IndiaAI Mission to promote AI adoption across traditional medicine research and diagnosis.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Rooftop Solar System Capacity",
-        "Central Financial Assistance (CFA) Subsidy"
-      ],
-      "rows": [
-        [
-          "Up to 2 kW",
-          "₹30,000 per kW (Max ₹60,000)"
-        ],
-        [
-          "3 kW or Higher",
-          "₹78,000 fixed maximum subsidy"
-        ]
-      ]
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
     }
   ],
   "metadata": {
@@ -57,6 +44,16 @@
       "sourceChecksum": "24be09010440d477fad175ca3c32973d6d0420680bc4d05f66602516e6e6333a",
       "migrationTimestamp": "2026-08-15T12:10:34.066Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC5",
+    "sectionNumber": 5,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

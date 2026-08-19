@@ -1,0 +1,74 @@
+{
+  "id": "migrated-ca-note-sec6-166",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "4th Edition of Tri-Services Future Warfare Course Commences in New Delhi",
+  "summary": "4th Edition of Tri-Services Future Warfare Course Commences in New Delhi",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS",
+      "text": "🪝 4th Edition of Tri-Services Future Warfare Course Commences in New Delhi. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Organized under aegis of HQ Integrated Defence Staff (IDS) and coordinated by CENJOWS at Manekshaw Centre.",
+        "Focus: Multi-domain operations, grey-zone warfare, AI, quantum tech, and autonomous combat systems.",
+        "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 6,
+      "code": "SEC6",
+      "name": "SCIENCE, TECHNOLOGY, DEFENCE & SPORTS",
+      "emoji": "🔬",
+      "fullName": "6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS"
+    },
+    "hook": "🪝 4th Edition of Tri-Services Future Warfare Course Commences in New Delhi",
+    "examAngle": "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-08-05"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:37.959Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec6-166",
+      "sourceTitle": "4th Edition of Tri-Services Future Warfare Course Commences in New Delhi",
+      "sourceChecksum": "9515aa54411a3f2ea90aebfb07d792543f6a0b5ffe7371071841184c23c0773a",
+      "migrationTimestamp": "2026-08-15T12:12:37.959Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "sectionNumber": 6,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

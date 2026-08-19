@@ -1,13 +1,31 @@
 {
   "id": "migrated-ca-2026-02-sec6-2",
+  "title": "India AI Impact Summit 2026 — Sovereign MANAV Vision, Frontier Commitments & BHASHINI Stack",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "India & Sri Lanka Co-Host 10th ICC Men's T20 World Cup 2026",
-  "summary": "20 teams compete across 55 matches in India and Sri Lanka (Scotland replacing Bangladesh).",
+  "summary": "PM Narendra Modi unveiled MANAV Vision for AI: Moral systems, Accountable governance, National sovereignty, Accessible & inclusive, Valid & legitimate.",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "India and Sri Lanka co-host the **10th ICC Men's T20 World Cup 2026** (20 teams, 55 matches across 8 venues)."
+      "content": "**Overview**: PM Narendra Modi unveiled MANAV Vision for AI: Moral systems, Accountable governance, National sovereignty, Accessible & inclusive, Valid & legitimate."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**MANAV Vision for AI at India AI Impact Summit 2026** (Page 5): PM Narendra Modi unveiled MANAV Vision for AI: Moral systems, Accountable governance, National sovereignty, Accessible & inclusive, Valid & legitimate.",
+        "**NPCI offers 'UPI One World' wallet to foreign visitors at AI Summit** (Page 21): NPCI offered UPI One World wallet for delegates from 40+ countries at India AI Impact Summit (up to ₹25,000 per load, max ₹50,000/month).",
+        "**NPCI launches FiMI domain-specific language model for payments** (Page 22): NPCI launched FiMI (Finance Model for India) Small Language Model supporting English, Hindi, Telugu, Bengali on UPI Help Assistant.",
+        "**NPCI and Nvidia tie up for sovereign AI payment infrastructure** (Page 23): NPCI partnered with Nvidia to scale FiMI SLM infrastructure for sovereign payments.",
+        "**Bharat GenAI text models across 22 scheduled languages led by IIT Bombay** (Page 31): DST funded ₹235 Cr under NM-ICPS + MeitY India AI Mission ₹10,585 Cr for BharatGen sovereign multilingual LLM.",
+        "**India AI Impact Summit 2026 held in New Delhi: Seven Chakras & 3 Sutras** (Page 37): First-ever Global AI Summit in Global South (Feb 16-20) based on People, Planet, Progress. Stanford AI Index 2025 ranks India top 3 in AI vibrancy.",
+        "**MeitY launches VoicERA open-source voice AI stack on BHASHINI** (Page 42): Amitabh Nag (CEO BHASHINI) launched VoicERA in collaboration with EkStep, IIIT Bengaluru, AI4Bharat.",
+        "**India unveils 'New Delhi Frontier AI Commitments' at AI Summit** (Page 45): Ashwini Vaishnaw unveiled voluntary Frontier AI commitments adopted by global and Indian tech leaders."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Sovereign AI Governance & Multilingual Stack. Global South AI summit establishing MANAV and 22-language stack."
     }
   ],
   "metadata": {
@@ -17,22 +35,43 @@
       "SBI PO"
     ],
     "tags": [
-      "sec8",
+      "sec6",
       "Current Affairs 2026",
-      "February 2026"
+      "February 2026",
+      "TIER_A"
     ],
     "date": "2026-02-15",
-    "category": "SEC8",
-    "difficulty": "intermediate",
-    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "category": "SEC6",
+    "difficulty": "hard",
+    "lastUpdated": "2026-08-18T17:42:36.842Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "Feb2026.pdf",
-      "sourceId": "migrated-ca-2026-02-sec6-2",
-      "sourceTitle": "India & Sri Lanka Co-Host 10th ICC Men's T20 World Cup 2026",
-      "sourceChecksum": "00cebd35d59c2dc000b60ca82c8aa04a6de5b7dd9adb91f7ea1c0767e996c7f0",
-      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
-      "normalizationRuleVersion": "1.0.0-feb2026"
-    }
-  }
+      "sourceId": "emu-india-ai-impact-summit-2026",
+      "sourceTitle": "India AI Impact Summit 2026 — Sovereign MANAV Vision, Frontier Commitments & BHASHINI Stack",
+      "provenancePages": [
+        5,
+        21,
+        22,
+        23,
+        31,
+        37,
+        42,
+        45
+      ],
+      "constituentArticleCount": 8,
+      "migrationTimestamp": "2026-08-18T17:42:36.842Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
+  },
+  "relationships": []
 }

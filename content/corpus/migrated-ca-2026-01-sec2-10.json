@@ -1,0 +1,63 @@
+{
+  "id": "migrated-ca-2026-01-sec2-10",
+  "title": "🏛️ RBI Principle-Based Natural Calamity Loan Resolution Framework Effective April 2026",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "summary": "RBI relaxed proposed risk-weight norms for NBFC infrastructure exposures: 75% risk weight assigned at 2% repayment threshold (cut from 5%), and 50% risk weight at 5% repayment threshold (cut from 10%). Takes effect April 1, 2026.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "**Overview**: RBI relaxed proposed risk-weight norms for NBFC infrastructure exposures: 75% risk weight assigned at 2% repayment threshold (cut from 5%), and 50% risk weight at 5% repayment threshold (cut from 10%). Takes effect April 1, 2026."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**RBI Eases Infrastructure Lending Risk-Weight Framework for NBFCs** (Page 16): RBI relaxed proposed risk-weight norms for NBFC infrastructure exposures: 75% risk weight assigned at 2% repayment threshold (cut from 5%), and 50% risk weight at 5% repayment threshold (cut from 10%). Takes effect April 1, 2026."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Disaster Relief Lending & Credit Restructuring. Provides operational flexibility for banks to reschedule standard/SMA-0 loans impacted by natural disasters based on SLBC/DCC inputs."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026",
+      "January 2026",
+      "TIER_B_PLUS"
+    ],
+    "date": "2026-01-15",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-19T02:37:59.674Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Jan2026.pdf",
+      "sourceId": "emu-jan-rbi-natural-calamity-loans",
+      "sourceTitle": "🏛️ RBI Principle-Based Natural Calamity Loan Resolution Framework Effective April 2026",
+      "provenancePages": [
+        16
+      ],
+      "constituentArticleCount": 1,
+      "migrationTimestamp": "2026-08-19T02:37:59.674Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_B_PLUS",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 85
+  },
+  "relationships": []
+}

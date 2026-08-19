@@ -1,31 +1,33 @@
 {
   "id": "migrated-ca-note-sec3-313",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "NIPL Partners with Eurobank to Make UPI Live in Greece (10th Country Globally)",
+  "type": "ca_note",
   "summary": "Expands UPI cross-border merchant payments into Greece as 10th international destination.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Expands UPI cross-border merchant payments into Greece as 10th international destination."
+      "type": "warning_banner",
+      "title": "📰 3. 🏦 BANKING & INSURANCE NEWS",
+      "text": "🪝 NIPL Partners with Eurobank to Make UPI Live in Greece (10th Country Globally). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Expands UPI cross-border merchant payments into Greece as 10th international destination.",
         "Greece Partner: Eurobank (Greece) partnered with NPCI International Payments Limited (NIPL).",
         "10 Global Countries: Greece joins Singapore, UAE, Bhutan, Nepal, Sri Lanka, France, Mauritius, Qatar, and Cambodia.",
-        "Domestic Volume: UPI processes 22–23 billion transactions per month domestically."
+        "Domestic Volume: UPI processes 22–23 billion transactions per month domestically.",
+        "Greece position as UPI international destination (10th country globally).",
+        "🎯 Exam Angle → Focus on monthly transaction volume & value records, NPCI market cap limits, and international UPI linkage countries."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "NPCI International Payments Ltd (NIPL) CEO: Ritesh Shukla."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on monthly transaction volume & value records, NPCI market cap limits, and international UPI linkage countries."
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Greece position as UPI international destination (10th country globally)."
+      "type": "warning_banner",
+      "title": "💼 Interview Question & Model Answer",
+      "text": "**Q:** How does international UPI linkage assist Indian cross-border trade and remittances?\n\n**Model Answer:** It lowers cross-border transaction fees by bypassing intermediary correspondent banking networks and enables real-time sovereign currency settlements."
     }
   ],
   "metadata": {
@@ -50,6 +52,16 @@
       "sourceChecksum": "6a18edb208b1a242c3ec2d5d5d7297f97cb3e0438a4a3353d1c7ff61a85711c8",
       "migrationTimestamp": "2026-08-15T12:16:15.973Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC3",
+    "sectionNumber": 3,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 88
   }
 }

@@ -1,20 +1,25 @@
 {
   "id": "migrated-ca-note-sec1-78",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "IAF Conducts Counter-UAS Exercise 'ROTOR CLAP-III' in Pokhran, Rajasthan",
+  "type": "ca_note",
   "summary": "IAF Conducts Counter-UAS Exercise 'ROTOR CLAP-III' in Pokhran, Rajasthan",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS",
+      "text": "🪝 IAF Conducts Counter-UAS Exercise 'ROTOR CLAP-III' in Pokhran, Rajasthan. Key development for Banking & General Awareness."
+    },
+    {
       "type": "bullet_list",
       "items": [
-        "IAF conducted 3rd edition of Counter-UAS Exercise ROTOR CLAP-III at Pokhran Field Firing Range, Rajasthan."
+        "IAF conducted 3rd edition of Counter-UAS Exercise ROTOR CLAP-III at Pokhran Field Firing Range, Rajasthan.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
       ]
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
     }
   ],
   "metadata": {
@@ -39,6 +44,16 @@
       "sourceChecksum": "1538a67a2b21b90b92384292b6bb05337b27fefc3f5744c42054a7a3224baf55",
       "migrationTimestamp": "2026-08-15T12:11:08.725Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "sectionNumber": 6,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

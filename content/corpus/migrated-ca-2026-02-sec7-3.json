@@ -1,0 +1,63 @@
+{
+  "id": "migrated-ca-2026-02-sec7-3",
+  "title": "Henley Passport Index February 2026 — India Jumps 10 Places to 75th Rank",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "summary": "India rose 10 spots to 75th (56 visa-free destinations); Singapore #1 (192 destinations), Japan/ROK #2, Afghanistan last.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "**Overview**: India rose 10 spots to 75th (56 visa-free destinations); Singapore #1 (192 destinations), Japan/ROK #2, Afghanistan last."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Henley Passport Index February 2026: India ranks 75th (56 destinations)** (Page 85): India rose 10 spots to 75th (56 visa-free destinations); Singapore #1 (192 destinations), Japan/ROK #2, Afghanistan last."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Global Mobility & Visa-Free Access. India ranks 75th with visa-free travel to 56 nations."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec7",
+      "Current Affairs 2026",
+      "February 2026",
+      "TIER_B_PLUS"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC7",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-18T17:42:36.863Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "emu-henley-passport-index-feb-2026",
+      "sourceTitle": "Henley Passport Index February 2026 — India Jumps 10 Places to 75th Rank",
+      "provenancePages": [
+        85
+      ],
+      "constituentArticleCount": 1,
+      "migrationTimestamp": "2026-08-18T17:42:36.863Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_B_PLUS",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC7",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 85
+  },
+  "relationships": []
+}

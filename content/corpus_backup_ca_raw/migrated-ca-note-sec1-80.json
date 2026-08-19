@@ -1,0 +1,74 @@
+{
+  "id": "migrated-ca-note-sec1-80",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Bonn Open 2026 Tennis Doubles Championship",
+  "summary": "Bonn Open 2026 Tennis Doubles Championship",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS",
+      "text": "🪝 Bonn Open 2026 Tennis Doubles Championship. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Ramkumar Ramanathan & Vijay Sundar Prashanth won Men's Doubles title at Bonn Open 2026.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 6,
+      "code": "SEC6",
+      "name": "SCIENCE, TECHNOLOGY, DEFENCE & SPORTS",
+      "emoji": "🔬",
+      "fullName": "6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS"
+    },
+    "hook": "🪝 Bonn Open 2026 Tennis Doubles Championship",
+    "examAngle": "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-08-05"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:08.725Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-80",
+      "sourceTitle": "Bonn Open 2026 Tennis Doubles Championship",
+      "sourceChecksum": "1fdb0650d964b50f39cb76515fcfb7db563ee8fed3e4e02ce2d9806c2e5a951d",
+      "migrationTimestamp": "2026-08-15T12:11:08.725Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "sectionNumber": 6,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

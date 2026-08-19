@@ -1,30 +1,27 @@
 {
   "id": "migrated-ca-ca-2026-08-10-digilocker-aaeri-verify-mou",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "NeGD DigiLocker Signs MoU with AAERI to Launch 'AAERI Verify' Credentials Platform",
+  "type": "ca_note",
   "summary": "MeitY's NeGD (DigiLocker) partnered with AAERI to launch 'AAERI Verify' for authenticating Australian education credentials.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "MeitY's NeGD (DigiLocker) partnered with AAERI to launch 'AAERI Verify' for authenticating Australian education credentials."
+      "type": "warning_banner",
+      "title": "📰 5. 🤝 MoUs, CONFERENCES & APPOINTMENTS",
+      "text": "🪝 NeGD DigiLocker Signs MoU with AAERI to Launch 'AAERI Verify' Credentials Platform. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "MeitY's NeGD (DigiLocker) partnered with AAERI to launch 'AAERI Verify' for authenticating Australian education credentials.",
         "**MoU Partners:** National e-Governance Division (NeGD, MeitY) + Association of Australian Education Representatives in India (AAERI).",
-        "**Objective:** Launch 'AAERI Verify' knowledge-sharing platform for credential verification."
+        "**Objective:** Launch 'AAERI Verify' knowledge-sharing platform for credential verification.",
+        "≠ **Partner Country:** Australia (AAERI).",
+        "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "DigiLocker: Key initiative under Digital India Programme (MeitY)."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "≠ **Partner Country:** Australia (AAERI)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
     }
   ],
   "metadata": {
@@ -49,6 +46,16 @@
       "sourceChecksum": "ec88d8618c83203843860c5a380e7229aee462fff8efd7bb1ec16bc69a3aceee",
       "migrationTimestamp": "2026-08-15T12:19:51.522Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC5",
+    "sectionNumber": 5,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

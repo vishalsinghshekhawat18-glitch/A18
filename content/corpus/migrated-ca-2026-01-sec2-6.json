@@ -1,21 +1,24 @@
 {
   "id": "migrated-ca-2026-01-sec2-6",
+  "title": "🏛️ RBI Tightens Priority Sector Lending (PSL) — External Auditor Certificates for On-Lending",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "RBI Raises Bank Dividend Payout Cap to 75% of PAT",
-  "summary": "RBI proposes raising dividend payout ceiling for commercial banks from 40% to 75% of PAT effective FY2026-27.",
+  "summary": "RBI mandated scheduled banks to obtain external auditor certificates from NBFCs, MFIs, and HFCs ensuring on-lending loans are not double-counted as PSL by multiple banks (on-lending cap: NBFCs 5%, NBFC-MFIs 10%).",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "RBI proposed lifting the maximum dividend payout ratio for commercial banks from **40% to 75% of Profit After Tax (PAT)**, governed by a 10-bucket CET1 capital strength matrix."
+      "content": "**Overview**: RBI mandated scheduled banks to obtain external auditor certificates from NBFCs, MFIs, and HFCs ensuring on-lending loans are not double-counted as PSL by multiple banks (on-lending cap: NBFCs 5%, NBFC-MFIs 10%)."
     },
     {
       "type": "bullet_list",
       "items": [
-        "**Effective Date**: FY 2026-27 onwards.",
-        "**Exclusions**: Excludes Small Finance Banks, Payments Banks, RRBs, and Local Area Banks.",
-        "**Adjusted PAT Formula**: PAT minus net NPAs as of 31 March."
+        "**RBI Tightens Priority Sector Lending (PSL) with Mandatory External Auditor Certificates** (Page 32): RBI mandated scheduled banks to obtain external auditor certificates from NBFCs, MFIs, and HFCs ensuring on-lending loans are not double-counted as PSL by multiple banks (on-lending cap: NBFCs 5%, NBFC-MFIs 10%)."
       ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Priority Sector Lending Prudential Governance. Mandates external auditor verification to prevent double counting of PSL on-lending (5% NBFC cap, 10% NBFC-MFI cap)."
     }
   ],
   "metadata": {
@@ -27,20 +30,34 @@
     "tags": [
       "sec2",
       "Current Affairs 2026",
-      "January 2026"
+      "January 2026",
+      "TIER_A"
     ],
-    "date": "2026-01-26",
+    "date": "2026-01-15",
     "category": "SEC2",
-    "difficulty": "intermediate",
-    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "difficulty": "hard",
+    "lastUpdated": "2026-08-19T02:37:59.672Z",
     "provenance": {
       "sourceSystem": "CA",
-      "sourceFile": "January_26.pdf",
-      "sourceId": "migrated-ca-2026-01-sec2-6",
-      "sourceTitle": "RBI Raises Bank Dividend Payout Cap to 75% of PAT",
-      "sourceChecksum": "e39ce132c7b27e743206646216071a1fc22889f51f50ca7a6c95f28d139af032",
-      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
-      "normalizationRuleVersion": "1.0.0-jan2026"
-    }
-  }
+      "sourceFile": "Jan2026.pdf",
+      "sourceId": "emu-jan-rbi-psl-auditor-certification",
+      "sourceTitle": "🏛️ RBI Tightens Priority Sector Lending (PSL) — External Auditor Certificates for On-Lending",
+      "provenancePages": [
+        32
+      ],
+      "constituentArticleCount": 1,
+      "migrationTimestamp": "2026-08-19T02:37:59.672Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
+  },
+  "relationships": []
 }

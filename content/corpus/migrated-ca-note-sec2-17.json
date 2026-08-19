@@ -1,36 +1,33 @@
 {
   "id": "migrated-ca-note-sec2-17",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "SC Directs RBI on Mule Accounts SOP & IRDAI on ANPR Motor Insurance Verification",
+  "type": "ca_note",
   "summary": "Judicial directives accelerate inter-regulatory SOPs to freeze cyber-fraud accounts and enforce motor insurance.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Judicial directives accelerate inter-regulatory SOPs to freeze cyber-fraud accounts and enforce motor insurance."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 SC Directs RBI on Mule Accounts SOP & IRDAI on ANPR Motor Insurance Verification. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Judicial directives accelerate inter-regulatory SOPs to freeze cyber-fraud accounts and enforce motor insurance.",
         "Supreme Court directed **RBI** to circulate SOP for dealing with **mule accounts** linked to cyber fraud.",
         "RBI combating tools: Uses **MuleHunter.AI** in collaboration with **I4C** (Indian Cyber Crime Coordination Centre under MHA).",
-        "SC directed Central Govt & **IRDAI** to pilot **Automatic Number Plate Recognition (ANPR)**-based insurance verification at fuel stations to deny fuel sales to uninsured vehicles."
+        "SC directed Central Govt & **IRDAI** to pilot **Automatic Number Plate Recognition (ANPR)**-based insurance verification at fuel stations to deny fuel sales to uninsured vehicles.",
+        "MuleHunter.AI (RBI AI tool) vs I4C (MHA national cyber crime coordination portal).",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
       "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "I4C under MHA (New Delhi) | IRDAI under IRDA Act 1999 (HQ Hyderabad) | Motor Vehicles Act 1988 mandates third-party motor insurance."
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "MuleHunter.AI (RBI AI tool) vs I4C (MHA national cyber crime coordination portal)."
-    },
-    {
-      "type": "quote",
-      "quote": "Interview Focus Question: \"How do SOPs and tools like MuleHunter.AI assist banks in countering cyber fraud?\"\n💡 **Model Answer: Automated pattern matching flags suspicious account clusters instantly, freezing fraudulent transactions before funds leave.**",
-      "author": "Banking & Regulatory Board Panel"
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -55,6 +52,16 @@
       "sourceChecksum": "6eb031009eace7bacc2e00caa18b211a5e233c5ee4b45e92578156428de6ab9e",
       "migrationTimestamp": "2026-08-15T12:09:32.007Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

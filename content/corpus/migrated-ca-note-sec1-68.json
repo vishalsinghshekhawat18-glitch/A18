@@ -1,20 +1,25 @@
 {
   "id": "migrated-ca-note-sec1-68",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Bharat Electronics Limited Partners with Esri India for GeoAI",
+  "type": "ca_note",
   "summary": "Bharat Electronics Limited Partners with Esri India for GeoAI",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 Bharat Electronics Limited Partners with Esri India for GeoAI. Key development for Banking & General Awareness."
+    },
+    {
       "type": "bullet_list",
       "items": [
-        "BEL signed MoU with Esri India to collaborate on defence GIS mapping, location intelligence, and GeoAI."
+        "BEL signed MoU with Esri India to collaborate on defence GIS mapping, location intelligence, and GeoAI.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Bharat Electronics Limited Partners with Esri India for GeoAI."
       ]
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Bharat Electronics Limited Partners with Esri India for GeoAI."
     }
   ],
   "metadata": {
@@ -39,6 +44,16 @@
       "sourceChecksum": "07569757fa8fe2e30335123b13fa1cfc421404edfc8034be1b38bc0861c109d7",
       "migrationTimestamp": "2026-08-15T12:10:34.066Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

@@ -1,0 +1,78 @@
+{
+  "id": "migrated-ca-2026-01-sec1-4",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India's Wetlands Cross 98 Ramsar Sites",
+  "summary": "Two new sites—Patna Bird Sanctuary (UP) and Chhari-Dhand (Gujarat)—pushed India's Ramsar site count to 98 on 31 January 2026.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 India's Wetlands Cross 98 Ramsar Sites. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "On 31 January 2026, two new wetland sites were designated as Ramsar sites ahead of World Wetlands Day (2 Feb), taking India's total count to **98 Ramsar sites** (a 276% growth from 26 in 2014).",
+        "**New Sites**: Patna Bird Sanctuary (Etah, UP) and Chhari-Dhand (Kutch, Gujarat).",
+        "**Ramsar Convention**: Adopted 1971 in Ramsar, Iran; India ratified in 1982.",
+        "**World's First Ramsar Site**: Cobourg Peninsula, Australia (1974).",
+        "The exact current count of Ramsar sites in India is 98.",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
+    }
+  ],
+  "intelligence": {
+    "zone": "LIGHT_TOUCH",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 10,
+      "code": "SEC10",
+      "name": "MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "emoji": "📌",
+      "fullName": "10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC"
+    },
+    "hook": "🪝 India's Wetlands Cross 98 Ramsar Sites",
+    "examAngle": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-01-26"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec10",
+      "Current Affairs 2026",
+      "January 2026"
+    ],
+    "date": "2026-01-26",
+    "category": "SEC10",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "January_26.pdf",
+      "sourceId": "migrated-ca-2026-01-sec1-4",
+      "sourceTitle": "India's Wetlands Cross 98 Ramsar Sites",
+      "sourceChecksum": "ba2162147176a6a237b6e13d990847434802ceebabe08948104e13d68c32f8b9",
+      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+      "normalizationRuleVersion": "1.0.0-jan2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "LIGHT_TOUCH",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

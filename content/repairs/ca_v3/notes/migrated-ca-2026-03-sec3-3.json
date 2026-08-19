@@ -1,0 +1,82 @@
+{
+  "id": "migrated-ca-2026-03-sec3-3",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SBI Launches $500 Million Syndicated Social Loan for Gender Equality",
+  "summary": "SBI issues $500 million social term loan with MUFG Bank as sole social loan coordinator—the largest gender-themed loan globally.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 3. 🏦 BANKING & INSURANCE NEWS",
+      "text": "🪝 SBI Launches $500 Million Syndicated Social Loan for Gender Equality. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "SBI launched a **$500 million syndicated social term loan** dedicated to UN SDG 5 (Gender Equality), arranged by MUFG Bank Japan.",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "SBI Established: 1 July 1955 (SBI Act 1955) · HQ: Mumbai · Tagline: The Nation banks on us"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
+    }
+  ],
+  "intelligence": {
+    "zone": "LIGHT_TOUCH",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 3,
+      "code": "SEC3",
+      "name": "BANKING & INSURANCE NEWS",
+      "emoji": "🏦",
+      "fullName": "3. 🏦 BANKING & INSURANCE NEWS"
+    },
+    "hook": "🪝 SBI Launches $500 Million Syndicated Social Loan for Gender Equality",
+    "examAngle": "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure.",
+    "staticGK": {
+      "summary": "SBI Established: 1 July 1955 (SBI Act 1955) · HQ: Mumbai · Tagline: The Nation banks on us"
+    },
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-03-15"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026",
+      "March 2026"
+    ],
+    "date": "2026-03-15",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T11:13:16.778Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "march2026_lighttouch.pdf",
+      "sourceId": "migrated-ca-2026-03-sec3-3",
+      "sourceTitle": "SBI Launches $500 Million Syndicated Social Loan for Gender Equality",
+      "sourceChecksum": "ed2058d82de63f78e1a7c0e1db89da006eb5c736c49146ec58836f0ce1c2841b",
+      "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+      "normalizationRuleVersion": "1.0.0-mar2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "LIGHT_TOUCH",
+    "sectionCode": "SEC3",
+    "sectionNumber": 3,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

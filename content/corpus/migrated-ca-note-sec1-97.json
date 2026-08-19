@@ -1,36 +1,25 @@
 {
   "id": "migrated-ca-note-sec1-97",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "International Clouded Leopard Day Observed on 4th August",
+  "type": "ca_note",
   "summary": "International Clouded Leopard Day Observed on 4th August",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 8. 📅 IMPORTANT DAYS & PERSONS IN NEWS",
+      "text": "🪝 International Clouded Leopard Day Observed on 4th August. Key development for Banking & General Awareness."
+    },
+    {
       "type": "bullet_list",
       "items": [
-        "Raises global awareness for clouded leopard conservation (Meghalaya state animal)."
+        "Raises global awareness for clouded leopard conservation (Meghalaya state animal).",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of International Clouded Leopard Day Observed on 4th August."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Date & Event",
-        "Official Theme / Mandate",
-        "Nodal Body / Significance"
-      ],
-      "rows": [
-        [
-          "International Clouded Leopard Day Observed on 4th August",
-          "Raises global awareness for clouded leopard conservation (Meghalaya state animal).",
-          "Global Observance"
-        ]
-      ]
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of International Clouded Leopard Day Observed on 4th August."
     }
   ],
   "metadata": {
@@ -55,6 +44,16 @@
       "sourceChecksum": "bb093d04adac02727a81b4443c632c49beb824dbd98df6ab936f04df590c2013",
       "migrationTimestamp": "2026-08-15T12:11:08.725Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC8",
+    "sectionNumber": 8,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

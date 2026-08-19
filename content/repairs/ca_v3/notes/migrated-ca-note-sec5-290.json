@@ -1,0 +1,83 @@
+{
+  "id": "migrated-ca-note-sec5-290",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Dilip Asbe (NPCI CEO) Inducted into SWIFT Global Supervisory Board",
+  "summary": "Dilip Asbe (NPCI CEO) Inducted into SWIFT Global Supervisory Board",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 5. 🤝 MoUs, CONFERENCES & APPOINTMENTS",
+      "text": "🪝 Dilip Asbe (NPCI CEO) Inducted into SWIFT Global Supervisory Board. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Induction: Dilip Asbe inducted into SWIFT Global Supervisory Board.",
+        "SWIFT Governance: Overseen by G-10 central banks and European Central Bank (National Bank of Belgium lead overseer).",
+        "SWIFT lead overseer central bank (National Bank of Belgium) vs India membership status (Non-member of G-10).",
+        "🎯 Exam Angle → Focus on monthly transaction volume & value records, NPCI market cap limits, and international UPI linkage countries."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "NPCI Incorporated: Dec 2008 (Payment & Settlement Systems Act 2007) · HQ: Mumbai · Umbrella Body for Retail Payments"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on monthly transaction volume & value records, NPCI market cap limits, and international UPI linkage countries."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 5,
+      "code": "SEC5",
+      "name": "MoUs, CONFERENCES & APPOINTMENTS",
+      "emoji": "🤝",
+      "fullName": "5. 🤝 MoUs, CONFERENCES & APPOINTMENTS"
+    },
+    "hook": "🪝 Dilip Asbe (NPCI CEO) Inducted into SWIFT Global Supervisory Board",
+    "examAngle": "🎯 Exam Angle → Focus on monthly transaction volume & value records, NPCI market cap limits, and international UPI linkage countries.",
+    "staticGK": {
+      "summary": "NPCI Incorporated: Dec 2008 (Payment & Settlement Systems Act 2007) · HQ: Mumbai · Umbrella Body for Retail Payments"
+    },
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-07-31"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-31",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:15:40.420Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec5-290",
+      "sourceTitle": "Dilip Asbe (NPCI CEO) Inducted into SWIFT Global Supervisory Board",
+      "sourceChecksum": "da11eff33d8336f4232c7566f5e97f79769c6d0e66b4d25651a9d9ec54a2290a",
+      "migrationTimestamp": "2026-08-15T12:15:40.420Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC5",
+    "sectionNumber": 5,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

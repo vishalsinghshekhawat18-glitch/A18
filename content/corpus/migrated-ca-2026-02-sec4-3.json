@@ -1,13 +1,24 @@
 {
   "id": "migrated-ca-2026-02-sec4-3",
+  "title": "Pax Silica Coalition — India Joins US-Led Silicon & AI Supply Chain Bloc as 10th Member",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "Indian Navy Assumes IONS Chairmanship for 2026–2028",
-  "summary": "Admiral Dinesh K. Tripathi takes over chairmanship of Indian Ocean Naval Symposium (IONS) at 9th Conclave of Chiefs in Visakhapatnam.",
+  "summary": "India joined 10-nation Pax Silica coalition (Australia, Greece, Israel, Japan, Qatar, ROK, Singapore, UAE, UK, India) for silicon & AI resilience.",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "Indian Navy chief Admiral Dinesh K. Tripathi took over the **IONS Chairmanship for 2026–2028** from the Royal Thai Navy at Visakhapatnam."
+      "content": "**Overview**: India joined 10-nation Pax Silica coalition (Australia, Greece, Israel, Japan, Qatar, ROK, Singapore, UAE, UK, India) for silicon & AI resilience."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**India joins US-led 'Pax Silica' tech supply chain coalition as 10th member** (Page 65): India joined 10-nation Pax Silica coalition (Australia, Greece, Israel, Japan, Qatar, ROK, Singapore, UAE, UK, India) for silicon & AI resilience."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Geopolitical Tech Supply Chain Coalition. 10-nation strategic silicon value chain coalition."
     }
   ],
   "metadata": {
@@ -17,22 +28,36 @@
       "SBI PO"
     ],
     "tags": [
-      "sec6",
+      "sec4",
       "Current Affairs 2026",
-      "February 2026"
+      "February 2026",
+      "TIER_B_PLUS"
     ],
     "date": "2026-02-15",
-    "category": "SEC6",
+    "category": "SEC4",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "lastUpdated": "2026-08-18T17:42:36.837Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "Feb2026.pdf",
-      "sourceId": "migrated-ca-2026-02-sec4-3",
-      "sourceTitle": "Indian Navy Assumes IONS Chairmanship for 2026–2028",
-      "sourceChecksum": "dfa6946ed0f698f37936b8a347a084f91a2e81265822554d06b803063fb4637b",
-      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
-      "normalizationRuleVersion": "1.0.0-feb2026"
-    }
-  }
+      "sourceId": "emu-pax-silica-tech-supply-coalition",
+      "sourceTitle": "Pax Silica Coalition — India Joins US-Led Silicon & AI Supply Chain Bloc as 10th Member",
+      "provenancePages": [
+        65
+      ],
+      "constituentArticleCount": 1,
+      "migrationTimestamp": "2026-08-18T17:42:36.837Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_B_PLUS",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 85
+  },
+  "relationships": []
 }

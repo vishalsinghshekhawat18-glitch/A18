@@ -1,20 +1,24 @@
 {
   "id": "migrated-ca-2026-01-sec2-3",
+  "title": "🏛️ RBI Draft Policy — Bank Dividend Payout Cap Raised from 40% to 75% of PAT",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "December CPI Inflation Cools to 1.33%",
-  "summary": "Retail inflation drops to 1.33% in December 2025 as Consumer Food Price Index (CFPI) enters negative territory (-2.71%).",
+  "summary": "RBI proposed raising dividend payout ceiling for commercial banks from 40% to 75% of adjusted PAT under a 10-bucket capital-linked structure based on CET1 ratios after deducting net NPAs.",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "India's headline CPI inflation cooled to **1.33% in December 2025**, driven by a sharp drop in food prices with CFPI food inflation printing at **-2.71%**."
+      "content": "**Overview**: RBI proposed raising dividend payout ceiling for commercial banks from 40% to 75% of adjusted PAT under a 10-bucket capital-linked structure based on CET1 ratios after deducting net NPAs."
     },
     {
       "type": "bullet_list",
       "items": [
-        "**Urban vs Rural Headline**: Urban rose to 2.03%; Rural rose to 0.76%.",
-        "**Sectoral Rates**: Housing 2.86%, Education 3.32%, Health 3.43%, Fuel & Light 1.97%."
+        "**RBI Draft Framework Proposes Raising Bank Dividend Payout Cap to 75% of PAT** (Page 19): RBI proposed raising dividend payout ceiling for commercial banks from 40% to 75% of adjusted PAT under a 10-bucket capital-linked structure based on CET1 ratios after deducting net NPAs."
       ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Commercial Bank Capital Distribution & Profit Allocation. Replaces 40% cap with 75% dividend ceiling linked to CET1 capital adequacy and net NPA deductions."
     }
   ],
   "metadata": {
@@ -24,22 +28,36 @@
       "SBI PO"
     ],
     "tags": [
-      "sec3",
+      "sec2",
       "Current Affairs 2026",
-      "January 2026"
+      "January 2026",
+      "TIER_A"
     ],
-    "date": "2026-01-26",
-    "category": "SEC3",
-    "difficulty": "intermediate",
-    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "date": "2026-01-15",
+    "category": "SEC2",
+    "difficulty": "hard",
+    "lastUpdated": "2026-08-19T02:37:59.669Z",
     "provenance": {
       "sourceSystem": "CA",
-      "sourceFile": "January_26.pdf",
-      "sourceId": "migrated-ca-2026-01-sec2-3",
-      "sourceTitle": "December CPI Inflation Cools to 1.33%",
-      "sourceChecksum": "c93e421aee80d9a8e2ffde03859b85795a48b8f558180faff34b419562111a0f",
-      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
-      "normalizationRuleVersion": "1.0.0-jan2026"
-    }
-  }
+      "sourceFile": "Jan2026.pdf",
+      "sourceId": "emu-jan-rbi-dividend-payout-framework",
+      "sourceTitle": "🏛️ RBI Draft Policy — Bank Dividend Payout Cap Raised from 40% to 75% of PAT",
+      "provenancePages": [
+        19
+      ],
+      "constituentArticleCount": 1,
+      "migrationTimestamp": "2026-08-19T02:37:59.669Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
+  },
+  "relationships": []
 }

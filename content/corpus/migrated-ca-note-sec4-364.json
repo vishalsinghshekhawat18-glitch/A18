@@ -1,48 +1,27 @@
 {
   "id": "migrated-ca-note-sec4-364",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "MDoNER & Meghalaya Launch 'Mission Golden Spice' for Lakadong Turmeric (₹175.45 Crore)",
+  "type": "ca_note",
   "summary": "Scales world's highest naturally occurring curcumin turmeric to a ₹100 crore economy by FY29.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Scales world's highest naturally occurring curcumin turmeric to a ₹100 crore economy by FY29."
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 MDoNER & Meghalaya Launch 'Mission Golden Spice' for Lakadong Turmeric (₹175.45 Crore). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Scales world's highest naturally occurring curcumin turmeric to a ₹100 crore economy by FY29.",
         "Outlay & Roadmap: ₹175.45 crore 5-year convergence project (2025-2030) under 'Unlock Economic Potential of Northeast'.",
-        "Cultivation Target: Triples cultivation area to 7,000 hectares, benefiting 17,500 farmers (99% women) in Jaintia Hills."
+        "Cultivation Target: Triples cultivation area to 7,000 hectares, benefiting 17,500 farmers (99% women) in Jaintia Hills.",
+        "Lakadong cultivation target (7,000 hectares) vs target Lakadong economy by FY29 (₹100 crore).",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Metric / Component",
-        "Threshold / Provision Detail"
-      ],
-      "rows": [
-        [
-          "Outlay & Roadmap",
-          "₹175.45 crore 5-year convergence project (2025-2030) under 'Unlock Economic Potential of Northeast'."
-        ],
-        [
-          "Cultivation Target",
-          "Triples cultivation area to 7,000 hectares, benefiting 17,500 farmers (99% women) in Jaintia Hills."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Lakadong Turmeric carries GI tag and contains 7%-12% natural curcumin."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Lakadong cultivation target (7,000 hectares) vs target Lakadong economy by FY29 (₹100 crore)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
     }
   ],
   "metadata": {
@@ -67,6 +46,16 @@
       "sourceChecksum": "beb645d8feb4ff317a00ba478b54b994885f2fe09da4a50318300456353c16d4",
       "migrationTimestamp": "2026-08-15T12:17:28.292Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

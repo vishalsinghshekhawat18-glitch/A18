@@ -1,31 +1,33 @@
 {
   "id": "migrated-ca-ca-2026-08-09-rbi-g-sib-leverage-buffer",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "RBI Draft Aligns Leverage Ratio Regime with Basel 2017 Standards; Prescribes G-SIB Leverage Buffer",
-  "summary": "RBI draft directions align leverage ratio norms with Basel 2017, introducing leverage buffer for G-SIB branches in India from April 1, 2027.",
+  "type": "ca_note",
+  "summary": "RBI draft directions align leverage ratio norms with Basel 2017, introducing leverage buffer for G-SIB (global systemically important bank capital surcharge) branches in India from April 1, 2027.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "RBI draft directions align leverage ratio norms with Basel 2017, introducing leverage buffer for G-SIB branches in India from April 1, 2027."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 RBI Draft Aligns Leverage Ratio Regime with Basel 2017 Standards; Prescribes G-SIB Leverage Buffer. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "RBI draft directions align leverage ratio norms with Basel 2017, introducing leverage buffer for G-SIB (global systemically important bank capital surcharge) branches in India from April 1, 2027.",
         "**Minimum Leverage Ratio:** Retained at **4% for D-SIBs** and **3.5% for all other banks**.",
-        "**G-SIB Branches:** Foreign branches of G-SIBs must maintain **3.5% minimum leverage ratio + applicable G-SIB leverage buffer**.",
-        "**Derivative Calculation:** Uses replacement cost + potential future exposure, multiplier generally **1.4x**."
+        "**G-SIB (global systemically important bank capital surcharge) Branches:** Foreign branches of G-SIBs must maintain **3.5% minimum leverage ratio + applicable G-SIB (global systemically important bank capital surcharge) leverage buffer**.",
+        "**Derivative Calculation:** Uses replacement cost + potential future exposure, multiplier generally **1.4x**.",
+        "≠ **Ratio Floor:** D-SIBs floor is 4.0%; Non-D-SIB commercial banks floor is 3.5%.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
       "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "D-SIBs in India: State Bank of India (SBI), HDFC Bank, ICICI Bank."
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "≠ **Ratio Floor:** D-SIBs floor is 4.0%; Non-D-SIB commercial banks floor is 3.5%."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -39,7 +41,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-08-09",
-    "category": "SEC1",
+    "category": "SEC2",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:19:15.620Z",
     "provenance": {
@@ -50,6 +52,16 @@
       "sourceChecksum": "3b59a3179d5e2b2fb2aca9dfd391a8c9319e07549de9d19dde20a273a1aa02fa",
       "migrationTimestamp": "2026-08-15T12:19:15.620Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

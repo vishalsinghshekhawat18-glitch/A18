@@ -1,0 +1,74 @@
+{
+  "id": "migrated-ca-note-sec5-189",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Satya Pal Kumar Appointed Director of Financial Intelligence Unit-India (FIU-IND)",
+  "summary": "Satya Pal Kumar Appointed Director of Financial Intelligence Unit-India (FIU-IND)",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 5. 🤝 MoUs, CONFERENCES & APPOINTMENTS",
+      "text": "🪝 Satya Pal Kumar Appointed Director of Financial Intelligence Unit-India (FIU-IND). Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Appointed Joint Secretary-level Director of FIU-IND for 5-year tenure (succeeding Pankaj Kumar Mishra).",
+        "Agency Mandate: Central national agency receiving and analyzing suspicious financial transaction reports.",
+        "🎯 Exam Angle → Focus on appointee name, nominating body (FSIB / ACC), predecessor, tenure duration, and statutory establishment year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on appointee name, nominating body (FSIB / ACC), predecessor, tenure duration, and statutory establishment year."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 5,
+      "code": "SEC5",
+      "name": "MoUs, CONFERENCES & APPOINTMENTS",
+      "emoji": "🤝",
+      "fullName": "5. 🤝 MoUs, CONFERENCES & APPOINTMENTS"
+    },
+    "hook": "🪝 Satya Pal Kumar Appointed Director of Financial Intelligence Unit-India (FIU-IND)",
+    "examAngle": "🎯 Exam Angle → Focus on appointee name, nominating body (FSIB / ACC), predecessor, tenure duration, and statutory establishment year.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-08-07"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-07",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:11.200Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec5-189",
+      "sourceTitle": "Satya Pal Kumar Appointed Director of Financial Intelligence Unit-India (FIU-IND)",
+      "sourceChecksum": "645eeec5d48cc21d2ea9efabddcb395f605ead2cf8975826d84054f4bca08565",
+      "migrationTimestamp": "2026-08-15T12:13:11.200Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC5",
+    "sectionNumber": 5,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

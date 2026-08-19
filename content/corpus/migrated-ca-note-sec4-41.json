@@ -1,31 +1,28 @@
 {
   "id": "migrated-ca-note-sec4-41",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Glaw Lake in Arunachal Pradesh Designated India's 101st Ramsar Site",
+  "type": "ca_note",
   "summary": "Expands international wetland protection in Eastern Himalayan biodiversity corridors.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Expands international wetland protection in Eastern Himalayan biodiversity corridors."
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 Glaw Lake in Arunachal Pradesh Designated India's 101st Ramsar Site. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Expands international wetland protection in Eastern Himalayan biodiversity corridors.",
         "**Glaw Lake** in Arunachal Pradesh officially designated as **India's 101st Ramsar Site**.",
         "Location: Located inside **Kamlang Tiger Reserve and Wildlife Sanctuary** in Lohit district, Arunachal Pradesh.",
-        "State Milestone: Marks **Arunachal Pradesh's first-ever Ramsar Site**."
+        "State Milestone: Marks **Arunachal Pradesh's first-ever Ramsar Site**.",
+        "Glaw Lake (India's 101st Ramsar Site & Arunachal's 1st).",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Glaw Lake in Arunachal Pradesh Designated India's 101st Ramsar Site."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Ramsar Convention signed Feb 2, 1971 (Ramsar, Iran) | India total: **101** | Top state: **Tamil Nadu (18 sites)**."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Glaw Lake (India's 101st Ramsar Site & Arunachal's 1st)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Glaw Lake in Arunachal Pradesh Designated India's 101st Ramsar Site."
     }
   ],
   "metadata": {
@@ -39,7 +36,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-08-01",
-    "category": "SEC4",
+    "category": "SEC10",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:10:02.257Z",
     "provenance": {
@@ -50,6 +47,16 @@
       "sourceChecksum": "7a0c20fd283519b59037c073f0dc652ef230f7639eb5fc3eff48d9249e2d8b28",
       "migrationTimestamp": "2026-08-15T12:10:02.257Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 86
   }
 }

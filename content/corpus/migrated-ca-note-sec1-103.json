@@ -1,26 +1,28 @@
 {
   "id": "migrated-ca-note-sec1-103",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Senior Citizens & Women File ₹7,769.63 Crore Financial Cyber Fraud Complaints in 2025",
+  "type": "ca_note",
   "summary": "Escalating financial cyber fraud targets vulnerable demographic segments, driving central reporting infrastructure expansion.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Escalating financial cyber fraud targets vulnerable demographic segments, driving central reporting infrastructure expansion."
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 Senior Citizens & Women File ₹7,769.63 Crore Financial Cyber Fraud Complaints in 2025. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Escalating financial cyber fraud targets vulnerable demographic segments, driving central reporting infrastructure expansion.",
         "Affected Groups: 1,03,488 senior citizens and 4,63,114 women lodged financial cyber fraud complaints.",
         "Administrative Nodal Office: Indian Cybercrime Coordination Centre (I4C) under Ministry of Home Affairs (MHA), New Delhi.",
-        "Reporting System: Citizen Financial Cyber Fraud Reporting and Management System (CFCFRMS) launched in 2021."
+        "Reporting System: Citizen Financial Cyber Fraud Reporting and Management System (CFCFRMS) launched in 2021.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
       ]
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Senior Citizens & Women File ₹7,769.63 Crore Financial Cyber Fraud Complaints in 2025."
     }
   ],
   "metadata": {
@@ -45,6 +47,16 @@
       "sourceChecksum": "b185e012434fcebad2e25c21b6797da31ced3d15dc6c9cddc87f6b4ba793dd67",
       "migrationTimestamp": "2026-08-15T12:11:38.419Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

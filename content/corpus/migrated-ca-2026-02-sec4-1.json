@@ -1,20 +1,26 @@
 {
   "id": "migrated-ca-2026-02-sec4-1",
+  "title": "VOC Port Tuticorin — Green Hydrogen, Digital Twin & ₹15,000 Cr Outer Harbour Project",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "India-US Trade Deal — US Reciprocal Tariff Cut to 18%",
-  "summary": "US President Trump announces India-US trade deal: US reciprocal tariffs cut from 25% to 18% as India commits $500B purchases and 0% tariffs.",
+  "summary": "VOC Port produces green hydrogen on-site and deployed real-time digital twin monitoring.",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "US President Trump announced a landmark **India-US trade agreement**, cutting US reciprocal tariffs on Indian goods from **25% to 18%**."
+      "content": "**Overview**: VOC Port produces green hydrogen on-site and deployed real-time digital twin monitoring."
     },
     {
       "type": "bullet_list",
       "items": [
-        "**India Commitments**: India will cut tariffs on US goods to 0%, commit **$500 billion** in US purchases (energy, tech, agri, coal), and halt Russian crude imports.",
-        "**Tariff Sequence**: Tariff cut sequence: 50% -> 25% -> 18%."
+        "**VOC Port Tuticorin deploys India's first port Digital Twin platform** (Page 58): VOC Port produces green hydrogen on-site and deployed real-time digital twin monitoring.",
+        "**VOC Port Tuticorin secures IGBC Platinum and Shunya Net Zero Certifications** (Page 94): First Indian major port to get IGBC Platinum and BEE Shunya Net Zero Energy Building rating.",
+        "**VOC Port Tuticorin becomes 1st Indian port with anti-drone system** (Page 114): VOC Port deployed advanced anti-drone defense."
       ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Maritime Green Ports & Infrastructure. First major port to produce on-site green hydrogen with IGBC Platinum."
     }
   ],
   "metadata": {
@@ -24,22 +30,38 @@
       "SBI PO"
     ],
     "tags": [
-      "sec3",
+      "sec4",
       "Current Affairs 2026",
-      "February 2026"
+      "February 2026",
+      "TIER_A"
     ],
     "date": "2026-02-15",
-    "category": "SEC3",
-    "difficulty": "intermediate",
-    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "category": "SEC4",
+    "difficulty": "hard",
+    "lastUpdated": "2026-08-18T17:42:36.833Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "Feb2026.pdf",
-      "sourceId": "migrated-ca-2026-02-sec4-1",
-      "sourceTitle": "India-US Trade Deal — US Reciprocal Tariff Cut to 18%",
-      "sourceChecksum": "ef2cca94991ae701aa9414f9262bf5f8a06936926fe849021fecefe08082cc71",
-      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
-      "normalizationRuleVersion": "1.0.0-feb2026"
-    }
-  }
+      "sourceId": "emu-voc-port-tuticorin-green-expansion",
+      "sourceTitle": "VOC Port Tuticorin — Green Hydrogen, Digital Twin & ₹15,000 Cr Outer Harbour Project",
+      "provenancePages": [
+        58,
+        94,
+        114
+      ],
+      "constituentArticleCount": 3,
+      "migrationTimestamp": "2026-08-18T17:42:36.833Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
+  },
+  "relationships": []
 }

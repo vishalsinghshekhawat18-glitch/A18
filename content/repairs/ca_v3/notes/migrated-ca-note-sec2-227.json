@@ -1,0 +1,76 @@
+{
+  "id": "migrated-ca-note-sec2-227",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "IFSCA Revises GIFT City Credit Rating Agency (CRA) Rules",
+  "summary": "Mandates pre-rating sharing with issuers to correct factual errors before credit rating publication.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 IFSCA Revises GIFT City Credit Rating Agency (CRA) Rules. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Mandates pre-rating sharing with issuers to correct factual errors before credit rating publication.",
+        "Issuer Protection: CRAs must share key rating information with issuers before publishing ratings.",
+        "Registered CRAs: CareEdge Global IFSC Ltd and S&P Global Ratings Singapore registered in GIFT City.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 2,
+      "code": "SEC2",
+      "name": "REGULATORY BODIES NEWS",
+      "emoji": "🏛️",
+      "fullName": "2. 🏛️ REGULATORY BODIES NEWS"
+    },
+    "hook": "🪝 IFSCA Revises GIFT City Credit Rating Agency (CRA) Rules",
+    "examAngle": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-07-22"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-22",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:29.730Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-227",
+      "sourceTitle": "IFSCA Revises GIFT City Credit Rating Agency (CRA) Rules",
+      "sourceChecksum": "8ed4df9973aed0536a55f1c34e8e64ba6af6a7e2267899116e6cd77faa6b2e53",
+      "migrationTimestamp": "2026-08-15T12:14:29.730Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

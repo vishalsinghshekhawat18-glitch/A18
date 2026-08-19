@@ -1,31 +1,28 @@
 {
   "id": "migrated-ca-note-sec6-282",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "2026 ICC Women's T20 World Cup: Australia Defeats England by 7 Wickets for 7th Title",
+  "type": "ca_note",
   "summary": "Australia claims 7th Women's T20 World Cup title in England; Beth Mooney Player of Tournament.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Australia claims 7th Women's T20 World Cup title in England; Beth Mooney Player of Tournament."
+      "type": "warning_banner",
+      "title": "📰 6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS",
+      "text": "🪝 2026 ICC Women's T20 World Cup: Australia Defeats England by 7 Wickets for 7th Title. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Australia claims 7th Women's T20 World Cup title in England; Beth Mooney Player of Tournament.",
         "Champions: Australia (Captain: Sophie Molineux) defeated England by 7 wickets in final.",
         "Player of Tournament: Beth Mooney (Australia).",
-        "Total Titles: Australia has won 7 of 9 editions (England 1, West Indies 1)."
+        "Total Titles: Australia has won 7 of 9 editions (England 1, West Indies 1).",
+        "Australia Women's T20 World Cup titles count (7 titles).",
+        "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "ICC HQ: Dubai, UAE | Chairman: Jay Shah."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Australia Women's T20 World Cup titles count (7 titles)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
     }
   ],
   "metadata": {
@@ -39,7 +36,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-07-23",
-    "category": "SEC6",
+    "category": "SEC8",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:15:40.420Z",
     "provenance": {
@@ -50,6 +47,16 @@
       "sourceChecksum": "05807a046c7ca82b480b90b0bbde0ad6e0039e1323b488ccd08dcd19d35c741f",
       "migrationTimestamp": "2026-08-15T12:15:40.420Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "sectionNumber": 6,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 80
   }
 }

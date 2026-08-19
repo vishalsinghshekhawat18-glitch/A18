@@ -1,0 +1,78 @@
+{
+  "id": "migrated-ca-note-sec6-187",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "IN-SPACe Issues India's 1st Mandatory Framework for Planned Space Object Re-entry",
+  "summary": "Caps expected casualty risk below 1 in 10,000 for planned atmospheric re-entry of satellites.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS",
+      "text": "🪝 IN-SPACe Issues India's 1st Mandatory Framework for Planned Space Object Re-entry. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Caps expected casualty risk below 1 in 10,000 for planned atmospheric re-entry of satellites.",
+        "Single-Window Regulatory Mandate: All Indian entities and foreign entities (via Indian JVs) must obtain prior IN-SPACe authorization.",
+        "Safety Risk Cap: Expected casualty risk capped at below 1 in 10,000 (aligning with NASA and ESA standards).",
+        "Advance Notice: Applicants must file Notice to Airmen (NOTAM) and maritime danger notifications at least 45 days in advance.",
+        "Natural Decay Exemption: Satellites burning up naturally in atmosphere through orbital decay exempted.",
+        "45-day NOTAM advance notice window vs 1 in 10,000 casualty risk cap.",
+        "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 6,
+      "code": "SEC6",
+      "name": "SCIENCE, TECHNOLOGY, DEFENCE & SPORTS",
+      "emoji": "🔬",
+      "fullName": "6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS"
+    },
+    "hook": "🪝 IN-SPACe Issues India's 1st Mandatory Framework for Planned Space Object Re-entry",
+    "examAngle": "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-08-05"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:11.200Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec6-187",
+      "sourceTitle": "IN-SPACe Issues India's 1st Mandatory Framework for Planned Space Object Re-entry",
+      "sourceChecksum": "f08d143c28103751b7ab55c08c106c94775c256f2cff27f24a2560821c02c44d",
+      "migrationTimestamp": "2026-08-15T12:13:11.200Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "sectionNumber": 6,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

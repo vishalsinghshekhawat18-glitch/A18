@@ -1,0 +1,75 @@
+{
+  "id": "migrated-ca-note-sec6-284",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "BWF Japan Open 2026: PV Sindhu Wins Women's Singles Title",
+  "summary": "PV Sindhu becomes 1st Indian badminton player to win Japan Open title.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS",
+      "text": "🪝 BWF Japan Open 2026: PV Sindhu Wins Women's Singles Title. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "PV Sindhu becomes 1st Indian badminton player to win Japan Open title.",
+        "Women's Singles Winner: PV Sindhu defeated Akane Yamaguchi (Japan) in final.",
+        "Men's Singles Winner: Christo Popov (France) defeated Koki Watanabe (Japan).",
+        "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 6,
+      "code": "SEC6",
+      "name": "SCIENCE, TECHNOLOGY, DEFENCE & SPORTS",
+      "emoji": "🔬",
+      "fullName": "6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS"
+    },
+    "hook": "🪝 BWF Japan Open 2026: PV Sindhu Wins Women's Singles Title",
+    "examAngle": "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-07-25"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-25",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:15:40.420Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec6-284",
+      "sourceTitle": "BWF Japan Open 2026: PV Sindhu Wins Women's Singles Title",
+      "sourceChecksum": "9e99964f79a6b00bf9f5550ddb25ff706cc6e47512685eeb7642b726164c321e",
+      "migrationTimestamp": "2026-08-15T12:15:40.420Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "sectionNumber": 6,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

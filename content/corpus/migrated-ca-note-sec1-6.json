@@ -1,36 +1,28 @@
 {
   "id": "migrated-ca-note-sec1-6",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "IMF Flags Financial Stability Risks from BigTech Expansion in Payments",
+  "type": "ca_note",
   "summary": "Platform-based tech conglomerates expanding into payments create systemic financial stability and concentration risks.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Platform-based tech conglomerates expanding into payments create systemic financial stability and concentration risks."
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 IMF Flags Financial Stability Risks from BigTech Expansion in Payments. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Platform-based tech conglomerates expanding into payments create systemic financial stability and concentration risks.",
         "IMF report warned growing role of **BigTech firms** in financial services poses systemic financial stability risks if unchecked.",
         "Definition: BigTech defined as large technology companies using platform-based business models and data-driven network effects to scale credit and payments.",
-        "Policy Mandate: Recommends activity-based central bank regulation to prevent shadow banking risks."
+        "Policy Mandate: Recommends activity-based central bank regulation to prevent shadow banking risks.",
+        "BigTech financial risk (platform network scale risk) vs FinTech risk (niche digital startup operational risk).",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of IMF Flags Financial Stability Risks from BigTech Expansion in Payments."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "IMF HQ: Washington D.C."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "BigTech financial risk (platform network scale risk) vs FinTech risk (niche digital startup operational risk)."
-    },
-    {
-      "type": "quote",
-      "quote": "Interview Focus Question: \"Why are central banks and the IMF concerned about BigTech entry into payments?\"\n💡 **Model Answer: Platform data monopolies allow rapid systemic scale, creating payment concentration risks outside traditional banking laws.**",
-      "author": "Banking & Regulatory Board Panel"
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of IMF Flags Financial Stability Risks from BigTech Expansion in Payments."
     }
   ],
   "metadata": {
@@ -55,6 +47,16 @@
       "sourceChecksum": "a7e30bf6eb3dc8c83a1fac2494614344e119864760832cc5eedbaefd5e729d79",
       "migrationTimestamp": "2026-08-15T12:09:32.006Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

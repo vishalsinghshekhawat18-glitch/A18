@@ -1,0 +1,69 @@
+{
+  "id": "migrated-ca-2026-01-sec10-2",
+  "title": "📌 National Flagship Schemes — PMMSY Mayabunder Harbour (₹199.24 Cr), PMMVY 9 Yrs & BBBP 11 Yrs",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "summary": "PMMVY completed 9 years on 1st January 2026 (launched 1 Jan 2017). Provides cash benefit of ₹5,000 for the first child (₹3,000 on registration, ₹2,000 after childbirth) and ₹6,000 for the second girl child. Eligible beneficiaries also receive cash incentive under Janani Suraksha Yojana. Over 4.5 crore beneficiaries enrolled with >₹19,000 crore disbursed.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "**Overview**: PMMVY completed 9 years on 1st January 2026 (launched 1 Jan 2017). Provides cash benefit of ₹5,000 for the first child (₹3,000 on registration, ₹2,000 after childbirth) and ₹6,000 for the second girl child. Eligible beneficiaries also receive cash incentive under Janani Suraksha Yojana. Over 4.5 crore beneficiaries enrolled with >₹19,000 crore disbursed."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Pradhan Mantri Matru Vandana Yojana (PMMVY) Completes Nine Years** (Page 2): PMMVY completed 9 years on 1st January 2026 (launched 1 Jan 2017). Provides cash benefit of ₹5,000 for the first child (₹3,000 on registration, ₹2,000 after childbirth) and ₹6,000 for the second girl child. Eligible beneficiaries also receive cash incentive under Janani Suraksha Yojana. Over 4.5 crore beneficiaries enrolled with >₹19,000 crore disbursed.",
+        "**Beti Bachao Beti Padhao Campaign Completes 11 Years (Sex Ratio at Birth at 930)** (Page 8): BBBP completed 11 years on 22 Jan 2026 (launched 2015 in Panipat). National Sex Ratio at Birth improved to 930 from 918 in 2014-15. Sukanya Samriddhi Yojana offers 8.2% interest for girl child up to 10 years.",
+        "**MoF Approves ₹199.24 Crore PMMSY Smart Fishing Harbour at Mayabunder, A&N** (Page 11): Department of Fisheries approved ₹199.24 crore 100% CFA under PMMSY for Smart and Integrated Fishing Harbour at Mayabunder under Blue Port Initiative, handling 430 vessels and 10,000 tonnes of fish annually to support ₹1L Cr seafood export target by 2030-31.",
+        "**MoRTH Notifies Rah-Veer Good Samaritan Scheme (₹25,000 Reward for Golden Hour Help)** (Page 62): MoRTH notified Rah-Veer scheme under Sec 134A of MV Act 2019 offering ₹25,000 cash reward and appreciation certificate up to 5 times/year for saving accident victims in Golden Hour."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Central Sector Welfare Schemes & Port Infrastructure. ₹199.24 Cr PMMSY Mayabunder Blue Port, 9 years of PMMVY (4.5 Cr mothers, ₹19k Cr), 11 years of BBBP (SRB 930), and Rah-Veer Good Samaritan ₹25k award."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec10",
+      "Current Affairs 2026",
+      "January 2026",
+      "TIER_A"
+    ],
+    "date": "2026-01-15",
+    "category": "SEC10",
+    "difficulty": "hard",
+    "lastUpdated": "2026-08-19T02:37:59.691Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Jan2026.pdf",
+      "sourceId": "emu-jan-welfare-schemes-pmmsy-bbbp",
+      "sourceTitle": "📌 National Flagship Schemes — PMMSY Mayabunder Harbour (₹199.24 Cr), PMMVY 9 Yrs & BBBP 11 Yrs",
+      "provenancePages": [
+        2,
+        8,
+        11,
+        62
+      ],
+      "constituentArticleCount": 4,
+      "migrationTimestamp": "2026-08-19T02:37:59.691Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
+  },
+  "relationships": []
+}

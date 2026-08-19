@@ -1,0 +1,74 @@
+{
+  "id": "migrated-ca-note-sec6-178",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Indian Army Launches 'XWG Diesel' Operational at Extreme Temperatures Down to -42°C",
+  "summary": "Indian Army Launches 'XWG Diesel' Operational at Extreme Temperatures Down to -42°C",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS",
+      "text": "🪝 Indian Army Launches 'XWG Diesel' Operational at Extreme Temperatures Down to -42°C. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Xtreme Weather Grade (XWG) Diesel jointly developed by Indian Army and OMCs for high-altitude deployment in Siachen and Ladakh.",
+        "Specification Compliance: Fully compliant with BS-VI standards and IS 1460:2025 specs without engine modification.",
+        "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 6,
+      "code": "SEC6",
+      "name": "SCIENCE, TECHNOLOGY, DEFENCE & SPORTS",
+      "emoji": "🔬",
+      "fullName": "6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS"
+    },
+    "hook": "🪝 Indian Army Launches 'XWG Diesel' Operational at Extreme Temperatures Down to -42°C",
+    "examAngle": "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-08-03"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-03",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:11.200Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec6-178",
+      "sourceTitle": "Indian Army Launches 'XWG Diesel' Operational at Extreme Temperatures Down to -42°C",
+      "sourceChecksum": "c427470dcc840b0908425f20fe18dffa50b1cef4cc32a8a6702875dd3e1d4958",
+      "migrationTimestamp": "2026-08-15T12:13:11.200Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "sectionNumber": 6,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

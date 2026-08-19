@@ -1,20 +1,24 @@
 {
   "id": "migrated-ca-2026-02-sec2-2",
+  "title": "RBI External Commercial Borrowing (ECB) Framework 2026 ($1B / 300% Net Worth)",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "Kisan Credit Card (KCC) Draft Norms — Validity Extended to 6 Years",
-  "summary": "RBI draft extends KCC validity from 5 to 6 years and waives collateral/margin for agri loans up to ₹2 lakh.",
+  "summary": "RBI notified FEMA Borrowing & Lending First Amendment Regulations 2026: Automatic ECB limit raised from $750M to higher of $1B or 300% net worth; minimum 3-year maturity; acquisition of control permitted.",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "RBI proposed extending **Kisan Credit Card (KCC) validity from 5 to 6 years** and waiving collateral/margin for agri loans up to ₹2 lakh."
+      "content": "**Overview**: RBI notified FEMA Borrowing & Lending First Amendment Regulations 2026: Automatic ECB limit raised from $750M to higher of $1B or 300% net worth; minimum 3-year maturity; acquisition of control permitted."
     },
     {
       "type": "bullet_list",
       "items": [
-        "**KCC Background**: Introduced in 1998 based on R.V. Gupta Committee recommendations via NABARD.",
-        "**Credit Limits**: Flexible credit limit of ₹10,000–₹50,000 for marginal farmers (≤1 hectare)."
+        "**RBI notifies amended ECB framework, replaces cap with higher of $1B or 300% net worth** (Page 15): RBI notified FEMA Borrowing & Lending First Amendment Regulations 2026: Automatic ECB limit raised from $750M to higher of $1B or 300% net worth; minimum 3-year maturity; acquisition of control permitted."
       ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under External Debt & Foreign Exchange Management. Liberalizes external borrowing limits replacing $750M cap."
     }
   ],
   "metadata": {
@@ -26,20 +30,34 @@
     "tags": [
       "sec2",
       "Current Affairs 2026",
-      "February 2026"
+      "February 2026",
+      "TIER_A"
     ],
     "date": "2026-02-15",
     "category": "SEC2",
-    "difficulty": "intermediate",
-    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "difficulty": "hard",
+    "lastUpdated": "2026-08-18T17:42:36.809Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "Feb2026.pdf",
-      "sourceId": "migrated-ca-2026-02-sec2-2",
-      "sourceTitle": "Kisan Credit Card (KCC) Draft Norms — Validity Extended to 6 Years",
-      "sourceChecksum": "cce755f1070e647befcaa1cb78852c46f4a72b9788473c0c269ed645b8da055c",
-      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
-      "normalizationRuleVersion": "1.0.0-feb2026"
-    }
-  }
+      "sourceId": "emu-rbi-external-commercial-borrowing",
+      "sourceTitle": "RBI External Commercial Borrowing (ECB) Framework 2026 ($1B / 300% Net Worth)",
+      "provenancePages": [
+        15
+      ],
+      "constituentArticleCount": 1,
+      "migrationTimestamp": "2026-08-18T17:42:36.809Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
+  },
+  "relationships": []
 }

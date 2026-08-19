@@ -1,19 +1,25 @@
 {
   "id": "migrated-ca-2026-04-sec10-4",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "PM-KUSUM Scheme Commissioning Timeline Extended to March 31, 2027",
+  "type": "ca_note",
   "summary": "MNRE extends PM-KUSUM commissioning deadline to March 2027; committed liabilities to be subsumed under PM-KUSUM 2.0.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "MNRE extended the commissioning timeline for **PM-KUSUM** solar pump projects (where PPAs/LoIs were signed by Dec 31, 2025) to **March 31, 2027**."
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 PM-KUSUM Scheme Commissioning Timeline Extended to March 31, 2027. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
-        "**PM KUSUM 2.0**: Proposed new framework to subsume committed liabilities of the ₹34,422 crore original scheme."
+        "MNRE extended the commissioning timeline for **PM-KUSUM** solar pump projects (where PPAs/LoIs were signed by Dec 31, 2025) to **March 31, 2027**.",
+        "**PM KUSUM 2.0**: Proposed new framework to subsume committed liabilities of the ₹34,422 crore original scheme.",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
       ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
     }
   ],
   "metadata": {
@@ -39,6 +45,16 @@
       "sourceChecksum": "f851cee4f731c87f3c36fbfe205549ab726a2c7c2813149b3f9b932fc045a11c",
       "migrationTimestamp": "2026-08-16T11:56:36.842Z",
       "normalizationRuleVersion": "1.0.0-apr2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

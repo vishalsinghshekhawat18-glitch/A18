@@ -1,0 +1,36 @@
+{
+  "id": "emu-jan-rbi-dividend-payout-framework",
+  "title": "🏛️ RBI Draft Policy — Bank Dividend Payout Cap Raised from 40% to 75% of PAT",
+  "category": "SEC2",
+  "tier": "TIER_A",
+  "theme": "Commercial Bank Capital Distribution & Profit Allocation",
+  "summary": "RBI proposed raising dividend payout ceiling for commercial banks from 40% to 75% of adjusted PAT under a 10-bucket capital-linked structure based on CET1 ratios after deducting net NPAs.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "**Overview**: RBI proposed raising dividend payout ceiling for commercial banks from 40% to 75% of adjusted PAT under a 10-bucket capital-linked structure based on CET1 ratios after deducting net NPAs."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**RBI Draft Framework Proposes Raising Bank Dividend Payout Cap to 75% of PAT** (Page 19): RBI proposed raising dividend payout ceiling for commercial banks from 40% to 75% of adjusted PAT under a 10-bucket capital-linked structure based on CET1 ratios after deducting net NPAs."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Commercial Bank Capital Distribution & Profit Allocation. Replaces 40% cap with 75% dividend ceiling linked to CET1 capital adequacy and net NPA deductions."
+    }
+  ],
+  "metadata": {
+    "provenancePages": [
+      19
+    ],
+    "constituentArticleCount": 1,
+    "provenanceArticleIds": [
+      "jan-art-38"
+    ],
+    "statutoryConcept": "Commercial Bank Capital Distribution & Profit Allocation",
+    "whyStandalone": "Replaces 40% cap with 75% dividend ceiling linked to CET1 capital adequacy and net NPA deductions."
+  }
+}

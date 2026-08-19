@@ -1,0 +1,414 @@
+{
+  "version": "2.0.0-exam-notebook-eval",
+  "generatedAt": "2026-08-18T16:07:18.794Z",
+  "totalItemsEvaluated": 35,
+  "decisionCounts": {
+    "RETAIN_NEW": 25,
+    "MERGE_INTO_EXISTING": 1,
+    "SKIP_LOW_YIELD": 4,
+    "CHRONOLOGICAL_UPDATE": 2,
+    "REDIRECT_DUPLICATE": 3
+  },
+  "auditTable": [
+    {
+      "sourceId": "migrated-ca-2026-01-sec1-1",
+      "sourceTitle": "77th Republic Day — First Multi-Leader Chief Guest Invite Since 2018",
+      "group": "A_JANUARY_SOURCE",
+      "decision": "RETAIN_NEW",
+      "studyUtilityScore": 80,
+      "opportunityCostPassed": true,
+      "reason": "High study utility for SBI PO / IBPS PO Mains in SEC4 (National) (Score: 80/100)",
+      "targetSection": "SEC4 (National)"
+    },
+    {
+      "sourceId": "migrated-ca-2026-01-sec1-2",
+      "sourceTitle": "Census 2027 — India's First Fully Digital, Caste-Enumerating Census",
+      "group": "A_JANUARY_SOURCE",
+      "decision": "RETAIN_NEW",
+      "studyUtilityScore": 80,
+      "opportunityCostPassed": true,
+      "reason": "High study utility for SBI PO / IBPS PO Mains in SEC1 (ESI) (Score: 80/100)",
+      "targetSection": "SEC1 (ESI)"
+    },
+    {
+      "sourceId": "migrated-ca-2026-01-sec1-3",
+      "sourceTitle": "India Takes BRICS 2026 Presidency",
+      "group": "A_JANUARY_SOURCE",
+      "decision": "RETAIN_NEW",
+      "studyUtilityScore": 80,
+      "opportunityCostPassed": true,
+      "reason": "High study utility for SBI PO / IBPS PO Mains in SEC6 (Tech/Defence) (Score: 80/100)",
+      "targetSection": "SEC6 (Tech/Defence)"
+    },
+    {
+      "sourceId": "migrated-ca-2026-01-sec1-4",
+      "sourceTitle": "India's Wetlands Cross 98 Ramsar Sites",
+      "group": "A_JANUARY_SOURCE",
+      "decision": "RETAIN_NEW",
+      "studyUtilityScore": 86,
+      "opportunityCostPassed": true,
+      "reason": "High study utility for SBI PO / IBPS PO Mains in SEC10 (Schemes & Static) (Score: 86/100)",
+      "targetSection": "SEC10 (Schemes & Static)"
+    },
+    {
+      "sourceId": "migrated-ca-2026-01-sec1-5",
+      "sourceTitle": "India Notifies Coking Coal as Critical & Strategic Mineral",
+      "group": "A_JANUARY_SOURCE",
+      "decision": "RETAIN_NEW",
+      "studyUtilityScore": 88,
+      "opportunityCostPassed": true,
+      "reason": "High study utility for SBI PO / IBPS PO Mains in SEC3 (Banking & Insurance) (Score: 88/100)",
+      "targetSection": "SEC3 (Banking & Insurance)"
+    },
+    {
+      "sourceId": "migrated-ca-2026-01-sec1-6",
+      "sourceTitle": "India's First Tailings Policy Launched by Ministry of Mines",
+      "group": "A_JANUARY_SOURCE",
+      "decision": "MERGE_INTO_EXISTING",
+      "studyUtilityScore": 85,
+      "opportunityCostPassed": true,
+      "reason": "Constituent sub-component absorbed into parent story [migrated-ca-2026-01-sec1-5] (Mines & Critical Minerals Framework)",
+      "targetSection": "SEC3 (Banking & Insurance)",
+      "mergedTargetId": "migrated-ca-2026-01-sec1-5",
+      "whySkipped": {
+        "skipReason": "Absorbed Into Parent Knowledge Node",
+        "category": "SEC3 (Banking & Insurance)",
+        "opportunityCostFailure": "Fragmented single-point policy; better studied under unified Ministry of Mines Critical Minerals node",
+        "absorbedIntoOtherStory": "migrated-ca-2026-01-sec1-5"
+      }
+    },
+    {
+      "sourceId": "migrated-ca-2026-01-sec1-7",
+      "sourceTitle": "Carbon Credit Trading Scheme (CCTS) Expanded to 4 New Sectors",
+      "group": "A_JANUARY_SOURCE",
+      "decision": "RETAIN_NEW",
+      "studyUtilityScore": 86,
+      "opportunityCostPassed": true,
+      "reason": "High study utility for SBI PO / IBPS PO Mains in SEC10 (Schemes & Static) (Score: 86/100)",
+      "targetSection": "SEC10 (Schemes & Static)"
+    },
+    {
+      "sourceId": "migrated-ca-2026-01-sec1-8",
+      "sourceTitle": "ECINET — Election Commission's Unified Digital Platform",
+      "group": "A_JANUARY_SOURCE",
+      "decision": "SKIP_LOW_YIELD",
+      "studyUtilityScore": 65,
+      "opportunityCostPassed": false,
+      "reason": "Fails Opportunity Cost test against core banking/regulatory syllabus (score: 65/100 < 75)",
+      "targetSection": "SEC4 (National)",
+      "whySkipped": {
+        "skipReason": "Below Opportunity Cost Threshold",
+        "category": "SEC4 (National)",
+        "opportunityCostFailure": "General administrative app without direct banking/economic exam significance"
+      }
+    },
+    {
+      "sourceId": "migrated-ca-2026-01-sec1-9",
+      "sourceTitle": "India–UAE $200 Billion Trade Target by 2032 & LNG Deal",
+      "group": "A_JANUARY_SOURCE",
+      "decision": "RETAIN_NEW",
+      "studyUtilityScore": 80,
+      "opportunityCostPassed": true,
+      "reason": "High study utility for SBI PO / IBPS PO Mains in SEC5 (MoUs) (Score: 80/100)",
+      "targetSection": "SEC5 (MoUs)"
+    },
+    {
+      "sourceId": "migrated-ca-2026-01-sec2-1",
+      "sourceTitle": "India Becomes World's 4th-Largest Economy at $4.18 Trillion",
+      "group": "A_JANUARY_SOURCE",
+      "decision": "RETAIN_NEW",
+      "studyUtilityScore": 92,
+      "opportunityCostPassed": true,
+      "reason": "High study utility for SBI PO / IBPS PO Mains in SEC1 (ESI & Finance) (Score: 92/100)",
+      "targetSection": "SEC1 (ESI & Finance)"
+    },
+    {
+      "sourceId": "migrated-ca-2026-01-sec2-2",
+      "sourceTitle": "NSO 1st Advance Estimates: FY26 Real GDP Growth Projected at 7.4%",
+      "group": "A_JANUARY_SOURCE",
+      "decision": "RETAIN_NEW",
+      "studyUtilityScore": 92,
+      "opportunityCostPassed": true,
+      "reason": "High study utility for SBI PO / IBPS PO Mains in SEC1 (ESI & Finance) (Score: 92/100)",
+      "targetSection": "SEC1 (ESI & Finance)"
+    },
+    {
+      "sourceId": "migrated-ca-2026-01-sec2-3",
+      "sourceTitle": "December CPI Inflation Cools to 1.33%",
+      "group": "A_JANUARY_SOURCE",
+      "decision": "RETAIN_NEW",
+      "studyUtilityScore": 92,
+      "opportunityCostPassed": true,
+      "reason": "High study utility for SBI PO / IBPS PO Mains in SEC1 (ESI & Finance) (Score: 92/100)",
+      "targetSection": "SEC1 (ESI & Finance)"
+    },
+    {
+      "sourceId": "migrated-ca-2026-01-sec2-4",
+      "sourceTitle": "UPI Hits All-Time High 21.63 Billion Transactions in Dec 2025",
+      "group": "A_JANUARY_SOURCE",
+      "decision": "RETAIN_NEW",
+      "studyUtilityScore": 88,
+      "opportunityCostPassed": true,
+      "reason": "High study utility for SBI PO / IBPS PO Mains in SEC3 (Banking & Insurance) (Score: 88/100)",
+      "targetSection": "SEC3 (Banking & Insurance)"
+    },
+    {
+      "sourceId": "migrated-ca-2026-01-sec2-5",
+      "sourceTitle": "100% Insurance FDI Operationalised via Sabka Bima Sabki Raksha",
+      "group": "A_JANUARY_SOURCE",
+      "decision": "RETAIN_NEW",
+      "studyUtilityScore": 88,
+      "opportunityCostPassed": true,
+      "reason": "High study utility for SBI PO / IBPS PO Mains in SEC3 (Banking & Insurance) (Score: 88/100)",
+      "targetSection": "SEC3 (Banking & Insurance)"
+    },
+    {
+      "sourceId": "migrated-ca-2026-01-sec2-6",
+      "sourceTitle": "RBI Raises Bank Dividend Payout Cap to 75% of PAT",
+      "group": "A_JANUARY_SOURCE",
+      "decision": "RETAIN_NEW",
+      "studyUtilityScore": 95,
+      "opportunityCostPassed": true,
+      "reason": "High study utility for SBI PO / IBPS PO Mains in SEC2 (Regulatory Bodies) (Score: 95/100)",
+      "targetSection": "SEC2 (Regulatory Bodies)"
+    },
+    {
+      "sourceId": "migrated-ca-2026-01-sec3-1",
+      "sourceTitle": "RBI Announces First-Ever 90-Day VRR in ₹2.15 Lakh Crore Package",
+      "group": "A_JANUARY_SOURCE",
+      "decision": "RETAIN_NEW",
+      "studyUtilityScore": 95,
+      "opportunityCostPassed": true,
+      "reason": "High study utility for SBI PO / IBPS PO Mains in SEC2 (Regulatory Bodies) (Score: 95/100)",
+      "targetSection": "SEC2 (Regulatory Bodies)"
+    },
+    {
+      "sourceId": "migrated-ca-2026-01-sec3-2",
+      "sourceTitle": "SEBI Introduces Base Expense Ratio (BER) for Mutual Funds",
+      "group": "A_JANUARY_SOURCE",
+      "decision": "RETAIN_NEW",
+      "studyUtilityScore": 95,
+      "opportunityCostPassed": true,
+      "reason": "High study utility for SBI PO / IBPS PO Mains in SEC2 (Regulatory Bodies) (Score: 95/100)",
+      "targetSection": "SEC2 (Regulatory Bodies)"
+    },
+    {
+      "sourceId": "migrated-ca-2026-01-sec4-1",
+      "sourceTitle": "Small Savings Interest Rates Frozen for Q4 FY26",
+      "group": "A_JANUARY_SOURCE",
+      "decision": "RETAIN_NEW",
+      "studyUtilityScore": 88,
+      "opportunityCostPassed": true,
+      "reason": "High study utility for SBI PO / IBPS PO Mains in SEC3 (Banking & Insurance) (Score: 88/100)",
+      "targetSection": "SEC3 (Banking & Insurance)"
+    },
+    {
+      "sourceId": "migrated-ca-2026-01-sec5-1",
+      "sourceTitle": "131 Padma Awards 2026 Announced",
+      "group": "A_JANUARY_SOURCE",
+      "decision": "RETAIN_NEW",
+      "studyUtilityScore": 84,
+      "opportunityCostPassed": true,
+      "reason": "High study utility for SBI PO / IBPS PO Mains in SEC7 (Awards/Indices) (Score: 84/100)",
+      "targetSection": "SEC7 (Awards/Indices)"
+    },
+    {
+      "sourceId": "migrated-ca-2026-01-sec5-2",
+      "sourceTitle": "India Ranks 80th on Henley Passport Index 2026",
+      "group": "A_JANUARY_SOURCE",
+      "decision": "RETAIN_NEW",
+      "studyUtilityScore": 84,
+      "opportunityCostPassed": true,
+      "reason": "High study utility for SBI PO / IBPS PO Mains in SEC7 (Awards/Indices) (Score: 84/100)",
+      "targetSection": "SEC7 (Awards/Indices)"
+    },
+    {
+      "sourceId": "migrated-ca-2026-01-sec6-1",
+      "sourceTitle": "PM-RKVY Absorbs 3 Agriculture Schemes into ₹1.75 Lakh Crore Umbrella",
+      "group": "A_JANUARY_SOURCE",
+      "decision": "RETAIN_NEW",
+      "studyUtilityScore": 86,
+      "opportunityCostPassed": true,
+      "reason": "High study utility for SBI PO / IBPS PO Mains in SEC10 (Schemes & Static) (Score: 86/100)",
+      "targetSection": "SEC10 (Schemes & Static)"
+    },
+    {
+      "sourceId": "migrated-ca-2026-01-sec6-2",
+      "sourceTitle": "India AI Impact Summit 2026 to be Held in New Delhi",
+      "group": "A_JANUARY_SOURCE",
+      "decision": "RETAIN_NEW",
+      "studyUtilityScore": 80,
+      "opportunityCostPassed": true,
+      "reason": "High study utility for SBI PO / IBPS PO Mains in SEC5 (MoUs) (Score: 80/100)",
+      "targetSection": "SEC5 (MoUs)"
+    },
+    {
+      "sourceId": "migrated-ca-2026-01-sec6-3",
+      "sourceTitle": "January 2026 Rapid Recall & Key Milestones Summary",
+      "group": "A_JANUARY_SOURCE",
+      "decision": "RETAIN_NEW",
+      "studyUtilityScore": 92,
+      "opportunityCostPassed": true,
+      "reason": "High study utility for SBI PO / IBPS PO Mains in SEC1 (ESI & Finance) (Score: 92/100)",
+      "targetSection": "SEC1 (ESI & Finance)"
+    },
+    {
+      "sourceId": "migrated-ca-note-sec1-35",
+      "sourceTitle": "NCDEX Launches 'NCDEX Nidhi' Mutual Fund Transaction Platform",
+      "group": "A_JANUARY_SOURCE",
+      "decision": "RETAIN_NEW",
+      "studyUtilityScore": 88,
+      "opportunityCostPassed": true,
+      "reason": "High study utility for SBI PO / IBPS PO Mains in SEC3 (Banking & Insurance) (Score: 88/100)",
+      "targetSection": "SEC3 (Banking & Insurance)"
+    },
+    {
+      "sourceId": "migrated-ca-2026-03-sec1-3",
+      "sourceTitle": "EPFO Retains PF Interest Rate at 8.25% for FY26 (3rd Consecutive Year)",
+      "group": "A_JANUARY_SOURCE",
+      "decision": "RETAIN_NEW",
+      "studyUtilityScore": 88,
+      "opportunityCostPassed": true,
+      "reason": "High study utility for SBI PO / IBPS PO Mains in SEC3 (Banking & Insurance) (Score: 88/100)",
+      "targetSection": "SEC3 (Banking & Insurance)"
+    },
+    {
+      "sourceId": "migrated-ca-note-sec2-238",
+      "sourceTitle": "Government Introduces Public Examinations (Prevention of Unfair Means) Amendment Bill 2026",
+      "group": "A_JANUARY_SOURCE",
+      "decision": "RETAIN_NEW",
+      "studyUtilityScore": 84,
+      "opportunityCostPassed": true,
+      "reason": "High study utility for SBI PO / IBPS PO Mains in SEC4 (National) (Score: 84/100)",
+      "targetSection": "SEC4 (National)"
+    },
+    {
+      "sourceId": "migrated-ca-note-sec6-71",
+      "sourceTitle": "ICAR Develops India's First Complete Pigeonpea Genome ('Asha' Variety)",
+      "group": "A_JANUARY_SOURCE",
+      "decision": "RETAIN_NEW",
+      "studyUtilityScore": 80,
+      "opportunityCostPassed": true,
+      "reason": "High study utility for SBI PO / IBPS PO Mains in SEC6 (Tech) (Score: 80/100)",
+      "targetSection": "SEC6 (Tech)"
+    },
+    {
+      "sourceId": "migrated-ca-2026-04-sec10-1",
+      "sourceTitle": "Government Launches First Phase of Census 2027 — First Fully Digital & Caste-Enumerating Census",
+      "group": "B_DOWNSTREAM_UPDATE",
+      "decision": "CHRONOLOGICAL_UPDATE",
+      "studyUtilityScore": 94,
+      "opportunityCostPassed": true,
+      "reason": "Subsequent legislative/administrative milestone linked to baseline [migrated-ca-2026-01-sec1-2]",
+      "targetSection": "SEC1 (ESI)",
+      "parentStoryId": "migrated-ca-2026-01-sec1-2"
+    },
+    {
+      "sourceId": "migrated-ca-note-sec4-202",
+      "sourceTitle": "President Assents to Public Examinations (Prevention of Unfair Means) Amendment Bill 2026",
+      "group": "B_DOWNSTREAM_UPDATE",
+      "decision": "CHRONOLOGICAL_UPDATE",
+      "studyUtilityScore": 94,
+      "opportunityCostPassed": true,
+      "reason": "Subsequent legislative/administrative milestone linked to baseline [migrated-ca-note-sec2-238]",
+      "targetSection": "SEC4 (National)",
+      "parentStoryId": "migrated-ca-note-sec2-238"
+    },
+    {
+      "sourceId": "migrated-ca-note-sec3-168",
+      "sourceTitle": "NCDEX Launches 'NCDEX Nidhi' Mutual Fund Transaction Platform to Boost Rural Penetration",
+      "group": "C_EXACT_DUPLICATE",
+      "decision": "REDIRECT_DUPLICATE",
+      "studyUtilityScore": 90,
+      "opportunityCostPassed": true,
+      "reason": "Exact reworded duplicate of canonical note [migrated-ca-note-sec1-35]",
+      "targetSection": "SEC3 (Banking & Insurance)",
+      "parentStoryId": "migrated-ca-note-sec1-35",
+      "whySkipped": {
+        "skipReason": "Exact Redundant Information",
+        "category": "SEC3 (Banking & Insurance)",
+        "opportunityCostFailure": "Redundant study time; learner redirected to canonical master note",
+        "absorbedIntoOtherStory": "migrated-ca-note-sec1-35"
+      }
+    },
+    {
+      "sourceId": "migrated-ca-note-sec2-386",
+      "sourceTitle": "EPF Deposit Interest Rate Retained at 8.25% for FY26 (3rd Consecutive Year)",
+      "group": "C_EXACT_DUPLICATE",
+      "decision": "REDIRECT_DUPLICATE",
+      "studyUtilityScore": 90,
+      "opportunityCostPassed": true,
+      "reason": "Exact reworded duplicate of canonical note [migrated-ca-2026-03-sec1-3]",
+      "targetSection": "SEC3 (Banking & Insurance)",
+      "parentStoryId": "migrated-ca-2026-03-sec1-3",
+      "whySkipped": {
+        "skipReason": "Exact Redundant Information",
+        "category": "SEC3 (Banking & Insurance)",
+        "opportunityCostFailure": "Redundant study time; learner redirected to canonical master note",
+        "absorbedIntoOtherStory": "migrated-ca-2026-03-sec1-3"
+      }
+    },
+    {
+      "sourceId": "migrated-ca-note-sec6-440",
+      "sourceTitle": "ICAR Develops India's 1st Telomere-to-Telomere (T2T) Reference Genome for Pigeonpea",
+      "group": "C_EXACT_DUPLICATE",
+      "decision": "REDIRECT_DUPLICATE",
+      "studyUtilityScore": 90,
+      "opportunityCostPassed": true,
+      "reason": "Exact reworded duplicate of canonical note [migrated-ca-note-sec6-71]",
+      "targetSection": "SEC6 (Tech)",
+      "parentStoryId": "migrated-ca-note-sec6-71",
+      "whySkipped": {
+        "skipReason": "Exact Redundant Information",
+        "category": "SEC6 (Tech)",
+        "opportunityCostFailure": "Redundant study time; learner redirected to canonical master note",
+        "absorbedIntoOtherStory": "migrated-ca-note-sec6-71"
+      }
+    },
+    {
+      "sourceId": "migrated-ca-note-sec1-89",
+      "sourceTitle": "Kroll India's Celebrity Brand Valuation 2025",
+      "group": "D_DOWNSTREAM_NOISE",
+      "decision": "SKIP_LOW_YIELD",
+      "studyUtilityScore": 15,
+      "opportunityCostPassed": false,
+      "reason": "Private commercial endorsement / celebrity valuation — low exam yield",
+      "targetSection": "SEC4",
+      "whySkipped": {
+        "skipReason": "Non-Policy Commercial Promotion",
+        "category": "SEC4",
+        "opportunityCostFailure": "Fails Opportunity Cost test against core economic priorities"
+      }
+    },
+    {
+      "sourceId": "migrated-ca-note-sec1-80",
+      "sourceTitle": "Bonn Open 2026 Tennis Doubles Championship",
+      "group": "D_DOWNSTREAM_NOISE",
+      "decision": "SKIP_LOW_YIELD",
+      "studyUtilityScore": 25,
+      "opportunityCostPassed": false,
+      "reason": "Routine ATP/WTA tennis tour results — low probability of testing in banking exams",
+      "targetSection": "SEC6",
+      "whySkipped": {
+        "skipReason": "Routine Sports Event Without Historic/National Landmark",
+        "category": "SEC6",
+        "opportunityCostFailure": "Banking exams test major national medals/cups, not routine foreign tour rounds"
+      }
+    },
+    {
+      "sourceId": "migrated-ca-note-sec1-81",
+      "sourceTitle": "Washington Open 2026 Tennis Championship",
+      "group": "D_DOWNSTREAM_NOISE",
+      "decision": "SKIP_LOW_YIELD",
+      "studyUtilityScore": 25,
+      "opportunityCostPassed": false,
+      "reason": "Routine ATP/WTA tennis tour results — low probability of testing in banking exams",
+      "targetSection": "SEC6",
+      "whySkipped": {
+        "skipReason": "Routine Sports Event Without Historic/National Landmark",
+        "category": "SEC6",
+        "opportunityCostFailure": "Banking exams test major national medals/cups, not routine foreign tour rounds"
+      }
+    }
+  ]
+}

@@ -1,36 +1,24 @@
 {
   "id": "migrated-ca-note-sec5-286",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Aswath S (Tamil Nadu) Becomes India's 98th Chess Grandmaster",
+  "type": "ca_note",
   "summary": "Aswath S (Tamil Nadu) Becomes India's 98th Chess Grandmaster",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 5. 🤝 MoUs, CONFERENCES & APPOINTMENTS",
+      "text": "🪝 Aswath S (Tamil Nadu) Becomes India's 98th Chess Grandmaster. Key development for Banking & General Awareness."
+    },
+    {
       "type": "bullet_list",
       "items": [
-        "Achievement: 18-year-old Aswath S becomes India's 98th Grandmaster."
+        "Achievement: 18-year-old Aswath S becomes India's 98th Grandmaster.",
+        "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Appointee / Official",
-        "New Position & Organization",
-        "Key Context & Details"
-      ],
-      "rows": [
-        [
-          "Aswath S (Tamil Nadu) Becomes India's 98th Chess Grandmaster",
-          "Official Appointment",
-          "Achievement: 18-year-old Aswath S becomes India's 98th Grandmaster."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "India's 1st Grandmaster: Viswanathan Anand (1988)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
     }
   ],
   "metadata": {
@@ -55,6 +43,16 @@
       "sourceChecksum": "06b7e088c9686bbc8bb9c650b7219883bf8af2147c9f3b090617c21cfc1fce37",
       "migrationTimestamp": "2026-08-15T12:15:40.420Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC5",
+    "sectionNumber": 5,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

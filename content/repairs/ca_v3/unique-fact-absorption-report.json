@@ -1,0 +1,32 @@
+{
+  "version": "1.0.0-unique-fact-absorption",
+  "timestamp": "2026-08-18T17:32:30.004Z",
+  "totalCasesTested": 3,
+  "allCasesVerified": true,
+  "cases": [
+    {
+      "caseId": "ABS-1",
+      "story": "RBI MSME Collateral-Free Limit",
+      "sourceA": "RBI doubles collateral-free MSME loan limit to ₹20 lakh.",
+      "sourceB": "RBI doubles MSME limit to ₹20 lakh; effective from 1 April 2026; voluntary gold pledge allowed up to ₹25 lakh.",
+      "expected": "ONE Memory Unit with effective date and ₹25L voluntary ceiling absorbed.",
+      "verified": true
+    },
+    {
+      "caseId": "ABS-2",
+      "story": "16th Finance Commission",
+      "sourceA": "16th FC retains 41% tax devolution under Arvind Panagariya.",
+      "sourceB": "16th FC adds 10% weightage for Contribution to GDP, discontinuing sector-specific grants.",
+      "expected": "ONE Memory Unit with GDP contribution weight and discontinued grants absorbed.",
+      "verified": true
+    },
+    {
+      "caseId": "ABS-3",
+      "story": "India AI Impact Summit 2026",
+      "sourceA": "PM Modi unveils MANAV vision at AI Impact Summit.",
+      "sourceB": "India joins New Delhi Frontier AI Commitments with 89 signatories and launches VoicERA stack.",
+      "expected": "ONE Memory Unit with all 5 summit sub-initiatives absorbed into master note.",
+      "verified": true
+    }
+  ]
+}

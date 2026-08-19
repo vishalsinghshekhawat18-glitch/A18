@@ -1,0 +1,42 @@
+{
+  "id": "emu-voc-port-tuticorin-green-expansion",
+  "title": "VOC Port Tuticorin — Green Hydrogen, Digital Twin & ₹15,000 Cr Outer Harbour Project",
+  "category": "SEC4",
+  "tier": "TIER_A",
+  "theme": "Maritime Green Ports & Infrastructure",
+  "summary": "VOC Port produces green hydrogen on-site and deployed real-time digital twin monitoring.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "**Overview**: VOC Port produces green hydrogen on-site and deployed real-time digital twin monitoring."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**VOC Port Tuticorin deploys India's first port Digital Twin platform** (Page 58): VOC Port produces green hydrogen on-site and deployed real-time digital twin monitoring.",
+        "**VOC Port Tuticorin secures IGBC Platinum and Shunya Net Zero Certifications** (Page 94): First Indian major port to get IGBC Platinum and BEE Shunya Net Zero Energy Building rating.",
+        "**VOC Port Tuticorin becomes 1st Indian port with anti-drone system** (Page 114): VOC Port deployed advanced anti-drone defense."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Maritime Green Ports & Infrastructure. First major port to produce on-site green hydrogen with IGBC Platinum."
+    }
+  ],
+  "metadata": {
+    "provenancePages": [
+      58,
+      94,
+      114
+    ],
+    "constituentArticleCount": 3,
+    "provenanceArticleIds": [
+      "cgb-art-184",
+      "cgb-art-266",
+      "cgb-art-333"
+    ],
+    "statutoryConcept": "Maritime Green Ports & Infrastructure",
+    "whyStandalone": "First major port to produce on-site green hydrogen with IGBC Platinum."
+  }
+}

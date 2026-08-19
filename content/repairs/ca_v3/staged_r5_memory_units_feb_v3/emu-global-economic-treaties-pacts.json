@@ -1,0 +1,42 @@
+{
+  "unitId": "emu-global-economic-treaties-pacts",
+  "title": "🌐 Strategic Trade & Multilateral Pacts — India-GCC FTA ($178B), Pax Silica & France DTAC",
+  "category": "SEC4",
+  "tier": "TIER_B_PLUS",
+  "theme": "Bilateral Trade Agreements & Strategic Coalitions",
+  "leadArticleId": "cgb-art-201",
+  "constituentCount": 2,
+  "provenancePages": [
+    64,
+    65
+  ],
+  "provenanceArticleIds": [
+    "cgb-art-201",
+    "cgb-art-205"
+  ],
+  "mivScore": 60,
+  "executiveSummary": "2010 New START treaty (Medvedev-Obama, 1,550 warhead cap) expired on Feb 5, 2026.",
+  "masterKeyFacts": [
+    "2010 New START treaty (Medvedev-Obama, 1,550 warhead cap) expired on Feb 5, 2026.",
+    "India joined 10-nation Pax Silica coalition (Australia, Greece, Israel, Japan, Qatar, ROK, Singapore, UAE, UK, India) for silicon & AI resilience."
+  ],
+  "subEvents": [
+    {
+      "title": "New START nuclear arms treaty between US and Russia expires",
+      "page": 64,
+      "facts": [
+        "2010 New START treaty (Medvedev-Obama, 1,550 warhead cap) expired on Feb 5, 2026."
+      ]
+    },
+    {
+      "title": "India joins US-led 'Pax Silica' tech supply chain coalition as 10th member",
+      "page": 65,
+      "facts": [
+        "India joined 10-nation Pax Silica coalition (Australia, Greece, Israel, Japan, Qatar, ROK, Singapore, UAE, UK, India) for silicon & AI resilience."
+      ]
+    }
+  ],
+  "statutoryProvisions": [],
+  "examAngle": "🎯 Exam Angle → Focus on exact statutory limits, financial outlays, and regulatory frameworks.",
+  "whyStandaloneJustification": "ToR for $178B GCC FTA, 10th signatory to Pax Silica tech coalition, and reformed France tax protocol."
+}

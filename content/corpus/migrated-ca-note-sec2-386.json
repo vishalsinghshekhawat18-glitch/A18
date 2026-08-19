@@ -1,30 +1,13 @@
 {
   "id": "migrated-ca-note-sec2-386",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "EPF Deposit Interest Rate Retained at 8.25% for FY26 (3rd Consecutive Year)",
-  "summary": "Central Board of Trustees ratifies 8.25% interest rate on provident fund deposits.",
+  "type": "ca_note_redirect",
+  "redirectTarget": "migrated-ca-2026-03-sec1-3",
+  "summary": "Redirect to canonical master note: EPFO Retains PF Interest Rate at 8.25% for FY26 (3rd Consecutive Year)",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "Central Board of Trustees ratifies 8.25% interest rate on provident fund deposits."
-    },
-    {
-      "type": "bullet_list",
-      "items": [
-        "Ratified Rate: Government ratified 8.25% interest rate on EPF deposits for 2025-26 (3rd consecutive year).",
-        "Statutory Body: CBT EPF established under Section 5A of EPF & MP Act 1952 (5-year tenure)."
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "EPFO works under Ministry of Labour and Employment | CEO: Ramesh Krishnamurthi."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "content": "*Editorial Decision: Duplicate Redirect $\\rightarrow$ Canonical Master Note [EPFO Retains PF Interest Rate at 8.25% for FY26 (3rd Consecutive Year)](migrated-ca-2026-03-sec1-3).*"
     }
   ],
   "metadata": {
@@ -49,6 +32,17 @@
       "sourceChecksum": "98194e6ee81297e4484cea420e2de861a9a9788ac9e871633681ffc9163760a6",
       "migrationTimestamp": "2026-08-15T12:18:04.452Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "disposition": "DUPLICATE_DEDUPLICATED",
+    "matchedCanonicalId": "migrated-ca-2026-03-sec1-3",
+    "redirectTarget": "migrated-ca-2026-03-sec1-3",
+    "editorialDecision": "REDIRECT_DUPLICATE",
+    "isStudyMaterial": false
   }
 }

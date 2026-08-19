@@ -1,31 +1,28 @@
 {
   "id": "migrated-ca-note-sec4-344",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "UP Launches 'Mukhyamantri Shikshak Cashless Chikitsa Yojana' (₹5 Lakh Medical Cover)",
+  "type": "ca_note",
   "summary": "Provides cashless medical treatment up to ₹5 lakh/year for 15 lakh teachers and staff.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Provides cashless medical treatment up to ₹5 lakh/year for 15 lakh teachers and staff."
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 UP Launches 'Mukhyamantri Shikshak Cashless Chikitsa Yojana' (₹5 Lakh Medical Cover). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Provides cashless medical treatment up to ₹5 lakh/year for 15 lakh teachers and staff.",
         "Cashless Benefit: Up to ₹5 lakh per year medical cover at empanelled hospitals for 15 lakh basic/secondary teachers and staff.",
         "SBI Social Security MoU: SBI partnership provides group term insurance and accident cover to 10 lakh teachers.",
-        "DBT Student Transfer: Transferred ₹1,320 crore via DBT to 1.10 crore students (₹1,200/student for uniforms/stationery)."
+        "DBT Student Transfer: Transferred ₹1,320 crore via DBT to 1.10 crore students (₹1,200/student for uniforms/stationery).",
+        "Cashless medical cover cap (₹5 lakh/yr) vs student DBT transfer (₹1,200/student).",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Uttar Pradesh is the first state to provide comprehensive cashless medical and social security to its entire teaching workforce."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Cashless medical cover cap (₹5 lakh/yr) vs student DBT transfer (₹1,200/student)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
     }
   ],
   "metadata": {
@@ -50,6 +47,16 @@
       "sourceChecksum": "d8d228b059b745ede56dc30d17b6c4a145ca38450a8e7c67eba6439ec3d4a16d",
       "migrationTimestamp": "2026-08-15T12:16:51.764Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

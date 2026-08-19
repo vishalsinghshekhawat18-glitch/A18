@@ -1,0 +1,77 @@
+{
+  "id": "migrated-ca-note-sec5-299",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Static GK: NATO 32-Nation Alliance & Sweden Accession",
+  "summary": "North Atlantic Treaty Organization formed April 4, 1949 with 32 member states.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 Static GK: NATO 32-Nation Alliance & Sweden Accession. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "North Atlantic Treaty Organization formed April 4, 1949 with 32 member states.",
+        "Alliance Expansion: Sweden joined as the 32nd member state on March 7, 2024 (Finland joined 31st in 2023).",
+        "Governance & HQ: Headquartered in Brussels, Belgium.",
+        "Secretary General: Mark Rutte.",
+        "32nd NATO member state (Sweden) vs 31st member state (Finland).",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 10,
+      "code": "SEC10",
+      "name": "MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "emoji": "📌",
+      "fullName": "10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC"
+    },
+    "hook": "🪝 Static GK: NATO 32-Nation Alliance & Sweden Accession",
+    "examAngle": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-07-09"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-09",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:15:40.421Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec5-299",
+      "sourceTitle": "Static GK: NATO 32-Nation Alliance & Sweden Accession",
+      "sourceChecksum": "607921d1b67abf073fcb0643bde2584f8f5e304453caa12f392ae67b01347841",
+      "migrationTimestamp": "2026-08-15T12:15:40.421Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "migrated-ca-note-sec1-75",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "COAS Launches Indigenous Xtreme Weather Grade (XWG) Diesel for -42°C Operation",
+  "summary": "COAS Launches Indigenous Xtreme Weather Grade (XWG) Diesel for -42°C Operation",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 COAS Launches Indigenous Xtreme Weather Grade (XWG) Diesel for -42°C Operation. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Chief of the Army Staff General Dhiraj Seth launched indigenously developed XWG Diesel remaining fluid down to **-42°C** for high-altitude operations.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of COAS Launches Indigenous Xtreme Weather Grade (XWG) Diesel for."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of COAS Launches Indigenous Xtreme Weather Grade (XWG) Diesel for."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 1,
+      "code": "SEC1",
+      "name": "ESI, FINANCE & BUSINESS NEWS",
+      "emoji": "💰",
+      "fullName": "1. 💰 ESI, FINANCE & BUSINESS NEWS"
+    },
+    "hook": "🪝 COAS Launches Indigenous Xtreme Weather Grade (XWG) Diesel for -42°C Operation",
+    "examAngle": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of COAS Launches Indigenous Xtreme Weather Grade (XWG) Diesel for.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-08-01"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:34.066Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-75",
+      "sourceTitle": "COAS Launches Indigenous Xtreme Weather Grade (XWG) Diesel for -42°C Operation",
+      "sourceChecksum": "c6c83cd3505610c9514450da77b64985bbad120aa0b4e53cd66beeace9b30079",
+      "migrationTimestamp": "2026-08-15T12:10:34.066Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

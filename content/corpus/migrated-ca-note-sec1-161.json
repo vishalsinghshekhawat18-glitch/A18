@@ -1,31 +1,28 @@
 {
   "id": "migrated-ca-note-sec1-161",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Rajasthan Becomes 1st State to Operationalise Auctioned Rare Earth Elements (REE) Exploration License",
+  "type": "ca_note",
   "summary": "Grants 207.63 sq. km. critical mineral exploration block in Navatala-Devigarh to CMPDI.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Grants 207.63 sq. km. critical mineral exploration block in Navatala-Devigarh to CMPDI."
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 Rajasthan Becomes 1st State to Operationalise Auctioned Rare Earth Elements (REE) Exploration License. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Grants 207.63 sq. km. critical mineral exploration block in Navatala-Devigarh to CMPDI.",
         "Licence Area: Spans 207.63 sq. km. across Pachpadra tehsil (Balotra) and Shergarh tehsil (Jodhpur).",
         "Awardee Entity: Central Mine Planning and Design Institute Limited (CMPDI).",
-        "Critical Minerals Identified: Lanthanum, Cerium, Praseodymium, and Neodymium for EV and semiconductor supply chains."
+        "Critical Minerals Identified: Lanthanum, Cerium, Praseodymium, and Neodymium for EV and semiconductor supply chains.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "CMPDI is a Central PSU subsidiary of Coal India Ltd | Rajasthan CM: Bhajan Lal Sharma."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Rajasthan Becomes 1st State to Operationalise Auctioned Rare Earth Elements (REE) Exploration License."
     }
   ],
   "metadata": {
@@ -50,6 +47,16 @@
       "sourceChecksum": "162cee5e5f89ccb87aa3a88389b242e0655208375f67269574320808eb1a7e87",
       "migrationTimestamp": "2026-08-15T12:12:37.958Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

@@ -1,42 +1,27 @@
 {
   "id": "migrated-ca-note-sec7-346",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Fortune India Most Powerful Women 2026: Nita Ambani Ranks #1 Nationally",
+  "type": "ca_note",
   "summary": "Recognizes top 100 female leaders shaping India's economic and business landscape.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Recognizes top 100 female leaders shaping India's economic and business landscape."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 Fortune India Most Powerful Women 2026: Nita Ambani Ranks #1 Nationally. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Recognizes top 100 female leaders shaping India's economic and business landscape.",
         "Rank #1: Nita M.",
         "Ambani (Founder & Chairperson of Reliance Foundation) ranked #1 in Fortune India MPW 2026 list.",
-        "Key Recognition: Marks her 2nd major recognition of 2026 following AAPI Humanitarian Award & Key to City of Tampa."
+        "Key Recognition: Marks her 2nd major recognition of 2026 following AAPI Humanitarian Award & Key to City of Tampa.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Award Title",
-        "Recipient / Winner",
-        "Conferred By / Key Detail"
-      ],
-      "rows": [
-        [
-          "Fortune India Most Powerful Women 2026: Nita Ambani Ranks #1 Nationally",
-          "Rank #1: Nita M. Ambani (Founder & Chairperson of Reliance Foundation) ranked #1 in Fortune India MPW 2026 list.",
-          "Fortune India MPW list evaluates 100 women leaders across business, finance, and policy."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Fortune India MPW list evaluates 100 women leaders across business, finance, and policy."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -61,6 +46,16 @@
       "sourceChecksum": "7c6394354d29c0fc4556f442a6ea462f624ace5d6162e5b82d8a9f3144306ef5",
       "migrationTimestamp": "2026-08-15T12:16:51.764Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

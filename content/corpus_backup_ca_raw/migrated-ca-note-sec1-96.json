@@ -1,0 +1,74 @@
+{
+  "id": "migrated-ca-note-sec1-96",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Indian Organ Donation Day Observed on 3rd August",
+  "summary": "Indian Organ Donation Day Observed on 3rd August",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 8. 📅 IMPORTANT DAYS & PERSONS IN NEWS",
+      "text": "🪝 Indian Organ Donation Day Observed on 3rd August. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Promotes voluntary organ donor registration via NOTTO.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Indian Organ Donation Day Observed on 3rd August."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Indian Organ Donation Day Observed on 3rd August."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 8,
+      "code": "SEC8",
+      "name": "IMPORTANT DAYS & PERSONS IN NEWS",
+      "emoji": "📅",
+      "fullName": "8. 📅 IMPORTANT DAYS & PERSONS IN NEWS"
+    },
+    "hook": "🪝 Indian Organ Donation Day Observed on 3rd August",
+    "examAngle": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Indian Organ Donation Day Observed on 3rd August.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-08-05"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:08.725Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-96",
+      "sourceTitle": "Indian Organ Donation Day Observed on 3rd August",
+      "sourceChecksum": "2893267c6945e56cc94bcee5477b416e25d0c41431550fd2f1f8e61bd706cc09",
+      "migrationTimestamp": "2026-08-15T12:11:08.725Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC8",
+    "sectionNumber": 8,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

@@ -1,31 +1,28 @@
 {
   "id": "migrated-ca-note-sec1-214",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "World Bank Income Classification 2026: India Retains Lower-Middle-Income Status",
+  "type": "ca_note",
   "summary": "Classifies 218 global economies using Atlas method GNI per capita thresholds.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Classifies 218 global economies using Atlas method GNI per capita thresholds."
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 World Bank Income Classification 2026: India Retains Lower-Middle-Income Status. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Classifies 218 global economies using Atlas method GNI per capita thresholds.",
         "India Category: India remains a Lower-Middle-Income Economy (,176 – ,635 GNI per capita).",
         "Category Upgrades: Sri Lanka, Vietnam, Philippines, Jordan, Micronesia moved to Upper-Middle-Income (,636–,375); Togo moved to Lower-Middle-Income.",
-        "Income Thresholds: Low-income (≤,175), Lower-middle (,176–,635), Upper-middle (,636–,375), High-income (>,375)."
+        "Income Thresholds: Low-income (≤,175), Lower-middle (,176–,635), Upper-middle (,636–,375), High-income (>,375).",
+        "India classification (Lower-Middle Income) vs Sri Lanka/Vietnam (Upper-Middle Income).",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "World Bank HQ: Washington D.C., US | President: Ajay Banga."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "India classification (Lower-Middle Income) vs Sri Lanka/Vietnam (Upper-Middle Income)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of World Bank Income Classification 2026."
     }
   ],
   "metadata": {
@@ -50,6 +47,16 @@
       "sourceChecksum": "21a509c091c63ee5872a05cd9469ccda44a303769c7fefb57fa01eebca0de611",
       "migrationTimestamp": "2026-08-15T12:13:47.645Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

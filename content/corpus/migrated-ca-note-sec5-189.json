@@ -1,37 +1,25 @@
 {
   "id": "migrated-ca-note-sec5-189",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Satya Pal Kumar Appointed Director of Financial Intelligence Unit-India (FIU-IND)",
+  "type": "ca_note",
   "summary": "Satya Pal Kumar Appointed Director of Financial Intelligence Unit-India (FIU-IND)",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 5. 🤝 MoUs, CONFERENCES & APPOINTMENTS",
+      "text": "🪝 Satya Pal Kumar Appointed Director of Financial Intelligence Unit-India (FIU-IND). Key development for Banking & General Awareness."
+    },
     {
       "type": "bullet_list",
       "items": [
         "Appointed Joint Secretary-level Director of FIU-IND for 5-year tenure (succeeding Pankaj Kumar Mishra).",
-        "Agency Mandate: Central national agency receiving and analyzing suspicious financial transaction reports."
+        "Agency Mandate: Central national agency receiving and analyzing suspicious financial transaction reports.",
+        "🎯 Exam Angle → Focus on appointee name, nominating body (FSIB / ACC), predecessor, tenure duration, and statutory establishment year."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Appointee / Official",
-        "New Position & Organization",
-        "Key Context & Details"
-      ],
-      "rows": [
-        [
-          "Satya Pal Kumar",
-          "Director of Financial Intelligence Unit-India (FIU-IND)",
-          "Appointed Joint Secretary-level Director of FIU-IND for 5-year tenure (succeeding Pankaj Kumar Mishra)."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "FIU-IND works under Department of Revenue, Ministry of Finance | HQ: New Delhi."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on appointee name, nominating body (FSIB / ACC), predecessor, tenure duration, and statutory establishment year."
     }
   ],
   "metadata": {
@@ -56,6 +44,16 @@
       "sourceChecksum": "645eeec5d48cc21d2ea9efabddcb395f605ead2cf8975826d84054f4bca08565",
       "migrationTimestamp": "2026-08-15T12:13:11.200Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC5",
+    "sectionNumber": 5,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

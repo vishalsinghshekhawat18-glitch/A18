@@ -1,0 +1,77 @@
+{
+  "id": "migrated-ca-note-sec1-44",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "NOTTO Launches e-Pratyaropan Portal & Mobile App for Organ Donation",
+  "summary": "Streamlines national organ donation tracking and real-time donor-recipient matching.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 NOTTO Launches e-Pratyaropan Portal & Mobile App for Organ Donation. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Streamlines national organ donation tracking and real-time donor-recipient matching.",
+        "NOTTO launched **e-Pratyaropan Portal** and mobile app for unified digital organ donation tracking.",
+        "Nodal Ministry: Ministry of Health and Family Welfare (MoHFW).",
+        "Implementing Agency: NOTTO (under Directorate General of Health Services / DGHS).",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of NOTTO Launches e."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of NOTTO Launches e."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 1,
+      "code": "SEC1",
+      "name": "ESI, FINANCE & BUSINESS NEWS",
+      "emoji": "💰",
+      "fullName": "1. 💰 ESI, FINANCE & BUSINESS NEWS"
+    },
+    "hook": "🪝 NOTTO Launches e-Pratyaropan Portal & Mobile App for Organ Donation",
+    "examAngle": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of NOTTO Launches e.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-08-05"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:02.257Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-44",
+      "sourceTitle": "NOTTO Launches e-Pratyaropan Portal & Mobile App for Organ Donation",
+      "sourceChecksum": "d84c271d3acb03fff0c9000b1b45b22f72ff576f6198471f9729e8e5f71e1de2",
+      "migrationTimestamp": "2026-08-15T12:10:02.257Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

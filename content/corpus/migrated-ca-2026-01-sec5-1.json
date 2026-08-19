@@ -1,20 +1,24 @@
 {
   "id": "migrated-ca-2026-01-sec5-1",
+  "title": "🤝 Apex National Security Leadership — Shatrujeet Kapoor (ITBP), Praveen Kumar (BSF), Rakesh Aggarwal (NIA)",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "131 Padma Awards 2026 Announced",
-  "summary": "2026 Republic Day honours list features 5 Padma Vibhushan, 13 Padma Bhushan, and 113 Padma Shri awardees.",
+  "summary": "Shatrujeet Singh Kapoor appointed Chief of ITBP; Praveen Kumar appointed DG BSF; Rakesh Aggarwal appointed DG NIA; Praveen Vashista appointed Vigilance Commissioner.",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "Government announced **131 Padma Awards for 2026** (5 Padma Vibhushan, 13 Padma Bhushan, 113 Padma Shri), including 19 women, 6 Foreigners/NRIs/PIOs, and 16 posthumous awardees."
+      "content": "**Overview**: Shatrujeet Singh Kapoor appointed Chief of ITBP; Praveen Kumar appointed DG BSF; Rakesh Aggarwal appointed DG NIA; Praveen Vashista appointed Vigilance Commissioner."
     },
     {
       "type": "bullet_list",
       "items": [
-        "**Key Awardees**: Rohit Sharma, Harmanpreet Kaur (cricket), Savita Punia (hockey), I.M. Vijayan (football), R. Madhavan (art).",
-        "**Hierarchy**: Bharat Ratna → Padma Vibhushan (2nd) → Padma Bhushan (3rd) → Padma Shri (4th)."
+        "**Key National Security & Regulatory Appointments: ITBP, BSF, NIA, and Vigilance Commission** (Page 144): Shatrujeet Singh Kapoor appointed Chief of ITBP; Praveen Kumar appointed DG BSF; Rakesh Aggarwal appointed DG NIA; Praveen Vashista appointed Vigilance Commissioner."
       ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under National Security & Vigilance Governance. Key statutory appointments: Chief of ITBP, DG Border Security Force, DG National Investigation Agency, and Vigilance Commissioner."
     }
   ],
   "metadata": {
@@ -24,22 +28,36 @@
       "SBI PO"
     ],
     "tags": [
-      "sec7",
+      "sec5",
       "Current Affairs 2026",
-      "January 2026"
+      "January 2026",
+      "TIER_B_PLUS"
     ],
-    "date": "2026-01-26",
-    "category": "SEC7",
+    "date": "2026-01-15",
+    "category": "SEC5",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "lastUpdated": "2026-08-19T02:37:59.682Z",
     "provenance": {
       "sourceSystem": "CA",
-      "sourceFile": "January_26.pdf",
-      "sourceId": "migrated-ca-2026-01-sec5-1",
-      "sourceTitle": "131 Padma Awards 2026 Announced",
-      "sourceChecksum": "8e2091def15ee05040d044d74b6d1ac8aa4f541c198ed60ece284fad82f9d65d",
-      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
-      "normalizationRuleVersion": "1.0.0-jan2026"
-    }
-  }
+      "sourceFile": "Jan2026.pdf",
+      "sourceId": "emu-jan-apex-security-appointments",
+      "sourceTitle": "🤝 Apex National Security Leadership — Shatrujeet Kapoor (ITBP), Praveen Kumar (BSF), Rakesh Aggarwal (NIA)",
+      "provenancePages": [
+        144
+      ],
+      "constituentArticleCount": 1,
+      "migrationTimestamp": "2026-08-19T02:37:59.682Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_B_PLUS",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC5",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 85
+  },
+  "relationships": []
 }

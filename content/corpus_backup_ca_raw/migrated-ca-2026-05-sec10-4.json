@@ -1,0 +1,74 @@
+{
+  "id": "migrated-ca-2026-05-sec10-4",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "CCEA Approves ₹1,570 Crore Ship Repair Facility at Vadinar, Gujarat",
+  "summary": "CCEA approves brownfield Ship Repair Facility at Vadinar port (DPA + CSL joint venture) capable of repairing vessels up to 300 metres.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 CCEA Approves ₹1,570 Crore Ship Repair Facility at Vadinar, Gujarat. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "CCEA approved a ₹1,570 crore ship repair hub at Vadinar in Devbhumi Dwarka (Gujarat) implemented by Deendayal Port Authority and Cochin Shipyard to reduce dependence on Dubai/Singapore shipyards.",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 10,
+      "code": "SEC10",
+      "name": "MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "emoji": "📌",
+      "fullName": "10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC"
+    },
+    "hook": "🪝 CCEA Approves ₹1,570 Crore Ship Repair Facility at Vadinar, Gujarat",
+    "examAngle": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-05-15"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec10",
+      "Current Affairs 2026",
+      "May 2026"
+    ],
+    "date": "2026-05-15",
+    "category": "SEC10",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T16:10:30.135Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-05-sec10-4",
+      "sourceTitle": "CCEA Approves ₹1,570 Crore Ship Repair Facility at Vadinar, Gujarat",
+      "sourceChecksum": "3e7fabd9dc8db45be1ed0af0672010dd573e37edda9f35d69abb8722188c88d3",
+      "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+      "normalizationRuleVersion": "1.0.0-may2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

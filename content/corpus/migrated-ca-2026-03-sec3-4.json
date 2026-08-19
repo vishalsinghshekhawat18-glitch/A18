@@ -1,13 +1,24 @@
 {
   "id": "migrated-ca-2026-03-sec3-4",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Bank of Baroda Issues India's First Domestic Green Infrastructure Bonds (₹10,000 Cr)",
+  "type": "ca_note",
   "summary": "Bank of Baroda becomes the first Indian bank to issue domestic Green Infrastructure Bonds, raising ₹10,000 crore at 7.10% coupon.",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 5. 🤝 MoUs, CONFERENCES & APPOINTMENTS",
+      "text": "🪝 Bank of Baroda Issues India's First Domestic Green Infrastructure Bonds (₹10,000 Cr). Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Bank of Baroda raised **₹10,000 crore via 7-year Series I Green Infrastructure Bonds** (bids reached ₹16,415 Cr), making BoB the 1st bank in India to issue domestic Green Infra Bonds.",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
+      ]
+    },
+    {
       "type": "paragraph",
-      "content": "Bank of Baroda raised **₹10,000 crore via 7-year Series I Green Infrastructure Bonds** (bids reached ₹16,415 Cr), making BoB the 1st bank in India to issue domestic Green Infra Bonds."
+      "content": "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
     }
   ],
   "metadata": {
@@ -33,6 +44,16 @@
       "sourceChecksum": "d84e333397a9876e4a4be1cf76ef1da4942c7f40eea6063ef5031dd818419856",
       "migrationTimestamp": "2026-08-16T11:13:16.778Z",
       "normalizationRuleVersion": "1.0.0-mar2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "LIGHT_TOUCH",
+    "sectionCode": "SEC5",
+    "sectionNumber": 5,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

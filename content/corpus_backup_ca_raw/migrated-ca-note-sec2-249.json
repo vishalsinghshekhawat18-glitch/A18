@@ -1,0 +1,76 @@
+{
+  "id": "migrated-ca-note-sec2-249",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "PFRDA Constitutes 'ASCEND' Committee to Attract Global Pension Capital",
+  "summary": "Chaired by Dinesh Khara (NPS Trust Chairman) to scale global pension fund inflows under NPS.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 PFRDA Constitutes 'ASCEND' Committee to Attract Global Pension Capital. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Chaired by Dinesh Khara (NPS Trust Chairman) to scale global pension fund inflows under NPS.",
+        "Committee Name: ASCEND (Accelerated Scaling of Global Capital Ecosystem and NPS Development).",
+        "Chairmanship: Chaired by Dinesh Khara, Chairman of NPS Trust.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on appointee name, nominating body (FSIB / ACC), predecessor, tenure duration, and statutory establishment year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on appointee name, nominating body (FSIB / ACC), predecessor, tenure duration, and statutory establishment year."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 2,
+      "code": "SEC2",
+      "name": "REGULATORY BODIES NEWS",
+      "emoji": "🏛️",
+      "fullName": "2. 🏛️ REGULATORY BODIES NEWS"
+    },
+    "hook": "🪝 PFRDA Constitutes 'ASCEND' Committee to Attract Global Pension Capital",
+    "examAngle": "🎯 Exam Angle → Focus on appointee name, nominating body (FSIB / ACC), predecessor, tenure duration, and statutory establishment year.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-07-13"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-13",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:29.731Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-249",
+      "sourceTitle": "PFRDA Constitutes 'ASCEND' Committee to Attract Global Pension Capital",
+      "sourceChecksum": "cf9b7cedeba5f47dc085d63064d2f1c488f41a2cfe13a399e0350ee80c5294cc",
+      "migrationTimestamp": "2026-08-15T12:14:29.731Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

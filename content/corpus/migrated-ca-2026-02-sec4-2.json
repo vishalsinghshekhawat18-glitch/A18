@@ -1,13 +1,24 @@
 {
   "id": "migrated-ca-2026-02-sec4-2",
+  "title": "New START Treaty Expiry — Last Major US–Russia Nuclear Arms Control Accord",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "India Joins 'Pax Silica' Coalition as 10th Full Member",
-  "summary": "India signs on to Pax Silica coalition at India AI Impact Summit alongside Microsoft's $17.5 billion AI investment.",
+  "summary": "2010 New START treaty (Medvedev-Obama, 1,550 warhead cap) expired on Feb 5, 2026.",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "India joined **'Pax Silica' as its 10th full member** to secure global semiconductor and AI supply chains, coinciding with **Microsoft's $17.5 billion AI infrastructure investment** in India."
+      "content": "**Overview**: 2010 New START treaty (Medvedev-Obama, 1,550 warhead cap) expired on Feb 5, 2026."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**New START nuclear arms treaty between US and Russia expires** (Page 64): 2010 New START treaty (Medvedev-Obama, 1,550 warhead cap) expired on Feb 5, 2026."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Strategic Global Nuclear Arms Control. Medvedev-Obama nuclear arms reduction treaty expired Feb 5, 2026."
     }
   ],
   "metadata": {
@@ -17,22 +28,36 @@
       "SBI PO"
     ],
     "tags": [
-      "sec6",
+      "sec4",
       "Current Affairs 2026",
-      "February 2026"
+      "February 2026",
+      "TIER_B_PLUS"
     ],
     "date": "2026-02-15",
-    "category": "SEC6",
+    "category": "SEC4",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "lastUpdated": "2026-08-18T17:42:36.835Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "Feb2026.pdf",
-      "sourceId": "migrated-ca-2026-02-sec4-2",
-      "sourceTitle": "India Joins 'Pax Silica' Coalition as 10th Full Member",
-      "sourceChecksum": "b595a2e02b74f5d234a441018f45bc24e74935a4cdf36136519dc0fdb2e9615f",
-      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
-      "normalizationRuleVersion": "1.0.0-feb2026"
-    }
-  }
+      "sourceId": "emu-new-start-nuclear-treaty-expiry",
+      "sourceTitle": "New START Treaty Expiry — Last Major US–Russia Nuclear Arms Control Accord",
+      "provenancePages": [
+        64
+      ],
+      "constituentArticleCount": 1,
+      "migrationTimestamp": "2026-08-18T17:42:36.835Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_B_PLUS",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 85
+  },
+  "relationships": []
 }

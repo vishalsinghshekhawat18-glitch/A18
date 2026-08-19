@@ -1,0 +1,74 @@
+{
+  "id": "migrated-ca-2026-03-sec10-5",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "PM-KISAN 22nd Instalment Released — ₹18,640 Crore to 9.32 Crore Farmers",
+  "summary": "PM Modi releases 22nd PM-KISAN instalment from Guwahati, taking total cumulative transfers past ₹4.27 lakh crore.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 PM-KISAN 22nd Instalment Released — ₹18,640 Crore to 9.32 Crore Farmers. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "PM Modi released the **22nd PM-KISAN instalment of ₹18,640+ crore** to 9.32+ crore farmer families, pushing cumulative transfers to **₹4.27 lakh crore**.",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
+    }
+  ],
+  "intelligence": {
+    "zone": "LIGHT_TOUCH",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 10,
+      "code": "SEC10",
+      "name": "MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "emoji": "📌",
+      "fullName": "10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC"
+    },
+    "hook": "🪝 PM-KISAN 22nd Instalment Released — ₹18,640 Crore to 9.32 Crore Farmers",
+    "examAngle": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-03-15"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec10",
+      "Current Affairs 2026",
+      "March 2026"
+    ],
+    "date": "2026-03-15",
+    "category": "SEC10",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T11:13:16.778Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "march2026_lighttouch.pdf",
+      "sourceId": "migrated-ca-2026-03-sec10-5",
+      "sourceTitle": "PM-KISAN 22nd Instalment Released — ₹18,640 Crore to 9.32 Crore Farmers",
+      "sourceChecksum": "5cb1216f4971262e755efd0731d8707a0f572a015392037189f6a39c0c986a4a",
+      "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+      "normalizationRuleVersion": "1.0.0-mar2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "LIGHT_TOUCH",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "emu-sebi-aif-exit-isin-reporting",
+  "title": "SEBI Alternative Investment Funds (AIF) — Exit Flexibility & ISIN-Level NAV",
+  "category": "SEC2",
+  "tier": "TIER_B_PLUS",
+  "theme": "Alternative Investment Fund Regulation",
+  "summary": "SEBI proposed allowing AIFs to retain funds beyond permissible fund life for ongoing tax/litigation demands with 75% investor consent by value, capped at 3 years.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "**Overview**: SEBI proposed allowing AIFs to retain funds beyond permissible fund life for ongoing tax/litigation demands with 75% investor consent by value, capped at 3 years."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**SEBI proposes exit flexibility for Alternative Investment Funds (AIFs)** (Page 8): SEBI proposed allowing AIFs to retain funds beyond permissible fund life for ongoing tax/litigation demands with 75% investor consent by value, capped at 3 years.",
+        "**SEBI Tightens AIF Disclosure Norms; Mandates ISIN-Level NAV Reporting** (Page 16): SEBI mandated AIFs to upload scheme-wise NAV data at ISIN level directly to depositories within 30 days."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Alternative Investment Fund Regulation. 75% investor consent for fund extension and ISIN depository uploads."
+    }
+  ],
+  "metadata": {
+    "provenancePages": [
+      8,
+      16
+    ],
+    "constituentArticleCount": 2,
+    "provenanceArticleIds": [
+      "cgb-art-22",
+      "cgb-art-40"
+    ],
+    "statutoryConcept": "Alternative Investment Fund Regulation",
+    "whyStandalone": "75% investor consent for fund extension and ISIN depository uploads."
+  }
+}

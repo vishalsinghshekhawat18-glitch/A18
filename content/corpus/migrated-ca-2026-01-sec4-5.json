@@ -1,0 +1,63 @@
+{
+  "id": "migrated-ca-2026-01-sec4-5",
+  "title": "🌐 US Executive Order — Withdrawal from 66 International Bodies Including ISA & WHO",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "summary": "US President Donald Trump issued executive order withdrawing US from 66 international bodies, including Gurugram-based ISA and WHO.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "**Overview**: US President Donald Trump issued executive order withdrawing US from 66 international bodies, including Gurugram-based ISA and WHO."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**United States Withdraws from International Solar Alliance (ISA) and WHO under Trump EO** (Page 95): US President Donald Trump issued executive order withdrawing US from 66 international bodies, including Gurugram-based ISA and WHO."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Geopolitical Multilateral Disengagement. US exits Gurugram-based International Solar Alliance (1,000 GW target), WHO, and Paris Agreement for the 2nd time."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026",
+      "January 2026",
+      "TIER_B_PLUS"
+    ],
+    "date": "2026-01-15",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-19T02:37:59.681Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Jan2026.pdf",
+      "sourceId": "emu-jan-us-treaty-withdrawals-isa-who",
+      "sourceTitle": "🌐 US Executive Order — Withdrawal from 66 International Bodies Including ISA & WHO",
+      "provenancePages": [
+        95
+      ],
+      "constituentArticleCount": 1,
+      "migrationTimestamp": "2026-08-19T02:37:59.681Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_B_PLUS",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 85
+  },
+  "relationships": []
+}

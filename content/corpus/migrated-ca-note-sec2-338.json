@@ -1,30 +1,27 @@
 {
   "id": "migrated-ca-note-sec2-338",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Drugs Rules 1945 Amended: High-Alcohol Formulations (>12% v/v) Moved to Schedule H1",
+  "type": "ca_note",
   "summary": "Restricts over-the-counter sale of high-alcohol tinctures to prescription-only Registered Medical Practitioners.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Restricts over-the-counter sale of high-alcohol tinctures to prescription-only Registered Medical Practitioners."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 Drugs Rules 1945 Amended: High-Alcohol Formulations (>12% v/v) Moved to Schedule H1. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Restricts over-the-counter sale of high-alcohol tinctures to prescription-only Registered Medical Practitioners.",
         "Licensing Mandate: Formulations containing >12% v/v ethyl alcohol in quantities >30 mL removed from Schedule K exemption.",
-        "Schedule H1 Shift: Moved to Schedule H1 under Drugs Rules 1945 requiring mandatory prescription and record-keeping."
+        "Schedule H1 Shift: Moved to Schedule H1 under Drugs Rules 1945 requiring mandatory prescription and record-keeping.",
+        "Schedule K exemption removal threshold (>12% v/v ethyl alcohol & >30 mL quantity).",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Drugs and Cosmetics Act 1940 regulates drug manufacturing and licensing in India."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Schedule K exemption removal threshold (>12% v/v ethyl alcohol & >30 mL quantity)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -38,7 +35,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-07-21",
-    "category": "SEC2",
+    "category": "SEC6",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:16:51.763Z",
     "provenance": {
@@ -49,6 +46,16 @@
       "sourceChecksum": "54190037af4cbfebf8dfb8e3d9da96dc8937592cf742bc9ea14ff3116fff6c3d",
       "migrationTimestamp": "2026-08-15T12:16:51.763Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 82
   }
 }

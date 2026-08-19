@@ -1,20 +1,31 @@
 {
   "id": "migrated-ca-2026-04-sec3-13",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "RBI Unveiled 'Utkarsh 2029' Strategy Framework for FY26-29",
-  "summary": "RBI medium-term roadmap sets 49 deliverables across 6 pillars, including an indigenous AI framework and central bank digital currency (CBDC) expansion.",
+  "type": "ca_note",
+  "summary": "RBI medium-term roadmap sets 49 deliverables across 6 pillars, including an indigenous AI framework and central bank digital currency (CBDC (central bank digital sovereign currency)) expansion.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "RBI Governor unveiled **'Utkarsh 2029'**, the central bank's medium-term strategy framework covering FY2026-29 with 49 specific deliverables."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 RBI Unveiled 'Utkarsh 2029' Strategy Framework for FY26-29. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "RBI Governor unveiled **'Utkarsh 2029'**, the central bank's medium-term strategy framework covering FY2026-29 with 49 specific deliverables.",
         "**6 Pillars**: Robust Regulations, Customer Centricity, Competitive Markets, Effective Technology, Future-Ready Organisation, and Global Integration.",
-        "**AI & LLM**: Development of an indigenous central-bank-specific LLM tool and an AI regulatory framework for financial institutions."
+        "**AI & LLM**: Development of an indigenous central-bank-specific LLM tool and an AI regulatory framework for financial institutions.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -29,7 +40,7 @@
       "April 2026"
     ],
     "date": "2026-04-15",
-    "category": "SEC3",
+    "category": "SEC2",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-16T15:38:14.789Z",
     "provenance": {
@@ -40,6 +51,16 @@
       "sourceChecksum": "8e2cd69443240df57d0c742fcd0867eb0037fae5d81011646cf4f14dfc0fb5be",
       "migrationTimestamp": "2026-08-16T15:38:14.789Z",
       "normalizationRuleVersion": "1.0.0-apr2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

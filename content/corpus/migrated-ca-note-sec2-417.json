@@ -1,31 +1,28 @@
 {
   "id": "migrated-ca-note-sec2-417",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "DGFT Mandates Import Licensing for 4 Specific Silver Categories",
+  "type": "ca_note",
   "summary": "Restricts silver powder, grains, and 99.9% silver imports to valid DGFT authorization.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Restricts silver powder, grains, and 99.9% silver imports to valid DGFT authorization."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 DGFT Mandates Import Licensing for 4 Specific Silver Categories. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Restricts silver powder, grains, and 99.9% silver imports to valid DGFT authorization.",
         "Silver Restriction: Requires DGFT Import Authorisation for silver powder (71061000), silver grains (71069110), 99.9% silver (71069120), and other silver (71069190).",
         "Nominated Agencies: RBI and DGFT notified agencies, as well as IFSCA-notified jewellers on IIBX, must secure DGFT licences.",
-        "Forex Conservation: Designed to curb excessive silver imports and reduce trade deficit pressure."
+        "Forex Conservation: Designed to curb excessive silver imports and reduce trade deficit pressure.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "DGFT (Directorate General of Foreign Trade) Director General: Lav Aggarwal."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -50,6 +47,16 @@
       "sourceChecksum": "8566950521bb5fbe2586a164f592827ae4a9e87dca51a89dc299b6c9086e8464",
       "migrationTimestamp": "2026-08-15T12:18:39.842Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

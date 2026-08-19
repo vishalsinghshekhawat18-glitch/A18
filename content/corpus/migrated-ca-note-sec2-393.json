@@ -1,30 +1,32 @@
 {
   "id": "migrated-ca-note-sec2-393",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "RBI Exempts Fresh 3-5 Year FCNR(B) Deposits from CRR and SLR Maintenance",
+  "type": "ca_note",
   "summary": "Temporarily removes reserve requirements on fresh FCNR(B) deposits to boost dollar inflows till Sept 30, 2026.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Temporarily removes reserve requirements on fresh FCNR(B) deposits to boost dollar inflows till Sept 30, 2026."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 RBI Exempts Fresh 3-5 Year FCNR(B) Deposits from CRR and SLR Maintenance. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Temporarily removes reserve requirements on fresh FCNR(B) deposits to boost dollar inflows till Sept 30, 2026.",
         "Reserve Exemption: Fresh FCNR(B) deposits (tenor 3 to 5 years) mobilized between June 8 and Sept 30, 2026 exempted from CRR and SLR.",
-        "USD-INR Forex Swap: Introduced US Dollar-Rupee Forex Swap facility for PSU ECBs and bank OFCBs (min 3-yr tenor, up to 5 yrs) at 1.5% p.a."
+        "USD-INR Forex Swap: Introduced US Dollar-Rupee Forex Swap facility for PSU ECBs and bank OFCBs (min 3-yr tenor, up to 5 yrs) at 1.5% p.a.",
+        "FCNR(B) reserve exemption deposit tenor (3 to 5 years) vs swap facility rate (1.5% p.a.).",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
       "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "CRR under Sec 42(1) RBI Act; SLR under Sec 24 Banking Regulation Act."
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "FCNR(B) reserve exemption deposit tenor (3 to 5 years) vs swap facility rate (1.5% p.a.)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -49,6 +51,16 @@
       "sourceChecksum": "e28b12ea0eeccc5ac54678c11a9c89282aba3b857bb5d1042f95330cdd1faa6b",
       "migrationTimestamp": "2026-08-15T12:18:04.452Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

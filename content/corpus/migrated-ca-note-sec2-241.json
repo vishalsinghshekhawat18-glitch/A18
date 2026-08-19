@@ -1,32 +1,29 @@
 {
   "id": "migrated-ca-note-sec2-241",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "CBDT Reporting Thresholds for High-Value SFT Financial Transactions",
+  "type": "ca_note",
   "summary": "Mandates bank and financial institution reporting for high-value cash deposits and credit card payments.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Mandates bank and financial institution reporting for high-value cash deposits and credit card payments."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 CBDT Reporting Thresholds for High-Value SFT Financial Transactions. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Mandates bank and financial institution reporting for high-value cash deposits and credit card payments.",
         "Savings Account Cash: Cash deposits ≥ ₹10 lakh in a FY.",
         "Current Account Cash: Cash deposits/withdrawals ≥ ₹50 lakh in a FY.",
         "Credit Cards: Cash payments ≥ ₹1 lakh or total payments ≥ ₹10 lakh in a FY.",
-        "Investments & Property: FDs/Mutual Funds/Bonds ≥ ₹10 lakh; Immovable property purchase/sale > ₹30 lakh."
+        "Investments & Property: FDs/Mutual Funds/Bonds ≥ ₹10 lakh; Immovable property purchase/sale > ₹30 lakh.",
+        "Savings account cash SFT limit (₹10 lakh) vs Current account limit (₹50 lakh).",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Statement of Financial Transactions (SFT) filed under Section 285BA of Income Tax Act."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Savings account cash SFT limit (₹10 lakh) vs Current account limit (₹50 lakh)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -40,7 +37,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-07-05",
-    "category": "SEC2",
+    "category": "SEC3",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:14:29.731Z",
     "provenance": {
@@ -51,6 +48,16 @@
       "sourceChecksum": "1f38a33a8794378f64af350a97c63dc3594c9ea3b0f1796b9b653e11c55adac2",
       "migrationTimestamp": "2026-08-15T12:14:29.731Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

@@ -1,21 +1,27 @@
 {
   "id": "migrated-ca-note-sec6-138",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "R Praggnanandhaa Wins St. Louis Rapid & Blitz 2026 Chess Tournament",
+  "type": "ca_note",
   "summary": "Indian Grandmaster defeats Javokhir Sindarov (Uzbekistan).",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Indian Grandmaster defeats Javokhir Sindarov (Uzbekistan)."
+      "type": "warning_banner",
+      "title": "📰 6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS",
+      "text": "🪝 R Praggnanandhaa Wins St. Louis Rapid & Blitz 2026 Chess Tournament. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Indian Grandmaster defeats Javokhir Sindarov (Uzbekistan).",
         "Indian Grandmaster R Praggnanandhaa won the St.",
         "Louis Rapid & Blitz 2026 chess tournament in Missouri, US.",
-        "Defeated Alireza Firouzja and Fabiano Caruana in tie-breaks."
+        "Defeated Alireza Firouzja and Fabiano Caruana in tie-breaks.",
+        "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
       ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
     }
   ],
   "metadata": {
@@ -40,6 +46,16 @@
       "sourceChecksum": "69d4add636f446910b9af1c8e08d01dac5c8d7102663a09857d083d1cbaff7fe",
       "migrationTimestamp": "2026-08-15T12:12:07.934Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "sectionNumber": 6,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

@@ -1,0 +1,84 @@
+{
+  "id": "migrated-ca-note-sec2-245",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Revamped Integrated Ombudsman Scheme 2026 Takes Effect (Replaces 2021 Rules)",
+  "summary": "Increases compensation cap for consequential losses to ₹30 lakh plus ₹3 lakh for time loss.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 RBI Revamped Integrated Ombudsman Scheme 2026 Takes Effect (Replaces 2021 Rules). Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Increases compensation cap for consequential losses to ₹30 lakh plus ₹3 lakh for time loss.",
+        "Complaint Escalation: 30-day RE response window; 90-day RBI Ombudsman escalation window.",
+        "Compensation Caps: Up to ₹30 lakh for consequential financial losses; up to ₹3 lakh for harassment and time loss.",
+        "Consequential loss compensation cap (₹30 lakh) vs harassment/time loss cap (₹3 lakh).",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 2,
+      "code": "SEC2",
+      "name": "REGULATORY BODIES NEWS",
+      "emoji": "🏛️",
+      "fullName": "2. 🏛️ REGULATORY BODIES NEWS"
+    },
+    "hook": "🪝 RBI Revamped Integrated Ombudsman Scheme 2026 Takes Effect (Replaces 2021 Rules)",
+    "examAngle": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks.",
+    "staticGK": {
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-07-09"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-09",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:29.731Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-245",
+      "sourceTitle": "RBI Revamped Integrated Ombudsman Scheme 2026 Takes Effect (Replaces 2021 Rules)",
+      "sourceChecksum": "26fcdbc493045e016c8cfea537918a44e7c6f17aa4fd588795290c57c1867ecb",
+      "migrationTimestamp": "2026-08-15T12:14:29.731Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

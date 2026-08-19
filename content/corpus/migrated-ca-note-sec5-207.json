@@ -1,47 +1,28 @@
 {
   "id": "migrated-ca-note-sec5-207",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Microsoft, Lightstorm, Singtel, & Tata Comms Partner to Build 'I-2SEA' Undersea Cable",
+  "type": "ca_note",
   "summary": "Links India with Malaysia and Singapore to expand regional AI and cloud data centre connectivity.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Links India with Malaysia and Singapore to expand regional AI and cloud data centre connectivity."
+      "type": "warning_banner",
+      "title": "📰 5. 🤝 MoUs, CONFERENCES & APPOINTMENTS",
+      "text": "🪝 Microsoft, Lightstorm, Singtel, & Tata Comms Partner to Build 'I-2SEA' Undersea Cable. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Links India with Malaysia and Singapore to expand regional AI and cloud data centre connectivity.",
         "Consortium Partners: Lightstorm, Microsoft, Singtel, and Tata Communications.",
         "Landing Points in India: Machilipatnam (Andhra Pradesh) and South Chennai (Tamil Nadu).",
-        "System Suppliers: NEC Corporation appointed system supplier; ASEAN Cableship Pte Ltd (ACPL) marine partner."
+        "System Suppliers: NEC Corporation appointed system supplier; ASEAN Cableship Pte Ltd (ACPL) marine partner.",
+        "Landing points (Machilipatnam & Chennai) vs international hubs (Kuala Lumpur & Singapore).",
+        "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Appointee / Official",
-        "New Position & Organization",
-        "Key Context & Details"
-      ],
-      "rows": [
-        [
-          "Microsoft, Lightstorm, Singtel, & Tata Comms Partner to Build 'I-2SEA' Undersea Cable",
-          "Official Appointment",
-          "Consortium Partners: Lightstorm, Microsoft, Singtel, and Tata Communications."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Singtel HQ: Singapore | Tata Communications HQ: Mumbai | NEC Corporation HQ: Tokyo, Japan."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Landing points (Machilipatnam & Chennai) vs international hubs (Kuala Lumpur & Singapore)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
     }
   ],
   "metadata": {
@@ -66,6 +47,16 @@
       "sourceChecksum": "15d4a4d5d1855a000f3687b08ebee0144680da749d4ebe8b9fd3aea9f8bec5eb",
       "migrationTimestamp": "2026-08-15T12:13:47.645Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC5",
+    "sectionNumber": 5,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

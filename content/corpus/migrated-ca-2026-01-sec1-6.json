@@ -1,20 +1,24 @@
 {
   "id": "migrated-ca-2026-01-sec1-6",
+  "title": "💰 Periodic Labour Force Survey — 4.8% Unemployment Rate & 56.1% LFPR in December 2025",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "India's First Tailings Policy Launched by Ministry of Mines",
-  "summary": "First-ever framework to mine old mining waste for critical minerals like lithium, cobalt, nickel, and rare earth elements.",
+  "summary": "LFPR for age 15+ reached 56.1% in Dec 2025 (female LFPR 35.3%, worker population ratio 53.4%). Overall unemployment stood at 4.8%; urban female unemployment dropped to 9.1%.",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "Ministry of Mines launched India's **first 'Tailings Policy'**, aiming to extract critical minerals (lithium, cobalt, nickel, rare earths, germanium, indium) from old mining waste and red mud dumps."
+      "content": "**Overview**: LFPR for age 15+ reached 56.1% in Dec 2025 (female LFPR 35.3%, worker population ratio 53.4%). Overall unemployment stood at 4.8%; urban female unemployment dropped to 9.1%."
     },
     {
       "type": "bullet_list",
       "items": [
-        "**Agencies**: Indian Bureau of Mines (IBM), Central Mine Planning & Design Institute (CMPDI), Atomic Minerals Directorate (AMD).",
-        "**Method**: 'Companionality' analysis to quantify recoverable content in overburden dumps and slags."
+        "**Periodic Labour Force Survey: India Unemployment Rate at 4.8% in Dec 2025** (Page 5): LFPR for age 15+ reached 56.1% in Dec 2025 (female LFPR 35.3%, worker population ratio 53.4%). Overall unemployment stood at 4.8%; urban female unemployment dropped to 9.1%."
       ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under National Employment & Labour Dynamics. Core MoSPI employment benchmarks: LFPR 56.1%, worker population ratio 53.4%, and urban female unemployment at 9.1%."
     }
   ],
   "metadata": {
@@ -24,22 +28,36 @@
       "SBI PO"
     ],
     "tags": [
-      "sec3",
+      "sec1",
       "Current Affairs 2026",
-      "January 2026"
+      "January 2026",
+      "TIER_B_PLUS"
     ],
-    "date": "2026-01-26",
-    "category": "SEC3",
+    "date": "2026-01-15",
+    "category": "SEC1",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "lastUpdated": "2026-08-19T02:37:59.667Z",
     "provenance": {
       "sourceSystem": "CA",
-      "sourceFile": "January_26.pdf",
-      "sourceId": "migrated-ca-2026-01-sec1-6",
-      "sourceTitle": "India's First Tailings Policy Launched by Ministry of Mines",
-      "sourceChecksum": "142b459805ccd811c18ec08d78868607d9f834a2b1ac6804cde17a4fe8eb4532",
-      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
-      "normalizationRuleVersion": "1.0.0-jan2026"
-    }
-  }
+      "sourceFile": "Jan2026.pdf",
+      "sourceId": "emu-jan-plfs-employment-trends",
+      "sourceTitle": "💰 Periodic Labour Force Survey — 4.8% Unemployment Rate & 56.1% LFPR in December 2025",
+      "provenancePages": [
+        5
+      ],
+      "constituentArticleCount": 1,
+      "migrationTimestamp": "2026-08-19T02:37:59.667Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_B_PLUS",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 85
+  },
+  "relationships": []
 }

@@ -1,29 +1,31 @@
 {
   "id": "migrated-ca-note-sec2-111",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Regulators Consider Bringing Insurance Surety Bonds Under RBI's CRILC Database",
+  "type": "ca_note",
   "summary": "Enhances systemic credit risk monitoring across non-bank surety guarantees.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Enhances systemic credit risk monitoring across non-bank surety guarantees."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 Regulators Consider Bringing Insurance Surety Bonds Under RBI's CRILC Database. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
-        "CRILC Scope: Database maintained by RBI monitoring aggregate borrower credit exposures of ₹5 crore and above."
+        "Enhances systemic credit risk monitoring across non-bank surety guarantees.",
+        "CRILC Scope: Database maintained by RBI monitoring aggregate borrower credit exposures of ₹5 crore and above.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
       "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "First digital insurance surety bond launched by National E-Governance Services Ltd & New India Assurance."
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -48,6 +50,16 @@
       "sourceChecksum": "72801356a231ca161bc7219dcd80ec3a94cf243ad3189c59f2f799dc1d7bb446",
       "migrationTimestamp": "2026-08-15T12:11:38.419Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

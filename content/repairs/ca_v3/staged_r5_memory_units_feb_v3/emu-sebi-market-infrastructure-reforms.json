@@ -1,0 +1,71 @@
+{
+  "unitId": "emu-sebi-market-infrastructure-reforms",
+  "title": "🏛️ SEBI Market Reforms — SWP/STP in Demat, AIF Exit Flexibility & ETF Price Bands",
+  "category": "SEC2",
+  "tier": "TIER_A",
+  "theme": "Capital Market Regulation & Investor Protection",
+  "leadArticleId": "cgb-art-20",
+  "constituentCount": 5,
+  "provenancePages": [
+    7,
+    8,
+    14,
+    16
+  ],
+  "provenanceArticleIds": [
+    "cgb-art-20",
+    "cgb-art-21",
+    "cgb-art-22",
+    "cgb-art-37",
+    "cgb-art-40"
+  ],
+  "mivScore": 125,
+  "executiveSummary": "SEBI proposed allowing standing instructions for Systematic Withdrawal Plans (SWP) and Systematic Transfer Plans (STP) for demat mutual fund units.",
+  "masterKeyFacts": [
+    "SEBI proposed allowing standing instructions for Systematic Withdrawal Plans (SWP) and Systematic Transfer Plans (STP) for demat mutual fund units.",
+    "SEBI proposed reducing Z-score for historical stress testing in commodity derivatives from 10 to 5, revising Core Settlement Guarantee Fund coverage to top 3 defaults.",
+    "SEBI proposed allowing AIFs to retain funds beyond permissible fund life for ongoing tax/litigation demands with 75% investor consent by value, capped at 3 years.",
+    "SEBI proposed shifting ETF base price from T-2 closing NAV to T-1 data/iNAV with dynamic price bands (10-20% equity/debt, 6-20% gold/silver, 5% overnight).",
+    "SEBI mandated AIFs to upload scheme-wise NAV data at ISIN level directly to depositories within 30 days."
+  ],
+  "subEvents": [
+    {
+      "title": "SEBI proposal for SWP and STP in demat mutual funds",
+      "page": 7,
+      "facts": [
+        "SEBI proposed allowing standing instructions for Systematic Withdrawal Plans (SWP) and Systematic Transfer Plans (STP) for demat mutual fund units."
+      ]
+    },
+    {
+      "title": "SEBI eases SGF rules for commodity derivatives clearing houses",
+      "page": 7,
+      "facts": [
+        "SEBI proposed reducing Z-score for historical stress testing in commodity derivatives from 10 to 5, revising Core Settlement Guarantee Fund coverage to top 3 defaults."
+      ]
+    },
+    {
+      "title": "SEBI proposes exit flexibility for Alternative Investment Funds (AIFs)",
+      "page": 8,
+      "facts": [
+        "SEBI proposed allowing AIFs to retain funds beyond permissible fund life for ongoing tax/litigation demands with 75% investor consent by value, capped at 3 years."
+      ]
+    },
+    {
+      "title": "SEBI floats proposal to revamp ETF price band framework",
+      "page": 14,
+      "facts": [
+        "SEBI proposed shifting ETF base price from T-2 closing NAV to T-1 data/iNAV with dynamic price bands (10-20% equity/debt, 6-20% gold/silver, 5% overnight)."
+      ]
+    },
+    {
+      "title": "SEBI Tightens AIF Disclosure Norms; Mandates ISIN-Level NAV Reporting",
+      "page": 16,
+      "facts": [
+        "SEBI mandated AIFs to upload scheme-wise NAV data at ISIN level directly to depositories within 30 days."
+      ]
+    }
+  ],
+  "statutoryProvisions": [],
+  "examAngle": "🎯 Exam Angle → Focus on exact statutory limits, financial outlays, and regulatory frameworks.",
+  "whyStandaloneJustification": "Core SEBI framework changes for demat mutual fund standing instructions, AIF winding up, and dynamic ETF bands."
+}

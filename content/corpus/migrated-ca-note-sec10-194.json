@@ -1,31 +1,28 @@
 {
   "id": "migrated-ca-note-sec10-194",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Cabinet Approves ₹5,070 Crore 'Pradhan Mantri Surya Sarovar Yojana (PM-SSY)' for Floating Solar",
+  "type": "ca_note",
   "summary": "Integrates 5,000 MW floating solar capacity with 10,000 MWh Energy Storage Systems across inland water bodies.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Integrates 5,000 MW floating solar capacity with 10,000 MWh Energy Storage Systems across inland water bodies."
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 Cabinet Approves ₹5,070 Crore 'Pradhan Mantri Surya Sarovar Yojana (PM-SSY)' for Floating Solar. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Integrates 5,000 MW floating solar capacity with 10,000 MWh Energy Storage Systems across inland water bodies.",
         "Storage & Generation Cap: 5,000 MW floating solar capacity with 2-hour minimum battery storage (10,000 MWh storage capacity).",
         "Financial Incentive: Central Financial Assistance of ₹1 crore per MW post-commissioning plus ₹50 lakh per project for feasibility studies.",
-        "National Potential: National Institute of Solar Energy (NISE) estimates floating solar potential at 102.18 GWp across reservoirs."
+        "National Potential: National Institute of Solar Energy (NISE) estimates floating solar potential at 102.18 GWp across reservoirs.",
+        "PM-SSY financial outlay (₹5,070 crore) vs Central Financial Assistance (₹1 crore per MW).",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "MNRE Minister: Pralhad Joshi | Current installed floating solar capacity in India is ~700 MW."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "PM-SSY financial outlay (₹5,070 crore) vs Central Financial Assistance (₹1 crore per MW)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
     }
   ],
   "metadata": {
@@ -50,6 +47,16 @@
       "sourceChecksum": "457bba5f0fcc2f93b9b639b3be02c714d763e9e5dfa81d32c978d9f9c175670f",
       "migrationTimestamp": "2026-08-15T12:13:11.200Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

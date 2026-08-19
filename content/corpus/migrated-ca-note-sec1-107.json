@@ -1,26 +1,33 @@
 {
   "id": "migrated-ca-note-sec1-107",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "EPFO Highlights 3-Year Inactivity Window for Inoperative Provident Fund Accounts",
+  "type": "ca_note",
   "summary": "Ensures timely subscriber fund withdrawals post-retirement or overseas migration.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Ensures timely subscriber fund withdrawals post-retirement or overseas migration."
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 EPFO Highlights 3-Year Inactivity Window for Inoperative Provident Fund Accounts. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Ensures timely subscriber fund withdrawals post-retirement or overseas migration.",
         "Inoperative Timeline: EPF accounts become inoperative 3 years after retirement, permanent migration, or member death.",
         "Interest Accrual: Retiring before age 55 allows interest accrual until age 58.",
-        "Unique Identifiers: EPF Member ID is 22-digit alphanumeric; UAN is permanent 12-digit universal ID."
+        "Unique Identifiers: EPF Member ID is 22-digit alphanumeric; UAN is permanent 12-digit universal ID.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on 8.25% annual interest rate, Central Board of Trustees (CBT) decision, and wage ceiling limit (₹15,000)."
       ]
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "EPFO Established: 4 March 1952 (EPF Act 1952) · Nodal Ministry: Ministry of Labour & Employment · HQ: New Delhi"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on 8.25% annual interest rate, Central Board of Trustees (CBT) decision, and wage ceiling limit (₹15,000)."
     }
   ],
   "metadata": {
@@ -34,7 +41,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-08-06",
-    "category": "SEC1",
+    "category": "SEC3",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:11:38.419Z",
     "provenance": {
@@ -45,6 +52,16 @@
       "sourceChecksum": "9fcb50f29ed94bd5ac32b4b80e2b2b5f02fa74375c45fa1a963bdd757133eed6",
       "migrationTimestamp": "2026-08-15T12:11:38.419Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 88
   }
 }

@@ -1,0 +1,82 @@
+{
+  "id": "migrated-ca-note-sec2-26",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SEBI Appoints Prasanta Mahapatra as Executive Director",
+  "summary": "SEBI Appoints Prasanta Mahapatra as Executive Director",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 SEBI Appoints Prasanta Mahapatra as Executive Director. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Prasanta Mahapatra appointed Executive Director at markets regulator SEBI.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "SEBI Established: 12 April 1992 (SEBI Act 1992) · HQ: Mumbai · Regulatory Scope: Securities & Capital Markets"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 2,
+      "code": "SEC2",
+      "name": "REGULATORY BODIES NEWS",
+      "emoji": "🏛️",
+      "fullName": "2. 🏛️ REGULATORY BODIES NEWS"
+    },
+    "hook": "🪝 SEBI Appoints Prasanta Mahapatra as Executive Director",
+    "examAngle": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks.",
+    "staticGK": {
+      "summary": "SEBI Established: 12 April 1992 (SEBI Act 1992) · HQ: Mumbai · Regulatory Scope: Securities & Capital Markets"
+    },
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-08-05"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:02.256Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-26",
+      "sourceTitle": "SEBI Appoints Prasanta Mahapatra as Executive Director",
+      "sourceChecksum": "eedc7097ab5219097bf4c5077f9a071f2edc76e44cfc7f6cf2eb690b2f1228fc",
+      "migrationTimestamp": "2026-08-15T12:10:02.256Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

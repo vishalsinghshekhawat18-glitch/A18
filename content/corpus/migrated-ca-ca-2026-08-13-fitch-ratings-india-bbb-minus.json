@@ -1,29 +1,26 @@
 {
   "id": "migrated-ca-ca-2026-08-13-fitch-ratings-india-bbb-minus",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Fitch Ratings Affirms India's Sovereign Rating at 'BBB-' with Stable Outlook",
+  "type": "ca_note",
   "summary": "Fitch Ratings affirmed India's sovereign rating at 'BBB-' with stable outlook, citing robust growth and fiscal stability.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Fitch Ratings affirmed India's sovereign rating at 'BBB-' with stable outlook, citing robust growth and fiscal stability."
+      "type": "warning_banner",
+      "title": "📰 3. 🏦 BANKING & INSURANCE NEWS",
+      "text": "🪝 Fitch Ratings Affirms India's Sovereign Rating at 'BBB-' with Stable Outlook. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
-        "**Sovereign Rating:** Affirmed at **'BBB-' with Stable Outlook**."
+        "Fitch Ratings affirmed India's sovereign rating at 'BBB-' with stable outlook, citing robust growth and fiscal stability.",
+        "**Sovereign Rating:** Affirmed at **'BBB-' with Stable Outlook**.",
+        "≠ **Rating Grade:** BBB- (Investment Grade).",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Big Three Credit Rating Agencies: S&P, Moody's, Fitch."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "≠ **Rating Grade:** BBB- (Investment Grade)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
     }
   ],
   "metadata": {
@@ -48,6 +45,16 @@
       "sourceChecksum": "ade38eae4b843854452e521c94b7e3afc483490aa6e127abfcc86daaaa084cf0",
       "migrationTimestamp": "2026-08-15T12:14:01.063Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC3",
+    "sectionNumber": 3,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

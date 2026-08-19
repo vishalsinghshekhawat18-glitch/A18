@@ -1,0 +1,36 @@
+{
+  "id": "emu-jan-plfs-employment-trends",
+  "title": "💰 Periodic Labour Force Survey — 4.8% Unemployment Rate & 56.1% LFPR in December 2025",
+  "category": "SEC1",
+  "tier": "TIER_B_PLUS",
+  "theme": "National Employment & Labour Dynamics",
+  "summary": "LFPR for age 15+ reached 56.1% in Dec 2025 (female LFPR 35.3%, worker population ratio 53.4%). Overall unemployment stood at 4.8%; urban female unemployment dropped to 9.1%.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "**Overview**: LFPR for age 15+ reached 56.1% in Dec 2025 (female LFPR 35.3%, worker population ratio 53.4%). Overall unemployment stood at 4.8%; urban female unemployment dropped to 9.1%."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Periodic Labour Force Survey: India Unemployment Rate at 4.8% in Dec 2025** (Page 5): LFPR for age 15+ reached 56.1% in Dec 2025 (female LFPR 35.3%, worker population ratio 53.4%). Overall unemployment stood at 4.8%; urban female unemployment dropped to 9.1%."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under National Employment & Labour Dynamics. Core MoSPI employment benchmarks: LFPR 56.1%, worker population ratio 53.4%, and urban female unemployment at 9.1%."
+    }
+  ],
+  "metadata": {
+    "provenancePages": [
+      5
+    ],
+    "constituentArticleCount": 1,
+    "provenanceArticleIds": [
+      "jan-art-12"
+    ],
+    "statutoryConcept": "National Employment & Labour Dynamics",
+    "whyStandalone": "Core MoSPI employment benchmarks: LFPR 56.1%, worker population ratio 53.4%, and urban female unemployment at 9.1%."
+  }
+}

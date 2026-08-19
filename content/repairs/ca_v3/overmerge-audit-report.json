@@ -1,0 +1,893 @@
+{
+  "version": "1.0.0-overmerge-audit",
+  "timestamp": "2026-08-18T17:28:58.257Z",
+  "totalMemoryUnitsAudited": 32,
+  "coherentCount": 26,
+  "borderlineCount": 2,
+  "overmergedCount": 4,
+  "candidateSplits": [
+    {
+      "parentUnitId": "emu-apex-global-indices-reports",
+      "proposedSplits": [
+        {
+          "title": "🏆 Network Readiness Index 2025 (India Ranks 45th / Portulans)",
+          "reason": "Digital & ICT Readiness Benchmark"
+        },
+        {
+          "title": "🏆 Corruption Perceptions Index 2025 (India Ranks 91st / TI)",
+          "reason": "Global Governance & Integrity Benchmark"
+        },
+        {
+          "title": "🏆 Henley Passport Index February 2026 (India Ranks 75th)",
+          "reason": "Global Mobility & Visa Access Benchmark"
+        }
+      ]
+    },
+    {
+      "parentUnitId": "emu-apex-institutional-appointments",
+      "proposedSplits": [
+        {
+          "title": "🤝 Uday Kotak Appointed Chairman of GIFT City (IFSC Gandhinagar)",
+          "reason": "Financial Centre Leadership"
+        },
+        {
+          "title": "🤝 Nidhi Chhibber Appointed Interim CEO of NITI Aayog",
+          "reason": "Apex Government Policy Think Tank"
+        },
+        {
+          "title": "🤝 CA Prasanna Kumar D Elected 74th President of ICAI",
+          "reason": "Statutory Professional Accounting Body"
+        }
+      ]
+    },
+    {
+      "parentUnitId": "emu-global-economic-treaties-pacts",
+      "proposedSplits": [
+        {
+          "title": "🌐 India–GCC Free Trade Agreement Terms of Reference ($178B Trade)",
+          "reason": "Bilateral Trade Treaty"
+        },
+        {
+          "title": "🌐 Pax Silica Critical Tech & AI Supply Chain Coalition (10th Signatory)",
+          "reason": "Multilateral Tech Supply Chain Coalition"
+        }
+      ]
+    },
+    {
+      "parentUnitId": "emu-national-infrastructure-megaprojects",
+      "proposedSplits": [
+        {
+          "title": "📌 Brahmaputra Road-Rail Tunnel (₹18,662 Cr Gohpur-Numaligarh)",
+          "reason": "North-East Underwater Multi-Modal Infrastructure"
+        },
+        {
+          "title": "📌 Delhi–Meerut Namo Bharat RRTS Corridor (82 km / 180 kmph)",
+          "reason": "Urban Rapid Transit & Metro Rail"
+        }
+      ]
+    },
+    {
+      "parentUnitId": "emu-strategic-defence-indigenisation",
+      "proposedSplits": [
+        {
+          "title": "🔬 Micron Semiconductor ATMP Facility in Sanand (₹22,500 Cr)",
+          "reason": "Electronics & Semiconductor Mission (MeitY)"
+        },
+        {
+          "title": "🛡️ Strategic Ballistic Deterrence — Agni-III Missile Test (3,500 km)",
+          "reason": "Strategic Forces / Ballistic Missile"
+        },
+        {
+          "title": "🛡️ Indigenous Munitions — BEL-Safran HAMMER Precision Weapons JV",
+          "reason": "IAF Rafale Air-to-Surface Munitions"
+        }
+      ]
+    }
+  ],
+  "unitEvaluations": [
+    {
+      "unitId": "emu-16th-finance-commission",
+      "title": "💰 16th Finance Commission Report — 41% Tax Devolution & GDP Contribution Weight",
+      "category": "SEC1",
+      "tier": "TIER_A",
+      "constituentCount": 1,
+      "coherenceStatus": "COHERENT",
+      "retrievalInterferenceRisk": "LOW",
+      "whyJustification": "Constitutional 5-year tax sharing formula between Centre and States (Article 280).",
+      "subEvaluations": [
+        {
+          "subEventTitle": "16th Finance Commission report for Tax revenue laid in LS",
+          "page": 1,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        }
+      ]
+    },
+    {
+      "unitId": "emu-anrf-rdi-deep-tech-funds",
+      "title": "🔬 ANRF ₹1 Lakh Crore RDI Fund & Deep-Tech Innovation Framework",
+      "category": "SEC6",
+      "tier": "TIER_A",
+      "constituentCount": 3,
+      "coherenceStatus": "COHERENT",
+      "retrievalInterferenceRisk": "LOW",
+      "whyJustification": "₹1L Cr concessional R&D financing (2-4% interest, 15-year tenure) and revised 20-year deep-tech startup tenure.",
+      "subEvaluations": [
+        {
+          "subEventTitle": "ANRF launches ₹1 Lakh Crore RDI Fund first call under TDB",
+          "page": 29,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        },
+        {
+          "subEventTitle": "DPIIT revises start-up definition: Deep-tech up to 20 years and ₹300 crore",
+          "page": 30,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        },
+        {
+          "subEventTitle": "BIRAC-RDI Fund for Biotechnology launched by Dr. Jitendra Singh",
+          "page": 38,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        }
+      ]
+    },
+    {
+      "unitId": "emu-apex-global-indices-reports",
+      "title": "🏆 Global Indices & National Reports — Network Readiness (45th), CPI (91st) & Henley Passport (75th)",
+      "category": "SEC7",
+      "tier": "TIER_B_PLUS",
+      "constituentCount": 5,
+      "coherenceStatus": "OVER_MERGED",
+      "retrievalInterferenceRisk": "HIGH",
+      "whyJustification": "Sovereign ranking benchmarks: NRI #45, Corruption #91, Henley #75, and LEED Green Building #2.",
+      "subEvaluations": [
+        {
+          "subEventTitle": "Network Readiness Index 2025: India ranks 45th globally (Portulans Institute)",
+          "page": 83,
+          "colocationType": "SHOULD_BE_SEPARATE",
+          "retrievalInterferenceRisk": "HIGH"
+        },
+        {
+          "subEventTitle": "Corruption Perceptions Index 2025: India ranks 91st (score 39/100)",
+          "page": 84,
+          "colocationType": "SHOULD_BE_SEPARATE",
+          "retrievalInterferenceRisk": "HIGH"
+        },
+        {
+          "subEventTitle": "USGBC LEED Green Building List 2025: India ranks 2nd globally",
+          "page": 85,
+          "colocationType": "SHOULD_BE_SEPARATE",
+          "retrievalInterferenceRisk": "HIGH"
+        },
+        {
+          "subEventTitle": "Henley Passport Index February 2026: India ranks 75th (56 destinations)",
+          "page": 85,
+          "colocationType": "SHOULD_BE_SEPARATE",
+          "retrievalInterferenceRisk": "HIGH"
+        },
+        {
+          "subEventTitle": "FT Global MBA Rankings 2026: ISB ranks #12 globally, #1 in India",
+          "page": 85,
+          "colocationType": "SHOULD_BE_SEPARATE",
+          "retrievalInterferenceRisk": "HIGH"
+        }
+      ]
+    },
+    {
+      "unitId": "emu-apex-institutional-appointments",
+      "title": "🤝 Apex Regulatory & Institutional Appointments — GIFT City, NITI Aayog & ICAI",
+      "category": "SEC5",
+      "tier": "TIER_B_PLUS",
+      "constituentCount": 4,
+      "coherenceStatus": "OVER_MERGED",
+      "retrievalInterferenceRisk": "HIGH",
+      "whyJustification": "Key statutory transitions: Uday Kotak as GIFT City Chairman and Nidhi Chhibber as Interim CEO of NITI Aayog.",
+      "subEvaluations": [
+        {
+          "subEventTitle": "Uday Kotak appointed Chairman of GIFT City Company Ltd",
+          "page": 102,
+          "colocationType": "SHOULD_BE_SEPARATE",
+          "retrievalInterferenceRisk": "HIGH"
+        },
+        {
+          "subEventTitle": "CA Prasanna Kumar D elected 74th President of ICAI (2026-27)",
+          "page": 102,
+          "colocationType": "SHOULD_BE_SEPARATE",
+          "retrievalInterferenceRisk": "HIGH"
+        },
+        {
+          "subEventTitle": "Nidhi Chhibber appointed Interim CEO of NITI Aayog",
+          "page": 103,
+          "colocationType": "SHOULD_BE_SEPARATE",
+          "retrievalInterferenceRisk": "HIGH"
+        },
+        {
+          "subEventTitle": "First BRICS Sherpa Meeting begins in New Delhi under India's 2026 Chairship",
+          "page": 103,
+          "colocationType": "SHOULD_BE_SEPARATE",
+          "retrievalInterferenceRisk": "HIGH"
+        }
+      ]
+    },
+    {
+      "unitId": "emu-dicgc-risk-based-premium",
+      "title": "🏛️ DICGC Risk-Based Premium Framework 2026 — 4-Tier Differential Deposit Insurance",
+      "category": "SEC2",
+      "tier": "TIER_A",
+      "constituentCount": 1,
+      "coherenceStatus": "COHERENT",
+      "retrievalInterferenceRisk": "LOW",
+      "whyJustification": "Overhauls 1962 flat 12p rate into 4 CAMELS risk tiers with 33.33% risk and 25% vintage incentives.",
+      "subEvaluations": [
+        {
+          "subEventTitle": "DICGC Risk-based Premium Framework for Deposit Insurance in India",
+          "page": 8,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        }
+      ]
+    },
+    {
+      "unitId": "emu-digital-payments-cbdc-ecosystem",
+      "title": "🏦 Digital Payments Architecture — CBDC PDS, UPI-RuPay Incentives & UPI Global Expansion",
+      "category": "SEC3",
+      "tier": "TIER_A",
+      "constituentCount": 2,
+      "coherenceStatus": "COHERENT",
+      "retrievalInterferenceRisk": "LOW",
+      "whyJustification": "Inaugurates country's first CBDC ration delivery, ₹2,000 Cr digital payments subsidy, and cross-border UPI links.",
+      "subEvaluations": [
+        {
+          "subEventTitle": "India, Malaysia Ink 11 pacts; UPI-PayNet link to ease remittances",
+          "page": 18,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        },
+        {
+          "subEventTitle": "Amit Shah launches e-Rupee PDS & 24x7 'Annapurti' grain ATM in Gujarat",
+          "page": 39,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        }
+      ]
+    },
+    {
+      "unitId": "emu-global-economic-treaties-pacts",
+      "title": "🌐 Strategic Trade & Multilateral Pacts — India-GCC FTA ($178B), Pax Silica & France DTAC",
+      "category": "SEC4",
+      "tier": "TIER_B_PLUS",
+      "constituentCount": 2,
+      "coherenceStatus": "BORDERLINE",
+      "retrievalInterferenceRisk": "MEDIUM",
+      "whyJustification": "ToR for $178B GCC FTA, 10th signatory to Pax Silica tech coalition, and reformed France tax protocol.",
+      "subEvaluations": [
+        {
+          "subEventTitle": "New START nuclear arms treaty between US and Russia expires",
+          "page": 64,
+          "colocationType": "BENEFICIAL_COLOCATION",
+          "retrievalInterferenceRisk": "MEDIUM"
+        },
+        {
+          "subEventTitle": "India joins US-led 'Pax Silica' tech supply chain coalition as 10th member",
+          "page": 65,
+          "colocationType": "BENEFICIAL_COLOCATION",
+          "retrievalInterferenceRisk": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "unitId": "emu-india-ai-impact-summit-2026",
+      "title": "🔬 India AI Impact Summit 2026 — Sovereign MANAV Vision, Frontier Commitments & BHASHINI Stack",
+      "category": "SEC6",
+      "tier": "TIER_A",
+      "constituentCount": 8,
+      "coherenceStatus": "COHERENT",
+      "retrievalInterferenceRisk": "LOW",
+      "whyJustification": "First global AI summit in Global South establishing ethical MANAV pillars and 22 scheduled language models.",
+      "subEvaluations": [
+        {
+          "subEventTitle": "MANAV Vision for AI at India AI Impact Summit 2026",
+          "page": 5,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        },
+        {
+          "subEventTitle": "NPCI offers 'UPI One World' wallet to foreign visitors at AI Summit",
+          "page": 21,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        },
+        {
+          "subEventTitle": "NPCI launches FiMI domain-specific language model for payments",
+          "page": 22,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        },
+        {
+          "subEventTitle": "NPCI and Nvidia tie up for sovereign AI payment infrastructure",
+          "page": 23,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        },
+        {
+          "subEventTitle": "Bharat GenAI text models across 22 scheduled languages led by IIT Bombay",
+          "page": 31,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        },
+        {
+          "subEventTitle": "India AI Impact Summit 2026 held in New Delhi: Seven Chakras & 3 Sutras",
+          "page": 37,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        },
+        {
+          "subEventTitle": "MeitY launches VoicERA open-source voice AI stack on BHASHINI",
+          "page": 42,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        },
+        {
+          "subEventTitle": "India unveils 'New Delhi Frontier AI Commitments' at AI Summit",
+          "page": 45,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        }
+      ]
+    },
+    {
+      "unitId": "emu-insurance-100-percent-fdi",
+      "title": "🏦 100% Insurance FDI Operationalisation — Sabka Bima Sabki Raksha Act 2025",
+      "category": "SEC3",
+      "tier": "TIER_A",
+      "constituentCount": 1,
+      "coherenceStatus": "COHERENT",
+      "retrievalInterferenceRisk": "LOW",
+      "whyJustification": "Permits 100% foreign ownership under automatic route with statutory safeguard of resident Indian CEO/MD.",
+      "subEvaluations": [
+        {
+          "subEventTitle": "India operationalises 100% Insurance FDI under Sabka Bima Act 2025",
+          "page": 27,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        }
+      ]
+    },
+    {
+      "unitId": "emu-landmark-sports-milestones",
+      "title": "⚽ Historic Sporting Landmarks — India 6th U-19 World Cup Title & Alcaraz Career Slam",
+      "category": "SEC8",
+      "tier": "TIER_B_PLUS",
+      "constituentCount": 2,
+      "coherenceStatus": "COHERENT",
+      "retrievalInterferenceRisk": "LOW",
+      "whyJustification": "Record 6th ICC U-19 World Cup championship, WPL 2026 title, and Asian Shooting medal haul (94 medals).",
+      "subEvaluations": [
+        {
+          "subEventTitle": "Carlos Alcaraz wins Australian Open 2026 Men's Singles (Career Grand Slam)",
+          "page": 98,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        },
+        {
+          "subEventTitle": "RCB wins 4th Women's Premier League (WPL 2026) title",
+          "page": 99,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        }
+      ]
+    },
+    {
+      "unitId": "emu-national-infrastructure-megaprojects",
+      "title": "📌 National Strategic Megaprojects — Brahmaputra Tunnel (₹18,662 Cr) & Delhi-Meerut RRTS (82 km)",
+      "category": "SEC10",
+      "tier": "TIER_A",
+      "constituentCount": 1,
+      "coherenceStatus": "OVER_MERGED",
+      "retrievalInterferenceRisk": "HIGH",
+      "whyJustification": "World's 2nd underwater road-rail tunnel (Gohpur-Numaligarh) and India's 1st 180 kmph RRTS corridor.",
+      "subEvaluations": [
+        {
+          "subEventTitle": "PM Modi flags off 82 km Delhi-Meerut Namo Bharat RRTS corridor (180 kmph)",
+          "page": 49,
+          "colocationType": "SHOULD_BE_SEPARATE",
+          "retrievalInterferenceRisk": "HIGH"
+        }
+      ]
+    },
+    {
+      "unitId": "emu-national-skilling-pm-setu",
+      "title": "📌 PM-SETU Scheme — ₹60,000 Cr ITI Modernisation & World Bank $830M Loan",
+      "category": "SEC10",
+      "tier": "TIER_A",
+      "constituentCount": 2,
+      "coherenceStatus": "COHERENT",
+      "retrievalInterferenceRisk": "LOW",
+      "whyJustification": "Mega-scheme upgrading 1,000 ITIs funded by $830M World Bank loan and French aerospace skilling collaboration.",
+      "subEvaluations": [
+        {
+          "subEventTitle": "World Bank Approves $830 Million Loan for PM-SETU to Upgrade ITIs",
+          "page": 17,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        },
+        {
+          "subEventTitle": "National Centre of Excellence for Aeronautics & Defence Skilling at NSTI Kanpur",
+          "page": 45,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        }
+      ]
+    },
+    {
+      "unitId": "emu-pm-rahat-emergency-healthcare",
+      "title": "📌 PM RAHAT Scheme — Cashless Golden Hour Road Trauma Care (₹1.5 Lakh)",
+      "category": "SEC10",
+      "tier": "TIER_A",
+      "constituentCount": 1,
+      "coherenceStatus": "COHERENT",
+      "retrievalInterferenceRisk": "LOW",
+      "whyJustification": "Pan-India cashless trauma stabilization up to ₹1.5L for 7 days via MVAF and eDAR-TMS 2.0 digital architecture.",
+      "subEvaluations": [
+        {
+          "subEventTitle": "PM RAHAT Scheme: Cashless treatment up to ₹1.5 Lakh for road accident victims",
+          "page": 59,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        }
+      ]
+    },
+    {
+      "unitId": "emu-rbi-external-commercial-borrowing",
+      "title": "🏛️ RBI External Commercial Borrowing (ECB) Framework 2026 ($1B / 300% Net Worth)",
+      "category": "SEC2",
+      "tier": "TIER_A",
+      "constituentCount": 1,
+      "coherenceStatus": "COHERENT",
+      "retrievalInterferenceRisk": "LOW",
+      "whyJustification": "Liberalizes external borrowing limits replacing $750M cap with higher of $1B or 300% standalone net worth.",
+      "subEvaluations": [
+        {
+          "subEventTitle": "RBI notifies amended ECB framework, replaces cap with higher of $1B or 300% net worth",
+          "page": 15,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        }
+      ]
+    },
+    {
+      "unitId": "emu-rbi-lead-bank-consumer-conduct",
+      "title": "🏛️ RBI Lead Bank Scheme (60% CD Ratio) & Mis-Selling Conduct Directions",
+      "category": "SEC2",
+      "tier": "TIER_A",
+      "constituentCount": 1,
+      "coherenceStatus": "COHERENT",
+      "retrievalInterferenceRisk": "LOW",
+      "whyJustification": "Enforces 60% CD ratio in rural/semi-urban branches and establishes first statutory definition of mis-selling.",
+      "subEvaluations": [
+        {
+          "subEventTitle": "RBI Draft Circular on Lead Bank Scheme (LBS)",
+          "page": 12,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        }
+      ]
+    },
+    {
+      "unitId": "emu-rbi-monetary-policy-msme",
+      "title": "🏛️ RBI Monetary Policy & MSME Credit Architecture — 5.25% Repo & ₹20L Collateral-Free Limit",
+      "category": "SEC2",
+      "tier": "TIER_A",
+      "constituentCount": 2,
+      "coherenceStatus": "COHERENT",
+      "retrievalInterferenceRisk": "LOW",
+      "whyJustification": "Apex monetary policy rates and mandatory PSL collateral-free credit ceiling expansion from ₹10L to ₹20L.",
+      "subEvaluations": [
+        {
+          "subEventTitle": "RBI monetary policy: Small digital fraud victims to get up to ₹25K refund",
+          "page": 10,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        },
+        {
+          "subEventTitle": "Axis Bank launches Rooftop Solar Finance for MSMEs",
+          "page": 18,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        }
+      ]
+    },
+    {
+      "unitId": "emu-rbi-prudential-capital-markets",
+      "title": "🏛️ RBI Prudential Intermediary Lending & Acquisition Financing Norms",
+      "category": "SEC2",
+      "tier": "TIER_A",
+      "constituentCount": 2,
+      "coherenceStatus": "COHERENT",
+      "retrievalInterferenceRisk": "LOW",
+      "whyJustification": "Mandatory 100% secured broker credit, 40% equity haircut, and 20% overseas acquisition financing cap.",
+      "subEvaluations": [
+        {
+          "subEventTitle": "RBI finalises acquisition finance norms; caps overseas syndicated deal exposure at 20%",
+          "page": 13,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        },
+        {
+          "subEventTitle": "RBI mandates 100% collateral for stockbroker credit facilities",
+          "page": 14,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        }
+      ]
+    },
+    {
+      "unitId": "emu-sbi-landmark-scale-milestones",
+      "title": "🏦 State Bank of India — ₹10.9L Cr Market Cap (#4 in India) & $1B MUFG Social Loan",
+      "category": "SEC3",
+      "tier": "TIER_A",
+      "constituentCount": 3,
+      "coherenceStatus": "BORDERLINE",
+      "retrievalInterferenceRisk": "LOW",
+      "whyJustification": "SBI surpasses TCS in market capitalization and raises India's first commercial bank social loan.",
+      "subEvaluations": [
+        {
+          "subEventTitle": "SBI raises $1 billion from MUFG via 5-year social loan",
+          "page": 18,
+          "colocationType": "BENEFICIAL_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        },
+        {
+          "subEventTitle": "SBI overtakes TCS to become India's 4th Most Valuable Company",
+          "page": 20,
+          "colocationType": "BENEFICIAL_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        },
+        {
+          "subEventTitle": "SBI targets increasing green advances to 10% by 2030, launches CHAKRA",
+          "page": 24,
+          "colocationType": "BENEFICIAL_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        }
+      ]
+    },
+    {
+      "unitId": "emu-sebi-market-infrastructure-reforms",
+      "title": "🏛️ SEBI Market Reforms — SWP/STP in Demat, AIF Exit Flexibility & ETF Price Bands",
+      "category": "SEC2",
+      "tier": "TIER_A",
+      "constituentCount": 5,
+      "coherenceStatus": "COHERENT",
+      "retrievalInterferenceRisk": "LOW",
+      "whyJustification": "Core SEBI framework changes for demat mutual fund standing instructions, AIF winding up, and dynamic ETF bands.",
+      "subEvaluations": [
+        {
+          "subEventTitle": "SEBI proposal for SWP and STP in demat mutual funds",
+          "page": 7,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        },
+        {
+          "subEventTitle": "SEBI eases SGF rules for commodity derivatives clearing houses",
+          "page": 7,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        },
+        {
+          "subEventTitle": "SEBI proposes exit flexibility for Alternative Investment Funds (AIFs)",
+          "page": 8,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        },
+        {
+          "subEventTitle": "SEBI floats proposal to revamp ETF price band framework",
+          "page": 14,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        },
+        {
+          "subEventTitle": "SEBI Tightens AIF Disclosure Norms; Mandates ISIN-Level NAV Reporting",
+          "page": 16,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        }
+      ]
+    },
+    {
+      "unitId": "emu-standalone-cgb-art-136",
+      "title": "Vibrant Villages Programme-II (VVP-II) to cover 1,954 border villages in 15 states",
+      "category": "SEC4",
+      "tier": "TIER_B_PLUS",
+      "constituentCount": 1,
+      "coherenceStatus": "COHERENT",
+      "retrievalInterferenceRisk": "LOW",
+      "whyJustification": "Distinct statutory or institutional development of high exam testing weight.",
+      "subEvaluations": [
+        {
+          "subEventTitle": "Vibrant Villages Programme-II (VVP-II) to cover 1,954 border villages in 15 states",
+          "page": 43,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        }
+      ]
+    },
+    {
+      "unitId": "emu-standalone-cgb-art-161",
+      "title": "Union Cabinet approves renaming Kerala to 'Keralam' under Article 3",
+      "category": "SEC4",
+      "tier": "TIER_B_PLUS",
+      "constituentCount": 1,
+      "coherenceStatus": "COHERENT",
+      "retrievalInterferenceRisk": "LOW",
+      "whyJustification": "Distinct statutory or institutional development of high exam testing weight.",
+      "subEvaluations": [
+        {
+          "subEventTitle": "Union Cabinet approves renaming Kerala to 'Keralam' under Article 3",
+          "page": 52,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        }
+      ]
+    },
+    {
+      "unitId": "emu-standalone-cgb-art-18",
+      "title": "India Launches Zero Prize for Tangible Pollution Reduction",
+      "category": "SEC4",
+      "tier": "TIER_B_PLUS",
+      "constituentCount": 1,
+      "coherenceStatus": "COHERENT",
+      "retrievalInterferenceRisk": "LOW",
+      "whyJustification": "Distinct statutory or institutional development of high exam testing weight.",
+      "subEvaluations": [
+        {
+          "subEventTitle": "India Launches Zero Prize for Tangible Pollution Reduction",
+          "page": 6,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        }
+      ]
+    },
+    {
+      "unitId": "emu-standalone-cgb-art-19",
+      "title": "Nationwide HPV Vaccination Drive for 14-Year-Old Girls from Ajmer",
+      "category": "SEC4",
+      "tier": "TIER_B_PLUS",
+      "constituentCount": 1,
+      "coherenceStatus": "COHERENT",
+      "retrievalInterferenceRisk": "LOW",
+      "whyJustification": "Distinct statutory or institutional development of high exam testing weight.",
+      "subEvaluations": [
+        {
+          "subEventTitle": "Nationwide HPV Vaccination Drive for 14-Year-Old Girls from Ajmer",
+          "page": 7,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        }
+      ]
+    },
+    {
+      "unitId": "emu-standalone-cgb-art-232",
+      "title": "MHA unveils 'PRAHAAR' National Counter-Terrorism Policy",
+      "category": "SEC4",
+      "tier": "TIER_B_PLUS",
+      "constituentCount": 1,
+      "coherenceStatus": "COHERENT",
+      "retrievalInterferenceRisk": "LOW",
+      "whyJustification": "Distinct statutory or institutional development of high exam testing weight.",
+      "subEvaluations": [
+        {
+          "subEventTitle": "MHA unveils 'PRAHAAR' National Counter-Terrorism Policy",
+          "page": 81,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        }
+      ]
+    },
+    {
+      "unitId": "emu-standalone-cgb-art-261",
+      "title": "Indian climate scientist Veerabhadran Ramanathan wins Crafoord Prize 2026",
+      "category": "SEC4",
+      "tier": "TIER_B_PLUS",
+      "constituentCount": 1,
+      "coherenceStatus": "COHERENT",
+      "retrievalInterferenceRisk": "LOW",
+      "whyJustification": "Distinct statutory or institutional development of high exam testing weight.",
+      "subEvaluations": [
+        {
+          "subEventTitle": "Indian climate scientist Veerabhadran Ramanathan wins Crafoord Prize 2026",
+          "page": 93,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        }
+      ]
+    },
+    {
+      "unitId": "emu-standalone-cgb-art-27",
+      "title": "RBI sets up committee to review business correspondent guidelines",
+      "category": "SEC4",
+      "tier": "TIER_B_PLUS",
+      "constituentCount": 1,
+      "coherenceStatus": "COHERENT",
+      "retrievalInterferenceRisk": "LOW",
+      "whyJustification": "Distinct statutory or institutional development of high exam testing weight.",
+      "subEvaluations": [
+        {
+          "subEventTitle": "RBI sets up committee to review business correspondent guidelines",
+          "page": 11,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        }
+      ]
+    },
+    {
+      "unitId": "emu-standalone-cgb-art-327",
+      "title": "Tripura Gramin Bank launches India's 1st RRB co-branded RuPay credit card with PNB",
+      "category": "SEC4",
+      "tier": "TIER_B_PLUS",
+      "constituentCount": 1,
+      "coherenceStatus": "COHERENT",
+      "retrievalInterferenceRisk": "LOW",
+      "whyJustification": "Distinct statutory or institutional development of high exam testing weight.",
+      "subEvaluations": [
+        {
+          "subEventTitle": "Tripura Gramin Bank launches India's 1st RRB co-branded RuPay credit card with PNB",
+          "page": 114,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        }
+      ]
+    },
+    {
+      "unitId": "emu-standalone-cgb-art-351",
+      "title": "NABARD raises ₹6,779 Crore through 3-year bond at 7.01% yield",
+      "category": "SEC4",
+      "tier": "TIER_B_PLUS",
+      "constituentCount": 1,
+      "coherenceStatus": "COHERENT",
+      "retrievalInterferenceRisk": "LOW",
+      "whyJustification": "Distinct statutory or institutional development of high exam testing weight.",
+      "subEvaluations": [
+        {
+          "subEventTitle": "NABARD raises ₹6,779 Crore through 3-year bond at 7.01% yield",
+          "page": 118,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        }
+      ]
+    },
+    {
+      "unitId": "emu-standalone-cgb-art-362",
+      "title": "NaBFID raises ₹5,000 Crore through debut 1-year Certificate of Deposit at 6.95%",
+      "category": "SEC4",
+      "tier": "TIER_B_PLUS",
+      "constituentCount": 1,
+      "coherenceStatus": "COHERENT",
+      "retrievalInterferenceRisk": "LOW",
+      "whyJustification": "Distinct statutory or institutional development of high exam testing weight.",
+      "subEvaluations": [
+        {
+          "subEventTitle": "NaBFID raises ₹5,000 Crore through debut 1-year Certificate of Deposit at 6.95%",
+          "page": 120,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        }
+      ]
+    },
+    {
+      "unitId": "emu-standalone-cgb-art-71",
+      "title": "ICICI Prudential introduces Swasthya Pension Scheme under PFRDA sandbox",
+      "category": "SEC3",
+      "tier": "TIER_B_PLUS",
+      "constituentCount": 1,
+      "coherenceStatus": "COHERENT",
+      "retrievalInterferenceRisk": "LOW",
+      "whyJustification": "Distinct statutory or institutional development of high exam testing weight.",
+      "subEvaluations": [
+        {
+          "subEventTitle": "ICICI Prudential introduces Swasthya Pension Scheme under PFRDA sandbox",
+          "page": 24,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        }
+      ]
+    },
+    {
+      "unitId": "emu-strategic-defence-indigenisation",
+      "title": "🔬 Strategic Defence Milestones — Semiconductor ATMP Sanand, Agni-III & BEL-Safran HAMMER JV",
+      "category": "SEC6",
+      "tier": "TIER_A",
+      "constituentCount": 6,
+      "coherenceStatus": "OVER_MERGED",
+      "retrievalInterferenceRisk": "HIGH",
+      "whyJustification": "First made-in-India semiconductor memory modules, 3,500 km ballistic missile test, and naval CTF 154 command.",
+      "subEvaluations": [
+        {
+          "subEventTitle": "PM Modi inaugurates Micron's ₹22,500 Crore Semiconductor ATMP facility in Sanand",
+          "page": 57,
+          "colocationType": "SHOULD_BE_SEPARATE",
+          "retrievalInterferenceRisk": "HIGH"
+        },
+        {
+          "subEventTitle": "India successfully test-fires Agni-III missile from Chandipur Odisha",
+          "page": 77,
+          "colocationType": "SHOULD_BE_SEPARATE",
+          "retrievalInterferenceRisk": "HIGH"
+        },
+        {
+          "subEventTitle": "Indian Navy assumes command of Combined Task Force 154 (CTF 154) in Bahrain",
+          "page": 77,
+          "colocationType": "SHOULD_BE_SEPARATE",
+          "retrievalInterferenceRisk": "HIGH"
+        },
+        {
+          "subEventTitle": "BEL and Safran tie up to produce HAMMER precision-guided weapons in India",
+          "page": 79,
+          "colocationType": "SHOULD_BE_SEPARATE",
+          "retrievalInterferenceRisk": "HIGH"
+        },
+        {
+          "subEventTitle": "President Murmu flies sortie in LCH Prachand at Jaisalmer",
+          "page": 82,
+          "colocationType": "SHOULD_BE_SEPARATE",
+          "retrievalInterferenceRisk": "HIGH"
+        },
+        {
+          "subEventTitle": "DRDO conducts successful flight trials of VSHORADS missile at Chandipur",
+          "page": 82,
+          "colocationType": "SHOULD_BE_SEPARATE",
+          "retrievalInterferenceRisk": "HIGH"
+        }
+      ]
+    },
+    {
+      "unitId": "emu-union-budget-2026-27",
+      "title": "💰 Union Budget 2026–27 — Fiscal Targets, Capex Push & Direct Tax Overhaul",
+      "category": "SEC1",
+      "tier": "TIER_A",
+      "constituentCount": 6,
+      "coherenceStatus": "COHERENT",
+      "retrievalInterferenceRisk": "LOW",
+      "whyJustification": "Central fiscal policy blueprint determining 4.3% deficit target, ₹12.2L Cr Capex, and 536 Direct Tax sections.",
+      "subEvaluations": [
+        {
+          "subEventTitle": "UPI, RuPay subsidy for FY27 at ₹2,000 crore",
+          "page": 2,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        },
+        {
+          "subEventTitle": "Disinvestment Target Set at ₹80,000 Crore for FY27",
+          "page": 3,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        },
+        {
+          "subEventTitle": "Output-Outcome Monitoring Framework (OOMF) by DMEO NITI Aayog",
+          "page": 37,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        },
+        {
+          "subEventTitle": "Union Budget 2026-27 announces Khelo India Mission with ₹4,479.88 Crore outlay",
+          "page": 47,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        },
+        {
+          "subEventTitle": "Union Budget announces Integrated East Coast Industrial Corridor (Durgapur node)",
+          "page": 59,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        },
+        {
+          "subEventTitle": "Defence Ministry grants Miniratna-I status to YIL (Yantra India Limited)",
+          "page": 76,
+          "colocationType": "NECESSARY_COLOCATION",
+          "retrievalInterferenceRisk": "LOW"
+        }
+      ]
+    }
+  ]
+}

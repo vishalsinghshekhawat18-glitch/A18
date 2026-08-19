@@ -1,30 +1,27 @@
 {
   "id": "migrated-ca-note-sec4-201",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Assam Passes Land & Revenue Regulation Bill 2026 Creating 5km Heritage Protected Belts",
+  "type": "ca_note",
   "summary": "Restricts land transactions within 5 km radius of 250+ year old religious institutions to original inhabitants.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Restricts land transactions within 5 km radius of 250+ year old religious institutions to original inhabitants."
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 Assam Passes Land & Revenue Regulation Bill 2026 Creating 5km Heritage Protected Belts. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Restricts land transactions within 5 km radius of 250+ year old religious institutions to original inhabitants.",
         "Eligibility Criteria: Land sales/purchases within 5-km radius restricted exclusively to SCs, STs, and 'original inhabitants' (75 years documented residence).",
-        "Original Inhabitant Definition: Continuous family residence in protected belt for 3 generations as of January 1, 2006 (25 yrs per generation)."
+        "Original Inhabitant Definition: Continuous family residence in protected belt for 3 generations as of January 1, 2006 (25 yrs per generation).",
+        "Protected heritage radius (5 km) vs documented residence threshold (75 years / 3 generations).",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Assam Passes Land & Revenue Regulation Bill 2026 Creating 5km Heritage Protected Belts."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Assam CM: Himanta Biswa Sarma | Amends Assam Land and Revenue Regulation 1886."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Protected heritage radius (5 km) vs documented residence threshold (75 years / 3 generations)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Assam Passes Land & Revenue Regulation Bill 2026 Creating 5km Heritage Protected Belts."
     }
   ],
   "metadata": {
@@ -38,7 +35,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-08-05",
-    "category": "SEC4",
+    "category": "SEC2",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:13:47.644Z",
     "provenance": {
@@ -49,6 +46,16 @@
       "sourceChecksum": "8af7abe15a48fa79cc649236af845ff26d09c3e0feac432f8251f08493d18372",
       "migrationTimestamp": "2026-08-15T12:13:47.644Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

@@ -1,0 +1,42 @@
+{
+  "unitId": "emu-rbi-prudential-capital-markets",
+  "title": "🏛️ RBI Prudential Intermediary Lending & Acquisition Financing Norms",
+  "category": "SEC2",
+  "tier": "TIER_A",
+  "theme": "Bank Capital Market Exposure & Corporate Financing",
+  "leadArticleId": "cgb-art-35",
+  "constituentCount": 2,
+  "provenancePages": [
+    13,
+    14
+  ],
+  "provenanceArticleIds": [
+    "cgb-art-35",
+    "cgb-art-36"
+  ],
+  "mivScore": 80,
+  "executiveSummary": "RBI finalised acquisition financing framework: bank participation capped at 20% (up from 10%), total financing max 75% of acquisition value, debt-equity max 3:1, minimum net worth ₹500 Cr, effective April 1, 2026.",
+  "masterKeyFacts": [
+    "RBI finalised acquisition financing framework: bank participation capped at 20% (up from 10%), total financing max 75% of acquisition value, debt-equity max 3:1, minimum net worth ₹500 Cr, effective April 1, 2026.",
+    "RBI Commercial Banks Credit Facilities Directions 2026: Broker funding must be 100% fully secured; bank guarantees backed by min 50% collateral (25% cash) with 40% haircut on shares from April 1, 2026."
+  ],
+  "subEvents": [
+    {
+      "title": "RBI finalises acquisition finance norms; caps overseas syndicated deal exposure at 20%",
+      "page": 13,
+      "facts": [
+        "RBI finalised acquisition financing framework: bank participation capped at 20% (up from 10%), total financing max 75% of acquisition value, debt-equity max 3:1, minimum net worth ₹500 Cr, effective April 1, 2026."
+      ]
+    },
+    {
+      "title": "RBI mandates 100% collateral for stockbroker credit facilities",
+      "page": 14,
+      "facts": [
+        "RBI Commercial Banks Credit Facilities Directions 2026: Broker funding must be 100% fully secured; bank guarantees backed by min 50% collateral (25% cash) with 40% haircut on shares from April 1, 2026."
+      ]
+    }
+  ],
+  "statutoryProvisions": [],
+  "examAngle": "🎯 Exam Angle → Focus on exact statutory limits, financial outlays, and regulatory frameworks.",
+  "whyStandaloneJustification": "Mandatory 100% secured broker credit, 40% equity haircut, and 20% overseas acquisition financing cap."
+}

@@ -1,22 +1,25 @@
 {
   "id": "migrated-ca-2026-02-sec1-2",
+  "title": "National Statistical Base Revisions — CPI 2024 Base, Trade 2022-23 & National Accounts",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "16th Finance Commission — Tax Devolution Retained at 41%",
-  "summary": "16th Finance Commission (Chaired by Arvind Panagariya) retains vertical tax devolution at 41% while introducing a new 10% weightage for Contribution to GDP.",
+  "summary": "Retail inflation stood at 2.75% in January 2026 under newly released CPI series (base year updated from 2012 to 2024), compared to 1.33% in Dec 2025.",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "16th Finance Commission (Chair: **Arvind Panagariya**) recommended retaining vertical tax devolution at **41% for 2026-27 to 2030-31**, accepted by the Centre in Budget 2026."
+      "content": "**Overview**: Retail inflation stood at 2.75% in January 2026 under newly released CPI series (base year updated from 2012 to 2024), compared to 1.33% in Dec 2025."
     },
     {
       "type": "bullet_list",
       "items": [
-        "**New Formula Weight**: 10% weightage for 'Contribution to GDP' replaces the 2.5%-weighted 'Tax and Fiscal Effort' criterion.",
-        "**Grants-in-aid**: ₹9.47 lakh crore total (incl. ₹1.4 lakh Cr for FY27 for Rural/Urban Local Bodies + Disaster Management).",
-        "**Grants Discontinued**: Revenue-deficit, sector-specific, and state-specific grants discontinued; states must cap fiscal deficit at 3% of GSDP.",
-        "**State Shares**: UP's share 17.619% (from 17.939%); Bihar's 9.948% (from 10.058%)."
+        "**India’s retail inflation stands at 2.75% in January 2026 (PIB)** (Page 4): Retail inflation stood at 2.75% in January 2026 under newly released CPI series (base year updated from 2012 to 2024), compared to 1.33% in Dec 2025.",
+        "**MoCI Revised Base Year of Merchandise Trade Indices to 2022-23** (Page 5): DGCI&S under MoCI revised base year of merchandise trade indices from 2012-13 to 2022-23, based on Prof. Nachiketa Chattopadhyay (ISI Kolkata) committee."
       ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Official Statistical Indicators & Base Year Overhauls. Directly testable base revisions for CPI, Merchandise Trade, and National Accounts."
     }
   ],
   "metadata": {
@@ -26,22 +29,37 @@
       "SBI PO"
     ],
     "tags": [
-      "sec3",
+      "sec1",
       "Current Affairs 2026",
-      "February 2026"
+      "February 2026",
+      "TIER_A"
     ],
     "date": "2026-02-15",
-    "category": "SEC3",
-    "difficulty": "intermediate",
-    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "category": "SEC1",
+    "difficulty": "hard",
+    "lastUpdated": "2026-08-18T17:42:36.762Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "Feb2026.pdf",
-      "sourceId": "migrated-ca-2026-02-sec1-2",
-      "sourceTitle": "16th Finance Commission — Tax Devolution Retained at 41%",
-      "sourceChecksum": "2d537e23b33a99d89688aafedb3bafe2dea3512ecebe7ac60b93f8a6be7c3f6c",
-      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
-      "normalizationRuleVersion": "1.0.0-feb2026"
-    }
-  }
+      "sourceId": "emu-national-accounts-base-revisions",
+      "sourceTitle": "National Statistical Base Revisions — CPI 2024 Base, Trade 2022-23 & National Accounts",
+      "provenancePages": [
+        4,
+        5
+      ],
+      "constituentArticleCount": 2,
+      "migrationTimestamp": "2026-08-18T17:42:36.762Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
+  },
+  "relationships": []
 }

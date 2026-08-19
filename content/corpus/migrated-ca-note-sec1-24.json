@@ -1,36 +1,25 @@
 {
   "id": "migrated-ca-note-sec1-24",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "K Rajaraman Granted Extension as Chairman of IFSCA",
+  "type": "ca_note",
   "summary": "K Rajaraman Granted Extension as Chairman of IFSCA",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 K Rajaraman Granted Extension as Chairman of IFSCA. Key development for Banking & General Awareness."
+    },
+    {
       "type": "bullet_list",
       "items": [
-        "K Rajaraman granted extension as Chairman of IFSCA beyond July 31, 2026 till age 65 (HQ: GIFT City)."
+        "K Rajaraman granted extension as Chairman of IFSCA beyond July 31, 2026 till age 65 (HQ: GIFT City).",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on appointee name, nominating body (FSIB / ACC), predecessor, tenure duration, and statutory establishment year."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Appointee / Official",
-        "New Position & Organization",
-        "Key Context & Details"
-      ],
-      "rows": [
-        [
-          "K Rajaraman",
-          "Extension as Chairman of IFSCA",
-          "K Rajaraman granted extension as Chairman of IFSCA beyond July 31, 2026 till age 65 (HQ: GIFT City)."
-        ]
-      ]
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on appointee name, nominating body (FSIB / ACC), predecessor, tenure duration, and statutory establishment year."
     }
   ],
   "metadata": {
@@ -55,6 +44,16 @@
       "sourceChecksum": "4346d45a50499d4a34d32ba3a301844295e8c3da5c865f532550d2cab3b9b65b",
       "migrationTimestamp": "2026-08-15T12:09:32.008Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

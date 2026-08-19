@@ -1,31 +1,33 @@
 {
   "id": "migrated-ca-ca-2026-08-12-sebi-retail-fo-losses-fy26",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "SEBI Measures Curtail Retail Equity F&O Net Losses to ₹91,685 Crore in FY26",
+  "type": "ca_note",
   "summary": "SEBI F&O rationalisation measures reduced aggregate retail equity derivative losses from ₹1,11,788 crore to ₹91,685 crore in FY26.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "SEBI F&O rationalisation measures reduced aggregate retail equity derivative losses from ₹1,11,788 crore to ₹91,685 crore in FY26."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 SEBI Measures Curtail Retail Equity F&O Net Losses to ₹91,685 Crore in FY26. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "SEBI F&O rationalisation measures reduced aggregate retail equity derivative losses from ₹1,11,788 crore to ₹91,685 crore in FY26.",
         "**Loss Reduction:** Net retail losses in equity derivatives curtailed from **₹1,11,788 crore to ₹91,685 crore** in FY26.",
         "**Unique Individual Traders:** Unique retail traders declined to **78.60 lakh**.",
-        "**Key Reform Measures:** Weekly index derivative rationalisation, higher contract sizes, upfront option premium, removal of expiry day calendar spreads."
+        "**Key Reform Measures:** Weekly index derivative rationalisation, higher contract sizes, upfront option premium, removal of expiry day calendar spreads.",
+        "⚠️ **Loss Figures:** Total retail F&O net loss stood at ₹91,685 crore in FY26.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
       "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "F&O Reforms: Introduced under SEBI Master Circular on Equity Derivatives."
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "SEBI Established: 12 April 1992 (SEBI Act 1992) · HQ: Mumbai · Regulatory Scope: Securities & Capital Markets"
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Loss Figures:** Total retail F&O net loss stood at ₹91,685 crore in FY26."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -50,6 +52,16 @@
       "sourceChecksum": "3dfcfaeabfedd6bf6a8b280a01b9fd2c5877422399407e899df74c8b90c13ba0",
       "migrationTimestamp": "2026-08-15T12:20:27.537Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

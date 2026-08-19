@@ -1,20 +1,25 @@
 {
   "id": "migrated-ca-note-sec1-36",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Karnataka Bank Launches 'KBL Finsurance' Platform",
+  "type": "ca_note",
   "summary": "Karnataka Bank Launches 'KBL Finsurance' Platform",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 3. 🏦 BANKING & INSURANCE NEWS",
+      "text": "🪝 Karnataka Bank Launches 'KBL Finsurance' Platform. Key development for Banking & General Awareness."
+    },
+    {
       "type": "bullet_list",
       "items": [
-        "Karnataka Bank launched digital portal **'KBL Finsurance'** (powered by SprintMoney) to streamline insurance lead tracking across branches."
+        "Karnataka Bank launched digital portal **'KBL Finsurance'** (powered by SprintMoney) to streamline insurance lead tracking across branches.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
       ]
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
     }
   ],
   "metadata": {
@@ -39,6 +44,16 @@
       "sourceChecksum": "edd30ee9acf9b5248879be9d586ba93ac7fa92b5bd13b389a07bd1e455977a28",
       "migrationTimestamp": "2026-08-15T12:10:02.257Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC3",
+    "sectionNumber": 3,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

@@ -1,0 +1,52 @@
+{
+  "unitId": "emu-sbi-landmark-scale-milestones",
+  "title": "🏦 State Bank of India — ₹10.9L Cr Market Cap (#4 in India) & $1B MUFG Social Loan",
+  "category": "SEC3",
+  "tier": "TIER_A",
+  "theme": "Public Sector Banking Scale & Sustainable Finance",
+  "leadArticleId": "cgb-art-46",
+  "constituentCount": 3,
+  "provenancePages": [
+    18,
+    20,
+    24
+  ],
+  "provenanceArticleIds": [
+    "cgb-art-46",
+    "cgb-art-53",
+    "cgb-art-73"
+  ],
+  "mivScore": 95,
+  "executiveSummary": "SBI raised $1 billion through 5-year social loan from Japan's MUFG, the first social loan raised by an Indian bank.",
+  "masterKeyFacts": [
+    "SBI raised $1 billion through 5-year social loan from Japan's MUFG, the first social loan raised by an Indian bank.",
+    "SBI market cap crossed ₹10.9 lakh crore, surpassing TCS (₹10.5L Cr) to rank 4th (Reliance > HDFC Bank > Bharti Airtel > SBI).",
+    "SBI aims for 7.5-10% green advances by 2030 and launched CHAKRA Centre of Excellence for renewable energy and green hydrogen."
+  ],
+  "subEvents": [
+    {
+      "title": "SBI raises $1 billion from MUFG via 5-year social loan",
+      "page": 18,
+      "facts": [
+        "SBI raised $1 billion through 5-year social loan from Japan's MUFG, the first social loan raised by an Indian bank."
+      ]
+    },
+    {
+      "title": "SBI overtakes TCS to become India's 4th Most Valuable Company",
+      "page": 20,
+      "facts": [
+        "SBI market cap crossed ₹10.9 lakh crore, surpassing TCS (₹10.5L Cr) to rank 4th (Reliance > HDFC Bank > Bharti Airtel > SBI)."
+      ]
+    },
+    {
+      "title": "SBI targets increasing green advances to 10% by 2030, launches CHAKRA",
+      "page": 24,
+      "facts": [
+        "SBI aims for 7.5-10% green advances by 2030 and launched CHAKRA Centre of Excellence for renewable energy and green hydrogen."
+      ]
+    }
+  ],
+  "statutoryProvisions": [],
+  "examAngle": "🎯 Exam Angle → Focus on exact statutory limits, financial outlays, and regulatory frameworks.",
+  "whyStandaloneJustification": "SBI surpasses TCS in market capitalization and raises India's first commercial bank social loan."
+}

@@ -1,0 +1,95 @@
+{
+  "id": "migrated-ca-2026-02-sec2-1",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Monetary Policy Feb 2026 — Repo Rate Held at 5.25%, MSME Loan Limit Doubled",
+  "summary": "RBI keeps Repo Rate unchanged at 5.25%, doubles collateral-free MSME loan limit to ₹20 lakh, and sets digital-fraud compensation cap at ₹25,000.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 RBI Monetary Policy Feb 2026 — Repo Rate Held at 5.25%, MSME Loan Limit Doubled. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "RBI MPC kept the **Repo Rate unchanged at 5.25%** with a neutral stance. Key policy decisions focused on structural MSME and consumer protection reforms.",
+        "**Policy Rates**: Repo 5.25%, SDF (standing deposit facility without collateral) 5.00%, MSF (marginal standing facility for emergency borrowing) & Bank Rate 5.50%, Reverse Repo 3.35%, CRR 3%, SLR 18%.",
+        "**MSME Limit Doubled**: Collateral-free MSME loan limit doubled to **₹20 lakh** (from ₹10 lakh) effective 1 April 2026.",
+        "**Digital-Fraud Compensation**: Victim and bank each bear 15% of loss; RBI covers the remaining 70%, capped at **₹25,000/case** via DEA Fund.",
+        "**Growth & Inflation**: FY26 GDP 7.4%; FY26 CPI (consumer price index tracking retail inflation) inflation 2.1%.",
+        "🎯 Exam Angle → Focus on Repo Rate figure (5.25%), MPC stance ('Neutral'), MSME collateral-free threshold, and inflation forecast."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on Repo Rate figure (5.25%), MPC stance ('Neutral'), MSME collateral-free threshold, and inflation forecast."
+    },
+    {
+      "type": "warning_banner",
+      "title": "💼 Interview Question & Model Answer",
+      "text": "**Q:** Why has the MPC maintained a 'Neutral' stance amidst global macroeconomic uncertainties?\n\n**Model Answer:** A neutral stance provides the RBI flexibility to balance domestic growth with inflation targets while monitoring global commodity price volatility."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 2,
+      "code": "SEC2",
+      "name": "REGULATORY BODIES NEWS",
+      "emoji": "🏛️",
+      "fullName": "2. 🏛️ REGULATORY BODIES NEWS"
+    },
+    "hook": "🪝 RBI Monetary Policy Feb 2026 — Repo Rate Held at 5.25%, MSME Loan Limit Doubled",
+    "examAngle": "🎯 Exam Angle → Focus on Repo Rate figure (5.25%), MPC stance ('Neutral'), MSME collateral-free threshold, and inflation forecast.",
+    "interviewQ": {
+      "question": "Why has the MPC maintained a 'Neutral' stance amidst global macroeconomic uncertainties?",
+      "modelAnswer": "A neutral stance provides the RBI flexibility to balance domestic growth with inflation targets while monitoring global commodity price volatility."
+    },
+    "staticGK": {
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-02-15"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026",
+      "February 2026"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "migrated-ca-2026-02-sec2-1",
+      "sourceTitle": "RBI Monetary Policy Feb 2026 — Repo Rate Held at 5.25%, MSME Loan Limit Doubled",
+      "sourceChecksum": "e4506dfe444efef973df8ced2f2ba3b212b00a79dba10a9ee4ab0585f085c853",
+      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+      "normalizationRuleVersion": "1.0.0-feb2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

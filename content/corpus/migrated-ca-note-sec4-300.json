@@ -1,24 +1,25 @@
 {
   "id": "migrated-ca-note-sec4-300",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Static GK: Tarapur Atomic Power Station (TAPS 1&2) World Oldest Commercial Reactor",
+  "type": "ca_note",
   "summary": "Commissioned in 1969 in Palghar district, Maharashtra.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Commissioned in 1969 in Palghar district, Maharashtra."
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 Static GK: Tarapur Atomic Power Station (TAPS 1&2) World Oldest Commercial Reactor. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
-        "Historical Significance: TAPS Units 1 & 2 (commissioned 1969) are the world's oldest operating commercial nuclear reactors."
+        "Commissioned in 1969 in Palghar district, Maharashtra.",
+        "Historical Significance: TAPS Units 1 & 2 (commissioned 1969) are the world's oldest operating commercial nuclear reactors.",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "NPCIL (Nuclear Power Corporation of India Ltd) operates Tarapur."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
     }
   ],
   "metadata": {
@@ -43,6 +44,16 @@
       "sourceChecksum": "befdc8383d1fda3013de73a401424c6b83959de2123947bd230d1a9c33fbdc15",
       "migrationTimestamp": "2026-08-15T12:15:40.421Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

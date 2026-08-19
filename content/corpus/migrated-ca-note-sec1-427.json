@@ -1,31 +1,28 @@
 {
   "id": "migrated-ca-note-sec1-427",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "MNRE Launches 'Green Hydrogen Certification Portal of India (GHCI)' &  Startup Support",
+  "type": "ca_note",
   "summary": "Pralhad Joshi sanctions ₹22 crore 1st batch support to 9 green hydrogen startups.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Pralhad Joshi sanctions ₹22 crore 1st batch support to 9 green hydrogen startups."
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 MNRE Launches 'Green Hydrogen Certification Portal of India (GHCI)' &  Startup Support. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Pralhad Joshi sanctions ₹22 crore 1st batch support to 9 green hydrogen startups.",
         "GHCI Portal: Facilitates transparent certification under Green Hydrogen Certification Scheme of India.",
         "Electrolyser Incentives: Financial incentives awarded to 15 companies for 3,000 MW/yr manufacturing under SIGHT.",
-        "Refinery Contracts: 30,000 MTPA green hydrogen supply contracts awarded to IOCL, BPCL, HPCL, and NRL."
+        "Refinery Contracts: 30,000 MTPA green hydrogen supply contracts awarded to IOCL, BPCL, HPCL, and NRL.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of MNRE Launches 'Green Hydrogen Certification Portal of India (GHCI)' &  Startup Support."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "National Green Hydrogen Mission outlay ₹19,744 crore targeting 5 MMT annual capacity by 2030."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of MNRE Launches 'Green Hydrogen Certification Portal of India (GHCI)' &  Startup Support."
     }
   ],
   "metadata": {
@@ -39,7 +36,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-06-19",
-    "category": "SEC1",
+    "category": "SEC6",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:19:15.619Z",
     "provenance": {
@@ -50,6 +47,16 @@
       "sourceChecksum": "6d954589555e757297062a399cd242fbdcaaac92d34e26c31c9f78ac2303501f",
       "migrationTimestamp": "2026-08-15T12:19:15.619Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 82
   }
 }

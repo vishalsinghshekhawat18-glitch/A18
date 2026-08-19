@@ -1,0 +1,77 @@
+{
+  "id": "migrated-ca-2026-01-sec2-1",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India Becomes World's 4th-Largest Economy at $4.18 Trillion",
+  "summary": "India surpassed Japan to become the world's 4th-largest economy with a $4.18 trillion GDP, targeting $7.3 trillion by 2030.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 3. 🏦 BANKING & INSURANCE NEWS",
+      "text": "🪝 India Becomes World's 4th-Largest Economy at $4.18 Trillion. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "India's nominal GDP touched **$4.18 trillion**, overtaking Japan to rank as the **4th-largest economy globally**. The 2030 target is to reach $7.3 trillion and become the 3rd-largest (surpassing Germany).",
+        "**Q2 FY26 Real GDP Growth**: 8.2% (up from 7.8% in Q1).",
+        "**2026 Agency Growth Forecasts**: World Bank 6.5%, IMF 6.2%, OECD 6.2%, Moody's 6.4%, ADB 7.2%, Fitch 7.4%.",
+        "Top 4 economies: US (1st), China (2nd), Germany (3rd), India (4th), Japan (5th).",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
+    }
+  ],
+  "intelligence": {
+    "zone": "LIGHT_TOUCH",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 3,
+      "code": "SEC3",
+      "name": "BANKING & INSURANCE NEWS",
+      "emoji": "🏦",
+      "fullName": "3. 🏦 BANKING & INSURANCE NEWS"
+    },
+    "hook": "🪝 India Becomes World's 4th-Largest Economy at $4.18 Trillion",
+    "examAngle": "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-01-26"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026",
+      "January 2026"
+    ],
+    "date": "2026-01-26",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "January_26.pdf",
+      "sourceId": "migrated-ca-2026-01-sec2-1",
+      "sourceTitle": "India Becomes World's 4th-Largest Economy at $4.18 Trillion",
+      "sourceChecksum": "b31325eefb9562d5979f89f12c8669e21c815c5dc6b3f55d8d77c15193688ef6",
+      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+      "normalizationRuleVersion": "1.0.0-jan2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "LIGHT_TOUCH",
+    "sectionCode": "SEC3",
+    "sectionNumber": 3,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

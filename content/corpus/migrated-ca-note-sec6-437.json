@@ -1,47 +1,28 @@
 {
   "id": "migrated-ca-note-sec6-437",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "15-Year-Old Vaibhav Sooryavanshi Sweeps 5 IPL 2026 Awards as RCB Retains Title",
+  "type": "ca_note",
   "summary": "Becomes youngest Orange Cap winner in IPL history with 776 runs and 72 sixes.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Becomes youngest Orange Cap winner in IPL history with 776 runs and 72 sixes."
+      "type": "warning_banner",
+      "title": "📰 7. 🏆 AWARDS, BOOKS, INDICES & RANKINGS",
+      "text": "🪝 15-Year-Old Vaibhav Sooryavanshi Sweeps 5 IPL 2026 Awards as RCB Retains Title. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Becomes youngest Orange Cap winner in IPL history with 776 runs and 72 sixes.",
         "5 Individual Awards: Vaibhav Sooryavanshi (RR) won Orange Cap, MVP, Emerging Player, Super Striker, and Super Sixes.",
         "Record Sixes: Struck 72 sixes in a single season, breaking Chris Gayle's 2011 record of 59 sixes.",
-        "RCB Title Retention: RCB (captain Rajat Patidar) defeated Gujarat Titans to retain title (3rd team after CSK and MI)."
+        "RCB Title Retention: RCB (captain Rajat Patidar) defeated Gujarat Titans to retain title (3rd team after CSK and MI).",
+        "Vaibhav sixes record (72 sixes) vs Gayle previous record (59 sixes).",
+        "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Award Title",
-        "Recipient / Winner",
-        "Conferred By / Key Detail"
-      ],
-      "rows": [
-        [
-          "15-Year-Old Vaibhav Sooryavanshi Sweeps 5 IPL 2026 Awards as RCB Retains Title",
-          "5 Individual Awards: Vaibhav Sooryavanshi (RR) won Orange Cap, MVP, Emerging Player, Super Striker, and Super Sixes.",
-          "Vaibhav Sooryavanshi (Bihar) selected for Indian Men's T20 team at age 15 years 71 days."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Vaibhav Sooryavanshi (Bihar) selected for Indian Men's T20 team at age 15 years 71 days."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Vaibhav sixes record (72 sixes) vs Gayle previous record (59 sixes)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
     }
   ],
   "metadata": {
@@ -66,6 +47,16 @@
       "sourceChecksum": "b9fd79dd0c70bd1dee11e285a43a33a9037fb8daab0a0399575c7fa290587c38",
       "migrationTimestamp": "2026-08-15T12:19:15.619Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC7",
+    "sectionNumber": 7,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

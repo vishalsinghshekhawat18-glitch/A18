@@ -1,31 +1,28 @@
 {
   "id": "migrated-ca-note-sec1-419",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "PMUY Annual Subsidised LPG Cylinder Quota Reduced from 9 to 4",
+  "type": "ca_note",
   "summary": "Retains targeted subsidy of ₹300 per 14.2-kg LPG cylinder for poor households.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Retains targeted subsidy of ₹300 per 14.2-kg LPG cylinder for poor households."
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 PMUY Annual Subsidised LPG Cylinder Quota Reduced from 9 to 4. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Retains targeted subsidy of ₹300 per 14.2-kg LPG cylinder for poor households.",
         "Quota Reduction: Subsidised 14.2-kg LPG cylinders per beneficiary under PM Ujjwala Yojana cut from 9 to 4 per year.",
         "Subsidy Level: Targeted subsidy of ₹300 per refill (introduced Oct 2023) continues to be credited via DBT.",
-        "PMUY Launch: Launched in May 2016 to provide deposit-free LPG connections to adult women from BPL families."
+        "PMUY Launch: Launched in May 2016 to provide deposit-free LPG connections to adult women from BPL families.",
+        "Current subsidised cylinder quota (4 per year) vs original 2016 entitlement (12 per year).",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of PMUY Annual Subsidised LPG Cylinder Quota Reduced from 9 to 4."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "PMUY implemented by Ministry of Petroleum and Natural Gas."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Current subsidised cylinder quota (4 per year) vs original 2016 entitlement (12 per year)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of PMUY Annual Subsidised LPG Cylinder Quota Reduced from 9 to 4."
     }
   ],
   "metadata": {
@@ -50,6 +47,16 @@
       "sourceChecksum": "295aa05011875d5f35af41b37dfe81b3988e57e2f905b66740ad3e6055e574d7",
       "migrationTimestamp": "2026-08-15T12:18:39.842Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

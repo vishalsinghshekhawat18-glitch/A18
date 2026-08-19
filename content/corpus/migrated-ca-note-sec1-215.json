@@ -1,30 +1,27 @@
 {
   "id": "migrated-ca-note-sec1-215",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "POWERGRID Secures JPY 80 Billion Green Loan from Japan Bank for International Cooperation (JBIC)",
+  "type": "ca_note",
   "summary": "Finances Khavda-Nagpur high-voltage direct current (HVDC) transmission infrastructure in India.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Finances Khavda-Nagpur high-voltage direct current (HVDC) transmission infrastructure in India."
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 POWERGRID Secures JPY 80 Billion Green Loan from Japan Bank for International Cooperation (JBIC). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Finances Khavda-Nagpur high-voltage direct current (HVDC) transmission infrastructure in India.",
         "Loan Quantum: JPY 80 billion green loan facility signed with JBIC.",
-        "Project Purpose: Integrates renewable power from Khavda (Gujarat) to Nagpur (Maharashtra) via HVDC grid."
+        "Project Purpose: Integrates renewable power from Khavda (Gujarat) to Nagpur (Maharashtra) via HVDC grid.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "POWERGRID Maharatna CPSE HQ: Gurugram, Haryana | JBIC HQ: Tokyo, Japan."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
     }
   ],
   "metadata": {
@@ -49,6 +46,16 @@
       "sourceChecksum": "b754def7de91eb71fa142a7e4fac6ea563cd9c9a8e1dc9eb3dbfcd0fdf5dfe79",
       "migrationTimestamp": "2026-08-15T12:13:47.645Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

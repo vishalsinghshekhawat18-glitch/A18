@@ -1,46 +1,27 @@
 {
   "id": "migrated-ca-note-sec6-441",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Asmita Dey Wins India's 1st Commonwealth Judo Gold Medal in Women's 48kg",
+  "type": "ca_note",
   "summary": "Historic martial arts victory at Commonwealth Judo Championships.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Historic martial arts victory at Commonwealth Judo Championships."
+      "type": "warning_banner",
+      "title": "📰 6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS",
+      "text": "🪝 Asmita Dey Wins India's 1st Commonwealth Judo Gold Medal in Women's 48kg. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Historic martial arts victory at Commonwealth Judo Championships.",
         "Indian judoka Asmita Dey won India's 1st Gold medal in Women's 48kg category at the Commonwealth Judo Championships.",
-        "Defeated top-seeded opponent in the final with an Ippon score."
+        "Defeated top-seeded opponent in the final with an Ippon score.",
+        "Weight category (Women's 48kg).",
+        "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Award Title",
-        "Recipient / Winner",
-        "Conferred By / Key Detail"
-      ],
-      "rows": [
-        [
-          "Asmita Dey Wins India's 1st Commonwealth Judo Gold Medal in Women's 48kg",
-          "Indian judoka Asmita Dey won India's 1st Gold medal in Women's 48kg category at the Commonwealth Judo Championships.",
-          "Judo Federation of India (JFI) President: Partap Singh Bajwa | HQ: New Delhi."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Judo Federation of India (JFI) President: Partap Singh Bajwa | HQ: New Delhi."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Weight category (Women's 48kg)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
     }
   ],
   "metadata": {
@@ -65,6 +46,16 @@
       "sourceChecksum": "9dc17d00e39a97352f07d56390a365833a2f137e315eaa7e0742444a6f1654bd",
       "migrationTimestamp": "2026-08-15T12:19:15.619Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "sectionNumber": 6,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 82
   }
 }

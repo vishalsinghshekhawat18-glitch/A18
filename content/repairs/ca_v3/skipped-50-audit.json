@@ -1,0 +1,460 @@
+{
+  "version": "1.0.0-skipped-50-audit",
+  "timestamp": "2026-08-18T17:28:58.278Z",
+  "totalSampled": 50,
+  "correctlySkipped": 45,
+  "accuracyRate": "90.0%",
+  "falseSkipCount": 5,
+  "sampleEvaluations": [
+    {
+      "sampleId": 1,
+      "artId": "cgb-art-2",
+      "page": 2,
+      "title": "PMEGP assisted 63% of units under manufacturing and 93% under service",
+      "verdict": "SHOULD_HAVE_ATTACHED",
+      "reason": "Statutory body mentioned — check if candidate for attachment to existing regulatory node.",
+      "sourceTextSnippet": "PMEGP central sector scheme assisted 63% manufacturing and 93% service units up to Rs 10 lakh. RBI g"
+    },
+    {
+      "sampleId": 2,
+      "artId": "cgb-art-9",
+      "page": 4,
+      "title": "World Bank Highlights Karnataka’s Fiscal Strategy for Other States",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "World Bank report to 16th FC highlighted Karnataka 2014 model of including PSU/SPV borrowings into s"
+    },
+    {
+      "sampleId": 3,
+      "artId": "cgb-art-15",
+      "page": 5,
+      "title": "Eight Core Industries Index grows 4% in January",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "Combined Index of Eight Core Industries increased by 4% in Jan 2026. Growth in Cement, Steel, Electr"
+    },
+    {
+      "sampleId": 4,
+      "artId": "cgb-art-28",
+      "page": 11,
+      "title": "Meta Launches 'Scam Se Bacho' 3.0 With SEBI",
+      "verdict": "SHOULD_HAVE_ATTACHED",
+      "reason": "Statutory body mentioned — check if candidate for attachment to existing regulatory node.",
+      "sourceTextSnippet": "Meta launched 3rd edition of Scam Se Bacho with SEBI to fight digital scams across messaging apps."
+    },
+    {
+      "sampleId": 5,
+      "artId": "cgb-art-34",
+      "page": 13,
+      "title": "RBI Digital Payments Index (RBI-DPI) stands at 516.76 for Sept 2025",
+      "verdict": "SHOULD_HAVE_ATTACHED",
+      "reason": "Statutory body mentioned — check if candidate for attachment to existing regulatory node.",
+      "sourceTextSnippet": "RBI-DPI (base March 2018=100) rose to 516.76 in Sept 2025 from 493.22 in March 2025. 5 parameters: P"
+    },
+    {
+      "sampleId": 6,
+      "artId": "cgb-art-45",
+      "page": 18,
+      "title": "Blackstone gets RBI approval for 9.99% stake purchase in Federal Bank",
+      "verdict": "SHOULD_HAVE_ATTACHED",
+      "reason": "Statutory body mentioned — check if candidate for attachment to existing regulatory node.",
+      "sourceTextSnippet": "RBI approved Blackstone affiliate Asia II Topco XIII to invest ₹6,196.51 crore for up to 9.99% stake"
+    },
+    {
+      "sampleId": 7,
+      "artId": "cgb-art-54",
+      "page": 20,
+      "title": "EximPe receives PA-Cross Border license from RBI",
+      "verdict": "SHOULD_HAVE_ATTACHED",
+      "reason": "Statutory body mentioned — check if candidate for attachment to existing regulatory node.",
+      "sourceTextSnippet": "Fintech EximPe received final RBI Payment Aggregator - Cross Border authorization for UPI-based merc"
+    },
+    {
+      "sampleId": 8,
+      "artId": "cgb-art-59",
+      "page": 21,
+      "title": "IDFC FIRST Bank launches Hello Cashback FD-backed Credit Card",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "IDFC FIRST Bank launched Hello Cashback Credit Card with ₹10,000 fixed deposit credit limit."
+    },
+    {
+      "sampleId": 9,
+      "artId": "cgb-art-67",
+      "page": 23,
+      "title": "PhonePe introduces biometric authentication for UPI up to ₹5,000",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "PhonePe introduced fingerprint/face biometric authentication for UPI payments up to ₹5,000 without e"
+    },
+    {
+      "sampleId": 10,
+      "artId": "cgb-art-74",
+      "page": 25,
+      "title": "MIGA provides $197.67M guarantee to Citibank for loan to SBI Rooftop Solar",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "World Bank's MIGA issued $197.67 million 5-year guarantee to Citibank for SBI Grid-connected Rooftop"
+    },
+    {
+      "sampleId": 11,
+      "artId": "cgb-art-79",
+      "page": 26,
+      "title": "IRFC raises JPY-equivalent $400 million 5-year loan via SMBC/MUFG GIFT City",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "IRFC raised JPY-equivalent $400M 5-year ECB benchmarked to TONAR from SMBC/MUFG at GIFT City."
+    },
+    {
+      "sampleId": 12,
+      "artId": "cgb-art-85",
+      "page": 28,
+      "title": "Atal Innovation Mission hosts AIM SUMVAAD conclave",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "NITI Aayog AIM organised AIM SUMVAAD at New Delhi announcing National Incubator Assessment Framework"
+    },
+    {
+      "sampleId": 13,
+      "artId": "cgb-art-91",
+      "page": 30,
+      "title": "AM/NS India gets Green Steel certification under Ministry of Steel taxonomy",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "ArcelorMittal Nippon Steel received India's 1st green steel certificate from NISST (emission thresho"
+    },
+    {
+      "sampleId": 14,
+      "artId": "cgb-art-98",
+      "page": 32,
+      "title": "India-Netherlands Hydrogen Fellowship Programme signed with 19 IITs",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "DST signed MoU with University of Groningen (Netherlands) and 19 IITs for hydrogen research under NG"
+    },
+    {
+      "sampleId": 15,
+      "artId": "cgb-art-103",
+      "page": 33,
+      "title": "Health Ministry launches National Mass Drug Administration Campaign for Lymphatic Filariasis",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "JP Nadda launched campaign in 348 endemic districts across 20 states to eliminate LF (elephantiasis)"
+    },
+    {
+      "sampleId": 16,
+      "artId": "cgb-art-108",
+      "page": 35,
+      "title": "Scheme to Promote Manufacturing of Sintered Rare Earth Permanent Magnets (₹7,280 Cr)",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "Cabinet approved ₹7,280 Cr scheme for 6,000 MTPA REPM manufacturing under National Critical Mineral "
+    },
+    {
+      "sampleId": 17,
+      "artId": "cgb-art-115",
+      "page": 38,
+      "title": "ITU-led Study Tour on E-waste circular economy hosted in New Delhi",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "DoT and ITU with APC Colombia commenced international exchange on e-waste regulation."
+    },
+    {
+      "sampleId": 18,
+      "artId": "cgb-art-121",
+      "page": 39,
+      "title": "Cabinet approves ₹18,662 Crore Brahmaputra underwater road-cum-rail tunnel",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "Cabinet approved 33.7 km Gohpur-Numaligarh 4-lane underwater tunnel under Brahmaputra River in Assam"
+    },
+    {
+      "sampleId": 19,
+      "artId": "cgb-art-127",
+      "page": 41,
+      "title": "NPCIL reconnects Tarapur Atomic Power Station Unit-1 (TAPS-1)",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "NPCIL reconnected TAPS-1 (commissioned 1969, Asia's 1st commercial nuclear reactor outside USSR) in "
+    },
+    {
+      "sampleId": 20,
+      "artId": "cgb-art-133",
+      "page": 42,
+      "title": "European Union opens first European Legal Gateway Office in New Delhi",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "EU inaugurated legal gateway in New Delhi for Indian ICT professionals/students mobility."
+    },
+    {
+      "sampleId": 21,
+      "artId": "cgb-art-140",
+      "page": 45,
+      "title": "DPIIT unveils 'Bharat GI' as unified national IP brand ('A World Exclusive')",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "DPIIT launched 'Bharat GI' umbrella brand to showcase Indian GI products globally."
+    },
+    {
+      "sampleId": 22,
+      "artId": "cgb-art-146",
+      "page": 47,
+      "title": "National Consumer Helpline facilitates ₹52 Crore refunds across 31 sectors",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "NCH (17 languages) resolved 79,521 grievances refunding ₹52 crore (E-commerce and Travel top sectors"
+    },
+    {
+      "sampleId": 23,
+      "artId": "cgb-art-153",
+      "page": 50,
+      "title": "Bangladesh becomes 89th signatory to endorse New Delhi Declaration on AI Impact",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "New Delhi AI Declaration endorsed by 89 countries on principle of Sarvajan Hitaya, Sarvajan Sukhaya."
+    },
+    {
+      "sampleId": 24,
+      "artId": "cgb-art-158",
+      "page": 51,
+      "title": "India and France sign protocol amending Double Taxation Avoidance Convention (DTAC)",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "Amended 1992 DTAC: deleted MFN clause, dividend tax split at 5%/15%, aligned FTS with US DTAA, incor"
+    },
+    {
+      "sampleId": 25,
+      "artId": "cgb-art-164",
+      "page": 53,
+      "title": "Indian mountaineers summit Mount Aconcagua (6,962 m in Argentina)",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "Nehru Institute of Mountaineering team summited Aconcagua, highest peak in South America."
+    },
+    {
+      "sampleId": 26,
+      "artId": "cgb-art-169",
+      "page": 54,
+      "title": "Lok Sabha Speaker Om Birla constitutes Parliamentary Friendship Groups with 64 nations",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "Friendship groups constituted to deepen legislative diplomacy."
+    },
+    {
+      "sampleId": 27,
+      "artId": "cgb-art-174",
+      "page": 55,
+      "title": "Dr. Jitendra Singh launches 'SUJVIKA' AI Trade Statistics portal for DBT",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "SUJVIKA biotech product data portal launched with ABLE on 40th DBT Foundation Day (est. 1986)."
+    },
+    {
+      "sampleId": 28,
+      "artId": "cgb-art-180",
+      "page": 57,
+      "title": "Casebook on AI and Gender Empowerment launched by MeitY, UN Women, MoWCD",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "23 real-world AI solutions from Global South showcased at AI Summit."
+    },
+    {
+      "sampleId": 29,
+      "artId": "cgb-art-185",
+      "page": 59,
+      "title": "MoSPI operationalises PAIMANA web portal for central projects ≥₹150 Crore",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "PAIMANA replaced OCMS-2006 for monitoring infrastructure projects integrated with DPIIT IPMP."
+    },
+    {
+      "sampleId": 30,
+      "artId": "cgb-art-192",
+      "page": 61,
+      "title": "Sangtam Naga community in Nagaland bans pangolin hunting (CITES Appendix I)",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "Resolution passed to protect all 8 pangolin species under CITES Appendix I."
+    },
+    {
+      "sampleId": 31,
+      "artId": "cgb-art-197",
+      "page": 62,
+      "title": "India joins BRICS Centre for Industrial Competencies (BCIC) with UNIDO",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "DPIIT signed Trust Fund agreement with UNIDO; National Productivity Council designated India Centre."
+    },
+    {
+      "sampleId": 32,
+      "artId": "cgb-art-203",
+      "page": 64,
+      "title": "WHO prequalifies novel oral polio vaccine (nOPV2) made by Biological E Hyderabad",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "Biological E's nOPV2 vaccine prequalified to combat cVDPV2 outbreaks."
+    },
+    {
+      "sampleId": 33,
+      "artId": "cgb-art-209",
+      "page": 66,
+      "title": "Central Bank of UAE launches world's first Sovereign Financial Cloud with Core42",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "CBUAE and Core42 (G42) launched AI-powered sovereign financial cloud."
+    },
+    {
+      "sampleId": 34,
+      "artId": "cgb-art-216",
+      "page": 77,
+      "title": "IAF conducts Exercise Vayu Shakti 2026 at Pokhran Rajasthan",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "President Droupadi Murmu witnessed Exercise Vayushakti-26 ('Achook, Abhedya aur Sateek')."
+    },
+    {
+      "sampleId": 35,
+      "artId": "cgb-art-223",
+      "page": 79,
+      "title": "TASL and Airbus inaugurate India's 1st private helicopter assembly line for H125",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "Modi and Macron inaugurated H125 final assembly line at Vemagal, Kolar district, Karnataka."
+    },
+    {
+      "sampleId": 36,
+      "artId": "cgb-art-228",
+      "page": 80,
+      "title": "9th IONS Conclave of Chiefs: Indian Navy assumes Chairmanship for 2026-2028",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "Navy chief assumed IONS Chair from Royal Thai Navy at Visakhapatnam (25 members, 9 observers)."
+    },
+    {
+      "sampleId": 37,
+      "artId": "cgb-art-234",
+      "page": 82,
+      "title": "Exercise Agni Varsha conducted by Southern Command in Pokhran",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "Field firing exercise conducted in Thar Desert."
+    },
+    {
+      "sampleId": 38,
+      "artId": "cgb-art-246",
+      "page": 87,
+      "title": "Knight Frank Student Mandate Report: Delhi #1 most affordable city for students",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "Delhi ranked #1 affordable student city globally (155M Indian 18-23 age cohort); Mumbai #11, Bengalu"
+    },
+    {
+      "sampleId": 39,
+      "artId": "cgb-art-251",
+      "page": 89,
+      "title": "UN ESCAP Asia-Pacific SDG Progress Report 2026",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "Report warns region on track to miss 103 of 117 SDG targets by 2030 (88% missed)."
+    },
+    {
+      "sampleId": 40,
+      "artId": "cgb-art-256",
+      "page": 91,
+      "title": "Global Mind Health Report 2025: Indian young adults rank 60th (MHQ 33)",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "Indians 18-34 score MHQ 33 (#60 globally); Indians 55+ score 96 (#49 globally)."
+    },
+    {
+      "sampleId": 41,
+      "artId": "cgb-art-262",
+      "page": 93,
+      "title": "Queen Mother of Bhutan receives 22nd Upendra Nath Brahma Award in Assam",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "Gyalyum Ashi Dorji Wangmo Wangchuck conferred award at Bodoland University (₹2L cash prize)."
+    },
+    {
+      "sampleId": 42,
+      "artId": "cgb-art-267",
+      "page": 94,
+      "title": "BBC Indian Sportswoman of the Year 2025: Smriti Mandhana wins",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "Smriti Mandhana won main award; Divya Deshmukh Emerging Player; Anjali Bhagwat Lifetime Achievement."
+    },
+    {
+      "sampleId": 43,
+      "artId": "cgb-art-272",
+      "page": 96,
+      "title": "Mangaluru Airport wins ACI World ASQ Award for Best Airport at Arrivals",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "Adani-managed Mangaluru Airport won ASQ award presented in Istanbul."
+    },
+    {
+      "sampleId": 44,
+      "artId": "cgb-art-277",
+      "page": 97,
+      "title": "Regional festivals celebrated: Thai Poosam (TN), Bastar Pandum, Losar (HP)",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "Thai Poosam celebrated in Tamil Nadu; Losar (Fire Horse Year) celebrated in Himachal Pradesh."
+    },
+    {
+      "sampleId": 45,
+      "artId": "cgb-art-284",
+      "page": 99,
+      "title": "Services wins 79th Santosh Trophy Football Championship",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "Services won 8th Santosh Trophy title defeating Kerala in Assam."
+    },
+    {
+      "sampleId": 46,
+      "artId": "cgb-art-289",
+      "page": 100,
+      "title": "IPC lifts ban on Russian and Belarusian athletes for Milan-Cortina 2026",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "IPC allowed athletes to compete at 2026 Winter Paralympics."
+    },
+    {
+      "sampleId": 47,
+      "artId": "cgb-art-295",
+      "page": 102,
+      "title": "Vijay Anandh appointed MD & CEO of City Union Bank",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "Vijay Anandh appointed head of City Union Bank."
+    },
+    {
+      "sampleId": 48,
+      "artId": "cgb-art-302",
+      "page": 103,
+      "title": "Ketan Merchant appointed MD & CEO of Fino Payments Bank",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "Ketan Merchant appointed head of Fino Payments Bank."
+    },
+    {
+      "sampleId": 49,
+      "artId": "cgb-art-308",
+      "page": 104,
+      "title": "National Conference on Safety of Women at Workplace (SHe-Box portal)",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "Annapurna Devi launched SHe-Box logo and PoSH compliance under PoSH Act 2013."
+    },
+    {
+      "sampleId": 50,
+      "artId": "cgb-art-313",
+      "page": 106,
+      "title": "Ministry of Power forms 3-member panel for PFC-REC merger",
+      "verdict": "CORRECTLY_SKIPPED",
+      "reason": "Non-examinable corporate PR, local notice, or routine sporting match.",
+      "sourceTextSnippet": "Director Distribution Ministry of Power to head merger working group."
+    }
+  ]
+}

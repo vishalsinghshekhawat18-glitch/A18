@@ -1,49 +1,28 @@
 {
   "id": "migrated-ca-note-sec4-304",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Delhi EV Policy 2026 (EV Policy 2.0): Bans Petrol & CNG Two-Wheeler Registrations from April 2028",
+  "type": "ca_note",
   "summary": "Phases out fossil-fuel two-wheeler registrations while committing ₹7,000 crore for EV incentives.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Phases out fossil-fuel two-wheeler registrations while committing ₹7,000 crore for EV incentives."
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 Delhi EV Policy 2026 (EV Policy 2.0): Bans Petrol & CNG Two-Wheeler Registrations from April 2028. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Phases out fossil-fuel two-wheeler registrations while committing ₹7,000 crore for EV incentives.",
         "Phased Registration Restrictions: From Jan 1, 2027, only electric 3-wheelers and N1 goods carriers allowed; from April 1, 2028, new petrol/CNG 2-wheeler registrations discontinued.",
         "Purchase Subsidies: Up to ₹30,000 for electric 2-wheelers; ₹50,000 for 3-wheelers; ₹1 lakh for N1 trucks (100% road tax/reg fee exemption).",
-        "Infrastructure & Bus Fleet: Outlay of ₹7,000 crore to install 32,000 active EV charging points and electrify 30% of school bus fleets by March 2030."
+        "Infrastructure & Bus Fleet: Outlay of ₹7,000 crore to install 32,000 active EV charging points and electrify 30% of school bus fleets by March 2030.",
+        "Electric 3-wheeler registration mandate (Jan 1, 2027) vs petrol 2-wheeler ban (April 1, 2028).",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Metric / Component",
-        "Threshold / Provision Detail"
-      ],
-      "rows": [
-        [
-          "Purchase Subsidies",
-          "Up to ₹30,000 for electric 2-wheelers; ₹50,000 for 3-wheelers; ₹1 lakh for N1 trucks (100% road tax/reg fee exemption)."
-        ],
-        [
-          "Infrastructure & Bus Fleet",
-          "Outlay of ₹7,000 crore to install 32,000 active EV charging points and electrify 30% of school bus fleets by March 2030."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Delhi CM: Rekha Gupta | Delhi Transport Commissioner: Niharika Rai."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Electric 3-wheeler registration mandate (Jan 1, 2027) vs petrol 2-wheeler ban (April 1, 2028)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Delhi EV Policy 2026 (EV Policy 2.0)."
     }
   ],
   "metadata": {
@@ -57,7 +36,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-07-02",
-    "category": "SEC4",
+    "category": "SEC6",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:16:15.973Z",
     "provenance": {
@@ -68,6 +47,16 @@
       "sourceChecksum": "34a8f59bf17aa96a8fbb98bcee4935bfe4d55cfd987671a1303300bb934f7650",
       "migrationTimestamp": "2026-08-15T12:16:15.973Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 82
   }
 }

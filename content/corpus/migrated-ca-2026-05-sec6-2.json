@@ -1,13 +1,24 @@
 {
   "id": "migrated-ca-2026-05-sec6-2",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Netherlands Returns Historic 11th-Century Chola Dynasty 'Leiden' Copper Plates to India",
+  "type": "ca_note",
   "summary": "Dutch PM Rob Jetten hands over 24 Anaimangalam Chola copper plates (30 kg with imperial seal) to PM Modi in The Hague after 14-year campaign.",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS",
+      "text": "🪝 Netherlands Returns Historic 11th-Century Chola Dynasty 'Leiden' Copper Plates to India. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "During PM Modi's visit to The Hague, the Netherlands government formally returned the 11th-century **Chola dynasty 'Leiden' copper plates** (21 large & 3 small plates in Sanskrit & Tamil), taken in 1712.",
+        "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
+      ]
+    },
+    {
       "type": "paragraph",
-      "content": "During PM Modi's visit to The Hague, the Netherlands government formally returned the 11th-century **Chola dynasty 'Leiden' copper plates** (21 large & 3 small plates in Sanskrit & Tamil), taken in 1712."
+      "content": "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
     }
   ],
   "metadata": {
@@ -33,6 +44,16 @@
       "sourceChecksum": "12843f3515b2718fc2c031342d2c251ef5537155726e165f373dee2ea047d925",
       "migrationTimestamp": "2026-08-16T16:10:30.135Z",
       "normalizationRuleVersion": "1.0.0-may2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "sectionNumber": 6,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

@@ -1,21 +1,27 @@
 {
   "id": "migrated-ca-2026-04-sec10-1",
-  "type": "ca_note",
-  "domain": "current-affairs",
-  "title": "Government Launches First Phase of Census 2027 — First Fully Digital & Caste-Enumerating Census",
+  "title": "🔄 UPDATE: Government Launches First Phase of Census 2027 — First Fully Digital & Caste-Enumerating Census",
+  "type": "ca_note_update",
   "summary": "Phase I (House Listing) of Census 2027 launched on April 1, 2026 with ₹11,718.24 Cr budget—first digital census & 1st caste count since 1931.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Government launched **Phase I of Census 2027 (16th overall, 8th post-independence)** on April 1, 2026, marking India's first smartphone/portal-based digital census."
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 Government Launches First Phase of Census 2027 — First Fully Digital & Caste-Enumerating Census. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Government launched **Phase I of Census 2027 (16th overall, 8th post-independence)** on April 1, 2026, marking India's first smartphone/portal-based digital census.",
         "**2 Phases**: Phase I (House Listing: Apr-Sep 2026) | Phase II (Population & Caste Enumeration: Feb 2027). Total budget: **₹11,718.24 crore**.",
         "**Self-Enumeration**: Citizens can self-enumerate via portal in 16 languages, generating an 11-digit SE ID.",
-        "**Data Model**: 'Census-as-a-Service' machine-readable architecture."
+        "**Data Model**: 'Census-as-a-Service' machine-readable architecture.",
+        "🎯 Exam Angle → Focus on digital census methodology, caste enumeration inclusion, mobile self-enumeration portal, and nodal ministry (MHA)."
       ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on digital census methodology, caste enumeration inclusion, mobile self-enumeration portal, and nodal ministry (MHA)."
     }
   ],
   "metadata": {
@@ -30,7 +36,7 @@
       "April 2026"
     ],
     "date": "2026-04-15",
-    "category": "SEC10",
+    "category": "SEC1",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-16T11:56:36.842Z",
     "provenance": {
@@ -41,6 +47,16 @@
       "sourceChecksum": "d89c6b29c03972dfa083516fe0cd0ea4ec183ac5d2aeaab5a3605e38823aa881",
       "migrationTimestamp": "2026-08-16T11:56:36.842Z",
       "normalizationRuleVersion": "1.0.0-apr2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "CHRONOLOGICAL_UPDATE",
+    "editorialDecision": "CHRONOLOGICAL_UPDATE",
+    "isStudyMaterial": true,
+    "parentStoryId": "migrated-ca-2026-01-sec1-2",
+    "noteTier": "TIER_A"
   }
 }

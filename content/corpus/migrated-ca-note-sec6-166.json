@@ -1,21 +1,25 @@
 {
   "id": "migrated-ca-note-sec6-166",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "4th Edition of Tri-Services Future Warfare Course Commences in New Delhi",
+  "type": "ca_note",
   "summary": "4th Edition of Tri-Services Future Warfare Course Commences in New Delhi",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS",
+      "text": "🪝 4th Edition of Tri-Services Future Warfare Course Commences in New Delhi. Key development for Banking & General Awareness."
+    },
     {
       "type": "bullet_list",
       "items": [
         "Organized under aegis of HQ Integrated Defence Staff (IDS) and coordinated by CENJOWS at Manekshaw Centre.",
-        "Focus: Multi-domain operations, grey-zone warfare, AI, quantum tech, and autonomous combat systems."
+        "Focus: Multi-domain operations, grey-zone warfare, AI, quantum tech, and autonomous combat systems.",
+        "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "1st pilot edition held in September 2024 | CENJOWS HQ: New Delhi."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
     }
   ],
   "metadata": {
@@ -40,6 +44,16 @@
       "sourceChecksum": "9515aa54411a3f2ea90aebfb07d792543f6a0b5ffe7371071841184c23c0773a",
       "migrationTimestamp": "2026-08-15T12:12:37.959Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "sectionNumber": 6,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

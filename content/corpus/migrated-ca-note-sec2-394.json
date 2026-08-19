@@ -1,58 +1,33 @@
 {
   "id": "migrated-ca-note-sec2-394",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "RBI Permits Commercial Banks to Lend to Registered REITs & InvITs (49% Exposure Cap)",
+  "type": "ca_note",
   "summary": "Commercial Banks Third Amendment Directions 2026 allows bank lending to SEBI-registered REITs.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Commercial Banks Third Amendment Directions 2026 allows bank lending to SEBI-registered REITs."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 RBI Permits Commercial Banks to Lend to Registered REITs & InvITs (49% Exposure Cap). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Commercial Banks Third Amendment Directions 2026 allows bank lending to SEBI-registered REITs.",
         "Exposure Ceiling: Overall bank exposure to a REIT/InvIT capped at 49% of asset value; sub-limit capped at 10% of bank's capital base.",
         "Cash Flow Mandate: Min 80% underlying assets must generate positive operational cash flows for $\\\\ge 1$ year.",
-        "Risk Weighting: Standard risk weight 100% (125% for capital market exposure; 150% for Indian bank overseas branches)."
-      ]
-    },
-    {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Metric / Component",
-        "Threshold / Provision Detail"
-      ],
-      "rows": [
-        [
-          "Exposure Ceiling",
-          "Overall bank exposure to a REIT/InvIT capped at 49% of asset value; sub-limit capped at 10% of bank's capital base."
-        ],
-        [
-          "Cash Flow Mandate",
-          "Min 80% underlying assets must generate positive operational cash flows for $\\\\ge 1$ year."
-        ],
-        [
-          "Risk Weighting",
-          "Standard risk weight 100% (125% for capital market exposure; 150% for Indian bank overseas branches)."
-        ]
+        "Risk Weighting: Standard risk weight 100% (125% for capital market exposure; 150% for Indian bank overseas branches).",
+        "REIT exposure asset value cap (49%) vs capital base sub-limit (10%) vs positive cash flow requirement (80%).",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
       "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "REITs regulated under SEBI (Real Estate Investment Trusts) Regulations 2014."
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "REIT exposure asset value cap (49%) vs capital base sub-limit (10%) vs positive cash flow requirement (80%)."
-    },
-    {
-      "type": "quote",
-      "quote": "Interview Focus Question: \"Analyze RBI's framework allowing bank lending to REITs and InvITs.\"\n💡 **Model Answer: It permits bank financing up to 49% of asset value while enforcing an 80% positive cash-flow rule, prohibiting bullet repayments, and capping exposure at 10% of capital base.**",
-      "author": "Banking & Regulatory Board Panel"
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -77,6 +52,16 @@
       "sourceChecksum": "709d949d411b1756433341f51e6857ecd2211b0db10f68b92d0676959c049aa2",
       "migrationTimestamp": "2026-08-15T12:18:04.452Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

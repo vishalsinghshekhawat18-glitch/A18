@@ -1,47 +1,28 @@
 {
   "id": "migrated-ca-note-sec7-278",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Tamil Poet R. Vairamuthu Conferred 60th Jnanpith Award (2025)",
+  "type": "ca_note",
   "summary": "Becomes 3rd Tamil author to receive India's highest literary honour.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Becomes 3rd Tamil author to receive India's highest literary honour."
+      "type": "warning_banner",
+      "title": "📰 7. 🏆 AWARDS, BOOKS, INDICES & RANKINGS",
+      "text": "🪝 Tamil Poet R. Vairamuthu Conferred 60th Jnanpith Award (2025). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Becomes 3rd Tamil author to receive India's highest literary honour.",
         "60th Jnanpith Awardee: Renowned Tamil poet and lyricist R. Vairamuthu.",
         "Tamil Predecessors: Akilan (1975) and Jayakanthan (2002).",
-        "Previous Winners: 59th Vinod Kumar Shukla (Hindi); 58th Gulzar (Urdu) & Rambhadracharya (Sanskrit)."
+        "Previous Winners: 59th Vinod Kumar Shukla (Hindi); 58th Gulzar (Urdu) & Rambhadracharya (Sanskrit).",
+        "60th Jnanpith winner (R. Vairamuthu) vs 59th (Vinod Kumar Shukla).",
+        "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Award Title",
-        "Recipient / Winner",
-        "Conferred By / Key Detail"
-      ],
-      "rows": [
-        [
-          "Tamil Poet R. Vairamuthu Conferred 60th Jnanpith Award (2025)",
-          "60th Jnanpith Awardee: Renowned Tamil poet and lyricist R. Vairamuthu.",
-          "Jnanpith Award instituted in 1961 by Bharatiya Jnanpith (1st winner G. Sankara Kurup 1965)."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Jnanpith Award instituted in 1961 by Bharatiya Jnanpith (1st winner G. Sankara Kurup 1965)."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "60th Jnanpith winner (R. Vairamuthu) vs 59th (Vinod Kumar Shukla)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
     }
   ],
   "metadata": {
@@ -66,6 +47,16 @@
       "sourceChecksum": "dcda2b3bd3bf408d7b027d4a6f31b4c5b92c355927060435cac21b9b44d7779e",
       "migrationTimestamp": "2026-08-15T12:15:40.420Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC7",
+    "sectionNumber": 7,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

@@ -1,29 +1,26 @@
 {
   "id": "migrated-ca-ca-2026-08-13-deesa-desert-night-safari-gujarat",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "CZA Approves Asia's 1st Desert-Themed Drive-Through Night Safari at Deesa, Gujarat",
+  "type": "ca_note",
   "summary": "Central Zoo Authority approved Asia's 1st desert-themed drive-through night safari at Deesa in Banaskantha district, Gujarat.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Central Zoo Authority approved Asia's 1st desert-themed drive-through night safari at Deesa in Banaskantha district, Gujarat."
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 CZA Approves Asia's 1st Desert-Themed Drive-Through Night Safari at Deesa, Gujarat. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
-        "**Safari Project:** Asia's 1st desert-themed drive-through night safari approved at **Deesa, Banaskantha district, Gujarat**."
+        "Central Zoo Authority approved Asia's 1st desert-themed drive-through night safari at Deesa in Banaskantha district, Gujarat.",
+        "**Safari Project:** Asia's 1st desert-themed drive-through night safari approved at **Deesa, Banaskantha district, Gujarat**.",
+        "≠ **Location:** Deesa, Banaskantha, Gujarat.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of CZA Approves Asia's 1st Desert."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "CZA: Central Zoo Authority statutory body under Wildlife Protection Act 1972."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "≠ **Location:** Deesa, Banaskantha, Gujarat."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of CZA Approves Asia's 1st Desert."
     }
   ],
   "metadata": {
@@ -48,6 +45,16 @@
       "sourceChecksum": "5f6cab1f82e83cc1039b5eebd8744f4b989d7ff0802c3240b61e8d5b6c737367",
       "migrationTimestamp": "2026-08-15T12:14:01.063Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

@@ -1,0 +1,82 @@
+{
+  "id": "migrated-ca-2026-05-sec3-9",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Tightens Governance Norms for Urban & Rural Co-operative Banks",
+  "summary": "RBI mandates a 3-year cooling-off period for directors completing 10 years of continuous tenure on the board of UCBs and RCBs.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 RBI Tightens Governance Norms for Urban & Rural Co-operative Banks. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "RBI issued immediate governance directions requiring a **3-year cooling-off period** for directors completing 10 continuous years on UCB/RCB boards under Banking Laws (Amendment) Act 2025.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 2,
+      "code": "SEC2",
+      "name": "REGULATORY BODIES NEWS",
+      "emoji": "🏛️",
+      "fullName": "2. 🏛️ REGULATORY BODIES NEWS"
+    },
+    "hook": "🪝 RBI Tightens Governance Norms for Urban & Rural Co-operative Banks",
+    "examAngle": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks.",
+    "staticGK": {
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-05-15"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026",
+      "May 2026"
+    ],
+    "date": "2026-05-15",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T16:10:30.135Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-05-sec3-9",
+      "sourceTitle": "RBI Tightens Governance Norms for Urban & Rural Co-operative Banks",
+      "sourceChecksum": "017d0f85d28f277cf8101f900797094c78a241900495632142305133ad548003",
+      "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+      "normalizationRuleVersion": "1.0.0-may2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

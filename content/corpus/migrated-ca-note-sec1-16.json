@@ -1,57 +1,27 @@
 {
   "id": "migrated-ca-note-sec1-16",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "IRDAI Tightens Intermediary Oversight and Relaxes Insurer Investment Norms",
+  "type": "ca_note",
   "summary": "Frees up insurer capital for infrastructure while enforcing training standards on agents.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Frees up insurer capital for infrastructure while enforcing training standards on agents."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 IRDAI Tightens Intermediary Oversight and Relaxes Insurer Investment Norms. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Frees up insurer capital for infrastructure while enforcing training standards on agents.",
         "📌 **Core Policy Directives & Scope:**\n**Intermediary Registration Validity:** Certificate valid perpetually subject to **annual non-refundable fee** (higher of **₹10,000 or 0.04% commission**).\n**IMF Training Mandate:** Principal officers & salespersons must complete **≥25 hours of training once every 3 years**.\n**SPV Investment Cap:** Insurers allowed to invest up to **20%** in operational Infra SPVs rated **AA or above**.",
-        "💰 **Financial Outlays & Operational Rules:**\n**AIF/VCF Investment Caps:** Combined exposure capped at **3% for life insurers** and **5% for general insurers**.\n**Promoter & Repo Caps:** Promoter group exposure capped at **5% of investment assets**; Repo/G-Sec lending capped at lower of **25% of available securities or ₹10,000 crore**."
+        "💰 **Financial Outlays & Operational Rules:**\n**AIF/VCF Investment Caps:** Combined exposure capped at **3% for life insurers** and **5% for general insurers**.\n**Promoter & Repo Caps:** Promoter group exposure capped at **5% of investment assets**; Repo/G-Sec lending capped at lower of **25% of available securities or ₹10,000 crore**.",
+        "AIF/VCF cap for Life Insurers (3%) vs General Insurers (5%).",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Metric / Component",
-        "Threshold / Provision Detail"
-      ],
-      "rows": [
-        [
-          "Intermediary Registration Validity",
-          "Certificate valid perpetually subject to annual non-refundable fee (higher of ₹10,000 or 0.04% commission)."
-        ],
-        [
-          "SPV Investment Cap",
-          "Insurers allowed to invest up to 20% in operational Infra SPVs rated AA or above."
-        ],
-        [
-          "AIF/VCF Investment Caps",
-          "Combined exposure capped at 3% for life insurers and 5% for general insurers."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "IRDAI established under IRDA Act, 1999 (Malhotra Committee) | HQ: Hyderabad."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "AIF/VCF cap for Life Insurers (3%) vs General Insurers (5%)."
-    },
-    {
-      "type": "quote",
-      "quote": "Interview Focus Question: \"How do IRDAI's revised investment norms impact infrastructure financing?\"\n💡 **Model Answer: Permitting up to 20% assets in AA+ Infra SPVs channels long-term insurance capital into national infrastructure.**",
-      "author": "Banking & Regulatory Board Panel"
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -76,6 +46,16 @@
       "sourceChecksum": "94044d806630935663eb64e7cf896c67b9db1306a1906b1c55f77ce8d1d09573",
       "migrationTimestamp": "2026-08-15T12:09:32.007Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

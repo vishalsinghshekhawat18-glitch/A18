@@ -1,32 +1,29 @@
 {
   "id": "migrated-ca-note-sec3-163",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "India Performs Record 20,138 Organ Transplants in 2025; Ranked 3rd Globally (NOTTO Report)",
+  "type": "ca_note",
   "summary": "Launches nationwide 'Jug Jug Jiyo Abhiyaan' and e-Pratyaropan portal on 16th Indian Organ Donation Day.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Launches nationwide 'Jug Jug Jiyo Abhiyaan' and e-Pratyaropan portal on 16th Indian Organ Donation Day."
+      "type": "warning_banner",
+      "title": "📰 7. 🏆 AWARDS, BOOKS, INDICES & RANKINGS",
+      "text": "🪝 India Performs Record 20,138 Organ Transplants in 2025; Ranked 3rd Globally (NOTTO Report). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Launches nationwide 'Jug Jug Jiyo Abhiyaan' and e-Pratyaropan portal on 16th Indian Organ Donation Day.",
         "Global Ranking: India ranks 3rd globally in total organ transplants (behind US and China).",
         "National Awards: Tamil Nadu named Best State for highest deceased organ donors (266 donors); Assam Best NE State; Delhi Best UT.",
         "Digital Infrastructure: Launched 'e-Pratyaropan' portal and NOTTO app connecting 1,200 registered transplant hospitals.",
-        "Aadhaar Pledges: Over 5 lakh Aadhaar-verified organ donation pledges recorded since 2023."
+        "Aadhaar Pledges: Over 5 lakh Aadhaar-verified organ donation pledges recorded since 2023.",
+        "India's global transplant rank (3rd) vs deceased organ donor top state (Tamil Nadu, 266 donors).",
+        "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "NOTTO works under Ministry of Health & Family Welfare | Indian Organ Donation Day observed August 3."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "India's global transplant rank (3rd) vs deceased organ donor top state (Tamil Nadu, 266 donors)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
     }
   ],
   "metadata": {
@@ -51,6 +48,16 @@
       "sourceChecksum": "c8bfb1f5d1d807a84fd63e4e8141f6536a3e48f64c704067dd5f1b3615ed1d54",
       "migrationTimestamp": "2026-08-15T12:12:37.959Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC7",
+    "sectionNumber": 7,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

@@ -1,20 +1,31 @@
 {
   "id": "migrated-ca-2026-03-sec2-1",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "SEBI Deploys 'Sudarshan' AI Surveillance System for Capital Markets",
+  "type": "ca_note",
   "summary": "SEBI launches Sudarshan AI tool to scan social media audio/video/text for illegal finfluencer advice, removing 1.20 lakh+ posts.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "SEBI deployed **'Sudarshan'**, an in-house AI surveillance engine scanning Instagram, YouTube, Telegram, and X to track unregistered financial influencers promising guaranteed returns."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 SEBI Deploys 'Sudarshan' AI Surveillance System for Capital Markets. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "SEBI deployed **'Sudarshan'**, an in-house AI surveillance engine scanning Instagram, YouTube, Telegram, and X to track unregistered financial influencers promising guaranteed returns.",
         "**Action**: Facilitated removal of over 1.20 lakh misleading social media posts.",
-        "**AI Suite**: Part of SEBI's AI toolkit alongside **SEVA** (grievance chatbot) and **R(AI)DAR** (ad reviewer)."
+        "**AI Suite**: Part of SEBI's AI toolkit alongside **SEVA** (grievance chatbot) and **R(AI)DAR** (ad reviewer).",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "SEBI Established: 12 April 1992 (SEBI Act 1992) · HQ: Mumbai · Regulatory Scope: Securities & Capital Markets"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -29,7 +40,7 @@
       "March 2026"
     ],
     "date": "2026-03-15",
-    "category": "SEC4",
+    "category": "SEC2",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-16T11:13:16.778Z",
     "provenance": {
@@ -40,6 +51,16 @@
       "sourceChecksum": "228f3f145da8390c86ebcfa8b319030db66846d31506278f042db1c5c316abb7",
       "migrationTimestamp": "2026-08-16T11:13:16.778Z",
       "normalizationRuleVersion": "1.0.0-mar2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

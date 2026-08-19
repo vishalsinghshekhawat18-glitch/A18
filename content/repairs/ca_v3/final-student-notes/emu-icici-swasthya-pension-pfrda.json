@@ -1,0 +1,36 @@
+{
+  "id": "emu-icici-swasthya-pension-pfrda",
+  "title": "ICICI Swasthya Pension Scheme — PFRDA Sandbox Health-Linked Retirement",
+  "category": "SEC3",
+  "tier": "TIER_B_PLUS",
+  "theme": "Pension Product Innovation",
+  "summary": "ICICI Prudential launched Swasthya Pension Scheme under PFRDA sandbox allowing up to 25% withdrawal for medical expenses via Apollo 24|7 (70-100% equity investment).",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "**Overview**: ICICI Prudential launched Swasthya Pension Scheme under PFRDA sandbox allowing up to 25% withdrawal for medical expenses via Apollo 24|7 (70-100% equity investment)."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**ICICI Prudential introduces Swasthya Pension Scheme under PFRDA sandbox** (Page 24): ICICI Prudential launched Swasthya Pension Scheme under PFRDA sandbox allowing up to 25% withdrawal for medical expenses via Apollo 24|7 (70-100% equity investment)."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Pension Product Innovation. PFRDA sandbox product enabling 25% health withdrawal."
+    }
+  ],
+  "metadata": {
+    "provenancePages": [
+      24
+    ],
+    "constituentArticleCount": 1,
+    "provenanceArticleIds": [
+      "cgb-art-71"
+    ],
+    "statutoryConcept": "Pension Product Innovation",
+    "whyStandalone": "PFRDA sandbox product enabling 25% health withdrawal."
+  }
+}

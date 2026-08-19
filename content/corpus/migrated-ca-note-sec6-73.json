@@ -1,23 +1,12 @@
 {
   "id": "migrated-ca-note-sec6-73",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "India Achieves Clean Sweep at 22nd Commonwealth Table Tennis Championships",
+  "type": "ca_note_skipped",
   "summary": "India Achieves Clean Sweep at 22nd Commonwealth Table Tennis Championships",
   "blocks": [
     {
-      "type": "bullet_list",
-      "items": [
-        "Men's Singles Champion: **Ankur Bhattacharjee** (Gold).",
-        "Women's Singles Champion: **Yashaswini Ghorpade** (Gold).",
-        "Women's Doubles Champions: **Sreeja Akula and Syndrela Das** (Gold).",
-        "Mixed Doubles Champions: **Manav Thakkar and Taneesha Kotecha** (Gold)."
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "TTFI HQ: New Delhi."
+      "type": "paragraph",
+      "content": "*Editorial Decision: Skipped (Routine Foreign Sports Tour Match — Low Testing Probability).*"
     }
   ],
   "metadata": {
@@ -42,6 +31,15 @@
       "sourceChecksum": "81cfe749b01031f52adf7702782659721702d67585164b7195591fd6cc4edc64",
       "migrationTimestamp": "2026-08-15T12:10:34.066Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "sectionNumber": 6,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "SKIP_LOW_YIELD",
+    "isStudyMaterial": false,
+    "skipReason": "Routine sports event without national landmark"
   }
 }

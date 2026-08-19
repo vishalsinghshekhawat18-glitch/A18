@@ -1,13 +1,24 @@
 {
   "id": "migrated-ca-2026-05-sec2-1",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Government Notifies 100% FDI in Insurance Companies Under Automatic Route",
-  "summary": "Ministry of Finance notifies FEMA Non-debt Instruments 2nd Amendment Rules 2026, allowing 100% FDI in insurance sector (LIC capped at 20%).",
+  "type": "ca_note",
+  "summary": "Ministry of Finance notifies FEMA Non-debt Instruments 2nd Amendment Rules 2026, allowing 100% FDI (foreign direct investment with management stake) in insurance sector (LIC capped at 20%).",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 Government Notifies 100% FDI in Insurance Companies Under Automatic Route. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Ministry of Finance notified amendments to Foreign Exchange Management (Non-debt Instruments) Rules 2019, permitting **100% FDI (foreign direct investment with management stake) under automatic route** in insurance companies and intermediaries (brokers), while LIC remains capped at 20%.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+      ]
+    },
+    {
       "type": "paragraph",
-      "content": "Ministry of Finance notified amendments to Foreign Exchange Management (Non-debt Instruments) Rules 2019, permitting **100% FDI under automatic route** in insurance companies and intermediaries (brokers), while LIC remains capped at 20%."
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -22,7 +33,7 @@
       "May 2026"
     ],
     "date": "2026-05-15",
-    "category": "SEC2",
+    "category": "SEC3",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-16T16:10:30.135Z",
     "provenance": {
@@ -33,6 +44,16 @@
       "sourceChecksum": "2ef87ea2b0716f1d8750febc0f4fe8d24fb04b12df0fcddff0abc97d75cd79ce",
       "migrationTimestamp": "2026-08-16T16:10:30.135Z",
       "normalizationRuleVersion": "1.0.0-may2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 88
   }
 }

@@ -1,0 +1,74 @@
+{
+  "id": "migrated-ca-note-sec4-272",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Eight Traditional Himachal Pradesh Products Secure Geographical Indication (GI) Tags",
+  "summary": "Grants GI tags to Seabuckthorn, White Maize, Metal Art, Woollen Gowns, and Kinnauri Apples.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 Eight Traditional Himachal Pradesh Products Secure Geographical Indication (GI) Tags. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Grants GI tags to Seabuckthorn, White Maize, Metal Art, Woollen Gowns, and Kinnauri Apples.",
+        "GI Awardees: Spiti Seabuckthorn (Chharma), Chamba Salooni Safed Makka & Metal Art, Sirmauri Loiya gown, Kinnauri Topi, Apple & Jewellery, Mandi Sepuvadi.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Eight Traditional Himachal Pradesh Products Secure Geographical Indication (GI) Tags."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Eight Traditional Himachal Pradesh Products Secure Geographical Indication (GI) Tags."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 4,
+      "code": "SEC4",
+      "name": "NATIONAL, STATE & INTERNATIONAL NEWS",
+      "emoji": "🌐",
+      "fullName": "4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS"
+    },
+    "hook": "🪝 Eight Traditional Himachal Pradesh Products Secure Geographical Indication (GI) Tags",
+    "examAngle": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Eight Traditional Himachal Pradesh Products Secure Geographical Indication (GI) Tags.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-07-13"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-13",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:15:05.762Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-272",
+      "sourceTitle": "Eight Traditional Himachal Pradesh Products Secure Geographical Indication (GI) Tags",
+      "sourceChecksum": "f01264dbc0dbb2ec8cf691f1aecb75836c006a3ad422f05fb26017eed9e5f350",
+      "migrationTimestamp": "2026-08-15T12:15:05.762Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

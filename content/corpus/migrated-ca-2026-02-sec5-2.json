@@ -1,13 +1,24 @@
 {
   "id": "migrated-ca-2026-02-sec5-2",
+  "title": "CA Prasanna Kumar D Elected 74th President of ICAI (2026–27 Term)",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "Uday Kotak Appointed Chairman of GIFT City Company Ltd",
-  "summary": "Kotak Mahindra Bank founder Uday Kotak appointed Chairman of GIFT City Company Ltd, succeeding Hasmukh Adhia.",
+  "summary": "ICAI under Ministry of Corporate Affairs elected Prasanna Kumar D President and Mangesh Kinare VP.",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "Uday Kotak was appointed **Chairman of GIFT City Company Ltd**, succeeding Hasmukh Adhia at India's first operational smart city and IFSC."
+      "content": "**Overview**: ICAI under Ministry of Corporate Affairs elected Prasanna Kumar D President and Mangesh Kinare VP."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**CA Prasanna Kumar D elected 74th President of ICAI (2026-27)** (Page 102): ICAI under Ministry of Corporate Affairs elected Prasanna Kumar D President and Mangesh Kinare VP."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Statutory Professional Accounting Body Leadership. Elected President of ICAI under Ministry of Corporate Affairs."
     }
   ],
   "metadata": {
@@ -17,22 +28,36 @@
       "SBI PO"
     ],
     "tags": [
-      "sec8",
+      "sec5",
       "Current Affairs 2026",
-      "February 2026"
+      "February 2026",
+      "TIER_B_PLUS"
     ],
     "date": "2026-02-15",
-    "category": "SEC8",
+    "category": "SEC5",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "lastUpdated": "2026-08-18T17:42:36.839Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "Feb2026.pdf",
-      "sourceId": "migrated-ca-2026-02-sec5-2",
-      "sourceTitle": "Uday Kotak Appointed Chairman of GIFT City Company Ltd",
-      "sourceChecksum": "9fb571d05abcc97c70477ec90b08fd68285818df03bf49d260659392ccbcd2a2",
-      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
-      "normalizationRuleVersion": "1.0.0-feb2026"
-    }
-  }
+      "sourceId": "emu-icai-74th-president-prasanna-kumar",
+      "sourceTitle": "CA Prasanna Kumar D Elected 74th President of ICAI (2026–27 Term)",
+      "provenancePages": [
+        102
+      ],
+      "constituentArticleCount": 1,
+      "migrationTimestamp": "2026-08-18T17:42:36.839Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_B_PLUS",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC5",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 85
+  },
+  "relationships": []
 }

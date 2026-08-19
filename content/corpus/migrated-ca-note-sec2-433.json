@@ -1,31 +1,28 @@
 {
   "id": "migrated-ca-note-sec2-433",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Jio Platforms Files Draft Papers for India's Biggest-Ever  Billion+ (₹33,000-38,000 Cr) IPO",
+  "type": "ca_note",
   "summary": "Reliance Industries subsidiary files for 27 crore shares (~3% post-issue capital) at ₹12-15 lakh crore valuation.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Reliance Industries subsidiary files for 27 crore shares (~3% post-issue capital) at ₹12-15 lakh crore valuation."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 Jio Platforms Files Draft Papers for India's Biggest-Ever  Billion+ (₹33,000-38,000 Cr) IPO. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Reliance Industries subsidiary files for 27 crore shares (~3% post-issue capital) at ₹12-15 lakh crore valuation.",
         "Record IPO Size: Estimated to raise ₹33,000 crore to ₹38,000 crore (+), surpassing Hyundai Motor India's ₹27,870 crore record.",
-        "Valuation & Shares: Valued at ₹12-15 lakh crore; issue comprises 27 crore fresh equity shares (no OFS component).",
-        "RIL Holding: Reliance Industries retains 66.43% majority stake in Jio Platforms."
+        "Valuation & Shares: Valued at ₹12-15 lakh crore; issue comprises 27 crore fresh equity shares (no OFS (promoters sell existing shares via exchange) component).",
+        "RIL Holding: Reliance Industries retains 66.43% majority stake in Jio Platforms.",
+        "Jio IPO estimated size (₹33,000-38,000 cr) vs Hyundai previous record (₹27,870 cr).",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Jio Platforms Group CEO: Mathew Oommen | Parent: Reliance Industries Ltd."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Jio IPO estimated size (₹33,000-38,000 cr) vs Hyundai previous record (₹27,870 cr)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -50,6 +47,16 @@
       "sourceChecksum": "4160044bb29e3990ce53ec9c3663381f8059eef83966718f8267498b0ea2dc25",
       "migrationTimestamp": "2026-08-15T12:19:15.619Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

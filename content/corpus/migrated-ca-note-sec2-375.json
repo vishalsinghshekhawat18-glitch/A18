@@ -1,31 +1,28 @@
 {
   "id": "migrated-ca-note-sec2-375",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Ministry of Justice Restructures 'DISHA 2.0' Scheme (₹255 Crore Outlay for 2026-2031)",
+  "type": "ca_note",
   "summary": "Integrates Tele-Law (14454), Nyaya Bandhu, and VIDHI-Sanjeevani with AI 'Nyaya Setu' chatbot.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Integrates Tele-Law (14454), Nyaya Bandhu, and VIDHI-Sanjeevani with AI 'Nyaya Setu' chatbot."
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 Ministry of Justice Restructures 'DISHA 2.0' Scheme (₹255 Crore Outlay for 2026-2031). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Integrates Tele-Law (14454), Nyaya Bandhu, and VIDHI-Sanjeevani with AI 'Nyaya Setu' chatbot.",
         "Financial Outlay: ₹255 crore Central Sector Scheme outlay for 2026-27 to 2030-31.",
         "4 Integrated Pillars: Tele-Law (toll-free 14454), Nyaya Bandhu Pro Bono, Legal Literacy, and VIDHI-Sanjeevani.",
-        "AI Integration: VIDHI-Sanjeevani integrates with 22-language AI voice chatbot 'Nyaya Setu'."
+        "AI Integration: VIDHI-Sanjeevani integrates with 22-language AI voice chatbot 'Nyaya Setu'.",
+        "DISHA 2.0 outlay (₹255 crore) vs DISHA 1.0 outlay (₹250 crore).",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "DISHA 1.0 ran 2021-2026 with ₹250 crore outlay | Department of Justice."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "DISHA 2.0 outlay (₹255 crore) vs DISHA 1.0 outlay (₹250 crore)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
     }
   ],
   "metadata": {
@@ -50,6 +47,16 @@
       "sourceChecksum": "3ae9349e7211689681b510c2cdd39173495b474b2e059a402a7a1a29d36a49b1",
       "migrationTimestamp": "2026-08-15T12:17:28.292Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

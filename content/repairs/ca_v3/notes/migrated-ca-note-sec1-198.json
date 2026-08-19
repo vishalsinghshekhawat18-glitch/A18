@@ -1,0 +1,76 @@
+{
+  "id": "migrated-ca-note-sec1-198",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "ADB Approves  Million Loan for PM Surya Ghar: Muft Bijli Yojana (PMSGMBY)",
+  "summary": "Accelerates Subprogram 2 for rooftop solar installations across 10 million low & middle-income households.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 ADB Approves  Million Loan for PM Surya Ghar: Muft Bijli Yojana (PMSGMBY). Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Accelerates Subprogram 2 for rooftop solar installations across 10 million low & middle-income households.",
+        "Multilateral Funding: ADB  loan adds to  package previously approved by World Bank.",
+        "Subsidy Structure: PMSGMBY (₹75,021 cr outlay) provides ₹30,000 for 1 kW, ₹60,000 for 2 kW, and ₹78,000 for 3 kW solar systems.",
+        "ADB PMSGMBY loan ( million) vs World Bank PMSGMBY loan ( million).",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 10,
+      "code": "SEC10",
+      "name": "MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "emoji": "📌",
+      "fullName": "10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC"
+    },
+    "hook": "🪝 ADB Approves  Million Loan for PM Surya Ghar: Muft Bijli Yojana (PMSGMBY)",
+    "examAngle": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-08-02"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-02",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:11.200Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-198",
+      "sourceTitle": "ADB Approves  Million Loan for PM Surya Ghar: Muft Bijli Yojana (PMSGMBY)",
+      "sourceChecksum": "e01e716a13a5d243686a01deae3d732d30f646e24bbe8059d57dd1e57f703ddc",
+      "migrationTimestamp": "2026-08-15T12:13:11.200Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

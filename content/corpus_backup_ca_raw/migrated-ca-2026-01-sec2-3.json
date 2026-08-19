@@ -1,0 +1,76 @@
+{
+  "id": "migrated-ca-2026-01-sec2-3",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "December CPI Inflation Cools to 1.33%",
+  "summary": "Retail inflation drops to 1.33% in December 2025 as Consumer Food Price Index (CFPI) enters negative territory (-2.71%).",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 7. 🏆 AWARDS, BOOKS, INDICES & RANKINGS",
+      "text": "🪝 December CPI Inflation Cools to 1.33%. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "India's headline CPI (consumer price index tracking retail inflation) inflation cooled to **1.33% in December 2025**, driven by a sharp drop in food prices with CFPI food inflation printing at **-2.71%**.",
+        "**Urban vs Rural Headline**: Urban rose to 2.03%; Rural rose to 0.76%.",
+        "**Sectoral Rates**: Housing 2.86%, Education 3.32%, Health 3.43%, Fuel & Light 1.97%.",
+        "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
+    }
+  ],
+  "intelligence": {
+    "zone": "LIGHT_TOUCH",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 7,
+      "code": "SEC7",
+      "name": "AWARDS, BOOKS, INDICES & RANKINGS",
+      "emoji": "🏆",
+      "fullName": "7. 🏆 AWARDS, BOOKS, INDICES & RANKINGS"
+    },
+    "hook": "🪝 December CPI Inflation Cools to 1.33%",
+    "examAngle": "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-01-26"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026",
+      "January 2026"
+    ],
+    "date": "2026-01-26",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "January_26.pdf",
+      "sourceId": "migrated-ca-2026-01-sec2-3",
+      "sourceTitle": "December CPI Inflation Cools to 1.33%",
+      "sourceChecksum": "c93e421aee80d9a8e2ffde03859b85795a48b8f558180faff34b419562111a0f",
+      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+      "normalizationRuleVersion": "1.0.0-jan2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "LIGHT_TOUCH",
+    "sectionCode": "SEC7",
+    "sectionNumber": 7,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

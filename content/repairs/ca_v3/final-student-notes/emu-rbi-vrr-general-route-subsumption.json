@@ -1,0 +1,36 @@
+{
+  "id": "emu-rbi-vrr-general-route-subsumption",
+  "title": "RBI Voluntary Retention Route (VRR) Subsumption into General Route",
+  "category": "SEC2",
+  "tier": "TIER_B_PLUS",
+  "theme": "FPI Debt Investment Architecture",
+  "summary": "RBI subsumed VRR limits under General Route for FPI investments in G-Secs, SDLs, and corporate debt from April 1, 2026 under FEMA 1999.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "**Overview**: RBI subsumed VRR limits under General Route for FPI investments in G-Secs, SDLs, and corporate debt from April 1, 2026 under FEMA 1999."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**RBI Voluntary Retention Route (VRR) investment limits subsumed under General Route** (Page 9): RBI subsumed VRR limits under General Route for FPI investments in G-Secs, SDLs, and corporate debt from April 1, 2026 under FEMA 1999."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under FPI Debt Investment Architecture. Subsumes VRR limits under General Route under FEMA 1999."
+    }
+  ],
+  "metadata": {
+    "provenancePages": [
+      9
+    ],
+    "constituentArticleCount": 1,
+    "provenanceArticleIds": [
+      "cgb-art-24"
+    ],
+    "statutoryConcept": "FPI Debt Investment Architecture",
+    "whyStandalone": "Subsumes VRR limits under General Route under FEMA 1999."
+  }
+}

@@ -1,26 +1,12 @@
 {
   "id": "migrated-ca-note-sec6-180",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Anahat Singh Becomes 1st Indian Girl to Win World Junior Squash Championship Title",
+  "type": "ca_note_skipped",
   "summary": "Defeated Egypt's Ruqayya Salem in Canada to end Egypt's 16-year hold on the junior title.",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "Defeated Egypt's Ruqayya Salem in Canada to end Egypt's 16-year hold on the junior title."
-    },
-    {
-      "type": "bullet_list",
-      "items": [
-        "Tournament Location: Niagara-on-the-Lake, Canada.",
-        "Historic Context: 1st Indian finalist in over 20 years since Joshna Chinappa (2005) and 1st ever gold medallist.",
-        "Boys Event: Aryaveer Dewan reached last 16."
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Anahat Singh ranked World No. 20 on senior PSA Tour | Squash to debut at LA 2028 Olympics."
+      "content": "*Editorial Decision: Skipped (Routine Foreign Sports Tour Match — Low Testing Probability).*"
     }
   ],
   "metadata": {
@@ -45,6 +31,15 @@
       "sourceChecksum": "2cc3fac57851b3ac66ae1d12546cc848a5aaf73f64d6731c0105ef466a732443",
       "migrationTimestamp": "2026-08-15T12:13:11.200Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "sectionNumber": 6,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "SKIP_LOW_YIELD",
+    "isStudyMaterial": false,
+    "skipReason": "Routine sports event without national landmark"
   }
 }

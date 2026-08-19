@@ -1,0 +1,84 @@
+{
+  "id": "migrated-ca-2026-03-sec1-3",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "EPFO Retains PF Interest Rate at 8.25% for FY26 (3rd Consecutive Year)",
+  "summary": "EPFO Central Board of Trustees decides to maintain EPF interest rate at 8.25% for 7.8 crore members for FY2025-26.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 5. 🤝 MoUs, CONFERENCES & APPOINTMENTS",
+      "text": "🪝 EPFO Retains PF Interest Rate at 8.25% for FY26 (3rd Consecutive Year). Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "EPFO's 239th CBT meeting decided to **retain the EPF interest rate at 8.25% for FY26** for ~7.8 crore contributing members (3rd consecutive year unchanged).",
+        "**Deficit Cushion**: FY26 expected deficit of ₹944.06 Cr offset via ₹5,480.34 Cr surplus from previous year.",
+        "**EPFO Leadership**: CEO Ramesh Krishnamurthi (Est. 1952, HQ: New Delhi).",
+        "🎯 Exam Angle → Focus on 8.25% annual interest rate, Central Board of Trustees (CBT) decision, and wage ceiling limit (₹15,000)."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "EPFO Established: 4 March 1952 (EPF Act 1952) · Nodal Ministry: Ministry of Labour & Employment · HQ: New Delhi"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on 8.25% annual interest rate, Central Board of Trustees (CBT) decision, and wage ceiling limit (₹15,000)."
+    }
+  ],
+  "intelligence": {
+    "zone": "LIGHT_TOUCH",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 5,
+      "code": "SEC5",
+      "name": "MoUs, CONFERENCES & APPOINTMENTS",
+      "emoji": "🤝",
+      "fullName": "5. 🤝 MoUs, CONFERENCES & APPOINTMENTS"
+    },
+    "hook": "🪝 EPFO Retains PF Interest Rate at 8.25% for FY26 (3rd Consecutive Year)",
+    "examAngle": "🎯 Exam Angle → Focus on 8.25% annual interest rate, Central Board of Trustees (CBT) decision, and wage ceiling limit (₹15,000).",
+    "staticGK": {
+      "summary": "EPFO Established: 4 March 1952 (EPF Act 1952) · Nodal Ministry: Ministry of Labour & Employment · HQ: New Delhi"
+    },
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-03-15"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026",
+      "March 2026"
+    ],
+    "date": "2026-03-15",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T11:13:16.778Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "march2026_lighttouch.pdf",
+      "sourceId": "migrated-ca-2026-03-sec1-3",
+      "sourceTitle": "EPFO Retains PF Interest Rate at 8.25% for FY26 (3rd Consecutive Year)",
+      "sourceChecksum": "5a09000effeb75f1d18d67602cfc6fc3bcc6f5040fc0722f1d0fb92a2037ca10",
+      "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+      "normalizationRuleVersion": "1.0.0-mar2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "LIGHT_TOUCH",
+    "sectionCode": "SEC5",
+    "sectionNumber": 5,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

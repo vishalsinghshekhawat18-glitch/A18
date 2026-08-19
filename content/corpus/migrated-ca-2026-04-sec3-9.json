@@ -1,21 +1,32 @@
 {
   "id": "migrated-ca-2026-04-sec3-9",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "RBI Proposed Revamped Business Correspondent (BC) Framework",
+  "type": "ca_note",
   "summary": "RBI creates two distinct BC tiers — BC-BOs and BC-BTs — and abolishes Business Facilitators by September 30, 2026.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "RBI issued draft guidelines introducing a two-tier Business Correspondent structure to strengthen rural financial inclusion: **BC-Banking Outlets (BC-BOs)** and **BC-Banking Touchpoints (BC-BTs)**."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 RBI Proposed Revamped Business Correspondent (BC) Framework. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "RBI issued draft guidelines introducing a two-tier Business Correspondent structure to strengthen rural financial inclusion: **BC-Banking Outlets (BC-BOs)** and **BC-Banking Touchpoints (BC-BTs)**.",
         "**BC-BOs**: Fixed-location units operating min 4 hours/day, 5 days/week, offering full services (account opening, cash, KYC) with fixed + variable pay.",
         "**BC-BTs**: Flexible-hour touchpoints for small cash/remittances paid via variable incentives.",
-        "**Abolition of BFs**: Business Facilitators category abolished; all existing BFs must transition to BC structure by Sept 30, 2026."
+        "**Abolition of BFs**: Business Facilitators category abolished; all existing BFs must transition to BC structure by Sept 30, 2026.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -30,7 +41,7 @@
       "April 2026"
     ],
     "date": "2026-04-15",
-    "category": "SEC3",
+    "category": "SEC2",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-16T15:38:14.789Z",
     "provenance": {
@@ -41,6 +52,16 @@
       "sourceChecksum": "de7a708a353152e131c744c8973cc6c383a8a162767dead9da67e8579f6470a3",
       "migrationTimestamp": "2026-08-16T15:38:14.789Z",
       "normalizationRuleVersion": "1.0.0-apr2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

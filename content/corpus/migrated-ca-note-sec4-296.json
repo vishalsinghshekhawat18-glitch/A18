@@ -1,30 +1,27 @@
 {
   "id": "migrated-ca-note-sec4-296",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Static GK: Loktak Lake & Keibul Lamjao National Park (Manipur)",
+  "type": "ca_note",
   "summary": "Largest freshwater lake in Northeast India famous for floating phumdis.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Largest freshwater lake in Northeast India famous for floating phumdis."
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 Static GK: Loktak Lake & Keibul Lamjao National Park (Manipur). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Largest freshwater lake in Northeast India famous for floating phumdis.",
         "Geographical Significance: Located in Moirang, Manipur; famous for phumdis (floating circular heterogeneous biomass masses).",
-        "Conservation Status: Keibul Lamjao National Park is the world's only floating national park (home to Sangai brow-antlered deer); designated Ramsar Site (1990) and Montreux Record (1993)."
+        "Conservation Status: Keibul Lamjao National Park is the world's only floating national park (home to Sangai brow-antlered deer); designated Ramsar Site (1990) and Montreux Record (1993).",
+        "Ramsar designation (1990) vs Montreux Record listing (1993).",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Sangai Deer (Rucervus eldii eldii) is the state animal of Manipur."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Ramsar designation (1990) vs Montreux Record listing (1993)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
     }
   ],
   "metadata": {
@@ -49,6 +46,16 @@
       "sourceChecksum": "63a11c53d1045e28d98f0bc35d3e00052e7097c911b5d29bb8fff774b3497eff",
       "migrationTimestamp": "2026-08-15T12:15:40.421Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

@@ -1,0 +1,141 @@
+{
+  "id": "migrated-schemes-scheme-108",
+  "type": "ca_note",
+  "domain": "schemes",
+  "title": "SMILE Scheme (Support for Marginalised Individuals for Livelihood and Enterprise)",
+  "summary": "SMILE Scheme (Support for Marginalised Individuals for Livelihood and Enterprise) — Comprehensive study notes covering objectives, eligibility, outlay, and exam traps.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "⏳ Operational Cycle / Temporal Notice (As of August 2026)",
+      "text": "Documented operational period (2021-04-01 to 2026-03-31) ended on 2026-03-31. Factual parameters (outlay, components) represent the verified 15th Finance Commission cycle. Extension under 16th FC cycle pending gazette confirmation."
+    },
+    {
+      "type": "key_concept",
+      "title": "SMILE Scheme (Support for Marginalised Individuals for Livelihood and Enterprise)",
+      "summary": "To provide comprehensive welfare, rehabilitation, skill development, medical care, and economic reintegration for transgender persons and persons engaged in the act of begging."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🏛️ Administrative & Financial Framework"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Parameter",
+        "Official Specification"
+      ],
+      "rows": [
+        [
+          "Nodal Ministry",
+          "Ministry of Social Justice and Empowerment"
+        ],
+        [
+          "Department",
+          "Department of Social Justice and Empowerment"
+        ],
+        [
+          "Launch Year / Period",
+          "12 February 2022"
+        ],
+        [
+          "Financial Outlay",
+          "₹365 Crore (Allocated for 5 years: 2021-22 to 2025-26)."
+        ],
+        [
+          "Funding Pattern",
+          "100% Central Sector Scheme."
+        ],
+        [
+          "Implementing Agency",
+          "Ministry of Social Justice and Empowerment, National Institute of Social Defence (NISD), State Governments, and Community Based Organizations."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🎯 Target Beneficiaries & Eligibility"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Target Beneficiaries:** Transgender persons and individuals/families engaged in begging.",
+        "**Eligibility Criteria:** Transgender persons holding Transgender Certificate/ID card on the National Portal for Transgender Persons, and destitute individuals identified through city surveys."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "✨ Key Components & Features"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Two Sub-Schemes:",
+        "1. Central Sector Scheme for Comprehensive Rehabilitation for Welfare of Transgender Persons (scholarships, skill training via PM-DAKSH, Garima Greh shelter homes, gender-affirming healthcare up to ₹5 Lakh under Ayushman Bharat TG package).",
+        "2. Central Sector Scheme for Comprehensive Rehabilitation of persons engaged in the act of Begging (pilot in 30+ major cities for rescue, shelter, medical aid, education, and livelihood generation).",
+        "Garima Greh: Community-based residential shelter homes offering food, clothing, and recreation."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚠️ Exam Traps & Key Distinctions"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Exam Trap: SMILE encompasses TWO distinct target groups: Transgenders AND Persons engaged in Begging.",
+        "Ayushman Bharat package: Dedicated ₹5 Lakh health cover for transgender persons (TG Card) covering gender affirmation procedures."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📚 Authoritative Sources"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Ministry of Social Justice and Empowerment, Official Launch Notification (socialjustice.gov.in)",
+        "PIB Delhi, \"Union Minister Launches SMILE Scheme for Marginalized Groups\" (12-Feb-2022)"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.104Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-108",
+      "sourceTitle": "SMILE (Support for Marginalised Individuals for Livelihood & Enterprise):",
+      "sourceChecksum": "1331823d52ae732156c14e4ed7e28111bb07cd06325bfd02a97f2561df926fa9",
+      "migrationTimestamp": "2026-08-15T12:14:02.104Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    },
+    "repairedVersion": "r4.c5-pilot",
+    "repairedTimestamp": "2026-08-18T13:11:12.067Z",
+    "requiresHumanReview": true,
+    "promotionGate": "R4.C8-passed",
+    "promotionStatus": "approved-with-warning",
+    "promotedTimestamp": "2026-08-18T13:23:27.748Z",
+    "evidenceAuditFile": "content/repairs/r4c6/migrated-schemes-scheme-108-evidence.json",
+    "temporalStatus": "EXPIRED",
+    "crossSchemeRole": "PRIMARY",
+    "temporalWarning": "Documented operational period (2021-04-01 to 2026-03-31) ended on 2026-03-31. Factual parameters (outlay, components) represent the verified 15th Finance Commission cycle. Extension under 16th FC cycle pending gazette confirmation.",
+    "statusAsOf": "2026-08-18"
+  }
+}

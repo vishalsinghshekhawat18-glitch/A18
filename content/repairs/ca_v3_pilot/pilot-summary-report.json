@@ -1,0 +1,212 @@
+{
+  "version": "1.0.0-ca-framework-v3-pilot",
+  "generatedAt": "2026-08-18T14:11:16.996Z",
+  "totalPilotItems": 25,
+  "tierBreakdown": {
+    "tierA": 12,
+    "tierB": 13,
+    "tierC": 0
+  },
+  "items": [
+    {
+      "id": "migrated-ca-2026-01-sec1-1",
+      "tier": "TIER_B",
+      "zone": "LIGHT_TOUCH",
+      "templateType": "TEMPLATE_B_PLUS",
+      "section": 1,
+      "title": "77th Republic Day — First Multi-Leader Chief Guest Invite Since 2018"
+    },
+    {
+      "id": "migrated-ca-2026-01-sec2-6",
+      "tier": "TIER_A",
+      "zone": "LIGHT_TOUCH",
+      "templateType": "TEMPLATE_A_RICH",
+      "section": 2,
+      "title": "RBI Raises Bank Dividend Payout Cap to 75% of PAT"
+    },
+    {
+      "id": "migrated-ca-2026-01-sec1-5",
+      "tier": "TIER_B",
+      "zone": "LIGHT_TOUCH",
+      "templateType": "TEMPLATE_B_PLUS",
+      "section": 3,
+      "title": "India Notifies Coking Coal as Critical & Strategic Mineral"
+    },
+    {
+      "id": "migrated-ca-2026-01-sec3-2",
+      "tier": "TIER_A",
+      "zone": "LIGHT_TOUCH",
+      "templateType": "TEMPLATE_A_RICH",
+      "section": 4,
+      "title": "SEBI Introduces Base Expense Ratio (BER) for Mutual Funds"
+    },
+    {
+      "id": "migrated-ca-2026-01-sec2-4",
+      "tier": "TIER_A",
+      "zone": "LIGHT_TOUCH",
+      "templateType": "TEMPLATE_A_RICH",
+      "section": 5,
+      "title": "UPI Hits All-Time High 21.63 Billion Transactions in Dec 2025"
+    },
+    {
+      "id": "migrated-ca-2026-01-sec1-3",
+      "tier": "TIER_B",
+      "zone": "LIGHT_TOUCH",
+      "templateType": "TEMPLATE_B_PLUS",
+      "section": 6,
+      "title": "India Takes BRICS 2026 Presidency"
+    },
+    {
+      "id": "migrated-ca-2026-01-sec5-1",
+      "tier": "TIER_B",
+      "zone": "LIGHT_TOUCH",
+      "templateType": "TEMPLATE_B_PLUS",
+      "section": 7,
+      "title": "131 Padma Awards 2026 Announced"
+    },
+    {
+      "id": "migrated-ca-2026-02-sec5-1",
+      "tier": "TIER_B",
+      "zone": "LIGHT_TOUCH",
+      "templateType": "TEMPLATE_B_PLUS",
+      "section": 8,
+      "title": "Defence Acquisition Council Clears ₹3.60 Lakh Crore Acquisitions Including 114 Rafales"
+    },
+    {
+      "id": "migrated-ca-2026-01-sec6-2",
+      "tier": "TIER_B",
+      "zone": "LIGHT_TOUCH",
+      "templateType": "TEMPLATE_B_PLUS",
+      "section": 9,
+      "title": "India AI Impact Summit 2026 to be Held in New Delhi"
+    },
+    {
+      "id": "migrated-ca-2026-01-sec1-4",
+      "tier": "TIER_B",
+      "zone": "LIGHT_TOUCH",
+      "templateType": "TEMPLATE_B_PLUS",
+      "section": 10,
+      "title": "India's Wetlands Cross 98 Ramsar Sites"
+    },
+    {
+      "id": "migrated-ca-2026-01-sec3-1",
+      "tier": "TIER_A",
+      "zone": "LIGHT_TOUCH",
+      "templateType": "TEMPLATE_A_RICH",
+      "section": 1,
+      "title": "RBI Announces First-Ever 90-Day VRR in ₹2.15 Lakh Crore Package"
+    },
+    {
+      "id": "migrated-ca-2026-02-sec3-2",
+      "tier": "TIER_A",
+      "zone": "LIGHT_TOUCH",
+      "templateType": "TEMPLATE_A_RICH",
+      "section": 2,
+      "title": "Kotak Mahindra Bank — First Custodian to Issue Fully Digital FPI Licence"
+    },
+    {
+      "id": "migrated-ca-2026-02-sec3-3",
+      "tier": "TIER_A",
+      "zone": "LIGHT_TOUCH",
+      "templateType": "TEMPLATE_A_RICH",
+      "section": 3,
+      "title": "UPI Reaches All-Time High ₹28.33 Trillion in January 2026"
+    },
+    {
+      "id": "migrated-ca-2026-01-sec2-1",
+      "tier": "TIER_A",
+      "zone": "LIGHT_TOUCH",
+      "templateType": "TEMPLATE_A_RICH",
+      "section": 4,
+      "title": "India Becomes World's 4th-Largest Economy at $4.18 Trillion"
+    },
+    {
+      "id": "migrated-ca-2026-01-sec1-7",
+      "tier": "TIER_A",
+      "zone": "LIGHT_TOUCH",
+      "templateType": "TEMPLATE_A_RICH",
+      "section": 5,
+      "title": "Carbon Credit Trading Scheme (CCTS) Expanded to 4 New Sectors"
+    },
+    {
+      "id": "migrated-ca-2026-01-sec2-3",
+      "tier": "TIER_A",
+      "zone": "LIGHT_TOUCH",
+      "templateType": "TEMPLATE_A_RICH",
+      "section": 6,
+      "title": "December CPI Inflation Cools to 1.33%"
+    },
+    {
+      "id": "migrated-ca-2026-01-sec5-2",
+      "tier": "TIER_A",
+      "zone": "LIGHT_TOUCH",
+      "templateType": "TEMPLATE_A_RICH",
+      "section": 7,
+      "title": "India Ranks 80th on Henley Passport Index 2026"
+    },
+    {
+      "id": "migrated-ca-2026-02-sec10-2",
+      "tier": "TIER_A",
+      "zone": "LIGHT_TOUCH",
+      "templateType": "TEMPLATE_A_RICH",
+      "section": 8,
+      "title": "Cabinet Approves ₹1 Lakh Crore Urban Challenge Fund (UCF)"
+    },
+    {
+      "id": "migrated-ca-2026-04-sec4-2",
+      "tier": "TIER_B",
+      "zone": "CORE",
+      "templateType": "TEMPLATE_B_PLUS",
+      "section": 9,
+      "title": "India Defence Exports Hit Record All-Time High of ₹38,424 Crore in FY26"
+    },
+    {
+      "id": "migrated-ca-2026-02-sec10-6",
+      "tier": "TIER_B",
+      "zone": "LIGHT_TOUCH",
+      "templateType": "TEMPLATE_B_PLUS",
+      "section": 10,
+      "title": "February 2026 Rapid Recall & Key Milestones Summary"
+    },
+    {
+      "id": "migrated-ca-2026-01-sec1-2",
+      "tier": "TIER_B",
+      "zone": "LIGHT_TOUCH",
+      "templateType": "TEMPLATE_B_PLUS",
+      "section": 1,
+      "title": "Census 2027 — India's First Fully Digital, Caste-Enumerating Census"
+    },
+    {
+      "id": "migrated-ca-2026-01-sec1-6",
+      "tier": "TIER_B",
+      "zone": "LIGHT_TOUCH",
+      "templateType": "TEMPLATE_B_PLUS",
+      "section": 2,
+      "title": "India's First Tailings Policy Launched by Ministry of Mines"
+    },
+    {
+      "id": "migrated-ca-2026-01-sec1-8",
+      "tier": "TIER_B",
+      "zone": "LIGHT_TOUCH",
+      "templateType": "TEMPLATE_B_PLUS",
+      "section": 3,
+      "title": "ECINET — Election Commission's Unified Digital Platform"
+    },
+    {
+      "id": "migrated-ca-2026-01-sec1-9",
+      "tier": "TIER_B",
+      "zone": "LIGHT_TOUCH",
+      "templateType": "TEMPLATE_B_PLUS",
+      "section": 4,
+      "title": "India–UAE $200 Billion Trade Target by 2032 & LNG Deal"
+    },
+    {
+      "id": "migrated-ca-2026-01-sec2-2",
+      "tier": "TIER_A",
+      "zone": "LIGHT_TOUCH",
+      "templateType": "TEMPLATE_A_RICH",
+      "section": 5,
+      "title": "NSO 1st Advance Estimates: FY26 Real GDP Growth Projected at 7.4%"
+    }
+  ]
+}

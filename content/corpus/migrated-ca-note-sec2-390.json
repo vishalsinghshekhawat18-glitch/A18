@@ -1,31 +1,33 @@
 {
   "id": "migrated-ca-note-sec2-390",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "RBI Eases FPI G-Sec Investment Norms & Merges General/Long-Term Limits",
+  "type": "ca_note",
   "summary": "Removes short-term, security-wise, and concentration limits for FPIs under General Route.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Removes short-term, security-wise, and concentration limits for FPIs under General Route."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 RBI Eases FPI G-Sec Investment Norms & Merges General/Long-Term Limits. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
-        "Limit Removal: Withdrew short-term, security-wise, and concentration limits for FPI G-Sec investments.",
+        "Removes short-term, security-wise, and concentration limits for FPIs under General Route.",
+        "Limit Removal: Withdrew short-term, security-wise, and concentration limits for FPI (foreign portfolio investors holding liquid assets) G-Sec investments.",
         "Limit Merging: Merged general and long-term sub-limits into a single limit for Central & State Government Securities (SGSs).",
-        "FAR Designation: Designated 15-yr, 30-yr, and 40-yr G-Secs under Fully Accessible Route (FAR)."
+        "FAR Designation: Designated 15-yr, 30-yr, and 40-yr G-Secs under Fully Accessible Route (FAR).",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
       "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Fully Accessible Route (FAR) allows un-capped FPI investment in specified G-Secs."
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -50,6 +52,16 @@
       "sourceChecksum": "ac0abae80f0f139c815d5d433775054cd3751c41dfd2ca2221b03b9cdd41efa8",
       "migrationTimestamp": "2026-08-15T12:18:04.452Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

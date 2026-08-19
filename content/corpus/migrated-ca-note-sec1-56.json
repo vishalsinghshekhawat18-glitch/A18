@@ -1,20 +1,25 @@
 {
   "id": "migrated-ca-note-sec1-56",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "India's GI Ecosystem Surpasses 800 Registered Products; UP Leads Nationally",
+  "type": "ca_note",
   "summary": "India's GI Ecosystem Surpasses 800 Registered Products; UP Leads Nationally",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 India's GI Ecosystem Surpasses 800 Registered Products; UP Leads Nationally. Key development for Banking & General Awareness."
+    },
+    {
       "type": "bullet_list",
       "items": [
-        "Ministry of Textiles announced India has over 800 registered GI products (**UP leads with 81 tags**, followed by TN with 76 and Maharashtra with 55)."
+        "Ministry of Textiles announced India has over 800 registered GI products (**UP leads with 81 tags**, followed by TN with 76 and Maharashtra with 55).",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of India's GI Ecosystem Surpasses 800 Registered Products; UP Leads Nationally."
       ]
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of India's GI Ecosystem Surpasses 800 Registered Products; UP Leads Nationally."
     }
   ],
   "metadata": {
@@ -39,6 +44,16 @@
       "sourceChecksum": "7c57d941f837e4d799f61b228e919585380587be66493d9f05664200842fd16a",
       "migrationTimestamp": "2026-08-15T12:10:34.066Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

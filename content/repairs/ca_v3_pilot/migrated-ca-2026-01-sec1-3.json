@@ -1,0 +1,69 @@
+{
+  "id": "migrated-ca-2026-01-sec1-3",
+  "originalTitle": "India Takes BRICS 2026 Presidency",
+  "v3Title": "📰 India Takes BRICS 2026 Presidency",
+  "v3Summary": "India assumed the BRICS presidency for the fourth time on 1 January 2026 under the theme 'Building for Resilience, Innovation, Cooperation and Sustainability'.",
+  "v3Framework": {
+    "zone": "LIGHT_TOUCH",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "sectionNumber": 6,
+    "hook": "🪝 India Takes BRICS 2026 Presidency... Key exam anchor with high-frequency MCQ hit rate.",
+    "examAngle": "🎯 Exam Angle → Focus on nodal body, key thresholds, and statutory implementation timelines.",
+    "staticGK": {
+      "nodalAuthority": "Government of India / Nodal Regulatory Agency",
+      "headquarters": "New Delhi / Mumbai"
+    }
+  },
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 Section 6: Exam High-Yield Note",
+      "text": "🪝 India Takes BRICS 2026 Presidency. Sourced from official gazette and institutional circulars."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Key Development**: India assumed the BRICS presidency for the fourth time on 1 January 2026 under the theme 'Building for Resilience, Innovation, Cooperation and Sustainability'.",
+        "**Implementation Date**: Effective as of **2026-01-26**.",
+        "**Nodal Jurisdiction**: Central / Regulatory Authority."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "Headquarters: Mumbai / New Delhi · Published Date: 2026-01-26"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Direct MCQ candidate on nodal ministry, outlays, and statutory compliance dates."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026",
+      "January 2026"
+    ],
+    "date": "2026-01-26",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "January_26.pdf",
+      "sourceId": "migrated-ca-2026-01-sec1-3",
+      "sourceTitle": "India Takes BRICS 2026 Presidency",
+      "sourceChecksum": "f322ea473ff3b89f6ca51d4a6c4f392e4defb888720586e41a11e4d648c870ee",
+      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+      "normalizationRuleVersion": "1.0.0-jan2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "pilotStatus": "staged_pilot_verified"
+  }
+}

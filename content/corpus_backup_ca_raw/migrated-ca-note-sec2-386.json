@@ -1,0 +1,73 @@
+{
+  "id": "migrated-ca-note-sec2-386",
+  "type": "ca_note_redirect",
+  "domain": "current-affairs",
+  "title": "EPF Deposit Interest Rate Retained at 8.25% for FY26 (3rd Consecutive Year)",
+  "summary": "Central Board of Trustees ratifies 8.25% interest rate on provident fund deposits.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 EPF Deposit Interest Rate Retained at 8.25% for FY26 (3rd Consecutive Year). Essential intelligence for SBI PO / IBPS PO Mains 2026."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Central Board of Trustees ratifies 8.25% interest rate on provident fund deposits.",
+        "Ratified Rate: Government ratified 8.25% interest rate on EPF deposits for 2025-26 (3rd consecutive year).",
+        "Statutory Body: CBT EPF established under Section 5A of EPF & MP Act 1952 (5-year tenure).",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "Nodal Domain: REGULATORY BODIES NEWS · Jurisdiction: National / Global · Date: 2026-06-08"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal authority, statutory thresholds, percentage limits, and official implementation deadlines."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "sectionCode": "SEC2",
+    "disposition": "DUPLICATE_DEDUPLICATED",
+    "matchedCanonicalId": "migrated-ca-2026-03-sec1-3",
+    "reason": "Exact duplicate of migrated-ca-2026-03-sec1-3 (EPFO Retains PF Interest Rate at 8.25% for FY26)"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-08",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:18:04.452Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-386",
+      "sourceTitle": "EPF Deposit Interest Rate Retained at 8.25% for FY26 (3rd Consecutive Year)",
+      "sourceChecksum": "98194e6ee81297e4484cea420e2de861a9a9788ac9e871633681ffc9163760a6",
+      "migrationTimestamp": "2026-08-15T12:18:04.452Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "disposition": "DUPLICATE_DEDUPLICATED",
+    "matchedCanonicalId": "migrated-ca-2026-03-sec1-3",
+    "redirectTarget": "migrated-ca-2026-03-sec1-3"
+  }
+}

@@ -1,13 +1,24 @@
 {
   "id": "migrated-ca-2026-05-sec5-2",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "DRDO Successfully Flight-Tests Long-Range Hypersonic Anti-Ship Missile (LR-AShM)",
+  "type": "ca_note",
   "summary": "DRDO conducts 2nd hypersonic flight trial off Odisha coast achieving Mach 10 speed over 1,500 km strike range.",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS",
+      "text": "🪝 DRDO Successfully Flight-Tests Long-Range Hypersonic Anti-Ship Missile (LR-AShM). Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "DRDO successfully tested its 2-stage hypersonic glide vehicle **LR-AShM** off Odisha, validating Mach 10 speed and >1,500 km strike range for naval precision strikes.",
+        "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
+      ]
+    },
+    {
       "type": "paragraph",
-      "content": "DRDO successfully tested its 2-stage hypersonic glide vehicle **LR-AShM** off Odisha, validating Mach 10 speed and >1,500 km strike range for naval precision strikes."
+      "content": "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
     }
   ],
   "metadata": {
@@ -33,6 +44,16 @@
       "sourceChecksum": "680ec90d41d2a72209fdc20f8ede1d385b459755c91bd05aade7ef64bc096b53",
       "migrationTimestamp": "2026-08-16T16:10:30.135Z",
       "normalizationRuleVersion": "1.0.0-may2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "sectionNumber": 6,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

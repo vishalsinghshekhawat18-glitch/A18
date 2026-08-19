@@ -1,37 +1,26 @@
 {
   "id": "migrated-ca-note-sec1-98",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "World Wide Web Day & World Lung Cancer Day Observed on 1st August",
+  "type": "ca_note",
   "summary": "World Wide Web Day & World Lung Cancer Day Observed on 1st August",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 8. 📅 IMPORTANT DAYS & PERSONS IN NEWS",
+      "text": "🪝 World Wide Web Day & World Lung Cancer Day Observed on 1st August. Key development for Banking & General Awareness."
+    },
     {
       "type": "bullet_list",
       "items": [
         "📌 **Core Policy Directives & Scope:**\nWWW Day marks Tim Berners-Lee's creation at CERN in 1989.",
-        "💰 **Financial Outlays & Operational Rules:**\n"
+        "💰 **Financial Outlays & Operational Rules:**",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of World Wide Web Day & World Lung Cancer Day Observed on 1st August."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Date & Event",
-        "Official Theme / Mandate",
-        "Nodal Body / Significance"
-      ],
-      "rows": [
-        [
-          "World Wide Web Day & World Lung Cancer Day Observed on 1st August",
-          "WWW Day marks Tim Berners-Lee's creation at CERN in 1989.",
-          "Global Observance"
-        ]
-      ]
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of World Wide Web Day & World Lung Cancer Day Observed on 1st August."
     }
   ],
   "metadata": {
@@ -56,6 +45,16 @@
       "sourceChecksum": "61d1873693dbc3e8cb89fa5a0ead3e6f8a24797ab423d4868d5ed1247c3a36ec",
       "migrationTimestamp": "2026-08-15T12:11:08.725Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC8",
+    "sectionNumber": 8,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

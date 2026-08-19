@@ -1,13 +1,29 @@
 {
   "id": "migrated-ca-2026-05-sec3-8",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "RBI Discontinues Countercyclical Capital Buffer (CCyB) Activation for FY27",
+  "type": "ca_note",
   "summary": "RBI review concludes prevailing economic conditions do not warrant CCyB activation, keeping buffer requirement at 0%.",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 RBI Discontinues Countercyclical Capital Buffer (CCyB) Activation for FY27. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "RBI decided against activating the Countercyclical Capital Buffer (CCyB) under commercial bank capital adequacy norms, citing stable credit-to-GDP gap trends.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    {
       "type": "paragraph",
-      "content": "RBI decided against activating the Countercyclical Capital Buffer (CCyB) under commercial bank capital adequacy norms, citing stable credit-to-GDP gap trends."
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -22,7 +38,7 @@
       "May 2026"
     ],
     "date": "2026-05-15",
-    "category": "SEC3",
+    "category": "SEC2",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-16T16:10:30.135Z",
     "provenance": {
@@ -33,6 +49,16 @@
       "sourceChecksum": "d7e5d23352fe11b98959c92725290256700f443eb139a282ab3a53076df56e43",
       "migrationTimestamp": "2026-08-16T16:10:30.135Z",
       "normalizationRuleVersion": "1.0.0-may2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

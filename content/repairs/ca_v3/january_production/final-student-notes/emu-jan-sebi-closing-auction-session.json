@@ -1,0 +1,36 @@
+{
+  "id": "emu-jan-sebi-closing-auction-session",
+  "title": "🏛️ SEBI Equity Cash Closing Auction Session (CAS) — 3:15 to 3:35 PM (±3% Price Band)",
+  "category": "SEC2",
+  "tier": "TIER_A",
+  "theme": "Secondary Market Trading & Price Discovery Mechanism",
+  "summary": "SEBI decided to roll out Closing Auction Session (CAS) for F&O stocks from 3:15 pm to 3:35 pm (price band ±3% of VWAP) effective 3 August 2026, replacing pure 30-min VWAP.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "**Overview**: SEBI decided to roll out Closing Auction Session (CAS) for F&O stocks from 3:15 pm to 3:35 pm (price band ±3% of VWAP) effective 3 August 2026, replacing pure 30-min VWAP."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**SEBI to Introduce 20-Minute Closing Auction Session (CAS) in Cash Segment from Aug 2026** (Page 29): SEBI decided to roll out Closing Auction Session (CAS) for F&O stocks from 3:15 pm to 3:35 pm (price band ±3% of VWAP) effective 3 August 2026, replacing pure 30-min VWAP."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Secondary Market Trading & Price Discovery Mechanism. 20-minute CAS session for F&O stocks effective 3 August 2026 to enhance transparent closing price discovery."
+    }
+  ],
+  "metadata": {
+    "provenancePages": [
+      29
+    ],
+    "constituentArticleCount": 1,
+    "provenanceArticleIds": [
+      "jan-art-49"
+    ],
+    "statutoryConcept": "Secondary Market Trading & Price Discovery Mechanism",
+    "whyStandalone": "20-minute CAS session for F&O stocks effective 3 August 2026 to enhance transparent closing price discovery."
+  }
+}

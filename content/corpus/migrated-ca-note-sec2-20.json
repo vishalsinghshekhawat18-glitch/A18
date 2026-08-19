@@ -1,36 +1,33 @@
 {
   "id": "migrated-ca-note-sec2-20",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "SEBI Closing Auction Session (CAS) Takes Effect August 3, 2026",
+  "type": "ca_note",
   "summary": "Introducing a Closing Auction Session for derivatives-eligible stocks prevents closing price manipulation.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Introducing a Closing Auction Session for derivatives-eligible stocks prevents closing price manipulation."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 SEBI Closing Auction Session (CAS) Takes Effect August 3, 2026. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Introducing a Closing Auction Session for derivatives-eligible stocks prevents closing price manipulation.",
         "Introduces **Closing Auction Session (CAS)** for F&O-eligible (Category I) cash equity stocks.",
         "**F&O Stock Timings:** Regular trading ends **3:15 PM**; Transition **3:15–3:20 PM**; CAS Order Entry I **3:20–3:25 PM**; CAS Order Entry II **3:25–3:30 PM** (market orders **cannot** be modified/cancelled); Order matching **3:30–3:35 PM**.",
-        "**Pre-Open Timings:** Order entry **9:00–9:07 AM**; Matching **9:07–9:15 AM**; Market opens **9:15 AM**."
+        "**Pre-Open Timings:** Order entry **9:00–9:07 AM**; Matching **9:07–9:15 AM**; Market opens **9:15 AM**.",
+        "CAS Order Entry I (3:20–3:25 PM, modification allowed) vs CAS Order Entry II (3:25–3:30 PM, modification prohibited).",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
       "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "SEBI HQ: Mumbai | Established 1988, Statutory 1992."
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "SEBI Established: 12 April 1992 (SEBI Act 1992) · HQ: Mumbai · Regulatory Scope: Securities & Capital Markets"
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "CAS Order Entry I (3:20–3:25 PM, modification allowed) vs CAS Order Entry II (3:25–3:30 PM, modification prohibited)."
-    },
-    {
-      "type": "quote",
-      "quote": "Interview Focus Question: \"Why did SEBI introduce a Closing Auction Session (CAS) for F&O stocks?\"\n💡 **Model Answer: It eliminates end-of-day price manipulation by discovering closing prices through a transparent volume-weighted auction.**",
-      "author": "Banking & Regulatory Board Panel"
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -55,6 +52,16 @@
       "sourceChecksum": "f94186057a4e65528a53fca2ee318d956fc3af007d49af7473c7a96d7bf91462",
       "migrationTimestamp": "2026-08-15T12:09:32.008Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

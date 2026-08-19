@@ -1,31 +1,33 @@
 {
   "id": "migrated-ca-note-sec2-398",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "SEBI Board 214th Meeting: Reintroduces Open-Market Buybacks & Intraday MF Borrowing",
+  "type": "ca_note",
   "summary": "Open-market buybacks re-allowed from Aug 1, 2026; MFs allowed intraday borrowing up to 20% net assets.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Open-market buybacks re-allowed from Aug 1, 2026; MFs allowed intraday borrowing up to 20% net assets."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 SEBI Board 214th Meeting: Reintroduces Open-Market Buybacks & Intraday MF Borrowing. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Open-market buybacks re-allowed from Aug 1, 2026; MFs allowed intraday borrowing up to 20% net assets.",
         "Open-Market Buybacks: Reintroduced from Aug 1, 2026; completed within 66 working days with min 40% funds deployed in 1st half.",
         "MF Intraday Borrowing: MFs permitted intraday borrowing to manage temporary liquidity mismatches (in addition to 20% net asset borrowing limit).",
-        "QTP Claims: Introduced Quick Transmission Processing (QTP) for small-value deceased investor claims."
+        "QTP Claims: Introduced Quick Transmission Processing (QTP) for small-value deceased investor claims.",
+        "Buyback execution timeline (66 working days) vs min 1st half fund deployment (40%).",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
       "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "SEBI Board meeting held in Mumbai | SEBI Chairman: Tuhin Kanta Pandey."
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "SEBI Established: 12 April 1992 (SEBI Act 1992) · HQ: Mumbai · Regulatory Scope: Securities & Capital Markets"
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Buyback execution timeline (66 working days) vs min 1st half fund deployment (40%)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -50,6 +52,16 @@
       "sourceChecksum": "78cddd5e96442f7912faafc114176aeabcf2d78b0c012c753b2a5960594236f4",
       "migrationTimestamp": "2026-08-15T12:18:04.452Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

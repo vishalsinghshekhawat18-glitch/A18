@@ -1,0 +1,76 @@
+{
+  "id": "migrated-ca-2026-02-sec7-2",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India's Statistical Base-Year Reset to 2022-23",
+  "summary": "MoSPI revises base years for GDP (2022-23), IIP (2022-23), and CPI (2024=100) per Biswanath Goldar committee recommendations.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 7. 🏆 AWARDS, BOOKS, INDICES & RANKINGS",
+      "text": "🪝 India's Statistical Base-Year Reset to 2022-23. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "MoSPI enacted a triple base-year revision for **GDP (2022-23)**, **IIP (2022-23)**, and **CPI (2024=100)** to align with IMF SDDS standards.",
+        "**Basket Expansion**: CPI (consumer price index tracking retail inflation) basket items increased from 299 to **358 items**.",
+        "**Weight Cut**: Food & Beverages weight cut to 36.75%.",
+        "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
+    }
+  ],
+  "intelligence": {
+    "zone": "LIGHT_TOUCH",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 7,
+      "code": "SEC7",
+      "name": "AWARDS, BOOKS, INDICES & RANKINGS",
+      "emoji": "🏆",
+      "fullName": "7. 🏆 AWARDS, BOOKS, INDICES & RANKINGS"
+    },
+    "hook": "🪝 India's Statistical Base-Year Reset to 2022-23",
+    "examAngle": "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-02-15"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec7",
+      "Current Affairs 2026",
+      "February 2026"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC7",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "migrated-ca-2026-02-sec7-2",
+      "sourceTitle": "India's Statistical Base-Year Reset to 2022-23",
+      "sourceChecksum": "038da547c67dcb0cb3bb97740e522063e60a5c392fd1e4ec11161a3a1c18e1de",
+      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+      "normalizationRuleVersion": "1.0.0-feb2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "LIGHT_TOUCH",
+    "sectionCode": "SEC7",
+    "sectionNumber": 7,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

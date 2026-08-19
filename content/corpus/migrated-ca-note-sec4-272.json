@@ -1,24 +1,25 @@
 {
   "id": "migrated-ca-note-sec4-272",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Eight Traditional Himachal Pradesh Products Secure Geographical Indication (GI) Tags",
+  "type": "ca_note",
   "summary": "Grants GI tags to Seabuckthorn, White Maize, Metal Art, Woollen Gowns, and Kinnauri Apples.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Grants GI tags to Seabuckthorn, White Maize, Metal Art, Woollen Gowns, and Kinnauri Apples."
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 Eight Traditional Himachal Pradesh Products Secure Geographical Indication (GI) Tags. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
-        "GI Awardees: Spiti Seabuckthorn (Chharma), Chamba Salooni Safed Makka & Metal Art, Sirmauri Loiya gown, Kinnauri Topi, Apple & Jewellery, Mandi Sepuvadi."
+        "Grants GI tags to Seabuckthorn, White Maize, Metal Art, Woollen Gowns, and Kinnauri Apples.",
+        "GI Awardees: Spiti Seabuckthorn (Chharma), Chamba Salooni Safed Makka & Metal Art, Sirmauri Loiya gown, Kinnauri Topi, Apple & Jewellery, Mandi Sepuvadi.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Eight Traditional Himachal Pradesh Products Secure Geographical Indication (GI) Tags."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "GI Registry headquartered in Chennai, Tamil Nadu under DPIIT."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Eight Traditional Himachal Pradesh Products Secure Geographical Indication (GI) Tags."
     }
   ],
   "metadata": {
@@ -43,6 +44,16 @@
       "sourceChecksum": "f01264dbc0dbb2ec8cf691f1aecb75836c006a3ad422f05fb26017eed9e5f350",
       "migrationTimestamp": "2026-08-15T12:15:05.762Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

@@ -1,30 +1,27 @@
 {
   "id": "migrated-ca-ca-2026-08-11-nabl-mobile-food-testing-scheme",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "India Launches 1st Accreditation Scheme for Mobile Food Testing Laboratories by NABL",
+  "type": "ca_note",
   "summary": "NABL under Quality Council of India (QCI) launched India's first accreditation scheme for mobile food testing labs.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "NABL under Quality Council of India (QCI) launched India's first accreditation scheme for mobile food testing labs."
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 India Launches 1st Accreditation Scheme for Mobile Food Testing Laboratories by NABL. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "NABL under Quality Council of India (QCI) launched India's first accreditation scheme for mobile food testing labs.",
         "**Program Framework:** Integrated Assessment Programme launched by NABL (Quality Council of India constituent).",
-        "**NABL Governance:** HQ: New Delhi; Chairperson: Dr. Sandip Shah."
+        "**NABL Governance:** HQ: New Delhi; Chairperson: Dr. Sandip Shah.",
+        "≠ **NABL Nodal:** NABL is a constituent board of QCI (DPIIT).",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "QCI: Autonomous body attached to Department for Promotion of Industry and Internal Trade (DPIIT)."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "≠ **NABL Nodal:** NABL is a constituent board of QCI (DPIIT)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
     }
   ],
   "metadata": {
@@ -49,6 +46,16 @@
       "sourceChecksum": "9a2b86b294c07c2dc5378a7abfc6283daf8e0200304660cae441882201ed3ac5",
       "migrationTimestamp": "2026-08-15T12:19:51.522Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

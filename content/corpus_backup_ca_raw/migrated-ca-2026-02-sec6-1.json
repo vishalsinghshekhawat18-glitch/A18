@@ -1,0 +1,74 @@
+{
+  "id": "migrated-ca-2026-02-sec6-1",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India Wins Record 6th ICC Under-19 Cricket World Cup",
+  "summary": "India U-19 team captained by Ayush Mhatre beats England by 100 runs in Harare to claim India's 6th U-19 World Cup title.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 8. 📅 IMPORTANT DAYS & PERSONS IN NEWS",
+      "text": "🪝 India Wins Record 6th ICC Under-19 Cricket World Cup. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "India defeated England by 100 runs at Harare to win their **record 6th ICC Under-19 World Cup title** (Captain: Ayush Mhatre; Player of Series: Vaibhav Suryavanshi).",
+        "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of India Wins Record 6th ICC Under."
+    }
+  ],
+  "intelligence": {
+    "zone": "LIGHT_TOUCH",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 8,
+      "code": "SEC8",
+      "name": "IMPORTANT DAYS & PERSONS IN NEWS",
+      "emoji": "📅",
+      "fullName": "8. 📅 IMPORTANT DAYS & PERSONS IN NEWS"
+    },
+    "hook": "🪝 India Wins Record 6th ICC Under-19 Cricket World Cup",
+    "examAngle": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of India Wins Record 6th ICC Under.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-02-15"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec8",
+      "Current Affairs 2026",
+      "February 2026"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC8",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "migrated-ca-2026-02-sec6-1",
+      "sourceTitle": "India Wins Record 6th ICC Under-19 Cricket World Cup",
+      "sourceChecksum": "a06e8d7c25916153bbf58e60df573afeb13f8e79a1935473f388fd1e6c7742b5",
+      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+      "normalizationRuleVersion": "1.0.0-feb2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "LIGHT_TOUCH",
+    "sectionCode": "SEC8",
+    "sectionNumber": 8,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

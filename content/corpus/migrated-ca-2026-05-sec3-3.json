@@ -1,13 +1,29 @@
 {
   "id": "migrated-ca-2026-05-sec3-3",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "RBI Discontinues Investment Fluctuation Reserve (IFR) Requirement for Banks",
+  "type": "ca_note",
   "summary": "RBI discontinues mandatory IFR for commercial banks w.e.f. May 18, 2026; balance to be transferred 'below the line' to Statutory/General Reserves.",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 RBI Discontinues Investment Fluctuation Reserve (IFR) Requirement for Banks. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "RBI discontinued the requirement for commercial banks to maintain an **Investment Fluctuation Reserve (IFR)** effective May 18, 2026. The IFR balance as of May 17, 2026, will be transferred 'below the line' to Statutory Reserve, General Reserve, or P&L Account.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    {
       "type": "paragraph",
-      "content": "RBI discontinued the requirement for commercial banks to maintain an **Investment Fluctuation Reserve (IFR)** effective May 18, 2026. The IFR balance as of May 17, 2026, will be transferred 'below the line' to Statutory Reserve, General Reserve, or P&L Account."
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -22,7 +38,7 @@
       "May 2026"
     ],
     "date": "2026-05-15",
-    "category": "SEC3",
+    "category": "SEC2",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-16T16:10:30.135Z",
     "provenance": {
@@ -33,6 +49,16 @@
       "sourceChecksum": "4c7a069560d5f95b123fa54c35f67e767f1ffce68b9d49a6bd51b64e7a43c336",
       "migrationTimestamp": "2026-08-16T16:10:30.135Z",
       "normalizationRuleVersion": "1.0.0-may2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

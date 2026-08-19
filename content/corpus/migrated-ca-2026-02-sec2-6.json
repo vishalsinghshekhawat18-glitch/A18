@@ -1,20 +1,26 @@
 {
   "id": "migrated-ca-2026-02-sec2-6",
+  "title": "SEBI Market Infrastructure — SWP/STP in Demat & ETF Dynamic Price Bands",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "RBI Eases Acquisition Financing Norms for Banks",
-  "summary": "RBI raises bank exposure cap for acquisition financing from 10% to 20% of capital and allows financing for unlisted acquisitions.",
+  "summary": "SEBI proposed allowing standing instructions for Systematic Withdrawal Plans (SWP) and Systematic Transfer Plans (STP) for demat mutual fund units.",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "RBI relaxed acquisition financing rules, raising the bank exposure ceiling from **10% to 20% of capital** and extending eligibility to unlisted companies (net worth ≥₹500 Cr)."
+      "content": "**Overview**: SEBI proposed allowing standing instructions for Systematic Withdrawal Plans (SWP) and Systematic Transfer Plans (STP) for demat mutual fund units."
     },
     {
       "type": "bullet_list",
       "items": [
-        "**Financing Share**: Raised from 70% to 75% of acquisition value (debt-to-equity capped at 3:1).",
-        "**Lending Against Shares**: Ceiling raised from ₹20 lakh to ₹1 crore."
+        "**SEBI proposal for SWP and STP in demat mutual funds** (Page 7): SEBI proposed allowing standing instructions for Systematic Withdrawal Plans (SWP) and Systematic Transfer Plans (STP) for demat mutual fund units.",
+        "**SEBI eases SGF rules for commodity derivatives clearing houses** (Page 7): SEBI proposed reducing Z-score for historical stress testing in commodity derivatives from 10 to 5, revising Core Settlement Guarantee Fund coverage to top 3 defaults.",
+        "**SEBI floats proposal to revamp ETF price band framework** (Page 14): SEBI proposed shifting ETF base price from T-2 closing NAV to T-1 data/iNAV with dynamic price bands (10-20% equity/debt, 6-20% gold/silver, 5% overnight)."
       ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Capital Market Infrastructure & Operations. Demat mutual fund standing instructions and dynamic ETF bands."
     }
   ],
   "metadata": {
@@ -26,20 +32,35 @@
     "tags": [
       "sec2",
       "Current Affairs 2026",
-      "February 2026"
+      "February 2026",
+      "TIER_A"
     ],
     "date": "2026-02-15",
     "category": "SEC2",
-    "difficulty": "intermediate",
-    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "difficulty": "hard",
+    "lastUpdated": "2026-08-18T17:42:36.814Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "Feb2026.pdf",
-      "sourceId": "migrated-ca-2026-02-sec2-6",
-      "sourceTitle": "RBI Eases Acquisition Financing Norms for Banks",
-      "sourceChecksum": "392c216a877dc18f4c84582db72db0d954fc454e3b51c8339d49336d6bc51d94",
-      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
-      "normalizationRuleVersion": "1.0.0-feb2026"
-    }
-  }
+      "sourceId": "emu-sebi-demat-mutual-fund-reforms",
+      "sourceTitle": "SEBI Market Infrastructure — SWP/STP in Demat & ETF Dynamic Price Bands",
+      "provenancePages": [
+        7,
+        14
+      ],
+      "constituentArticleCount": 3,
+      "migrationTimestamp": "2026-08-18T17:42:36.814Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
+  },
+  "relationships": []
 }

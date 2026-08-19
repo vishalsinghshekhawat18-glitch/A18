@@ -1,21 +1,27 @@
 {
   "id": "migrated-ca-2026-03-sec1-2",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Income Tax Act, 2025 to Replace 1961 Act from April 1, 2026 — 'PRARAMBH 2026' Launched",
+  "type": "ca_note",
   "summary": "FM Sitharaman launches PRARAMBH 2026 campaign and Income Tax Website 2.0 as India replaces the 65-year-old Income Tax Act 1961.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "FM Nirmala Sitharaman launched **'PRARAMBH 2026'** (Policy Reform and Responsible Action for Mission Viksit Bharat) and **Income Tax Website 2.0**, preparing taxpayers for the new Income Tax Act, 2025 taking effect **April 1, 2026**."
+      "type": "warning_banner",
+      "title": "📰 3. 🏦 BANKING & INSURANCE NEWS",
+      "text": "🪝 Income Tax Act, 2025 to Replace 1961 Act from April 1, 2026 — 'PRARAMBH 2026' Launched. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "FM Nirmala Sitharaman launched **'PRARAMBH 2026'** (Policy Reform and Responsible Action for Mission Viksit Bharat) and **Income Tax Website 2.0**, preparing taxpayers for the new Income Tax Act, 2025 taking effect **April 1, 2026**.",
         "**M.A.N.A.V. Framework**: Moral & Ethical Systems, Accountable Governance, National Sovereignty, Accessible & Inclusive AI, Valid & Legitimate Systems.",
         "**Guiding Spirit**: 'Nagrik Devo Bhava'.",
-        "**FY27 Tax Slabs**: ₹0-4L: 0% | ₹4-8L: 5% | ₹8-12L: 10% | above ₹24L: 30%."
+        "**FY27 Tax Slabs**: ₹0-4L: 0% | ₹4-8L: 5% | ₹8-12L: 10% | above ₹24L: 30%.",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
       ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
     }
   ],
   "metadata": {
@@ -41,6 +47,16 @@
       "sourceChecksum": "c880ca28d5aa2c38c6417134217762e6012e019e9603de8f773a233f826f5420",
       "migrationTimestamp": "2026-08-16T11:13:16.778Z",
       "normalizationRuleVersion": "1.0.0-mar2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "LIGHT_TOUCH",
+    "sectionCode": "SEC3",
+    "sectionNumber": 3,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

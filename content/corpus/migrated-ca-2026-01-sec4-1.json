@@ -1,19 +1,24 @@
 {
   "id": "migrated-ca-2026-01-sec4-1",
+  "title": "🌐 EU Carbon Border Adjustment Mechanism (CBAM) Enters Full Force on 1 January 2026",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "Small Savings Interest Rates Frozen for Q4 FY26",
-  "summary": "Government keeps small savings rates unchanged for Jan-Mar 2026; Sukanya Samriddhi and SCSS lead at 8.2%.",
+  "summary": "EU implemented world's first carbon border tax (CBAM) on imports of steel, aluminium, cement, fertilizer, electricity, and hydrogen.",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "Government maintained small savings rates unchanged for Q4 FY26. **Sukanya Samriddhi Yojana and SCSS offer 8.2%**, PPF offers 7.1%, NSC offers 7.7%, and KVP offers 7.5%."
+      "content": "**Overview**: EU implemented world's first carbon border tax (CBAM) on imports of steel, aluminium, cement, fertilizer, electricity, and hydrogen."
     },
     {
       "type": "bullet_list",
       "items": [
-        "**Review Committee**: Rates determined per G-Sec yield formula set by Shyamala Gopinath Committee."
+        "**European Union Enforces Carbon Border Adjustment Mechanism (CBAM) from Jan 1, 2026** (Page 94): EU implemented world's first carbon border tax (CBAM) on imports of steel, aluminium, cement, fertilizer, electricity, and hydrogen."
       ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Cross-Border Carbon Pricing & Trade Protectionism. World's 1st carbon border tax operationalized across 6 energy-intensive sectors (steel, aluminium, cement, fertilizer, electricity, hydrogen)."
     }
   ],
   "metadata": {
@@ -23,22 +28,36 @@
       "SBI PO"
     ],
     "tags": [
-      "sec5",
+      "sec4",
       "Current Affairs 2026",
-      "January 2026"
+      "January 2026",
+      "TIER_A"
     ],
-    "date": "2026-01-26",
-    "category": "SEC5",
-    "difficulty": "intermediate",
-    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "date": "2026-01-15",
+    "category": "SEC4",
+    "difficulty": "hard",
+    "lastUpdated": "2026-08-19T02:37:59.678Z",
     "provenance": {
       "sourceSystem": "CA",
-      "sourceFile": "January_26.pdf",
-      "sourceId": "migrated-ca-2026-01-sec4-1",
-      "sourceTitle": "Small Savings Interest Rates Frozen for Q4 FY26",
-      "sourceChecksum": "ffbe555966a07ac134231cb6072f0d87dfd80d61992e37a84387f1701b142264",
-      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
-      "normalizationRuleVersion": "1.0.0-jan2026"
-    }
-  }
+      "sourceFile": "Jan2026.pdf",
+      "sourceId": "emu-jan-eu-cbam-carbon-border-tax",
+      "sourceTitle": "🌐 EU Carbon Border Adjustment Mechanism (CBAM) Enters Full Force on 1 January 2026",
+      "provenancePages": [
+        94
+      ],
+      "constituentArticleCount": 1,
+      "migrationTimestamp": "2026-08-19T02:37:59.678Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
+  },
+  "relationships": []
 }

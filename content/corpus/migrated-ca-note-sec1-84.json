@@ -1,30 +1,27 @@
 {
   "id": "migrated-ca-note-sec1-84",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "AI Super Apps Concept Explained",
+  "type": "ca_note",
   "summary": "Platform-based tech conglomerates expanding into unified super apps transform digital service delivery.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Platform-based tech conglomerates expanding into unified super apps transform digital service delivery."
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 AI Super Apps Concept Explained. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Platform-based tech conglomerates expanding into unified super apps transform digital service delivery.",
         "AI Super Apps combine multiple digital services (payments, shopping, messaging, healthcare, and mobility) within a single AI-driven conversational interface.",
-        "Operate using platform-based network effects and integrated digital identity frameworks."
+        "Operate using platform-based network effects and integrated digital identity frameworks.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of AI Super Apps Concept Explained."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Popular global AI Super Apps include WeChat (China), KakaoTalk (South Korea), and Grab (Southeast Asia)."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of AI Super Apps Concept Explained."
     }
   ],
   "metadata": {
@@ -49,6 +46,16 @@
       "sourceChecksum": "8cec01342a3298cef987ed69f4d5d53bb6e61051122cc9e14fdfc4fbe74fc346",
       "migrationTimestamp": "2026-08-15T12:11:08.725Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

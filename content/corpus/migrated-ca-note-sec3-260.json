@@ -1,48 +1,32 @@
 {
   "id": "migrated-ca-note-sec3-260",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Kakinada Cooperative Town Bank Attains Tier-III UCB Status (Deposits Surpass ₹2,000 Crore)",
+  "type": "ca_note",
   "summary": "Secures Tier-III UCB status under RBI norms with zero net Non-Performing Assets (NPAs).",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Secures Tier-III UCB status under RBI norms with zero net Non-Performing Assets (NPAs)."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 Kakinada Cooperative Town Bank Attains Tier-III UCB Status (Deposits Surpass ₹2,000 Crore). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Secures Tier-III UCB status under RBI norms with zero net Non-Performing Assets (NPAs).",
         "Deposit Threshold: Total deposits crossed ₹2,000 crore mark with 0% net NPAs.",
-        "UCF Classification: Tier-I (<₹100 cr), Tier-II (₹100 cr – ₹1,000 cr), Tier-III (₹1,000 cr – ₹10,000 cr)."
-      ]
-    },
-    {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Metric / Component",
-        "Threshold / Provision Detail"
-      ],
-      "rows": [
-        [
-          "Deposit Threshold",
-          "Total deposits crossed ₹2,000 crore mark with 0% net NPAs."
-        ],
-        [
-          "UCF Classification",
-          "Tier-I (<₹100 cr), Tier-II (₹100 cr – ₹1,000 cr), Tier-III (₹1,000 cr – ₹10,000 cr)."
-        ]
+        "UCF Classification: Tier-I (<₹100 cr), Tier-II (₹100 cr – ₹1,000 cr), Tier-III (₹1,000 cr – ₹10,000 cr).",
+        "Tier-II deposit limit (up to ₹1,000 crore) vs Tier-III deposit threshold (₹1,000 cr – ₹10,000 cr).",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
       "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Kakinada Cooperative Town Bank located in Andhra Pradesh."
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Tier-II deposit limit (up to ₹1,000 crore) vs Tier-III deposit threshold (₹1,000 cr – ₹10,000 cr)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -56,7 +40,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-07-29",
-    "category": "SEC3",
+    "category": "SEC2",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:15:05.761Z",
     "provenance": {
@@ -67,6 +51,16 @@
       "sourceChecksum": "4849d68ad3e503a922a8a63ce4e7a29ca94e450cd69804074122dd35d119f481",
       "migrationTimestamp": "2026-08-15T12:15:05.761Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

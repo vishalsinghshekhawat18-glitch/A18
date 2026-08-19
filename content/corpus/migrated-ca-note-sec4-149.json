@@ -1,36 +1,28 @@
 {
   "id": "migrated-ca-note-sec4-149",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Maharashtra Approves ₹45-Crore Eco-Nature Park with India's 1st AI Bird Monitoring Centre at Thane Creek",
+  "type": "ca_note",
   "summary": "Integrates AI acoustic sensors and automated camera tracking into coastal Ramsar wetland conservation.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Integrates AI acoustic sensors and automated camera tracking into coastal Ramsar wetland conservation."
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 Maharashtra Approves ₹45-Crore Eco-Nature Park with India's 1st AI Bird Monitoring Centre at Thane Creek. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Integrates AI acoustic sensors and automated camera tracking into coastal Ramsar wetland conservation.",
         "Project Location: Thane Creek Flamingo Sanctuary shoreline (Bhandup Bird Park project, 20.09 hectares total, 0.35 hectares physical footprint).",
         "Technology Footprint: Uses AI-based cameras and acoustic sensors across a 1.5-km stretch to track bird activity along the Central Asian Flyway.",
-        "Funding Allocation: ₹45 crore sanctioned from District Planning Committee special fund."
+        "Funding Allocation: ₹45 crore sanctioned from District Planning Committee special fund.",
+        "India's 1st dedicated flamingo sanctuary (Thane Creek, 2015) vs India's 101st Ramsar site (Glaw Lake, Arunachal Pradesh).",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Maharashtra Approves ₹45."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Thane Creek declared wildlife sanctuary in 2015 (India's 1st dedicated flamingo sanctuary) | Designated Ramsar site."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "India's 1st dedicated flamingo sanctuary (Thane Creek, 2015) vs India's 101st Ramsar site (Glaw Lake, Arunachal Pradesh)."
-    },
-    {
-      "type": "quote",
-      "quote": "Interview Focus Question: \"How does AI-driven acoustic monitoring improve wetland conservation along the Central Asian Flyway?\"\n💡 **Model Answer: Automated real-time image and sound recognition tracks migratory species populations without human environmental disturbance.**",
-      "author": "Banking & Regulatory Board Panel"
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Maharashtra Approves ₹45."
     }
   ],
   "metadata": {
@@ -44,7 +36,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-08-01",
-    "category": "SEC4",
+    "category": "SEC1",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:12:07.934Z",
     "provenance": {
@@ -55,6 +47,16 @@
       "sourceChecksum": "25930eed878377f4fee7b4f53a414c03b58bd9d627148498c71bfd50c414a25e",
       "migrationTimestamp": "2026-08-15T12:12:07.934Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 92
   }
 }

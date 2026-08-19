@@ -1,30 +1,27 @@
 {
   "id": "migrated-ca-note-sec2-438",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "CGSMFI 2.0 Mandates Banks to Lend at Least 15% Corpus to Small & Mid MFIs",
+  "type": "ca_note",
   "summary": "Ensures equitable liquidity distribution for lower-tier microfinance institutions.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Ensures equitable liquidity distribution for lower-tier microfinance institutions."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 CGSMFI 2.0 Mandates Banks to Lend at Least 15% Corpus to Small & Mid MFIs. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Ensures equitable liquidity distribution for lower-tier microfinance institutions.",
         "Credit Guarantee Scheme for Microfinance Institutions 2.0 (CGSMFI 2.0) requires member lending institutions to allocate at least **15% of guarantee corpus** to small and mid-sized NBFC-MFIs.",
-        "Aims to prevent capital concentration among top-tier MFIs and support last-mile credit flow."
+        "Aims to prevent capital concentration among top-tier MFIs and support last-mile credit flow.",
+        "Mandatory allocation to small/mid MFIs (at least 15% of corpus).",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "National Credit Guarantee Trustee Company (NCGTC) operates under Department of Financial Services, Ministry of Finance."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Mandatory allocation to small/mid MFIs (at least 15% of corpus)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -49,6 +46,16 @@
       "sourceChecksum": "c0f0e43bd576a5491e48ed6f1c433bd52940bb8760264dd9037486761b265a1d",
       "migrationTimestamp": "2026-08-15T12:19:15.619Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

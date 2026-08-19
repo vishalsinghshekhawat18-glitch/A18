@@ -1,0 +1,76 @@
+{
+  "id": "migrated-ca-2026-01-sec2-5",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "100% Insurance FDI Operationalised via Sabka Bima Sabki Raksha",
+  "summary": "Finance Ministry notifies Foreign Investment Amendment Rules 2025, requiring only one resident Indian key executive.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 3. 🏦 BANKING & INSURANCE NEWS",
+      "text": "🪝 100% Insurance FDI Operationalised via Sabka Bima Sabki Raksha. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Following Parliament approval of the 'Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill 2025', **100% FDI (foreign direct investment with management stake) in insurance** is operationalized with simplified residency norms.",
+        "**Executive Mandate**: At least 1 of CEO/MD/Chairperson must be a resident Indian citizen (down from 'most key management').",
+        "**Governance Relief**: Removed mandatory ≥50% independent directors requirement for foreign-invested insurers.",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
+    }
+  ],
+  "intelligence": {
+    "zone": "LIGHT_TOUCH",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 3,
+      "code": "SEC3",
+      "name": "BANKING & INSURANCE NEWS",
+      "emoji": "🏦",
+      "fullName": "3. 🏦 BANKING & INSURANCE NEWS"
+    },
+    "hook": "🪝 100% Insurance FDI Operationalised via Sabka Bima Sabki Raksha",
+    "examAngle": "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-01-26"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026",
+      "January 2026"
+    ],
+    "date": "2026-01-26",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "January_26.pdf",
+      "sourceId": "migrated-ca-2026-01-sec2-5",
+      "sourceTitle": "100% Insurance FDI Operationalised via Sabka Bima Sabki Raksha",
+      "sourceChecksum": "4b2c894ba56a9491c34f9eddc0befb2dda592190f0e4e65eb93f1f64e5c78283",
+      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+      "normalizationRuleVersion": "1.0.0-jan2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "LIGHT_TOUCH",
+    "sectionCode": "SEC3",
+    "sectionNumber": 3,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

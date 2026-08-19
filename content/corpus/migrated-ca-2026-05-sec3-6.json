@@ -1,13 +1,29 @@
 {
   "id": "migrated-ca-2026-05-sec3-6",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "RBI Eases Capital Adequacy Rules for Quarterly Profit Inclusion in CET1",
+  "type": "ca_note",
   "summary": "RBI removes 25% NPA provisioning condition, allowing commercial banks to reckon audited/limited-reviewed quarterly profits into CET1 capital.",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 RBI Eases Capital Adequacy Rules for Quarterly Profit Inclusion in CET1. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "RBI amended capital adequacy directions, removing the qualifying condition linked to previous-year NPA provisions and simplifying the inclusion of quarterly profits into Common Equity Tier 1 (CET1) capital.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    {
       "type": "paragraph",
-      "content": "RBI amended capital adequacy directions, removing the qualifying condition linked to previous-year NPA provisions and simplifying the inclusion of quarterly profits into Common Equity Tier 1 (CET1) capital."
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -22,7 +38,7 @@
       "May 2026"
     ],
     "date": "2026-05-15",
-    "category": "SEC3",
+    "category": "SEC2",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-16T16:10:30.135Z",
     "provenance": {
@@ -33,6 +49,16 @@
       "sourceChecksum": "6786725617be77384b898882cefee674b07b9b322b2613b1951a49dc3f2e7b7f",
       "migrationTimestamp": "2026-08-16T16:10:30.135Z",
       "normalizationRuleVersion": "1.0.0-may2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

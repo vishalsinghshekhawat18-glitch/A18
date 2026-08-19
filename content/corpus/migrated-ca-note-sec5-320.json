@@ -1,47 +1,28 @@
 {
   "id": "migrated-ca-note-sec5-320",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Office of PSA and DSCI Launch TRL Compass Platform (trlcompass.in)",
+  "type": "ca_note",
   "summary": "India's 1st unified 9-level framework for assessing Technology Readiness Levels in deep-tech.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "India's 1st unified 9-level framework for assessing Technology Readiness Levels in deep-tech."
+      "type": "warning_banner",
+      "title": "📰 5. 🤝 MoUs, CONFERENCES & APPOINTMENTS",
+      "text": "🪝 Office of PSA and DSCI Launch TRL Compass Platform (trlcompass.in). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "India's 1st unified 9-level framework for assessing Technology Readiness Levels in deep-tech.",
         "Platform Portal: trlcompass.in launched by Principal Scientific Adviser Prof.",
         "Ajay Kumar Sood.",
-        "National Framework: Standardises 9-level TRL scale to support ANRF and Research, Development & Innovation (RDI) Fund."
+        "National Framework: Standardises 9-level TRL scale to support ANRF and Research, Development & Innovation (RDI) Fund.",
+        "TRL scale levels (9 levels) vs platform developer (DSCI + Office of PSA).",
+        "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Appointee / Official",
-        "New Position & Organization",
-        "Key Context & Details"
-      ],
-      "rows": [
-        [
-          "Office of PSA and DSCI Launch TRL Compass Platform (trlcompass.in)",
-          "Official Appointment",
-          "Platform Portal: trlcompass.in launched by Principal Scientific Adviser Prof. Ajay Kumar Sood."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Data Security Council of India (DSCI) is a non-profit body set up by NASSCOM."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "TRL scale levels (9 levels) vs platform developer (DSCI + Office of PSA)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
     }
   ],
   "metadata": {
@@ -66,6 +47,16 @@
       "sourceChecksum": "9c89b1abe540051db4f07a7f324d59137fc37bc3cfa5a0755b9a6868c1c1f578",
       "migrationTimestamp": "2026-08-15T12:16:15.974Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC5",
+    "sectionNumber": 5,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

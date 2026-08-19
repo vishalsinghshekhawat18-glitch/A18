@@ -1,20 +1,25 @@
 {
   "id": "migrated-ca-note-sec1-49",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "PM Modi Launches 100-Week 'Nasha Mukt Yuva for Viksit Bharat Sankalp Abhiyan'",
+  "type": "ca_note",
   "summary": "PM Modi Launches 100-Week 'Nasha Mukt Yuva for Viksit Bharat Sankalp Abhiyan'",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 PM Modi Launches 100-Week 'Nasha Mukt Yuva for Viksit Bharat Sankalp Abhiyan'. Key development for Banking & General Awareness."
+    },
+    {
       "type": "bullet_list",
       "items": [
-        "PM Modi launched 100-week-long campaign spearheaded by MY Bharat under Ministry of Youth Affairs & Sports."
+        "PM Modi launched 100-week-long campaign spearheaded by MY Bharat under Ministry of Youth Affairs & Sports.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of PM Modi Launches 100."
       ]
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of PM Modi Launches 100."
     }
   ],
   "metadata": {
@@ -39,6 +44,16 @@
       "sourceChecksum": "ef09921826d4ed01fd14b5efa682a74f73dfe9844605c6bd41fd31a9e6b20978",
       "migrationTimestamp": "2026-08-15T12:10:02.257Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

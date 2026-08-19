@@ -1,20 +1,24 @@
 {
   "id": "migrated-ca-2026-01-sec2-5",
+  "title": "🏛️ RBI State Finances Study 2025–26 — Demographic Divergence & Southern States 30% Pension Burden",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "100% Insurance FDI Operationalised via Sabka Bima Sabki Raksha",
-  "summary": "Finance Ministry notifies Foreign Investment Amendment Rules 2025, requiring only one resident Indian key executive.",
+  "summary": "RBI study categorized states into Youthful (<10% 60+), Intermediate (10-15%), and Ageing (15%+). Northern states (Bihar/UP) recorded 19.5% GSDP revenues; Southern states (Kerala/TN) saw pensions consume 30% of social spending amid 30% OADR. State fiscal deficit widened to 3.3% of GDP.",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "Following Parliament approval of the 'Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill 2025', **100% FDI in insurance** is operationalized with simplified residency norms."
+      "content": "**Overview**: RBI study categorized states into Youthful (<10% 60+), Intermediate (10-15%), and Ageing (15%+). Northern states (Bihar/UP) recorded 19.5% GSDP revenues; Southern states (Kerala/TN) saw pensions consume 30% of social spending amid 30% OADR. State fiscal deficit widened to 3.3% of GDP."
     },
     {
       "type": "bullet_list",
       "items": [
-        "**Executive Mandate**: At least 1 of CEO/MD/Chairperson must be a resident Indian citizen (down from 'most key management').",
-        "**Governance Relief**: Removed mandatory ≥50% independent directors requirement for foreign-invested insurers."
+        "**RBI Study on State Finances 2025-26: Youthful States vs Ageing States Pension Dynamics** (Page 34): RBI study categorized states into Youthful (<10% 60+), Intermediate (10-15%), and Ageing (15%+). Northern states (Bihar/UP) recorded 19.5% GSDP revenues; Southern states (Kerala/TN) saw pensions consume 30% of social spending amid 30% OADR. State fiscal deficit widened to 3.3% of GDP."
       ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Sub-National Public Finance & Fiscal Federalism. Analyzes demographic shift on state budgets: Northern youthful states (19.5% GSDP revenue) vs Southern ageing states (30% pension burden)."
     }
   ],
   "metadata": {
@@ -24,22 +28,36 @@
       "SBI PO"
     ],
     "tags": [
-      "sec5",
+      "sec2",
       "Current Affairs 2026",
-      "January 2026"
+      "January 2026",
+      "TIER_A"
     ],
-    "date": "2026-01-26",
-    "category": "SEC5",
-    "difficulty": "intermediate",
-    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "date": "2026-01-15",
+    "category": "SEC2",
+    "difficulty": "hard",
+    "lastUpdated": "2026-08-19T02:37:59.671Z",
     "provenance": {
       "sourceSystem": "CA",
-      "sourceFile": "January_26.pdf",
-      "sourceId": "migrated-ca-2026-01-sec2-5",
-      "sourceTitle": "100% Insurance FDI Operationalised via Sabka Bima Sabki Raksha",
-      "sourceChecksum": "4b2c894ba56a9491c34f9eddc0befb2dda592190f0e4e65eb93f1f64e5c78283",
-      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
-      "normalizationRuleVersion": "1.0.0-jan2026"
-    }
-  }
+      "sourceFile": "Jan2026.pdf",
+      "sourceId": "emu-jan-rbi-state-finances-study",
+      "sourceTitle": "🏛️ RBI State Finances Study 2025–26 — Demographic Divergence & Southern States 30% Pension Burden",
+      "provenancePages": [
+        34
+      ],
+      "constituentArticleCount": 1,
+      "migrationTimestamp": "2026-08-19T02:37:59.671Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
+  },
+  "relationships": []
 }

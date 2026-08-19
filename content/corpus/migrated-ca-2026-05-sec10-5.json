@@ -1,13 +1,24 @@
 {
   "id": "migrated-ca-2026-05-sec10-5",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "CCEA Fixes Sugarcane FRP for 2026-27 Season at Record ₹365 per Quintal",
+  "type": "ca_note",
   "summary": "Fair and Remunerative Price (FRP) of sugarcane fixed at ₹365/qtl for basic 10.25% recovery rate for 2026-27 sugar season.",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 CCEA Fixes Sugarcane FRP for 2026-27 Season at Record ₹365 per Quintal. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "CCEA approved sugarcane FRP of **₹365/quintal** for Sugar Season 2026-27 (Oct-Sept), 100.5% over A2+FL cost of production (₹182/qtl) on CACP recommendations.",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
+      ]
+    },
+    {
       "type": "paragraph",
-      "content": "CCEA approved sugarcane FRP of **₹365/quintal** for Sugar Season 2026-27 (Oct-Sept), 100.5% over A2+FL cost of production (₹182/qtl) on CACP recommendations."
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
     }
   ],
   "metadata": {
@@ -33,6 +44,16 @@
       "sourceChecksum": "0ea4df12354207c697b3a8c28d95a286dc13f14453f5ca2bc0f1db5571479814",
       "migrationTimestamp": "2026-08-16T16:10:30.135Z",
       "normalizationRuleVersion": "1.0.0-may2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

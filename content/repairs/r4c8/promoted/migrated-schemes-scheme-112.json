@@ -1,0 +1,143 @@
+{
+  "id": "migrated-schemes-scheme-112",
+  "type": "ca_note",
+  "domain": "schemes",
+  "title": "National Action Plan for Drug Demand Reduction (NAPDDR) & Nasha Mukt Bharat Abhiyaan",
+  "summary": "National Action Plan for Drug Demand Reduction (NAPDDR) & Nasha Mukt Bharat Abhiyaan — Comprehensive study notes covering objectives, eligibility, outlay, and exam traps.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "⏳ Operational Cycle / Temporal Notice (As of August 2026)",
+      "text": "Documented operational period (2018-04-01 to 2026-03-31) ended on 2026-03-31. Factual parameters (outlay, components) represent the verified 15th Finance Commission cycle. Extension under 16th FC cycle pending gazette confirmation."
+    },
+    {
+      "type": "key_concept",
+      "title": "National Action Plan for Drug Demand Reduction (NAPDDR) & Nasha Mukt Bharat Abhiyaan",
+      "summary": "To employ a multi-pronged strategy involving preventive education, awareness generation, identification, counseling, treatment, and whole-person recovery and rehabilitation of substance-dependent individuals."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🏛️ Administrative & Financial Framework"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Parameter",
+        "Official Specification"
+      ],
+      "rows": [
+        [
+          "Nodal Ministry",
+          "Ministry of Social Justice and Empowerment"
+        ],
+        [
+          "Department",
+          "Social Defence Division"
+        ],
+        [
+          "Launch Year / Period",
+          "2018 (Operational for 2018–2025; NMBA campaign launched 15 August 2020)"
+        ],
+        [
+          "Financial Outlay",
+          "₹260+ Crore annual allocation under MoSJE Social Defence budget."
+        ],
+        [
+          "Funding Pattern",
+          "100% Central Sector Scheme (100% Central assistance to State Governments/UTs and NGOs)."
+        ],
+        [
+          "Implementing Agency",
+          "Ministry of Social Justice & Empowerment, National Institute of Social Defence (NISD), State Social Welfare Departments, and accredited NGOs."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🎯 Target Beneficiaries & Eligibility"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Target Beneficiaries:** Individuals, youth, vulnerable communities, and families affected by substance abuse across India.",
+        "**Eligibility Criteria:** Any substance-dependent individual seeking treatment or community intervention; NGOs/institutions running rehabilitation centres."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "✨ Key Components & Features"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Nasha Mukt Bharat Abhiyaan (NMBA): Flagship mass awareness campaign launched on 15 August 2020 in 272 vulnerable districts, now expanded nationwide to 372+ districts.",
+        "Integrated Rehabilitation Centres for Addicts (IRCAs): Over 340+ IRCAs funded to provide free counseling, de-addiction medical treatment, and whole-person recovery.",
+        "Community based Peer Led Intervention (CPLI): Engages youth and peer educators for early vulnerability identification in children/adolescents.",
+        "Outreach and Drop In Centres (ODICs): Safe screening and harm reduction spaces.",
+        "National Toll-Free Helpline: \"14446\" (Tele-counseling helpline for de-addiction)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚠️ Exam Traps & Key Distinctions"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Flagship Campaign: Nasha Mukt Bharat Abhiyaan (NMBA) launched 15 Aug 2020.",
+        "Funding pattern: 100% Central Sector (Government provides up to 100% financial assistance for IRCAs/ODICs).",
+        "Helpline Number: 14446."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📚 Authoritative Sources"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Ministry of Social Justice and Empowerment, NAPDDR Guidelines & NMBA Portal (nmba.dosje.gov.in)",
+        "PIB Delhi, \"Achievements under National Action Plan for Drug Demand Reduction\" (2024)"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.104Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-112",
+      "sourceTitle": "National Action Plan for Drug Demand Reduction (NAPDDR) (2018–2025):",
+      "sourceChecksum": "4e096ebd549407a022b34a7f523187a881422122b39cfa7552bbde8b28a8224d",
+      "migrationTimestamp": "2026-08-15T12:14:02.104Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    },
+    "repairedVersion": "r4.c5-pilot",
+    "repairedTimestamp": "2026-08-18T13:11:12.072Z",
+    "requiresHumanReview": true,
+    "promotionGate": "R4.C8-passed",
+    "promotionStatus": "approved-with-warning",
+    "promotedTimestamp": "2026-08-18T13:23:27.753Z",
+    "evidenceAuditFile": "content/repairs/r4c6/migrated-schemes-scheme-112-evidence.json",
+    "temporalStatus": "EXPIRED",
+    "crossSchemeRole": "PRIMARY",
+    "temporalWarning": "Documented operational period (2018-04-01 to 2026-03-31) ended on 2026-03-31. Factual parameters (outlay, components) represent the verified 15th Finance Commission cycle. Extension under 16th FC cycle pending gazette confirmation.",
+    "statusAsOf": "2026-08-18"
+  }
+}

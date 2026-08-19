@@ -1,30 +1,27 @@
 {
   "id": "migrated-ca-note-sec2-253",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "NABARD Launches 'Gramodyam' Rural Youth Entrepreneurship Scheme with NSDC",
+  "type": "ca_note",
   "summary": "Unveils rural business development initiative on NABARD's 45th Foundation Day.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Unveils rural business development initiative on NABARD's 45th Foundation Day."
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 NABARD Launches 'Gramodyam' Rural Youth Entrepreneurship Scheme with NSDC. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Unveils rural business development initiative on NABARD's 45th Foundation Day.",
         "Collaborative Initiative: Joint initiative of NABARD and National Skill Development Corporation (MSDE).",
-        "Executing Agency: Executed by Institute for Industrial Development."
+        "Executing Agency: Executed by Institute for Industrial Development.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "NSDC HQ: New Delhi | Works under Ministry of Skill Development."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
     }
   ],
   "metadata": {
@@ -49,6 +46,16 @@
       "sourceChecksum": "1545f373ae22075758d731f0e62167fcd08e876892f5c5399d2b7c1fc557451b",
       "migrationTimestamp": "2026-08-15T12:15:05.761Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

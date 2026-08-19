@@ -1,0 +1,94 @@
+{
+  "id": "migrated-ca-2026-04-sec3-11",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Proposed 1-Hour 'Golden Hour' Cooling-Off Window for Digital Transfers >₹10,000",
+  "summary": "RBI discussion paper on digital payment safeguards suggests a 1-hour delay for first-time push payments >₹10k and annual credit cap of ₹25 lakh on mule accounts.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 RBI Proposed 1-Hour 'Golden Hour' Cooling-Off Window for Digital Transfers >₹10,000. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "RBI published 'Discussion Paper – Exploring Safeguards in Digital Payments to Curb Frauds', recommending key structural friction measures to prevent fund dissipation.",
+        "**Cooling-Off Period**: 1-hour delay applied to account-to-account Authorised Push Payments (APP) exceeding **₹10,000** (accounting for 45% of fraud cases by volume and 98.5% by value).",
+        "**Mule Account Cap**: Annual credit limit capped at **₹25 lakh** for accounts flagged as potential money mules.",
+        "**Kill Switch**: Mandates user controls to toggle payment channels ON/OFF and activate instant kill switches.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+    },
+    {
+      "type": "warning_banner",
+      "title": "💼 Interview Question & Model Answer",
+      "text": "**Q:** How does international UPI linkage assist Indian cross-border trade and remittances?\n\n**Model Answer:** It lowers cross-border transaction fees by bypassing intermediary correspondent banking networks and enables real-time sovereign currency settlements."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 2,
+      "code": "SEC2",
+      "name": "REGULATORY BODIES NEWS",
+      "emoji": "🏛️",
+      "fullName": "2. 🏛️ REGULATORY BODIES NEWS"
+    },
+    "hook": "🪝 RBI Proposed 1-Hour 'Golden Hour' Cooling-Off Window for Digital Transfers >₹10,000",
+    "examAngle": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks.",
+    "interviewQ": {
+      "question": "How does international UPI linkage assist Indian cross-border trade and remittances?",
+      "modelAnswer": "It lowers cross-border transaction fees by bypassing intermediary correspondent banking networks and enables real-time sovereign currency settlements."
+    },
+    "staticGK": {
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-04-15"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026",
+      "April 2026"
+    ],
+    "date": "2026-04-15",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T15:38:14.789Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-04-sec3-11",
+      "sourceTitle": "RBI Proposed 1-Hour 'Golden Hour' Cooling-Off Window for Digital Transfers >₹10,000",
+      "sourceChecksum": "c210d8ba771ce6c010088d814dc88fe88383b2e9c4b828b39af0ab8cbccfd169",
+      "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+      "normalizationRuleVersion": "1.0.0-apr2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

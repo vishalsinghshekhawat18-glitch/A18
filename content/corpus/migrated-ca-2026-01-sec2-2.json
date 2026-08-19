@@ -1,22 +1,24 @@
 {
   "id": "migrated-ca-2026-01-sec2-2",
+  "title": "🏛️ RBI Draft Directions — Daily Net Open Position (NOP) & Basel-Aligned Forex Risk Capital",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "NSO 1st Advance Estimates: FY26 Real GDP Growth Projected at 7.4%",
-  "summary": "NSO projects real GDP to reach ₹201.90 lakh crore (7.4% growth) and nominal GDP at ₹357.14 lakh crore (8% growth).",
+  "summary": "RBI proposed revised continuous daily computation of NOP and capital charges for foreign exchange risk effective April 1, 2027, removing separate offshore/onshore NOP and extending rules to SFBs and RRB Authorised Dealers.",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "National Statistical Office (NSO, MoSPI) released 1st Advance Estimates for FY2025-26, projecting **real GDP growth at 7.4%** to touch ₹201.90 lakh crore."
+      "content": "**Overview**: RBI proposed revised continuous daily computation of NOP and capital charges for foreign exchange risk effective April 1, 2027, removing separate offshore/onshore NOP and extending rules to SFBs and RRB Authorised Dealers."
     },
     {
       "type": "bullet_list",
       "items": [
-        "**Nominal GDP Growth**: 8.0% to ₹357.14 lakh crore.",
-        "**Real GVA Growth**: 7.3% to ₹184.50 lakh crore (manufacturing/construction at 7%).",
-        "**GFCF (Investment) Growth**: 7.8% at constant prices.",
-        "**PFCE (Consumption) Growth**: 7.0%."
+        "**RBI Draft Directions Align Net Open Position (NOP) & Forex Risk with Basel Standards** (Page 28): RBI proposed revised continuous daily computation of NOP and capital charges for foreign exchange risk effective April 1, 2027, removing separate offshore/onshore NOP and extending rules to SFBs and RRB Authorised Dealers."
       ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Forex Risk Management & Basel Capital Standards. Enforces daily continuous NOP calculations and forex capital charges aligned with BCBS standards effective 1 April 2027."
     }
   ],
   "metadata": {
@@ -26,22 +28,36 @@
       "SBI PO"
     ],
     "tags": [
-      "sec3",
+      "sec2",
       "Current Affairs 2026",
-      "January 2026"
+      "January 2026",
+      "TIER_A"
     ],
-    "date": "2026-01-26",
-    "category": "SEC3",
-    "difficulty": "intermediate",
-    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "date": "2026-01-15",
+    "category": "SEC2",
+    "difficulty": "hard",
+    "lastUpdated": "2026-08-19T02:37:59.669Z",
     "provenance": {
       "sourceSystem": "CA",
-      "sourceFile": "January_26.pdf",
-      "sourceId": "migrated-ca-2026-01-sec2-2",
-      "sourceTitle": "NSO 1st Advance Estimates: FY26 Real GDP Growth Projected at 7.4%",
-      "sourceChecksum": "a75dc26bb2495690742339fb16e73e2dfe423b12ca2120d1fd3c8f25a15494c9",
-      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
-      "normalizationRuleVersion": "1.0.0-jan2026"
-    }
-  }
+      "sourceFile": "Jan2026.pdf",
+      "sourceId": "emu-jan-rbi-forex-risk-nop-basel",
+      "sourceTitle": "🏛️ RBI Draft Directions — Daily Net Open Position (NOP) & Basel-Aligned Forex Risk Capital",
+      "provenancePages": [
+        28
+      ],
+      "constituentArticleCount": 1,
+      "migrationTimestamp": "2026-08-19T02:37:59.669Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
+  },
+  "relationships": []
 }

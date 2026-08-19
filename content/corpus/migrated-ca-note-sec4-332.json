@@ -1,31 +1,28 @@
 {
   "id": "migrated-ca-note-sec4-332",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "DAC Accords Acceptance of Necessity (AoN) for ₹52,000 Crore Capital Defence Acquisitions",
+  "type": "ca_note",
   "summary": "Clears Akash Tarang anti-UAV system, MPATGM, MRSAM, V-SHORADS, and FW-HAPS pseudo-satellite.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Clears Akash Tarang anti-UAV system, MPATGM, MRSAM, V-SHORADS, and FW-HAPS pseudo-satellite."
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 DAC Accords Acceptance of Necessity (AoN) for ₹52,000 Crore Capital Defence Acquisitions. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Clears Akash Tarang anti-UAV system, MPATGM, MRSAM, V-SHORADS, and FW-HAPS pseudo-satellite.",
         "Army Cleared Systems (6): 'Akash Tarang' anti-UAV EW system, MPATGM, MRSAM, V-SHORADS, Active Protection System, jet Kamikaze drones.",
         "Navy Approved Proposals (3): Multi Influence Ground Mine (MIGM), Naval Shipborne UAS (NSUAS), Land-Based Testing Facility (LBTF).",
-        "Air Force Approval: Fixed-Wing High Altitude Pseudo Satellite (FW-HAPS) operating at 18-20 km stratosphere altitude."
+        "Air Force Approval: Fixed-Wing High Altitude Pseudo Satellite (FW-HAPS) operating at 18-20 km stratosphere altitude.",
+        "Total AoN value (₹52,000 crore) vs total FY26 approved proposals (₹6.73 lakh crore).",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of DAC Accords Acceptance of Necessity (AoN) for ₹52,000 Crore Capital Defence Acquisitions."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Defence Acquisition Council (DAC) chaired by Defence Minister Rajnath Singh | Est 2001."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Total AoN value (₹52,000 crore) vs total FY26 approved proposals (₹6.73 lakh crore)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of DAC Accords Acceptance of Necessity (AoN) for ₹52,000 Crore Capital Defence Acquisitions."
     }
   ],
   "metadata": {
@@ -39,7 +36,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-07-15",
-    "category": "SEC4",
+    "category": "SEC6",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:16:51.763Z",
     "provenance": {
@@ -50,6 +47,16 @@
       "sourceChecksum": "31c9917b6d712bfb936ec9bf181f3892d05eb634aef3219ac46a623421de9aa2",
       "migrationTimestamp": "2026-08-15T12:16:51.763Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 82
   }
 }

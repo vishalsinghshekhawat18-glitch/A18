@@ -1,26 +1,27 @@
 {
   "id": "migrated-ca-note-sec4-327",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Ministry of Cooperation 5th Foundation Day: Plans Cooperative Life Insurance & 'Sahakar Taxi'",
+  "type": "ca_note",
   "summary": "Announces utility aggregator cooperative for ride-hailing and converts 50,000 PACS into e-PACS.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Announces utility aggregator cooperative for ride-hailing and converts 50,000 PACS into e-PACS."
+      "type": "warning_banner",
+      "title": "📰 3. 🏦 BANKING & INSURANCE NEWS",
+      "text": "🪝 Ministry of Cooperation 5th Foundation Day: Plans Cooperative Life Insurance & 'Sahakar Taxi'. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Announces utility aggregator cooperative for ride-hailing and converts 50,000 PACS into e-PACS.",
         "Cooperative Life Insurance: Plans dedicated cooperative life insurer building on IFFCO-Tokio general insurance model.",
         "Sahakar Taxi Aggregator: Establishes utility aggregator cooperative on lines of 'Bharat Taxi' (0.63M drivers, 3.58M registered users).",
-        "Infrastructure & Seeds: Transferred 135 godowns (75,000 tonnes capacity) and signed BBSSL-ICAR MoU for certified seed tissue culture."
+        "Infrastructure & Seeds: Transferred 135 godowns (75,000 tonnes capacity) and signed BBSSL-ICAR MoU for certified seed tissue culture.",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Ministry of Cooperation formed July 6, 2021 | Minister: Amit Shah."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
     }
   ],
   "metadata": {
@@ -34,7 +35,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-07-10",
-    "category": "SEC4",
+    "category": "SEC2",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:16:51.763Z",
     "provenance": {
@@ -45,6 +46,16 @@
       "sourceChecksum": "7b3de77e561530d73f0ae2abda126056f3d09df6db22c4a9c0563c8b1dcdd26d",
       "migrationTimestamp": "2026-08-15T12:16:51.763Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC3",
+    "sectionNumber": 3,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

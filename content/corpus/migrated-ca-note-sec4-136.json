@@ -1,20 +1,26 @@
 {
   "id": "migrated-ca-note-sec4-136",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Ladakh to Launch India's First High-Altitude Wildlife Safari in Hemis & Changthang",
+  "type": "ca_note",
   "summary": "First high-altitude safari routes across Hemis National Park, Changthang and Karakoram sanctuaries.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "First high-altitude safari routes across Hemis National Park, Changthang and Karakoram sanctuaries."
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 Ladakh to Launch India's First High-Altitude Wildlife Safari in Hemis & Changthang. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "First high-altitude safari routes across Hemis National Park, Changthang and Karakoram sanctuaries.",
         "Ladakh administration announced India's 1st high-altitude wildlife safari across Hemis National Park and Changthang Wildlife Sanctuary.",
-        "Focuses on eco-guided snow leopard and blue sheep sightings."
+        "Focuses on eco-guided snow leopard and blue sheep sightings.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Ladakh to Launch India's First High."
       ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Ladakh to Launch India's First High."
     }
   ],
   "metadata": {
@@ -39,6 +45,16 @@
       "sourceChecksum": "90882cf5b3af5637f1cb7701d7d474ae8c0ebbb2162c1aecb56074aee220abce",
       "migrationTimestamp": "2026-08-15T12:12:07.934Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

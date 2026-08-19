@@ -1,0 +1,77 @@
+{
+  "id": "migrated-ca-note-sec1-99",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "World Ranger Day Observed on 31st July",
+  "summary": "Honours frontline wildlife defenders safeguarding biodiversity across global protected areas.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 8. 📅 IMPORTANT DAYS & PERSONS IN NEWS",
+      "text": "🪝 World Ranger Day Observed on 31st July. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Honours frontline wildlife defenders safeguarding biodiversity across global protected areas.",
+        "World Ranger Day is observed annually on July 31 to commemorate forest rangers killed or injured in the line of duty.",
+        "Organised globally by the International Ranger Federation (IRF) in collaboration with The Thin Green Line Foundation.",
+        "National Handloom Day is observed annually on August 7 to commemorate the launch of the Swadeshi Movement in 1905.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of World Ranger Day Observed on 31st July."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of World Ranger Day Observed on 31st July."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 8,
+      "code": "SEC8",
+      "name": "IMPORTANT DAYS & PERSONS IN NEWS",
+      "emoji": "📅",
+      "fullName": "8. 📅 IMPORTANT DAYS & PERSONS IN NEWS"
+    },
+    "hook": "🪝 World Ranger Day Observed on 31st July",
+    "examAngle": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of World Ranger Day Observed on 31st July.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-08-01"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:08.725Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-99",
+      "sourceTitle": "World Ranger Day Observed on 31st July",
+      "sourceChecksum": "bc70360557b1afc38ebc01f1818af912caf81e21dad4d4e2064ee7a43631876f",
+      "migrationTimestamp": "2026-08-15T12:11:08.725Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC8",
+    "sectionNumber": 8,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

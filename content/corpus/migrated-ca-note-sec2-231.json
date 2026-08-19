@@ -1,48 +1,27 @@
 {
   "id": "migrated-ca-note-sec2-231",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "WTO Trade Policy Review: India Targets 10% Share of Global Merchandise Exports by 2047",
+  "type": "ca_note",
   "summary": "Outlines strategy to expand global merchandise export share from 1.8% in 2024 to 10% by centenary.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Outlines strategy to expand global merchandise export share from 1.8% in 2024 to 10% by centenary."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 WTO Trade Policy Review: India Targets 10% Share of Global Merchandise Exports by 2047. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Outlines strategy to expand global merchandise export share from 1.8% in 2024 to 10% by centenary.",
         "Customs Duty Rationalisation: BCD structure simplified by eliminating 100%, 125%, and 150% peak rates, reducing applied rates to 8 bands.",
-        "Export Target: Scale share from 1.8% to 10% by 2047."
+        "Export Target: Scale share from 1.8% to 10% by 2047.",
+        "India merchandise export share 2024 (1.8%) vs 2047 target (10%).",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Metric / Component",
-        "Threshold / Provision Detail"
-      ],
-      "rows": [
-        [
-          "Customs Duty Rationalisation",
-          "BCD structure simplified by eliminating 100%, 125%, and 150% peak rates, reducing applied rates to 8 bands."
-        ],
-        [
-          "Export Target",
-          "Scale share from 1.8% to 10% by 2047."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "WTO Director-General: Ngozi Okonjo-Iweala | HQ: Geneva, Switzerland."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "India merchandise export share 2024 (1.8%) vs 2047 target (10%)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -67,6 +46,16 @@
       "sourceChecksum": "7310aa90528fef45976f0cdc6fa00702dc6242429f12ef7d030aeaae1af503d6",
       "migrationTimestamp": "2026-08-15T12:14:29.730Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

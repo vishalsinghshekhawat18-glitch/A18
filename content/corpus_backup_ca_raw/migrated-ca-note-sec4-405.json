@@ -1,0 +1,76 @@
+{
+  "id": "migrated-ca-note-sec4-405",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "GRSE Kolkata Upgraded to 29th Navratna Central Public Sector Enterprise",
+  "summary": "Department of Public Enterprises upgrades Garden Reach Shipbuilders & Engineers to Navratna status.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 GRSE Kolkata Upgraded to 29th Navratna Central Public Sector Enterprise. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Department of Public Enterprises upgrades Garden Reach Shipbuilders & Engineers to Navratna status.",
+        "Navratna Status: GRSE upgraded from Miniratna Category-I to 29th Navratna CPSE.",
+        "Financial Autonomy: Grants autonomy to invest up to ₹1,000 crore or 15% of net worth without Cabinet approval.",
+        "GRSE Navratna rank (29th) vs Maharatna count in India (14).",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of GRSE Kolkata Upgraded to 29th Navratna Central Public Sector Enterprise."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 4,
+      "code": "SEC4",
+      "name": "NATIONAL, STATE & INTERNATIONAL NEWS",
+      "emoji": "🌐",
+      "fullName": "4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS"
+    },
+    "hook": "🪝 GRSE Kolkata Upgraded to 29th Navratna Central Public Sector Enterprise",
+    "examAngle": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of GRSE Kolkata Upgraded to 29th Navratna Central Public Sector Enterprise.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-06-27"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-27",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:18:39.841Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-405",
+      "sourceTitle": "GRSE Kolkata Upgraded to 29th Navratna Central Public Sector Enterprise",
+      "sourceChecksum": "b7cf19ecc00d8df66dd7180d3d279a24d0f416d87da9d2a3da084ebe6a6a3b61",
+      "migrationTimestamp": "2026-08-15T12:18:39.841Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

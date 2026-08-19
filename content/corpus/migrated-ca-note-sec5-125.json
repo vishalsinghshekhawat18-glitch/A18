@@ -1,36 +1,26 @@
 {
   "id": "migrated-ca-note-sec5-125",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Ministry of Culture & Tourism Partners with Netflix for 'As Seen on Netflix' Section",
+  "type": "ca_note",
   "summary": "Showcases Indian cultural heritage destinations on Incredible India Portal.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Showcases Indian cultural heritage destinations on Incredible India Portal."
+      "type": "warning_banner",
+      "title": "📰 5. 🤝 MoUs, CONFERENCES & APPOINTMENTS",
+      "text": "🪝 Ministry of Culture & Tourism Partners with Netflix for 'As Seen on Netflix' Section. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Showcases Indian cultural heritage destinations on Incredible India Portal.",
         "Netflix Co-CEO: Ted Sarandos.",
-        "Union Minister: Gajendra Singh Shekhawat."
+        "Union Minister: Gajendra Singh Shekhawat.",
+        "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Appointee / Official",
-        "New Position & Organization",
-        "Key Context & Details"
-      ],
-      "rows": [
-        [
-          "Ministry of Culture & Tourism Partners with Netflix for 'As Seen on Netflix' Section",
-          "Official Appointment",
-          "Netflix Co-CEO: Ted Sarandos | Union Minister: Gajendra Singh Shekhawat."
-        ]
-      ]
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
     }
   ],
   "metadata": {
@@ -44,7 +34,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-08-06",
-    "category": "SEC5",
+    "category": "SEC6",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:11:38.420Z",
     "provenance": {
@@ -55,6 +45,16 @@
       "sourceChecksum": "230802d26a698d6f6b2a817f72784f923dc8f479ec7553225baac8aa68d28074",
       "migrationTimestamp": "2026-08-15T12:11:38.420Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC5",
+    "sectionNumber": 5,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 82
   }
 }

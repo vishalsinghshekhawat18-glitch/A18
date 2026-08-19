@@ -1,26 +1,27 @@
 {
   "id": "migrated-ca-note-sec4-331",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "India & Japan Sign 1st Bilateral Defence Agreement for 'UNICORN' Integrated Radio Mast",
+  "type": "ca_note",
   "summary": "BEL to manufacture Japan's UNICORN stealth shipborne mast in India for naval frigates.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "BEL to manufacture Japan's UNICORN stealth shipborne mast in India for naval frigates."
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 India & Japan Sign 1st Bilateral Defence Agreement for 'UNICORN' Integrated Radio Mast. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "BEL to manufacture Japan's UNICORN stealth shipborne mast in India for naval frigates.",
         "Inaugural Defence Deal: 1st bilateral agreement for joint defence equipment development signed at 16th India-Japan Annual Summit.",
         "UNICORN Technology: Bharat Electronics Limited (BEL) to manufacture UNICORN (Unified Complex Radio Antenna) integrated mast for Mogami-class frigates.",
-        "Radar Stealth: Encloses communication antennas into a single mast, significantly reducing warship radar signatures."
+        "Radar Stealth: Encloses communication antennas into a single mast, significantly reducing warship radar signatures.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of India & Japan Sign 1st Bilateral Defence Agreement for 'UNICORN' Integrated Radio Mast."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "BEL Chairman & MD: Manoj Jain | HQ: Bengaluru, Karnataka."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of India & Japan Sign 1st Bilateral Defence Agreement for 'UNICORN' Integrated Radio Mast."
     }
   ],
   "metadata": {
@@ -45,6 +46,16 @@
       "sourceChecksum": "f93ab483c222e0dedbe2fe4bce41d89e37e5a947b629165cb84cc49cf7bceb03",
       "migrationTimestamp": "2026-08-15T12:16:51.763Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

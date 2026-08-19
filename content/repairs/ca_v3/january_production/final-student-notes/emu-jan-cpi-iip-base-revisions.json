@@ -1,0 +1,36 @@
+{
+  "id": "emu-jan-cpi-iip-base-revisions",
+  "title": "💰 Statistical Base Year Overhauls — CPI 2024 Base (Food Weight Cut to 36.75%) & IIP/GDP 2022-23 Base",
+  "category": "SEC1",
+  "tier": "TIER_A",
+  "theme": "National Statistical Framework Overhaul",
+  "summary": "MoSPI revised CPI basket structure for 2024 base: food & beverage weight reduced to 36.75% (from 45.86%), housing increased to 17.66% (from 10.07%), and total items expanded to 358 (from 299).",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "**Overview**: MoSPI revised CPI basket structure for 2024 base: food & beverage weight reduced to 36.75% (from 45.86%), housing increased to 17.66% (from 10.07%), and total items expanded to 358 (from 299)."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**New CPI Series Cuts Food & Beverage Weight from 45.86% to 36.75%** (Page 13): MoSPI revised CPI basket structure for 2024 base: food & beverage weight reduced to 36.75% (from 45.86%), housing increased to 17.66% (from 10.07%), and total items expanded to 358 (from 299)."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under National Statistical Framework Overhaul. Durable MoSPI base year revisions for CPI (2024=100, food weight cut from 45.86% to 36.75%), GDP (2022-23), and IIP (2022-23)."
+    }
+  ],
+  "metadata": {
+    "provenancePages": [
+      13
+    ],
+    "constituentArticleCount": 1,
+    "provenanceArticleIds": [
+      "jan-art-27"
+    ],
+    "statutoryConcept": "National Statistical Framework Overhaul",
+    "whyStandalone": "Durable MoSPI base year revisions for CPI (2024=100, food weight cut from 45.86% to 36.75%), GDP (2022-23), and IIP (2022-23)."
+  }
+}

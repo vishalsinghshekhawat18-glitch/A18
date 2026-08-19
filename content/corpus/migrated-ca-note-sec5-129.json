@@ -1,35 +1,25 @@
 {
   "id": "migrated-ca-note-sec5-129",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "India Hosts 2nd National Port Security Conference 2026 in New Delhi",
+  "type": "ca_note",
   "summary": "Accelerates maritime security digitisation and port workflow standardization.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Accelerates maritime security digitisation and port workflow standardization."
+      "type": "warning_banner",
+      "title": "📰 5. 🤝 MoUs, CONFERENCES & APPOINTMENTS",
+      "text": "🪝 India Hosts 2nd National Port Security Conference 2026 in New Delhi. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
-        "Key Platforms: e-Samudra portal, Maritime Single Window, and One Nation One Port Process."
+        "Accelerates maritime security digitisation and port workflow standardization.",
+        "Key Platforms: e-Samudra portal, Maritime Single Window, and One Nation One Port Process.",
+        "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Appointee / Official",
-        "New Position & Organization",
-        "Key Context & Details"
-      ],
-      "rows": [
-        [
-          "India Hosts 2nd National Port Security Conference 2026 in New Delhi",
-          "Official Appointment",
-          "Key Platforms: e-Samudra portal, Maritime Single Window, and One Nation One Port Process."
-        ]
-      ]
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
     }
   ],
   "metadata": {
@@ -54,6 +44,16 @@
       "sourceChecksum": "a3fd54302a7b862f0432fc4d537d695aadb94d1973492fc457e9733c1701cf97",
       "migrationTimestamp": "2026-08-15T12:12:07.934Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC5",
+    "sectionNumber": 5,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

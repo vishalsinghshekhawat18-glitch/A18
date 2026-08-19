@@ -1,30 +1,27 @@
 {
   "id": "migrated-ca-note-sec4-295",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Static GK: Black Sea Geographical Straits & Bordering Nations",
+  "type": "ca_note",
   "summary": "Marginal sea connecting Europe and Asia via Bosphorus, Dardanelles, and Kerch Straits.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Marginal sea connecting Europe and Asia via Bosphorus, Dardanelles, and Kerch Straits."
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 Static GK: Black Sea Geographical Straits & Bordering Nations. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Marginal sea connecting Europe and Asia via Bosphorus, Dardanelles, and Kerch Straits.",
         "Bordering Nations (6 Countries): Bulgaria, Romania, Ukraine, Russia, Georgia, and Türkiye.",
-        "Connecting Waterways: Linked to Sea of Marmara via Bosphorus Strait; to Aegean Sea via Dardanelles Strait; to Sea of Azov via Kerch Strait."
+        "Connecting Waterways: Linked to Sea of Marmara via Bosphorus Strait; to Aegean Sea via Dardanelles Strait; to Sea of Azov via Kerch Strait.",
+        "Connecting strait to Sea of Azov (Kerch Strait) vs Sea of Marmara (Bosphorus Strait).",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Mnemonic for Black Sea bordering countries: BURGER (Bulgaria, Ukraine, Russia, Georgia, Romania) + Türkiye."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Connecting strait to Sea of Azov (Kerch Strait) vs Sea of Marmara (Bosphorus Strait)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
     }
   ],
   "metadata": {
@@ -38,7 +35,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-07-05",
-    "category": "SEC4",
+    "category": "SEC6",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:15:40.421Z",
     "provenance": {
@@ -49,6 +46,16 @@
       "sourceChecksum": "e4659b1ecf51b8e66392fd643fa3c0e7b81a33647837c316f93505b71ee31c8c",
       "migrationTimestamp": "2026-08-15T12:15:40.421Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 82
   }
 }

@@ -1,0 +1,409 @@
+{
+  "version": "1.0.0-claim-preservation-audit",
+  "timestamp": "2026-08-18T17:28:58.272Z",
+  "totalClaimsAudited": 70,
+  "totalClaimsPreserved": 70,
+  "preservationRate": "100.0%",
+  "claims": [
+    {
+      "unitId": "emu-16th-finance-commission",
+      "sourceTitle": "16th Finance Commission report for Tax revenue laid in LS",
+      "page": 1,
+      "claimSnippet": "The 16th Finance Commission report for tax revenue devolution between Centre and",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-16th-finance-commission]"
+    },
+    {
+      "unitId": "emu-anrf-rdi-deep-tech-funds",
+      "sourceTitle": "ANRF launches ₹1 Lakh Crore RDI Fund first call under TDB",
+      "page": 29,
+      "claimSnippet": "Dr. Jitendra Singh launched 1st call of TDB under ₹1 Lakh Crore Research, Develo",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-anrf-rdi-deep-tech-funds]"
+    },
+    {
+      "unitId": "emu-anrf-rdi-deep-tech-funds",
+      "sourceTitle": "DPIIT revises start-up definition: Deep-tech up to 20 years and ₹300 crore",
+      "page": 30,
+      "claimSnippet": "DPIIT revised 2019 rules: Deep-tech start-ups recognized up to 20 years (turnove",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-anrf-rdi-deep-tech-funds]"
+    },
+    {
+      "unitId": "emu-anrf-rdi-deep-tech-funds",
+      "sourceTitle": "BIRAC-RDI Fund for Biotechnology launched by Dr. Jitendra Singh",
+      "page": 38,
+      "claimSnippet": "DBT's BIRAC appointed second-level manager to deploy ₹2,000 Cr under ₹1L Cr RDI ",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-anrf-rdi-deep-tech-funds]"
+    },
+    {
+      "unitId": "emu-apex-global-indices-reports",
+      "sourceTitle": "Network Readiness Index 2025: India ranks 45th globally (Portulans Institute)",
+      "page": 83,
+      "claimSnippet": "India rose 4 places to 45th out of 127 economies (score 54.43); #1 in telecom in",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-apex-global-indices-reports]"
+    },
+    {
+      "unitId": "emu-apex-global-indices-reports",
+      "sourceTitle": "Corruption Perceptions Index 2025: India ranks 91st (score 39/100)",
+      "page": 84,
+      "claimSnippet": "Transparency International 31st CPI: India ranked 91st out of 182 countries; Den",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-apex-global-indices-reports]"
+    },
+    {
+      "unitId": "emu-apex-global-indices-reports",
+      "sourceTitle": "USGBC LEED Green Building List 2025: India ranks 2nd globally",
+      "page": 85,
+      "claimSnippet": "India climbed to 2nd place in LEED-certified space (China #1, Canada #3, USA glo",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-apex-global-indices-reports]"
+    },
+    {
+      "unitId": "emu-apex-global-indices-reports",
+      "sourceTitle": "Henley Passport Index February 2026: India ranks 75th (56 destinations)",
+      "page": 85,
+      "claimSnippet": "India rose 10 spots to 75th (56 visa-free destinations); Singapore #1 (192 desti",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-apex-global-indices-reports]"
+    },
+    {
+      "unitId": "emu-apex-global-indices-reports",
+      "sourceTitle": "FT Global MBA Rankings 2026: ISB ranks #12 globally, #1 in India",
+      "page": 85,
+      "claimSnippet": "Indian School of Business rose 15 places to #12 globally and #2 in Asia.",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-apex-global-indices-reports]"
+    },
+    {
+      "unitId": "emu-apex-institutional-appointments",
+      "sourceTitle": "Uday Kotak appointed Chairman of GIFT City Company Ltd",
+      "page": 102,
+      "claimSnippet": "Uday Kotak appointed Chairman of GIFT City (IFSC Gandhinagar), succeeding Hasmuk",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-apex-institutional-appointments]"
+    },
+    {
+      "unitId": "emu-apex-institutional-appointments",
+      "sourceTitle": "CA Prasanna Kumar D elected 74th President of ICAI (2026-27)",
+      "page": 102,
+      "claimSnippet": "ICAI under Ministry of Corporate Affairs elected Prasanna Kumar D President and ",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-apex-institutional-appointments]"
+    },
+    {
+      "unitId": "emu-apex-institutional-appointments",
+      "sourceTitle": "Nidhi Chhibber appointed Interim CEO of NITI Aayog",
+      "page": 103,
+      "claimSnippet": "Nidhi Chhibber replaced BVR Subrahmanyam as Interim CEO of NITI Aayog.",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-apex-institutional-appointments]"
+    },
+    {
+      "unitId": "emu-apex-institutional-appointments",
+      "sourceTitle": "First BRICS Sherpa Meeting begins in New Delhi under India's 2026 Chairship",
+      "page": 103,
+      "claimSnippet": "India's BRICS Sherpa Sudhakar Dalela chaired meeting; India leads BRICS 4th time",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-apex-institutional-appointments]"
+    },
+    {
+      "unitId": "emu-dicgc-risk-based-premium",
+      "sourceTitle": "DICGC Risk-based Premium Framework for Deposit Insurance in India",
+      "page": 8,
+      "claimSnippet": "DICGC with RBI approval advised banks on Risk-Based Premium framework under Sect",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-dicgc-risk-based-premium]"
+    },
+    {
+      "unitId": "emu-digital-payments-cbdc-ecosystem",
+      "sourceTitle": "India, Malaysia Ink 11 pacts; UPI-PayNet link to ease remittances",
+      "page": 18,
+      "claimSnippet": "NIPL (NPCI) and Malaysia PayNet signed cross-border QR payments link (DuitNow-UP",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-digital-payments-cbdc-ecosystem]"
+    },
+    {
+      "unitId": "emu-digital-payments-cbdc-ecosystem",
+      "sourceTitle": "Amit Shah launches e-Rupee PDS & 24x7 'Annapurti' grain ATM in Gujarat",
+      "page": 39,
+      "claimSnippet": "Amit Shah launched India's 1st CBDC-based PDS in Gandhinagar with Annapurti grai",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-digital-payments-cbdc-ecosystem]"
+    },
+    {
+      "unitId": "emu-global-economic-treaties-pacts",
+      "sourceTitle": "New START nuclear arms treaty between US and Russia expires",
+      "page": 64,
+      "claimSnippet": "2010 New START treaty (Medvedev-Obama, 1,550 warhead cap) expired on Feb 5, 2026",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-global-economic-treaties-pacts]"
+    },
+    {
+      "unitId": "emu-global-economic-treaties-pacts",
+      "sourceTitle": "India joins US-led 'Pax Silica' tech supply chain coalition as 10th member",
+      "page": 65,
+      "claimSnippet": "India joined 10-nation Pax Silica coalition (Australia, Greece, Israel, Japan, Q",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-global-economic-treaties-pacts]"
+    },
+    {
+      "unitId": "emu-india-ai-impact-summit-2026",
+      "sourceTitle": "MANAV Vision for AI at India AI Impact Summit 2026",
+      "page": 5,
+      "claimSnippet": "PM Narendra Modi unveiled MANAV Vision for AI: Moral systems, Accountable govern",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-india-ai-impact-summit-2026]"
+    },
+    {
+      "unitId": "emu-india-ai-impact-summit-2026",
+      "sourceTitle": "NPCI offers 'UPI One World' wallet to foreign visitors at AI Summit",
+      "page": 21,
+      "claimSnippet": "NPCI offered UPI One World wallet for delegates from 40+ countries at India AI I",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-india-ai-impact-summit-2026]"
+    },
+    {
+      "unitId": "emu-india-ai-impact-summit-2026",
+      "sourceTitle": "NPCI launches FiMI domain-specific language model for payments",
+      "page": 22,
+      "claimSnippet": "NPCI launched FiMI (Finance Model for India) Small Language Model supporting Eng",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-india-ai-impact-summit-2026]"
+    },
+    {
+      "unitId": "emu-india-ai-impact-summit-2026",
+      "sourceTitle": "NPCI and Nvidia tie up for sovereign AI payment infrastructure",
+      "page": 23,
+      "claimSnippet": "NPCI partnered with Nvidia to scale FiMI SLM infrastructure for sovereign paymen",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-india-ai-impact-summit-2026]"
+    },
+    {
+      "unitId": "emu-india-ai-impact-summit-2026",
+      "sourceTitle": "Bharat GenAI text models across 22 scheduled languages led by IIT Bombay",
+      "page": 31,
+      "claimSnippet": "DST funded ₹235 Cr under NM-ICPS + MeitY India AI Mission ₹10,585 Cr for BharatG",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-india-ai-impact-summit-2026]"
+    },
+    {
+      "unitId": "emu-india-ai-impact-summit-2026",
+      "sourceTitle": "India AI Impact Summit 2026 held in New Delhi: Seven Chakras & 3 Sutras",
+      "page": 37,
+      "claimSnippet": "First-ever Global AI Summit in Global South (Feb 16-20) based on People, Planet,",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-india-ai-impact-summit-2026]"
+    },
+    {
+      "unitId": "emu-india-ai-impact-summit-2026",
+      "sourceTitle": "MeitY launches VoicERA open-source voice AI stack on BHASHINI",
+      "page": 42,
+      "claimSnippet": "Amitabh Nag (CEO BHASHINI) launched VoicERA in collaboration with EkStep, IIIT B",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-india-ai-impact-summit-2026]"
+    },
+    {
+      "unitId": "emu-india-ai-impact-summit-2026",
+      "sourceTitle": "India unveils 'New Delhi Frontier AI Commitments' at AI Summit",
+      "page": 45,
+      "claimSnippet": "Ashwini Vaishnaw unveiled voluntary Frontier AI commitments adopted by global an",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-india-ai-impact-summit-2026]"
+    },
+    {
+      "unitId": "emu-insurance-100-percent-fdi",
+      "sourceTitle": "India operationalises 100% Insurance FDI under Sabka Bima Act 2025",
+      "page": 27,
+      "claimSnippet": "DPIIT notified 100% FDI under automatic route for insurance companies under Sabk",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-insurance-100-percent-fdi]"
+    },
+    {
+      "unitId": "emu-landmark-sports-milestones",
+      "sourceTitle": "Carlos Alcaraz wins Australian Open 2026 Men's Singles (Career Grand Slam)",
+      "page": 98,
+      "claimSnippet": "Alcaraz (Spain) defeated Djokovic to become youngest man to complete career Gran",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-landmark-sports-milestones]"
+    },
+    {
+      "unitId": "emu-landmark-sports-milestones",
+      "sourceTitle": "RCB wins 4th Women's Premier League (WPL 2026) title",
+      "page": 99,
+      "claimSnippet": "RCB defeated Delhi Capitals by 6 wickets in Vadodara; Orange Cap: Smriti Mandhan",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-landmark-sports-milestones]"
+    },
+    {
+      "unitId": "emu-national-infrastructure-megaprojects",
+      "sourceTitle": "PM Modi flags off 82 km Delhi-Meerut Namo Bharat RRTS corridor (180 kmph)",
+      "page": 49,
+      "claimSnippet": "PM Modi dedicated entire 82 km corridor: Namo Bharat RRTS (180 kmph) and Meerut ",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-national-infrastructure-megaprojects]"
+    },
+    {
+      "unitId": "emu-national-skilling-pm-setu",
+      "sourceTitle": "World Bank Approves $830 Million Loan for PM-SETU to Upgrade ITIs",
+      "page": 17,
+      "claimSnippet": "World Bank approved $830 million loan (19.5-year maturity, 4-year grace) under C",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-national-skilling-pm-setu]"
+    },
+    {
+      "unitId": "emu-national-skilling-pm-setu",
+      "sourceTitle": "National Centre of Excellence for Aeronautics & Defence Skilling at NSTI Kanpur",
+      "page": 45,
+      "claimSnippet": "Centre with France announced CoE under PM-SETU (₹60,000 Cr outlay to upgrade 1,0",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-national-skilling-pm-setu]"
+    },
+    {
+      "unitId": "emu-pm-rahat-emergency-healthcare",
+      "sourceTitle": "PM RAHAT Scheme: Cashless treatment up to ₹1.5 Lakh for road accident victims",
+      "page": 59,
+      "claimSnippet": "PM RAHAT provides cashless treatment up to ₹1.5L for 7 days via MVAF, eDAR, and ",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-pm-rahat-emergency-healthcare]"
+    },
+    {
+      "unitId": "emu-rbi-external-commercial-borrowing",
+      "sourceTitle": "RBI notifies amended ECB framework, replaces cap with higher of $1B or 300% net worth",
+      "page": 15,
+      "claimSnippet": "RBI notified FEMA Borrowing & Lending First Amendment Regulations 2026: Automati",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-rbi-external-commercial-borrowing]"
+    },
+    {
+      "unitId": "emu-rbi-lead-bank-consumer-conduct",
+      "sourceTitle": "RBI Draft Circular on Lead Bank Scheme (LBS)",
+      "page": 12,
+      "claimSnippet": "RBI revised Lead Bank Scheme guidelines (introduced 1969) to strengthen SLBCs an",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-rbi-lead-bank-consumer-conduct]"
+    },
+    {
+      "unitId": "emu-rbi-monetary-policy-msme",
+      "sourceTitle": "RBI monetary policy: Small digital fraud victims to get up to ₹25K refund",
+      "page": 10,
+      "claimSnippet": "RBI MPC announced one-time compensation up to 85% of amount lost or ₹25,000 for ",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-rbi-monetary-policy-msme]"
+    },
+    {
+      "unitId": "emu-rbi-monetary-policy-msme",
+      "sourceTitle": "Axis Bank launches Rooftop Solar Finance for MSMEs",
+      "page": 18,
+      "claimSnippet": "Axis Bank launched collateral-free loans from ₹10 lakh to ₹2 crore (4-7 year ten",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-rbi-monetary-policy-msme]"
+    },
+    {
+      "unitId": "emu-rbi-prudential-capital-markets",
+      "sourceTitle": "RBI finalises acquisition finance norms; caps overseas syndicated deal exposure at 20%",
+      "page": 13,
+      "claimSnippet": "RBI finalised acquisition financing framework: bank participation capped at 20% ",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-rbi-prudential-capital-markets]"
+    },
+    {
+      "unitId": "emu-rbi-prudential-capital-markets",
+      "sourceTitle": "RBI mandates 100% collateral for stockbroker credit facilities",
+      "page": 14,
+      "claimSnippet": "RBI Commercial Banks Credit Facilities Directions 2026: Broker funding must be 1",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-rbi-prudential-capital-markets]"
+    },
+    {
+      "unitId": "emu-sbi-landmark-scale-milestones",
+      "sourceTitle": "SBI raises $1 billion from MUFG via 5-year social loan",
+      "page": 18,
+      "claimSnippet": "SBI raised $1 billion through 5-year social loan from Japan's MUFG, the first so",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-sbi-landmark-scale-milestones]"
+    },
+    {
+      "unitId": "emu-sbi-landmark-scale-milestones",
+      "sourceTitle": "SBI overtakes TCS to become India's 4th Most Valuable Company",
+      "page": 20,
+      "claimSnippet": "SBI market cap crossed ₹10.9 lakh crore, surpassing TCS (₹10.5L Cr) to rank 4th ",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-sbi-landmark-scale-milestones]"
+    },
+    {
+      "unitId": "emu-sbi-landmark-scale-milestones",
+      "sourceTitle": "SBI targets increasing green advances to 10% by 2030, launches CHAKRA",
+      "page": 24,
+      "claimSnippet": "SBI aims for 7.5-10% green advances by 2030 and launched CHAKRA Centre of Excell",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-sbi-landmark-scale-milestones]"
+    },
+    {
+      "unitId": "emu-sebi-market-infrastructure-reforms",
+      "sourceTitle": "SEBI proposal for SWP and STP in demat mutual funds",
+      "page": 7,
+      "claimSnippet": "SEBI proposed allowing standing instructions for Systematic Withdrawal Plans (SW",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-sebi-market-infrastructure-reforms]"
+    },
+    {
+      "unitId": "emu-sebi-market-infrastructure-reforms",
+      "sourceTitle": "SEBI eases SGF rules for commodity derivatives clearing houses",
+      "page": 7,
+      "claimSnippet": "SEBI proposed reducing Z-score for historical stress testing in commodity deriva",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-sebi-market-infrastructure-reforms]"
+    },
+    {
+      "unitId": "emu-sebi-market-infrastructure-reforms",
+      "sourceTitle": "SEBI proposes exit flexibility for Alternative Investment Funds (AIFs)",
+      "page": 8,
+      "claimSnippet": "SEBI proposed allowing AIFs to retain funds beyond permissible fund life for ong",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-sebi-market-infrastructure-reforms]"
+    },
+    {
+      "unitId": "emu-sebi-market-infrastructure-reforms",
+      "sourceTitle": "SEBI floats proposal to revamp ETF price band framework",
+      "page": 14,
+      "claimSnippet": "SEBI proposed shifting ETF base price from T-2 closing NAV to T-1 data/iNAV with",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-sebi-market-infrastructure-reforms]"
+    },
+    {
+      "unitId": "emu-sebi-market-infrastructure-reforms",
+      "sourceTitle": "SEBI Tightens AIF Disclosure Norms; Mandates ISIN-Level NAV Reporting",
+      "page": 16,
+      "claimSnippet": "SEBI mandated AIFs to upload scheme-wise NAV data at ISIN level directly to depo",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-sebi-market-infrastructure-reforms]"
+    },
+    {
+      "unitId": "emu-standalone-cgb-art-136",
+      "sourceTitle": "Vibrant Villages Programme-II (VVP-II) to cover 1,954 border villages in 15 states",
+      "page": 43,
+      "claimSnippet": "MHA announced VVP-II covering 1,954 strategic border villages along Pakistan, Ne",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-standalone-cgb-art-136]"
+    },
+    {
+      "unitId": "emu-standalone-cgb-art-161",
+      "sourceTitle": "Union Cabinet approves renaming Kerala to 'Keralam' under Article 3",
+      "page": 52,
+      "claimSnippet": "Kerala (Alteration of Name) Bill 2026 referred under Article 3 proviso to state ",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-standalone-cgb-art-161]"
+    },
+    {
+      "unitId": "emu-standalone-cgb-art-18",
+      "sourceTitle": "India Launches Zero Prize for Tangible Pollution Reduction",
+      "page": 6,
+      "claimSnippet": "India launched results-based environmental award 'Zero Prize' with ₹5 crore corp",
+      "status": "FACT_PRESERVED",
+      "locationInUnit": "masterKeyFacts[emu-standalone-cgb-art-18]"
+    }
+  ]
+}

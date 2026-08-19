@@ -1,0 +1,76 @@
+{
+  "id": "migrated-ca-note-sec2-235",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Income Tax & FEMA Guidelines for NRI Gifts: Relative Gifts Tax-Free; Non-Relative Exemption ₹50,000",
+  "summary": "Clarifies tax-free gift rules under Income Tax Act 2025 and FEMA remittance limits.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 Income Tax & FEMA Guidelines for NRI Gifts: Relative Gifts Tax-Free; Non-Relative Exemption ₹50,000. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Clarifies tax-free gift rules under Income Tax Act 2025 and FEMA remittance limits.",
+        "Tax Exemption: Gifts from specified relatives 100% tax-free; non-relative gifts taxable if aggregate exceeds ₹50,000 in a FY.",
+        "Immovable Property: NRIs/OCIs can receive residential/commercial property as gift; agricultural land, plantations, and farmhouses strictly restricted.",
+        "Tax-free non-relative gift threshold (₹50,000 p.a.) vs LRS gift limit (,000).",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 2,
+      "code": "SEC2",
+      "name": "REGULATORY BODIES NEWS",
+      "emoji": "🏛️",
+      "fullName": "2. 🏛️ REGULATORY BODIES NEWS"
+    },
+    "hook": "🪝 Income Tax & FEMA Guidelines for NRI Gifts: Relative Gifts Tax-Free; Non-Relative Exemption ₹50,000",
+    "examAngle": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-07-30"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-30",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:29.730Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-235",
+      "sourceTitle": "Income Tax & FEMA Guidelines for NRI Gifts: Relative Gifts Tax-Free; Non-Relative Exemption ₹50,000",
+      "sourceChecksum": "c78f2b76da7409ac56786153b1ce47d05793430d4c292febe293454ec41ba6b0",
+      "migrationTimestamp": "2026-08-15T12:14:29.730Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

@@ -1,0 +1,1495 @@
+{
+  "version": "1.0.0-final-emu-recommendation",
+  "timestamp": "2026-08-18T17:32:30.016Z",
+  "finalRecommendedUnitCount": 43,
+  "tierAMasterUnits": 23,
+  "tierBPlusUnits": 20,
+  "attachedSubArticles": 28,
+  "skippedNoiseArticles": 297,
+  "totalAccounted": 368,
+  "memoryUnits": [
+    {
+      "unitId": "emu-16th-finance-commission",
+      "title": "💰 16th Finance Commission Report — 41% Tax Devolution & GDP Contribution Weight",
+      "category": "SEC1",
+      "tier": "TIER_A",
+      "concept": "Inter-Governmental Fiscal Devolution",
+      "constituentCount": 1,
+      "provenancePages": [
+        1
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-1"
+      ],
+      "whyStandaloneJustification": "Constitutional 5-year tax sharing formula (Article 280).",
+      "executiveSummary": "The 16th Finance Commission report for tax revenue devolution between Centre and states for 2026-2031 retained 41% share. Formally constituted Dec 31, 2023 under Arvind Panagariya under Article 280.",
+      "masterKeyFacts": [
+        "The 16th Finance Commission report for tax revenue devolution between Centre and states for 2026-2031 retained 41% share. Formally constituted Dec 31, 2023 under Arvind Panagariya under Article 280."
+      ],
+      "subEvents": [
+        {
+          "title": "16th Finance Commission report for Tax revenue laid in LS",
+          "page": 1,
+          "facts": [
+            "The 16th Finance Commission report for tax revenue devolution between Centre and states for 2026-2031 retained 41% share. Formally constituted Dec 31, 2023 under Arvind Panagariya under Article 280."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-union-budget-2026-27",
+      "title": "💰 Union Budget 2026–27 — Fiscal Targets, Capex Push & Direct Tax Overhaul",
+      "category": "SEC1",
+      "tier": "TIER_A",
+      "concept": "Sovereign Macro-Fiscal Matrix",
+      "constituentCount": 6,
+      "provenancePages": [
+        2,
+        3,
+        37,
+        47,
+        59,
+        76
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-3",
+        "cgb-art-5",
+        "cgb-art-114",
+        "cgb-art-147",
+        "cgb-art-186",
+        "cgb-art-210"
+      ],
+      "whyStandaloneJustification": "Central fiscal policy blueprint (4.3% deficit, ₹12.2L Cr Capex, 536 IT sections).",
+      "executiveSummary": "Union Budget allocated ₹2,000 crore incentive for low-value P2M UPI and RuPay debit card transactions with zero MDR. Zero MDR made effective Jan 2020.",
+      "masterKeyFacts": [
+        "Union Budget allocated ₹2,000 crore incentive for low-value P2M UPI and RuPay debit card transactions with zero MDR. Zero MDR made effective Jan 2020.",
+        "Centre set disinvestment and asset monetization target of Rs 80,000 crore for FY27 (135% higher than RE FY26 of Rs 33,837 Cr), banking on IDBI Bank and LIC.",
+        "DMEO NITI Aayog prepares annual OOMF for all central schemes with outlay ≥₹500 Crore laid alongside Union Budget.",
+        "Highest-ever sports budget allocation: ₹4,479.88 Cr for Sports Ministry, ₹924.35 Cr for Khelo India scheme, ₹500 Cr for sports goods manufacturing.",
+        "₹3,000 Cr allocated to NICDIT under NICDP (11 corridors under PM GatiShakti, NICDC est. 2008).",
+        "YIL board empowered for capex up to ₹500 crore without government clearance."
+      ],
+      "subEvents": [
+        {
+          "title": "UPI, RuPay subsidy for FY27 at ₹2,000 crore",
+          "page": 2,
+          "facts": [
+            "Union Budget allocated ₹2,000 crore incentive for low-value P2M UPI and RuPay debit card transactions with zero MDR. Zero MDR made effective Jan 2020."
+          ]
+        },
+        {
+          "title": "Disinvestment Target Set at ₹80,000 Crore for FY27",
+          "page": 3,
+          "facts": [
+            "Centre set disinvestment and asset monetization target of Rs 80,000 crore for FY27 (135% higher than RE FY26 of Rs 33,837 Cr), banking on IDBI Bank and LIC."
+          ]
+        },
+        {
+          "title": "Output-Outcome Monitoring Framework (OOMF) by DMEO NITI Aayog",
+          "page": 37,
+          "facts": [
+            "DMEO NITI Aayog prepares annual OOMF for all central schemes with outlay ≥₹500 Crore laid alongside Union Budget."
+          ]
+        },
+        {
+          "title": "Union Budget 2026-27 announces Khelo India Mission with ₹4,479.88 Crore outlay",
+          "page": 47,
+          "facts": [
+            "Highest-ever sports budget allocation: ₹4,479.88 Cr for Sports Ministry, ₹924.35 Cr for Khelo India scheme, ₹500 Cr for sports goods manufacturing."
+          ]
+        },
+        {
+          "title": "Union Budget announces Integrated East Coast Industrial Corridor (Durgapur node)",
+          "page": 59,
+          "facts": [
+            "₹3,000 Cr allocated to NICDIT under NICDP (11 corridors under PM GatiShakti, NICDC est. 2008)."
+          ]
+        },
+        {
+          "title": "Defence Ministry grants Miniratna-I status to YIL (Yantra India Limited)",
+          "page": 76,
+          "facts": [
+            "YIL board empowered for capex up to ₹500 crore without government clearance."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-national-accounts-trade-base",
+      "title": "💰 Base Year Revisions — CPI 2024 Base, Trade Indices 2022-23 & National Accounts",
+      "category": "SEC1",
+      "tier": "TIER_A",
+      "concept": "National Statistical Framework Base Revisions",
+      "constituentCount": 2,
+      "provenancePages": [
+        4,
+        5
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-10",
+        "cgb-art-16"
+      ],
+      "whyStandaloneJustification": "Official statistical base year updates by MoSPI/DGCI&S.",
+      "executiveSummary": "Retail inflation stood at 2.75% in January 2026 under newly released CPI series (base year updated from 2012 to 2024), compared to 1.33% in Dec 2025.",
+      "masterKeyFacts": [
+        "Retail inflation stood at 2.75% in January 2026 under newly released CPI series (base year updated from 2012 to 2024), compared to 1.33% in Dec 2025.",
+        "DGCI&S under MoCI revised base year of merchandise trade indices from 2012-13 to 2022-23, based on Prof. Nachiketa Chattopadhyay (ISI Kolkata) committee."
+      ],
+      "subEvents": [
+        {
+          "title": "India’s retail inflation stands at 2.75% in January 2026 (PIB)",
+          "page": 4,
+          "facts": [
+            "Retail inflation stood at 2.75% in January 2026 under newly released CPI series (base year updated from 2012 to 2024), compared to 1.33% in Dec 2025."
+          ]
+        },
+        {
+          "title": "MoCI Revised Base Year of Merchandise Trade Indices to 2022-23",
+          "page": 5,
+          "facts": [
+            "DGCI&S under MoCI revised base year of merchandise trade indices from 2012-13 to 2022-23, based on Prof. Nachiketa Chattopadhyay (ISI Kolkata) committee."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-india-ai-impact-summit-2026",
+      "title": "🔬 India AI Impact Summit 2026 — Sovereign MANAV Vision, Frontier Commitments & BHASHINI Stack",
+      "category": "SEC6",
+      "tier": "TIER_A",
+      "concept": "Sovereign AI Governance & Multilingual Stack",
+      "constituentCount": 8,
+      "provenancePages": [
+        5,
+        21,
+        22,
+        23,
+        31,
+        37,
+        42,
+        45
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-13",
+        "cgb-art-60",
+        "cgb-art-62",
+        "cgb-art-66",
+        "cgb-art-95",
+        "cgb-art-113",
+        "cgb-art-132",
+        "cgb-art-142"
+      ],
+      "whyStandaloneJustification": "Global South AI summit establishing MANAV and 22-language stack.",
+      "executiveSummary": "PM Narendra Modi unveiled MANAV Vision for AI: Moral systems, Accountable governance, National sovereignty, Accessible & inclusive, Valid & legitimate.",
+      "masterKeyFacts": [
+        "PM Narendra Modi unveiled MANAV Vision for AI: Moral systems, Accountable governance, National sovereignty, Accessible & inclusive, Valid & legitimate.",
+        "NPCI offered UPI One World wallet for delegates from 40+ countries at India AI Impact Summit (up to ₹25,000 per load, max ₹50,000/month).",
+        "NPCI launched FiMI (Finance Model for India) Small Language Model supporting English, Hindi, Telugu, Bengali on UPI Help Assistant.",
+        "NPCI partnered with Nvidia to scale FiMI SLM infrastructure for sovereign payments.",
+        "DST funded ₹235 Cr under NM-ICPS + MeitY India AI Mission ₹10,585 Cr for BharatGen sovereign multilingual LLM.",
+        "First-ever Global AI Summit in Global South (Feb 16-20) based on People, Planet, Progress. Stanford AI Index 2025 ranks India top 3 in AI vibrancy.",
+        "Amitabh Nag (CEO BHASHINI) launched VoicERA in collaboration with EkStep, IIIT Bengaluru, AI4Bharat.",
+        "Ashwini Vaishnaw unveiled voluntary Frontier AI commitments adopted by global and Indian tech leaders."
+      ],
+      "subEvents": [
+        {
+          "title": "MANAV Vision for AI at India AI Impact Summit 2026",
+          "page": 5,
+          "facts": [
+            "PM Narendra Modi unveiled MANAV Vision for AI: Moral systems, Accountable governance, National sovereignty, Accessible & inclusive, Valid & legitimate."
+          ]
+        },
+        {
+          "title": "NPCI offers 'UPI One World' wallet to foreign visitors at AI Summit",
+          "page": 21,
+          "facts": [
+            "NPCI offered UPI One World wallet for delegates from 40+ countries at India AI Impact Summit (up to ₹25,000 per load, max ₹50,000/month)."
+          ]
+        },
+        {
+          "title": "NPCI launches FiMI domain-specific language model for payments",
+          "page": 22,
+          "facts": [
+            "NPCI launched FiMI (Finance Model for India) Small Language Model supporting English, Hindi, Telugu, Bengali on UPI Help Assistant."
+          ]
+        },
+        {
+          "title": "NPCI and Nvidia tie up for sovereign AI payment infrastructure",
+          "page": 23,
+          "facts": [
+            "NPCI partnered with Nvidia to scale FiMI SLM infrastructure for sovereign payments."
+          ]
+        },
+        {
+          "title": "Bharat GenAI text models across 22 scheduled languages led by IIT Bombay",
+          "page": 31,
+          "facts": [
+            "DST funded ₹235 Cr under NM-ICPS + MeitY India AI Mission ₹10,585 Cr for BharatGen sovereign multilingual LLM."
+          ]
+        },
+        {
+          "title": "India AI Impact Summit 2026 held in New Delhi: Seven Chakras & 3 Sutras",
+          "page": 37,
+          "facts": [
+            "First-ever Global AI Summit in Global South (Feb 16-20) based on People, Planet, Progress. Stanford AI Index 2025 ranks India top 3 in AI vibrancy."
+          ]
+        },
+        {
+          "title": "MeitY launches VoicERA open-source voice AI stack on BHASHINI",
+          "page": 42,
+          "facts": [
+            "Amitabh Nag (CEO BHASHINI) launched VoicERA in collaboration with EkStep, IIIT Bengaluru, AI4Bharat."
+          ]
+        },
+        {
+          "title": "India unveils 'New Delhi Frontier AI Commitments' at AI Summit",
+          "page": 45,
+          "facts": [
+            "Ashwini Vaishnaw unveiled voluntary Frontier AI commitments adopted by global and Indian tech leaders."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-sebi-demat-mutual-fund-reforms",
+      "title": "🏛️ SEBI Market Infrastructure — SWP/STP in Demat & ETF Dynamic Price Bands",
+      "category": "SEC2",
+      "tier": "TIER_A",
+      "concept": "Capital Market Infrastructure & Investor Operations",
+      "constituentCount": 3,
+      "provenancePages": [
+        7,
+        14
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-20",
+        "cgb-art-21",
+        "cgb-art-37"
+      ],
+      "whyStandaloneJustification": "Demat mutual fund standing instructions and dynamic ETF bands.",
+      "executiveSummary": "SEBI proposed allowing standing instructions for Systematic Withdrawal Plans (SWP) and Systematic Transfer Plans (STP) for demat mutual fund units.",
+      "masterKeyFacts": [
+        "SEBI proposed allowing standing instructions for Systematic Withdrawal Plans (SWP) and Systematic Transfer Plans (STP) for demat mutual fund units.",
+        "SEBI proposed reducing Z-score for historical stress testing in commodity derivatives from 10 to 5, revising Core Settlement Guarantee Fund coverage to top 3 defaults.",
+        "SEBI proposed shifting ETF base price from T-2 closing NAV to T-1 data/iNAV with dynamic price bands (10-20% equity/debt, 6-20% gold/silver, 5% overnight)."
+      ],
+      "subEvents": [
+        {
+          "title": "SEBI proposal for SWP and STP in demat mutual funds",
+          "page": 7,
+          "facts": [
+            "SEBI proposed allowing standing instructions for Systematic Withdrawal Plans (SWP) and Systematic Transfer Plans (STP) for demat mutual fund units."
+          ]
+        },
+        {
+          "title": "SEBI eases SGF rules for commodity derivatives clearing houses",
+          "page": 7,
+          "facts": [
+            "SEBI proposed reducing Z-score for historical stress testing in commodity derivatives from 10 to 5, revising Core Settlement Guarantee Fund coverage to top 3 defaults."
+          ]
+        },
+        {
+          "title": "SEBI floats proposal to revamp ETF price band framework",
+          "page": 14,
+          "facts": [
+            "SEBI proposed shifting ETF base price from T-2 closing NAV to T-1 data/iNAV with dynamic price bands (10-20% equity/debt, 6-20% gold/silver, 5% overnight)."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-sebi-aif-exit-isin-reporting",
+      "title": "🏛️ SEBI Alternative Investment Funds (AIF) — Exit Flexibility & ISIN-Level NAV",
+      "category": "SEC2",
+      "tier": "TIER_B_PLUS",
+      "concept": "Alternative Investment Fund Regulation",
+      "constituentCount": 2,
+      "provenancePages": [
+        8,
+        16
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-22",
+        "cgb-art-40"
+      ],
+      "whyStandaloneJustification": "75% investor consent for fund extension and ISIN depository uploads.",
+      "executiveSummary": "SEBI proposed allowing AIFs to retain funds beyond permissible fund life for ongoing tax/litigation demands with 75% investor consent by value, capped at 3 years.",
+      "masterKeyFacts": [
+        "SEBI proposed allowing AIFs to retain funds beyond permissible fund life for ongoing tax/litigation demands with 75% investor consent by value, capped at 3 years.",
+        "SEBI mandated AIFs to upload scheme-wise NAV data at ISIN level directly to depositories within 30 days."
+      ],
+      "subEvents": [
+        {
+          "title": "SEBI proposes exit flexibility for Alternative Investment Funds (AIFs)",
+          "page": 8,
+          "facts": [
+            "SEBI proposed allowing AIFs to retain funds beyond permissible fund life for ongoing tax/litigation demands with 75% investor consent by value, capped at 3 years."
+          ]
+        },
+        {
+          "title": "SEBI Tightens AIF Disclosure Norms; Mandates ISIN-Level NAV Reporting",
+          "page": 16,
+          "facts": [
+            "SEBI mandated AIFs to upload scheme-wise NAV data at ISIN level directly to depositories within 30 days."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-dicgc-risk-based-premium",
+      "title": "🏛️ DICGC Risk-Based Premium Framework 2026 — 4-Tier Differential Deposit Insurance",
+      "category": "SEC2",
+      "tier": "TIER_A",
+      "concept": "Deposit Insurance & Financial Stability",
+      "constituentCount": 1,
+      "provenancePages": [
+        8
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-23"
+      ],
+      "whyStandaloneJustification": "Overhauls 1962 flat 12p rate into 4 CAMELS risk tiers.",
+      "executiveSummary": "DICGC with RBI approval advised banks on Risk-Based Premium framework under Section 15(1) of DICGC Act 1961. Flat rate 12 paise/₹100 replaced by Tier 1/2 CAMELS models with up to 33.33% risk incentive and 25% vintage incentive from April 1, 2026.",
+      "masterKeyFacts": [
+        "DICGC with RBI approval advised banks on Risk-Based Premium framework under Section 15(1) of DICGC Act 1961. Flat rate 12 paise/₹100 replaced by Tier 1/2 CAMELS models with up to 33.33% risk incentive and 25% vintage incentive from April 1, 2026."
+      ],
+      "subEvents": [
+        {
+          "title": "DICGC Risk-based Premium Framework for Deposit Insurance in India",
+          "page": 8,
+          "facts": [
+            "DICGC with RBI approval advised banks on Risk-Based Premium framework under Section 15(1) of DICGC Act 1961. Flat rate 12 paise/₹100 replaced by Tier 1/2 CAMELS models with up to 33.33% risk incentive and 25% vintage incentive from April 1, 2026."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-rbi-vrr-general-route-subsumption",
+      "title": "🏛️ RBI Voluntary Retention Route (VRR) Subsumption into General Route",
+      "category": "SEC2",
+      "tier": "TIER_B_PLUS",
+      "concept": "FPI Debt Investment Architecture",
+      "constituentCount": 1,
+      "provenancePages": [
+        9
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-24"
+      ],
+      "whyStandaloneJustification": "Subsumes VRR limits under General Route under FEMA 1999.",
+      "executiveSummary": "RBI subsumed VRR limits under General Route for FPI investments in G-Secs, SDLs, and corporate debt from April 1, 2026 under FEMA 1999.",
+      "masterKeyFacts": [
+        "RBI subsumed VRR limits under General Route for FPI investments in G-Secs, SDLs, and corporate debt from April 1, 2026 under FEMA 1999."
+      ],
+      "subEvents": [
+        {
+          "title": "RBI Voluntary Retention Route (VRR) investment limits subsumed under General Route",
+          "page": 9,
+          "facts": [
+            "RBI subsumed VRR limits under General Route for FPI investments in G-Secs, SDLs, and corporate debt from April 1, 2026 under FEMA 1999."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-rbi-monetary-policy-msme",
+      "title": "🏛️ RBI Monetary Policy & MSME Credit Architecture — 5.25% Repo & ₹20L Collateral-Free Limit",
+      "category": "SEC2",
+      "tier": "TIER_A",
+      "concept": "Central Bank Policy Rates & MSME Priority Lending",
+      "constituentCount": 2,
+      "provenancePages": [
+        10,
+        18
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-25",
+        "cgb-art-47"
+      ],
+      "whyStandaloneJustification": "Apex monetary policy rates and mandatory PSL credit ceiling expansion.",
+      "executiveSummary": "RBI MPC announced one-time compensation up to 85% of amount lost or ₹25,000 for small digital fraud victims: banks bear 15%, customer 15%, RBI/DEA fund bears 70%.",
+      "masterKeyFacts": [
+        "RBI MPC announced one-time compensation up to 85% of amount lost or ₹25,000 for small digital fraud victims: banks bear 15%, customer 15%, RBI/DEA fund bears 70%.",
+        "Axis Bank launched collateral-free loans from ₹10 lakh to ₹2 crore (4-7 year tenure) for MSME rooftop solar adoption."
+      ],
+      "subEvents": [
+        {
+          "title": "RBI monetary policy: Small digital fraud victims to get up to ₹25K refund",
+          "page": 10,
+          "facts": [
+            "RBI MPC announced one-time compensation up to 85% of amount lost or ₹25,000 for small digital fraud victims: banks bear 15%, customer 15%, RBI/DEA fund bears 70%."
+          ]
+        },
+        {
+          "title": "Axis Bank launches Rooftop Solar Finance for MSMEs",
+          "page": 18,
+          "facts": [
+            "Axis Bank launched collateral-free loans from ₹10 lakh to ₹2 crore (4-7 year tenure) for MSME rooftop solar adoption."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-rbi-lead-bank-consumer-conduct",
+      "title": "🏛️ RBI Lead Bank Scheme (60% CD Ratio) & Mis-Selling Conduct Directions",
+      "category": "SEC2",
+      "tier": "TIER_A",
+      "concept": "Financial Inclusion & Customer Protection",
+      "constituentCount": 1,
+      "provenancePages": [
+        12
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-33"
+      ],
+      "whyStandaloneJustification": "Enforces 60% rural CD ratio and establishes first formal mis-selling definition.",
+      "executiveSummary": "RBI revised Lead Bank Scheme guidelines (introduced 1969) to strengthen SLBCs and LDMs with minimum 60% CD ratio in rural/semi-urban branches.",
+      "masterKeyFacts": [
+        "RBI revised Lead Bank Scheme guidelines (introduced 1969) to strengthen SLBCs and LDMs with minimum 60% CD ratio in rural/semi-urban branches."
+      ],
+      "subEvents": [
+        {
+          "title": "RBI Draft Circular on Lead Bank Scheme (LBS)",
+          "page": 12,
+          "facts": [
+            "RBI revised Lead Bank Scheme guidelines (introduced 1969) to strengthen SLBCs and LDMs with minimum 60% CD ratio in rural/semi-urban branches."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-rbi-prudential-intermediary-credit",
+      "title": "🏛️ RBI Prudential Broker Funding (100% Collateral) & Acquisition Financing (20% Cap)",
+      "category": "SEC2",
+      "tier": "TIER_A",
+      "concept": "Bank Capital Market Risk & Corporate Lending",
+      "constituentCount": 2,
+      "provenancePages": [
+        13,
+        14
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-35",
+        "cgb-art-36"
+      ],
+      "whyStandaloneJustification": "Mandatory 100% secured broker credit, 40% equity haircut, and 20% acquisition financing cap.",
+      "executiveSummary": "RBI finalised acquisition financing framework: bank participation capped at 20% (up from 10%), total financing max 75% of acquisition value, debt-equity max 3:1, minimum net worth ₹500 Cr, effective April 1, 2026.",
+      "masterKeyFacts": [
+        "RBI finalised acquisition financing framework: bank participation capped at 20% (up from 10%), total financing max 75% of acquisition value, debt-equity max 3:1, minimum net worth ₹500 Cr, effective April 1, 2026.",
+        "RBI Commercial Banks Credit Facilities Directions 2026: Broker funding must be 100% fully secured; bank guarantees backed by min 50% collateral (25% cash) with 40% haircut on shares from April 1, 2026."
+      ],
+      "subEvents": [
+        {
+          "title": "RBI finalises acquisition finance norms; caps overseas syndicated deal exposure at 20%",
+          "page": 13,
+          "facts": [
+            "RBI finalised acquisition financing framework: bank participation capped at 20% (up from 10%), total financing max 75% of acquisition value, debt-equity max 3:1, minimum net worth ₹500 Cr, effective April 1, 2026."
+          ]
+        },
+        {
+          "title": "RBI mandates 100% collateral for stockbroker credit facilities",
+          "page": 14,
+          "facts": [
+            "RBI Commercial Banks Credit Facilities Directions 2026: Broker funding must be 100% fully secured; bank guarantees backed by min 50% collateral (25% cash) with 40% haircut on shares from April 1, 2026."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-rbi-external-commercial-borrowing",
+      "title": "🏛️ RBI External Commercial Borrowing (ECB) Framework 2026 ($1B / 300% Net Worth)",
+      "category": "SEC2",
+      "tier": "TIER_A",
+      "concept": "External Debt & Foreign Exchange Management",
+      "constituentCount": 1,
+      "provenancePages": [
+        15
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-38"
+      ],
+      "whyStandaloneJustification": "Liberalizes external borrowing limits replacing $750M cap.",
+      "executiveSummary": "RBI notified FEMA Borrowing & Lending First Amendment Regulations 2026: Automatic ECB limit raised from $750M to higher of $1B or 300% net worth; minimum 3-year maturity; acquisition of control permitted.",
+      "masterKeyFacts": [
+        "RBI notified FEMA Borrowing & Lending First Amendment Regulations 2026: Automatic ECB limit raised from $750M to higher of $1B or 300% net worth; minimum 3-year maturity; acquisition of control permitted."
+      ],
+      "subEvents": [
+        {
+          "title": "RBI notifies amended ECB framework, replaces cap with higher of $1B or 300% net worth",
+          "page": 15,
+          "facts": [
+            "RBI notified FEMA Borrowing & Lending First Amendment Regulations 2026: Automatic ECB limit raised from $750M to higher of $1B or 300% net worth; minimum 3-year maturity; acquisition of control permitted."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-rbi-uti-otc-derivatives-deferral",
+      "title": "🏛️ RBI 52-Character UTI Framework for OTC Derivatives (Deferred to Jan 2027)",
+      "category": "SEC2",
+      "tier": "TIER_B_PLUS",
+      "concept": "Derivatives Market Transparency",
+      "constituentCount": 1,
+      "provenancePages": [
+        16
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-39"
+      ],
+      "whyStandaloneJustification": "Global reporting standard to CCIL for OTC derivatives.",
+      "executiveSummary": "RBI deferred Unique Transaction Identifier (UTI) mandate for OTC interest rate, FX, and credit derivatives from April 2026 to January 1, 2027; reported to CCIL.",
+      "masterKeyFacts": [
+        "RBI deferred Unique Transaction Identifier (UTI) mandate for OTC interest rate, FX, and credit derivatives from April 2026 to January 1, 2027; reported to CCIL."
+      ],
+      "subEvents": [
+        {
+          "title": "RBI defers 52-character UTI framework for OTC derivatives to January 2027",
+          "page": 16,
+          "facts": [
+            "RBI deferred Unique Transaction Identifier (UTI) mandate for OTC interest rate, FX, and credit derivatives from April 2026 to January 1, 2027; reported to CCIL."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-national-skilling-pm-setu",
+      "title": "📌 PM-SETU Scheme — ₹60,000 Cr ITI Modernisation & World Bank $830M Loan",
+      "category": "SEC10",
+      "tier": "TIER_A",
+      "concept": "National Skilling Infrastructure & External Borrowing",
+      "constituentCount": 2,
+      "provenancePages": [
+        17,
+        45
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-44",
+        "cgb-art-139"
+      ],
+      "whyStandaloneJustification": "Mega-scheme upgrading 1,000 ITIs funded by $830M World Bank loan.",
+      "executiveSummary": "World Bank approved $830 million loan (19.5-year maturity, 4-year grace) under CPF 2026-31 for PM-SETU ITI upgradation.",
+      "masterKeyFacts": [
+        "World Bank approved $830 million loan (19.5-year maturity, 4-year grace) under CPF 2026-31 for PM-SETU ITI upgradation.",
+        "Centre with France announced CoE under PM-SETU (₹60,000 Cr outlay to upgrade 1,000 ITIs)."
+      ],
+      "subEvents": [
+        {
+          "title": "World Bank Approves $830 Million Loan for PM-SETU to Upgrade ITIs",
+          "page": 17,
+          "facts": [
+            "World Bank approved $830 million loan (19.5-year maturity, 4-year grace) under CPF 2026-31 for PM-SETU ITI upgradation."
+          ]
+        },
+        {
+          "title": "National Centre of Excellence for Aeronautics & Defence Skilling at NSTI Kanpur",
+          "page": 45,
+          "facts": [
+            "Centre with France announced CoE under PM-SETU (₹60,000 Cr outlay to upgrade 1,000 ITIs)."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-sbi-landmark-scale-milestones",
+      "title": "🏦 State Bank of India — ₹10.9L Cr Market Cap (#4 in India) & $1B MUFG Social Loan",
+      "category": "SEC3",
+      "tier": "TIER_A",
+      "concept": "Public Sector Bank Scale & Balance Sheet Expansion",
+      "constituentCount": 3,
+      "provenancePages": [
+        18,
+        20,
+        24
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-46",
+        "cgb-art-53",
+        "cgb-art-73"
+      ],
+      "whyStandaloneJustification": "SBI market cap surpasses TCS; India's 1st commercial bank social loan.",
+      "executiveSummary": "SBI raised $1 billion through 5-year social loan from Japan's MUFG, the first social loan raised by an Indian bank.",
+      "masterKeyFacts": [
+        "SBI raised $1 billion through 5-year social loan from Japan's MUFG, the first social loan raised by an Indian bank.",
+        "SBI market cap crossed ₹10.9 lakh crore, surpassing TCS (₹10.5L Cr) to rank 4th (Reliance > HDFC Bank > Bharti Airtel > SBI).",
+        "SBI aims for 7.5-10% green advances by 2030 and launched CHAKRA Centre of Excellence for renewable energy and green hydrogen."
+      ],
+      "subEvents": [
+        {
+          "title": "SBI raises $1 billion from MUFG via 5-year social loan",
+          "page": 18,
+          "facts": [
+            "SBI raised $1 billion through 5-year social loan from Japan's MUFG, the first social loan raised by an Indian bank."
+          ]
+        },
+        {
+          "title": "SBI overtakes TCS to become India's 4th Most Valuable Company",
+          "page": 20,
+          "facts": [
+            "SBI market cap crossed ₹10.9 lakh crore, surpassing TCS (₹10.5L Cr) to rank 4th (Reliance > HDFC Bank > Bharti Airtel > SBI)."
+          ]
+        },
+        {
+          "title": "SBI targets increasing green advances to 10% by 2030, launches CHAKRA",
+          "page": 24,
+          "facts": [
+            "SBI aims for 7.5-10% green advances by 2030 and launched CHAKRA Centre of Excellence for renewable energy and green hydrogen."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-digital-payments-cbdc-ecosystem",
+      "title": "🏦 Digital Payments Architecture — CBDC PDS, UPI-RuPay Incentives & UPI Global Expansion",
+      "category": "SEC3",
+      "tier": "TIER_A",
+      "concept": "Digital Public Infrastructure & Real-Time Payments",
+      "constituentCount": 2,
+      "provenancePages": [
+        18,
+        39
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-49",
+        "cgb-art-122"
+      ],
+      "whyStandaloneJustification": "CBDC ration tokens, ₹2k Cr digital payment subsidy, and UPI Malaysia link.",
+      "executiveSummary": "NIPL (NPCI) and Malaysia PayNet signed cross-border QR payments link (DuitNow-UPI) and RBI-Bank Negara local currency trade talks.",
+      "masterKeyFacts": [
+        "NIPL (NPCI) and Malaysia PayNet signed cross-border QR payments link (DuitNow-UPI) and RBI-Bank Negara local currency trade talks.",
+        "Amit Shah launched India's 1st CBDC-based PDS in Gandhinagar with Annapurti grain ATMs dispensing 25 kg in 35 seconds ('Har Dana, Har Rupiya')."
+      ],
+      "subEvents": [
+        {
+          "title": "India, Malaysia Ink 11 pacts; UPI-PayNet link to ease remittances",
+          "page": 18,
+          "facts": [
+            "NIPL (NPCI) and Malaysia PayNet signed cross-border QR payments link (DuitNow-UPI) and RBI-Bank Negara local currency trade talks."
+          ]
+        },
+        {
+          "title": "Amit Shah launches e-Rupee PDS & 24x7 'Annapurti' grain ATM in Gujarat",
+          "page": 39,
+          "facts": [
+            "Amit Shah launched India's 1st CBDC-based PDS in Gandhinagar with Annapurti grain ATMs dispensing 25 kg in 35 seconds ('Har Dana, Har Rupiya')."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-icici-swasthya-pension-pfrda",
+      "title": "🏦 ICICI Swasthya Pension Scheme — PFRDA Sandbox Health-Linked Retirement",
+      "category": "SEC3",
+      "tier": "TIER_B_PLUS",
+      "concept": "Pension Product Innovation",
+      "constituentCount": 1,
+      "provenancePages": [
+        24
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-71"
+      ],
+      "whyStandaloneJustification": "PFRDA sandbox product enabling 25% health withdrawal.",
+      "executiveSummary": "ICICI Prudential launched Swasthya Pension Scheme under PFRDA sandbox allowing up to 25% withdrawal for medical expenses via Apollo 24|7 (70-100% equity investment).",
+      "masterKeyFacts": [
+        "ICICI Prudential launched Swasthya Pension Scheme under PFRDA sandbox allowing up to 25% withdrawal for medical expenses via Apollo 24|7 (70-100% equity investment)."
+      ],
+      "subEvents": [
+        {
+          "title": "ICICI Prudential introduces Swasthya Pension Scheme under PFRDA sandbox",
+          "page": 24,
+          "facts": [
+            "ICICI Prudential launched Swasthya Pension Scheme under PFRDA sandbox allowing up to 25% withdrawal for medical expenses via Apollo 24|7 (70-100% equity investment)."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-aifi-debt-market-issuances",
+      "title": "🏦 All-India Financial Institutions (AIFIs) — NaBFID ₹5,000 Cr CD Debut & NABARD ₹6,779 Cr Bond",
+      "category": "SEC3",
+      "tier": "TIER_B_PLUS",
+      "concept": "Development Financial Institution Debt Markets",
+      "constituentCount": 3,
+      "provenancePages": [
+        25,
+        118,
+        120
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-76",
+        "cgb-art-351",
+        "cgb-art-362"
+      ],
+      "whyStandaloneJustification": "NaBFID 1-yr CD debut at 6.95% and NABARD AAA-rated 3-year bond.",
+      "executiveSummary": "IIFL Home Finance signed $300 million syndicated ECB (ADB $150M lead arranger, MUFG/Emirates Bank $150M) for affordable housing loans.",
+      "masterKeyFacts": [
+        "IIFL Home Finance signed $300 million syndicated ECB (ADB $150M lead arranger, MUFG/Emirates Bank $150M) for affordable housing loans.",
+        "NABARD issued AAA-rated 3-year paper in corporate bond market.",
+        "National Bank for Financing Infrastructure & Development issued debut CD."
+      ],
+      "subEvents": [
+        {
+          "title": "IIFL Home Finance signs $300M syndicated loan with ADB",
+          "page": 25,
+          "facts": [
+            "IIFL Home Finance signed $300 million syndicated ECB (ADB $150M lead arranger, MUFG/Emirates Bank $150M) for affordable housing loans."
+          ]
+        },
+        {
+          "title": "NABARD raises ₹6,779 Crore through 3-year bond at 7.01% yield",
+          "page": 118,
+          "facts": [
+            "NABARD issued AAA-rated 3-year paper in corporate bond market."
+          ]
+        },
+        {
+          "title": "NaBFID raises ₹5,000 Crore through debut 1-year Certificate of Deposit at 6.95%",
+          "page": 120,
+          "facts": [
+            "National Bank for Financing Infrastructure & Development issued debut CD."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-insurance-100-percent-fdi",
+      "title": "🏦 100% Insurance FDI Operationalisation — Sabka Bima Sabki Raksha Act 2025",
+      "category": "SEC3",
+      "tier": "TIER_A",
+      "concept": "Insurance Capital Market Access",
+      "constituentCount": 1,
+      "provenancePages": [
+        27
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-83"
+      ],
+      "whyStandaloneJustification": "100% automatic FDI in insurance with resident Indian CEO safeguard.",
+      "executiveSummary": "DPIIT notified 100% FDI under automatic route for insurance companies under Sabka Bima Sabki Raksha Act 2025 effective Feb 5, mandating at least 1 resident Indian CEO/MD/Chair.",
+      "masterKeyFacts": [
+        "DPIIT notified 100% FDI under automatic route for insurance companies under Sabka Bima Sabki Raksha Act 2025 effective Feb 5, mandating at least 1 resident Indian CEO/MD/Chair."
+      ],
+      "subEvents": [
+        {
+          "title": "India operationalises 100% Insurance FDI under Sabka Bima Act 2025",
+          "page": 27,
+          "facts": [
+            "DPIIT notified 100% FDI under automatic route for insurance companies under Sabka Bima Sabki Raksha Act 2025 effective Feb 5, mandating at least 1 resident Indian CEO/MD/Chair."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-anrf-rdi-deep-tech-funds",
+      "title": "🔬 ANRF ₹1 Lakh Crore RDI Fund & Deep-Tech Startup 20-Year Recognition",
+      "category": "SEC6",
+      "tier": "TIER_A",
+      "concept": "Indigenous R&D Financing & Deep-Tech Policy",
+      "constituentCount": 3,
+      "provenancePages": [
+        29,
+        30,
+        38
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-87",
+        "cgb-art-92",
+        "cgb-art-118"
+      ],
+      "whyStandaloneJustification": "₹1L Cr concessional fund (2-4%) and 20-year deep-tech startup recognition.",
+      "executiveSummary": "Dr. Jitendra Singh launched 1st call of TDB under ₹1 Lakh Crore Research, Development & Innovation Fund of ANRF (2-4% interest, up to 15-yr tenure, TRL 4+).",
+      "masterKeyFacts": [
+        "Dr. Jitendra Singh launched 1st call of TDB under ₹1 Lakh Crore Research, Development & Innovation Fund of ANRF (2-4% interest, up to 15-yr tenure, TRL 4+).",
+        "DPIIT revised 2019 rules: Deep-tech start-ups recognized up to 20 years (turnover ₹300 Cr); non-deep-tech turnover raised to ₹200 Cr (10 years).",
+        "DBT's BIRAC appointed second-level manager to deploy ₹2,000 Cr under ₹1L Cr RDI framework."
+      ],
+      "subEvents": [
+        {
+          "title": "ANRF launches ₹1 Lakh Crore RDI Fund first call under TDB",
+          "page": 29,
+          "facts": [
+            "Dr. Jitendra Singh launched 1st call of TDB under ₹1 Lakh Crore Research, Development & Innovation Fund of ANRF (2-4% interest, up to 15-yr tenure, TRL 4+)."
+          ]
+        },
+        {
+          "title": "DPIIT revises start-up definition: Deep-tech up to 20 years and ₹300 crore",
+          "page": 30,
+          "facts": [
+            "DPIIT revised 2019 rules: Deep-tech start-ups recognized up to 20 years (turnover ₹300 Cr); non-deep-tech turnover raised to ₹200 Cr (10 years)."
+          ]
+        },
+        {
+          "title": "BIRAC-RDI Fund for Biotechnology launched by Dr. Jitendra Singh",
+          "page": 38,
+          "facts": [
+            "DBT's BIRAC appointed second-level manager to deploy ₹2,000 Cr under ₹1L Cr RDI framework."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-rare-earth-magnets-scheme",
+      "title": "📌 Scheme to Promote Manufacturing of Sintered Rare Earth Permanent Magnets (₹7,280 Cr)",
+      "category": "SEC10",
+      "tier": "TIER_A",
+      "concept": "Critical Minerals Value Chain Mission",
+      "constituentCount": 1,
+      "provenancePages": [
+        35
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-108"
+      ],
+      "whyStandaloneJustification": "₹7,280 Cr outlay for 6,000 MTPA REPM manufacturing in 4 states.",
+      "executiveSummary": "Cabinet approved ₹7,280 Cr scheme for 6,000 MTPA REPM manufacturing under National Critical Mineral Mission with dedicated corridors in Odisha, Kerala, AP, TN.",
+      "masterKeyFacts": [
+        "Cabinet approved ₹7,280 Cr scheme for 6,000 MTPA REPM manufacturing under National Critical Mineral Mission with dedicated corridors in Odisha, Kerala, AP, TN."
+      ],
+      "subEvents": [
+        {
+          "title": "Scheme to Promote Manufacturing of Sintered Rare Earth Permanent Magnets (₹7,280 Cr)",
+          "page": 35,
+          "facts": [
+            "Cabinet approved ₹7,280 Cr scheme for 6,000 MTPA REPM manufacturing under National Critical Mineral Mission with dedicated corridors in Odisha, Kerala, AP, TN."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-brahmaputra-underwater-tunnel",
+      "title": "📌 Brahmaputra Underwater Road-Rail Tunnel (₹18,662 Cr Gohpur–Numaligarh Project)",
+      "category": "SEC10",
+      "tier": "TIER_A",
+      "concept": "North-East Multi-Modal Strategic Connectivity",
+      "constituentCount": 1,
+      "provenancePages": [
+        39
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-121"
+      ],
+      "whyStandaloneJustification": "India's first 33.7 km underwater road-rail tunnel (2nd globally).",
+      "executiveSummary": "Cabinet approved 33.7 km Gohpur-Numaligarh 4-lane underwater tunnel under Brahmaputra River in Assam (2nd in world after Germany-Denmark).",
+      "masterKeyFacts": [
+        "Cabinet approved 33.7 km Gohpur-Numaligarh 4-lane underwater tunnel under Brahmaputra River in Assam (2nd in world after Germany-Denmark)."
+      ],
+      "subEvents": [
+        {
+          "title": "Cabinet approves ₹18,662 Crore Brahmaputra underwater road-cum-rail tunnel",
+          "page": 39,
+          "facts": [
+            "Cabinet approved 33.7 km Gohpur-Numaligarh 4-lane underwater tunnel under Brahmaputra River in Assam (2nd in world after Germany-Denmark)."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-vibrant-villages-programme-phase-2",
+      "title": "📌 Vibrant Villages Programme-II (VVP-II) — 1,954 Border Villages Across 15 States",
+      "category": "SEC10",
+      "tier": "TIER_A",
+      "concept": "Border Area Development & National Security",
+      "constituentCount": 1,
+      "provenancePages": [
+        43
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-136"
+      ],
+      "whyStandaloneJustification": "Expands VVP to 1,954 strategic villages along 5 international borders.",
+      "executiveSummary": "MHA announced VVP-II covering 1,954 strategic border villages along Pakistan, Nepal, Bangladesh, Bhutan, Myanmar (cleared April 2025).",
+      "masterKeyFacts": [
+        "MHA announced VVP-II covering 1,954 strategic border villages along Pakistan, Nepal, Bangladesh, Bhutan, Myanmar (cleared April 2025)."
+      ],
+      "subEvents": [
+        {
+          "title": "Vibrant Villages Programme-II (VVP-II) to cover 1,954 border villages in 15 states",
+          "page": 43,
+          "facts": [
+            "MHA announced VVP-II covering 1,954 strategic border villages along Pakistan, Nepal, Bangladesh, Bhutan, Myanmar (cleared April 2025)."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-delhi-meerut-namo-bharat-rrts",
+      "title": "📌 Delhi–Meerut Namo Bharat RRTS — Entire 82 km Corridor Dedicated (180 kmph)",
+      "category": "SEC10",
+      "tier": "TIER_A",
+      "concept": "Regional Rapid Transit & Urban Mobility",
+      "constituentCount": 1,
+      "provenancePages": [
+        49
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-152"
+      ],
+      "whyStandaloneJustification": "82 km corridor with 180 kmph RRTS and 120 kmph Meerut Metro.",
+      "executiveSummary": "PM Modi dedicated entire 82 km corridor: Namo Bharat RRTS (180 kmph) and Meerut Metro (120 kmph) sharing tracks in 30 mins.",
+      "masterKeyFacts": [
+        "PM Modi dedicated entire 82 km corridor: Namo Bharat RRTS (180 kmph) and Meerut Metro (120 kmph) sharing tracks in 30 mins."
+      ],
+      "subEvents": [
+        {
+          "title": "PM Modi flags off 82 km Delhi-Meerut Namo Bharat RRTS corridor (180 kmph)",
+          "page": 49,
+          "facts": [
+            "PM Modi dedicated entire 82 km corridor: Namo Bharat RRTS (180 kmph) and Meerut Metro (120 kmph) sharing tracks in 30 mins."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-semiconductor-atmp-micron-sanand",
+      "title": "🔬 Micron ₹22,500 Crore Semiconductor ATMP Facility in Sanand, Gujarat",
+      "category": "SEC6",
+      "tier": "TIER_A",
+      "concept": "India Semiconductor Mission Commercial Manufacturing",
+      "constituentCount": 1,
+      "provenancePages": [
+        57
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-179"
+      ],
+      "whyStandaloneJustification": "First commercial made-in-India semiconductor memory modules.",
+      "executiveSummary": "Commercial memory module production commenced at Sanand Gujarat under India Semiconductor Mission.",
+      "masterKeyFacts": [
+        "Commercial memory module production commenced at Sanand Gujarat under India Semiconductor Mission."
+      ],
+      "subEvents": [
+        {
+          "title": "PM Modi inaugurates Micron's ₹22,500 Crore Semiconductor ATMP facility in Sanand",
+          "page": 57,
+          "facts": [
+            "Commercial memory module production commenced at Sanand Gujarat under India Semiconductor Mission."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-voc-port-tuticorin-green-expansion",
+      "title": "🌐 VOC Port Tuticorin — Green Hydrogen, Digital Twin & ₹15,000 Cr Outer Harbour Project",
+      "category": "SEC4",
+      "tier": "TIER_A",
+      "concept": "Maritime Green Ports & Infrastructure",
+      "constituentCount": 3,
+      "provenancePages": [
+        58,
+        94,
+        114
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-184",
+        "cgb-art-266",
+        "cgb-art-333"
+      ],
+      "whyStandaloneJustification": "First major port to produce on-site green hydrogen with IGBC Platinum.",
+      "executiveSummary": "VOC Port produces green hydrogen on-site and deployed real-time digital twin monitoring.",
+      "masterKeyFacts": [
+        "VOC Port produces green hydrogen on-site and deployed real-time digital twin monitoring.",
+        "First Indian major port to get IGBC Platinum and BEE Shunya Net Zero Energy Building rating.",
+        "VOC Port deployed advanced anti-drone defense."
+      ],
+      "subEvents": [
+        {
+          "title": "VOC Port Tuticorin deploys India's first port Digital Twin platform",
+          "page": 58,
+          "facts": [
+            "VOC Port produces green hydrogen on-site and deployed real-time digital twin monitoring."
+          ]
+        },
+        {
+          "title": "VOC Port Tuticorin secures IGBC Platinum and Shunya Net Zero Certifications",
+          "page": 94,
+          "facts": [
+            "First Indian major port to get IGBC Platinum and BEE Shunya Net Zero Energy Building rating."
+          ]
+        },
+        {
+          "title": "VOC Port Tuticorin becomes 1st Indian port with anti-drone system",
+          "page": 114,
+          "facts": [
+            "VOC Port deployed advanced anti-drone defense."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-pm-rahat-emergency-healthcare",
+      "title": "📌 PM RAHAT Scheme — Cashless Golden Hour Road Trauma Care (₹1.5 Lakh)",
+      "category": "SEC10",
+      "tier": "TIER_A",
+      "concept": "Universal Emergency Healthcare & Road Safety",
+      "constituentCount": 1,
+      "provenancePages": [
+        59
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-187"
+      ],
+      "whyStandaloneJustification": "Cashless trauma care up to ₹1.5L for 7 days via MVAF and eDAR.",
+      "executiveSummary": "PM RAHAT provides cashless treatment up to ₹1.5L for 7 days via MVAF, eDAR, and TMS 2.0 (ERSS 112).",
+      "masterKeyFacts": [
+        "PM RAHAT provides cashless treatment up to ₹1.5L for 7 days via MVAF, eDAR, and TMS 2.0 (ERSS 112)."
+      ],
+      "subEvents": [
+        {
+          "title": "PM RAHAT Scheme: Cashless treatment up to ₹1.5 Lakh for road accident victims",
+          "page": 59,
+          "facts": [
+            "PM RAHAT provides cashless treatment up to ₹1.5L for 7 days via MVAF, eDAR, and TMS 2.0 (ERSS 112)."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-new-start-nuclear-treaty-expiry",
+      "title": "🌐 New START Treaty Expiry — Last Major US–Russia Nuclear Arms Control Accord",
+      "category": "SEC4",
+      "tier": "TIER_B_PLUS",
+      "concept": "Strategic Global Nuclear Arms Control",
+      "constituentCount": 1,
+      "provenancePages": [
+        64
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-201"
+      ],
+      "whyStandaloneJustification": "Medvedev-Obama nuclear arms reduction treaty expired Feb 5, 2026.",
+      "executiveSummary": "2010 New START treaty (Medvedev-Obama, 1,550 warhead cap) expired on Feb 5, 2026.",
+      "masterKeyFacts": [
+        "2010 New START treaty (Medvedev-Obama, 1,550 warhead cap) expired on Feb 5, 2026."
+      ],
+      "subEvents": [
+        {
+          "title": "New START nuclear arms treaty between US and Russia expires",
+          "page": 64,
+          "facts": [
+            "2010 New START treaty (Medvedev-Obama, 1,550 warhead cap) expired on Feb 5, 2026."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-pax-silica-tech-supply-coalition",
+      "title": "🌐 Pax Silica Coalition — India Joins US-Led Silicon & AI Supply Chain Bloc as 10th Member",
+      "category": "SEC4",
+      "tier": "TIER_B_PLUS",
+      "concept": "Geopolitical Tech Supply Chain Coalition",
+      "constituentCount": 1,
+      "provenancePages": [
+        65
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-205"
+      ],
+      "whyStandaloneJustification": "10-nation strategic silicon value chain coalition.",
+      "executiveSummary": "India joined 10-nation Pax Silica coalition (Australia, Greece, Israel, Japan, Qatar, ROK, Singapore, UAE, UK, India) for silicon & AI resilience.",
+      "masterKeyFacts": [
+        "India joined 10-nation Pax Silica coalition (Australia, Greece, Israel, Japan, Qatar, ROK, Singapore, UAE, UK, India) for silicon & AI resilience."
+      ],
+      "subEvents": [
+        {
+          "title": "India joins US-led 'Pax Silica' tech supply chain coalition as 10th member",
+          "page": 65,
+          "facts": [
+            "India joined 10-nation Pax Silica coalition (Australia, Greece, Israel, Japan, Qatar, ROK, Singapore, UAE, UK, India) for silicon & AI resilience."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-strategic-missile-agni-iii",
+      "title": "🛡️ Strategic Deterrence — Agni-III Intermediate-Range Ballistic Missile (3,500 km) Tested",
+      "category": "SEC6",
+      "tier": "TIER_B_PLUS",
+      "concept": "Strategic Ballistic Missile Capability",
+      "constituentCount": 1,
+      "provenancePages": [
+        77
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-215"
+      ],
+      "whyStandaloneJustification": "Successful test-fire from Chandipur (3,000-3,500 km, 1,500 kg payload).",
+      "executiveSummary": "Agni-III intermediate-range ballistic missile (3,000-3,500 km range, 1,500 kg payload) tested.",
+      "masterKeyFacts": [
+        "Agni-III intermediate-range ballistic missile (3,000-3,500 km range, 1,500 kg payload) tested."
+      ],
+      "subEvents": [
+        {
+          "title": "India successfully test-fires Agni-III missile from Chandipur Odisha",
+          "page": 77,
+          "facts": [
+            "Agni-III intermediate-range ballistic missile (3,000-3,500 km range, 1,500 kg payload) tested."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-naval-task-force-ctf-154-command",
+      "title": "🛡️ Indian Navy Assumes Command of Combined Task Force 154 (CTF 154) in Bahrain",
+      "category": "SEC6",
+      "tier": "TIER_B_PLUS",
+      "concept": "Multinational Maritime Security & Naval Diplomacy",
+      "constituentCount": 1,
+      "provenancePages": [
+        77
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-218"
+      ],
+      "whyStandaloneJustification": "Indian Navy commands 47-nation training task force in Bahrain.",
+      "executiveSummary": "Cmde Milind M Mokashi assumed command of CTF 154 (47 nations, CMF Bahrain) for maritime training.",
+      "masterKeyFacts": [
+        "Cmde Milind M Mokashi assumed command of CTF 154 (47 nations, CMF Bahrain) for maritime training."
+      ],
+      "subEvents": [
+        {
+          "title": "Indian Navy assumes command of Combined Task Force 154 (CTF 154) in Bahrain",
+          "page": 77,
+          "facts": [
+            "Cmde Milind M Mokashi assumed command of CTF 154 (47 nations, CMF Bahrain) for maritime training."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-bel-safran-hammer-munitions-jv",
+      "title": "🛡️ BEL–Safran Joint Venture to Manufacture HAMMER Precision Weapons in India",
+      "category": "SEC6",
+      "tier": "TIER_B_PLUS",
+      "concept": "Indigenous Air-to-Surface Munitions Production",
+      "constituentCount": 1,
+      "provenancePages": [
+        79
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-222"
+      ],
+      "whyStandaloneJustification": "Joint venture to manufacture HAMMER (AASM 125-1000 kg) for Rafale.",
+      "executiveSummary": "Joint venture to manufacture HAMMER (AASM 125 kg-1,000 kg) air-to-surface weapon for Rafale jets.",
+      "masterKeyFacts": [
+        "Joint venture to manufacture HAMMER (AASM 125 kg-1,000 kg) air-to-surface weapon for Rafale jets."
+      ],
+      "subEvents": [
+        {
+          "title": "BEL and Safran tie up to produce HAMMER precision-guided weapons in India",
+          "page": 79,
+          "facts": [
+            "Joint venture to manufacture HAMMER (AASM 125 kg-1,000 kg) air-to-surface weapon for Rafale jets."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-indigenous-combat-helicopter-prachand",
+      "title": "🛡️ LCH Prachand — President Droupadi Murmu Flies Sortie in Indigenous Attack Helicopter",
+      "category": "SEC6",
+      "tier": "TIER_B_PLUS",
+      "concept": "Indigenous Aviation & High-Altitude Combat",
+      "constituentCount": 1,
+      "provenancePages": [
+        82
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-235"
+      ],
+      "whyStandaloneJustification": "HAL-built attack helicopter operating above 5,000 m altitude.",
+      "executiveSummary": "President Murmu became 1st President to fly in indigenous LCH Prachand (HAL, ceiling >5,000 m).",
+      "masterKeyFacts": [
+        "President Murmu became 1st President to fly in indigenous LCH Prachand (HAL, ceiling >5,000 m)."
+      ],
+      "subEvents": [
+        {
+          "title": "President Murmu flies sortie in LCH Prachand at Jaisalmer",
+          "page": 82,
+          "facts": [
+            "President Murmu became 1st President to fly in indigenous LCH Prachand (HAL, ceiling >5,000 m)."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-network-readiness-index-2025",
+      "title": "🏆 Network Readiness Index 2025 — India Ranks 45th Globally (Portulans Institute)",
+      "category": "SEC7",
+      "tier": "TIER_B_PLUS",
+      "concept": "Global Digital Economy & ICT Readiness",
+      "constituentCount": 1,
+      "provenancePages": [
+        83
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-237"
+      ],
+      "whyStandaloneJustification": "India rose to 45th; #1 in telecom investment and ICT exports.",
+      "executiveSummary": "India rose 4 places to 45th out of 127 economies (score 54.43); #1 in telecom investment, ICT exports, e-commerce law; #2 in lower-middle income group.",
+      "masterKeyFacts": [
+        "India rose 4 places to 45th out of 127 economies (score 54.43); #1 in telecom investment, ICT exports, e-commerce law; #2 in lower-middle income group."
+      ],
+      "subEvents": [
+        {
+          "title": "Network Readiness Index 2025: India ranks 45th globally (Portulans Institute)",
+          "page": 83,
+          "facts": [
+            "India rose 4 places to 45th out of 127 economies (score 54.43); #1 in telecom investment, ICT exports, e-commerce law; #2 in lower-middle income group."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-corruption-perceptions-index-2025",
+      "title": "🏆 Corruption Perceptions Index 2025 — India Ranks 91st with Score of 39 (Transparency Int.)",
+      "category": "SEC7",
+      "tier": "TIER_B_PLUS",
+      "concept": "Global Public Sector Integrity Benchmark",
+      "constituentCount": 1,
+      "provenancePages": [
+        84
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-238"
+      ],
+      "whyStandaloneJustification": "31st edition CPI: India ranked 91st out of 182 countries.",
+      "executiveSummary": "Transparency International 31st CPI: India ranked 91st out of 182 countries; Denmark #1 (89 score), South Sudan last (9 score).",
+      "masterKeyFacts": [
+        "Transparency International 31st CPI: India ranked 91st out of 182 countries; Denmark #1 (89 score), South Sudan last (9 score)."
+      ],
+      "subEvents": [
+        {
+          "title": "Corruption Perceptions Index 2025: India ranks 91st (score 39/100)",
+          "page": 84,
+          "facts": [
+            "Transparency International 31st CPI: India ranked 91st out of 182 countries; Denmark #1 (89 score), South Sudan last (9 score)."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-henley-passport-index-feb-2026",
+      "title": "🏆 Henley Passport Index February 2026 — India Jumps 10 Places to 75th Rank",
+      "category": "SEC7",
+      "tier": "TIER_B_PLUS",
+      "concept": "Global Mobility & Visa-Free Access",
+      "constituentCount": 1,
+      "provenancePages": [
+        85
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-240"
+      ],
+      "whyStandaloneJustification": "India ranks 75th with visa-free travel to 56 nations.",
+      "executiveSummary": "India rose 10 spots to 75th (56 visa-free destinations); Singapore #1 (192 destinations), Japan/ROK #2, Afghanistan last.",
+      "masterKeyFacts": [
+        "India rose 10 spots to 75th (56 visa-free destinations); Singapore #1 (192 destinations), Japan/ROK #2, Afghanistan last."
+      ],
+      "subEvents": [
+        {
+          "title": "Henley Passport Index February 2026: India ranks 75th (56 destinations)",
+          "page": 85,
+          "facts": [
+            "India rose 10 spots to 75th (56 visa-free destinations); Singapore #1 (192 destinations), Japan/ROK #2, Afghanistan last."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-crafoord-prize-geosciences-2026",
+      "title": "🏆 Crafoord Prize 2026 — Indian-Origin Climate Scientist Veerabhadran Ramanathan Honoured",
+      "category": "SEC7",
+      "tier": "TIER_B_PLUS",
+      "concept": "Global Scientific Distinction (Nobel of Geosciences)",
+      "constituentCount": 1,
+      "provenancePages": [
+        93
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-261"
+      ],
+      "whyStandaloneJustification": "Prestigious geoscience award for greenhouse gas discoveries.",
+      "executiveSummary": "Prof Ramanathan won 'Nobel of Geosciences' for greenhouse gas discoveries.",
+      "masterKeyFacts": [
+        "Prof Ramanathan won 'Nobel of Geosciences' for greenhouse gas discoveries."
+      ],
+      "subEvents": [
+        {
+          "title": "Indian climate scientist Veerabhadran Ramanathan wins Crafoord Prize 2026",
+          "page": 93,
+          "facts": [
+            "Prof Ramanathan won 'Nobel of Geosciences' for greenhouse gas discoveries."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-australian-open-2026-carlos-alcaraz",
+      "title": "⚽ Australian Open 2026 — Carlos Alcaraz Completes Youngest Career Grand Slam",
+      "category": "SEC8",
+      "tier": "TIER_B_PLUS",
+      "concept": "Grand Slam Tennis Landmark",
+      "constituentCount": 1,
+      "provenancePages": [
+        98
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-278"
+      ],
+      "whyStandaloneJustification": "Alcaraz defeats Djokovic to complete youngest career Grand Slam.",
+      "executiveSummary": "Alcaraz (Spain) defeated Djokovic to become youngest man to complete career Grand Slam; Rybakina won Women's Singles.",
+      "masterKeyFacts": [
+        "Alcaraz (Spain) defeated Djokovic to become youngest man to complete career Grand Slam; Rybakina won Women's Singles."
+      ],
+      "subEvents": [
+        {
+          "title": "Carlos Alcaraz wins Australian Open 2026 Men's Singles (Career Grand Slam)",
+          "page": 98,
+          "facts": [
+            "Alcaraz (Spain) defeated Djokovic to become youngest man to complete career Grand Slam; Rybakina won Women's Singles."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-womens-premier-league-wpl-2026",
+      "title": "⚽ Women’s Premier League (WPL 2026) — Royal Challengers Bengaluru Wins Title",
+      "category": "SEC8",
+      "tier": "TIER_B_PLUS",
+      "concept": "National T20 Cricket Championship",
+      "constituentCount": 1,
+      "provenancePages": [
+        99
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-282"
+      ],
+      "whyStandaloneJustification": "RCB wins WPL 2026; Smriti Mandhana Orange Cap.",
+      "executiveSummary": "RCB defeated Delhi Capitals by 6 wickets in Vadodara; Orange Cap: Smriti Mandhana, MVP: Sophie Devine.",
+      "masterKeyFacts": [
+        "RCB defeated Delhi Capitals by 6 wickets in Vadodara; Orange Cap: Smriti Mandhana, MVP: Sophie Devine."
+      ],
+      "subEvents": [
+        {
+          "title": "RCB wins 4th Women's Premier League (WPL 2026) title",
+          "page": 99,
+          "facts": [
+            "RCB defeated Delhi Capitals by 6 wickets in Vadodara; Orange Cap: Smriti Mandhana, MVP: Sophie Devine."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-uday-kotak-chairman-gift-city",
+      "title": "🤝 Uday Kotak Appointed Chairman of GIFT City (Gujarat International Finance Tec-City)",
+      "category": "SEC5",
+      "tier": "TIER_A",
+      "concept": "International Financial Services Centre Governance",
+      "constituentCount": 1,
+      "provenancePages": [
+        102
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-293"
+      ],
+      "whyStandaloneJustification": "Veteran banker succeeds Hasmukh Adhia as GIFT City Chairman.",
+      "executiveSummary": "Uday Kotak appointed Chairman of GIFT City (IFSC Gandhinagar), succeeding Hasmukh Adhia.",
+      "masterKeyFacts": [
+        "Uday Kotak appointed Chairman of GIFT City (IFSC Gandhinagar), succeeding Hasmukh Adhia."
+      ],
+      "subEvents": [
+        {
+          "title": "Uday Kotak appointed Chairman of GIFT City Company Ltd",
+          "page": 102,
+          "facts": [
+            "Uday Kotak appointed Chairman of GIFT City (IFSC Gandhinagar), succeeding Hasmukh Adhia."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-icai-74th-president-prasanna-kumar",
+      "title": "🤝 CA Prasanna Kumar D Elected 74th President of ICAI (2026–27 Term)",
+      "category": "SEC5",
+      "tier": "TIER_B_PLUS",
+      "concept": "Statutory Professional Accounting Body Leadership",
+      "constituentCount": 1,
+      "provenancePages": [
+        102
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-297"
+      ],
+      "whyStandaloneJustification": "Elected President of ICAI under Ministry of Corporate Affairs.",
+      "executiveSummary": "ICAI under Ministry of Corporate Affairs elected Prasanna Kumar D President and Mangesh Kinare VP.",
+      "masterKeyFacts": [
+        "ICAI under Ministry of Corporate Affairs elected Prasanna Kumar D President and Mangesh Kinare VP."
+      ],
+      "subEvents": [
+        {
+          "title": "CA Prasanna Kumar D elected 74th President of ICAI (2026-27)",
+          "page": 102,
+          "facts": [
+            "ICAI under Ministry of Corporate Affairs elected Prasanna Kumar D President and Mangesh Kinare VP."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-nidhi-chhibber-interim-ceo-niti-aayog",
+      "title": "🤝 Nidhi Chhibber Appointed Interim Chief Executive Officer (CEO) of NITI Aayog",
+      "category": "SEC5",
+      "tier": "TIER_B_PLUS",
+      "concept": "Apex National Policy Think Tank Leadership",
+      "constituentCount": 1,
+      "provenancePages": [
+        103
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-300"
+      ],
+      "whyStandaloneJustification": "Replaces BVR Subrahmanyam as head of NITI Aayog.",
+      "executiveSummary": "Nidhi Chhibber replaced BVR Subrahmanyam as Interim CEO of NITI Aayog.",
+      "masterKeyFacts": [
+        "Nidhi Chhibber replaced BVR Subrahmanyam as Interim CEO of NITI Aayog."
+      ],
+      "subEvents": [
+        {
+          "title": "Nidhi Chhibber appointed Interim CEO of NITI Aayog",
+          "page": 103,
+          "facts": [
+            "Nidhi Chhibber replaced BVR Subrahmanyam as Interim CEO of NITI Aayog."
+          ]
+        }
+      ]
+    },
+    {
+      "unitId": "emu-rrb-financial-inclusion-milestones",
+      "title": "🏦 Regional Rural Banks — Tripura Gramin Bank 1st RRB RuPay Credit Card",
+      "category": "SEC3",
+      "tier": "TIER_B_PLUS",
+      "concept": "Regional Rural Banking Innovation",
+      "constituentCount": 1,
+      "provenancePages": [
+        114
+      ],
+      "provenanceArticleIds": [
+        "cgb-art-327"
+      ],
+      "whyStandaloneJustification": "First RRB in India to launch co-branded credit card.",
+      "executiveSummary": "TGB launched RuPay credit card marking 50th Golden Jubilee year in Agartala.",
+      "masterKeyFacts": [
+        "TGB launched RuPay credit card marking 50th Golden Jubilee year in Agartala."
+      ],
+      "subEvents": [
+        {
+          "title": "Tripura Gramin Bank launches India's 1st RRB co-branded RuPay credit card with PNB",
+          "page": 114,
+          "facts": [
+            "TGB launched RuPay credit card marking 50th Golden Jubilee year in Agartala."
+          ]
+        }
+      ]
+    }
+  ]
+}

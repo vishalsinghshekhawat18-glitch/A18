@@ -1,0 +1,201 @@
+{
+  "id": "migrated-schemes-scheme-102",
+  "type": "ca_note",
+  "domain": "schemes",
+  "title": "PM YASASVI (PM Young Achievers Scholarship Award Scheme for Vibrant India)",
+  "summary": "PM YASASVI (PM Young Achievers Scholarship Award Scheme for Vibrant India) — Comprehensive study notes covering objectives, eligibility, outlay, and exam traps.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "⏳ Multi-Component Temporal Intelligence (As of August 2026)",
+      "text": "Component Temporal Delineation: Financial allocation/cycle ended on 31 March 2026 for [15th Finance Commission Allocation Cycle (2021-22 to 2025-26)], while operations/mission continues under [National Scholarship Portal (NSP) Operational Slabs]."
+    },
+    {
+      "type": "key_concept",
+      "title": "PM YASASVI (PM Young Achievers Scholarship Award Scheme for Vibrant India)",
+      "summary": "To provide financial assistance to meritorious students from Other Backward Classes (OBC), Economically Backward Classes (EBC), and De-notified, Nomadic & Semi-Nomadic Tribes (DNT/SNT) for pre-matric, post-matric, and top-class higher education."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⏱️ Component Lifecycles & Temporal Status"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Component / Pillar",
+        "Type",
+        "Period",
+        "Status (Aug 2026)",
+        "Exam Relevance"
+      ],
+      "rows": [
+        [
+          "15th Finance Commission Allocation Cycle (2021-22 to 2025-26)",
+          "financial-cycle",
+          "2021-04-01 to 2026-03-31",
+          "EXPIRED",
+          "Historical budget envelope for pre-matric/post-matric consolidation."
+        ],
+        [
+          "National Scholarship Portal (NSP) Operational Slabs",
+          "scheme",
+          "Since 2021-04-01",
+          "CURRENT",
+          "Income limit ₹2.50L; Pre-matric ₹4k; Top Class school up to ₹1.25L."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🏛️ Administrative & Financial Framework"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Parameter",
+        "Official Specification"
+      ],
+      "rows": [
+        [
+          "Nodal Ministry",
+          "Ministry of Social Justice and Empowerment"
+        ],
+        [
+          "Department",
+          "Department of Social Justice and Empowerment"
+        ],
+        [
+          "Launch Year / Period",
+          "2021-22 (Operational for 2021-22 to 2025-26)"
+        ],
+        [
+          "Financial Outlay",
+          "₹1,500+ Crore annual allocation under MoSJE budget."
+        ],
+        [
+          "Funding Pattern",
+          "Central Sector Scheme (with DBT disbursement on National Scholarship Portal)."
+        ],
+        [
+          "Implementing Agency",
+          "Department of Social Justice and Empowerment and National Scholarship Portal (NSP)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🎯 Target Beneficiaries & Eligibility"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Target Beneficiaries:** OBC, EBC, and DNT students studying in Class 9 through higher education institutions.",
+        "**Eligibility Criteria:** Annual family income must not exceed ₹2.50 Lakh per annum."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "✨ Key Components & Features"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Pre-Matric Scholarship: ₹4,000/year for Class 9 and 10 students.",
+        "Post-Matric Scholarship: ₹5,000 to ₹20,000/year depending on course level.",
+        "Top Class School Education: Up to ₹75,000/year (Class 9-10) and ₹1,25,000/year (Class 11-12) in top identified schools.",
+        "Top Class College Education: Full tuition fee + ₹2.00 Lakh to ₹3.72 Lakh living/academic allowance in top identified institutes.",
+        "Construction of Hostels: Financial assistance for building hostels for OBC boys and girls."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚠️ Exam Traps & Key Distinctions"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Exam Trap: The separate YASASVI Entrance Test (YET) conducted by NTA was discontinued; selection is now purely merit-based using Class 8 and 10 marks via the National Scholarship Portal (NSP).",
+        "Income ceiling: Strictly ₹2.50 Lakh/annum (not ₹8 Lakh)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📚 Authoritative Sources"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Ministry of Social Justice and Empowerment, PM YASASVI Scheme Guidelines (socialjustice.gov.in)",
+        "National Scholarship Portal (scholarships.gov.in), Official Guidelines for PM-YASASVI"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.104Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-102",
+      "sourceTitle": "PM YASASVI (PM Young Achievers Scholarship Award Scheme for Vibrant India):",
+      "sourceChecksum": "cce9478eac7a11594b142739b36d1e867e443411873c95be8311201fd4b2f0a4",
+      "migrationTimestamp": "2026-08-15T12:14:02.104Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    },
+    "repairedVersion": "r4.c9-fine-tuned",
+    "repairedTimestamp": "2026-08-18T13:35:21.434Z",
+    "promotionGate": "R4.C9-passed",
+    "promotionStatus": "approved-with-temporal-components",
+    "promotedTimestamp": "2026-08-18T13:35:21.434Z",
+    "overallTemporalStatus": "MIXED",
+    "temporalWarning": "Component Temporal Delineation: Financial allocation/cycle ended on 31 March 2026 for [15th Finance Commission Allocation Cycle (2021-22 to 2025-26)], while operations/mission continues under [National Scholarship Portal (NSP) Operational Slabs].",
+    "temporalComponentsCount": 2,
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
+  },
+  "temporal": {
+    "statusAsOf": "2026-08-18",
+    "overallStatus": "MIXED",
+    "components": [
+      {
+        "name": "15th Finance Commission Allocation Cycle (2021-22 to 2025-26)",
+        "type": "financial-cycle",
+        "startDate": "2021-04-01",
+        "endDate": "2026-03-31",
+        "status": "EXPIRED",
+        "evidence": [
+          "Initial 5-year financial envelope under MoSJE for 2021-2026."
+        ],
+        "lastVerified": "2023-08-15",
+        "historicalExamRelevance": "Historical budget envelope for pre-matric/post-matric consolidation."
+      },
+      {
+        "name": "National Scholarship Portal (NSP) Operational Slabs",
+        "type": "scheme",
+        "startDate": "2021-04-01",
+        "status": "CURRENT",
+        "evidence": [
+          "Active annual scholarship disbursement pipeline on scholarships.gov.in."
+        ],
+        "lastVerified": "2024-02-01",
+        "historicalExamRelevance": "Income limit ₹2.50L; Pre-matric ₹4k; Top Class school up to ₹1.25L."
+      }
+    ]
+  }
+}

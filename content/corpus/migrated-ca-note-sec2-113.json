@@ -1,25 +1,32 @@
 {
   "id": "migrated-ca-note-sec2-113",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "SEBI Flags ₹87,124 Crore as Difficult-to-Recover Dues in FY26 (Up 12%)",
+  "type": "ca_note",
   "summary": "Highlights regulatory enforcement recovery challenges despite record annual fee collections.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Highlights regulatory enforcement recovery challenges despite record annual fee collections."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 SEBI Flags ₹87,124 Crore as Difficult-to-Recover Dues in FY26 (Up 12%). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Highlights regulatory enforcement recovery challenges despite record annual fee collections.",
         "SEBI Fee Revenue: Total fee income rose 10% to ₹2,563 crore (stock exchange regulatory fees generated ₹1,349 crore).",
-        "Investor Protection Fund (IPF): Fund balance rose to ₹965 crore; investor education spend stood at ₹2.25 crore."
+        "Investor Protection Fund (IPF): Fund balance rose to ₹965 crore; investor education spend stood at ₹2.25 crore.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "SEBI Established: 12 April 1992 (SEBI Act 1992) · HQ: Mumbai · Regulatory Scope: Securities & Capital Markets"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -44,6 +51,16 @@
       "sourceChecksum": "977dad007f2cd360a6a074684aa9a4ff7fa9d79300dafafb4046dbda8ffe6d1d",
       "migrationTimestamp": "2026-08-15T12:11:38.419Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

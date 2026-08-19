@@ -1,20 +1,26 @@
 {
   "id": "migrated-ca-2026-04-sec2-6",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "DPIIT Data: Singapore Top Source of FDI Equity Inflows in FY26 ($17.6 Billion)",
-  "summary": "India received $47.87B total FDI equity inflows in Apr-Dec FY26; Singapore accounts for 37% share followed by US (16%) and Mauritius (10%).",
+  "type": "ca_note",
+  "summary": "India received $47.87B total FDI (foreign direct investment with management stake) equity inflows in Apr-Dec FY26; Singapore accounts for 37% share followed by US (16%) and Mauritius (10%).",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "DPIIT released FDI statistics for April-December FY26 showing **Singapore maintained its position as the top source of FDI equity inflows to India** at $17.6 billion (37% of total)."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 DPIIT Data: Singapore Top Source of FDI Equity Inflows in FY26 ($17.6 Billion). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "DPIIT released FDI (foreign direct investment with management stake) statistics for April-December FY26 showing **Singapore maintained its position as the top source of FDI (foreign direct investment with management stake) equity inflows to India** at $17.6 billion (37% of total).",
         "**Top Sectors**: Computer Software & Hardware (22%, $10.7B) and Services Sector (18%).",
-        "**Top Recipient States**: Maharashtra ($15.38B) followed by Karnataka ($11.15B)."
+        "**Top Recipient States**: Maharashtra ($15.38B) followed by Karnataka ($11.15B).",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -29,7 +35,7 @@
       "April 2026"
     ],
     "date": "2026-04-15",
-    "category": "SEC2",
+    "category": "SEC3",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-16T15:38:14.789Z",
     "provenance": {
@@ -40,6 +46,16 @@
       "sourceChecksum": "391057777089aef83398f4634a90ad908018dec80708b231c738a536a27f7d3f",
       "migrationTimestamp": "2026-08-16T15:38:14.789Z",
       "normalizationRuleVersion": "1.0.0-apr2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 88
   }
 }

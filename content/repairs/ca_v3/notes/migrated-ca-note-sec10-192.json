@@ -1,0 +1,77 @@
+{
+  "id": "migrated-ca-note-sec10-192",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "PMKSY Completes 10 Years of Sustainable Irrigation; Cabinet Approves M-CADWM Sub-Scheme",
+  "summary": "Allocates ₹6,587 crore in Budget 2026-27 for micro-irrigation under Per Drop More Crop.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 PMKSY Completes 10 Years of Sustainable Irrigation; Cabinet Approves M-CADWM Sub-Scheme. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Allocates ₹6,587 crore in Budget 2026-27 for micro-irrigation under Per Drop More Crop.",
+        "PMKSY Overview: Launched July 1, 2015; continued for 2021-26 with ₹93,068.56 crore outlay (benefited 27M+ farmers).",
+        "Per Drop More Crop (PDMC): 110.92 lakh hectares brought under micro-irrigation.",
+        "M-CADWM Sub-Scheme: Cabinet approved Modernization of Command Area Development & Water Management with ₹1,600 crore initial outlay for pipeline networks.",
+        "PMKSY total continuation outlay (₹93,068.56 crore) vs M-CADWM initial sub-scheme outlay (₹1,600 crore).",
+        "🎯 Exam Angle → Focus on CAD as % of GDP (1.3%), merchandise trade deficit figures, and invisibles/remittances surplus trajectory."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on CAD as % of GDP (1.3%), merchandise trade deficit figures, and invisibles/remittances surplus trajectory."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 10,
+      "code": "SEC10",
+      "name": "MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "emoji": "📌",
+      "fullName": "10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC"
+    },
+    "hook": "🪝 PMKSY Completes 10 Years of Sustainable Irrigation; Cabinet Approves M-CADWM Sub-Scheme",
+    "examAngle": "🎯 Exam Angle → Focus on CAD as % of GDP (1.3%), merchandise trade deficit figures, and invisibles/remittances surplus trajectory.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-08-03"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec10",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-03",
+    "category": "SEC10",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:11.200Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec10-192",
+      "sourceTitle": "PMKSY Completes 10 Years of Sustainable Irrigation; Cabinet Approves M-CADWM Sub-Scheme",
+      "sourceChecksum": "6d9a1fecbc14b30ad8aaad71d9355ffaddf14ff8b129a21c67edcd3c0eb97059",
+      "migrationTimestamp": "2026-08-15T12:13:11.200Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

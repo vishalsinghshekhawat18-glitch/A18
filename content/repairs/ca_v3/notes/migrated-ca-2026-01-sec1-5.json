@@ -1,0 +1,77 @@
+{
+  "id": "migrated-ca-2026-01-sec1-5",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India Notifies Coking Coal as Critical & Strategic Mineral",
+  "summary": "Government classifies coking coal under MMDR Act 1957 to fast-track environmental clearances and tap 37.37 billion-tonne reserves.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 3. 🏦 BANKING & INSURANCE NEWS",
+      "text": "🪝 India Notifies Coking Coal as Critical & Strategic Mineral. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "With India importing ~95% of its steel-sector coking coal needs, the Ministry of Mines notified coking coal as a **Critical and Strategic Mineral** under the MMDR Act, 1957.",
+        "**Import Reliance**: ~95% imported (mainly Australia, Russia, USA); imports reached 57.58 million tonnes in 2024-25.",
+        "**Domestic Reserve**: Estimated coking coal resources stand at **37.37 billion tonnes** (primarily Jharkhand, MP, WB, Chhattisgarh).",
+        "**Legal Basis**: Notified under Mines and Minerals (Development and Regulation) Act, 1957 following HLC-VB & NITI Aayog recommendations.",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
+    }
+  ],
+  "intelligence": {
+    "zone": "LIGHT_TOUCH",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 3,
+      "code": "SEC3",
+      "name": "BANKING & INSURANCE NEWS",
+      "emoji": "🏦",
+      "fullName": "3. 🏦 BANKING & INSURANCE NEWS"
+    },
+    "hook": "🪝 India Notifies Coking Coal as Critical & Strategic Mineral",
+    "examAngle": "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-01-26"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026",
+      "January 2026"
+    ],
+    "date": "2026-01-26",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "January_26.pdf",
+      "sourceId": "migrated-ca-2026-01-sec1-5",
+      "sourceTitle": "India Notifies Coking Coal as Critical & Strategic Mineral",
+      "sourceChecksum": "7c52a1506f31b5d1c20128542f577edca63b550be9113aa63debef166d9c5a3b",
+      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+      "normalizationRuleVersion": "1.0.0-jan2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "LIGHT_TOUCH",
+    "sectionCode": "SEC3",
+    "sectionNumber": 3,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

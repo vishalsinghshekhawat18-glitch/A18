@@ -1,30 +1,27 @@
 {
   "id": "migrated-ca-note-sec1-224",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "CBDT Notifies Cost Inflation Index (CII) at 384 for FY 2026-27",
+  "type": "ca_note",
   "summary": "Increases Cost Inflation Index by 2.3% for long-term capital gains tax calculations.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Increases Cost Inflation Index by 2.3% for long-term capital gains tax calculations."
+      "type": "warning_banner",
+      "title": "📰 7. 🏆 AWARDS, BOOKS, INDICES & RANKINGS",
+      "text": "🪝 CBDT Notifies Cost Inflation Index (CII) at 384 for FY 2026-27. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Increases Cost Inflation Index by 2.3% for long-term capital gains tax calculations.",
         "CII Index Value: Notified at 384 for FY 2026-27 (up from 376 in FY 2025-26).",
-        "Application Date: Applies from April 1, 2026 for indexation benefit calculations."
+        "Application Date: Applies from April 1, 2026 for indexation benefit calculations.",
+        "CII FY27 value (384) vs CII FY26 value (376).",
+        "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "CBDT Chairman: Ravi Agrawal | Works under Department of Revenue."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "CII FY27 value (384) vs CII FY26 value (376)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
     }
   ],
   "metadata": {
@@ -49,6 +46,16 @@
       "sourceChecksum": "b55a06f5150590d9d489e7ad81033564a6bb5175b74c465c0841dee87f256267",
       "migrationTimestamp": "2026-08-15T12:13:47.645Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC7",
+    "sectionNumber": 7,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 92
   }
 }

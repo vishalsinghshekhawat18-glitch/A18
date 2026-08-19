@@ -1,13 +1,24 @@
 {
   "id": "migrated-ca-2026-02-sec10-5",
+  "title": "Scheme to Promote Manufacturing of Sintered Rare Earth Permanent Magnets (₹7,280 Cr)",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "MHA Unveils 'PRAHAAR' — India's First National Counter-Terrorism Policy",
-  "summary": "MHA releases PRAHAAR policy built around 7 pillars, establishing MAC/JTFI under IB and NIA for terror investigation.",
+  "summary": "Cabinet approved ₹7,280 Cr scheme for 6,000 MTPA REPM manufacturing under National Critical Mineral Mission with dedicated corridors in Odisha, Kerala, AP, TN.",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "Ministry of Home Affairs unveiled **'PRAHAAR'**, India's first national counter-terrorism doctrine, structured around 7 strategic pillars."
+      "content": "**Overview**: Cabinet approved ₹7,280 Cr scheme for 6,000 MTPA REPM manufacturing under National Critical Mineral Mission with dedicated corridors in Odisha, Kerala, AP, TN."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Scheme to Promote Manufacturing of Sintered Rare Earth Permanent Magnets (₹7,280 Cr)** (Page 35): Cabinet approved ₹7,280 Cr scheme for 6,000 MTPA REPM manufacturing under National Critical Mineral Mission with dedicated corridors in Odisha, Kerala, AP, TN."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Critical Minerals Value Chain Mission. ₹7,280 Cr outlay for 6,000 MTPA REPM manufacturing in 4 states."
     }
   ],
   "metadata": {
@@ -17,22 +28,36 @@
       "SBI PO"
     ],
     "tags": [
-      "sec9",
+      "sec10",
       "Current Affairs 2026",
-      "February 2026"
+      "February 2026",
+      "TIER_A"
     ],
     "date": "2026-02-15",
-    "category": "SEC9",
-    "difficulty": "intermediate",
-    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "category": "SEC10",
+    "difficulty": "hard",
+    "lastUpdated": "2026-08-18T17:42:36.872Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "Feb2026.pdf",
-      "sourceId": "migrated-ca-2026-02-sec10-5",
-      "sourceTitle": "MHA Unveils 'PRAHAAR' — India's First National Counter-Terrorism Policy",
-      "sourceChecksum": "93076d6e2a97b24a52f40bfc6a891f5cabfd51ae1c72a857c8c7f0f6a45debb1",
-      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
-      "normalizationRuleVersion": "1.0.0-feb2026"
-    }
-  }
+      "sourceId": "emu-rare-earth-magnets-scheme",
+      "sourceTitle": "Scheme to Promote Manufacturing of Sintered Rare Earth Permanent Magnets (₹7,280 Cr)",
+      "provenancePages": [
+        35
+      ],
+      "constituentArticleCount": 1,
+      "migrationTimestamp": "2026-08-18T17:42:36.872Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
+  },
+  "relationships": []
 }

@@ -1,13 +1,24 @@
 {
   "id": "migrated-ca-2026-04-sec4-3",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "GRSE Delivers 3 Frontline Warships Simultaneously to Indian Navy",
+  "type": "ca_note",
   "summary": "Garden Reach Shipbuilders delivers INS Dunagiri (2nd P17A frigate), INS Sanshodhak (4th Survey Vessel), and INS Agray (ASW Shallow Watercraft).",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 GRSE Delivers 3 Frontline Warships Simultaneously to Indian Navy. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "GRSE delivered 3 naval platforms simultaneously, taking its total warship construction tally to 118 (80 for the Indian Navy).",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of GRSE Delivers 3 Frontline Warships Simultaneously to Indian Navy."
+      ]
+    },
+    {
       "type": "paragraph",
-      "content": "GRSE delivered 3 naval platforms simultaneously, taking its total warship construction tally to 118 (80 for the Indian Navy)."
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of GRSE Delivers 3 Frontline Warships Simultaneously to Indian Navy."
     }
   ],
   "metadata": {
@@ -33,6 +44,16 @@
       "sourceChecksum": "3ce61e018163edbc0bc885f047eaa6e5dbcce6fc332c1b9b5e8e9d4dd8f0167c",
       "migrationTimestamp": "2026-08-16T15:38:14.789Z",
       "normalizationRuleVersion": "1.0.0-apr2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

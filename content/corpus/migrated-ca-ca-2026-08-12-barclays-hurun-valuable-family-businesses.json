@@ -1,32 +1,29 @@
 {
   "id": "migrated-ca-ca-2026-08-12-barclays-hurun-valuable-family-businesses",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "2026 Barclays Hurun Report: Top 300 Indian Family Businesses Worth ₹138 Lakh Crore",
+  "type": "ca_note",
   "summary": "Barclays Hurun India report values top 300 family businesses at ₹138 lakh crore ($1.46T), adding ₹4,076 crore/day since 2024.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Barclays Hurun India report values top 300 family businesses at ₹138 lakh crore ($1.46T), adding ₹4,076 crore/day since 2024."
+      "type": "warning_banner",
+      "title": "📰 8. 📅 IMPORTANT DAYS & PERSONS IN NEWS",
+      "text": "🪝 2026 Barclays Hurun Report: Top 300 Indian Family Businesses Worth ₹138 Lakh Crore. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Barclays Hurun India report values top 300 family businesses at ₹138 lakh crore ($1.46T), adding ₹4,076 crore/day since 2024.",
         "**Total Valuation:** Top 300 family businesses worth **₹138 lakh crore ($1.46 trillion)** (equivalent to 18th largest global economy).",
         "**Top 5 Families:** (1) Ambani family (₹25.82 lakh crore), (2) KM Birla family, (3) Jindal family, (4) Bajaj family, (5) Mahindra family.",
         "**HQ Cities:** Mumbai (95 HQs), NCR, Kolkata.",
-        "**Women-Led Leaders:** Priya Agarwal Hebbar (Hindustan Zinc ₹4.45L cr), Roshni Nadar Malhotra (HCL ₹2.91L cr)."
+        "**Women-Led Leaders:** Priya Agarwal Hebbar (Hindustan Zinc ₹4.45L cr), Roshni Nadar Malhotra (HCL ₹2.91L cr).",
+        "≠ **Rank 1 Family:** Ambani family (₹25.82 lakh crore).",
+        "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Barclays Private Clients Hurun India Most Valuable Family Businesses List 2026."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "≠ **Rank 1 Family:** Ambani family (₹25.82 lakh crore)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of 2026 Barclays Hurun Report."
     }
   ],
   "metadata": {
@@ -51,6 +48,16 @@
       "sourceChecksum": "fbaf8e416b9185c0b8a753ab7f1e8359b292ed4f6ea18527dbbbb1a8025547cf",
       "migrationTimestamp": "2026-08-15T12:20:27.538Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC8",
+    "sectionNumber": 8,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

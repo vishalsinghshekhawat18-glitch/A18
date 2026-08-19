@@ -1,0 +1,77 @@
+{
+  "id": "migrated-ca-note-sec1-377",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Ministry of Textiles Factsheet: India Ranks 1st Globally in Cotton Cultivation Area (114.84 Lakh Hectares)",
+  "summary": "Accounts for 38% of world cotton acreage; 2026-27 MSP raised to ₹8,267 (medium) and ₹8,667 (long).",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 Ministry of Textiles Factsheet: India Ranks 1st Globally in Cotton Cultivation Area (114.84 Lakh Hectares). Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Accounts for 38% of world cotton acreage; 2026-27 MSP raised to ₹8,267 (medium) and ₹8,667 (long).",
+        "Global Ranks: India ranks 1st globally in cotton acreage (114.84 lakh hectares, 38% world share) and 2nd in production/consumption.",
+        "Species Cultivation: India is the only country cultivating all 4 recognised cotton species.",
+        "MSP & Mission Outlay: 2026-27 MSP ₹8,267/quintal (medium-staple) and ₹8,667 (long-staple); 5-year 'Mission for Cotton Productivity' outlay ₹5,659.22 crore.",
+        "1st rank in acreage (38% world share) vs 2nd rank in cotton production/consumption.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Ministry of Textiles Factsheet."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Ministry of Textiles Factsheet."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 1,
+      "code": "SEC1",
+      "name": "ESI, FINANCE & BUSINESS NEWS",
+      "emoji": "💰",
+      "fullName": "1. 💰 ESI, FINANCE & BUSINESS NEWS"
+    },
+    "hook": "🪝 Ministry of Textiles Factsheet: India Ranks 1st Globally in Cotton Cultivation Area (114.84 Lakh Hectares)",
+    "examAngle": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Ministry of Textiles Factsheet.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-07-07"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-07",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:18:04.451Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-377",
+      "sourceTitle": "Ministry of Textiles Factsheet: India Ranks 1st Globally in Cotton Cultivation Area (114.84 Lakh Hectares)",
+      "sourceChecksum": "41ff06ac206d5e0341b0215059147d4cd31aef52e778d4a3cbb1e33c364286e4",
+      "migrationTimestamp": "2026-08-15T12:18:04.451Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

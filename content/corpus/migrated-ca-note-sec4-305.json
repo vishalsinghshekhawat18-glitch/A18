@@ -1,31 +1,28 @@
 {
   "id": "migrated-ca-note-sec4-305",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Haryana & Rajasthan Sign ₹34,102 Crore Yamuna Water Project Agreement",
+  "type": "ca_note",
   "summary": "Resolves 30-year-old inter-state water dispute by conveying 580 MCM water to Shekhawati.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Resolves 30-year-old inter-state water dispute by conveying 580 MCM water to Shekhawati."
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 Haryana & Rajasthan Sign ₹34,102 Crore Yamuna Water Project Agreement. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Resolves 30-year-old inter-state water dispute by conveying 580 MCM water to Shekhawati.",
         "Project Details: Operationalises 1994 Upper Yamuna River Basin (UYRB) agreement at a cost of ₹34,102 crore.",
         "Conveyance System: 580 million cubic metres (MCM) water piped from Western Yamuna Canal via 3 underground pipelines.",
-        "Beneficiary Regions: Supplies drinking water to Sikar, Churu, and Jhunjhunu (Rajasthan) and Bhiwani & Fatehabad (Haryana)."
+        "Beneficiary Regions: Supplies drinking water to Sikar, Churu, and Jhunjhunu (Rajasthan) and Bhiwani & Fatehabad (Haryana).",
+        "Pipeline conveyance capacity (580 MCM) vs total project outlay (₹34,102 crore).",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Haryana & Rajasthan Sign ₹34,102 Crore Yamuna Water Project Agreement."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Special Purpose Vehicle: Rajasthan-Haryana Yamuna Water SPV (RHYW-SPV) formed for execution."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Pipeline conveyance capacity (580 MCM) vs total project outlay (₹34,102 crore)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Haryana & Rajasthan Sign ₹34,102 Crore Yamuna Water Project Agreement."
     }
   ],
   "metadata": {
@@ -50,6 +47,16 @@
       "sourceChecksum": "a083717251c96f0f0339ed25db1c593a35d737a4fadc0b893cb6a14ea1d0404b",
       "migrationTimestamp": "2026-08-15T12:16:15.973Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

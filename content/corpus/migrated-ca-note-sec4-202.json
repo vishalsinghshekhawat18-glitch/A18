@@ -1,30 +1,27 @@
 {
   "id": "migrated-ca-note-sec4-202",
-  "type": "ca_note",
-  "domain": "current-affairs",
-  "title": "President Assents to Public Examinations (Prevention of Unfair Means) Amendment Bill 2026",
+  "title": "🔄 UPDATE: President Assents to Public Examinations (Prevention of Unfair Means) Amendment Bill 2026",
+  "type": "ca_note_update",
   "summary": "Mandates fast-track courts and 3-month trial conclusion for exam paper leak cases.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Mandates fast-track courts and 3-month trial conclusion for exam paper leak cases."
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 President Assents to Public Examinations (Prevention of Unfair Means) Amendment Bill 2026. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Mandates fast-track courts and 3-month trial conclusion for exam paper leak cases.",
         "Trial Timelines: Paper leak investigations must complete within 2 months; fast-track trials must conclude within 3 months of chargesheet.",
-        "Penalties: Paper leak individuals face 5 to 10 years imprisonment & ₹50 lakh fine; organised syndicates face 7 to 10 years jail & ₹10 crore fine."
+        "Penalties: Paper leak individuals face 5 to 10 years imprisonment & ₹50 lakh fine; organised syndicates face 7 to 10 years jail & ₹10 crore fine.",
+        "Individual paper leak penalty (5–10 yrs, ₹50L fine) vs organised crime penalty (min 7 yrs, ₹10 crore fine).",
+        "🎯 Exam Angle → Focus on statutory penalties (up to 10 years imprisonment and ₹1 Crore fine) and organized crime nexus provisions."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Builds on Public Examinations Act 2024 covering NTA, UPSC, SSC, and RRB exams | MoS Personnel: Jitendra Singh."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Individual paper leak penalty (5–10 yrs, ₹50L fine) vs organised crime penalty (min 7 yrs, ₹10 crore fine)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory penalties (up to 10 years imprisonment and ₹1 Crore fine) and organized crime nexus provisions."
     }
   ],
   "metadata": {
@@ -38,7 +35,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-08-06",
-    "category": "SEC4",
+    "category": "SEC6",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:13:47.644Z",
     "provenance": {
@@ -49,6 +46,16 @@
       "sourceChecksum": "d7f6c239873afdf95b634a8e2e71b414e0125c720f7e948a21a5d5579d815d53",
       "migrationTimestamp": "2026-08-15T12:13:47.644Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "CHRONOLOGICAL_UPDATE",
+    "editorialDecision": "CHRONOLOGICAL_UPDATE",
+    "isStudyMaterial": true,
+    "parentStoryId": "migrated-ca-note-sec2-238",
+    "noteTier": "TIER_A"
   }
 }

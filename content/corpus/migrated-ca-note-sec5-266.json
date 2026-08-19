@@ -1,46 +1,27 @@
 {
   "id": "migrated-ca-note-sec5-266",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "IRDAI Mandates Independent Validation of Insurers' Ind AS Implementation Preparedness",
+  "type": "ca_note",
   "summary": "Requires board-approved strategy validation for transitioning to Ind AS 101 and Ind AS 117 standards.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Requires board-approved strategy validation for transitioning to Ind AS 101 and Ind AS 117 standards."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 IRDAI Mandates Independent Validation of Insurers' Ind AS Implementation Preparedness. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Requires board-approved strategy validation for transitioning to Ind AS 101 and Ind AS 117 standards.",
         "Implementation Window: Mandatory for insurers adopting Ind AS in FY 2026-27 (FY 2027-28 for forbearance entities).",
-        "Scope: Independent validation assesses actuarial models, IT systems, and financial data management."
+        "Scope: Independent validation assesses actuarial models, IT systems, and financial data management.",
+        "Ind AS adoption timeline (FY27) vs regulatory forbearance timeline (FY28).",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Appointee / Official",
-        "New Position & Organization",
-        "Key Context & Details"
-      ],
-      "rows": [
-        [
-          "IRDAI Mandates Independent Validation of Insurers' Ind AS Implementation Preparedness",
-          "Official Appointment",
-          "Implementation Window: Mandatory for insurers adopting Ind AS in FY 2026-27 (FY 2027-28 for forbearance entities)."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Ind AS 117 corresponds to IFRS 17 Insurance Contracts global accounting standard."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Ind AS adoption timeline (FY27) vs regulatory forbearance timeline (FY28)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -65,6 +46,16 @@
       "sourceChecksum": "48b28795858699fb2ea2bc927befe39eb9e185ec9ca1b78e8998ce1283c8dd3b",
       "migrationTimestamp": "2026-08-15T12:15:05.761Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

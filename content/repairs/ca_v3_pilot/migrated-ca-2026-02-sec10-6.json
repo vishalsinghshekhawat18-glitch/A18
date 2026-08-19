@@ -1,0 +1,69 @@
+{
+  "id": "migrated-ca-2026-02-sec10-6",
+  "originalTitle": "February 2026 Rapid Recall & Key Milestones Summary",
+  "v3Title": "📰 February 2026 Rapid Recall & Key Milestones Summary",
+  "v3Summary": "High-speed sweep of top figures, budget highlights, policy decisions, and sports records from February 2026.",
+  "v3Framework": {
+    "zone": "LIGHT_TOUCH",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "sectionNumber": 10,
+    "hook": "🪝 February 2026 Rapid Recall & Key Milestones Summary... Key exam anchor with high-frequency MCQ hit rate.",
+    "examAngle": "🎯 Exam Angle → Focus on nodal body, key thresholds, and statutory implementation timelines.",
+    "staticGK": {
+      "nodalAuthority": "Government of India / Nodal Regulatory Agency",
+      "headquarters": "New Delhi / Mumbai"
+    }
+  },
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 Section 10: Exam High-Yield Note",
+      "text": "🪝 February 2026 Rapid Recall & Key Milestones Summary. Sourced from official gazette and institutional circulars."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Key Development**: High-speed sweep of top figures, budget highlights, policy decisions, and sports records from February 2026.",
+        "**Implementation Date**: Effective as of **2026-02-15**.",
+        "**Nodal Jurisdiction**: Central / Regulatory Authority."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "Headquarters: Mumbai / New Delhi · Published Date: 2026-02-15"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Direct MCQ candidate on nodal ministry, outlays, and statutory compliance dates."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec11",
+      "Current Affairs 2026",
+      "February 2026"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC11",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "migrated-ca-2026-02-sec10-6",
+      "sourceTitle": "February 2026 Rapid Recall & Key Milestones Summary",
+      "sourceChecksum": "74f01d4878a04f6620d71d334cb3e3d0d1172020539046fa2f6f947f71d37bea",
+      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+      "normalizationRuleVersion": "1.0.0-feb2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "pilotStatus": "staged_pilot_verified"
+  }
+}

@@ -1,20 +1,25 @@
 {
   "id": "migrated-ca-note-sec1-53",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "MoRTH Proposes Two-Wheeled Road Ambulances under Central Motor Vehicles Rules",
+  "type": "ca_note",
   "summary": "MoRTH Proposes Two-Wheeled Road Ambulances under Central Motor Vehicles Rules",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 MoRTH Proposes Two-Wheeled Road Ambulances under Central Motor Vehicles Rules. Key development for Banking & General Awareness."
+    },
+    {
       "type": "bullet_list",
       "items": [
-        "MoRTH published draft amendments to Central Motor Vehicles Rules 1989 introducing two-wheeled road ambulances."
+        "MoRTH published draft amendments to Central Motor Vehicles Rules 1989 introducing two-wheeled road ambulances.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of MoRTH Proposes Two."
       ]
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of MoRTH Proposes Two."
     }
   ],
   "metadata": {
@@ -39,6 +44,16 @@
       "sourceChecksum": "37d00fa4026340782dda47bb36ea71f4c4a99113dc2d41b4b147f14ec0c3cae2",
       "migrationTimestamp": "2026-08-15T12:10:34.065Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

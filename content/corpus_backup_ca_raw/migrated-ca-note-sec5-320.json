@@ -1,0 +1,77 @@
+{
+  "id": "migrated-ca-note-sec5-320",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Office of PSA and DSCI Launch TRL Compass Platform (trlcompass.in)",
+  "summary": "India's 1st unified 9-level framework for assessing Technology Readiness Levels in deep-tech.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 5. 🤝 MoUs, CONFERENCES & APPOINTMENTS",
+      "text": "🪝 Office of PSA and DSCI Launch TRL Compass Platform (trlcompass.in). Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "India's 1st unified 9-level framework for assessing Technology Readiness Levels in deep-tech.",
+        "Platform Portal: trlcompass.in launched by Principal Scientific Adviser Prof.",
+        "Ajay Kumar Sood.",
+        "National Framework: Standardises 9-level TRL scale to support ANRF and Research, Development & Innovation (RDI) Fund.",
+        "TRL scale levels (9 levels) vs platform developer (DSCI + Office of PSA).",
+        "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 5,
+      "code": "SEC5",
+      "name": "MoUs, CONFERENCES & APPOINTMENTS",
+      "emoji": "🤝",
+      "fullName": "5. 🤝 MoUs, CONFERENCES & APPOINTMENTS"
+    },
+    "hook": "🪝 Office of PSA and DSCI Launch TRL Compass Platform (trlcompass.in)",
+    "examAngle": "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-07-18"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-18",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:16:15.974Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec5-320",
+      "sourceTitle": "Office of PSA and DSCI Launch TRL Compass Platform (trlcompass.in)",
+      "sourceChecksum": "9c89b1abe540051db4f07a7f324d59137fc37bc3cfa5a0755b9a6868c1c1f578",
+      "migrationTimestamp": "2026-08-15T12:16:15.974Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC5",
+    "sectionNumber": 5,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

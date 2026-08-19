@@ -1,0 +1,63 @@
+{
+  "version": "1.0.0-final-relationship-audit",
+  "generatedAt": "2026-08-18T16:44:54.951Z",
+  "candidateEvaluations": [
+    {
+      "sourceId": "migrated-ca-2026-02-sec3-3",
+      "targetId": "migrated-ca-2026-01-sec2-4",
+      "relationship": "KEEP_SEPARATE",
+      "reason": "Independently examinable topics with distinct institutional owners and testing angles.",
+      "uniqueFacts": "Distinct policy mandates and operational scope."
+    },
+    {
+      "sourceId": "migrated-ca-note-sec1-210",
+      "targetId": "migrated-ca-2026-01-sec4-1",
+      "relationship": "CHRONOLOGICAL_UPDATE",
+      "reason": "Subsequent quarter notification for government small savings rates (July-Sept 2026).",
+      "uniqueFacts": "SSY / SCSS rates retained at 8.2%, NSC at 7.7%, PPF at 7.1% for Q2 FY27."
+    },
+    {
+      "sourceId": "migrated-ca-ca-2026-08-12-india-6th-largest-gdp",
+      "targetId": "migrated-ca-2026-01-sec2-1",
+      "relationship": "KEEP_SEPARATE",
+      "reason": "Two distinct economic methodologies: NSO official national accounts baseline ($4.18T, 4th largest overtaking Japan) vs IMF WEO comparative outlook ($3.92T, 6th largest). Must remain separate to avoid confusing students.",
+      "uniqueFacts": "NSO FY26 advance estimate vs IMF World Economic Outlook April baseline figures."
+    },
+    {
+      "sourceId": "migrated-ca-2026-02-sec4-4",
+      "targetId": "migrated-ca-2026-02-sec1-1",
+      "relationship": "KEEP_SEPARATE",
+      "reason": "Independently examinable topics with distinct institutional owners and testing angles.",
+      "uniqueFacts": "Distinct policy mandates and operational scope."
+    },
+    {
+      "sourceId": "migrated-ca-2026-02-sec4-1",
+      "targetId": "migrated-ca-2026-01-sec1-9",
+      "relationship": "KEEP_SEPARATE",
+      "reason": "Independently examinable topics with distinct institutional owners and testing angles.",
+      "uniqueFacts": "Distinct policy mandates and operational scope."
+    },
+    {
+      "sourceId": "migrated-ca-2026-02-sec2-3",
+      "targetId": "migrated-ca-2026-01-sec2-6",
+      "relationship": "KEEP_SEPARATE",
+      "reason": "Independent prudential frameworks (DICGC deposit premium risk tiers vs bank dividend payout ceilings).",
+      "uniqueFacts": "DICGC 8-12 paise 4-tier matrix vs bank dividend 75% PAT / <6% NNPA rule."
+    },
+    {
+      "sourceId": "migrated-ca-2026-02-sec2-2",
+      "targetId": "migrated-ca-2026-01-sec6-1",
+      "relationship": "KEEP_SEPARATE",
+      "reason": "Independent agricultural interventions (KCC credit line validity 6-yrs vs PM-RKVY 16th FC umbrella funding).",
+      "uniqueFacts": "KCC collateral-free limit ₹2 lakh vs PM-RKVY ₹1.75 lakh crore 3-scheme consolidation."
+    }
+  ],
+  "summary": {
+    "remainingDuplicates": 0,
+    "remainingUpdates": 1,
+    "remainingMerges": 0,
+    "remainingSectionMoves": 0,
+    "ambiguousCount": 0,
+    "isStable": true
+  }
+}

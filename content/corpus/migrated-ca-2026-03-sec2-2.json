@@ -1,13 +1,29 @@
 {
   "id": "migrated-ca-2026-03-sec2-2",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "RBI & Bank of Japan Renew $75 Billion Bilateral Swap Arrangement (BSA)",
+  "type": "ca_note",
   "summary": "RBI and Bank of Japan sign 3rd Amendment & Restatement of $75 billion Bilateral Swap Arrangement effective 28 Feb 2026.",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 RBI & Bank of Japan Renew $75 Billion Bilateral Swap Arrangement (BSA). Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "RBI and Bank of Japan renewed the **$75 billion Bilateral Swap Arrangement (BSA)** effective February 28, 2026.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    {
       "type": "paragraph",
-      "content": "RBI and Bank of Japan renewed the **$75 billion Bilateral Swap Arrangement (BSA)** effective February 28, 2026."
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -33,6 +49,16 @@
       "sourceChecksum": "01b910daf6ad14bdcb59a2bbc36c784639db9c103c35b68083071324496c348f",
       "migrationTimestamp": "2026-08-16T11:13:16.778Z",
       "normalizationRuleVersion": "1.0.0-mar2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

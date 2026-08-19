@@ -1,0 +1,75 @@
+{
+  "id": "migrated-ca-2026-01-sec5-2",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India Ranks 80th on Henley Passport Index 2026",
+  "summary": "Indian passport holders gain visa-free/on-arrival access to 55 destinations, moving up 5 spots to 80th globally.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 7. 🏆 AWARDS, BOOKS, INDICES & RANKINGS",
+      "text": "🪝 India Ranks 80th on Henley Passport Index 2026. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "India climbed 5 positions to rank **80th globally on Henley Passport Index 2026**, offering visa-free/eTA access to **55 destinations**.",
+        "**Top Rank**: Singapore ranks 1st for 3rd consecutive year (192 destinations).",
+        "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
+    }
+  ],
+  "intelligence": {
+    "zone": "LIGHT_TOUCH",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 7,
+      "code": "SEC7",
+      "name": "AWARDS, BOOKS, INDICES & RANKINGS",
+      "emoji": "🏆",
+      "fullName": "7. 🏆 AWARDS, BOOKS, INDICES & RANKINGS"
+    },
+    "hook": "🪝 India Ranks 80th on Henley Passport Index 2026",
+    "examAngle": "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-01-26"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec7",
+      "Current Affairs 2026",
+      "January 2026"
+    ],
+    "date": "2026-01-26",
+    "category": "SEC7",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "January_26.pdf",
+      "sourceId": "migrated-ca-2026-01-sec5-2",
+      "sourceTitle": "India Ranks 80th on Henley Passport Index 2026",
+      "sourceChecksum": "157b1e6f8b3fd7d89b819223acebf3cdf2224f9644e09c067f0e5b75e4ec9a61",
+      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+      "normalizationRuleVersion": "1.0.0-jan2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "LIGHT_TOUCH",
+    "sectionCode": "SEC7",
+    "sectionNumber": 7,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

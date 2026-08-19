@@ -1,31 +1,13 @@
 {
   "id": "migrated-ca-note-sec1-309",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "MCA Launches Corporate Mitra Scheme for MSME Compliance Para-Professionals",
+  "type": "ca_note_redirect",
+  "redirectTarget": "migrated-ca-note-sec2-388",
   "summary": "Creates certified pool of para-professionals to assist MSMEs with accounting, tax, and secretarial compliance.",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "Creates certified pool of para-professionals to assist MSMEs with accounting, tax, and secretarial compliance."
-    },
-    {
-      "type": "bullet_list",
-      "items": [
-        "Eligibility & Age: Open to Indian graduates and final-year students up to 30 years of age.",
-        "Training Structure: 12-month program comprising 150 hours online learning on SWAYAM Plus followed by 6 months on-the-job training.",
-        "Partner Bodies: Supported by IIT Madras (IIT Pravartak), ICAI, ICSI, and ICMAI."
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Union Corporate Affairs Minister: Nirmala Sitharaman."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Online learning duration (150 hours on SWAYAM Plus) vs on-job training (6 months)."
+      "content": "*Editorial Decision: Duplicate Redirect $\\rightarrow$ Canonical Master Note [MCA Launches 'Corporate Mitra' Scheme for MSME Compliance Training](migrated-ca-note-sec2-388).*"
     }
   ],
   "metadata": {
@@ -50,6 +32,15 @@
       "sourceChecksum": "ed43387b4c8f609f8c2e8089c8954aade79ef24d5f4868a08479b34892abb623",
       "migrationTimestamp": "2026-08-15T12:16:15.973Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "REDIRECT_DUPLICATE",
+    "isStudyMaterial": false,
+    "redirectTarget": "migrated-ca-note-sec2-388"
   }
 }

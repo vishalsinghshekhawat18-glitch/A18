@@ -1,27 +1,24 @@
 {
   "id": "migrated-ca-2026-01-sec1-3",
+  "title": "💰 Statistical Base Year Overhauls — CPI 2024 Base (Food Weight Cut to 36.75%) & IIP/GDP 2022-23 Base",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "India Takes BRICS 2026 Presidency",
-  "summary": "India assumed the BRICS presidency for the fourth time on 1 January 2026 under the theme 'Building for Resilience, Innovation, Cooperation and Sustainability'.",
+  "summary": "MoSPI revised CPI basket structure for 2024 base: food & beverage weight reduced to 36.75% (from 45.86%), housing increased to 17.66% (from 10.07%), and total items expanded to 358 (from 299).",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "India assumed the **BRICS presidency for the fourth time** effective 1 January 2026, taking over from Brazil. India previously held the chairship in 2012, 2016, and 2021."
+      "content": "**Overview**: MoSPI revised CPI basket structure for 2024 base: food & beverage weight reduced to 36.75% (from 45.86%), housing increased to 17.66% (from 10.07%), and total items expanded to 358 (from 299)."
     },
     {
       "type": "bullet_list",
       "items": [
-        "**Theme**: 'Building for Resilience, Innovation, Cooperation and Sustainability'.",
-        "**Logo**: Lotus-shaped logo built around the word 'Namaste', incorporating colors of all 11 BRICS members.",
-        "**11 BRICS Members**: Brazil, Russia, India, China, South Africa, Egypt, Ethiopia, Iran, Saudi Arabia, UAE, and Indonesia.",
-        "**Branding**: Approach branded 'humanity-first' and 'people-centric'."
+        "**New CPI Series Cuts Food & Beverage Weight from 45.86% to 36.75%** (Page 13): MoSPI revised CPI basket structure for 2024 base: food & beverage weight reduced to 36.75% (from 45.86%), housing increased to 17.66% (from 10.07%), and total items expanded to 358 (from 299)."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "BRICS Expansion",
-      "summary": "BRICS currently stands at 11 full member states post-expansion."
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under National Statistical Framework Overhaul. Durable MoSPI base year revisions for CPI (2024=100, food weight cut from 45.86% to 36.75%), GDP (2022-23), and IIP (2022-23)."
     }
   ],
   "metadata": {
@@ -31,22 +28,36 @@
       "SBI PO"
     ],
     "tags": [
-      "sec6",
+      "sec1",
       "Current Affairs 2026",
-      "January 2026"
+      "January 2026",
+      "TIER_A"
     ],
-    "date": "2026-01-26",
-    "category": "SEC6",
-    "difficulty": "intermediate",
-    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "date": "2026-01-15",
+    "category": "SEC1",
+    "difficulty": "hard",
+    "lastUpdated": "2026-08-19T02:37:59.665Z",
     "provenance": {
       "sourceSystem": "CA",
-      "sourceFile": "January_26.pdf",
-      "sourceId": "migrated-ca-2026-01-sec1-3",
-      "sourceTitle": "India Takes BRICS 2026 Presidency",
-      "sourceChecksum": "f322ea473ff3b89f6ca51d4a6c4f392e4defb888720586e41a11e4d648c870ee",
-      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
-      "normalizationRuleVersion": "1.0.0-jan2026"
-    }
-  }
+      "sourceFile": "Jan2026.pdf",
+      "sourceId": "emu-jan-cpi-iip-base-revisions",
+      "sourceTitle": "💰 Statistical Base Year Overhauls — CPI 2024 Base (Food Weight Cut to 36.75%) & IIP/GDP 2022-23 Base",
+      "provenancePages": [
+        13
+      ],
+      "constituentArticleCount": 1,
+      "migrationTimestamp": "2026-08-19T02:37:59.665Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
+  },
+  "relationships": []
 }

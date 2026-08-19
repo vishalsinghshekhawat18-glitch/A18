@@ -1,0 +1,69 @@
+{
+  "id": "migrated-ca-2026-01-sec1-1",
+  "originalTitle": "77th Republic Day — First Multi-Leader Chief Guest Invite Since 2018",
+  "v3Title": "📰 77th Republic Day — First Multi-Leader Chief Guest Invite Since 2018",
+  "v3Summary": "India marked its 77th Republic Day on 26 January 2026 with two Chief Guests: Antonio Costa (European Council) and Ursula von der Leyen (European Commission).",
+  "v3Framework": {
+    "zone": "LIGHT_TOUCH",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "sectionNumber": 1,
+    "hook": "🪝 77th Republic Day — First Multi-Leader Chief Guest Invite Since 2018... Key exam anchor with high-frequency MCQ hit rate.",
+    "examAngle": "🎯 Exam Angle → Focus on nodal body, key thresholds, and statutory implementation timelines.",
+    "staticGK": {
+      "nodalAuthority": "Government of India / Nodal Regulatory Agency",
+      "headquarters": "New Delhi / Mumbai"
+    }
+  },
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 Section 1: Exam High-Yield Note",
+      "text": "🪝 77th Republic Day — First Multi-Leader Chief Guest Invite Since 2018. Sourced from official gazette and institutional circulars."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Key Development**: India marked its 77th Republic Day on 26 January 2026 with two Chief Guests: Antonio Costa (European Council) and Ursula von der Leyen (European Commission).",
+        "**Implementation Date**: Effective as of **2026-01-26**.",
+        "**Nodal Jurisdiction**: Central / Regulatory Authority."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "Headquarters: Mumbai / New Delhi · Published Date: 2026-01-26"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Direct MCQ candidate on nodal ministry, outlays, and statutory compliance dates."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026",
+      "January 2026"
+    ],
+    "date": "2026-01-26",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "January_26.pdf",
+      "sourceId": "migrated-ca-2026-01-sec1-1",
+      "sourceTitle": "77th Republic Day — First Multi-Leader Chief Guest Invite Since 2018",
+      "sourceChecksum": "7ef1f0ef01a12621f60c251c5b0e997d01c0542e1b806c62358b4f97f987c55d",
+      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+      "normalizationRuleVersion": "1.0.0-jan2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "pilotStatus": "staged_pilot_verified"
+  }
+}

@@ -1,26 +1,26 @@
 {
   "id": "migrated-ca-note-sec2-239",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "CBDT Issues Crypto-Asset Reporting Framework (CARF) Compliance Rules",
+  "type": "ca_note",
   "summary": "CBDT Issues Crypto-Asset Reporting Framework (CARF) Compliance Rules",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 CBDT Issues Crypto-Asset Reporting Framework (CARF) Compliance Rules. Key development for Banking & General Awareness."
+    },
     {
       "type": "bullet_list",
       "items": [
         "CARF Alignment: Aligns Indian crypto exchange reporting with OECD global framework.",
-        "Reporting Scope: RCASPs must collect tax residency and TIN details for annual submission."
+        "Reporting Scope: RCASPs must collect tax residency and TIN details for annual submission.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "OECD HQ: Paris, France."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -45,6 +45,16 @@
       "sourceChecksum": "8502eefebb32ddc0e408edfa741a18acac2d22bfef9b20655decd3557b773a3a",
       "migrationTimestamp": "2026-08-15T12:14:29.731Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

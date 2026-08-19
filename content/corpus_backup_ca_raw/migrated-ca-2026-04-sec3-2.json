@@ -1,0 +1,86 @@
+{
+  "id": "migrated-ca-2026-04-sec3-2",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Hikes Borrowing Limits Against Securities & IPO Subscriptions",
+  "summary": "RBI raises individual loan against shares cap to ₹1 crore and IPO subscription loan limit to ₹25 lakh across the banking system.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 RBI Hikes Borrowing Limits Against Securities & IPO Subscriptions. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "RBI revised its capital market exposure framework to encourage retail participation while maintaining systemic controls.",
+        "**Loans Against Shares/REITs/InvITs**: Cap raised from ₹20 lakh to **₹1 crore per borrower**.",
+        "**IPO / FPO / ESOP Subscriptions**: Cap raised from ₹10 lakh to **₹25 lakh per individual**.",
+        "**System-Wide Cap**: Limits apply across the entire banking system combined (preventing multi-lender evasion).",
+        "**Implementation Deadline**: Deferred to **July 1, 2026** (from April 1). Margin requirements: 50% for physical shares, 25% for demat.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 2,
+      "code": "SEC2",
+      "name": "REGULATORY BODIES NEWS",
+      "emoji": "🏛️",
+      "fullName": "2. 🏛️ REGULATORY BODIES NEWS"
+    },
+    "hook": "🪝 RBI Hikes Borrowing Limits Against Securities & IPO Subscriptions",
+    "examAngle": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks.",
+    "staticGK": {
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-04-15"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026",
+      "April 2026"
+    ],
+    "date": "2026-04-15",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T11:56:36.842Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-04-sec3-2",
+      "sourceTitle": "RBI Hikes Borrowing Limits Against Securities & IPO Subscriptions",
+      "sourceChecksum": "b04f966fd1a7d25063daf77e7ee7a04a8e6bcb473303adfc9f4a70424acdc379",
+      "migrationTimestamp": "2026-08-16T11:56:36.842Z",
+      "normalizationRuleVersion": "1.0.0-apr2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

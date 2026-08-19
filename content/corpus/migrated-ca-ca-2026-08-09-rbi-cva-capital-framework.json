@@ -1,32 +1,34 @@
 {
   "id": "migrated-ca-ca-2026-08-09-rbi-cva-capital-framework",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "RBI Proposes Credit Valuation Adjustment (CVA) Risk-Capital Framework Effective April 1, 2027",
-  "summary": "RBI proposed new CVA Framework for derivative-related counterparty risk, effective April 1, 2027, replacing 2011 guidelines.",
+  "type": "ca_note",
+  "summary": "RBI proposed new CVA (credit valuation adjustment for derivative counterparty risk) Framework for derivative-related counterparty risk, effective April 1, 2027, replacing 2011 guidelines.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "RBI proposed new CVA Framework for derivative-related counterparty risk, effective April 1, 2027, replacing 2011 guidelines."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 RBI Proposes Credit Valuation Adjustment (CVA) Risk-Capital Framework Effective April 1, 2027. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "RBI proposed new CVA (credit valuation adjustment for derivative counterparty risk) Framework for derivative-related counterparty risk, effective April 1, 2027, replacing 2011 guidelines.",
         "**Scope & Applicability:** Applies to all commercial banks except SFBs, Payments Banks, and Local Area Banks.",
-        "**Basic Approach (BA-CVA):** Offers Full BA-CVA (recognizes eligible hedges) and Reduced BA-CVA (no hedge recognition).",
-        "**Simplified Threshold:** Banks with non-centrally cleared derivatives up to **₹10 trillion** can use simplified approach (CVA capital req = 100% counterparty credit risk capital req).",
-        "**Counterparty Risk Weights:** Sovereigns: 0.5% (Investment Grade) and 2% (others); Financial Sector: 5% (IG) and 12% (others)."
+        "**Basic Approach (BA-CVA (credit valuation adjustment for derivative counterparty risk)):** Offers Full BA-CVA (recognizes eligible hedges) and Reduced BA-CVA (no hedge recognition).",
+        "**Simplified Threshold:** Banks with non-centrally cleared derivatives up to **₹10 trillion** can use simplified approach (CVA (credit valuation adjustment for derivative counterparty risk) capital req = 100% counterparty credit risk capital req).",
+        "**Counterparty Risk Weights:** Sovereigns: 0.5% (Investment Grade) and 2% (others); Financial Sector: 5% (IG) and 12% (others).",
+        "⚠️ **Exemption Trap:** SFBs, Payments Banks, and LABs are EXCLUDED from the new CVA (credit valuation adjustment for derivative counterparty risk) capital framework.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
       "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "CVA: Credit Valuation Adjustment measures counterparty credit risk in derivative transactions."
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Exemption Trap:** SFBs, Payments Banks, and LABs are EXCLUDED from the new CVA capital framework."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -40,7 +42,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-08-09",
-    "category": "SEC1",
+    "category": "SEC2",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:19:15.620Z",
     "provenance": {
@@ -51,6 +53,16 @@
       "sourceChecksum": "3e4240b51f16bbf34434bbc406de53d26179438f77d04f2815a7fb7feb18fe4e",
       "migrationTimestamp": "2026-08-15T12:19:15.620Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

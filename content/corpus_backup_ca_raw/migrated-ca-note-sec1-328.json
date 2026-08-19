@@ -1,0 +1,77 @@
+{
+  "id": "migrated-ca-note-sec1-328",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "APSRTC to Electrify 10,660 Bus Fleet by 2029 under SEMP 4.0 & Introduces 'Dry Lease' Model",
+  "summary": "First Indian state transport corporation to introduce a 'Dry Lease' model for 1,450 electric buses.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 APSRTC to Electrify 10,660 Bus Fleet by 2029 under SEMP 4.0 & Introduces 'Dry Lease' Model. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "First Indian state transport corporation to introduce a 'Dry Lease' model for 1,450 electric buses.",
+        "Electrification Mandate: APSRTC electrifying entire 10,660 bus fleet by 2029 under AP Sustainable Electric Mobility Policy 4.0.",
+        "PM eBus Sewa Sanction: Centre sanctioned 1,050 electric buses (₹145.3 crore grant, CESL GCC model across 11 cities).",
+        "Dry Lease Innovation: APSRTC introducing India's 1st 'Dry Lease' model for 1,450 electric buses to utilize surplus drivers.",
+        "PM eBus Sewa central sanction (1,050 buses) vs APSRTC dry lease procurement (1,450 buses).",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of APSRTC to Electrify 10,660 Bus Fleet by 2029 under SEMP 4.0 & Introduces 'Dry Lease' Model."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of APSRTC to Electrify 10,660 Bus Fleet by 2029 under SEMP 4.0 & Introduces 'Dry Lease' Model."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 1,
+      "code": "SEC1",
+      "name": "ESI, FINANCE & BUSINESS NEWS",
+      "emoji": "💰",
+      "fullName": "1. 💰 ESI, FINANCE & BUSINESS NEWS"
+    },
+    "hook": "🪝 APSRTC to Electrify 10,660 Bus Fleet by 2029 under SEMP 4.0 & Introduces 'Dry Lease' Model",
+    "examAngle": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of APSRTC to Electrify 10,660 Bus Fleet by 2029 under SEMP 4.0 & Introduces 'Dry Lease' Model.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-07-11"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-11",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:16:51.763Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-328",
+      "sourceTitle": "APSRTC to Electrify 10,660 Bus Fleet by 2029 under SEMP 4.0 & Introduces 'Dry Lease' Model",
+      "sourceChecksum": "e1ffaa7814bf5ca258d71adaaca919574acd6c8033df10efff13cdff38b5ae4f",
+      "migrationTimestamp": "2026-08-15T12:16:51.763Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

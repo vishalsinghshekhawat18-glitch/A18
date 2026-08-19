@@ -1,30 +1,27 @@
 {
   "id": "migrated-ca-ca-2026-08-10-ifc-225cr-ndr-smart-spaces",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "World Bank's IFC to Invest ₹225 Crore ($23 Million) in NDR Smart Spaces Warehousing",
+  "type": "ca_note",
   "summary": "International Finance Corporation (IFC) to invest ₹225 crore ($23M) equity in NDR Smart Spaces for Grade A warehousing across MH, TN, UP.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "International Finance Corporation (IFC) to invest ₹225 crore ($23M) equity in NDR Smart Spaces for Grade A warehousing across MH, TN, UP."
+      "type": "warning_banner",
+      "title": "📰 6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS",
+      "text": "🪝 World Bank's IFC to Invest ₹225 Crore ($23 Million) in NDR Smart Spaces Warehousing. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "International Finance Corporation (IFC) to invest ₹225 crore ($23M) equity in NDR Smart Spaces for Grade A warehousing across MH, TN, UP.",
         "**Equity Investment:** IFC investing **₹225 crore (~$23 million)** in NDR Smart Spaces Pvt Ltd.",
-        "**Infrastructure Focus:** Developing Grade A warehousing and logistics infrastructure in **Maharashtra, Tamil Nadu, and Uttar Pradesh**."
+        "**Infrastructure Focus:** Developing Grade A warehousing and logistics infrastructure in **Maharashtra, Tamil Nadu, and Uttar Pradesh**.",
+        "≠ **Member Count:** IFC has 186 member countries (World Bank IBRD has 189).",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "IFC Established: July 20, 1956. Members: 186 countries. HQ: Washington D.C. Parent: World Bank Group."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "≠ **Member Count:** IFC has 186 member countries (World Bank IBRD has 189)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
     }
   ],
   "metadata": {
@@ -49,6 +46,16 @@
       "sourceChecksum": "d6e8334aa1bc1b8ad6da3456a385e6c0dd7dbb6f387e0a1f5cb9d09dee3195ee",
       "migrationTimestamp": "2026-08-15T12:19:51.522Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "sectionNumber": 6,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

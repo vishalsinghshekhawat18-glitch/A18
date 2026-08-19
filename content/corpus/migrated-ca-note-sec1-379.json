@@ -1,30 +1,27 @@
 {
   "id": "migrated-ca-note-sec1-379",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Mission Senehjori Launched to Transform Assam Muga Silk Sector by 2028",
+  "type": "ca_note",
   "summary": "MDoNER Minister Jyotiraditya Scindia launches initiative to position Assam Muga silk in global luxury markets.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "MDoNER Minister Jyotiraditya Scindia launches initiative to position Assam Muga silk in global luxury markets."
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 Mission Senehjori Launched to Transform Assam Muga Silk Sector by 2028. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "MDoNER Minister Jyotiraditya Scindia launches initiative to position Assam Muga silk in global luxury markets.",
         "Mission Mandate: Launched by Ministry of Development of North Eastern Region (MDoNER) for Assam's unique Muga silk.",
-        "Global Target: Aims to transform Assam Muga silk into a globally competitive luxury textile ecosystem by 2028."
+        "Global Target: Aims to transform Assam Muga silk into a globally competitive luxury textile ecosystem by 2028.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Muga Silk carries GI tag and is produced exclusively in Assam."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
     }
   ],
   "metadata": {
@@ -49,6 +46,16 @@
       "sourceChecksum": "18998d9eb1fc938f499774ae28319724300799edaa69a61fd2a7655b7eb33a37",
       "migrationTimestamp": "2026-08-15T12:18:04.451Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

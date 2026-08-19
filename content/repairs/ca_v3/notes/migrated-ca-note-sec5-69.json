@@ -1,0 +1,73 @@
+{
+  "id": "migrated-ca-note-sec5-69",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "C-DAC & GSI MoU for AI and HPC Geoscience Exploration",
+  "summary": "C-DAC & GSI MoU for AI and HPC Geoscience Exploration",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 5. 🤝 MoUs, CONFERENCES & APPOINTMENTS",
+      "text": "🪝 C-DAC & GSI MoU for AI and HPC Geoscience Exploration. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "C-DAC (MeitY) signed MoU with GSI (Ministry of Mines) to collaborate in geosciences and mineral exploration using AI and High-Performance Computing (HPC).",
+        "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 5,
+      "code": "SEC5",
+      "name": "MoUs, CONFERENCES & APPOINTMENTS",
+      "emoji": "🤝",
+      "fullName": "5. 🤝 MoUs, CONFERENCES & APPOINTMENTS"
+    },
+    "hook": "🪝 C-DAC & GSI MoU for AI and HPC Geoscience Exploration",
+    "examAngle": "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-08-01"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:34.066Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec5-69",
+      "sourceTitle": "C-DAC & GSI MoU for AI and HPC Geoscience Exploration",
+      "sourceChecksum": "92e3b49ebaaea4289588dbe4ef154e6982bb43fca924512972123aee00044ed1",
+      "migrationTimestamp": "2026-08-15T12:10:34.066Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC5",
+    "sectionNumber": 5,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

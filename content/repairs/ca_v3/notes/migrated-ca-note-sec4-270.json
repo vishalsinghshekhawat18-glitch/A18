@@ -1,0 +1,76 @@
+{
+  "id": "migrated-ca-note-sec4-270",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Centre Notifies 7th Draft for Ecologically Sensitive Areas (ESA) in Western Ghats",
+  "summary": "Proposes protection for 56,825 sq. km. across 6 states based on Madhav Gadgil WGEEP report.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 Centre Notifies 7th Draft for Ecologically Sensitive Areas (ESA) in Western Ghats. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Proposes protection for 56,825 sq. km. across 6 states based on Madhav Gadgil WGEEP report.",
+        "Protected Area: 56,825 sq. km. across Gujarat, Maharashtra, Goa, Karnataka, Kerala, and Tamil Nadu (1,500 km length).",
+        "Committee Reference: Western Ghats Ecology Expert Panel (WGEEP 2011) headed by Madhav Gadgil.",
+        "Number of Western Ghats ESA states (6 states) vs total protected area (56,825 sq km).",
+        "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Centre Notifies 7th Draft for Ecologically Sensitive Areas (ESA) in Western Ghats."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 4,
+      "code": "SEC4",
+      "name": "NATIONAL, STATE & INTERNATIONAL NEWS",
+      "emoji": "🌐",
+      "fullName": "4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS"
+    },
+    "hook": "🪝 Centre Notifies 7th Draft for Ecologically Sensitive Areas (ESA) in Western Ghats",
+    "examAngle": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Centre Notifies 7th Draft for Ecologically Sensitive Areas (ESA) in Western Ghats.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-07-11"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-11",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:15:05.761Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-270",
+      "sourceTitle": "Centre Notifies 7th Draft for Ecologically Sensitive Areas (ESA) in Western Ghats",
+      "sourceChecksum": "2705b0fa7e63d2f2119f07b78d54b8141017945927c0d25fdf633513a5cb2dba",
+      "migrationTimestamp": "2026-08-15T12:15:05.761Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "migrated-ca-note-sec6-73",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India Achieves Clean Sweep at 22nd Commonwealth Table Tennis Championships",
+  "summary": "India Achieves Clean Sweep at 22nd Commonwealth Table Tennis Championships",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS",
+      "text": "🪝 India Achieves Clean Sweep at 22nd Commonwealth Table Tennis Championships. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Men's Singles Champion: **Ankur Bhattacharjee** (Gold).",
+        "Women's Singles Champion: **Yashaswini Ghorpade** (Gold).",
+        "Women's Doubles Champions: **Sreeja Akula and Syndrela Das** (Gold).",
+        "Mixed Doubles Champions: **Manav Thakkar and Taneesha Kotecha** (Gold).",
+        "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 6,
+      "code": "SEC6",
+      "name": "SCIENCE, TECHNOLOGY, DEFENCE & SPORTS",
+      "emoji": "🔬",
+      "fullName": "6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS"
+    },
+    "hook": "🪝 India Achieves Clean Sweep at 22nd Commonwealth Table Tennis Championships",
+    "examAngle": "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-08-01"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:34.066Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec6-73",
+      "sourceTitle": "India Achieves Clean Sweep at 22nd Commonwealth Table Tennis Championships",
+      "sourceChecksum": "81cfe749b01031f52adf7702782659721702d67585164b7195591fd6cc4edc64",
+      "migrationTimestamp": "2026-08-15T12:10:34.066Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "sectionNumber": 6,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

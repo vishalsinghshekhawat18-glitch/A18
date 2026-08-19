@@ -1,25 +1,26 @@
 {
   "id": "migrated-ca-note-sec4-345",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Adani Defence Lays Foundation for ₹2,500 Crore Missile Complex in Shivpuri (MP)",
+  "type": "ca_note",
   "summary": "Establishes South Asia's largest private-sector backward-integrated missile manufacturing facility.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Establishes South Asia's largest private-sector backward-integrated missile manufacturing facility."
+      "type": "warning_banner",
+      "title": "📰 6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS",
+      "text": "🪝 Adani Defence Lays Foundation for ₹2,500 Crore Missile Complex in Shivpuri (MP). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Establishes South Asia's largest private-sector backward-integrated missile manufacturing facility.",
         "Private Ecosystem: ₹2,500 crore missile complex built across 3 years in Shivpuri, Madhya Pradesh.",
-        "Backward Integration: Combines missile assembly with composite propellant and TNT explosive manufacturing under one roof."
+        "Backward Integration: Combines missile assembly with composite propellant and TNT explosive manufacturing under one roof.",
+        "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Adani Defence & Aerospace CEO: Ashish Rajvanshi | HQ: Ahmedabad."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
     }
   ],
   "metadata": {
@@ -44,6 +45,16 @@
       "sourceChecksum": "dd4d0a883f89dab5df9bbc26a52d5a2b02a071ad10cabd5f03bc45316d1109cc",
       "migrationTimestamp": "2026-08-15T12:16:51.764Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "sectionNumber": 6,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

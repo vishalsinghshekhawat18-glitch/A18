@@ -1,31 +1,28 @@
 {
   "id": "migrated-ca-ca-2026-08-12-india-nuclear-power-100gwe-target-2047",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "India Targets 100 GWe Nuclear Capacity by 2047 & 5 Operational Indigenous SMRs by 2033",
+  "type": "ca_note",
   "summary": "India set target to expand nuclear power capacity to 100 GWe by 2047 and operationalize 5 Small Modular Reactors (SMRs) by 2033.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "India set target to expand nuclear power capacity to 100 GWe by 2047 and operationalize 5 Small Modular Reactors (SMRs) by 2033."
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 India Targets 100 GWe Nuclear Capacity by 2047 & 5 Operational Indigenous SMRs by 2033. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "India set target to expand nuclear power capacity to 100 GWe by 2047 and operationalize 5 Small Modular Reactors (SMRs) by 2033.",
         "**Nuclear Capacity Target:** Increase India's nuclear power capacity to **100 GWe by 2047**.",
         "**SMR Target:** Operationalize at least **5 indigenous Small Modular Reactors (SMRs) by 2033**.",
-        "**Three-Stage Program:** Stage I (PHWRs natural uranium), Stage II (Fast Breeder Reactors plutonium), Stage III (Thorium utilization)."
+        "**Three-Stage Program:** Stage I (PHWRs natural uranium), Stage II (Fast Breeder Reactors plutonium), Stage III (Thorium utilization).",
+        "≠ **Target Years:** 100 GWe by 2047; 5 SMRs by 2033.",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Father of Indian Nuclear Programme: Dr. Homi J. Bhabha."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "≠ **Target Years:** 100 GWe by 2047; 5 SMRs by 2033."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
     }
   ],
   "metadata": {
@@ -50,6 +47,16 @@
       "sourceChecksum": "5dcdf2085c1865b2b9ede3e44610dc386ff4100cd5c412026910d86021ade7bb",
       "migrationTimestamp": "2026-08-15T12:20:27.538Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

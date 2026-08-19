@@ -1,26 +1,28 @@
 {
   "id": "migrated-ca-note-sec1-101",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Govt Mandates Exporter Registration (EOR) for FDI-Backed E-Commerce Inventory Exports",
+  "type": "ca_note",
   "summary": "Prevents speculative domestic stockpiling by foreign-funded e-commerce platforms while ensuring complete export traceability.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Prevents speculative domestic stockpiling by foreign-funded e-commerce platforms while ensuring complete export traceability."
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 Govt Mandates Exporter Registration (EOR) for FDI-Backed E-Commerce Inventory Exports. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Prevents speculative domestic stockpiling by foreign-funded e-commerce platforms while ensuring complete export traceability.",
         "Mandatory Registration: Foreign-funded e-commerce inventory exporters must register as Exporter-on-Record (EOR) with DGFT (holding IEC & GSTIN).",
         "Stockpiling Norms: Stockpiling permitted only against confirmed export orders (speculative stockpiling strictly prohibited).",
-        "Supplier Protection: Payments to Indian sellers cannot be contingent upon receipt of payment from overseas buyers."
+        "Supplier Protection: Payments to Indian sellers cannot be contingent upon receipt of payment from overseas buyers.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Govt Mandates Exporter Registration (EOR) for FDI (foreign direct investment with management stake)."
       ]
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Govt Mandates Exporter Registration (EOR) for FDI."
     }
   ],
   "metadata": {
@@ -34,7 +36,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-08-06",
-    "category": "SEC1",
+    "category": "SEC3",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:11:38.419Z",
     "provenance": {
@@ -45,6 +47,16 @@
       "sourceChecksum": "f252e9258bb35a6d727ecb0716a189ba3b72b462f3f2682222671d73221a4966",
       "migrationTimestamp": "2026-08-15T12:11:38.419Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 88
   }
 }

@@ -1,24 +1,26 @@
 {
   "id": "migrated-ca-note-sec1-108",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Rajya Sabha Clears ₹54,067 Crore Appropriation Bill 2026 under Article 114",
+  "type": "ca_note",
   "summary": "Provides constitutional authorization for parliamentary approval of excess expenditure beyond original budget grants.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Provides constitutional authorization for parliamentary approval of excess expenditure beyond original budget grants."
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 Rajya Sabha Clears ₹54,067 Crore Appropriation Bill 2026 under Article 114. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
-        "Constitutional Mandate: Article 114 mandates parliamentary approval before withdrawing funds from Consolidated Fund of India (CFI)."
+        "Provides constitutional authorization for parliamentary approval of excess expenditure beyond original budget grants.",
+        "Constitutional Mandate: Article 114 mandates parliamentary approval before withdrawing funds from Consolidated Fund of India (CFI).",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Rajya Sabha Clears ₹54,067 Crore Appropriation Bill 2026 under Article 114."
       ]
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Rajya Sabha Clears ₹54,067 Crore Appropriation Bill 2026 under Article 114."
     }
   ],
   "metadata": {
@@ -32,7 +34,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-08-07",
-    "category": "SEC1",
+    "category": "SEC2",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:11:38.419Z",
     "provenance": {
@@ -43,6 +45,16 @@
       "sourceChecksum": "432d8884399ae54ea2e9a1ddbcfd6d31a6e57cf64a99cfa989392a5ed2332999",
       "migrationTimestamp": "2026-08-15T12:11:38.419Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

@@ -1,43 +1,28 @@
 {
   "id": "migrated-ca-note-sec7-279",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "72nd National Film Awards (2024): 'Article 370' Wins Best Film Award",
+  "type": "ca_note",
   "summary": "Mammootty and Kartik Aaryan share Best Actor Award; Yami Gautam wins Best Actress.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Mammootty and Kartik Aaryan share Best Actor Award; Yami Gautam wins Best Actress."
+      "type": "warning_banner",
+      "title": "📰 7. 🏆 AWARDS, BOOKS, INDICES & RANKINGS",
+      "text": "🪝 72nd National Film Awards (2024): 'Article 370' Wins Best Film Award. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Mammootty and Kartik Aaryan share Best Actor Award; Yami Gautam wins Best Actress.",
         "Best Film: Article 370 (Hindi).",
         "Best Actor: Mammootty (Bramayugam) and Kartik Aaryan (Chandu Champion).",
         "Best Actress: Yami Gautam (Article 370).",
-        "Best Director: Rajkumar Periasamy (Amaran)."
+        "Best Director: Rajkumar Periasamy (Amaran).",
+        "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Award Title",
-        "Recipient / Winner",
-        "Conferred By / Key Detail"
-      ],
-      "rows": [
-        [
-          "72nd National Film Awards (2024): 'Article 370' Wins Best Film Award",
-          "Best Film: Article 370 (Hindi).",
-          "National Film Awards organized annually by Ministry of Information & Broadcasting (instituted 1954)."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "National Film Awards organized annually by Ministry of Information & Broadcasting (instituted 1954)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
     }
   ],
   "metadata": {
@@ -62,6 +47,16 @@
       "sourceChecksum": "f11d08cdf13d3894ee90af7455b4ed4912766fa5517f021b17adc881396487b4",
       "migrationTimestamp": "2026-08-15T12:15:40.420Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC7",
+    "sectionNumber": 7,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

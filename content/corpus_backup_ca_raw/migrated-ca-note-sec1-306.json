@@ -1,0 +1,69 @@
+{
+  "id": "migrated-ca-note-sec1-306",
+  "type": "ca_note_redirect",
+  "domain": "current-affairs",
+  "title": "Adani Enterprises & IRH (Abu Dhabi) Sign .5 Billion MoU for Odisha Aluminium Project",
+  "summary": "India's largest FDI (foreign direct investment with management stake) in metallurgy sector featuring a 4 MMTPA alumina refinery and 2 MMTPA smelter.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 Adani Enterprises & IRH (Abu Dhabi) Sign .5 Billion MoU for Odisha Aluminium Project. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "India's largest FDI (foreign direct investment with management stake) in metallurgy sector featuring a 4 MMTPA alumina refinery and 2 MMTPA smelter.",
+        "Equity Structure: 50:50 Joint Venture between Adani Enterprises Ltd and IHC Group's IRH (Abu Dhabi).",
+        "Infrastructure Scope: 4 MMTPA alumina refinery in Rayagada, 2 MMTPA aluminium smelter in Sundargarh, and 4,000 MW captive power plant (400 MW renewable).",
+        "Odisha Bauxite Share: Odisha holds nearly 50% of India's bauxite reserves and accounts for 54% of national aluminium output.",
+        "Alumina refinery capacity (4 MMTPA in Rayagada) vs Aluminium smelter capacity (2 MMTPA in Sundargarh)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Adani Enterprises & IRH (Abu Dhabi) Sign .5 Billion MoU for Odisha Aluminium Project."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "sectionCode": "SEC1",
+    "disposition": "DUPLICATE_DEDUPLICATED",
+    "matchedCanonicalId": "migrated-ca-2026-03-sec1-2",
+    "reason": "Exact duplicate of migrated-ca-2026-03-sec1-2 (PM-PRANAM Fertilizer Subsidy Rationalization)"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-04",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:16:15.973Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-306",
+      "sourceTitle": "Adani Enterprises & IRH (Abu Dhabi) Sign .5 Billion MoU for Odisha Aluminium Project",
+      "sourceChecksum": "50e827ef0e4e7814e2a21df89ed74191681da53d61990e59906e3c074882da2a",
+      "migrationTimestamp": "2026-08-15T12:16:15.973Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "disposition": "DUPLICATE_DEDUPLICATED",
+    "matchedCanonicalId": "migrated-ca-2026-03-sec1-2",
+    "redirectTarget": "migrated-ca-2026-03-sec1-2"
+  }
+}

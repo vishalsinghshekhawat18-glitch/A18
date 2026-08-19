@@ -1,30 +1,13 @@
 {
   "id": "migrated-ca-note-sec6-440",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "ICAR Develops India's 1st Telomere-to-Telomere (T2T) Reference Genome for Pigeonpea",
-  "summary": "Decodes complete genetic sequence of Asha (ICPL 87119) pulse variety to enhance drought and disease resistance.",
+  "type": "ca_note_redirect",
+  "redirectTarget": "migrated-ca-note-sec6-71",
+  "summary": "Redirect to canonical master note: ICAR Develops India's First Complete Pigeonpea Genome ('Asha' Variety)",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "Decodes complete genetic sequence of Asha (ICPL 87119) pulse variety to enhance drought and disease resistance."
-    },
-    {
-      "type": "bullet_list",
-      "items": [
-        "ICAR-National Research Centre on Plant Biotechnology (NRCPB) developed India's 1st gap-free Telomere-to-Telomere (T2T) reference genome for Pigeonpea (Arhar/Tur).",
-        "Sequenced using the popular pulse variety Asha (ICPL 87119), decoding all 11 chromosomes."
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "ICAR (Indian Council of Agricultural Research) Director General: Mangi Lal Jat | HQ: New Delhi."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Pigeonpea variety used (Asha / ICPL 87119)."
+      "content": "*Editorial Decision: Duplicate Redirect $\\rightarrow$ Canonical Master Note [ICAR Develops India's First Complete Pigeonpea Genome ('Asha' Variety)](migrated-ca-note-sec6-71).*"
     }
   ],
   "metadata": {
@@ -49,6 +32,17 @@
       "sourceChecksum": "86cfcf05520fbeb0bd0efc0dceaa1c91728fe09de196187a51e4e386a222b261",
       "migrationTimestamp": "2026-08-15T12:19:15.619Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "sectionNumber": 6,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "disposition": "DUPLICATE_DEDUPLICATED",
+    "matchedCanonicalId": "migrated-ca-note-sec6-71",
+    "redirectTarget": "migrated-ca-note-sec6-71",
+    "editorialDecision": "REDIRECT_DUPLICATE",
+    "isStudyMaterial": false
   }
 }

@@ -1,20 +1,25 @@
 {
   "id": "migrated-ca-note-sec1-54",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Mandatory Vehicle-to-Vehicle (V2V) Communication Fitment Mandated from Oct 1, 2028",
+  "type": "ca_note",
   "summary": "Mandatory Vehicle-to-Vehicle (V2V) Communication Fitment Mandated from Oct 1, 2028",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 Mandatory Vehicle-to-Vehicle (V2V) Communication Fitment Mandated from Oct 1, 2028. Key development for Banking & General Awareness."
+    },
+    {
       "type": "bullet_list",
       "items": [
-        "MoRTH proposed mandatory fitment of V2V communication systems for all L, M, N category vehicles manufactured on or after **October 1, 2028** (DoT allocated 5.875–5.925 GHz band)."
+        "MoRTH proposed mandatory fitment of V2V communication systems for all L, M, N category vehicles manufactured on or after **October 1, 2028** (DoT allocated 5.875–5.925 GHz band).",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Mandatory Vehicle."
       ]
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Mandatory Vehicle."
     }
   ],
   "metadata": {
@@ -39,6 +44,16 @@
       "sourceChecksum": "014a074022b54c146c7fa63c79247fb847cbb54abcbd9210d852d8b5ff97dd24",
       "migrationTimestamp": "2026-08-15T12:10:34.066Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

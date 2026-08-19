@@ -1,0 +1,76 @@
+{
+  "id": "migrated-ca-2026-01-sec5-1",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "131 Padma Awards 2026 Announced",
+  "summary": "2026 Republic Day honours list features 5 Padma Vibhushan, 13 Padma Bhushan, and 113 Padma Shri awardees.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 7. 🏆 AWARDS, BOOKS, INDICES & RANKINGS",
+      "text": "🪝 131 Padma Awards 2026 Announced. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Government announced **131 Padma Awards for 2026** (5 Padma Vibhushan, 13 Padma Bhushan, 113 Padma Shri), including 19 women, 6 Foreigners/NRIs/PIOs, and 16 posthumous awardees.",
+        "**Key Awardees**: Rohit Sharma, Harmanpreet Kaur (cricket), Savita Punia (hockey), I.M. Vijayan (football), R. Madhavan (art).",
+        "**Hierarchy**: Bharat Ratna → Padma Vibhushan (2nd) → Padma Bhushan (3rd) → Padma Shri (4th).",
+        "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
+    }
+  ],
+  "intelligence": {
+    "zone": "LIGHT_TOUCH",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 7,
+      "code": "SEC7",
+      "name": "AWARDS, BOOKS, INDICES & RANKINGS",
+      "emoji": "🏆",
+      "fullName": "7. 🏆 AWARDS, BOOKS, INDICES & RANKINGS"
+    },
+    "hook": "🪝 131 Padma Awards 2026 Announced",
+    "examAngle": "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-01-26"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec7",
+      "Current Affairs 2026",
+      "January 2026"
+    ],
+    "date": "2026-01-26",
+    "category": "SEC7",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "January_26.pdf",
+      "sourceId": "migrated-ca-2026-01-sec5-1",
+      "sourceTitle": "131 Padma Awards 2026 Announced",
+      "sourceChecksum": "8e2091def15ee05040d044d74b6d1ac8aa4f541c198ed60ece284fad82f9d65d",
+      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+      "normalizationRuleVersion": "1.0.0-jan2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "LIGHT_TOUCH",
+    "sectionCode": "SEC7",
+    "sectionNumber": 7,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

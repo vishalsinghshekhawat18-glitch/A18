@@ -1,31 +1,28 @@
 {
   "id": "migrated-ca-note-sec4-324",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "SDSN Sustainable Development Report 2026: Finland Ranks #1; India Ranks 94th (Score 68.3)",
+  "type": "ca_note",
   "summary": "India climbs 18 places since 2015 with 33.3% of SDG targets on track for 2030.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "India climbs 18 places since 2015 with 33.3% of SDG targets on track for 2030."
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 SDSN Sustainable Development Report 2026: Finland Ranks #1; India Ranks 94th (Score 68.3). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "India climbs 18 places since 2015 with 33.3% of SDG targets on track for 2030.",
         "Global Rankings: Finland #1 for 2nd year, followed by Sweden & Denmark; South Sudan bottom.",
         "India Performance: India ranks 94th with score of 68.3/100 (up from 99th in 2025 and 112th in 2015).",
-        "Key Challenges: Zero Hunger (SDG 2) most pressing concern; per capita CO2 emissions 2.21 tonnes."
+        "Key Challenges: Zero Hunger (SDG 2) most pressing concern; per capita CO2 emissions 2.21 tonnes.",
+        "India SDG rank 2026 (94th) vs 2025 (99th) vs overall score (68.3).",
+        "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "NITI Aayog tracks domestic SDG progress via SDG India Index."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "India SDG rank 2026 (94th) vs 2025 (99th) vs overall score (68.3)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of SDSN Sustainable Development Report 2026."
     }
   ],
   "metadata": {
@@ -50,6 +47,16 @@
       "sourceChecksum": "4b772e7b43aeef5410ba8cc8c4c860bbc1e328c34c0c67cb7f4c933d77dfffa3",
       "migrationTimestamp": "2026-08-15T12:16:15.974Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

@@ -1,25 +1,27 @@
 {
   "id": "migrated-ca-note-sec1-105",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Cabinet Approves ₹23,731 Crore GOBARdhan Bioenergy Scheme (FY27 to FY36)",
+  "type": "ca_note",
   "summary": "Accelerates organic waste conversion into compressed biogas (CBG) under National Circular Bioenergy Scheme.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Accelerates organic waste conversion into compressed biogas (CBG) under National Circular Bioenergy Scheme."
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 Cabinet Approves ₹23,731 Crore GOBARdhan Bioenergy Scheme (FY27 to FY36). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Accelerates organic waste conversion into compressed biogas (CBG) under National Circular Bioenergy Scheme.",
         "Scheme Name: Galvanizing Organic Bio-Agro Resources Dhan (GOBARdhan).",
-        "Total Financial Outlay: ₹23,731 crore for 10-year implementation (FY 2026-27 to FY 2035-36)."
+        "Total Financial Outlay: ₹23,731 crore for 10-year implementation (FY 2026-27 to FY 2035-36).",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
       ]
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
     }
   ],
   "metadata": {
@@ -44,6 +46,16 @@
       "sourceChecksum": "a3d84be7d389e2e9b876948a78524a5139d1d61ef41a1aa900135810f0ad0c51",
       "migrationTimestamp": "2026-08-15T12:11:38.419Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

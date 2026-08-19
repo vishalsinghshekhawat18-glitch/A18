@@ -1,36 +1,26 @@
 {
   "id": "migrated-ca-note-sec7-143",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Google Named India's Most Attractive Employer Brand in REBR 2026 Report",
+  "type": "ca_note",
   "summary": "Randstad Employer Brand Research 2026 ranking (followed by Tata Group and Amazon).",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Randstad Employer Brand Research 2026 ranking (followed by Tata Group and Amazon)."
+      "type": "warning_banner",
+      "title": "📰 7. 🏆 AWARDS, BOOKS, INDICES & RANKINGS",
+      "text": "🪝 Google Named India's Most Attractive Employer Brand in REBR 2026 Report. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Randstad Employer Brand Research 2026 ranking (followed by Tata Group and Amazon).",
         "Google ranked India's Most Attractive Employer Brand 2026 in Randstad Employer Brand Research (REBR) report.",
-        "Followed by Tata Consultancy Services (TCS) at #2 and Microsoft India at #3."
+        "Followed by Tata Consultancy Services (TCS) at #2 and Microsoft India at #3.",
+        "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Award Title",
-        "Recipient / Winner",
-        "Conferred By / Key Detail"
-      ],
-      "rows": [
-        [
-          "Google Named India's Most Attractive Employer Brand in REBR 2026 Report",
-          "Google ranked India's Most Attractive Employer Brand 2026 in Randstad Employer Brand Research (REBR) report.",
-          "Annual Recognition"
-        ]
-      ]
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
     }
   ],
   "metadata": {
@@ -55,6 +45,16 @@
       "sourceChecksum": "90678ffc24daee3856b0d02bb32cb99fb86e37116a919055b48d64d93759bf72",
       "migrationTimestamp": "2026-08-15T12:12:07.934Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC7",
+    "sectionNumber": 7,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

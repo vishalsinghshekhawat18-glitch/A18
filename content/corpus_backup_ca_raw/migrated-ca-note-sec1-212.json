@@ -1,0 +1,78 @@
+{
+  "id": "migrated-ca-note-sec1-212",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "NSO Report: Regular Salary Employment Higher in Million-Plus Cities (58.5% vs 47.6% Urban India)",
+  "summary": "Highlights urban employment structure across 46 million-plus population cities under PLFS 2025 survey.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 NSO Report: Regular Salary Employment Higher in Million-Plus Cities (58.5% vs 47.6% Urban India). Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Highlights urban employment structure across 46 million-plus population cities under PLFS 2025 survey.",
+        "Unemployment Rate: Average unemployment across 46 million-plus cities stood at 6.8% (Prayagraj & Patna >20%; Ahmedabad & Kolkata <2.5%).",
+        "Regular vs Casual Jobs: Regular wage/salary jobs accounted for 58.5% in million-plus cities (vs 47.6% urban India); casual labor stood at 6.3% (vs 12% urban India).",
+        "Female Participation: Female regular employment reached 65.1% in million-plus cities, surpassing male counterparts (56.4%).",
+        "Earnings Comparison: Self-employed earned ₹30,858/month (vs ₹23,013 urban India); regular employees ₹28,808 (vs ₹26,258); casual labour ₹624/day (vs ₹550).",
+        "Female regular job rate in million-plus cities (65.1%) vs male rate (56.4%).",
+        "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of NSO Report."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 1,
+      "code": "SEC1",
+      "name": "ESI, FINANCE & BUSINESS NEWS",
+      "emoji": "💰",
+      "fullName": "1. 💰 ESI, FINANCE & BUSINESS NEWS"
+    },
+    "hook": "🪝 NSO Report: Regular Salary Employment Higher in Million-Plus Cities (58.5% vs 47.6% Urban India)",
+    "examAngle": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of NSO Report.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-07-07"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-07",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:47.645Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-212",
+      "sourceTitle": "NSO Report: Regular Salary Employment Higher in Million-Plus Cities (58.5% vs 47.6% Urban India)",
+      "sourceChecksum": "2d11084e517e7c561a466e21afc95a2be3c0c554c86a78ae5eeaefbba9b923f7",
+      "migrationTimestamp": "2026-08-15T12:13:47.645Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

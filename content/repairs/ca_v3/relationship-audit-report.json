@@ -1,0 +1,67 @@
+{
+  "version": "2.0.0-r4ca2-relationship-audit",
+  "generatedAt": "2026-08-18T14:31:03.460Z",
+  "candidateRelationshipsCount": 39,
+  "exactDuplicatesCount": 7,
+  "chronologicalUpdatesCount": 4,
+  "relatedButDistinctCount": 28,
+  "exactDuplicates": [
+    {
+      "id": "migrated-ca-note-sec2-386",
+      "canonicalId": "migrated-ca-2026-03-sec1-3",
+      "reason": "Exact duplicate of migrated-ca-2026-03-sec1-3 (EPFO Retains PF Interest Rate at 8.25% for FY26 (3rd Consecutive Year))"
+    },
+    {
+      "id": "migrated-ca-note-sec1-303",
+      "canonicalId": "migrated-ca-2026-03-sec10-1",
+      "reason": "Exact duplicate of migrated-ca-2026-03-sec10-1 (VB-G RAM G Act, 2025 Replaces MGNREGA — Wage Guarantee Raised to 125 Days)"
+    },
+    {
+      "id": "migrated-ca-2026-05-sec11-1",
+      "canonicalId": "migrated-ca-2026-04-sec11-1",
+      "reason": "Exact duplicate of migrated-ca-2026-04-sec11-1 (April 2026 High-Yield Exam Rapid Recall & Summary)"
+    },
+    {
+      "id": "migrated-ca-note-sec1-309",
+      "canonicalId": "migrated-ca-note-sec2-388",
+      "reason": "Exact duplicate of migrated-ca-note-sec2-388 (MCA Launches 'Corporate Mitra' Scheme for MSME Compliance Training)"
+    },
+    {
+      "id": "migrated-ca-note-sec3-168",
+      "canonicalId": "migrated-ca-note-sec1-35",
+      "reason": "Exact duplicate of migrated-ca-note-sec1-35 (NCDEX Launches 'NCDEX Nidhi' Mutual Fund Transaction Platform)"
+    },
+    {
+      "id": "migrated-ca-note-sec6-440",
+      "canonicalId": "migrated-ca-note-sec6-71",
+      "reason": "Exact duplicate of migrated-ca-note-sec6-71 (ICAR Develops India's First Complete Pigeonpea Genome ('Asha' Variety))"
+    },
+    {
+      "id": "migrated-ca-note-sec8-144",
+      "canonicalId": "migrated-ca-note-sec8-94",
+      "reason": "Exact duplicate of migrated-ca-note-sec8-94 (12th National Handloom Day Observed on 7th August)"
+    }
+  ],
+  "chronologicalUpdates": [
+    {
+      "id": "migrated-ca-2026-04-sec10-1",
+      "parentId": "migrated-ca-2026-01-sec1-2",
+      "reason": "Chronological update to migrated-ca-2026-01-sec1-2 (2026-01-26 -> 2026-04-15)"
+    },
+    {
+      "id": "migrated-ca-note-sec10-157",
+      "parentId": "migrated-ca-2026-02-sec10-2",
+      "reason": "Chronological update to migrated-ca-2026-02-sec10-2 (2026-02-15 -> 2026-08-02)"
+    },
+    {
+      "id": "migrated-ca-note-sec2-396",
+      "parentId": "migrated-ca-2026-03-sec2-3",
+      "reason": "Chronological update to migrated-ca-2026-03-sec2-3 (2026-03-15 -> 2026-06-18)"
+    },
+    {
+      "id": "migrated-ca-note-sec4-202",
+      "parentId": "migrated-ca-note-sec2-238",
+      "reason": "Chronological update to migrated-ca-note-sec2-238 (2026-07-02 -> 2026-08-06)"
+    }
+  ]
+}

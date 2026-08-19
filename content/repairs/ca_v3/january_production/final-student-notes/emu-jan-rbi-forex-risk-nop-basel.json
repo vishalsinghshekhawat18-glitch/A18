@@ -1,0 +1,36 @@
+{
+  "id": "emu-jan-rbi-forex-risk-nop-basel",
+  "title": "🏛️ RBI Draft Directions — Daily Net Open Position (NOP) & Basel-Aligned Forex Risk Capital",
+  "category": "SEC2",
+  "tier": "TIER_A",
+  "theme": "Forex Risk Management & Basel Capital Standards",
+  "summary": "RBI proposed revised continuous daily computation of NOP and capital charges for foreign exchange risk effective April 1, 2027, removing separate offshore/onshore NOP and extending rules to SFBs and RRB Authorised Dealers.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "**Overview**: RBI proposed revised continuous daily computation of NOP and capital charges for foreign exchange risk effective April 1, 2027, removing separate offshore/onshore NOP and extending rules to SFBs and RRB Authorised Dealers."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**RBI Draft Directions Align Net Open Position (NOP) & Forex Risk with Basel Standards** (Page 28): RBI proposed revised continuous daily computation of NOP and capital charges for foreign exchange risk effective April 1, 2027, removing separate offshore/onshore NOP and extending rules to SFBs and RRB Authorised Dealers."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Forex Risk Management & Basel Capital Standards. Enforces daily continuous NOP calculations and forex capital charges aligned with BCBS standards effective 1 April 2027."
+    }
+  ],
+  "metadata": {
+    "provenancePages": [
+      28
+    ],
+    "constituentArticleCount": 1,
+    "provenanceArticleIds": [
+      "jan-art-47"
+    ],
+    "statutoryConcept": "Forex Risk Management & Basel Capital Standards",
+    "whyStandalone": "Enforces daily continuous NOP calculations and forex capital charges aligned with BCBS standards effective 1 April 2027."
+  }
+}

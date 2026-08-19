@@ -1,0 +1,76 @@
+{
+  "id": "migrated-ca-2026-02-sec1-4",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Proposal to Raise FDI Cap in Public Sector Banks to 49%",
+  "summary": "Government considers raising FDI (foreign direct investment with management stake) limit in PSBs from 20% to 49% while retaining minimum 51% state ownership.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 5. 🤝 MoUs, CONFERENCES & APPOINTMENTS",
+      "text": "🪝 Proposal to Raise FDI Cap in Public Sector Banks to 49%. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Inter-ministerial discussions are underway to **raise the FDI (foreign direct investment with management stake) ceiling in Public Sector Banks from 20% to 49%** (govt must retain ≥51% stake) to build 3–4 globally-scaled Indian banks.",
+        "**Private Banks Comparison**: Private banks allow up to 74% FDI (single foreign institution capped at 15%).",
+        "**Highest PSB Foreign Holding**: SBI (11.07%) > Canara Bank (10.55%) > Bank of Baroda (9.43%).",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
+    }
+  ],
+  "intelligence": {
+    "zone": "LIGHT_TOUCH",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 5,
+      "code": "SEC5",
+      "name": "MoUs, CONFERENCES & APPOINTMENTS",
+      "emoji": "🤝",
+      "fullName": "5. 🤝 MoUs, CONFERENCES & APPOINTMENTS"
+    },
+    "hook": "🪝 Proposal to Raise FDI Cap in Public Sector Banks to 49%",
+    "examAngle": "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-02-15"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026",
+      "February 2026"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "migrated-ca-2026-02-sec1-4",
+      "sourceTitle": "Proposal to Raise FDI Cap in Public Sector Banks to 49%",
+      "sourceChecksum": "a374e94866099ebdc475e4e376fba405918fe248b831908e3a5be5093ac380ce",
+      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+      "normalizationRuleVersion": "1.0.0-feb2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "LIGHT_TOUCH",
+    "sectionCode": "SEC5",
+    "sectionNumber": 5,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "migrated-ca-note-sec2-230",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Microsoft India & FITT IIT Delhi Launch UNNATI AI 2.0 for Tier 2/3 Cities",
+  "summary": "Democratizes AI access and nurtures deep-tech startups across non-metro hubs.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 Microsoft India & FITT IIT Delhi Launch UNNATI AI 2.0 for Tier 2/3 Cities. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Democratizes AI access and nurtures deep-tech startups across non-metro hubs.",
+        "CSR Initiative: Launched by Microsoft India and Foundation for Innovation and Technology Transfer (FITT), IIT Delhi.",
+        "Focus: Grassroots AI talent development and startup incubation in Tier 2 and Tier 3 cities.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 2,
+      "code": "SEC2",
+      "name": "REGULATORY BODIES NEWS",
+      "emoji": "🏛️",
+      "fullName": "2. 🏛️ REGULATORY BODIES NEWS"
+    },
+    "hook": "🪝 Microsoft India & FITT IIT Delhi Launch UNNATI AI 2.0 for Tier 2/3 Cities",
+    "examAngle": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-07-25"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-25",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:29.730Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-230",
+      "sourceTitle": "Microsoft India & FITT IIT Delhi Launch UNNATI AI 2.0 for Tier 2/3 Cities",
+      "sourceChecksum": "a8cd0377edbaed3f057ce7203047d7cef07a27df811402c26fbef67d0ad527f2",
+      "migrationTimestamp": "2026-08-15T12:14:29.730Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

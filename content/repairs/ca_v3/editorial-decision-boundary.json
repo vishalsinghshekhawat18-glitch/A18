@@ -1,0 +1,31 @@
+{
+  "version": "1.0.0-decision-boundary",
+  "timestamp": "2026-08-18T17:32:29.989Z",
+  "evaluationDimensions": [
+    "STORY_IDENTITY",
+    "TEMPORAL_RELATIONSHIP",
+    "KNOWLEDGE_PARENT",
+    "SHARED_EXAM_CONCEPT",
+    "STATIC_ANCHOR",
+    "UNIQUE_EXAM_IDENTITY",
+    "RETRIEVAL_INTERFERENCE",
+    "ATTENTION_COST"
+  ],
+  "relationshipTypes": [
+    "SAME_STORY",
+    "CHRONOLOGICAL_UPDATE",
+    "SUB_EVENT_OF_PARENT",
+    "CROSS_DOMAIN_LINK",
+    "BENEFICIAL_CLUSTER",
+    "KEEP_SEPARATE",
+    "SKIP_LOW_YIELD"
+  ],
+  "prohibitedMergeRules": [
+    "NO category-based merge",
+    "NO institution-based merge",
+    "NO ministry-based merge",
+    "NO section-based merge",
+    "NO month-based merge"
+  ],
+  "totalAnchorsDefined": 46
+}

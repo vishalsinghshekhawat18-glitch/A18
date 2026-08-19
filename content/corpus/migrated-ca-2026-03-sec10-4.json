@@ -1,13 +1,24 @@
 {
   "id": "migrated-ca-2026-03-sec10-4",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "RCS-Modified UDAN Approved — ₹28,840 Crore Over 10 Years",
+  "type": "ca_note",
   "summary": "Cabinet refreshes UDAN scheme with ₹28,840 crore outlay for 100 new airports and 200 helipads across FY27-FY36.",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 RCS-Modified UDAN Approved — ₹28,840 Crore Over 10 Years. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Union Cabinet approved **Modified UDAN (FY2026-27 to 2035-36)** with **₹28,840 crore allocation** to add 100 new airports and 200 helipads.",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
+      ]
+    },
+    {
       "type": "paragraph",
-      "content": "Union Cabinet approved **Modified UDAN (FY2026-27 to 2035-36)** with **₹28,840 crore allocation** to add 100 new airports and 200 helipads."
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
     }
   ],
   "metadata": {
@@ -33,6 +44,16 @@
       "sourceChecksum": "7ae887143a4dea4bc6c69650b2172a20b7cb9ccf5c2f720e376d8e3a3ebf33ef",
       "migrationTimestamp": "2026-08-16T11:13:16.778Z",
       "normalizationRuleVersion": "1.0.0-mar2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "LIGHT_TOUCH",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

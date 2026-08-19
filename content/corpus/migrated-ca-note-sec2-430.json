@@ -1,31 +1,28 @@
 {
   "id": "migrated-ca-note-sec2-430",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "DFS Launches 'Common Landing Portal for Unclaimed Financial Assets' (PSBA)",
+  "type": "ca_note",
   "summary": "Unified platform www.unclaimedassetsportal.in connects unclaimed deposits, insurance claims, and shares.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Unified platform www.unclaimedassetsportal.in connects unclaimed deposits, insurance claims, and shares."
+      "type": "warning_banner",
+      "title": "📰 3. 🏦 BANKING & INSURANCE NEWS",
+      "text": "🪝 DFS Launches 'Common Landing Portal for Unclaimed Financial Assets' (PSBA). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Unified platform www.unclaimedassetsportal.in connects unclaimed deposits, insurance claims, and shares.",
         "Unclaimed Assets Portal: Developed in collaboration with Public Sector Bank Alliance (PSBA) covering 12 PSBs.",
         "Financial Scope: Provides single search for unclaimed bank deposits, insurance claims, shares, dividends, and mutual funds.",
-        "Campaign Link: Builds on nationwide 'Aapki Punji, Aapka Adhikar' (Your Money, Your Right) campaign."
+        "Campaign Link: Builds on nationwide 'Aapki Punji, Aapka Adhikar' (Your Money, Your Right) campaign.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Public Sector Bank Alliance (PSBA) MD & CEO: Eric de Souza."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
     }
   ],
   "metadata": {
@@ -50,6 +47,16 @@
       "sourceChecksum": "fb6c55c8b527b0b28a4d1b5d2667e3704e01567111ef8d3319c55c11fa63ef1f",
       "migrationTimestamp": "2026-08-15T12:19:15.619Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC3",
+    "sectionNumber": 3,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

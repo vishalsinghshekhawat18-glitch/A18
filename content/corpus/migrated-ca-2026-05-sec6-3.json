@@ -1,13 +1,24 @@
 {
   "id": "migrated-ca-2026-05-sec6-3",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "India & Italy Elevate Bilateral Relations to 'Special Strategic Partnership'",
+  "type": "ca_note",
   "summary": "PM Modi & Italian PM Giorgia Meloni sign Defence Industrial Roadmap and set €20 billion annual bilateral trade target by 2029.",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS",
+      "text": "🪝 India & Italy Elevate Bilateral Relations to 'Special Strategic Partnership'. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "India and Italy elevated ties to a **Special Strategic Partnership** during PM Modi's visit to Rome, adopting an India-Italy Defence Industrial Roadmap and targeting €20B trade by 2029.",
+        "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
+      ]
+    },
+    {
       "type": "paragraph",
-      "content": "India and Italy elevated ties to a **Special Strategic Partnership** during PM Modi's visit to Rome, adopting an India-Italy Defence Industrial Roadmap and targeting €20B trade by 2029."
+      "content": "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
     }
   ],
   "metadata": {
@@ -33,6 +44,16 @@
       "sourceChecksum": "3fa73649b8f5de55679bbb0a45412241808f362129d374e1c381acad50d4cc63",
       "migrationTimestamp": "2026-08-16T16:10:30.135Z",
       "normalizationRuleVersion": "1.0.0-may2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "sectionNumber": 6,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 82
   }
 }

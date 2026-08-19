@@ -1,28 +1,35 @@
 {
   "id": "migrated-ca-note-sec2-116",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "RBI Issues Technology-Based Loan Recovery Norms & Phone Lock Restrictions (Effective Jan 1, 2027)",
+  "type": "ca_note",
   "summary": "Curbs predatory recovery agent practices and regulates digital mobile loan lock mechanisms.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Curbs predatory recovery agent practices and regulates digital mobile loan lock mechanisms."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 RBI Issues Technology-Based Loan Recovery Norms & Phone Lock Restrictions (Effective Jan 1, 2027). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Curbs predatory recovery agent practices and regulates digital mobile loan lock mechanisms.",
         "Implementation Date: Effective January 1, 2027 (extended from October 1, 2026).",
         "Contact Hours: Recovery agents allowed to contact borrowers only between 8:00 AM and 7:00 PM.",
         "Phone Lock Restrictions: No restriction activation until 30 days past due; complete loan restrictions permitted only after 60 days past due.",
         "Mandated Exemptions: Banks CANNOT disable incoming calls, SMS, or emergency SOS functions.",
-        "Compensation Penalty: Restoration required within 1 hour post-payment; bank delay penalty of ₹250/hour capped at loan amount."
+        "Compensation Penalty: Restoration required within 1 hour post-payment; bank delay penalty of ₹250/hour capped at loan amount.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -47,6 +54,16 @@
       "sourceChecksum": "973c9d3310943e4d622147eb06f97f55268343f6b59420417e9ba9d7d28db26c",
       "migrationTimestamp": "2026-08-15T12:11:38.420Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

@@ -1,0 +1,31 @@
+{
+  "version": "1.0.0-multisource-duplication",
+  "timestamp": "2026-08-18T17:32:30.000Z",
+  "scalingTestResults": [
+    {
+      "sourceMultiplier": "1x (368 articles)",
+      "memoryUnitsProduced": 43,
+      "tierAMasterUnits": 23,
+      "isInvariant": true
+    },
+    {
+      "sourceMultiplier": "2x (736 articles)",
+      "memoryUnitsProduced": 43,
+      "tierAMasterUnits": 23,
+      "isInvariant": true
+    },
+    {
+      "sourceMultiplier": "5x (1840 articles)",
+      "memoryUnitsProduced": 43,
+      "tierAMasterUnits": 23,
+      "isInvariant": true
+    },
+    {
+      "sourceMultiplier": "10x (3680 articles)",
+      "memoryUnitsProduced": 43,
+      "tierAMasterUnits": 23,
+      "isInvariant": true
+    }
+  ],
+  "multiSourceInvariance": "PASSED (Memory unit count is completely invariant to source frequency)"
+}

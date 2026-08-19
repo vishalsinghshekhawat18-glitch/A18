@@ -1,20 +1,24 @@
 {
   "id": "migrated-ca-2026-01-sec6-1",
+  "title": "🔬 Supercomputing Mission — ‘PARAM SHAKTI’ Supercomputer (PARAM RUDRA Architecture) at IIT Madras",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "PM-RKVY Absorbs 3 Agriculture Schemes into ₹1.75 Lakh Crore Umbrella",
-  "summary": "PM-RKVY folds Krishonnati Yojana, Natural Farming, and Honey Mission into 5-year 16th Finance Commission cycle.",
+  "summary": "MeitY Secretary S. Krishnan inaugurated PARAM SHAKTI supercomputing facility powered by indigenous PARAM RUDRA servers developed by C-DAC under National Supercomputing Mission.",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "Cabinet approved restructuring PM-RKVY into a **₹1.75 lakh crore umbrella scheme** over 5 years (FY26–FY31), merging three major agri-programmes."
+      "content": "**Overview**: MeitY Secretary S. Krishnan inaugurated PARAM SHAKTI supercomputing facility powered by indigenous PARAM RUDRA servers developed by C-DAC under National Supercomputing Mission."
     },
     {
       "type": "bullet_list",
       "items": [
-        "**Absorbed Schemes**: Krishonnati Yojana, National Mission on Natural Farming, National Bee and Honey Mission.",
-        "**Funding Split**: 60:40 (General States), 90:10 (NE/Himalayan), 100% (UTs)."
+        "**MeitY Launches ‘PARAM SHAKTI’ Supercomputer (PARAM RUDRA Architecture) at IIT Madras** (Page 108): MeitY Secretary S. Krishnan inaugurated PARAM SHAKTI supercomputing facility powered by indigenous PARAM RUDRA servers developed by C-DAC under National Supercomputing Mission."
       ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under National Supercomputing & High-Performance Computing. MeitY launched PARAM SHAKTI facility at IIT Madras powered by C-DAC's indigenous PARAM RUDRA servers."
     }
   ],
   "metadata": {
@@ -24,22 +28,36 @@
       "SBI PO"
     ],
     "tags": [
-      "sec10",
+      "sec6",
       "Current Affairs 2026",
-      "January 2026"
+      "January 2026",
+      "TIER_A"
     ],
-    "date": "2026-01-26",
-    "category": "SEC10",
-    "difficulty": "intermediate",
-    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "date": "2026-01-15",
+    "category": "SEC6",
+    "difficulty": "hard",
+    "lastUpdated": "2026-08-19T02:37:59.685Z",
     "provenance": {
       "sourceSystem": "CA",
-      "sourceFile": "January_26.pdf",
-      "sourceId": "migrated-ca-2026-01-sec6-1",
-      "sourceTitle": "PM-RKVY Absorbs 3 Agriculture Schemes into ₹1.75 Lakh Crore Umbrella",
-      "sourceChecksum": "334321e860357fa04d623a318f181e8433346f74df3cba59bfc190dbfd0fb74b",
-      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
-      "normalizationRuleVersion": "1.0.0-jan2026"
-    }
-  }
+      "sourceFile": "Jan2026.pdf",
+      "sourceId": "emu-jan-param-shakti-supercomputer",
+      "sourceTitle": "🔬 Supercomputing Mission — ‘PARAM SHAKTI’ Supercomputer (PARAM RUDRA Architecture) at IIT Madras",
+      "provenancePages": [
+        108
+      ],
+      "constituentArticleCount": 1,
+      "migrationTimestamp": "2026-08-19T02:37:59.685Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
+  },
+  "relationships": []
 }

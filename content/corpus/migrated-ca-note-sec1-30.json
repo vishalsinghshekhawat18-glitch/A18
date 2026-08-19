@@ -1,35 +1,27 @@
 {
   "id": "migrated-ca-note-sec1-30",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Government Introduces Bankers' Books Evidence Act, 2026 to Replace 1891 British-Era Law",
+  "type": "ca_note",
   "summary": "Modernizes evidence law by granting digital banking logs primary court admissibility.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Modernizes evidence law by granting digital banking logs primary court admissibility."
+      "type": "warning_banner",
+      "title": "📰 3. 🏦 BANKING & INSURANCE NEWS",
+      "text": "🪝 Government Introduces Bankers' Books Evidence Act, 2026 to Replace 1891 British-Era Law. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Modernizes evidence law by granting digital banking logs primary court admissibility.",
         "📌 **Core Policy Directives & Scope:**\nIntroduced **Bankers' Books Evidence Act, 2026** Bill in Parliament.\nRepeals and replaces the 135-year-old British-era **Bankers' Books Evidence Act, 1891**.",
-        "💰 **Financial Outlays & Operational Rules:**\nCore Reform: Makes **digital and virtual records** admissible primary evidence in court without physical ledger production.\nCovers Core Banking Solutions (CBS) logs, electronic statements, and database microfilms."
+        "💰 **Financial Outlays & Operational Rules:**\nCore Reform: Makes **digital and virtual records** admissible primary evidence in court without physical ledger production.\nCovers Core Banking Solutions (CBS) logs, electronic statements, and database microfilms.",
+        "Bankers' Books Evidence Act, 2026 vs Bankers' Books Evidence Act, 1891.",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Aligned with Bharatiya Sakshya Adhiniyam, 2023."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Bankers' Books Evidence Act, 2026 vs Bankers' Books Evidence Act, 1891."
-    },
-    {
-      "type": "quote",
-      "quote": "Interview Focus Question: \"How does the Bankers' Books Evidence Act 2026 impact banking litigation?\"\n💡 **Model Answer: Legalizes certified digital printouts and encrypted cloud logs as admissible court evidence without physical ledger production.**",
-      "author": "Banking & Regulatory Board Panel"
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
     }
   ],
   "metadata": {
@@ -54,6 +46,16 @@
       "sourceChecksum": "106d15d8da1669ab54ba7f3d39b6e1138658e194192dd001b1735205d30959ba",
       "migrationTimestamp": "2026-08-15T12:10:02.257Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC3",
+    "sectionNumber": 3,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

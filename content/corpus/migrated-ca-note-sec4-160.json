@@ -1,21 +1,25 @@
 {
   "id": "migrated-ca-note-sec4-160",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Ladakh Grants Statutory Protection to 23 Ancient Heritage Sites under J&K Preservation Act",
+  "type": "ca_note",
   "summary": "Ladakh Grants Statutory Protection to 23 Ancient Heritage Sites under J&K Preservation Act",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 Ladakh Grants Statutory Protection to 23 Ancient Heritage Sites under J&K Preservation Act. Key development for Banking & General Awareness."
+    },
     {
       "type": "bullet_list",
       "items": [
         "Notifies 23 ancient forts, monasteries, and petroglyph clusters as 'Protected Monuments' across Leh and Kargil.",
-        "Prominent Monuments: Maitreya Buddha Rock Carving at Shey, Tingmosgang Fort, Ancient Caves at Saspol, and Chamba Karpo at Diggar."
+        "Prominent Monuments: Maitreya Buddha Rock Carving at Shey, Tingmosgang Fort, Ancient Caves at Saspol, and Chamba Karpo at Diggar.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Ladakh Grants Statutory Protection to 23 Ancient Heritage Sites under J&K Preservation Act."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Ladakh carved out as UT on October 31, 2019 | Lieutenant Governor: Vinai Kumar Saxena."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Ladakh Grants Statutory Protection to 23 Ancient Heritage Sites under J&K Preservation Act."
     }
   ],
   "metadata": {
@@ -40,6 +44,16 @@
       "sourceChecksum": "b785ef44b9e77476376ee727cc189931433d2f49b1a1c2d2599bd951cc80465d",
       "migrationTimestamp": "2026-08-15T12:12:37.958Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

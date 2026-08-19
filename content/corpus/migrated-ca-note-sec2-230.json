@@ -1,30 +1,27 @@
 {
   "id": "migrated-ca-note-sec2-230",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Microsoft India & FITT IIT Delhi Launch UNNATI AI 2.0 for Tier 2/3 Cities",
+  "type": "ca_note",
   "summary": "Democratizes AI access and nurtures deep-tech startups across non-metro hubs.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Democratizes AI access and nurtures deep-tech startups across non-metro hubs."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 Microsoft India & FITT IIT Delhi Launch UNNATI AI 2.0 for Tier 2/3 Cities. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Democratizes AI access and nurtures deep-tech startups across non-metro hubs.",
         "CSR Initiative: Launched by Microsoft India and Foundation for Innovation and Technology Transfer (FITT), IIT Delhi.",
-        "Focus: Grassroots AI talent development and startup incubation in Tier 2 and Tier 3 cities."
+        "Focus: Grassroots AI talent development and startup incubation in Tier 2 and Tier 3 cities.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "IIT Delhi Director: Rangan Banerjee | Microsoft CEO: Satya Nadella."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -49,6 +46,16 @@
       "sourceChecksum": "a8cd0377edbaed3f057ce7203047d7cef07a27df811402c26fbef67d0ad527f2",
       "migrationTimestamp": "2026-08-15T12:14:29.730Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

@@ -1,0 +1,43 @@
+{
+  "id": "emu-jan-indigenous-defence-modernisation",
+  "title": "🛡️ Strategic Indigenous Defence — Dhruv-NG Shakti Engine, ICGS Samudra Pratap & Scramjet (>Mach 5)",
+  "category": "SEC6",
+  "tier": "TIER_A",
+  "theme": "Defence Indigenisation & Strategic Propulsion",
+  "summary": "HAL completed maiden flight of 5.5-tonne Dhruv New Generation (NG) twin-engine helicopter in Bengaluru and received DGCA certification for Shakti Civil Engine.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "**Overview**: HAL completed maiden flight of 5.5-tonne Dhruv New Generation (NG) twin-engine helicopter in Bengaluru and received DGCA certification for Shakti Civil Engine."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**HAL Conducts Maiden Flight of Dhruv-NG Helicopter with Indigenous Shakti Civil Engine** (Page 110): HAL completed maiden flight of 5.5-tonne Dhruv New Generation (NG) twin-engine helicopter in Bengaluru and received DGCA certification for Shakti Civil Engine.",
+        "**Defence Minister Rajnath Singh Commissions ICGS Samudra Pratap Pollution Control Vessel** (Page 110): Goa Shipyard Limited built ICGS Samudra Pratap, 1st of two indigenously designed Pollution Control Vessels (60%+ indigenous content), commissioned at Goa.",
+        "**DRDO Successfully Tests Long-Duration Actively Cooled Scramjet Engine (>Mach 5) at DRDL** (Page 112): DRDO conducted ground test of full-scale actively cooled scramjet engine at DRDL SCPT facility in Hyderabad for hypersonic cruise missiles (>Mach 5).",
+        "**DRDO Flight-Tests 3rd Gen MPATGM with Top Attack Capability Against Moving Target** (Page 112): DRDO successfully tested 3rd generation Fire & Forget Man Portable Anti-Tank Guided Missile (MPATGM) with IIR homing seeker and tandem warhead at KK Ranges, Ahilya Nagar."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Defence Indigenisation & Strategic Propulsion. Major defence milestones: Dhruv-NG helicopter maiden flight with Shakti engine, ICGS Samudra Pratap PCV, DRDO Scramjet ground test, and 3rd Gen MPATGM."
+    }
+  ],
+  "metadata": {
+    "provenancePages": [
+      110,
+      112
+    ],
+    "constituentArticleCount": 4,
+    "provenanceArticleIds": [
+      "jan-art-151",
+      "jan-art-152",
+      "jan-art-155",
+      "jan-art-156"
+    ],
+    "statutoryConcept": "Defence Indigenisation & Strategic Propulsion",
+    "whyStandalone": "Major defence milestones: Dhruv-NG helicopter maiden flight with Shakti engine, ICGS Samudra Pratap PCV, DRDO Scramjet ground test, and 3rd Gen MPATGM."
+  }
+}

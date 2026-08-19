@@ -1,20 +1,25 @@
 {
   "id": "migrated-ca-note-sec1-51",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Istanbul, Türkiye to Host 49th Session of UNESCO World Heritage Committee in 2027",
+  "type": "ca_note",
   "summary": "Istanbul, Türkiye to Host 49th Session of UNESCO World Heritage Committee in 2027",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 Istanbul, Türkiye to Host 49th Session of UNESCO World Heritage Committee in 2027. Key development for Banking & General Awareness."
+    },
+    {
       "type": "bullet_list",
       "items": [
-        "49th session of UNESCO WHC will be held from June 27 to July 7, 2027 in **Istanbul, Türkiye**."
+        "49th session of UNESCO WHC will be held from June 27 to July 7, 2027 in **Istanbul, Türkiye**.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Istanbul, Türkiye to Host 49th Session of UNESCO World Heritage Committee in 2027."
       ]
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Istanbul, Türkiye to Host 49th Session of UNESCO World Heritage Committee in 2027."
     }
   ],
   "metadata": {
@@ -39,6 +44,16 @@
       "sourceChecksum": "bb4e611f29496eb6bbaf459f477baea7157343ef88cb6668cecc94cb91df7f4a",
       "migrationTimestamp": "2026-08-15T12:10:34.065Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

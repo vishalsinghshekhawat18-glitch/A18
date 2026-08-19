@@ -1,31 +1,28 @@
 {
   "id": "migrated-ca-ca-2026-08-11-asian-junior-weightlifting-2026",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "India Wins Gold & Silver Medals at Asian Junior Weightlifting Championships in Tashkent",
+  "type": "ca_note",
   "summary": "Tomchou Meetei won Gold (266kg) and Gurunaidu Sanapathi won Silver (265kg) in Men's 60kg at Asian Junior Weightlifting.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Tomchou Meetei won Gold (266kg) and Gurunaidu Sanapathi won Silver (265kg) in Men's 60kg at Asian Junior Weightlifting."
+      "type": "warning_banner",
+      "title": "📰 6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS",
+      "text": "🪝 India Wins Gold & Silver Medals at Asian Junior Weightlifting Championships in Tashkent. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Tomchou Meetei won Gold (266kg) and Gurunaidu Sanapathi won Silver (265kg) in Men's 60kg at Asian Junior Weightlifting.",
         "**Men's 60kg Category:** Tomchou Meetei won **Gold** (266 kg); Gurunaidu Sanapathi won **Silver** (265 kg).",
         "**Men's 65kg Category:** Maharajan Arumugapandian won **Silver**.",
-        "**Women's 45kg Category:** Titli Maji won **Silver**."
+        "**Women's 45kg Category:** Titli Maji won **Silver**.",
+        "≠ **Gold Winner:** Tomchou Meetei won Gold in Men's 60kg.",
+        "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Venue: Tashkent, Uzbekistan."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "≠ **Gold Winner:** Tomchou Meetei won Gold in Men's 60kg."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
     }
   ],
   "metadata": {
@@ -39,7 +36,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-08-11",
-    "category": "SEC10",
+    "category": "SEC6",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:19:51.523Z",
     "provenance": {
@@ -50,6 +47,16 @@
       "sourceChecksum": "1db3ac602d121a8ba300e04cdd2db2e6f229de97347f57c9fc683626ed15bffe",
       "migrationTimestamp": "2026-08-15T12:19:51.523Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "sectionNumber": 6,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 82
   }
 }

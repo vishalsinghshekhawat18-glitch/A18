@@ -1,46 +1,27 @@
 {
   "id": "migrated-ca-note-sec7-316",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Parveen Shaikh & Barkha Subba Conferred 2026 Whitley Award ('Green Oscar') in London",
+  "type": "ca_note",
   "summary": "Recognized for conserving the Indian Skimmer (Chambal River) and Himalayan Salamander (Darjeeling).",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Recognized for conserving the Indian Skimmer (Chambal River) and Himalayan Salamander (Darjeeling)."
+      "type": "warning_banner",
+      "title": "📰 7. 🏆 AWARDS, BOOKS, INDICES & RANKINGS",
+      "text": "🪝 Parveen Shaikh & Barkha Subba Conferred 2026 Whitley Award ('Green Oscar') in London. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Recognized for conserving the Indian Skimmer (Chambal River) and Himalayan Salamander (Darjeeling).",
         "Indian Awardees: Parveen Shaikh (BNHS, Indian Skimmer) and Barkha Subba (FSEP, Himalayan Salamander).",
-        "Award Details: Conferred by UK's Princess Anne at Royal Geographical Society, London (£50,000 funding)."
+        "Award Details: Conferred by UK's Princess Anne at Royal Geographical Society, London (£50,000 funding).",
+        "Parveen Shaikh species focus (Indian Skimmer) vs Barkha Subba species focus (Himalayan Salamander).",
+        "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Award Title",
-        "Recipient / Winner",
-        "Conferred By / Key Detail"
-      ],
-      "rows": [
-        [
-          "Parveen Shaikh & Barkha Subba Conferred 2026 Whitley Award ('Green Oscar') in London",
-          "Indian Awardees: Parveen Shaikh (BNHS, Indian Skimmer) and Barkha Subba (FSEP, Himalayan Salamander).",
-          "Whitley Fund for Nature (UK) institutes the annual Whitley Awards."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Whitley Fund for Nature (UK) institutes the annual Whitley Awards."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Parveen Shaikh species focus (Indian Skimmer) vs Barkha Subba species focus (Himalayan Salamander)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
     }
   ],
   "metadata": {
@@ -65,6 +46,16 @@
       "sourceChecksum": "97f7c4f345748d69824a7a5b6e312fabc824d55ed25c6ba3d962530ac9e2ba6b",
       "migrationTimestamp": "2026-08-15T12:16:15.973Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC7",
+    "sectionNumber": 7,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

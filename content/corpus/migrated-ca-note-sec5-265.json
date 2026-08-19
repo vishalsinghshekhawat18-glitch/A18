@@ -1,46 +1,27 @@
 {
   "id": "migrated-ca-note-sec5-265",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "IRDAI Grants Health Insurance License to Prudential HCL Joint Venture",
+  "type": "ca_note",
   "summary": "Grants standalone health insurance registration to Prudential HCL Health Insurance (70:30 JV).",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Grants standalone health insurance registration to Prudential HCL Health Insurance (70:30 JV)."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 IRDAI Grants Health Insurance License to Prudential HCL Joint Venture. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Grants standalone health insurance registration to Prudential HCL Health Insurance (70:30 JV).",
         "Equity Structure: Prudential plc holds 70% stake, HCL Group holds 30% stake.",
-        "Separate Acquisition: Prudential plc acquired 75% stake in Bharti Life Insurance."
+        "Separate Acquisition: Prudential plc acquired 75% stake in Bharti Life Insurance.",
+        "Prudential stake in Prudential HCL Health (70%) vs stake in Bharti Life (75%).",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Appointee / Official",
-        "New Position & Organization",
-        "Key Context & Details"
-      ],
-      "rows": [
-        [
-          "IRDAI Grants Health Insurance License to Prudential HCL Joint Venture",
-          "Official Appointment",
-          "Equity Structure: Prudential plc holds 70% stake, HCL Group holds 30% stake."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "100% FDI permitted in Indian insurance sector under automatic route."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Prudential stake in Prudential HCL Health (70%) vs stake in Bharti Life (75%)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -65,6 +46,16 @@
       "sourceChecksum": "bb74417d865a736c9cd4671f2927f5a437b926784f63be9ba2afedd3ff2136fe",
       "migrationTimestamp": "2026-08-15T12:15:05.761Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

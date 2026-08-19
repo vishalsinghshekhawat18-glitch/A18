@@ -1,31 +1,33 @@
 {
   "id": "migrated-ca-ca-2026-08-08-sebi-annual-report-retail",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "SEBI Annual Report 2025-26: MF AUM Reaches ₹73.7 Lakh Crore; Unique Investors Surge to 6.1 Crore",
-  "summary": "SEBI Annual Report 2025-26 highlights Mutual Fund AUM expansion to ₹73.7 lakh crore and unique investor growth to 6.1 crore.",
+  "type": "ca_note",
+  "summary": "SEBI Annual Report 2025-26 highlights Mutual Fund AUM (total market value of assets under management) expansion to ₹73.7 lakh crore and unique investor growth to 6.1 crore.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "SEBI Annual Report 2025-26 highlights Mutual Fund AUM expansion to ₹73.7 lakh crore and unique investor growth to 6.1 crore."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 SEBI Annual Report 2025-26: MF AUM Reaches ₹73.7 Lakh Crore; Unique Investors Surge to 6.1 Crore. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
-        "**Mutual Fund AUM Growth:** Indian Mutual Fund AUM grew from **₹31.43 lakh crore (March 2021)** to **₹73.7 lakh crore (March 2026)**.",
+        "SEBI Annual Report 2025-26 highlights Mutual Fund AUM (total market value of assets under management) expansion to ₹73.7 lakh crore and unique investor growth to 6.1 crore.",
+        "**Mutual Fund AUM (total market value of assets under management) Growth:** Indian Mutual Fund AUM (total market value of assets under management) grew from **₹31.43 lakh crore (March 2021)** to **₹73.7 lakh crore (March 2026)**.",
         "**Unique Investors:** Unique MF investors surged to **6.1 crore**, up **13.2% YoY**.",
-        "**Macro Growth Estimates:** Real GDP growth estimated at **7.7% in FY26** (up from 7.1% in FY25); IMF projects **6.5% growth for FY27**."
+        "**Macro Growth Estimates:** Real GDP growth estimated at **7.7% in FY26** (up from 7.1% in FY25); IMF projects **6.5% growth for FY27**.",
+        "≠ **AUM (total market value of assets under management) Growth:** Pay attention: MF AUM (total market value of assets under management) more than doubled over 5 years from ₹31.43L cr (2021) to ₹73.7L cr (2026).",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
       "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "SEBI Established: April 12, 1988 (Statutory status 1992). Chairperson: Tuhin Kanta Pandey."
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "SEBI Established: 12 April 1992 (SEBI Act 1992) · HQ: Mumbai · Regulatory Scope: Securities & Capital Markets"
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "≠ **AUM Growth:** Pay attention: MF AUM more than doubled over 5 years from ₹31.43L cr (2021) to ₹73.7L cr (2026)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -50,6 +52,16 @@
       "sourceChecksum": "06841acd8017fde07dbfac6430147bd36b2c9f3390c2278a56e5da9c1a90c321",
       "migrationTimestamp": "2026-08-15T12:19:15.620Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

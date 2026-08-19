@@ -1,20 +1,31 @@
 {
   "id": "migrated-ca-2026-04-sec3-4",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "RBI Cancels Banking Licence of Paytm Payments Bank Limited",
+  "type": "ca_note",
   "summary": "RBI cancels Paytm Payments Bank's license under Section 22(4) of the Banking Regulation Act, 1949, effective April 24, 2026.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "RBI cancelled the banking licence issued to **Paytm Payments Bank Limited** under Section 22(4) of the Banking Regulation Act, 1949, prohibiting it from conducting any banking business w.e.f. April 24, 2026."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 RBI Cancels Banking Licence of Paytm Payments Bank Limited. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "RBI cancelled the banking licence issued to **Paytm Payments Bank Limited** under Section 22(4) of the Banking Regulation Act, 1949, prohibiting it from conducting any banking business w.e.f. April 24, 2026.",
         "**Reason**: Persistent non-compliance with licensing conditions and management issues prejudicial to public interest (BR Act Sec 22(3)(c) & (g)).",
-        "**Winding Up**: RBI will apply to the High Court for liquidation. Bank has adequate liquidity to repay deposit liabilities."
+        "**Winding Up**: RBI will apply to the High Court for liquidation. Bank has adequate liquidity to repay deposit liabilities.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -29,7 +40,7 @@
       "April 2026"
     ],
     "date": "2026-04-15",
-    "category": "SEC3",
+    "category": "SEC2",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-16T11:56:36.842Z",
     "provenance": {
@@ -40,6 +51,16 @@
       "sourceChecksum": "e5ccd595c9a450f4ed06cf54af4db5f83154c9917d813e5b32f0c7a98542cac4",
       "migrationTimestamp": "2026-08-16T11:56:36.842Z",
       "normalizationRuleVersion": "1.0.0-apr2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

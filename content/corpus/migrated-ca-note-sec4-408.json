@@ -1,25 +1,26 @@
 {
   "id": "migrated-ca-note-sec4-408",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "India's 1st Private Gold Mine Begins Commercial Operations at Jonnagiri (Kurnool, AP)",
+  "type": "ca_note",
   "summary": "Chief Minister N. Chandrababu Naidu inaugurates Geomysore Services primary gold mining project.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Chief Minister N. Chandrababu Naidu inaugurates Geomysore Services primary gold mining project."
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 India's 1st Private Gold Mine Begins Commercial Operations at Jonnagiri (Kurnool, AP). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Chief Minister N. Chandrababu Naidu inaugurates Geomysore Services primary gold mining project.",
         "Private Gold Mine: India's 1st operational private primary gold mine launched at Swarnagiri (Jonnagiri), Kurnool district, AP.",
-        "Operator: Developed and operated by Geomysore Services India Pvt Ltd (GMSI)."
+        "Operator: Developed and operated by Geomysore Services India Pvt Ltd (GMSI).",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of India's 1st Private Gold Mine Begins Commercial Operations at Jonnagiri (Kurnool, AP)."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Andhra Pradesh CM: N. Chandrababu Naidu | Capital: Amaravati."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of India's 1st Private Gold Mine Begins Commercial Operations at Jonnagiri (Kurnool, AP)."
     }
   ],
   "metadata": {
@@ -33,7 +34,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-06-30",
-    "category": "SEC4",
+    "category": "SEC6",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:18:39.841Z",
     "provenance": {
@@ -44,6 +45,16 @@
       "sourceChecksum": "da83048132af31368ce46cad5ceaa10010e048b5bd4fd7cee8b7219ce946081c",
       "migrationTimestamp": "2026-08-15T12:18:39.841Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 82
   }
 }

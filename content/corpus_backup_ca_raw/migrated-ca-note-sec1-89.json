@@ -1,0 +1,56 @@
+{
+  "id": "migrated-ca-note-sec1-89",
+  "type": "ca_note_redirect",
+  "domain": "current-affairs",
+  "title": "Kroll India's Celebrity Brand Valuation 2025",
+  "summary": "Kroll India's Celebrity Brand Valuation 2025",
+  "blocks": [
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Shah Rukh Khan** claimed #1 position as India's most powerful celebrity in 2025 ($177.9 million brand value), Ranveer Singh #2, Virat Kohli #3."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "Exam Trap & Statutory Distinction",
+      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:08.725Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-89",
+      "sourceTitle": "Kroll India's Celebrity Brand Valuation 2025",
+      "sourceChecksum": "7e641af60b5fc4888c5410a3e9ca2d818cf4088f4fcc1bd91eaa61beb592f8d2",
+      "migrationTimestamp": "2026-08-15T12:11:08.725Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_C",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "disposition": "SKIPPED_LOG"
+  },
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_C",
+    "sectionCode": "SEC1",
+    "disposition": "SKIPPED_LOG",
+    "reason": "Low exam yield / Non-policy celebrity endorsement"
+  }
+}

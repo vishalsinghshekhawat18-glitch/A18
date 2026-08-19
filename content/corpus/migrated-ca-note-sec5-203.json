@@ -1,37 +1,25 @@
 {
   "id": "migrated-ca-note-sec5-203",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "C-DOT and FSID Sign Agreement to Establish 5th Centre of Excellence at IISc Bengaluru",
+  "type": "ca_note",
   "summary": "C-DOT and FSID Sign Agreement to Establish 5th Centre of Excellence at IISc Bengaluru",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 5. 🤝 MoUs, CONFERENCES & APPOINTMENTS",
+      "text": "🪝 C-DOT and FSID Sign Agreement to Establish 5th Centre of Excellence at IISc Bengaluru. Key development for Banking & General Awareness."
+    },
     {
       "type": "bullet_list",
       "items": [
         "5th C-DOT CoE in India focused on 5G Advanced, 6G, quantum communications, and AI-native networks.",
-        "Earlier C-DOT CoEs established at IIT Kanpur, IIT Gandhinagar, IIT Roorkee, and IIT Hyderabad."
+        "Earlier C-DOT CoEs established at IIT Kanpur, IIT Gandhinagar, IIT Roorkee, and IIT Hyderabad.",
+        "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Appointee / Official",
-        "New Position & Organization",
-        "Key Context & Details"
-      ],
-      "rows": [
-        [
-          "C-DOT and FSID Sign Agreement to Establish 5th Centre of Excellence at IISc Bengaluru",
-          "Official Appointment",
-          "5th C-DOT CoE in India focused on 5G Advanced, 6G, quantum communications, and AI-native networks."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "C-DOT CEO: Dr. Rajkumar Upadhyay | FSID Director: Prof. B. Gurumoorthy."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
     }
   ],
   "metadata": {
@@ -56,6 +44,16 @@
       "sourceChecksum": "70bf37a54764a6dd52b8ac2e76ac212eeb9629d7b3058e8bcfa30fe5171166e7",
       "migrationTimestamp": "2026-08-15T12:13:47.644Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC5",
+    "sectionNumber": 5,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

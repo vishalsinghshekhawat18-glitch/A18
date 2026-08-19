@@ -1,30 +1,27 @@
 {
   "id": "migrated-ca-note-sec4-275",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "MHA Cyber Fraud Report: Uttar Pradesh Records Highest Complaints in India (1.85 Lakh Cases)",
+  "type": "ca_note",
   "summary": "Records 12.71 lakh total cyber fraud complaints across India between January and June 2026.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Records 12.71 lakh total cyber fraud complaints across India between January and June 2026."
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 MHA Cyber Fraud Report: Uttar Pradesh Records Highest Complaints in India (1.85 Lakh Cases). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Records 12.71 lakh total cyber fraud complaints across India between January and June 2026.",
         "State Cases Ranking: Uttar Pradesh recorded highest complaints (1.85 lakh), followed by Maharashtra (1.58 lakh) and Karnataka (1.21 lakh).",
-        "Financial Loss Ranking: Maharashtra recorded highest financial loss (₹1,637.66 crore), followed by Karnataka (₹1,097.37 crore)."
+        "Financial Loss Ranking: Maharashtra recorded highest financial loss (₹1,637.66 crore), followed by Karnataka (₹1,097.37 crore).",
+        "Highest complaint volume state (Uttar Pradesh) vs highest financial loss state (Maharashtra).",
+        "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "National Cyber Crime Reporting Portal (NCRP) helpline: 1930."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Highest complaint volume state (Uttar Pradesh) vs highest financial loss state (Maharashtra)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of MHA Cyber Fraud Report."
     }
   ],
   "metadata": {
@@ -49,6 +46,16 @@
       "sourceChecksum": "5f7627fae4fccd7a1c7a5c35d9eb4ce3148966439d896204229ed6b0a5aa48a9",
       "migrationTimestamp": "2026-08-15T12:15:05.762Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

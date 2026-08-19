@@ -1,0 +1,84 @@
+{
+  "id": "migrated-ca-ca-2026-08-12-jacob-diamond-rbi-vault",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "184.75-Carat Historic Jacob Diamond Retained in Reserve Bank of India Vaults in Mumbai",
+  "summary": "Historic 184.75-carat Golconda-origin Jacob Diamond, once owned by 6th Nizam of Hyderabad, preserved in RBI Mumbai vaults.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 184.75-Carat Historic Jacob Diamond Retained in Reserve Bank of India Vaults in Mumbai. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Historic 184.75-carat Golconda-origin Jacob Diamond, once owned by 6th Nizam of Hyderabad, preserved in RBI Mumbai vaults.",
+        "**Diamond Details:** 184.75-carat Golconda diamond offered to 6th Nizam of Hyderabad (Mir Mahboob Ali Khan).",
+        "**Location:** Kept securely in Reserve Bank of India vaults in Mumbai.",
+        "≠ **Carat Weight:** 184.75 carats.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 2,
+      "code": "SEC2",
+      "name": "REGULATORY BODIES NEWS",
+      "emoji": "🏛️",
+      "fullName": "2. 🏛️ REGULATORY BODIES NEWS"
+    },
+    "hook": "🪝 184.75-Carat Historic Jacob Diamond Retained in Reserve Bank of India Vaults in Mumbai",
+    "examAngle": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks.",
+    "staticGK": {
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-08-12"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-12",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:20:27.537Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "ca_2026_08_12_jacob_diamond_rbi_vault",
+      "sourceTitle": "184.75-Carat Historic Jacob Diamond Retained in Reserve Bank of India Vaults in Mumbai",
+      "sourceChecksum": "52a63ec215f0faf50757b9fbc418fa1b9cbc253c0d9995010fad5e3dcb7aa3fb",
+      "migrationTimestamp": "2026-08-15T12:20:27.537Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

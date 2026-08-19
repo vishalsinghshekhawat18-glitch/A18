@@ -1,31 +1,28 @@
 {
   "id": "migrated-ca-note-sec1-363",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "India Accepts WTO Fisheries Subsidies Agreement (123rd Member)",
+  "type": "ca_note",
   "summary": "Commerce Secretary deposits Instrument of Acceptance to curb harmful wild-capture subsidies.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Commerce Secretary deposits Instrument of Acceptance to curb harmful wild-capture subsidies."
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 India Accepts WTO Fisheries Subsidies Agreement (123rd Member). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Commerce Secretary deposits Instrument of Acceptance to curb harmful wild-capture subsidies.",
         "Acceptance Milestone: India becomes 123rd WTO member to accept Agreement on Fisheries Subsidies.",
         "Coverage Scope: Curbs subsidies for IUU (illegal, unreported, unregulated) fishing; strictly excludes aquaculture and inland fisheries.",
-        "Effective Date: Entered into force Sept 15, 2025 after 2/3rd WTO member acceptance."
+        "Effective Date: Entered into force Sept 15, 2025 after 2/3rd WTO member acceptance.",
+        "Wild-capture marine fishing subsidies (covered) vs aquaculture and inland fisheries (excluded).",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of India Accepts WTO Fisheries Subsidies Agreement (123rd Member)."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "WTO Ministerial Conference (12th MC) adopted agreement in Geneva in June 2022."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Wild-capture marine fishing subsidies (covered) vs aquaculture and inland fisheries (excluded)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of India Accepts WTO Fisheries Subsidies Agreement (123rd Member)."
     }
   ],
   "metadata": {
@@ -50,6 +47,16 @@
       "sourceChecksum": "c3ecd8c3d48c610daea86ed7c680ab845d7948ee7bb2da15e31b0bf200c6e8f5",
       "migrationTimestamp": "2026-08-15T12:17:28.292Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

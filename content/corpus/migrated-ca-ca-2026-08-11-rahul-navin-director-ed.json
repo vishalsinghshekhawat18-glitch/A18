@@ -1,46 +1,27 @@
 {
   "id": "migrated-ca-ca-2026-08-11-rahul-navin-director-ed",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Rahul Navin Appointed Director of Enforcement Directorate (ED)",
+  "type": "ca_note",
   "summary": "Rahul Navin officially appointed Director of Enforcement Directorate (ED).",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Rahul Navin officially appointed Director of Enforcement Directorate (ED)."
+      "type": "warning_banner",
+      "title": "📰 5. 🤝 MoUs, CONFERENCES & APPOINTMENTS",
+      "text": "🪝 Rahul Navin Appointed Director of Enforcement Directorate (ED). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Rahul Navin officially appointed Director of Enforcement Directorate (ED).",
         "**Official Designation:** Director of the Enforcement Directorate (ED).",
-        "**Nodal Agency:** ED operates under Department of Revenue, Ministry of Finance."
+        "**Nodal Agency:** ED operates under Department of Revenue, Ministry of Finance.",
+        "≠ **Agency Ministry:** ED is under Ministry of Finance (NOT MHA).",
+        "🎯 Exam Angle → Focus on appointee name, nominating body (FSIB / ACC), predecessor, tenure duration, and statutory establishment year."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Appointee / Official",
-        "New Position & Organization",
-        "Key Context & Details"
-      ],
-      "rows": [
-        [
-          "Rahul Navin",
-          "Director of Enforcement Directorate (ED)",
-          "Appointed Director of ED under Ministry of Finance."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "ED Enforcement: PMLA 2002 and FEMA 1999. HQ: New Delhi."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "≠ **Agency Ministry:** ED is under Ministry of Finance (NOT MHA)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on appointee name, nominating body (FSIB / ACC), predecessor, tenure duration, and statutory establishment year."
     }
   ],
   "metadata": {
@@ -65,6 +46,16 @@
       "sourceChecksum": "2d4dbd4b8afc7c30c4d5a7e2f451c0bd5a7b4c628bcf74a81025e051716dd534",
       "migrationTimestamp": "2026-08-15T12:19:51.523Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC5",
+    "sectionNumber": 5,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

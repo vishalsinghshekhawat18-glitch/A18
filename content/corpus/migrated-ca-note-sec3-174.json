@@ -1,32 +1,29 @@
 {
   "id": "migrated-ca-note-sec3-174",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "IRDAI Approves ProTec General Insurance License & Operationalises Policyholders' Education Fund (PEPF)",
+  "type": "ca_note",
   "summary": "Grants 4th general insurance license of 2026 and replaces periodic intermediary renewals with perpetual registration.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Grants 4th general insurance license of 2026 and replaces periodic intermediary renewals with perpetual registration."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 IRDAI Approves ProTec General Insurance License & Operationalises Policyholders' Education Fund (PEPF). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Grants 4th general insurance license of 2026 and replaces periodic intermediary renewals with perpetual registration.",
         "License Awardee: ProTec General Insurance Ltd (JV between M.",
         "Pallonji Group & True North's Divya Sehgal).",
         "Regulatory Reforms: Operationalised PEPF under Sec 16A of IRDA Act 1999; mandated salesperson tagging on policies; replaced periodic intermediary renewals with annual fee perpetual registration.",
-        "FDI Threshold: 2 insurers (1 life, 1 general) increased foreign shareholding beyond 74% following 100% FDI clearance."
+        "FDI (foreign direct investment with management stake) Threshold: 2 insurers (1 life, 1 general) increased foreign shareholding beyond 74% following 100% FDI (foreign direct investment with management stake) clearance.",
+        "100% FDI (foreign direct investment with management stake) in insurance vs earlier 74% foreign shareholding cap.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "IRDAI Chairman: Ajay Seth | HQ: Hyderabad, Telangana | Established 1999."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "100% FDI in insurance vs earlier 74% foreign shareholding cap."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -51,6 +48,16 @@
       "sourceChecksum": "fc066a2eb019dfc34d9f05ba81efd254f3fbf9067edb72751b4ce4af48807e92",
       "migrationTimestamp": "2026-08-15T12:12:37.959Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

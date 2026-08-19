@@ -1,13 +1,24 @@
 {
   "id": "migrated-ca-2026-05-sec3-7",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "RBL Bank Secures Approval for Historic $3 Billion FDI Investment from Emirates NBD",
-  "summary": "Emirates NBD acquires 49%-74% controlling stake in RBL Bank through ₹26,850 crore ($3B) preferential issue — largest FDI in Indian banking history.",
+  "type": "ca_note",
+  "summary": "Emirates NBD acquires 49%-74% controlling stake in RBL Bank through ₹26,850 crore ($3B) preferential issue — largest FDI (foreign direct investment with management stake) in Indian banking history.",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 3. 🏦 BANKING & INSURANCE NEWS",
+      "text": "🪝 RBL Bank Secures Approval for Historic $3 Billion FDI Investment from Emirates NBD. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "RBL Bank received all regulatory approvals (RBI, SEBI, CCI, DFS) for a **$3 billion (₹26,850 crore)** strategic investment by Dubai-based **Emirates NBD Bank**, acquiring 49-74% controlling stake at ₹280/share.",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
+      ]
+    },
+    {
       "type": "paragraph",
-      "content": "RBL Bank received all regulatory approvals (RBI, SEBI, CCI, DFS) for a **$3 billion (₹26,850 crore)** strategic investment by Dubai-based **Emirates NBD Bank**, acquiring 49-74% controlling stake at ₹280/share."
+      "content": "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
     }
   ],
   "metadata": {
@@ -33,6 +44,16 @@
       "sourceChecksum": "d48e3ccc12d749fe64090fc38a4eaa6986dde2598fae1d655f8d76fa8ddad5a8",
       "migrationTimestamp": "2026-08-16T16:10:30.135Z",
       "normalizationRuleVersion": "1.0.0-may2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC3",
+    "sectionNumber": 3,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 88
   }
 }

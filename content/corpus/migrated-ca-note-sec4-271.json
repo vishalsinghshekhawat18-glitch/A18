@@ -1,36 +1,28 @@
 {
   "id": "migrated-ca-note-sec4-271",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "UNESCO Inscribes Sarnath (Uttar Pradesh) as India's 45th World Heritage Site",
+  "type": "ca_note",
   "summary": "Inscribed at 48th World Heritage Committee session in Busan; includes Dhamekh & Chaukhandi Stupas.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Inscribed at 48th World Heritage Committee session in Busan; includes Dhamekh & Chaukhandi Stupas."
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 UNESCO Inscribes Sarnath (Uttar Pradesh) as India's 45th World Heritage Site. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Inscribed at 48th World Heritage Committee session in Busan; includes Dhamekh & Chaukhandi Stupas.",
         "World Heritage Site: Sarnath inscribed as India's 45th UNESCO World Heritage Site (Criteria iii & vi).",
         "Monuments Included: Chaukhandi Stupa, Dhamekh Stupa, Dharmarajika Stupa, Mulagandhakuti Vihara, and Ashokan Pillar (Lion Capital).",
-        "Global Ranking: India ranks 6th globally and 2nd in Asia-Pacific for total UNESCO World Heritage Sites."
+        "Global Ranking: India ranks 6th globally and 2nd in Asia-Pacific for total UNESCO World Heritage Sites.",
+        "India UNESCO World Heritage count (45 sites) vs India global ranking (6th globally, 2nd in Asia-Pacific).",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of UNESCO Inscribes Sarnath (Uttar Pradesh) as India's 45th World Heritage Site."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Buddhism 4 Holiest Sites: Lumbini (Nepal), Bodh Gaya (India), Sarnath (India), Kushinagar (India)."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "India UNESCO World Heritage count (45 sites) vs India global ranking (6th globally, 2nd in Asia-Pacific)."
-    },
-    {
-      "type": "quote",
-      "quote": "Interview Focus Question: \"What is the historical significance of Sarnath's UNESCO World Heritage inscription?\"\n💡 **Model Answer: Sarnath is where Gautama Buddha delivered his first sermon (Dhammacakkappavattana Sutta); the site houses the Ashokan Lion Capital, which forms India's official National Emblem.**",
-      "author": "Banking & Regulatory Board Panel"
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of UNESCO Inscribes Sarnath (Uttar Pradesh) as India's 45th World Heritage Site."
     }
   ],
   "metadata": {
@@ -55,6 +47,16 @@
       "sourceChecksum": "ed0b05318a77af1e1cc4755cc2d0495f02744d3aa701f901081476df95d814c7",
       "migrationTimestamp": "2026-08-15T12:15:05.761Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

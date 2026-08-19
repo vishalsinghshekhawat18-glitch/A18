@@ -1,26 +1,27 @@
 {
   "id": "migrated-ca-note-sec4-302",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Static GK: Nehru Trophy Boat Race & Indian Navy Maritime Security Scope",
+  "type": "ca_note",
   "summary": "Snake boat regatta held on Punnamada Lake, Alappuzha; Navy guards 11,098 km coastline.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Snake boat regatta held on Punnamada Lake, Alappuzha; Navy guards 11,098 km coastline."
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 Static GK: Nehru Trophy Boat Race & Indian Navy Maritime Security Scope. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Snake boat regatta held on Punnamada Lake, Alappuzha; Navy guards 11,098 km coastline.",
         "Nehru Trophy Regatta: Held annually on 2nd Saturday of August on Punnamada Lake, Alappuzha, Kerala.",
         "Indian Navy Domain: Safeguards 11,098 km coastline and 2.4 million sq. km.",
-        "Exclusive Economic Zone (EEZ)."
+        "Exclusive Economic Zone (EEZ).",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Exclusive Economic Zone (EEZ) extends 200 nautical miles from baseline."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
     }
   ],
   "metadata": {
@@ -45,6 +46,16 @@
       "sourceChecksum": "20a4646921c7c37f9a5f1e9356b297df4545c32ee3fa2d876ca594356dff1f67",
       "migrationTimestamp": "2026-08-15T12:16:15.973Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

@@ -1,46 +1,32 @@
 {
   "id": "migrated-ca-ca-2026-08-11-ashwani-bhatia-niva-bupa",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Ashwani Bhatia Appointed Chairman of Niva Bupa Health Insurance",
+  "type": "ca_note",
   "summary": "Former SEBI Whole-time Member Ashwani Bhatia appointed Chairman of Niva Bupa Health Insurance.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Former SEBI Whole-time Member Ashwani Bhatia appointed Chairman of Niva Bupa Health Insurance."
+      "type": "warning_banner",
+      "title": "📰 5. 🤝 MoUs, CONFERENCES & APPOINTMENTS",
+      "text": "🪝 Ashwani Bhatia Appointed Chairman of Niva Bupa Health Insurance. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Former SEBI Whole-time Member Ashwani Bhatia appointed Chairman of Niva Bupa Health Insurance.",
         "**Appointed Position:** Chairman of Niva Bupa Health Insurance.",
-        "**Background:** Former Whole-time Member at SEBI and MD at State Bank of India."
-      ]
-    },
-    {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Appointee / Official",
-        "New Position & Organization",
-        "Key Context & Details"
-      ],
-      "rows": [
-        [
-          "Ashwani Bhatia",
-          "Chairman of Niva Bupa",
-          "Appointed Chairman of Niva Bupa Health Insurance."
-        ]
+        "**Background:** Former Whole-time Member at SEBI and MD at State Bank of India.",
+        "≠ **Entity Type:** Standalone Health Insurance Company.",
+        "🎯 Exam Angle → Focus on appointee name, nominating body (FSIB / ACC), predecessor, tenure duration, and statutory establishment year."
       ]
     },
     {
       "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Niva Bupa: Standalone Health Insurer regulated by IRDAI."
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "SEBI Established: 12 April 1992 (SEBI Act 1992) · HQ: Mumbai · Regulatory Scope: Securities & Capital Markets"
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "≠ **Entity Type:** Standalone Health Insurance Company."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on appointee name, nominating body (FSIB / ACC), predecessor, tenure duration, and statutory establishment year."
     }
   ],
   "metadata": {
@@ -54,7 +40,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-08-11",
-    "category": "SEC5",
+    "category": "SEC2",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:19:51.523Z",
     "provenance": {
@@ -65,6 +51,16 @@
       "sourceChecksum": "3eb39a93751c164f169c00d56c29c6943c15b198fbc24a6eb374df6de3c1e69b",
       "migrationTimestamp": "2026-08-15T12:19:51.523Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC5",
+    "sectionNumber": 5,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

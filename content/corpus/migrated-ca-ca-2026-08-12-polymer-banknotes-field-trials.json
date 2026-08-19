@@ -1,30 +1,32 @@
 {
   "id": "migrated-ca-ca-2026-08-12-polymer-banknotes-field-trials",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Govt Approves Introduction of 1 Billion Polymer Banknotes Each of ₹10 and ₹20 for Field Trials",
+  "type": "ca_note",
   "summary": "Center approved field trials of 1 billion pieces of ₹10 and 1 billion pieces of ₹20 polymer banknotes under RBI Act Section 25.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Center approved field trials of 1 billion pieces of ₹10 and 1 billion pieces of ₹20 polymer banknotes under RBI Act Section 25."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 Govt Approves Introduction of 1 Billion Polymer Banknotes Each of ₹10 and ₹20 for Field Trials. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Center approved field trials of 1 billion pieces of ₹10 and 1 billion pieces of ₹20 polymer banknotes under RBI Act Section 25.",
         "**Polymer Trial Volumes:** 1 billion pieces of **₹10** and 1 billion pieces of **₹20** polymer banknotes for field trials.",
-        "**Statutory Provision:** Approved by Central Government under **Section 25 of the RBI Act, 1934**."
+        "**Statutory Provision:** Approved by Central Government under **Section 25 of the RBI Act, 1934**.",
+        "⚠️ **Section Trap:** Polymer banknote design approval falls under Section 25 of RBI Act 1934.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
       "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "RBI Act Section 25: Design, form, and material of banknotes recommended by Central Board and approved by Central Govt."
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Section Trap:** Polymer banknote design approval falls under Section 25 of RBI Act 1934."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -38,7 +40,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-08-12",
-    "category": "SEC1",
+    "category": "SEC2",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:20:27.537Z",
     "provenance": {
@@ -49,6 +51,16 @@
       "sourceChecksum": "13c3ddb73ef98f2957c100d8df52a5e50b9fbddda4ce80c57f201a374ba5ff01",
       "migrationTimestamp": "2026-08-15T12:20:27.537Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

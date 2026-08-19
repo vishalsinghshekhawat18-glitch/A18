@@ -1,31 +1,28 @@
 {
   "id": "migrated-ca-note-sec10-192",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "PMKSY Completes 10 Years of Sustainable Irrigation; Cabinet Approves M-CADWM Sub-Scheme",
+  "type": "ca_note",
   "summary": "Allocates ₹6,587 crore in Budget 2026-27 for micro-irrigation under Per Drop More Crop.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Allocates ₹6,587 crore in Budget 2026-27 for micro-irrigation under Per Drop More Crop."
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 PMKSY Completes 10 Years of Sustainable Irrigation; Cabinet Approves M-CADWM Sub-Scheme. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Allocates ₹6,587 crore in Budget 2026-27 for micro-irrigation under Per Drop More Crop.",
         "PMKSY Overview: Launched July 1, 2015; continued for 2021-26 with ₹93,068.56 crore outlay (benefited 27M+ farmers).",
         "Per Drop More Crop (PDMC): 110.92 lakh hectares brought under micro-irrigation.",
-        "M-CADWM Sub-Scheme: Cabinet approved Modernization of Command Area Development & Water Management with ₹1,600 crore initial outlay for pipeline networks."
+        "M-CADWM Sub-Scheme: Cabinet approved Modernization of Command Area Development & Water Management with ₹1,600 crore initial outlay for pipeline networks.",
+        "PMKSY total continuation outlay (₹93,068.56 crore) vs M-CADWM initial sub-scheme outlay (₹1,600 crore).",
+        "🎯 Exam Angle → Focus on CAD as % of GDP (1.3%), merchandise trade deficit figures, and invisibles/remittances surplus trajectory."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Ministry of Jal Shakti | PMKSY-AIBP completed 71 of 123 major irrigation projects."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "PMKSY total continuation outlay (₹93,068.56 crore) vs M-CADWM initial sub-scheme outlay (₹1,600 crore)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on CAD as % of GDP (1.3%), merchandise trade deficit figures, and invisibles/remittances surplus trajectory."
     }
   ],
   "metadata": {
@@ -39,7 +36,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-08-03",
-    "category": "SEC10",
+    "category": "SEC1",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:13:11.200Z",
     "provenance": {
@@ -50,6 +47,16 @@
       "sourceChecksum": "6d9a1fecbc14b30ad8aaad71d9355ffaddf14ff8b129a21c67edcd3c0eb97059",
       "migrationTimestamp": "2026-08-15T12:13:11.200Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 92
   }
 }

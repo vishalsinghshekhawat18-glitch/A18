@@ -1,41 +1,26 @@
 {
   "id": "migrated-ca-note-sec5-264",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "IRDAI Partners with IPAI to Eliminate Dark Patterns in Insurance Sector",
+  "type": "ca_note",
   "summary": "Partners with Institute of Public Auditors of India to curb misselling on digital insurance portals.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Partners with Institute of Public Auditors of India to curb misselling on digital insurance portals."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 IRDAI Partners with IPAI to Eliminate Dark Patterns in Insurance Sector. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Partners with Institute of Public Auditors of India to curb misselling on digital insurance portals.",
         "Regulatory Objective: Monitors dark patterns and forced add-on sales on digital insurance apps.",
-        "Implementation Alignment: Follows RBI's anti-misselling framework effective January 1, 2027."
+        "Implementation Alignment: Follows RBI's anti-misselling framework effective January 1, 2027.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Appointee / Official",
-        "New Position & Organization",
-        "Key Context & Details"
-      ],
-      "rows": [
-        [
-          "IRDAI Partners with IPAI to Eliminate Dark Patterns in Insurance Sector",
-          "Official Appointment",
-          "Regulatory Objective: Monitors dark patterns and forced add-on sales on digital insurance apps."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Dark Patterns: Deceptive UI/UX designs that trick users into unwanted purchases."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -60,6 +45,16 @@
       "sourceChecksum": "b050c7e6b838ff3b94db561fc193f6e8f3dbfa505ea86e45df74641b905c37b5",
       "migrationTimestamp": "2026-08-15T12:15:05.761Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

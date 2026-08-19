@@ -1,0 +1,134 @@
+{
+  "id": "migrated-schemes-scheme-110",
+  "type": "ca_note",
+  "domain": "schemes",
+  "title": "National Fellowship for OBC Students (NF-OBC)",
+  "summary": "National Fellowship for OBC Students (NF-OBC) — Comprehensive study notes covering objectives, eligibility, outlay, and exam traps.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "National Fellowship for OBC Students (NF-OBC)",
+      "summary": "To provide financial assistance to students belonging to Other Backward Classes (OBC) to pursue regular and full-time higher studies leading to M.Phil. and Ph.D. degrees in Sciences, Humanities, Social Sciences, and Engineering/Technology."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🏛️ Administrative & Financial Framework"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Parameter",
+        "Official Specification"
+      ],
+      "rows": [
+        [
+          "Nodal Ministry",
+          "Ministry of Social Justice and Empowerment"
+        ],
+        [
+          "Department",
+          "Department of Social Justice and Empowerment"
+        ],
+        [
+          "Launch Year / Period",
+          "2014-15 (Subsumed under SHREYAS Umbrella 2021-26)"
+        ],
+        [
+          "Financial Outlay",
+          "Central Sector component under SHREYAS umbrella (₹4,103.55 Cr total SHREYAS allocation)."
+        ],
+        [
+          "Funding Pattern",
+          "100% Central Sector Scheme."
+        ],
+        [
+          "Implementing Agency",
+          "National Backward Classes Finance & Development Corporation (NBCFDC) / UGC."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🎯 Target Beneficiaries & Eligibility"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Target Beneficiaries:** OBC research scholars who have qualified UGC-NET / CSIR-NET-JRF and registered in recognized Indian universities.",
+        "**Eligibility Criteria:** Candidate must belong to OBC category (Non-Creamy Layer) with annual family income below ₹8.00 Lakh per annum and registered in regular M.Phil./Ph.D. programs."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "✨ Key Components & Features"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Slots: 1,000 slots per year (increased from historical 300 slots).",
+        "Fellowship Rates: Equivalent to UGC Fellowship rates (JRF: ₹37,000/month for first 2 years; SRF: ₹42,000/month for remaining 3 years).",
+        "Contingency Allowance: Humanities/Social Sciences: ₹10,000/year (JRF) & ₹20,500/year (SRF); Science/Engg: ₹12,000/year (JRF) & ₹25,000/year (SRF).",
+        "Tenure: Maximum 5 years (M.Phil: 2 years; Ph.D.: 5 years; M.Phil + Ph.D.: 5 years)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚠️ Exam Traps & Key Distinctions"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Slots: 1,000 slots per year (do not write obsolete 300 slots).",
+        "Fellowship Rates: Updated to ₹37,000/mo (JRF) and ₹42,000/mo (SRF) as per revised UGC scales."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📚 Authoritative Sources"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Ministry of Social Justice and Empowerment, NF-OBC Guidelines (socialjustice.gov.in)",
+        "UGC / NBCFDC Official Notification on National Fellowship for OBC Students"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.104Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-110",
+      "sourceTitle": "National Fellowship for OBC Students (2014-15):",
+      "sourceChecksum": "9083d0174de55ed74571bc1bc8b34f0898185cf334a11b37b450ab16e56cfa33",
+      "migrationTimestamp": "2026-08-15T12:14:02.104Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    },
+    "repairedVersion": "r4.c5-pilot",
+    "repairedTimestamp": "2026-08-18T13:11:12.070Z",
+    "requiresHumanReview": true,
+    "promotionGate": "R4.C7-passed",
+    "promotionStatus": "approved",
+    "promotedTimestamp": "2026-08-18T13:20:41.075Z",
+    "evidenceAuditFile": "content/repairs/r4c6/migrated-schemes-scheme-110-evidence.json",
+    "temporalStatus": "current",
+    "crossSchemeRole": "COMPLEMENTARY"
+  }
+}

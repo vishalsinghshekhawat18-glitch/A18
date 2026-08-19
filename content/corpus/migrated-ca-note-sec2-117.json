@@ -1,25 +1,32 @@
 {
   "id": "migrated-ca-note-sec2-117",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "SEBI Revamps Securities Lending Scheme, Launches Setu Portal & Bond Tokenisation Pilot",
+  "type": "ca_note",
   "summary": "Modernizes securities borrowing infrastructure, digital compliance filing, and blockchain corporate bond issuance.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Modernizes securities borrowing infrastructure, digital compliance filing, and blockchain corporate bond issuance."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 SEBI Revamps Securities Lending Scheme, Launches Setu Portal & Bond Tokenisation Pilot. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Modernizes securities borrowing infrastructure, digital compliance filing, and blockchain corporate bond issuance.",
         "Setu Portal: Centralized online compliance and registration portal for SEBI-regulated intermediaries.",
-        "Tokenisation Pilot: Corporate bond tokenisation using Distributed Ledger Technology (DLT)."
+        "Tokenisation Pilot: Corporate bond tokenisation using Distributed Ledger Technology (DLT).",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "SEBI Established: 12 April 1992 (SEBI Act 1992) · HQ: Mumbai · Regulatory Scope: Securities & Capital Markets"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -44,6 +51,16 @@
       "sourceChecksum": "f3b89023b9e0a4414caba824e173c94b8b26f5fd17f0fbc774cf148597cec90c",
       "migrationTimestamp": "2026-08-15T12:11:38.420Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

@@ -1,0 +1,86 @@
+{
+  "id": "migrated-ca-note-sec3-313",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "NIPL Partners with Eurobank to Make UPI Live in Greece (10th Country Globally)",
+  "summary": "Expands UPI cross-border merchant payments into Greece as 10th international destination.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 3. 🏦 BANKING & INSURANCE NEWS",
+      "text": "🪝 NIPL Partners with Eurobank to Make UPI Live in Greece (10th Country Globally). Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Expands UPI cross-border merchant payments into Greece as 10th international destination.",
+        "Greece Partner: Eurobank (Greece) partnered with NPCI International Payments Limited (NIPL).",
+        "10 Global Countries: Greece joins Singapore, UAE, Bhutan, Nepal, Sri Lanka, France, Mauritius, Qatar, and Cambodia.",
+        "Domestic Volume: UPI processes 22–23 billion transactions per month domestically.",
+        "Greece position as UPI international destination (10th country globally).",
+        "🎯 Exam Angle → Focus on monthly transaction volume & value records, NPCI market cap limits, and international UPI linkage countries."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on monthly transaction volume & value records, NPCI market cap limits, and international UPI linkage countries."
+    },
+    {
+      "type": "warning_banner",
+      "title": "💼 Interview Question & Model Answer",
+      "text": "**Q:** How does international UPI linkage assist Indian cross-border trade and remittances?\n\n**Model Answer:** It lowers cross-border transaction fees by bypassing intermediary correspondent banking networks and enables real-time sovereign currency settlements."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 3,
+      "code": "SEC3",
+      "name": "BANKING & INSURANCE NEWS",
+      "emoji": "🏦",
+      "fullName": "3. 🏦 BANKING & INSURANCE NEWS"
+    },
+    "hook": "🪝 NIPL Partners with Eurobank to Make UPI Live in Greece (10th Country Globally)",
+    "examAngle": "🎯 Exam Angle → Focus on monthly transaction volume & value records, NPCI market cap limits, and international UPI linkage countries.",
+    "interviewQ": {
+      "question": "How does international UPI linkage assist Indian cross-border trade and remittances?",
+      "modelAnswer": "It lowers cross-border transaction fees by bypassing intermediary correspondent banking networks and enables real-time sovereign currency settlements."
+    },
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-07-11"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-11",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:16:15.973Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec3-313",
+      "sourceTitle": "NIPL Partners with Eurobank to Make UPI Live in Greece (10th Country Globally)",
+      "sourceChecksum": "6a18edb208b1a242c3ec2d5d5d7297f97cb3e0438a4a3353d1c7ff61a85711c8",
+      "migrationTimestamp": "2026-08-15T12:16:15.973Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC3",
+    "sectionNumber": 3,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

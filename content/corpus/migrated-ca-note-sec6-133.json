@@ -1,19 +1,25 @@
 {
   "id": "migrated-ca-note-sec6-133",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "IIT Hyderabad & Crimson Energy Launch 'ANUGYAN' Nuclear Technology Program",
+  "type": "ca_note",
   "summary": "India's 1st industry-academia nuclear orientation program.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "India's 1st industry-academia nuclear orientation program."
+      "type": "warning_banner",
+      "title": "📰 6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS",
+      "text": "🪝 IIT Hyderabad & Crimson Energy Launch 'ANUGYAN' Nuclear Technology Program. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
-        "Capacity Goal: Expand nuclear power capacity from 8.8 GW to 100 GW by 2047."
+        "India's 1st industry-academia nuclear orientation program.",
+        "Capacity Goal: Expand nuclear power capacity from 8.8 GW to 100 GW by 2047.",
+        "🎯 Exam Angle → Focus on CAD as % of GDP (1.3%), merchandise trade deficit figures, and invisibles/remittances surplus trajectory."
       ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on CAD as % of GDP (1.3%), merchandise trade deficit figures, and invisibles/remittances surplus trajectory."
     }
   ],
   "metadata": {
@@ -38,6 +44,16 @@
       "sourceChecksum": "fa3fe3d3541ac2ca4409f23608c815e86cbf5e1537f0faf904479785fbb6944c",
       "migrationTimestamp": "2026-08-15T12:12:07.934Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "sectionNumber": 6,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

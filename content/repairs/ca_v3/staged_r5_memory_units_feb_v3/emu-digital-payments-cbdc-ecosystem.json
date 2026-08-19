@@ -1,0 +1,42 @@
+{
+  "unitId": "emu-digital-payments-cbdc-ecosystem",
+  "title": "🏦 Digital Payments Architecture — CBDC PDS, UPI-RuPay Incentives & UPI Global Expansion",
+  "category": "SEC3",
+  "tier": "TIER_A",
+  "theme": "Digital Public Infrastructure & Real-Time Payments",
+  "leadArticleId": "cgb-art-49",
+  "constituentCount": 2,
+  "provenancePages": [
+    18,
+    39
+  ],
+  "provenanceArticleIds": [
+    "cgb-art-49",
+    "cgb-art-122"
+  ],
+  "mivScore": 80,
+  "executiveSummary": "NIPL (NPCI) and Malaysia PayNet signed cross-border QR payments link (DuitNow-UPI) and RBI-Bank Negara local currency trade talks.",
+  "masterKeyFacts": [
+    "NIPL (NPCI) and Malaysia PayNet signed cross-border QR payments link (DuitNow-UPI) and RBI-Bank Negara local currency trade talks.",
+    "Amit Shah launched India's 1st CBDC-based PDS in Gandhinagar with Annapurti grain ATMs dispensing 25 kg in 35 seconds ('Har Dana, Har Rupiya')."
+  ],
+  "subEvents": [
+    {
+      "title": "India, Malaysia Ink 11 pacts; UPI-PayNet link to ease remittances",
+      "page": 18,
+      "facts": [
+        "NIPL (NPCI) and Malaysia PayNet signed cross-border QR payments link (DuitNow-UPI) and RBI-Bank Negara local currency trade talks."
+      ]
+    },
+    {
+      "title": "Amit Shah launches e-Rupee PDS & 24x7 'Annapurti' grain ATM in Gujarat",
+      "page": 39,
+      "facts": [
+        "Amit Shah launched India's 1st CBDC-based PDS in Gandhinagar with Annapurti grain ATMs dispensing 25 kg in 35 seconds ('Har Dana, Har Rupiya')."
+      ]
+    }
+  ],
+  "statutoryProvisions": [],
+  "examAngle": "🎯 Exam Angle → Focus on exact statutory limits, financial outlays, and regulatory frameworks.",
+  "whyStandaloneJustification": "Inaugurates country's first CBDC ration delivery, ₹2,000 Cr digital payments subsidy, and cross-border UPI links."
+}

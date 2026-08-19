@@ -1,13 +1,27 @@
 {
   "id": "migrated-ca-2026-01-sec6-2",
+  "title": "🛡️ Strategic Indigenous Defence — Dhruv-NG Shakti Engine, ICGS Samudra Pratap & Scramjet (>Mach 5)",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "India AI Impact Summit 2026 to be Held in New Delhi",
-  "summary": "India's flagship AI summit scheduled for 15-20 February 2026 in New Delhi following 8 regional build-up conferences.",
+  "summary": "HAL completed maiden flight of 5.5-tonne Dhruv New Generation (NG) twin-engine helicopter in Bengaluru and received DGCA certification for Shakti Civil Engine.",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "Ministry of Electronics & IT announced **India AI Impact Summit 2026** for 15–20 February 2026 in New Delhi."
+      "content": "**Overview**: HAL completed maiden flight of 5.5-tonne Dhruv New Generation (NG) twin-engine helicopter in Bengaluru and received DGCA certification for Shakti Civil Engine."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**HAL Conducts Maiden Flight of Dhruv-NG Helicopter with Indigenous Shakti Civil Engine** (Page 110): HAL completed maiden flight of 5.5-tonne Dhruv New Generation (NG) twin-engine helicopter in Bengaluru and received DGCA certification for Shakti Civil Engine.",
+        "**Defence Minister Rajnath Singh Commissions ICGS Samudra Pratap Pollution Control Vessel** (Page 110): Goa Shipyard Limited built ICGS Samudra Pratap, 1st of two indigenously designed Pollution Control Vessels (60%+ indigenous content), commissioned at Goa.",
+        "**DRDO Successfully Tests Long-Duration Actively Cooled Scramjet Engine (>Mach 5) at DRDL** (Page 112): DRDO conducted ground test of full-scale actively cooled scramjet engine at DRDL SCPT facility in Hyderabad for hypersonic cruise missiles (>Mach 5).",
+        "**DRDO Flight-Tests 3rd Gen MPATGM with Top Attack Capability Against Moving Target** (Page 112): DRDO successfully tested 3rd generation Fire & Forget Man Portable Anti-Tank Guided Missile (MPATGM) with IIR homing seeker and tandem warhead at KK Ranges, Ahilya Nagar."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Defence Indigenisation & Strategic Propulsion. Major defence milestones: Dhruv-NG helicopter maiden flight with Shakti engine, ICGS Samudra Pratap PCV, DRDO Scramjet ground test, and 3rd Gen MPATGM."
     }
   ],
   "metadata": {
@@ -17,22 +31,37 @@
       "SBI PO"
     ],
     "tags": [
-      "sec9",
+      "sec6",
       "Current Affairs 2026",
-      "January 2026"
+      "January 2026",
+      "TIER_A"
     ],
-    "date": "2026-01-26",
-    "category": "SEC9",
-    "difficulty": "intermediate",
-    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "date": "2026-01-15",
+    "category": "SEC6",
+    "difficulty": "hard",
+    "lastUpdated": "2026-08-19T02:37:59.686Z",
     "provenance": {
       "sourceSystem": "CA",
-      "sourceFile": "January_26.pdf",
-      "sourceId": "migrated-ca-2026-01-sec6-2",
-      "sourceTitle": "India AI Impact Summit 2026 to be Held in New Delhi",
-      "sourceChecksum": "629e19477dc6d491ac5ffc83539c83f852c1d3c6c121ca326d246ed89dabb608",
-      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
-      "normalizationRuleVersion": "1.0.0-jan2026"
-    }
-  }
+      "sourceFile": "Jan2026.pdf",
+      "sourceId": "emu-jan-indigenous-defence-modernisation",
+      "sourceTitle": "🛡️ Strategic Indigenous Defence — Dhruv-NG Shakti Engine, ICGS Samudra Pratap & Scramjet (>Mach 5)",
+      "provenancePages": [
+        110,
+        112
+      ],
+      "constituentArticleCount": 4,
+      "migrationTimestamp": "2026-08-19T02:37:59.686Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
+  },
+  "relationships": []
 }

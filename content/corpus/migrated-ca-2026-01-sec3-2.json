@@ -1,20 +1,24 @@
 {
   "id": "migrated-ca-2026-01-sec3-2",
+  "title": "🏦 State Bank of India — Bilateral Israel Rupee Trade (SRVA), ₹1,000 Cr ATM Contract & $250M Bonds",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "SEBI Introduces Base Expense Ratio (BER) for Mutual Funds",
-  "summary": "SEBI (Mutual Funds) Regulations 2026 splits AMC management fees (BER) from pass-through costs (brokerage/STT).",
+  "summary": "SBI (only Indian bank with Israel branch, opened 2007) announced INR trade settlement with Israel through Special Rupee Vostro Accounts (SRVA).",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "SEBI notified Mutual Funds Regulations 2026 (effective 1 April 2026), introducing **Base Expense Ratio (BER)** to isolate AMC management fees from transaction costs."
+      "content": "**Overview**: SBI (only Indian bank with Israel branch, opened 2007) announced INR trade settlement with Israel through Special Rupee Vostro Accounts (SRVA)."
     },
     {
       "type": "bullet_list",
       "items": [
-        "**Brokerage Caps**: Cash market brokerage capped at 6 bps (down from 8.59 bps); derivatives capped at 2 bps (down from 3.89 bps).",
-        "**SEBI Chairman**: Tuhin Kanta Pandey."
+        "**SBI to Facilitate Bilateral India-Israel Trade in Rupee via SRVA Mechanism** (Page 38): SBI (only Indian bank with Israel branch, opened 2007) announced INR trade settlement with Israel through Special Rupee Vostro Accounts (SRVA)."
       ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Public Sector Banking Scale & International Operations. SBI facilitates INR-Israel trade via SRVA, awards India's 1st ₹1,000 Cr direct 10-yr ATM outsourcing contract, and raises $250M SOFR bonds."
     }
   ],
   "metadata": {
@@ -24,22 +28,36 @@
       "SBI PO"
     ],
     "tags": [
-      "sec4",
+      "sec3",
       "Current Affairs 2026",
-      "January 2026"
+      "January 2026",
+      "TIER_A"
     ],
-    "date": "2026-01-26",
-    "category": "SEC4",
-    "difficulty": "intermediate",
-    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "date": "2026-01-15",
+    "category": "SEC3",
+    "difficulty": "hard",
+    "lastUpdated": "2026-08-19T02:37:59.676Z",
     "provenance": {
       "sourceSystem": "CA",
-      "sourceFile": "January_26.pdf",
-      "sourceId": "migrated-ca-2026-01-sec3-2",
-      "sourceTitle": "SEBI Introduces Base Expense Ratio (BER) for Mutual Funds",
-      "sourceChecksum": "efc07cda289067425e3449328caf13dc62d2679de315926627dc4504313c8847",
-      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
-      "normalizationRuleVersion": "1.0.0-jan2026"
-    }
-  }
+      "sourceFile": "Jan2026.pdf",
+      "sourceId": "emu-jan-sbi-scale-israel-atm-outsource",
+      "sourceTitle": "🏦 State Bank of India — Bilateral Israel Rupee Trade (SRVA), ₹1,000 Cr ATM Contract & $250M Bonds",
+      "provenancePages": [
+        38
+      ],
+      "constituentArticleCount": 1,
+      "migrationTimestamp": "2026-08-19T02:37:59.676Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC3",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
+  },
+  "relationships": []
 }

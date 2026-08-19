@@ -1,30 +1,27 @@
 {
   "id": "migrated-ca-note-sec1-342",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Government Approves Pan-India Rollout of ₹60,000 Crore 'PM-SETU' ITI Skilling Scheme",
+  "type": "ca_note",
   "summary": "Upgrades 200 ITI clusters with ₹1,237.58 crore initial Strategic Investment Plans.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Upgrades 200 ITI clusters with ₹1,237.58 crore initial Strategic Investment Plans."
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 Government Approves Pan-India Rollout of ₹60,000 Crore 'PM-SETU' ITI Skilling Scheme. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Upgrades 200 ITI clusters with ₹1,237.58 crore initial Strategic Investment Plans.",
         "National Rollout: ₹60,000 crore PM-SETU (Pradhan Mantri Skilling & Employability Transformation through Upgraded ITIs) rolled out across 200 clusters.",
-        "Strategic Investment Plans: Cleared 5 SIPs worth ₹1,237.58 crore to upgrade ITI clusters in Odisha, Gujarat, and Telangana."
+        "Strategic Investment Plans: Cleared 5 SIPs worth ₹1,237.58 crore to upgrade ITI clusters in Odisha, Gujarat, and Telangana.",
+        "Total scheme outlay (₹60,000 crore) vs initial 5-cluster SIP outlay (₹1,237.58 crore).",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "National Steering Committee chaired by MSDE Secretary Debashree Mukherjee."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Total scheme outlay (₹60,000 crore) vs initial 5-cluster SIP outlay (₹1,237.58 crore)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
     }
   ],
   "metadata": {
@@ -49,6 +46,16 @@
       "sourceChecksum": "00cf5529c0f35c323eb010a21c682cb1c48bdf8aaf25a00491b01c7f6e3cb5b2",
       "migrationTimestamp": "2026-08-15T12:16:51.764Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

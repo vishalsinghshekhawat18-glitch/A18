@@ -1,43 +1,27 @@
 {
   "id": "migrated-ca-note-sec1-58",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Varsha Ashok Aglawe Appointed 54th DG of Geological Survey of India — First Woman Head in 176 Years",
+  "type": "ca_note",
   "summary": "Varsha Ashok Aglawe Appointed 54th DG of Geological Survey of India — First Woman Head in 176 Years",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 Varsha Ashok Aglawe Appointed 54th DG of Geological Survey of India — First Woman Head in 176 Years. Key development for Banking & General Awareness."
+    },
     {
       "type": "bullet_list",
       "items": [
         "**Varsha Ashok Aglawe** appointed 54th Director General of GSI.",
         "Milestone: **First-ever woman** to head GSI in its **176-year history**.",
-        "Parent Ministry: Ministry of Mines."
+        "Parent Ministry: Ministry of Mines.",
+        "GSI (HQ Kolkata, Est 1851) vs Survey of India (HQ Dehradun).",
+        "🎯 Exam Angle → Focus on appointee name, nominating body (FSIB / ACC), predecessor, tenure duration, and statutory establishment year."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Appointee / Official",
-        "New Position & Organization",
-        "Key Context & Details"
-      ],
-      "rows": [
-        [
-          "Varsha Ashok Aglawe",
-          "54th DG of Geological Survey of India — First Woman Head in 176 Years",
-          "Varsha Ashok Aglawe appointed 54th Director General of GSI."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Geological Survey of India established in **1851** by Thomas Oldham | HQ: **Kolkata, West Bengal**."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "GSI (HQ Kolkata, Est 1851) vs Survey of India (HQ Dehradun)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on appointee name, nominating body (FSIB / ACC), predecessor, tenure duration, and statutory establishment year."
     }
   ],
   "metadata": {
@@ -62,6 +46,16 @@
       "sourceChecksum": "55c4a24b20cff685fc71e0fd65aa883800fb35aa7c03eed5a5b9c154f9e7fee1",
       "migrationTimestamp": "2026-08-15T12:10:34.066Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

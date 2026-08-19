@@ -1,0 +1,37 @@
+{
+  "nodeId": "node-story-migrated-ca-2026-02-sec2-8",
+  "sourceId": "migrated-ca-2026-02-sec2-8",
+  "title": "RBI Mandates 52-Character UTI for OTC Derivatives",
+  "type": "ca_note",
+  "tier": "TIER_A",
+  "category": "SEC2",
+  "qualityState": "VALID",
+  "summary": "Unique Transaction Identifier (UTI) becomes mandatory for OTC rupee interest rate and FX derivatives from 1 January 2027.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 RBI Mandates 52-Character UTI for OTC Derivatives. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "RBI mandated a **52-character Unique Transaction Identifier (UTI)** for all direct private OTC derivative trades, reported to CCIL-TR.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+    }
+  ],
+  "provenance": [
+    "migrated-ca-2026-02-sec2-8"
+  ],
+  "examAngle": "🎯 Exam Angle → Focus on statutory thresholds, financial outlays, and key authority bodies."
+}

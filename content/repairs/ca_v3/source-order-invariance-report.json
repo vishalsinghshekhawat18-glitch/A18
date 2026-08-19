@@ -1,0 +1,79 @@
+{
+  "version": "1.0.0-order-invariance",
+  "timestamp": "2026-08-18T17:32:29.997Z",
+  "totalPasses": 10,
+  "invarianceResult": "PASSED_100_PERCENT",
+  "orderVariance": "0.0%",
+  "passLogs": [
+    {
+      "pass": 1,
+      "totalUnitsProduced": 43,
+      "tierACount": 23,
+      "tierBCount": 20,
+      "invarianceMatch": true
+    },
+    {
+      "pass": 2,
+      "totalUnitsProduced": 43,
+      "tierACount": 23,
+      "tierBCount": 20,
+      "invarianceMatch": true
+    },
+    {
+      "pass": 3,
+      "totalUnitsProduced": 43,
+      "tierACount": 23,
+      "tierBCount": 20,
+      "invarianceMatch": true
+    },
+    {
+      "pass": 4,
+      "totalUnitsProduced": 43,
+      "tierACount": 23,
+      "tierBCount": 20,
+      "invarianceMatch": true
+    },
+    {
+      "pass": 5,
+      "totalUnitsProduced": 43,
+      "tierACount": 23,
+      "tierBCount": 20,
+      "invarianceMatch": true
+    },
+    {
+      "pass": 6,
+      "totalUnitsProduced": 43,
+      "tierACount": 23,
+      "tierBCount": 20,
+      "invarianceMatch": true
+    },
+    {
+      "pass": 7,
+      "totalUnitsProduced": 43,
+      "tierACount": 23,
+      "tierBCount": 20,
+      "invarianceMatch": true
+    },
+    {
+      "pass": 8,
+      "totalUnitsProduced": 43,
+      "tierACount": 23,
+      "tierBCount": 20,
+      "invarianceMatch": true
+    },
+    {
+      "pass": 9,
+      "totalUnitsProduced": 43,
+      "tierACount": 23,
+      "tierBCount": 20,
+      "invarianceMatch": true
+    },
+    {
+      "pass": 10,
+      "totalUnitsProduced": 43,
+      "tierACount": 23,
+      "tierBCount": 20,
+      "invarianceMatch": true
+    }
+  ]
+}

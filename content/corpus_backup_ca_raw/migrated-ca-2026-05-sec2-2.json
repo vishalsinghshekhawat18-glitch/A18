@@ -1,0 +1,82 @@
+{
+  "id": "migrated-ca-2026-05-sec2-2",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SEBI Proposes 'GARUDA' Green-Channel Mechanism for Fast-Track AIF Rollout",
+  "summary": "SEBI proposes GARUDA mechanism allowing Alternative Investment Funds (AIFs) to launch schemes within 10 working days of filing placement memorandum.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 SEBI Proposes 'GARUDA' Green-Channel Mechanism for Fast-Track AIF Rollout. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "SEBI issued a proposal for **GARUDA (Green-Channel: AIF Rollout Upon Document Acknowledgement)**, reducing scheme launch timeline from 30 days to 10 working days for AIFs.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "SEBI Established: 12 April 1992 (SEBI Act 1992) · HQ: Mumbai · Regulatory Scope: Securities & Capital Markets"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 2,
+      "code": "SEC2",
+      "name": "REGULATORY BODIES NEWS",
+      "emoji": "🏛️",
+      "fullName": "2. 🏛️ REGULATORY BODIES NEWS"
+    },
+    "hook": "🪝 SEBI Proposes 'GARUDA' Green-Channel Mechanism for Fast-Track AIF Rollout",
+    "examAngle": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks.",
+    "staticGK": {
+      "summary": "SEBI Established: 12 April 1992 (SEBI Act 1992) · HQ: Mumbai · Regulatory Scope: Securities & Capital Markets"
+    },
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-05-15"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026",
+      "May 2026"
+    ],
+    "date": "2026-05-15",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T16:10:30.135Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "May 6927cf5d2b211a2b729e125e2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-05-sec2-2",
+      "sourceTitle": "SEBI Proposes 'GARUDA' Green-Channel Mechanism for Fast-Track AIF Rollout",
+      "sourceChecksum": "37dbc2beaece956d20211c9f56ef442bc5795c9252a3ca87b8019edcf2be29c5",
+      "migrationTimestamp": "2026-08-16T16:10:30.135Z",
+      "normalizationRuleVersion": "1.0.0-may2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

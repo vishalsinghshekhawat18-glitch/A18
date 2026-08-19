@@ -1,0 +1,76 @@
+{
+  "id": "migrated-ca-note-sec1-206",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "ADB Approves .89 Million Loan for Karnataka Public School Infrastructure",
+  "summary": "Strengthens public education system by establishing 500 integrated public schools across Karnataka.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 ADB Approves .89 Million Loan for Karnataka Public School Infrastructure. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Strengthens public education system by establishing 500 integrated public schools across Karnataka.",
+        "Funding Agency: Asian Development Bank (ADB) approved .89 million loan (in yen equivalent).",
+        "Implementation Scope: Upgrades infrastructure and learning facilities for 500 integrated public schools in rural and semi-urban districts.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of ADB Approves .89 Million Loan for Karnataka Public School Infrastructure."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 1,
+      "code": "SEC1",
+      "name": "ESI, FINANCE & BUSINESS NEWS",
+      "emoji": "💰",
+      "fullName": "1. 💰 ESI, FINANCE & BUSINESS NEWS"
+    },
+    "hook": "🪝 ADB Approves .89 Million Loan for Karnataka Public School Infrastructure",
+    "examAngle": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of ADB Approves .89 Million Loan for Karnataka Public School Infrastructure.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-07-01"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-01",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:47.644Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-206",
+      "sourceTitle": "ADB Approves .89 Million Loan for Karnataka Public School Infrastructure",
+      "sourceChecksum": "04bd81389590a66d403e12ce6ab0f1f0d39317b06a93576e5d52681ad62914f2",
+      "migrationTimestamp": "2026-08-15T12:13:47.644Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

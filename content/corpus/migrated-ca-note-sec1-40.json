@@ -1,20 +1,25 @@
 {
   "id": "migrated-ca-note-sec1-40",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "ICICI Lombard Celebrates 25th Anniversary on August 3, 2026",
+  "type": "ca_note",
   "summary": "ICICI Lombard Celebrates 25th Anniversary on August 3, 2026",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 3. 🏦 BANKING & INSURANCE NEWS",
+      "text": "🪝 ICICI Lombard Celebrates 25th Anniversary on August 3, 2026. Key development for Banking & General Awareness."
+    },
+    {
       "type": "bullet_list",
       "items": [
-        "ICICI Lombard General Insurance Company Limited celebrated its **25th foundation anniversary** on August 3, 2026."
+        "ICICI Lombard General Insurance Company Limited celebrated its **25th foundation anniversary** on August 3, 2026.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
       ]
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
     }
   ],
   "metadata": {
@@ -39,6 +44,16 @@
       "sourceChecksum": "72d2c75ff4f7b06b7c15826492e080080daa8bda466843efabe0fed3963c2dda",
       "migrationTimestamp": "2026-08-15T12:10:02.257Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC3",
+    "sectionNumber": 3,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

@@ -1,0 +1,78 @@
+{
+  "id": "migrated-ca-2026-02-sec1-2",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "16th Finance Commission — Tax Devolution Retained at 41%",
+  "summary": "16th Finance Commission (Chaired by Arvind Panagariya) retains vertical tax devolution at 41% while introducing a new 10% weightage for Contribution to GDP.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 16th Finance Commission — Tax Devolution Retained at 41%. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "16th Finance Commission (Chair: **Arvind Panagariya**) recommended retaining vertical tax devolution at **41% for 2026-27 to 2030-31**, accepted by the Centre in Budget 2026.",
+        "**New Formula Weight**: 10% weightage for 'Contribution to GDP' replaces the 2.5%-weighted 'Tax and Fiscal Effort' criterion.",
+        "**Grants-in-aid**: ₹9.47 lakh crore total (incl. ₹1.4 lakh Cr for FY27 for Rural/Urban Local Bodies + Disaster Management).",
+        "**Grants Discontinued**: Revenue-deficit, sector-specific, and state-specific grants discontinued; states must cap fiscal deficit at 3% of GSDP.",
+        "**State Shares**: UP's share 17.619% (from 17.939%); Bihar's 9.948% (from 10.058%).",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
+    }
+  ],
+  "intelligence": {
+    "zone": "LIGHT_TOUCH",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 10,
+      "code": "SEC10",
+      "name": "MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "emoji": "📌",
+      "fullName": "10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC"
+    },
+    "hook": "🪝 16th Finance Commission — Tax Devolution Retained at 41%",
+    "examAngle": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-02-15"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026",
+      "February 2026"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "migrated-ca-2026-02-sec1-2",
+      "sourceTitle": "16th Finance Commission — Tax Devolution Retained at 41%",
+      "sourceChecksum": "2d537e23b33a99d89688aafedb3bafe2dea3512ecebe7ac60b93f8a6be7c3f6c",
+      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+      "normalizationRuleVersion": "1.0.0-feb2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "LIGHT_TOUCH",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

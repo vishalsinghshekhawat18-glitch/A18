@@ -1,0 +1,74 @@
+{
+  "id": "migrated-ca-note-sec7-140",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Nitin Gadkari Confers Sarvottam Jeevan Raksha Padak to 12 Silkyara Tunnel Rat Miners",
+  "summary": "Ashoka Chakra series gallantry offshoot (instituted 1961).",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 7. 🏆 AWARDS, BOOKS, INDICES & RANKINGS",
+      "text": "🪝 Nitin Gadkari Confers Sarvottam Jeevan Raksha Padak to 12 Silkyara Tunnel Rat Miners. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Ashoka Chakra series gallantry offshoot (instituted 1961).",
+        "Award Money: Sarvottam (₹2,00,000), Uttam (₹1,50,000), Jeevan Raksha (₹100,000).",
+        "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 7,
+      "code": "SEC7",
+      "name": "AWARDS, BOOKS, INDICES & RANKINGS",
+      "emoji": "🏆",
+      "fullName": "7. 🏆 AWARDS, BOOKS, INDICES & RANKINGS"
+    },
+    "hook": "🪝 Nitin Gadkari Confers Sarvottam Jeevan Raksha Padak to 12 Silkyara Tunnel Rat Miners",
+    "examAngle": "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-08-07"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec7",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-07",
+    "category": "SEC7",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:07.934Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec7-140",
+      "sourceTitle": "Nitin Gadkari Confers Sarvottam Jeevan Raksha Padak to 12 Silkyara Tunnel Rat Miners",
+      "sourceChecksum": "c9da08fdf6828e186580607789580983bac23950b9bfa19981193843520397ae",
+      "migrationTimestamp": "2026-08-15T12:12:07.934Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC7",
+    "sectionNumber": 7,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

@@ -1,31 +1,33 @@
 {
   "id": "migrated-ca-ca-2026-08-12-sebi-fpi-non-agri-commodity-derivatives",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "SEBI Proposes Wider FPI Participation in Non-Agricultural Commodity Derivatives",
+  "type": "ca_note",
   "summary": "SEBI proposed allowing FPIs in non-agri index derivatives and physically settled contracts with 2-tier safeguard mechanism.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "SEBI proposed allowing FPIs in non-agri index derivatives and physically settled contracts with 2-tier safeguard mechanism."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 SEBI Proposes Wider FPI Participation in Non-Agricultural Commodity Derivatives. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "SEBI proposed allowing FPIs in non-agri index derivatives and physically settled contracts with 2-tier safeguard mechanism.",
         "**Expanded Scope:** FPIs allowed in non-cash-settled and physically settled non-agricultural commodity derivatives.",
         "**Two-Tier Safeguard:** Voluntary exit before delivery period; automatic position transfer to designated Trading Member (TM/TCM) as backstop.",
-        "**Settlement Rules:** Transferred position executed at settlement price; TM/TCM given **2 trading days** to align position limits."
+        "**Settlement Rules:** Transferred position executed at settlement price; TM/TCM given **2 trading days** to align position limits.",
+        "≠ **Position Transfer Limit:** TM/TCM allowed up to 2 trading days to bring positions within limit.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
       "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "SEBI Commodity Derivatives: FPI participation first allowed in cash-settled contracts in 2022."
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "SEBI Established: 12 April 1992 (SEBI Act 1992) · HQ: Mumbai · Regulatory Scope: Securities & Capital Markets"
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "≠ **Position Transfer Limit:** TM/TCM allowed up to 2 trading days to bring positions within limit."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -50,6 +52,16 @@
       "sourceChecksum": "07e374d58d68485e79529ef0a307fc4f876995031fefac9095228933e3ed4b09",
       "migrationTimestamp": "2026-08-15T12:20:27.537Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

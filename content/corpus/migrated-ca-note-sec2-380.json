@@ -1,30 +1,27 @@
 {
   "id": "migrated-ca-note-sec2-380",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "India Slips to 7th Spot in Global Market Cap Rankings (.9 Trillion)",
+  "type": "ca_note",
   "summary": "South Korea and Taiwan overtake India in stock market valuation as US leads with .1 trillion.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "South Korea and Taiwan overtake India in stock market valuation as US leads with .1 trillion."
+      "type": "warning_banner",
+      "title": "📰 7. 🏆 AWARDS, BOOKS, INDICES & RANKINGS",
+      "text": "🪝 India Slips to 7th Spot in Global Market Cap Rankings (.9 Trillion). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "South Korea and Taiwan overtake India in stock market valuation as US leads with .1 trillion.",
         "Global Rankings: US #1 (.1T), China #2 (.3T), Japan #3 (.9T), Hong Kong #4 (.6T), South Korea #6 (+), India #7 (.9T).",
-        "Rank Shift: India slipped three places after being overtaken by Hong Kong, Taiwan, and South Korea."
+        "Rank Shift: India slipped three places after being overtaken by Hong Kong, Taiwan, and South Korea.",
+        "India rank in global market cap (7th) vs top country (US at .1T).",
+        "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "India's market capitalization stands at .9 trillion."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "India rank in global market cap (7th) vs top country (US at .1T)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
     }
   ],
   "metadata": {
@@ -49,6 +46,16 @@
       "sourceChecksum": "a870ae58790c721f12f1b36d4139ca8bb6113f032f7504506574b4068c4dd232",
       "migrationTimestamp": "2026-08-15T12:18:04.451Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC7",
+    "sectionNumber": 7,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

@@ -1,29 +1,26 @@
 {
   "id": "migrated-ca-ca-2026-08-11-ashmita-chaliha-korea-masters",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Ashmita Chaliha Wins Korea Masters 2026 Women's Singles Title",
+  "type": "ca_note",
   "summary": "Ashmita Chaliha won her 1st BWF World Tour title at Korea Masters 2026, defeating China's Han Qian Xi.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Ashmita Chaliha won her 1st BWF World Tour title at Korea Masters 2026, defeating China's Han Qian Xi."
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 Ashmita Chaliha Wins Korea Masters 2026 Women's Singles Title. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
-        "**Champion:** Ashmita Chaliha (India) won **Women's Singles** (1st BWF title), defeating Han Qian Xi (China)."
+        "Ashmita Chaliha won her 1st BWF World Tour title at Korea Masters 2026, defeating China's Han Qian Xi.",
+        "**Champion:** Ashmita Chaliha (India) won **Women's Singles** (1st BWF title), defeating Han Qian Xi (China).",
+        "≠ **First Title:** Ashmita Chaliha's maiden BWF World Tour title.",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Sport: Badminton (BWF World Tour Super 300)."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "≠ **First Title:** Ashmita Chaliha's maiden BWF World Tour title."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
     }
   ],
   "metadata": {
@@ -48,6 +45,16 @@
       "sourceChecksum": "507433ae28f93a45fe625fd53a5a04b6551808c6097adeef054d3433465c619c",
       "migrationTimestamp": "2026-08-15T12:19:51.523Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

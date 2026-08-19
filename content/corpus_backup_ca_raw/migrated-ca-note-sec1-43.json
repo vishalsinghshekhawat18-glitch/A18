@@ -1,0 +1,80 @@
+{
+  "id": "migrated-ca-note-sec1-43",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "PM Modi Launches South India's First Semiconductor Chip Plant in Visakhapatnam",
+  "summary": "Establishes domestic semiconductor packaging hubs under India Semiconductor Mission.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 PM Modi Launches South India's First Semiconductor Chip Plant in Visakhapatnam. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Establishes domestic semiconductor packaging hubs under India Semiconductor Mission.",
+        "📌 **Core Policy Directives & Scope:**\nPM laid foundation stone for **ASIP Technologies's ₹2,500 crore** OSAT facility.\nLocation: **Visakhapatnam, Andhra Pradesh**.",
+        "💰 **Financial Outlays & Operational Rules:**\nRegional Milestone: **Andhra Pradesh's and South India's 1st semiconductor plant** under ISM 1.0.\nTech Partner: **APACT Co.** (South Korea).",
+        "South India's 1st OSAT plant (ASIP Visakhapatnam, AP) vs India's 1st Commercial Fab (Tata Dholera, Gujarat).",
+        "🎯 Exam Angle → Focus on ₹1,27,500 Crore CCEA outlay, 50% fiscal support for silicon fabs, and India Semiconductor Mission (ISM) milestones."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on ₹1,27,500 Crore CCEA outlay, 50% fiscal support for silicon fabs, and India Semiconductor Mission (ISM) milestones."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 10,
+      "code": "SEC10",
+      "name": "MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "emoji": "📌",
+      "fullName": "10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC"
+    },
+    "hook": "🪝 PM Modi Launches South India's First Semiconductor Chip Plant in Visakhapatnam",
+    "examAngle": "🎯 Exam Angle → Focus on ₹1,27,500 Crore CCEA outlay, 50% fiscal support for silicon fabs, and India Semiconductor Mission (ISM) milestones.",
+    "interviewQ": {
+      "question": "Why is domestic semiconductor fabrication critical for India's strategic sovereignty?",
+      "modelAnswer": "Semiconductors underpin telecom, defence, AI, and automotive supply chains. Domestic fabrication eliminates single-source import dependencies."
+    },
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-08-01"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:02.257Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-43",
+      "sourceTitle": "PM Modi Launches South India's First Semiconductor Chip Plant in Visakhapatnam",
+      "sourceChecksum": "2fd330b398925a77db72f37db5380b50177f1ad7fb8a22717244d0c807ff85e3",
+      "migrationTimestamp": "2026-08-15T12:10:02.257Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

@@ -1,26 +1,27 @@
 {
   "id": "migrated-ca-note-sec4-435",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Indian Army Procures 10,000+ Meprolight 'MEPRO X6' Telescopic Sights for NEGEV LMGs",
+  "type": "ca_note",
   "summary": "First army in the world to place telescopic optics on light machine guns at scale.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "First army in the world to place telescopic optics on light machine guns at scale."
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 Indian Army Procures 10,000+ Meprolight 'MEPRO X6' Telescopic Sights for NEGEV LMGs. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "First army in the world to place telescopic optics on light machine guns at scale.",
         "MEPRO X6 Sight: Fixed 6x magnification daytime sight with 1,000m effective range for NEGEV NG-7 7.62x51mm LMGs.",
         "Prime Contractor: Bharat Electronics Limited (BEL) secured tender via Transfer of Technology (ToT) from Israel's Meprolight & RRP Defense.",
-        "Global First: Marks 1st instance globally of a military deploying telescopic optics on LMGs across regular infantry."
+        "Global First: Marks 1st instance globally of a military deploying telescopic optics on LMGs across regular infantry.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Indian Army Procures 10,000+ Meprolight 'MEPRO X6' Telescopic Sights for NEGEV LMGs."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "NEGEV NG-7 LMG manufactured in India under licence from Israel Weapon Industries (IWI)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Indian Army Procures 10,000+ Meprolight 'MEPRO X6' Telescopic Sights for NEGEV LMGs."
     }
   ],
   "metadata": {
@@ -45,6 +46,16 @@
       "sourceChecksum": "9577f76b045f6fe28e83d9c505bfaf6053ffec552e412bbcc4484ae2b1314221",
       "migrationTimestamp": "2026-08-15T12:19:15.619Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

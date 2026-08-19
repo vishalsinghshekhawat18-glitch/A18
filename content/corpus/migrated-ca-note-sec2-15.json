@@ -1,36 +1,33 @@
 {
   "id": "migrated-ca-note-sec2-15",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "SEBI Clarifies Rules for Private Share Transfers in Unlisted Companies",
+  "type": "ca_note",
   "summary": "Prevents illegal public offerings disguised as private secondary share sales.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Prevents illegal public offerings disguised as private secondary share sales."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 SEBI Clarifies Rules for Private Share Transfers in Unlisted Companies. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Prevents illegal public offerings disguised as private secondary share sales.",
         "Secondary transfer of unlisted company shares by an existing shareholder to **≤200 buyers in a FY** is **NOT** treated as a public issue.",
         "Contractual rights like **Right of First Refusal (ROFR)** can be honored.",
-        "Exceeding **200 buyers per FY** automatically converts the transaction into a **Deemed Public Issue**."
+        "Exceeding **200 buyers per FY** automatically converts the transaction into a **Deemed Public Issue**.",
+        "200 buyers limit per FY for secondary unlisted share deals vs 200 private placement limit under Sec 42 Companies Act 2013.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
       "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "SEBI established 1988, statutory powers in 1992 via SEBI Act, 1992 | HQ: Mumbai."
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "SEBI Established: 12 April 1992 (SEBI Act 1992) · HQ: Mumbai · Regulatory Scope: Securities & Capital Markets"
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "200 buyers limit per FY for secondary unlisted share deals vs 200 private placement limit under Sec 42 Companies Act 2013."
-    },
-    {
-      "type": "quote",
-      "quote": "Interview Focus Question: \"Why did SEBI set a 200-buyer cap per FY for secondary unlisted share deals?\"\n💡 **Model Answer: Prevents unlisted companies from conducting backdoor public issues without fulfilling prospectus disclosure rules.**",
-      "author": "Banking & Regulatory Board Panel"
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -55,6 +52,16 @@
       "sourceChecksum": "bef8d63a2232a71ebb1f99a192c6edebe1589fd68d7792ca3e3af3dd41a57190",
       "migrationTimestamp": "2026-08-15T12:09:32.007Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

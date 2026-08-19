@@ -1,0 +1,36 @@
+{
+  "id": "emu-jan-rbi-psl-auditor-certification",
+  "title": "🏛️ RBI Tightens Priority Sector Lending (PSL) — External Auditor Certificates for On-Lending",
+  "category": "SEC2",
+  "tier": "TIER_A",
+  "theme": "Priority Sector Lending Prudential Governance",
+  "summary": "RBI mandated scheduled banks to obtain external auditor certificates from NBFCs, MFIs, and HFCs ensuring on-lending loans are not double-counted as PSL by multiple banks (on-lending cap: NBFCs 5%, NBFC-MFIs 10%).",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "**Overview**: RBI mandated scheduled banks to obtain external auditor certificates from NBFCs, MFIs, and HFCs ensuring on-lending loans are not double-counted as PSL by multiple banks (on-lending cap: NBFCs 5%, NBFC-MFIs 10%)."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**RBI Tightens Priority Sector Lending (PSL) with Mandatory External Auditor Certificates** (Page 32): RBI mandated scheduled banks to obtain external auditor certificates from NBFCs, MFIs, and HFCs ensuring on-lending loans are not double-counted as PSL by multiple banks (on-lending cap: NBFCs 5%, NBFC-MFIs 10%)."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Priority Sector Lending Prudential Governance. Mandates external auditor verification to prevent double counting of PSL on-lending (5% NBFC cap, 10% NBFC-MFI cap)."
+    }
+  ],
+  "metadata": {
+    "provenancePages": [
+      32
+    ],
+    "constituentArticleCount": 1,
+    "provenanceArticleIds": [
+      "jan-art-55"
+    ],
+    "statutoryConcept": "Priority Sector Lending Prudential Governance",
+    "whyStandalone": "Mandates external auditor verification to prevent double counting of PSL on-lending (5% NBFC cap, 10% NBFC-MFI cap)."
+  }
+}

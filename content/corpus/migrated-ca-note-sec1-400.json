@@ -1,31 +1,33 @@
 {
   "id": "migrated-ca-note-sec1-400",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "RBI Revamps Lead Bank Scheme: Mandates 1 Exclusive LDM Per District",
+  "type": "ca_note",
   "summary": "Formalises Block Level Bankers' Committee (BLBC) as credit planning foundation.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Formalises Block Level Bankers' Committee (BLBC) as credit planning foundation."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 RBI Revamps Lead Bank Scheme: Mandates 1 Exclusive LDM Per District. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Formalises Block Level Bankers' Committee (BLBC) as credit planning foundation.",
         "Exclusive LDM: Mandates every lead bank to appoint an exclusive Lead District Manager (LDM) per district.",
         "BLBC Role: Formalises Block Level Bankers' Committee (BLBC) as foundation of district credit planning.",
-        "Meeting Timelines: Prescribes uniform meeting schedules for BLBC, DCC, DLRC, and SLBC."
+        "Meeting Timelines: Prescribes uniform meeting schedules for BLBC, DCC, DLRC, and SLBC.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
       "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Lead Bank Scheme introduced in 1969 based on Gadgil & Nariman Committee recommendations."
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -39,7 +41,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-06-22",
-    "category": "SEC1",
+    "category": "SEC2",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:18:04.452Z",
     "provenance": {
@@ -50,6 +52,16 @@
       "sourceChecksum": "32f5832e099e7e6015eaee82d98993d1e35f936886b442d9a6ce67bac57b20e6",
       "migrationTimestamp": "2026-08-15T12:18:04.452Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

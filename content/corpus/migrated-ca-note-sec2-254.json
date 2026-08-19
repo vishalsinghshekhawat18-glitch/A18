@@ -1,48 +1,32 @@
 {
   "id": "migrated-ca-note-sec2-254",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "RBI Financial Inclusion Index (FI-Index) Rises to 70.0 in March 2026",
+  "type": "ca_note",
   "summary": "Measures 97 financial inclusion indicators across Access (35%), Usage (45%), and Quality (20%).",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Measures 97 financial inclusion indicators across Access (35%), Usage (45%), and Quality (20%)."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 RBI Financial Inclusion Index (FI-Index) Rises to 70.0 in March 2026. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Measures 97 financial inclusion indicators across Access (35%), Usage (45%), and Quality (20%).",
         "Index Value: FI-Index rose 4.48% to 70.0 in March 2026 (up from 67.0 in March 2025).",
-        "Parameter Weights: Access (35%), Usage (45%), Quality (20%) — published annually without a base year."
-      ]
-    },
-    {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Metric / Component",
-        "Threshold / Provision Detail"
-      ],
-      "rows": [
-        [
-          "Index Value",
-          "FI-Index rose 4.48% to 70.0 in March 2026 (up from 67.0 in March 2025)."
-        ],
-        [
-          "Parameter Weights",
-          "Access (35%), Usage (45%), Quality (20%) — published annually without a base year."
-        ]
+        "Parameter Weights: Access (35%), Usage (45%), Quality (20%) — published annually without a base year.",
+        "Usage weightage (45%) vs Access weightage (35%) vs Quality weightage (20%).",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
       "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "FI-Index introduced in August 2021 by RBI."
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Usage weightage (45%) vs Access weightage (35%) vs Quality weightage (20%)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -67,6 +51,16 @@
       "sourceChecksum": "325b9d80ea2358ce4f1f979fba893bff09af9107bcfb74d8089ba14658885c57",
       "migrationTimestamp": "2026-08-15T12:15:05.761Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

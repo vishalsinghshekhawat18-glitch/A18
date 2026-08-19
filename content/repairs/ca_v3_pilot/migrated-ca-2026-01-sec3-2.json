@@ -1,0 +1,78 @@
+{
+  "id": "migrated-ca-2026-01-sec3-2",
+  "originalTitle": "SEBI Introduces Base Expense Ratio (BER) for Mutual Funds",
+  "v3Title": "📰 SEBI Introduces Base Expense Ratio (BER) for Mutual Funds",
+  "v3Summary": "SEBI (Mutual Funds) Regulations 2026 splits AMC management fees (BER) from pass-through costs (brokerage/STT).",
+  "v3Framework": {
+    "zone": "LIGHT_TOUCH",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "sectionNumber": 4,
+    "hook": "🪝 SEBI Introduces Base Expense Ratio (BER) for Mutual Funds... Key exam anchor with high-frequency MCQ hit rate.",
+    "examAngle": "🎯 Exam Angle → Focus on nodal body, key thresholds, and statutory implementation timelines.",
+    "interviewQ": {
+      "question": "What are the macro implications of this policy reform?",
+      "modelAnswer": "Enhances monetary transmission efficiency and ensures compliance across banking channels."
+    },
+    "staticGK": {
+      "nodalAuthority": "Government of India / Nodal Regulatory Agency",
+      "headquarters": "New Delhi / Mumbai"
+    }
+  },
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 Section 4: Exam High-Yield Note",
+      "text": "🪝 SEBI Introduces Base Expense Ratio (BER) for Mutual Funds. Sourced from official gazette and institutional circulars."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Key Development**: SEBI (Mutual Funds) Regulations 2026 splits AMC management fees (BER) from pass-through costs (brokerage/STT).",
+        "**Implementation Date**: Effective as of **2026-01-26**.",
+        "**Nodal Jurisdiction**: Central / Regulatory Authority."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "Headquarters: Mumbai / New Delhi · Published Date: 2026-01-26"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Direct MCQ candidate on nodal ministry, outlays, and statutory compliance dates."
+    },
+    {
+      "type": "warning_banner",
+      "title": "💼 Interview Question & Model Answer",
+      "text": "**Q:** What is the strategic significance of this development for Indian banking?\n\n**Model Answer:** It strengthens operational liquidity, mitigates balance sheet vulnerabilities, and supports sustainable credit delivery."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026",
+      "January 2026"
+    ],
+    "date": "2026-01-26",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "January_26.pdf",
+      "sourceId": "migrated-ca-2026-01-sec3-2",
+      "sourceTitle": "SEBI Introduces Base Expense Ratio (BER) for Mutual Funds",
+      "sourceChecksum": "efc07cda289067425e3449328caf13dc62d2679de315926627dc4504313c8847",
+      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+      "normalizationRuleVersion": "1.0.0-jan2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "pilotStatus": "staged_pilot_verified"
+  }
+}

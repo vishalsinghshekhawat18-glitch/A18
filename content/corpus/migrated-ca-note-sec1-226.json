@@ -1,30 +1,27 @@
 {
   "id": "migrated-ca-note-sec1-226",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Odisha Signs ₹20,000 Crore TASA Agreement with World Bank's IFC",
+  "type": "ca_note",
   "summary": "Develops pipeline of 20 infrastructure projects under Transaction Advisory Services Agreement.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Develops pipeline of 20 infrastructure projects under Transaction Advisory Services Agreement."
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 Odisha Signs ₹20,000 Crore TASA Agreement with World Bank's IFC. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Develops pipeline of 20 infrastructure projects under Transaction Advisory Services Agreement.",
         "Investment Pipeline: 20 infrastructure projects with  billion (₹20,000 crore) investment potential.",
-        "Partner Entity: International Finance Corporation (IFC), private-sector arm of World Bank Group."
+        "Partner Entity: International Finance Corporation (IFC), private-sector arm of World Bank Group.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Odisha CM: Mohan Charan Majhi | IFC HQ: Washington D.C."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Odisha Signs ₹20,000 Crore TASA Agreement with World Bank's IFC."
     }
   ],
   "metadata": {
@@ -49,6 +46,16 @@
       "sourceChecksum": "be6227457e390648f1639aae781d6cdfc1074a274255af7d744b8fa501f8af79",
       "migrationTimestamp": "2026-08-15T12:14:29.730Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

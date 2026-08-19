@@ -1,49 +1,33 @@
 {
   "id": "migrated-ca-note-sec4-335",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "MoE UDISE+ 2025-26 Report: Pupil-Teacher Ratio Improves to 10-21 Across Key Stages",
+  "type": "ca_note",
   "summary": "Teacher count rises to 1.02 crore as secondary Gross Enrolment Ratio touches 71.7%.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Teacher count rises to 1.02 crore as secondary Gross Enrolment Ratio touches 71.7%."
+      "type": "warning_banner",
+      "title": "📰 3. 🏦 BANKING & INSURANCE NEWS",
+      "text": "🪝 MoE UDISE+ 2025-26 Report: Pupil-Teacher Ratio Improves to 10-21 Across Key Stages. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Teacher count rises to 1.02 crore as secondary Gross Enrolment Ratio touches 71.7%.",
         "Pupil-Teacher Ratio (PTR): 10 at foundational level, 12 at preparatory, 17 at middle, 21 at secondary (all better than NEP 30:1 target).",
         "Enrolment & Dropouts: Secondary GER rose to 71.7% (from 68.5%); secondary dropout rate fell to 7% (from 8.2%); female teaching staff 54.9%.",
-        "Single-Teacher Reduction: Single-teacher schools fell to 1,00,843; zero-enrolment schools dropped 29% to 5,663."
+        "Single-Teacher Reduction: Single-teacher schools fell to 1,00,843; zero-enrolment schools dropped 29% to 5,663.",
+        "NEP recommended PTR (30:1) vs secondary level actual PTR (21:1).",
+        "🎯 Exam Angle → Focus on monthly transaction volume & value records, NPCI market cap limits, and international UPI linkage countries."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Metric / Component",
-        "Threshold / Provision Detail"
-      ],
-      "rows": [
-        [
-          "Enrolment & Dropouts",
-          "Secondary GER rose to 71.7% (from 68.5%); secondary dropout rate fell to 7% (from 8.2%); female teaching staff 54.9%."
-        ],
-        [
-          "Single-Teacher Reduction",
-          "Single-teacher schools fell to 1,00,843; zero-enrolment schools dropped 29% to 5,663."
-        ]
-      ]
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on monthly transaction volume & value records, NPCI market cap limits, and international UPI linkage countries."
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "UDISE+ (Unified District Information System for Education Plus) covers 14.8 lakh schools and 26 crore students."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "NEP recommended PTR (30:1) vs secondary level actual PTR (21:1)."
+      "type": "warning_banner",
+      "title": "💼 Interview Question & Model Answer",
+      "text": "**Q:** How does international UPI linkage assist Indian cross-border trade and remittances?\n\n**Model Answer:** It lowers cross-border transaction fees by bypassing intermediary correspondent banking networks and enables real-time sovereign currency settlements."
     }
   ],
   "metadata": {
@@ -57,7 +41,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-07-18",
-    "category": "SEC4",
+    "category": "SEC3",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:16:51.763Z",
     "provenance": {
@@ -68,6 +52,16 @@
       "sourceChecksum": "47e7a0f7365cc161d53ba86e8f410f6747fd85604f7d3fc6307061bdf311d232",
       "migrationTimestamp": "2026-08-15T12:16:51.763Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC3",
+    "sectionNumber": 3,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 88
   }
 }

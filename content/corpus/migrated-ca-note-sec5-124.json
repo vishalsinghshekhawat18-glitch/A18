@@ -1,36 +1,26 @@
 {
   "id": "migrated-ca-note-sec5-124",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "IIFL Capital Adopts Flytxt AI Platform to Accelerate AUM Growth",
+  "type": "ca_note",
   "summary": "Leverages AI for investor engagement and asset management.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Leverages AI for investor engagement and asset management."
+      "type": "warning_banner",
+      "title": "📰 5. 🤝 MoUs, CONFERENCES & APPOINTMENTS",
+      "text": "🪝 IIFL Capital Adopts Flytxt AI Platform to Accelerate AUM Growth. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Leverages AI for investor engagement and asset management.",
         "IIFL Capital deployed Flytxt AI customer data platform across its wealth management operations.",
-        "Designed to hyper-personalise investment recommendations and scale AUM."
+        "Designed to hyper-personalise investment recommendations and scale AUM (total market value of assets under management).",
+        "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Appointee / Official",
-        "New Position & Organization",
-        "Key Context & Details"
-      ],
-      "rows": [
-        [
-          "IIFL Capital Adopts Flytxt AI Platform to Accelerate AUM Growth",
-          "Official Appointment",
-          "IIFL Capital deployed Flytxt AI customer data platform across its wealth management operations."
-        ]
-      ]
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
     }
   ],
   "metadata": {
@@ -55,6 +45,16 @@
       "sourceChecksum": "3d5dd820b797f8155a14dcd122704c15e661dee816675aabf407f1e701d2c76e",
       "migrationTimestamp": "2026-08-15T12:11:38.420Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC5",
+    "sectionNumber": 5,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

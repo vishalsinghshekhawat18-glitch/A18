@@ -1,0 +1,196 @@
+{
+  "id": "migrated-schemes-scheme-10",
+  "type": "ca_note",
+  "domain": "schemes",
+  "title": "Krishi-Decision Support System (Krishi-DSS / ADSS)",
+  "summary": "Krishi-Decision Support System (Krishi-DSS / ADSS) — Comprehensive study notes covering objectives, eligibility, outlay, and exam traps.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "Krishi-Decision Support System (Krishi-DSS / ADSS)",
+      "summary": "To provide a comprehensive geospatial decision support system integrating satellite remote sensing, weather models, soil health maps, and groundwater levels to empower farmers, crop insurance assessment, and agricultural policy planning."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⏱️ Component Lifecycles & Temporal Status"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Component / Pillar",
+        "Type",
+        "Period",
+        "Status (Aug 2026)",
+        "Exam Relevance"
+      ],
+      "rows": [
+        [
+          "Digital Agriculture Mission Umbrella Outlay (₹2,817 Cr)",
+          "financial-cycle",
+          "2024-09-02 to 2027-03-31",
+          "CURRENT",
+          "Total outlay ₹2,817 Cr (Centre ₹1,940 Cr, State ₹877 Cr) for 2024-2027."
+        ],
+        [
+          "Krishi-DSS Geospatial Platform Operations",
+          "mission",
+          "Since 2024-09-02",
+          "CURRENT",
+          "Integrates remote sensing, soil health GIS, weather, and groundwater."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🏛️ Administrative & Financial Framework"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Parameter",
+        "Official Specification"
+      ],
+      "rows": [
+        [
+          "Nodal Ministry",
+          "Ministry of Agriculture and Farmers' Welfare"
+        ],
+        [
+          "Department",
+          "Department of Agriculture and Farmers' Welfare (DA&FW)"
+        ],
+        [
+          "Launch Year / Period",
+          "2024 (Approved under Digital Agriculture Mission, September 2024)"
+        ],
+        [
+          "Financial Outlay",
+          "₹2,817 Crore (Total Digital Agriculture Mission outlay; Central Share: ₹1,940 Crore, State Share: ₹877 Crore)."
+        ],
+        [
+          "Funding Pattern",
+          "Central Sector component within Digital Agriculture Mission umbrella."
+        ],
+        [
+          "Implementing Agency",
+          "Department of Agriculture & Farmers' Welfare in collaboration with ISRO (Department of Space) and Mahalanobis National Crop Forecast Centre (MNCFC)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🎯 Target Beneficiaries & Eligibility"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Target Beneficiaries:** Indian farmers, state agriculture departments, crop insurance agencies (PMFBY), and agricultural research institutions.",
+        "**Eligibility Criteria:** All registered farmers and agricultural stakeholders across India."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "✨ Key Components & Features"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Digital Crop Estimation: Uses multi-temporal satellite imagery to assess crop area and health.",
+        "Drought and Moisture Monitoring: Real-time soil moisture and weather data integration for early drought warnings.",
+        "AgriStack Core Registries: Directly integrates with the three foundational pillars of AgriStack — (1) Farmers' Registry (unique Farmer ID), (2) Geo-referenced Village Maps, and (3) Crop Sown Registry.",
+        "Pest and Disease Surveillance: GIS-based pest prediction to enable targeted advisory to farmers."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚠️ Exam Traps & Key Distinctions"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Core Trap: Krishi-DSS is NOT a standalone private tech tool; it is a foundational public digital infrastructure under the ₹2,817 Cr Digital Agriculture Mission (2024).",
+        "AgriStack Registries: Built on 3 core registries: Farmers' Registry (Farmer ID), Geo-referenced Village Maps, and Crop Sown Registry.",
+        "Technology partner: Jointly developed with ISRO / MNCFC."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📚 Authoritative Sources"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Press Information Bureau (PIB Delhi), Cabinet approves Digital Agriculture Mission (02-September-2024)",
+        "Department of Agriculture & Farmers' Welfare, Official Guidelines on Krishi-DSS Portal (agricoop.gov.in)"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:01.064Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-10",
+      "sourceTitle": "Agriculture Decision Support System (ADSS): Integrates remote sensing data (crop, soil,",
+      "sourceChecksum": "0781e6f5bb80336b354413f55fffccd4c8379d5293f4cd5bee376bf1bb202258",
+      "migrationTimestamp": "2026-08-15T12:14:01.064Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    },
+    "repairedVersion": "r4.c9-fine-tuned",
+    "repairedTimestamp": "2026-08-18T13:35:21.431Z",
+    "promotionGate": "R4.C9-passed",
+    "promotionStatus": "approved",
+    "promotedTimestamp": "2026-08-18T13:35:21.432Z",
+    "overallTemporalStatus": "CURRENT",
+    "temporalWarning": null,
+    "temporalComponentsCount": 2,
+    "statusAsOf": "2026-08-18",
+    "requiresHumanReview": false
+  },
+  "temporal": {
+    "statusAsOf": "2026-08-18",
+    "overallStatus": "CURRENT",
+    "components": [
+      {
+        "name": "Digital Agriculture Mission Umbrella Outlay (₹2,817 Cr)",
+        "type": "financial-cycle",
+        "startDate": "2024-09-02",
+        "endDate": "2027-03-31",
+        "status": "CURRENT",
+        "evidence": [
+          "Union Cabinet approval PRID 2051101 for FY 2024-25 to 2026-27."
+        ],
+        "lastVerified": "2024-09-02",
+        "historicalExamRelevance": "Total outlay ₹2,817 Cr (Centre ₹1,940 Cr, State ₹877 Cr) for 2024-2027."
+      },
+      {
+        "name": "Krishi-DSS Geospatial Platform Operations",
+        "type": "mission",
+        "startDate": "2024-09-02",
+        "status": "CURRENT",
+        "evidence": [
+          "Department of Agriculture & ISRO continuous geospatial crop/drought modeling."
+        ],
+        "lastVerified": "2024-09-02",
+        "historicalExamRelevance": "Integrates remote sensing, soil health GIS, weather, and groundwater."
+      }
+    ]
+  }
+}

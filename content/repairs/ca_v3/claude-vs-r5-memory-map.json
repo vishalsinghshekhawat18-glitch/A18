@@ -1,0 +1,85 @@
+{
+  "version": "1.0.0-claude-vs-r5-map",
+  "timestamp": "2026-08-18T17:28:58.282Z",
+  "mappingCount": 13,
+  "mappings": [
+    {
+      "claudeTitle": "Union Budget 2026-27",
+      "r5UnitId": "emu-union-budget-2026-27",
+      "mapping": "EXACT_1_TO_1",
+      "note": "Clean 1:1 conceptual mapping."
+    },
+    {
+      "claudeTitle": "16th Finance Commission 41%",
+      "r5UnitId": "emu-16th-finance-commission",
+      "mapping": "EXACT_1_TO_1",
+      "note": "Clean 1:1 conceptual mapping."
+    },
+    {
+      "claudeTitle": "RBI MPC 5.25% & MSME ₹20L",
+      "r5UnitId": "emu-rbi-monetary-policy-msme",
+      "mapping": "EXACT_1_TO_1",
+      "note": "Clean 1:1 conceptual mapping."
+    },
+    {
+      "claudeTitle": "DICGC Risk-Based Premium",
+      "r5UnitId": "emu-dicgc-risk-based-premium",
+      "mapping": "EXACT_1_TO_1",
+      "note": "Clean 1:1 conceptual mapping."
+    },
+    {
+      "claudeTitle": "100% Insurance FDI (Sabka Bima)",
+      "r5UnitId": "emu-insurance-100-percent-fdi",
+      "mapping": "EXACT_1_TO_1",
+      "note": "Clean 1:1 conceptual mapping."
+    },
+    {
+      "claudeTitle": "SBI #4 M-Cap & $1B Social Loan",
+      "r5UnitId": "emu-sbi-landmark-scale-milestones",
+      "mapping": "EXACT_1_TO_1",
+      "note": "Both systems grouped SBI milestones together."
+    },
+    {
+      "claudeTitle": "India AI Impact Summit 2026",
+      "r5UnitId": "emu-india-ai-impact-summit-2026",
+      "mapping": "EXACT_1_TO_1",
+      "note": "Both systems synthesized MANAV and Frontier AI into 1 master summit note."
+    },
+    {
+      "claudeTitle": "PM-SETU Scheme (WB $830M + ITI)",
+      "r5UnitId": "emu-national-skilling-pm-setu",
+      "mapping": "EXACT_1_TO_1",
+      "note": "Both systems merged World Bank loan and NSTI Kanpur into PM-SETU."
+    },
+    {
+      "claudeTitle": "ANRF ₹1 Lakh Crore RDI Fund",
+      "r5UnitId": "emu-anrf-rdi-deep-tech-funds",
+      "mapping": "EXACT_1_TO_1",
+      "note": "Both systems grouped TDB and BIRAC fund calls under ANRF."
+    },
+    {
+      "claudeTitle": "Micron ATMP Sanand (₹22,500 Cr)",
+      "r5UnitId": "emu-strategic-defence-indigenisation",
+      "mapping": "R5_OVER_MERGED",
+      "note": "Claude kept Micron separate; R5 merged it with Agni-III."
+    },
+    {
+      "claudeTitle": "Brahmaputra Underwater Tunnel",
+      "r5UnitId": "emu-national-infrastructure-megaprojects",
+      "mapping": "R5_OVER_MERGED",
+      "note": "Claude kept Tunnel separate; R5 merged it with Namo Bharat RRTS."
+    },
+    {
+      "claudeTitle": "Uday Kotak Chairman GIFT City",
+      "r5UnitId": "emu-apex-institutional-appointments",
+      "mapping": "R5_OVER_MERGED",
+      "note": "Claude kept Uday Kotak separate; R5 merged with NITI Aayog CEO."
+    },
+    {
+      "claudeTitle": "Network Readiness Index 2025",
+      "r5UnitId": "emu-apex-global-indices-reports",
+      "mapping": "R5_OVER_MERGED",
+      "note": "Claude kept NRI separate; R5 merged with CPI and Henley."
+    }
+  ]
+}

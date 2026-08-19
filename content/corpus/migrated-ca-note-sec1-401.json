@@ -1,31 +1,33 @@
 {
   "id": "migrated-ca-note-sec1-401",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Int'l MSME Day 2026: Collateral-Free MSE Loan Limit Doubled from ₹10 Lakh to ₹20 Lakh",
+  "type": "ca_note",
   "summary": "RBI Governor notes MSMEs contribute 31% of India's GDP and half of merchandise exports.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "RBI Governor notes MSMEs contribute 31% of India's GDP and half of merchandise exports."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 Int'l MSME Day 2026: Collateral-Free MSE Loan Limit Doubled from ₹10 Lakh to ₹20 Lakh. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "RBI Governor notes MSMEs contribute 31% of India's GDP and half of merchandise exports.",
         "Collateral Cap Doubled: Mandatory collateral-free loan limit for MSEs doubled from ₹10 lakh to ₹20 lakh (extendable to ₹25 lakh).",
         "Account Aggregator Impact: AA framework facilitated ₹3.5 lakh crore lending in FY26.",
-        "Pre-Payment Charge Ban: Commercial banks barred from levying pre-payment penalties on floating-rate MSE loans."
+        "Pre-Payment Charge Ban: Commercial banks barred from levying pre-payment penalties on floating-rate MSE loans.",
+        "Standard MSE collateral-free limit (₹20 lakh) vs good track record limit (₹25 lakh).",
+        "🎯 Exam Angle → Focus on appointee name, nominating body (FSIB / ACC), predecessor, tenure duration, and statutory establishment year."
       ]
     },
     {
       "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "International MSME Day celebrated June 27 | MSME sector sustains 32 crore livelihoods."
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Standard MSE collateral-free limit (₹20 lakh) vs good track record limit (₹25 lakh)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on appointee name, nominating body (FSIB / ACC), predecessor, tenure duration, and statutory establishment year."
     }
   ],
   "metadata": {
@@ -39,7 +41,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-06-23",
-    "category": "SEC1",
+    "category": "SEC2",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:18:39.841Z",
     "provenance": {
@@ -50,6 +52,16 @@
       "sourceChecksum": "3351bb116688638d2e1302067c71039e3e0e2364ae2cd32055b46be518a3760d",
       "migrationTimestamp": "2026-08-15T12:18:39.841Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

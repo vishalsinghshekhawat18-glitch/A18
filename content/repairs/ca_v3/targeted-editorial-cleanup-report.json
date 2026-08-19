@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0-targeted-cleanup",
+  "generatedAt": "2026-08-18T16:42:45.571Z",
+  "duplicatesResolved": 3,
+  "factsAbsorbed": 3,
+  "sectionMovements": {
+    "sec2ToSec3": 6,
+    "sec2ToSec1": 2
+  },
+  "activeNotesCount": 647,
+  "redirectNotesCount": 6,
+  "updateNotesCount": 2,
+  "mergedNotesCount": 1,
+  "skippedNotesCount": 7,
+  "finalSectionCounts": {
+    "SEC4": 61,
+    "SEC1": 159,
+    "SEC6": 75,
+    "SEC10": 36,
+    "SEC3": 60,
+    "SEC2": 193,
+    "SEC7": 20,
+    "SEC5": 42,
+    "SEC8": 15
+  }
+}

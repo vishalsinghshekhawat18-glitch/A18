@@ -1,32 +1,29 @@
 {
   "id": "migrated-ca-ca-2026-08-12-india-6th-largest-gdp",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "India 6th-Largest Economy Globally with $3.92 Trillion Nominal GDP in FY26: IMF Outlook",
+  "type": "ca_note",
   "summary": "According to IMF April 2026 World Economic Outlook, India ranked 6th-largest global economy in FY26 with nominal GDP of $3.92 trillion.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "According to IMF April 2026 World Economic Outlook, India ranked 6th-largest global economy in FY26 with nominal GDP of $3.92 trillion."
+      "type": "warning_banner",
+      "title": "📰 7. 🏆 AWARDS, BOOKS, INDICES & RANKINGS",
+      "text": "🪝 India 6th-Largest Economy Globally with $3.92 Trillion Nominal GDP in FY26: IMF Outlook. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "According to IMF April 2026 World Economic Outlook, India ranked 6th-largest global economy in FY26 with nominal GDP of $3.92 trillion.",
         "**Nominal GDP Ranking:** India stood as world's **6th-largest economy in 2025-26** with nominal GDP of **$3.92 trillion** (Source: IMF April 2026 WEO).",
         "**PSB Asset Quality:** Gross NPAs of Public Sector Banks fell to **₹2,45,634 crore** (GNPA ratio declined to **1.93%**) as of March 31, 2026.",
         "**DEA Fund Unclaimed Deposits:** Total unclaimed deposits in Depositor Education and Awareness (DEA) Fund reached **₹86,917.08 crore** as of June 30, 2026.",
-        "**Bank Breakdown:** Public: SBI (₹20,040 cr), PNB, Canara Bank; Private: ICICI Bank (₹2,278 cr), HDFC Bank, Axis Bank."
+        "**Bank Breakdown:** Public: SBI (₹20,040 cr), PNB, Canara Bank; Private: ICICI Bank (₹2,278 cr), HDFC Bank, Axis Bank.",
+        "≠ **GNPA Ratio:** PSB Gross NPA ratio fell below 2% to 1.93% in FY26.",
+        "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Unclaimed Deposits: Savings/current accounts inoperative for 10 years or term deposits unclaimed 10 years post-maturity."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "≠ **GNPA Ratio:** PSB Gross NPA ratio fell below 2% to 1.93% in FY26."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
     }
   ],
   "metadata": {
@@ -40,7 +37,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-08-12",
-    "category": "SEC3",
+    "category": "SEC1",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:20:27.537Z",
     "provenance": {
@@ -51,6 +48,16 @@
       "sourceChecksum": "94a3a712d5949c6a4622b8a7383490cc8856627bf0266cfefbc22026e89384a0",
       "migrationTimestamp": "2026-08-15T12:20:27.537Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC7",
+    "sectionNumber": 7,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 92
   }
 }

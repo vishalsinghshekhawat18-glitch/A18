@@ -1,0 +1,135 @@
+{
+  "id": "migrated-schemes-scheme-100",
+  "type": "ca_note",
+  "domain": "schemes",
+  "title": "SHREYAS Scheme (Scholarships for Higher Education for Young Achievers Scheme)",
+  "summary": "SHREYAS Scheme (Scholarships for Higher Education for Young Achievers Scheme) — Comprehensive study notes covering objectives, eligibility, outlay, and exam traps.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "SHREYAS Scheme (Scholarships for Higher Education for Young Achievers Scheme)",
+      "summary": "To provide financial assistance and educational empowerment to Scheduled Castes (SC) and Other Backward Classes (OBC) students to pursue higher education (M.Phil, Ph.D., and overseas studies) and prepare for competitive exams."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🏛️ Administrative & Financial Framework"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Parameter",
+        "Official Specification"
+      ],
+      "rows": [
+        [
+          "Nodal Ministry",
+          "Ministry of Social Justice and Empowerment"
+        ],
+        [
+          "Department",
+          "Department of Social Justice and Empowerment"
+        ],
+        [
+          "Launch Year / Period",
+          "2021-22 (Consolidated umbrella scheme covering 2021-22 to 2025-26)"
+        ],
+        [
+          "Financial Outlay",
+          "₹4,103.55 Crore (Allocated for 2021-22 to 2025-26)."
+        ],
+        [
+          "Funding Pattern",
+          "100% Central Sector Scheme."
+        ],
+        [
+          "Implementing Agency",
+          "Department of Social Justice & Empowerment, UGC, National Scheduled Castes Finance & Development Corporation (NSFDC), and designated institutes."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🎯 Target Beneficiaries & Eligibility"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Target Beneficiaries:** Meritorious SC and OBC students pursuing higher education and competitive examinations.",
+        "**Eligibility Criteria:** SC/OBC students meeting specific sub-scheme academic and family income criteria (typically < ₹8.00 Lakh/annum for scholarships; < ₹2.50 Lakh for free coaching)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "✨ Key Components & Features"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Umbrella Framework: Subsumes 4 central sector sub-schemes:",
+        "1. Top Class Education for SCs (Full tuition + academic allowance for top institutes like IITs/IIMs).",
+        "2. Free Coaching Scheme for SCs and OBCs (Competitive exams like UPSC, Banking, SSC, JEE, NEET).",
+        "3. National Overseas Scheme (NOS) for SCs (Master's/Ph.D. in foreign universities).",
+        "4. National Fellowship for SC Students (NFSC) for M.Phil./Ph.D. research."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "⚠️ Exam Traps & Key Distinctions"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Exam Trap: SHREYAS is an UMBRELLA scheme for higher education scholarships; it is distinct from SHRESHTA (which focuses on CBSE residential schools for SCs).",
+        "Funding Pattern: 100% Central Sector (Zero state share)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📚 Authoritative Sources"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Ministry of Social Justice and Empowerment, Annual Report & Scheme Guidelines (socialjustice.gov.in)",
+        "PIB Delhi, \"SHREYAS: Umbrella Scheme for Higher Education Youth Empowerment\" (2023)"
+      ]
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "Bank PO",
+      "RBI Grade B",
+      "SBI PO"
+    ],
+    "tags": [
+      "schemes",
+      "Health, Social Justice & Education"
+    ],
+    "category": "Schemes",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:02.104Z",
+    "provenance": {
+      "sourceSystem": "Schemes",
+      "sourceFile": "ca_app/updated_schemes_data.js",
+      "sourceId": "scheme-100",
+      "sourceTitle": "SHREYAS Scheme (2021-2025):",
+      "sourceChecksum": "84eafffacfda6f3448ed1703306db90bbb44de2d7c909570406b85a06c99546d",
+      "migrationTimestamp": "2026-08-15T12:14:02.104Z",
+      "normalizationRuleVersion": "1.0.0-phase4-corrected"
+    },
+    "repairedVersion": "r4.c5-pilot",
+    "repairedTimestamp": "2026-08-18T13:11:12.063Z",
+    "requiresHumanReview": true,
+    "promotionGate": "R4.C7-passed",
+    "promotionStatus": "approved",
+    "promotedTimestamp": "2026-08-18T13:20:41.065Z",
+    "evidenceAuditFile": "content/repairs/r4c6/migrated-schemes-scheme-100-evidence.json",
+    "temporalStatus": "current",
+    "crossSchemeRole": "PRIMARY"
+  }
+}

@@ -1,30 +1,27 @@
 {
   "id": "migrated-ca-note-sec2-249",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "PFRDA Constitutes 'ASCEND' Committee to Attract Global Pension Capital",
+  "type": "ca_note",
   "summary": "Chaired by Dinesh Khara (NPS Trust Chairman) to scale global pension fund inflows under NPS.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Chaired by Dinesh Khara (NPS Trust Chairman) to scale global pension fund inflows under NPS."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 PFRDA Constitutes 'ASCEND' Committee to Attract Global Pension Capital. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Chaired by Dinesh Khara (NPS Trust Chairman) to scale global pension fund inflows under NPS.",
         "Committee Name: ASCEND (Accelerated Scaling of Global Capital Ecosystem and NPS Development).",
-        "Chairmanship: Chaired by Dinesh Khara, Chairman of NPS Trust."
+        "Chairmanship: Chaired by Dinesh Khara, Chairman of NPS Trust.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on appointee name, nominating body (FSIB / ACC), predecessor, tenure duration, and statutory establishment year."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "National Pension System (NPS) regulated by PFRDA since 2003."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on appointee name, nominating body (FSIB / ACC), predecessor, tenure duration, and statutory establishment year."
     }
   ],
   "metadata": {
@@ -49,6 +46,16 @@
       "sourceChecksum": "cf9b7cedeba5f47dc085d63064d2f1c488f41a2cfe13a399e0350ee80c5294cc",
       "migrationTimestamp": "2026-08-15T12:14:29.731Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

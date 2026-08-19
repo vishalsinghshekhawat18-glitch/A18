@@ -1,0 +1,63 @@
+{
+  "id": "migrated-ca-2026-01-sec3-4",
+  "title": "🏦 PFRDA Launches NPS Swasthya Pension Scheme — 25% Medical Withdrawal in Regulatory Sandbox",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "summary": "PFRDA launched contributory NPS Swasthya Pension under Regulatory Sandbox allowing partial withdrawals up to 25% of contributions for OPD/IPD expenses after ₹50,000 corpus, and 100% exit for critical illnesses exceeding 70% of corpus.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "**Overview**: PFRDA launched contributory NPS Swasthya Pension under Regulatory Sandbox allowing partial withdrawals up to 25% of contributions for OPD/IPD expenses after ₹50,000 corpus, and 100% exit for critical illnesses exceeding 70% of corpus."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**PFRDA Launches NPS Swasthya Pension Scheme in Regulatory Sandbox for Health Expenses** (Page 50): PFRDA launched contributory NPS Swasthya Pension under Regulatory Sandbox allowing partial withdrawals up to 25% of contributions for OPD/IPD expenses after ₹50,000 corpus, and 100% exit for critical illnesses exceeding 70% of corpus."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Pension Sandbox Innovations & Health Financing. PFRDA voluntary health pension allowing 25% partial withdrawals for OPD/IPD and 100% premature exit for critical illness >70% corpus."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026",
+      "January 2026",
+      "TIER_B_PLUS"
+    ],
+    "date": "2026-01-15",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-19T02:37:59.678Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Jan2026.pdf",
+      "sourceId": "emu-jan-pfrda-nps-swasthya-pension",
+      "sourceTitle": "🏦 PFRDA Launches NPS Swasthya Pension Scheme — 25% Medical Withdrawal in Regulatory Sandbox",
+      "provenancePages": [
+        50
+      ],
+      "constituentArticleCount": 1,
+      "migrationTimestamp": "2026-08-19T02:37:59.678Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_B_PLUS",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC3",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 85
+  },
+  "relationships": []
+}

@@ -1,0 +1,77 @@
+{
+  "id": "migrated-ca-note-sec1-423",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "MoCA Proposes Capping Airport Privatisation Bundles at 2-3 Bundles Per Bidder",
+  "summary": "Groups 11 airports into 5 bundles for 3rd PPPAC privatization round to prevent market oligopoly.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 MoCA Proposes Capping Airport Privatisation Bundles at 2-3 Bundles Per Bidder. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Groups 11 airports into 5 bundles for 3rd PPPAC privatization round to prevent market oligopoly.",
+        "Privatisation Cap: Limits airport bundles per bidder to 2-3 bundles (5-6 airports) in 3rd round of privatisation.",
+        "11 Airport Bundles: Amritsar-Kangra; Varanasi-Kushinagar-Gaya; Bhubaneswar-Hubli; Raipur-Aurangabad; Trichy-Tirupati.",
+        "Adani Market Share: Adani Group currently handles ~78 million passengers annually (~25% of India's air traffic).",
+        "Adani passenger market share (~25%) vs proposed bundle cap per bidder (2-3 bundles).",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of MoCA Proposes Capping Airport Privatisation Bundles at 2."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of MoCA Proposes Capping Airport Privatisation Bundles at 2."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 1,
+      "code": "SEC1",
+      "name": "ESI, FINANCE & BUSINESS NEWS",
+      "emoji": "💰",
+      "fullName": "1. 💰 ESI, FINANCE & BUSINESS NEWS"
+    },
+    "hook": "🪝 MoCA Proposes Capping Airport Privatisation Bundles at 2-3 Bundles Per Bidder",
+    "examAngle": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of MoCA Proposes Capping Airport Privatisation Bundles at 2.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-06-15"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-15",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:18:39.842Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-423",
+      "sourceTitle": "MoCA Proposes Capping Airport Privatisation Bundles at 2-3 Bundles Per Bidder",
+      "sourceChecksum": "5c036981af08e3f25edc46328d255ee54e062d76df61885553d86bc34fd39dc1",
+      "migrationTimestamp": "2026-08-15T12:18:39.842Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

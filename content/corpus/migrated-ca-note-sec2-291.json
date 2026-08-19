@@ -1,33 +1,35 @@
 {
   "id": "migrated-ca-note-sec2-291",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Static GK: International Financial Services Centres Authority (IFSCA) Mandate & Governance",
+  "type": "ca_note",
   "summary": "Unified regulator combining RBI, SEBI, IRDAI, and PFRDA powers for IFSC regions.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Unified regulator combining RBI, SEBI, IRDAI, and PFRDA powers for IFSC regions."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 Static GK: International Financial Services Centres Authority (IFSCA) Mandate & Governance. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Unified regulator combining RBI, SEBI, IRDAI, and PFRDA powers for IFSC regions.",
         "Establishment & Legal Basis: Established April 27, 2020 under the IFSCA Act 2019.",
         "Headquarters & Leadership: Headquartered at GIFT City, Gandhinagar, Gujarat.",
         "Chairperson: K.",
         "Rajaraman.",
-        "Regulatory Jurisdiction: Combines regulatory oversight of banking, capital markets, insurance, and pensions in IFSC zones."
+        "Regulatory Jurisdiction: Combines regulatory oversight of banking, capital markets, insurance, and pensions in IFSC zones.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
       "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "IFSCA Act 2019 created India's 1st unified international financial regulator."
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -52,6 +54,16 @@
       "sourceChecksum": "ed10160d71a1577a56dac1af66578902c6222ceef2dd682a2e84b2be83070e41",
       "migrationTimestamp": "2026-08-15T12:15:40.421Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

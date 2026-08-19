@@ -1,0 +1,42 @@
+{
+  "id": "emu-aifi-debt-market-issuances",
+  "title": "All-India Financial Institutions (AIFIs) — NaBFID ₹5,000 Cr CD Debut & NABARD ₹6,779 Cr Bond",
+  "category": "SEC3",
+  "tier": "TIER_B_PLUS",
+  "theme": "Development Financial Institution Debt Markets",
+  "summary": "IIFL Home Finance signed $300 million syndicated ECB (ADB $150M lead arranger, MUFG/Emirates Bank $150M) for affordable housing loans.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "**Overview**: IIFL Home Finance signed $300 million syndicated ECB (ADB $150M lead arranger, MUFG/Emirates Bank $150M) for affordable housing loans."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**IIFL Home Finance signs $300M syndicated loan with ADB** (Page 25): IIFL Home Finance signed $300 million syndicated ECB (ADB $150M lead arranger, MUFG/Emirates Bank $150M) for affordable housing loans.",
+        "**NABARD raises ₹6,779 Crore through 3-year bond at 7.01% yield** (Page 118): NABARD issued AAA-rated 3-year paper in corporate bond market.",
+        "**NaBFID raises ₹5,000 Crore through debut 1-year Certificate of Deposit at 6.95%** (Page 120): National Bank for Financing Infrastructure & Development issued debut CD."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Development Financial Institution Debt Markets. NaBFID 1-yr CD debut at 6.95% and NABARD AAA-rated 3-year bond."
+    }
+  ],
+  "metadata": {
+    "provenancePages": [
+      25,
+      118,
+      120
+    ],
+    "constituentArticleCount": 3,
+    "provenanceArticleIds": [
+      "cgb-art-76",
+      "cgb-art-351",
+      "cgb-art-362"
+    ],
+    "statutoryConcept": "Development Financial Institution Debt Markets",
+    "whyStandalone": "NaBFID 1-yr CD debut at 6.95% and NABARD AAA-rated 3-year bond."
+  }
+}

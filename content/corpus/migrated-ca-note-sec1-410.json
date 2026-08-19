@@ -1,31 +1,28 @@
 {
   "id": "migrated-ca-note-sec1-410",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "AM/NS India Approved as 1st Anchor Partner Under ₹60,000-Cr PM-SETU Scheme",
+  "type": "ca_note",
   "summary": "Andhra Pradesh becomes 1st state to operationalise industry-led management of ITIs.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Andhra Pradesh becomes 1st state to operationalise industry-led management of ITIs."
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 AM/NS India Approved as 1st Anchor Partner Under ₹60,000-Cr PM-SETU Scheme. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Andhra Pradesh becomes 1st state to operationalise industry-led management of ITIs.",
         "Anchor Partner: ArcelorMittal Nippon Steel India approved for Visakhapatnam ITI cluster under PM-SETU.",
         "PM-SETU Mandate: Upgrades 1,000 government ITIs across India using a hub-and-spoke model.",
-        "Steering Committee: National Steering Committee chaired by Skill Secretary Debashree Mukherjee."
+        "Steering Committee: National Steering Committee chaired by Skill Secretary Debashree Mukherjee.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "AM/NS India Headquarters: Hazira, Gujarat | CEO: Dilip Oommen."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
     }
   ],
   "metadata": {
@@ -50,6 +47,16 @@
       "sourceChecksum": "e6fd072667d3d28d7012fc5a26dd9e60d08a917ab95ac0cd096118653b085015",
       "migrationTimestamp": "2026-08-15T12:18:39.841Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

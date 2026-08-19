@@ -1,25 +1,26 @@
 {
   "id": "migrated-ca-note-sec3-261",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Visa Launches Biometric 'Visa Payment Passkey' in India via IDFC FIRST Bank",
+  "type": "ca_note",
   "summary": "Replaces SMS OTPs with device fingerprint, facial recognition, and PIN biometric authentication.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Replaces SMS OTPs with device fingerprint, facial recognition, and PIN biometric authentication."
+      "type": "warning_banner",
+      "title": "📰 3. 🏦 BANKING & INSURANCE NEWS",
+      "text": "🪝 Visa Launches Biometric 'Visa Payment Passkey' in India via IDFC FIRST Bank. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Replaces SMS OTPs with device fingerprint, facial recognition, and PIN biometric authentication.",
         "Biometric Authentication: Replaces SMS-based OTPs with fingerprint, facial recognition, or device PIN.",
-        "Launch Partner: Went live in partnership with IDFC FIRST Bank."
+        "Launch Partner: Went live in partnership with IDFC FIRST Bank.",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "IDFC FIRST Bank MD & CEO: V. Vaidyanathan | HQ: Mumbai."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
     }
   ],
   "metadata": {
@@ -44,6 +45,16 @@
       "sourceChecksum": "5d927b9c34ceab91d57787f3f6bfe4918b1f1c00ca6cf3088a30f66434b7aea0",
       "migrationTimestamp": "2026-08-15T12:15:05.761Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC3",
+    "sectionNumber": 3,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

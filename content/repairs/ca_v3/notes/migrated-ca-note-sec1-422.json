@@ -1,0 +1,85 @@
+{
+  "id": "migrated-ca-note-sec1-422",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "ICAR Launches AI-Based 'Oilseeds Kisaan Mitra' WhatsApp Chatbot (+91 4024598180)",
+  "summary": "Provides multilingual research-backed advisory to oilseed farmers directly on mobile phones.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS",
+      "text": "🪝 ICAR Launches AI-Based 'Oilseeds Kisaan Mitra' WhatsApp Chatbot (+91 4024598180). Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Provides multilingual research-backed advisory to oilseed farmers directly on mobile phones.",
+        "AI Chatbot: Developed by ICAR-Indian Institute of Oilseeds Research (ICAR-IIOR), Hyderabad.",
+        "Farmer Guidance: Responds instantly in any Indian language on crop management, seed selection, and pest control.",
+        "Import Dependency: India imports 55-60% of its edible oil requirement (~16 million tonnes at ₹1.32 lakh crore).",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "ICAR Established: 16 July 1929 · Nodal Ministry: Ministry of Agriculture & Farmers Welfare · HQ: New Delhi"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 6,
+      "code": "SEC6",
+      "name": "SCIENCE, TECHNOLOGY, DEFENCE & SPORTS",
+      "emoji": "🔬",
+      "fullName": "6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS"
+    },
+    "hook": "🪝 ICAR Launches AI-Based 'Oilseeds Kisaan Mitra' WhatsApp Chatbot (+91 4024598180)",
+    "examAngle": "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city.",
+    "staticGK": {
+      "summary": "ICAR Established: 16 July 1929 · Nodal Ministry: Ministry of Agriculture & Farmers Welfare · HQ: New Delhi"
+    },
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-06-14"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-14",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:18:39.842Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-422",
+      "sourceTitle": "ICAR Launches AI-Based 'Oilseeds Kisaan Mitra' WhatsApp Chatbot (+91 4024598180)",
+      "sourceChecksum": "8bd99f09c31f4f795dae8c3d6674650437058de7f79991d154bf94b447b0a911",
+      "migrationTimestamp": "2026-08-15T12:18:39.842Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "sectionNumber": 6,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

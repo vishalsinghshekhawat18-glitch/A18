@@ -1,13 +1,24 @@
 {
   "id": "migrated-ca-2026-02-sec3-5",
+  "title": "ICICI Swasthya Pension Scheme — PFRDA Sandbox Health-Linked Retirement",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "Tripura Gramin Bank — 1st RRB in India with Co-Branded RuPay Credit Card",
-  "summary": "Tripura Gramin Bank (sponsored by PNB) launches India's first co-branded RuPay credit card by a Regional Rural Bank.",
+  "summary": "ICICI Prudential launched Swasthya Pension Scheme under PFRDA sandbox allowing up to 25% withdrawal for medical expenses via Apollo 24|7 (70-100% equity investment).",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "Tripura Gramin Bank (TGB, HQ: Agartala) became the **first Regional Rural Bank in India to launch a co-branded RuPay credit card**, partnered with sponsor bank PNB."
+      "content": "**Overview**: ICICI Prudential launched Swasthya Pension Scheme under PFRDA sandbox allowing up to 25% withdrawal for medical expenses via Apollo 24|7 (70-100% equity investment)."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**ICICI Prudential introduces Swasthya Pension Scheme under PFRDA sandbox** (Page 24): ICICI Prudential launched Swasthya Pension Scheme under PFRDA sandbox allowing up to 25% withdrawal for medical expenses via Apollo 24|7 (70-100% equity investment)."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Pension Product Innovation. PFRDA sandbox product enabling 25% health withdrawal."
     }
   ],
   "metadata": {
@@ -17,22 +28,36 @@
       "SBI PO"
     ],
     "tags": [
-      "sec5",
+      "sec3",
       "Current Affairs 2026",
-      "February 2026"
+      "February 2026",
+      "TIER_B_PLUS"
     ],
     "date": "2026-02-15",
-    "category": "SEC5",
+    "category": "SEC3",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "lastUpdated": "2026-08-18T17:42:36.829Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "Feb2026.pdf",
-      "sourceId": "migrated-ca-2026-02-sec3-5",
-      "sourceTitle": "Tripura Gramin Bank — 1st RRB in India with Co-Branded RuPay Credit Card",
-      "sourceChecksum": "d6b3e2f9ec83132d4960e41c6439b3d2efa344128083933b1a5c3498a1245ba5",
-      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
-      "normalizationRuleVersion": "1.0.0-feb2026"
-    }
-  }
+      "sourceId": "emu-icici-swasthya-pension-pfrda",
+      "sourceTitle": "ICICI Swasthya Pension Scheme — PFRDA Sandbox Health-Linked Retirement",
+      "provenancePages": [
+        24
+      ],
+      "constituentArticleCount": 1,
+      "migrationTimestamp": "2026-08-18T17:42:36.829Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_B_PLUS",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC3",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 85
+  },
+  "relationships": []
 }

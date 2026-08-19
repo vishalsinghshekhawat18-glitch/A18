@@ -1,36 +1,25 @@
 {
   "id": "migrated-ca-note-sec1-96",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Indian Organ Donation Day Observed on 3rd August",
+  "type": "ca_note",
   "summary": "Indian Organ Donation Day Observed on 3rd August",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 8. 📅 IMPORTANT DAYS & PERSONS IN NEWS",
+      "text": "🪝 Indian Organ Donation Day Observed on 3rd August. Key development for Banking & General Awareness."
+    },
+    {
       "type": "bullet_list",
       "items": [
-        "Promotes voluntary organ donor registration via NOTTO."
+        "Promotes voluntary organ donor registration via NOTTO.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Indian Organ Donation Day Observed on 3rd August."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Date & Event",
-        "Official Theme / Mandate",
-        "Nodal Body / Significance"
-      ],
-      "rows": [
-        [
-          "Indian Organ Donation Day Observed on 3rd August",
-          "Promotes voluntary organ donor registration via NOTTO.",
-          "Global Observance"
-        ]
-      ]
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Indian Organ Donation Day Observed on 3rd August."
     }
   ],
   "metadata": {
@@ -55,6 +44,16 @@
       "sourceChecksum": "2893267c6945e56cc94bcee5477b416e25d0c41431550fd2f1f8e61bd706cc09",
       "migrationTimestamp": "2026-08-15T12:11:08.725Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC8",
+    "sectionNumber": 8,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

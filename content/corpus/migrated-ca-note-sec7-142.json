@@ -1,36 +1,26 @@
 {
   "id": "migrated-ca-note-sec7-142",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Knight Frank Atlas 2026: Mumbai Ranks 15th, Hyderabad 27th Globally in Data Centre Capacity",
+  "type": "ca_note",
   "summary": "Evaluates global data center operational and development pipelines.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Evaluates global data center operational and development pipelines."
+      "type": "warning_banner",
+      "title": "📰 7. 🏆 AWARDS, BOOKS, INDICES & RANKINGS",
+      "text": "🪝 Knight Frank Atlas 2026: Mumbai Ranks 15th, Hyderabad 27th Globally in Data Centre Capacity. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Evaluates global data center operational and development pipelines.",
         "Mumbai: 15th operational (11th development pipeline).",
-        "Hyderabad: 27th operational (151 MW live, 2.2 GW pipeline)."
+        "Hyderabad: 27th operational (151 MW live, 2.2 GW pipeline).",
+        "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Award Title",
-        "Recipient / Winner",
-        "Conferred By / Key Detail"
-      ],
-      "rows": [
-        [
-          "Knight Frank Atlas 2026: Mumbai Ranks 15th, Hyderabad 27th Globally in Data Centre Capacity",
-          "Mumbai: 15th operational (11th development pipeline).",
-          "Annual Recognition"
-        ]
-      ]
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
     }
   ],
   "metadata": {
@@ -55,6 +45,16 @@
       "sourceChecksum": "91a77d6e94416cdc0cc8178b2f953b5f39462bdb3559cf2bd1ef586c9dc0eda9",
       "migrationTimestamp": "2026-08-15T12:12:07.934Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC7",
+    "sectionNumber": 7,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

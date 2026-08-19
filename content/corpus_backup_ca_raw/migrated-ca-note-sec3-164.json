@@ -1,0 +1,75 @@
+{
+  "id": "migrated-ca-note-sec3-164",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Indian Railways Transports Live Donor Heart by Vande Bharat Express for 1st Time",
+  "summary": "Indian Railways Transports Live Donor Heart by Vande Bharat Express for 1st Time",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 3. 🏦 BANKING & INSURANCE NEWS",
+      "text": "🪝 Indian Railways Transports Live Donor Heart by Vande Bharat Express for 1st Time. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Ferried live heart 250 km from Surat to Ahmedabad aboard Vande Bharat Express (Train No. 20901) to U.N.",
+        "Mehta Institute.",
+        "Green Corridor: Platform 1 at Ahmedabad Station connected via RPF-Police green corridor.",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 3,
+      "code": "SEC3",
+      "name": "BANKING & INSURANCE NEWS",
+      "emoji": "🏦",
+      "fullName": "3. 🏦 BANKING & INSURANCE NEWS"
+    },
+    "hook": "🪝 Indian Railways Transports Live Donor Heart by Vande Bharat Express for 1st Time",
+    "examAngle": "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-08-02"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-02",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:37.959Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec3-164",
+      "sourceTitle": "Indian Railways Transports Live Donor Heart by Vande Bharat Express for 1st Time",
+      "sourceChecksum": "aa8f3020e41c58384be44e9862a90442cab1275b57a7226a38204c15153fc543",
+      "migrationTimestamp": "2026-08-15T12:12:37.959Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC3",
+    "sectionNumber": 3,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

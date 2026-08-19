@@ -1,0 +1,74 @@
+{
+  "id": "migrated-ca-note-sec1-54",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Mandatory Vehicle-to-Vehicle (V2V) Communication Fitment Mandated from Oct 1, 2028",
+  "summary": "Mandatory Vehicle-to-Vehicle (V2V) Communication Fitment Mandated from Oct 1, 2028",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 Mandatory Vehicle-to-Vehicle (V2V) Communication Fitment Mandated from Oct 1, 2028. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "MoRTH proposed mandatory fitment of V2V communication systems for all L, M, N category vehicles manufactured on or after **October 1, 2028** (DoT allocated 5.875–5.925 GHz band).",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Mandatory Vehicle."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Mandatory Vehicle."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 1,
+      "code": "SEC1",
+      "name": "ESI, FINANCE & BUSINESS NEWS",
+      "emoji": "💰",
+      "fullName": "1. 💰 ESI, FINANCE & BUSINESS NEWS"
+    },
+    "hook": "🪝 Mandatory Vehicle-to-Vehicle (V2V) Communication Fitment Mandated from Oct 1, 2028",
+    "examAngle": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Mandatory Vehicle.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-08-05"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:34.066Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-54",
+      "sourceTitle": "Mandatory Vehicle-to-Vehicle (V2V) Communication Fitment Mandated from Oct 1, 2028",
+      "sourceChecksum": "014a074022b54c146c7fa63c79247fb847cbb54abcbd9210d852d8b5ff97dd24",
+      "migrationTimestamp": "2026-08-15T12:10:34.066Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

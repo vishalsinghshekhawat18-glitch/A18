@@ -1,0 +1,77 @@
+{
+  "id": "migrated-ca-note-sec1-369",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Cabinet Approves 'BHAVYA Rasayan' Scheme (₹3,030 Crore for 3 Chemical Parks)",
+  "summary": "Provides ₹1,000 crore grant per park to build common infrastructure across 3 chemical hubs.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 Cabinet Approves 'BHAVYA Rasayan' Scheme (₹3,030 Crore for 3 Chemical Parks). Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Provides ₹1,000 crore grant per park to build common infrastructure across 3 chemical hubs.",
+        "Scheme Outlay: ₹3,030 crore financial outlay over 5 years (FY27 to FY31) from Union Budget FY27.",
+        "Park Requirements: Grant up to ₹1,000 cr per park (min ₹500 cr state contribution); min area 2,000 acres (8 sq km).",
+        "Chemical Sector Rank: India ranks 6th globally and 3rd in Asia in chemical production (contributes 7% to GDP).",
+        "BHAVYA Rasayan outlay (₹3,030 crore for 3 chemical parks) vs BHAVYA industrial parks outlay (₹33,660 crore).",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 10,
+      "code": "SEC10",
+      "name": "MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "emoji": "📌",
+      "fullName": "10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC"
+    },
+    "hook": "🪝 Cabinet Approves 'BHAVYA Rasayan' Scheme (₹3,030 Crore for 3 Chemical Parks)",
+    "examAngle": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-07-30"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-30",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:17:28.292Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-369",
+      "sourceTitle": "Cabinet Approves 'BHAVYA Rasayan' Scheme (₹3,030 Crore for 3 Chemical Parks)",
+      "sourceChecksum": "c266ae396304989bd462bef4874daf62348bcf05779b6fa82684e557cfa7ccbf",
+      "migrationTimestamp": "2026-08-15T12:17:28.292Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

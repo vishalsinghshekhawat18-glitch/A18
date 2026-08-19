@@ -1,36 +1,33 @@
 {
   "id": "migrated-ca-note-sec3-28",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "India-Maldives Real-Time Payment Corridor Goes Live via Favara and UPI Integration",
+  "type": "ca_note",
   "summary": "Expands India's digital public infrastructure internationally, reducing cross-border remittance costs.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Expands India's digital public infrastructure internationally, reducing cross-border remittance costs."
+      "type": "warning_banner",
+      "title": "📰 3. 🏦 BANKING & INSURANCE NEWS",
+      "text": "🪝 India-Maldives Real-Time Payment Corridor Goes Live via Favara and UPI Integration. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Expands India's digital public infrastructure internationally, reducing cross-border remittance costs.",
         "Maldives integrated instant payment system **'Favara'** with India's **Unified Payments Interface (UPI)**.",
         "Transfer Flow: Transferred in **Maldivian Rufiyaa (MVR)** and credited directly in **Indian Rupees (₹/INR)** to UPI bank accounts.",
-        "Implementation: Partnership between **Maldives Monetary Authority (MMA)**, **RBI**, and **NIPL**."
+        "Implementation: Partnership between **Maldives Monetary Authority (MMA)**, **RBI**, and **NIPL**.",
+        "Maldives' instant payment system Favara vs Singapore's PayNow vs UAE's AANI/Jaywan vs Sri Lanka's LankaPay.",
+        "🎯 Exam Angle → Focus on monthly transaction volume & value records, NPCI market cap limits, and international UPI linkage countries."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "NIPL established April 2020 as international subsidiary of NPCI | Maldives Currency: Maldivian Rufiyaa | Capital: Malé."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on monthly transaction volume & value records, NPCI market cap limits, and international UPI linkage countries."
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Maldives' instant payment system Favara vs Singapore's PayNow vs UAE's AANI/Jaywan vs Sri Lanka's LankaPay."
-    },
-    {
-      "type": "quote",
-      "quote": "Interview Focus Question: \"What strategic advantages does NIPL achieve by linking UPI with systems like Favara?\"\n💡 **Model Answer: Slashes cross-border remittance costs while promoting INR settlements across South Asia.**",
-      "author": "Banking & Regulatory Board Panel"
+      "type": "warning_banner",
+      "title": "💼 Interview Question & Model Answer",
+      "text": "**Q:** How does international UPI linkage assist Indian cross-border trade and remittances?\n\n**Model Answer:** It lowers cross-border transaction fees by bypassing intermediary correspondent banking networks and enables real-time sovereign currency settlements."
     }
   ],
   "metadata": {
@@ -55,6 +52,16 @@
       "sourceChecksum": "b1f99c39c1b5ad32ab0b51f25e96ceb11258643f915cc7c6216fc8c74759336f",
       "migrationTimestamp": "2026-08-15T12:10:02.257Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC3",
+    "sectionNumber": 3,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 88
   }
 }

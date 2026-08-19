@@ -1,0 +1,39 @@
+{
+  "id": "emu-digital-payments-cbdc-ecosystem",
+  "title": "Digital Payments Architecture — CBDC PDS, UPI-RuPay Incentives & UPI Global Expansion",
+  "category": "SEC3",
+  "tier": "TIER_A",
+  "theme": "Digital Public Infrastructure & Real-Time Payments",
+  "summary": "NIPL (NPCI) and Malaysia PayNet signed cross-border QR payments link (DuitNow-UPI) and RBI-Bank Negara local currency trade talks.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "**Overview**: NIPL (NPCI) and Malaysia PayNet signed cross-border QR payments link (DuitNow-UPI) and RBI-Bank Negara local currency trade talks."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**India, Malaysia Ink 11 pacts; UPI-PayNet link to ease remittances** (Page 18): NIPL (NPCI) and Malaysia PayNet signed cross-border QR payments link (DuitNow-UPI) and RBI-Bank Negara local currency trade talks.",
+        "**Amit Shah launches e-Rupee PDS & 24x7 'Annapurti' grain ATM in Gujarat** (Page 39): Amit Shah launched India's 1st CBDC-based PDS in Gandhinagar with Annapurti grain ATMs dispensing 25 kg in 35 seconds ('Har Dana, Har Rupiya')."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Digital Public Infrastructure & Real-Time Payments. CBDC ration tokens, ₹2k Cr digital payment subsidy, and UPI Malaysia link."
+    }
+  ],
+  "metadata": {
+    "provenancePages": [
+      18,
+      39
+    ],
+    "constituentArticleCount": 2,
+    "provenanceArticleIds": [
+      "cgb-art-49",
+      "cgb-art-122"
+    ],
+    "statutoryConcept": "Digital Public Infrastructure & Real-Time Payments",
+    "whyStandalone": "CBDC ration tokens, ₹2k Cr digital payment subsidy, and UPI Malaysia link."
+  }
+}

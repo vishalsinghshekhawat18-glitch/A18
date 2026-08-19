@@ -1,31 +1,28 @@
 {
   "id": "migrated-ca-note-sec3-169",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Nepal Central Bank Allows Indian & Nepalese Currency Notes of ₹200 and ₹500 Denominations",
+  "type": "ca_note",
   "summary": "Relaxes 2019 demonetisation restrictions up to a combined carrying limit of ₹25,000 per person.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Relaxes 2019 demonetisation restrictions up to a combined carrying limit of ₹25,000 per person."
+      "type": "warning_banner",
+      "title": "📰 3. 🏦 BANKING & INSURANCE NEWS",
+      "text": "🪝 Nepal Central Bank Allows Indian & Nepalese Currency Notes of ₹200 and ₹500 Denominations. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Relaxes 2019 demonetisation restrictions up to a combined carrying limit of ₹25,000 per person.",
         "Carrying Limit: Combined limit of ₹25,000 per person for post-demonetisation ₹200 and ₹500 notes (issued on/after Nov 9, 2016).",
         "Prohibited Notes: Older pre-demonetisation ₹500 and ₹1,000 notes remain strictly banned.",
-        "Customs Exemption: Foreign currency up to ,000 allowed without customs declaration."
+        "Customs Exemption: Foreign currency up to ,000 allowed without customs declaration.",
+        "Carrying limit for ₹200/₹500 notes (₹25,000 per person) vs un-declared foreign currency limit (,000).",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Nepal Rastra Bank (NRB) Governor: Maha Prasad Adhikari | Currency: Nepalese Rupee."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Carrying limit for ₹200/₹500 notes (₹25,000 per person) vs un-declared foreign currency limit (,000)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
     }
   ],
   "metadata": {
@@ -39,7 +36,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-08-01",
-    "category": "SEC3",
+    "category": "SEC6",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:12:37.959Z",
     "provenance": {
@@ -50,6 +47,16 @@
       "sourceChecksum": "d1fa0da2e8b8a2738e8b822cb9f93d8848d4640d584f2b03481cd6fa22223859",
       "migrationTimestamp": "2026-08-15T12:12:37.959Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC3",
+    "sectionNumber": 3,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 82
   }
 }

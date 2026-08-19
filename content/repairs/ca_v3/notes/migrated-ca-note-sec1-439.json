@@ -1,0 +1,80 @@
+{
+  "id": "migrated-ca-note-sec1-439",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Taxation Bill 2026 Extends Electronics Capital Goods Tax Exemption Sunset to March 31, 2041",
+  "summary": "Provides 15-year long-term tax predictability for semiconductor and electronics manufacturing hardware.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 Taxation Bill 2026 Extends Electronics Capital Goods Tax Exemption Sunset to March 31, 2041. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Provides 15-year long-term tax predictability for semiconductor and electronics manufacturing hardware.",
+        "Taxation Bill 2026 extends the sunset clause for customs duty exemption on imported capital goods used in electronics manufacturing to **March 31, 2041**.",
+        "Supports India's target to build a $500 billion electronics manufacturing ecosystem.",
+        "Sunset date extension (March 31, 2041).",
+        "🎯 Exam Angle → Focus on ₹1,27,500 Crore CCEA outlay, 50% fiscal support for silicon fabs, and India Semiconductor Mission (ISM) milestones."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on ₹1,27,500 Crore CCEA outlay, 50% fiscal support for silicon fabs, and India Semiconductor Mission (ISM) milestones."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 1,
+      "code": "SEC1",
+      "name": "ESI, FINANCE & BUSINESS NEWS",
+      "emoji": "💰",
+      "fullName": "1. 💰 ESI, FINANCE & BUSINESS NEWS"
+    },
+    "hook": "🪝 Taxation Bill 2026 Extends Electronics Capital Goods Tax Exemption Sunset to March 31, 2041",
+    "examAngle": "🎯 Exam Angle → Focus on ₹1,27,500 Crore CCEA outlay, 50% fiscal support for silicon fabs, and India Semiconductor Mission (ISM) milestones.",
+    "interviewQ": {
+      "question": "Why is domestic semiconductor fabrication critical for India's strategic sovereignty?",
+      "modelAnswer": "Semiconductors underpin telecom, defence, AI, and automotive supply chains. Domestic fabrication eliminates single-source import dependencies."
+    },
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-08-05"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:19:15.619Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-439",
+      "sourceTitle": "Taxation Bill 2026 Extends Electronics Capital Goods Tax Exemption Sunset to March 31, 2041",
+      "sourceChecksum": "5f1725d475627c8a73600a83464c4874ecdb9fe755811500965d550831938590",
+      "migrationTimestamp": "2026-08-15T12:19:15.619Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

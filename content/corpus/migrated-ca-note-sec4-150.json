@@ -1,25 +1,26 @@
 {
   "id": "migrated-ca-note-sec4-150",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "President Droupadi Murmu Launches e-Audio Guide, e-Upahaar 3rd Edition, and RAAHI Electric Bus Service",
+  "type": "ca_note",
   "summary": "Introduces citizen-centric, sustainability-focused, and heritage initiatives marking 4 years of Presidency.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Introduces citizen-centric, sustainability-focused, and heritage initiatives marking 4 years of Presidency."
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 President Droupadi Murmu Launches e-Audio Guide, e-Upahaar 3rd Edition, and RAAHI Electric Bus Service. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Introduces citizen-centric, sustainability-focused, and heritage initiatives marking 4 years of Presidency.",
         "📌 **Core Policy Directives & Scope:**\nHeritage & Inclusion: Launched app-based e-Audio Guide (16 Indian languages + sign language) and 3rd edition of e-Upahaar (300 curated gifts for public auction).\nChildcare Facility: Inaugurated 'Bachpan Bal Parisar' comprising 'Kilkari' play zone and 'Samarth Anganwadi-cum-Palna'.",
-        "💰 **Financial Outlays & Operational Rules:**\nGreen Mobility: Flagged off 'RAAHI' (Rashtrapati Bhavan Access and Heritage Interconnector)—a fare-free, 27-seater electric bus operated by women drivers.\nNet Zero Infrastructure: Foundation stone laid for new service block under Net Zero Energy Strategy."
+        "💰 **Financial Outlays & Operational Rules:**\nGreen Mobility: Flagged off 'RAAHI' (Rashtrapati Bhavan Access and Heritage Interconnector)—a fare-free, 27-seater electric bus operated by women drivers.\nNet Zero Infrastructure: Foundation stone laid for new service block under Net Zero Energy Strategy.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of President Droupadi Murmu Launches e."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Droupadi Murmu sworn in as 15th President on July 25, 2022 (India's 1st tribal Head of State) | Historic Mughal Gardens renamed Amrit Udyan."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of President Droupadi Murmu Launches e."
     }
   ],
   "metadata": {
@@ -44,6 +45,16 @@
       "sourceChecksum": "7d1eace67985a48a4fe93740c1c179aa91ed032056e569ff9057f23962ad37fd",
       "migrationTimestamp": "2026-08-15T12:12:07.935Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

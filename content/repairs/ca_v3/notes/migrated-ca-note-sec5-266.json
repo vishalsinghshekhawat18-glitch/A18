@@ -1,0 +1,76 @@
+{
+  "id": "migrated-ca-note-sec5-266",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "IRDAI Mandates Independent Validation of Insurers' Ind AS Implementation Preparedness",
+  "summary": "Requires board-approved strategy validation for transitioning to Ind AS 101 and Ind AS 117 standards.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 IRDAI Mandates Independent Validation of Insurers' Ind AS Implementation Preparedness. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Requires board-approved strategy validation for transitioning to Ind AS 101 and Ind AS 117 standards.",
+        "Implementation Window: Mandatory for insurers adopting Ind AS in FY 2026-27 (FY 2027-28 for forbearance entities).",
+        "Scope: Independent validation assesses actuarial models, IT systems, and financial data management.",
+        "Ind AS adoption timeline (FY27) vs regulatory forbearance timeline (FY28).",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 2,
+      "code": "SEC2",
+      "name": "REGULATORY BODIES NEWS",
+      "emoji": "🏛️",
+      "fullName": "2. 🏛️ REGULATORY BODIES NEWS"
+    },
+    "hook": "🪝 IRDAI Mandates Independent Validation of Insurers' Ind AS Implementation Preparedness",
+    "examAngle": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-07-07"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-07",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:15:05.761Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec5-266",
+      "sourceTitle": "IRDAI Mandates Independent Validation of Insurers' Ind AS Implementation Preparedness",
+      "sourceChecksum": "48b28795858699fb2ea2bc927befe39eb9e185ec9ca1b78e8998ce1283c8dd3b",
+      "migrationTimestamp": "2026-08-15T12:15:05.761Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

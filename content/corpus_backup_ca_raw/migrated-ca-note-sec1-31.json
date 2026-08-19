@@ -1,0 +1,86 @@
+{
+  "id": "migrated-ca-note-sec1-31",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "UPI Clocks Record 23.66 Billion Transactions Worth ₹29.88 Trillion in July 2026",
+  "summary": "UPI sets new monthly transaction volume and value benchmarks as India's primary retail payment spine.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 3. 🏦 BANKING & INSURANCE NEWS",
+      "text": "🪝 UPI Clocks Record 23.66 Billion Transactions Worth ₹29.88 Trillion in July 2026. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "UPI sets new monthly transaction volume and value benchmarks as India's primary retail payment spine.",
+        "**July 2026 Volume:** Record **23.66 billion transactions** (up 4.1% MoM).",
+        "**July 2026 Value:** Record **₹29.88 trillion** (up 3.3% MoM).",
+        "System Operator: **National Payments Corporation of India (NPCI)**.",
+        "July 2026 Volume (23.66 billion) vs July 2026 Value (₹29.88 trillion).",
+        "🎯 Exam Angle → Focus on monthly transaction volume & value records, NPCI market cap limits, and international UPI linkage countries."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on monthly transaction volume & value records, NPCI market cap limits, and international UPI linkage countries."
+    },
+    {
+      "type": "warning_banner",
+      "title": "💼 Interview Question & Model Answer",
+      "text": "**Q:** How does international UPI linkage assist Indian cross-border trade and remittances?\n\n**Model Answer:** It lowers cross-border transaction fees by bypassing intermediary correspondent banking networks and enables real-time sovereign currency settlements."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 3,
+      "code": "SEC3",
+      "name": "BANKING & INSURANCE NEWS",
+      "emoji": "🏦",
+      "fullName": "3. 🏦 BANKING & INSURANCE NEWS"
+    },
+    "hook": "🪝 UPI Clocks Record 23.66 Billion Transactions Worth ₹29.88 Trillion in July 2026",
+    "examAngle": "🎯 Exam Angle → Focus on monthly transaction volume & value records, NPCI market cap limits, and international UPI linkage countries.",
+    "interviewQ": {
+      "question": "How does international UPI linkage assist Indian cross-border trade and remittances?",
+      "modelAnswer": "It lowers cross-border transaction fees by bypassing intermediary correspondent banking networks and enables real-time sovereign currency settlements."
+    },
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-08-01"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:02.257Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-31",
+      "sourceTitle": "UPI Clocks Record 23.66 Billion Transactions Worth ₹29.88 Trillion in July 2026",
+      "sourceChecksum": "4060e985962ca46c78af19f8ac488085ede39a57425247508511e38ad7ab6ad8",
+      "migrationTimestamp": "2026-08-15T12:10:02.257Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC3",
+    "sectionNumber": 3,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

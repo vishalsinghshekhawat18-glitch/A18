@@ -1,30 +1,27 @@
 {
   "id": "migrated-ca-note-sec1-339",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "QCI & NSIC Sign 5-Year MoU to Connect ZED-Certified MSMEs to Global Mart",
+  "type": "ca_note",
   "summary": "Integrates MSME ZED Certification Scheme with MSME Global Mart for 6.5 crore MSMEs.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Integrates MSME ZED Certification Scheme with MSME Global Mart for 6.5 crore MSMEs."
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 QCI & NSIC Sign 5-Year MoU to Connect ZED-Certified MSMEs to Global Mart. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Integrates MSME ZED Certification Scheme with MSME Global Mart for 6.5 crore MSMEs.",
         "Strategic Integration: Combines QCI accreditation with NSIC network to link ZED-certified MSMEs to MSME Global Mart.",
-        "Economic Impact: India's 6.5 crore MSMEs employ ~28 crore people and contribute ~30% of GDP."
+        "Economic Impact: India's 6.5 crore MSMEs employ ~28 crore people and contribute ~30% of GDP.",
+        "MSME GDP contribution (~30%) vs employment (~28 crore people).",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Quality Council of India (QCI) Chairman: Jaxay Shah | NSIC CMD: Dr. Subhransu Sekhar Acharya."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "MSME GDP contribution (~30%) vs employment (~28 crore people)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
     }
   ],
   "metadata": {
@@ -49,6 +46,16 @@
       "sourceChecksum": "995751d933c71cef5d2fbf6aeeb8e401124f0aae8250d02c214fe646c5c67ae4",
       "migrationTimestamp": "2026-08-15T12:16:51.764Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

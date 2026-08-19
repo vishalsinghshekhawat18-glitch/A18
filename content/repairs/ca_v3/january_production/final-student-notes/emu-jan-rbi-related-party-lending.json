@@ -1,0 +1,36 @@
+{
+  "id": "emu-jan-rbi-related-party-lending",
+  "title": "🏛️ RBI Credit Risk Directions 2026 — Materiality Thresholds on Related-Party Lending",
+  "category": "SEC2",
+  "tier": "TIER_A",
+  "theme": "Bank & NBFC Credit Governance & Connected Lending",
+  "summary": "RBI set transaction-level board approval ceilings for related-party loans: ₹25 Cr for banks with assets >₹10T, ₹10 Cr for assets ₹1T–₹10T, and ₹5 Cr for assets <₹1T. Applicable from April 1, 2026.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "**Overview**: RBI set transaction-level board approval ceilings for related-party loans: ₹25 Cr for banks with assets >₹10T, ₹10 Cr for assets ₹1T–₹10T, and ₹5 Cr for assets <₹1T. Applicable from April 1, 2026."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**RBI Commercial Banks Credit Risk Directions 2026: Materiality Thresholds on Related-Party Loans** (Page 17): RBI set transaction-level board approval ceilings for related-party loans: ₹25 Cr for banks with assets >₹10T, ₹10 Cr for assets ₹1T–₹10T, and ₹5 Cr for assets <₹1T. Applicable from April 1, 2026."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Bank & NBFC Credit Governance & Connected Lending. Prescribes mandatory board approval ceilings for related-party loans: Banks >₹10T at ₹50 Cr, ₹1T-10T at ₹10 Cr, NBFC Upper Layer at ₹10 Cr."
+    }
+  ],
+  "metadata": {
+    "provenancePages": [
+      17
+    ],
+    "constituentArticleCount": 1,
+    "provenanceArticleIds": [
+      "jan-art-34"
+    ],
+    "statutoryConcept": "Bank & NBFC Credit Governance & Connected Lending",
+    "whyStandalone": "Prescribes mandatory board approval ceilings for related-party loans: Banks >₹10T at ₹50 Cr, ₹1T-10T at ₹10 Cr, NBFC Upper Layer at ₹10 Cr."
+  }
+}

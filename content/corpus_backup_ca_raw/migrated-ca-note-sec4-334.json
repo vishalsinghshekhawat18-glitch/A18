@@ -1,0 +1,77 @@
+{
+  "id": "migrated-ca-note-sec4-334",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "MoE PGI-S 2.0 & PGI-D Report: Chandigarh Tops School Education for 5th Consecutive Year",
+  "summary": "Chandigarh sole UT/State in 'Uttam-3' category; Meghalaya records sharpest improvement.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 MoE PGI-S 2.0 & PGI-D Report: Chandigarh Tops School Education for 5th Consecutive Year. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Chandigarh sole UT/State in 'Uttam-3' category; Meghalaya records sharpest improvement.",
+        "State Leader: Chandigarh topped PGI-S 2.0 for 5th straight year (only entity in 'Uttam-3' grade).",
+        "Sharpest Improvement: Meghalaya climbed 2 grades to 'Akanshi-1' (score rose from 448 to 525.7).",
+        "District Level: 19 districts reached 'Uttam-2' grade (led by 7 from Punjab).",
+        "State PGI-S scale (1,000 points) vs District PGI-D scale (600 points).",
+        "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of MoE PGI."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 4,
+      "code": "SEC4",
+      "name": "NATIONAL, STATE & INTERNATIONAL NEWS",
+      "emoji": "🌐",
+      "fullName": "4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS"
+    },
+    "hook": "🪝 MoE PGI-S 2.0 & PGI-D Report: Chandigarh Tops School Education for 5th Consecutive Year",
+    "examAngle": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of MoE PGI.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-07-17"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-17",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:16:51.763Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-334",
+      "sourceTitle": "MoE PGI-S 2.0 & PGI-D Report: Chandigarh Tops School Education for 5th Consecutive Year",
+      "sourceChecksum": "9d2386290f440be043951938570d900e319f81260af0982193d0a6454cab4bad",
+      "migrationTimestamp": "2026-08-15T12:16:51.763Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

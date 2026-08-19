@@ -1,0 +1,88 @@
+{
+  "id": "migrated-ca-2026-04-sec3-8",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SBI Overtakes ICICI Bank as India's 2nd Largest Lender by Market Capitalisation",
+  "summary": "SBI's market cap reached ₹9.60 trillion in Q4 FY26, reclaiming the #2 position in m-cap behind HDFC Bank (₹12.27 trillion).",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 3. 🏦 BANKING & INSURANCE NEWS",
+      "text": "🪝 SBI Overtakes ICICI Bank as India's 2nd Largest Lender by Market Capitalisation. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "According to S&P Global Market Intelligence data, **State Bank of India (SBI)** surpassed ICICI Bank in market capitalisation for the first time since August 2019.",
+        "**Top 3 Lenders by M-Cap**: 1. HDFC Bank (₹12.27T) | 2. SBI (₹9.60T / ₹9,60,815 Cr) | 3. ICICI Bank (₹9.17T / ₹9,17,201 Cr).",
+        "**Balance Sheet Goal**: SBI announced plans to expand its balance sheet to **25% of India's GDP by 2030** (from ~20% currently, standing at ₹71.62 lakh crore).",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "SBI Established: 1 July 1955 (SBI Act 1955) · HQ: Mumbai · Tagline: The Nation banks on us"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 3,
+      "code": "SEC3",
+      "name": "BANKING & INSURANCE NEWS",
+      "emoji": "🏦",
+      "fullName": "3. 🏦 BANKING & INSURANCE NEWS"
+    },
+    "hook": "🪝 SBI Overtakes ICICI Bank as India's 2nd Largest Lender by Market Capitalisation",
+    "examAngle": "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure.",
+    "interviewQ": {
+      "question": "How does the forward-looking ECL provisioning model improve bank balance sheets over the traditional incurred loss framework?",
+      "modelAnswer": "ECL mandates early provisioning based on historical trends and economic forecasts, preventing abrupt shock losses during credit downcycles."
+    },
+    "staticGK": {
+      "summary": "SBI Established: 1 July 1955 (SBI Act 1955) · HQ: Mumbai · Tagline: The Nation banks on us"
+    },
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-04-15"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026",
+      "April 2026"
+    ],
+    "date": "2026-04-15",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T15:38:14.789Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-04-sec3-8",
+      "sourceTitle": "SBI Overtakes ICICI Bank as India's 2nd Largest Lender by Market Capitalisation",
+      "sourceChecksum": "68771696699307c493b9c6b22cbce4acbc05d43fd95ba589cf8c400bf1fbdecc",
+      "migrationTimestamp": "2026-08-16T15:38:14.789Z",
+      "normalizationRuleVersion": "1.0.0-apr2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC3",
+    "sectionNumber": 3,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

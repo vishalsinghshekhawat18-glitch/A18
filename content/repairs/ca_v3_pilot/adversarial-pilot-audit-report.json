@@ -1,0 +1,424 @@
+{
+  "version": "1.0.0-ca-adversarial-pilot",
+  "generatedAt": "2026-08-18T14:14:52.720Z",
+  "totalItemsTested": 25,
+  "metrics": {
+    "mergedOrDeduplicated": 3,
+    "chronologicalUpdatesLinked": 2,
+    "lowValueOrObituarySkipped": 2,
+    "keptSeparateDespiteHighSimilarity": 3,
+    "uniqueStandalone": 15
+  },
+  "auditRecords": [
+    {
+      "originalId": "adv-01-rbi-div-cap-a",
+      "title": "RBI Raises Bank Dividend Payout Cap to 75% of PAT for FY26",
+      "scenario": "1. Exact Duplicate / Near Duplicate",
+      "proposedSection": "SEC2",
+      "temporalZone": "CORE",
+      "relevanceTier": "TIER_A",
+      "duplicateRelationshipDecision": "UNIQUE_STANDALONE",
+      "reason": "Unique standalone news item",
+      "factsRetained": [
+        "All facts preserved in canonical note"
+      ],
+      "factsDiscarded": [],
+      "sourceInstitution": "Reserve Bank of India",
+      "verificationStatus": "VERIFIED"
+    },
+    {
+      "originalId": "adv-02-rbi-div-cap-b",
+      "title": "Reserve Bank of India Increases Dividend Distribution Limit for Commercial Banks to 75%",
+      "scenario": "2. Same Story with Different Wording",
+      "proposedSection": "SEC2",
+      "temporalZone": "LIGHT_TOUCH",
+      "relevanceTier": "TIER_A",
+      "duplicateRelationshipDecision": "EXACT_DUPLICATE",
+      "reason": "Reworded duplicate of adv-01 reporting 75% dividend cap on 2026-01-26",
+      "factsRetained": [
+        "Merged into canonical note adv-01"
+      ],
+      "factsDiscarded": [
+        "Duplicate text"
+      ],
+      "sourceInstitution": "Government of India / Nodal Authority",
+      "verificationStatus": "VERIFIED"
+    },
+    {
+      "originalId": "adv-03-upi-dec-milestone",
+      "title": "UPI Hits All-Time High 21.63 Billion Transactions in Dec 2025",
+      "scenario": "3. Chronological Baseline (Dec 2025)",
+      "proposedSection": "SEC3",
+      "temporalZone": "LIGHT_TOUCH",
+      "relevanceTier": "TIER_A",
+      "duplicateRelationshipDecision": "UNIQUE_STANDALONE",
+      "reason": "Unique standalone news item",
+      "factsRetained": [
+        "All facts preserved in canonical note"
+      ],
+      "factsDiscarded": [],
+      "sourceInstitution": "Government of India / Nodal Authority",
+      "verificationStatus": "VERIFIED"
+    },
+    {
+      "originalId": "adv-04-upi-jan-update",
+      "title": "UPI Reaches All-Time High ₹28.33 Trillion in January 2026",
+      "scenario": "3. Genuine Later Update (Jan 2026)",
+      "proposedSection": "SEC3",
+      "temporalZone": "LIGHT_TOUCH",
+      "relevanceTier": "TIER_A",
+      "duplicateRelationshipDecision": "CHRONOLOGICAL_UPDATE",
+      "reason": "Later monthly milestone (2026-01-02 -> 2026-02-02). Chronology and distinct volume figures preserved.",
+      "factsRetained": [
+        "Preserved new volume figures: UPI volume clocks 22.45 billion transactions amounting to ₹28.33 Trillion in January 2026 as per NPCI data.",
+        "Date: 2026-02-02"
+      ],
+      "factsDiscarded": [],
+      "sourceInstitution": "Government of India / Nodal Authority",
+      "verificationStatus": "VERIFIED"
+    },
+    {
+      "originalId": "adv-05-upi-july-record",
+      "title": "UPI Clocks Record 23.66 Billion Transactions Worth ₹29.88 Trillion in July 2026",
+      "scenario": "3. Genuine Later Update (July 2026)",
+      "proposedSection": "SEC3",
+      "temporalZone": "CORE",
+      "relevanceTier": "TIER_A",
+      "duplicateRelationshipDecision": "CHRONOLOGICAL_UPDATE",
+      "reason": "Later monthly milestone (2026-01-02 -> 2026-08-01). Chronology and distinct volume figures preserved.",
+      "factsRetained": [
+        "Preserved new volume figures: NPCI reports peak volume of 23.66 billion transactions with value touching ₹29.88 Trillion in July 2026.",
+        "Date: 2026-08-01"
+      ],
+      "factsDiscarded": [],
+      "sourceInstitution": "Government of India / Nodal Authority",
+      "verificationStatus": "VERIFIED"
+    },
+    {
+      "originalId": "adv-06-rbi-vrr-liquidity",
+      "title": "RBI Announces First-Ever 90-Day VRR in ₹2.15 Lakh Crore Package",
+      "scenario": "4. 3-Part Developing Story (Part 1: Liquidity)",
+      "proposedSection": "SEC2",
+      "temporalZone": "CORE",
+      "relevanceTier": "TIER_A",
+      "duplicateRelationshipDecision": "UNIQUE_STANDALONE",
+      "reason": "Unique standalone news item",
+      "factsRetained": [
+        "All facts preserved in canonical note"
+      ],
+      "factsDiscarded": [],
+      "sourceInstitution": "Reserve Bank of India",
+      "verificationStatus": "VERIFIED"
+    },
+    {
+      "originalId": "adv-07-rbi-mpc-feb-hold",
+      "title": "RBI Monetary Policy Feb 2026 — Repo Rate Held at 5.25%, MSME Loan Limit Doubled",
+      "scenario": "4. 3-Part Developing Story (Part 2: Rate Decision)",
+      "proposedSection": "SEC2",
+      "temporalZone": "LIGHT_TOUCH",
+      "relevanceTier": "TIER_A",
+      "duplicateRelationshipDecision": "MULTI_PART_STORY",
+      "parentStoryId": "adv-06-rbi-vrr-liquidity",
+      "reason": "Part of RBI Q4 policy & liquidity intervention cycle. Linked with A/B/C sub-structure.",
+      "factsRetained": [
+        "Maintained specific rates: Monetary Policy Committee maintains repo rate at 5.25% with neutral stance; collateral-free MSME loan limit raised to ₹20 Lakhs."
+      ],
+      "factsDiscarded": [
+        "Duplicate RBI static intro"
+      ],
+      "sourceInstitution": "Reserve Bank of India",
+      "verificationStatus": "VERIFIED"
+    },
+    {
+      "originalId": "adv-08-rbi-lbs-rural-norm",
+      "title": "RBI LBS Norms — 60% Credit-Deposit (CD) Ratio Target for Rural Branches",
+      "scenario": "4. 3-Part Developing Story (Part 3: Lead Bank Norms)",
+      "proposedSection": "SEC2",
+      "temporalZone": "LIGHT_TOUCH",
+      "relevanceTier": "TIER_A",
+      "duplicateRelationshipDecision": "MULTI_PART_STORY",
+      "parentStoryId": "adv-06-rbi-vrr-liquidity",
+      "reason": "Part of RBI Q4 policy & liquidity intervention cycle. Linked with A/B/C sub-structure.",
+      "factsRetained": [
+        "Maintained specific rates: RBI updates Lead Bank Scheme (LBS) requiring minimum 60% CD ratio in rural and semi-urban banking branches."
+      ],
+      "factsDiscarded": [
+        "Duplicate RBI static intro"
+      ],
+      "sourceInstitution": "Reserve Bank of India",
+      "verificationStatus": "VERIFIED"
+    },
+    {
+      "originalId": "adv-09-rbi-ecb-cap",
+      "title": "RBI External Commercial Borrowings (ECB) Cap Raised to $1 Billion",
+      "scenario": "5. Related-but-Distinct (MUST NOT Merge with MPC)",
+      "proposedSection": "SEC2",
+      "temporalZone": "LIGHT_TOUCH",
+      "relevanceTier": "TIER_A",
+      "duplicateRelationshipDecision": "SEPARATE_SAME_INSTITUTION",
+      "reason": "Same institution (RBI), but distinct statutory/operational domain (ECB cap / DC launch). Kept strictly SEPARATE.",
+      "factsRetained": [
+        "Independent standalone note"
+      ],
+      "factsDiscarded": [],
+      "sourceInstitution": "Reserve Bank of India",
+      "verificationStatus": "VERIFIED"
+    },
+    {
+      "originalId": "adv-10-rbi-bhubaneswar-dc",
+      "title": "RBI's Second High-Tech Data Centre Commissioned in Bhubaneswar, Odisha",
+      "scenario": "6. Same Institution (RBI) but Infrastructure Event (MUST NOT Merge)",
+      "proposedSection": "SEC2",
+      "temporalZone": "LIGHT_TOUCH",
+      "relevanceTier": "TIER_A",
+      "duplicateRelationshipDecision": "SEPARATE_SAME_INSTITUTION",
+      "reason": "Same institution (RBI), but distinct statutory/operational domain (ECB cap / DC launch). Kept strictly SEPARATE.",
+      "factsRetained": [
+        "Independent standalone note"
+      ],
+      "factsDiscarded": [],
+      "sourceInstitution": "Reserve Bank of India",
+      "verificationStatus": "VERIFIED"
+    },
+    {
+      "originalId": "adv-11-parivartan-scheme-launch",
+      "title": "Cabinet Approves ₹9,585 Crore PARIVARTAN Scheme for Electric Bus Fleet Modernization",
+      "scenario": "7. Scheme Announcement",
+      "proposedSection": "SEC1",
+      "temporalZone": "CORE",
+      "relevanceTier": "TIER_A",
+      "duplicateRelationshipDecision": "UNIQUE_STANDALONE",
+      "reason": "Unique standalone news item",
+      "factsRetained": [
+        "All facts preserved in canonical note"
+      ],
+      "factsDiscarded": [],
+      "sourceInstitution": "Government of India / Nodal Authority",
+      "verificationStatus": "VERIFIED"
+    },
+    {
+      "originalId": "adv-12-parivartan-morth-rules",
+      "title": "MoRTH Issues Subsidy Disbursal Guidelines for PARIVARTAN EV Transition",
+      "scenario": "7. Scheme Subsequent Operational Update",
+      "proposedSection": "SEC1",
+      "temporalZone": "CORE",
+      "relevanceTier": "TIER_A",
+      "duplicateRelationshipDecision": "UNIQUE_STANDALONE",
+      "reason": "Unique standalone news item",
+      "factsRetained": [
+        "All facts preserved in canonical note"
+      ],
+      "factsDiscarded": [],
+      "sourceInstitution": "Government of India / Nodal Authority",
+      "verificationStatus": "VERIFIED"
+    },
+    {
+      "originalId": "adv-13-sebi-mps-mega-ipo",
+      "title": "SEBI Graded 6-Tier Minimum Public Shareholding (MPS) Framework for Mega-IPOs",
+      "scenario": "8. SEBI Policy Framework",
+      "proposedSection": "SEC2",
+      "temporalZone": "LIGHT_TOUCH",
+      "relevanceTier": "TIER_A",
+      "duplicateRelationshipDecision": "UNIQUE_STANDALONE",
+      "reason": "Unique standalone news item",
+      "factsRetained": [
+        "All facts preserved in canonical note"
+      ],
+      "factsDiscarded": [],
+      "sourceInstitution": "SEBI",
+      "verificationStatus": "VERIFIED"
+    },
+    {
+      "originalId": "adv-14-sebi-mps-clarification",
+      "title": "SEBI Clarifies Anchor Investor Lock-In Period under Revised MPS Framework",
+      "scenario": "8. SEBI Clarification / Extension",
+      "proposedSection": "SEC2",
+      "temporalZone": "CORE",
+      "relevanceTier": "TIER_A",
+      "duplicateRelationshipDecision": "UNIQUE_STANDALONE",
+      "reason": "Unique standalone news item",
+      "factsRetained": [
+        "All facts preserved in canonical note"
+      ],
+      "factsDiscarded": [],
+      "sourceInstitution": "SEBI",
+      "verificationStatus": "VERIFIED"
+    },
+    {
+      "originalId": "adv-15-sdg-india-index",
+      "title": "NITI Aayog Releases SDG India Index 2025-26: Composite Score Jumps to 71; Kerala & Uttarakhand Lead",
+      "scenario": "9. Repeated Ranking / Index Coverage",
+      "proposedSection": "SEC7",
+      "temporalZone": "CORE",
+      "relevanceTier": "TIER_A",
+      "duplicateRelationshipDecision": "UNIQUE_STANDALONE",
+      "reason": "Unique standalone news item",
+      "factsRetained": [
+        "All facts preserved in canonical note"
+      ],
+      "factsDiscarded": [],
+      "sourceInstitution": "Government of India / Nodal Authority",
+      "verificationStatus": "VERIFIED"
+    },
+    {
+      "originalId": "adv-16-sbi-chairperson-appointment",
+      "title": "Financial Services Institutions Bureau (FSIB) Recommends New Chairman for State Bank of India",
+      "scenario": "10. Appointment with Static GK",
+      "proposedSection": "SEC5",
+      "temporalZone": "CORE",
+      "relevanceTier": "TIER_A",
+      "duplicateRelationshipDecision": "UNIQUE_STANDALONE",
+      "reason": "Unique standalone news item",
+      "factsRetained": [
+        "All facts preserved in canonical note"
+      ],
+      "factsDiscarded": [],
+      "sourceInstitution": "Government of India / Nodal Authority",
+      "verificationStatus": "VERIFIED"
+    },
+    {
+      "originalId": "adv-17-sebi-base-expense-ratio",
+      "title": "SEBI Introduces Base Expense Ratio (BER) Norms with Banning of Unaudited TER Add-ons",
+      "scenario": "11. Regulatory Technical Jargon Gloss (BER, TER, AUM)",
+      "proposedSection": "SEC2",
+      "temporalZone": "LIGHT_TOUCH",
+      "relevanceTier": "TIER_A",
+      "duplicateRelationshipDecision": "UNIQUE_STANDALONE",
+      "reason": "Unique standalone news item",
+      "factsRetained": [
+        "All facts preserved in canonical note"
+      ],
+      "factsDiscarded": [],
+      "sourceInstitution": "SEBI",
+      "verificationStatus": "VERIFIED"
+    },
+    {
+      "originalId": "adv-18-private-brand-ambassador",
+      "title": "Private Footwear Brand Signs Bollywood Actor as Regional Brand Ambassador",
+      "scenario": "12. Low-Value Item (Tier C - Skip)",
+      "proposedSection": "SEC4",
+      "temporalZone": "CORE",
+      "relevanceTier": "TIER_C",
+      "duplicateRelationshipDecision": "UNIQUE_STANDALONE",
+      "reason": "Unique standalone news item",
+      "factsRetained": [
+        "All facts preserved in canonical note"
+      ],
+      "factsDiscarded": [],
+      "sourceInstitution": "Government of India / Nodal Authority",
+      "verificationStatus": "VERIFIED"
+    },
+    {
+      "originalId": "adv-19-veteran-actor-demise",
+      "title": "Veteran Playback Singer & Dadasaheb Phalke Awardee Passes Away at 89",
+      "scenario": "13. Obituary / Condolence (HARD-SKIP)",
+      "proposedSection": "SEC8",
+      "temporalZone": "CORE",
+      "relevanceTier": "TIER_C",
+      "duplicateRelationshipDecision": "UNIQUE_STANDALONE",
+      "reason": "Unique standalone news item",
+      "factsRetained": [
+        "All facts preserved in canonical note"
+      ],
+      "factsDiscarded": [],
+      "sourceInstitution": "Government of India / Nodal Authority",
+      "verificationStatus": "VERIFIED"
+    },
+    {
+      "originalId": "adv-20-budget-taxation-amendment",
+      "title": "Taxation Laws Amendment Bill 2026: 2041 Sunset Clause & Zero-MDR Subsidy for RuPay/UPI",
+      "scenario": "14. Budget / Standing 1-Year Exception",
+      "proposedSection": "SEC1",
+      "temporalZone": "CORE",
+      "relevanceTier": "TIER_A",
+      "duplicateRelationshipDecision": "UNIQUE_STANDALONE",
+      "reason": "Unique standalone news item",
+      "factsRetained": [
+        "All facts preserved in canonical note"
+      ],
+      "factsDiscarded": [],
+      "sourceInstitution": "Government of India / Nodal Authority",
+      "verificationStatus": "VERIFIED"
+    },
+    {
+      "originalId": "adv-21-oct-2025-rbi-master-direction",
+      "title": "RBI Master Direction on Expected Credit Loss (ECL) Provisioning Framework for Scheduled Commercial Banks",
+      "scenario": "15. Old-but-High-Value Regulatory Direction",
+      "proposedSection": "SEC2",
+      "temporalZone": "CORE",
+      "relevanceTier": "TIER_A",
+      "duplicateRelationshipDecision": "UNIQUE_STANDALONE",
+      "reason": "Unique standalone news item",
+      "factsRetained": [
+        "All facts preserved in canonical note"
+      ],
+      "factsDiscarded": [],
+      "sourceInstitution": "Reserve Bank of India",
+      "verificationStatus": "VERIFIED"
+    },
+    {
+      "originalId": "adv-22-citiis-2-funding",
+      "title": "MoHUA Signs €200 Million Tripartite Agreement with AFD and KfW for CITIIS 2.0 Circular Economy Projects",
+      "scenario": "16. Multi-Institution Agreement",
+      "proposedSection": "SEC5",
+      "temporalZone": "CORE",
+      "relevanceTier": "TIER_A",
+      "duplicateRelationshipDecision": "UNIQUE_STANDALONE",
+      "reason": "Unique standalone news item",
+      "factsRetained": [
+        "All facts preserved in canonical note"
+      ],
+      "factsDiscarded": [],
+      "sourceInstitution": "Government of India / Nodal Authority",
+      "verificationStatus": "VERIFIED"
+    },
+    {
+      "originalId": "adv-23-mospi-gdp-revision",
+      "title": "MoSPI First Revised Estimates: FY25 Real GDP Growth Raised from 6.8% to 7.2% Post Base-Year Calibration",
+      "scenario": "17. Conflicting-Looking Chronological Revision",
+      "proposedSection": "SEC1",
+      "temporalZone": "CORE",
+      "relevanceTier": "TIER_A",
+      "duplicateRelationshipDecision": "UNIQUE_STANDALONE",
+      "reason": "Unique standalone news item",
+      "factsRetained": [
+        "All facts preserved in canonical note"
+      ],
+      "factsDiscarded": [],
+      "sourceInstitution": "Government of India / Nodal Authority",
+      "verificationStatus": "VERIFIED"
+    },
+    {
+      "originalId": "adv-24-india-aus-critical-minerals",
+      "title": "India and Australia Sign Bilateral Framework Agreement on Critical Minerals Supply Chain Security",
+      "scenario": "18. False Duplicate Title Trap (Critical Minerals vs Renewable)",
+      "proposedSection": "SEC5",
+      "temporalZone": "CORE",
+      "relevanceTier": "TIER_A",
+      "duplicateRelationshipDecision": "UNIQUE_STANDALONE",
+      "reason": "Unique standalone news item",
+      "factsRetained": [
+        "All facts preserved in canonical note"
+      ],
+      "factsDiscarded": [],
+      "sourceInstitution": "Government of India / Nodal Authority",
+      "verificationStatus": "VERIFIED"
+    },
+    {
+      "originalId": "adv-25-india-aus-renewable-hydrogen",
+      "title": "India and Australia Sign Bilateral Framework Agreement on Green Hydrogen Certification & Grid Interconnection",
+      "scenario": "18. False Duplicate Title Trap (Partner Treaties, MUST NOT MERGE)",
+      "proposedSection": "SEC5",
+      "temporalZone": "CORE",
+      "relevanceTier": "TIER_A",
+      "duplicateRelationshipDecision": "SEPARATE_SIMILAR_TITLE",
+      "reason": "Similar treaty headline with Australia, but distinct subject (Green Hydrogen vs Critical Minerals). Kept strictly SEPARATE.",
+      "factsRetained": [
+        "Full independent treaty note"
+      ],
+      "factsDiscarded": [],
+      "sourceInstitution": "Government of India / Nodal Authority",
+      "verificationStatus": "VERIFIED"
+    }
+  ]
+}

@@ -1,30 +1,27 @@
 {
   "id": "migrated-ca-note-sec2-234",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Swiggy Board Caps Aggregate Foreign Ownership at 49.5% for IOCC Status",
+  "type": "ca_note",
   "summary": "Qualifies quick-commerce Instamart as an Indian-Owned and Controlled Company (IOCC).",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Qualifies quick-commerce Instamart as an Indian-Owned and Controlled Company (IOCC)."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 Swiggy Board Caps Aggregate Foreign Ownership at 49.5% for IOCC Status. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Qualifies quick-commerce Instamart as an Indian-Owned and Controlled Company (IOCC).",
         "Foreign Cap: Foreign ownership capped at 49.5% on a fully diluted basis.",
-        "IOCC Advantage: Permits direct inventory ownership and sale on quick-commerce platform."
+        "IOCC Advantage: Permits direct inventory ownership and sale on quick-commerce platform.",
+        "Swiggy foreign ownership cap (49.5%) vs standard retail FDI (foreign direct investment with management stake) caps.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "DPIIT FDI policy governs IOCC compliance thresholds."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Swiggy foreign ownership cap (49.5%) vs standard retail FDI caps."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -49,6 +46,16 @@
       "sourceChecksum": "0ae4ff22eba64bf0f2090f34adf03a58d5de88a28d6a1f5b0c25c156e4ef82bc",
       "migrationTimestamp": "2026-08-15T12:14:29.730Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

@@ -1,30 +1,27 @@
 {
   "id": "migrated-ca-ca-2026-08-11-govt-notifies-11-evisa-ports",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Government Notifies 11 Additional Ports for e-Visa Entry, Taking Total to 88 Ports",
+  "type": "ca_note",
   "summary": "Center notified 11 new international ports (9 land ports + 2 airports), expanding e-visa entry ports to 88 across India.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Center notified 11 new international ports (9 land ports + 2 airports), expanding e-visa entry ports to 88 across India."
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 Government Notifies 11 Additional Ports for e-Visa Entry, Taking Total to 88 Ports. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Center notified 11 new international ports (9 land ports + 2 airports), expanding e-visa entry ports to 88 across India.",
         "**New Additions:** 11 ports = 9 land ports + 2 airports (**Bhopal and Tirupati**).",
-        "**Total e-Visa Ports:** Reached **88 ports** (37 Airports + 38 Seaports + 13 Land Ports)."
+        "**Total e-Visa Ports:** Reached **88 ports** (37 Airports + 38 Seaports + 13 Land Ports).",
+        "≠ **Airport Additions:** The 2 new airports notified are Bhopal and Tirupati.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Government Notifies 11 Additional Ports for e."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Nodal Ministry: Ministry of Home Affairs (Bureau of Immigration)."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "≠ **Airport Additions:** The 2 new airports notified are Bhopal and Tirupati."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Government Notifies 11 Additional Ports for e."
     }
   ],
   "metadata": {
@@ -49,6 +46,16 @@
       "sourceChecksum": "fbbf4b92fa209c1f409b31e438f005ca157e7b89d77bfd7ba5499eb08f1e0d85",
       "migrationTimestamp": "2026-08-15T12:19:51.522Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

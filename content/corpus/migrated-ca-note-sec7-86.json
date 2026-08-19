@@ -1,51 +1,31 @@
 {
   "id": "migrated-ca-note-sec7-86",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Annapurni Subramaniam Conferred COSPAR Vikram Sarabhai Medal 2026",
+  "type": "ca_note",
   "summary": "Conferred for outstanding contributions to astronomical research and space science leadership.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Conferred for outstanding contributions to astronomical research and space science leadership."
+      "type": "warning_banner",
+      "title": "📰 7. 🏆 AWARDS, BOOKS, INDICES & RANKINGS",
+      "text": "🪝 Annapurni Subramaniam Conferred COSPAR Vikram Sarabhai Medal 2026. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Conferred for outstanding contributions to astronomical research and space science leadership.",
         "Indian astrophysicist **Annapurni Subramaniam** conferred **COSPAR Vikram Sarabhai Medal 2026**.",
         "Historic Milestone: **First Indian woman scientist** to receive this award (4th Indian overall).",
         "Past Laureates: U.",
-        "R.",
         "Rao (1996), Gurbax Singh Lakhina (2014), Anil Bharadwaj (2024).",
         "Ceremony: Conferred during 46th COSPAR Scientific Assembly in **Florence, Italy** by COSPAR & ISRO.",
-        "Current Post: Director of **Indian Institute of Astrophysics (IIA)**, Bengaluru."
+        "Current Post: Director of **Indian Institute of Astrophysics (IIA)**, Bengaluru.",
+        "1st Indian woman scientist to win COSPAR Sarabhai Medal (and 4th Indian overall).",
+        "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Award Title",
-        "Recipient / Winner",
-        "Conferred By / Key Detail"
-      ],
-      "rows": [
-        [
-          "Annapurni Subramaniam Conferred COSPAR Vikram Sarabhai Medal 2026",
-          "Indian astrophysicist Annapurni Subramaniam conferred COSPAR Vikram Sarabhai Medal 2026.",
-          "Award instituted 1990 | Awarded biennially | ISRO HQ: Bengaluru."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Award instituted 1990 | Awarded biennially | ISRO HQ: Bengaluru."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "1st Indian woman scientist to win COSPAR Sarabhai Medal (and 4th Indian overall)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
     }
   ],
   "metadata": {
@@ -59,7 +39,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-08-05",
-    "category": "SEC7",
+    "category": "SEC2",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:11:08.725Z",
     "provenance": {
@@ -70,6 +50,16 @@
       "sourceChecksum": "efe53b8bf772c4aae06737907e3ad32effe6566cb8e8c1579ddbce8dde724eac",
       "migrationTimestamp": "2026-08-15T12:11:08.725Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC7",
+    "sectionNumber": 7,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

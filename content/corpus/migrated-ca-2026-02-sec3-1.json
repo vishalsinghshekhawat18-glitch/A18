@@ -1,20 +1,24 @@
 {
   "id": "migrated-ca-2026-02-sec3-1",
+  "title": "100% Insurance FDI Operationalisation — Sabka Bima Sabki Raksha Act 2025",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "CBDC-PDS Pilots — Twin Digital-Rupee Food-Subsidy Schemes Launched",
-  "summary": "India launches two parallel CBDC food-subsidy pilots: Gujarat Digital Food Coupon (Annapurti ATMs) and Puducherry PMGKAY e-Rupee token.",
+  "summary": "DPIIT notified 100% FDI under automatic route for insurance companies under Sabka Bima Sabki Raksha Act 2025 effective Feb 5, mandating at least 1 resident Indian CEO/MD/Chair.",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "India initiated two distinct CBDC-based food-subsidy pilots: **Gujarat** (Digital Food Coupon with 'Annapurti' Grain ATMs) and **Puducherry** (PMGKAY programmable e-Rupee token with Canara Bank)."
+      "content": "**Overview**: DPIIT notified 100% FDI under automatic route for insurance companies under Sabka Bima Sabki Raksha Act 2025 effective Feb 5, mandating at least 1 resident Indian CEO/MD/Chair."
     },
     {
       "type": "bullet_list",
       "items": [
-        "**Gujarat Pilot**: Inaugurated by Amit Shah; covers Gandhinagar, Ahmedabad, Surat, Anand, Valsad; Annapurti ATMs disburse 25 kg grain in 35 seconds.",
-        "**Puducherry Pilot**: Inaugurated by Pralhad Joshi; programmable e-Rupee tokens redeemed at Fair Price Shops."
+        "**India operationalises 100% Insurance FDI under Sabka Bima Act 2025** (Page 27): DPIIT notified 100% FDI under automatic route for insurance companies under Sabka Bima Sabki Raksha Act 2025 effective Feb 5, mandating at least 1 resident Indian CEO/MD/Chair."
       ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Insurance Capital Liberalisation. 100% automatic FDI in insurance with resident Indian CEO safeguard."
     }
   ],
   "metadata": {
@@ -24,22 +28,36 @@
       "SBI PO"
     ],
     "tags": [
-      "sec5",
+      "sec3",
       "Current Affairs 2026",
-      "February 2026"
+      "February 2026",
+      "TIER_A"
     ],
     "date": "2026-02-15",
-    "category": "SEC5",
-    "difficulty": "intermediate",
-    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "category": "SEC3",
+    "difficulty": "hard",
+    "lastUpdated": "2026-08-18T17:42:36.824Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "Feb2026.pdf",
-      "sourceId": "migrated-ca-2026-02-sec3-1",
-      "sourceTitle": "CBDC-PDS Pilots — Twin Digital-Rupee Food-Subsidy Schemes Launched",
-      "sourceChecksum": "c84dbb700348a0ae6c9a7d9637903260c2eb4e0686fcd54a5d8ba356add0c619",
-      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
-      "normalizationRuleVersion": "1.0.0-feb2026"
-    }
-  }
+      "sourceId": "emu-insurance-100-percent-fdi",
+      "sourceTitle": "100% Insurance FDI Operationalisation — Sabka Bima Sabki Raksha Act 2025",
+      "provenancePages": [
+        27
+      ],
+      "constituentArticleCount": 1,
+      "migrationTimestamp": "2026-08-18T17:42:36.824Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC3",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
+  },
+  "relationships": []
 }

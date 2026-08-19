@@ -1,26 +1,26 @@
 {
   "id": "migrated-ca-note-sec1-152",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Department of Expenditure Enforces 'One Officer, One Official Car' Policy for Central Bureaucracy",
+  "type": "ca_note",
   "summary": "Department of Expenditure Enforces 'One Officer, One Official Car' Policy for Central Bureaucracy",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 Department of Expenditure Enforces 'One Officer, One Official Car' Policy for Central Bureaucracy. Key development for Banking & General Awareness."
+    },
     {
       "type": "bullet_list",
       "items": [
         "Restricts entitled officers to 1 official government car even if assigned additional charge of other ministries, PSUs, or autonomous bodies.",
-        "Personal Travel Allowance: Entitled officers may use official cars for personal travel up to 500 km per month by paying ₹3,000 per month and forfeiting transport allowance."
+        "Personal Travel Allowance: Entitled officers may use official cars for personal travel up to 500 km per month by paying ₹3,000 per month and forfeiting transport allowance.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Department of Expenditure works under Ministry of Finance."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Department of Expenditure Enforces 'One Officer, One Official Car' Policy for Central Bureaucracy."
     }
   ],
   "metadata": {
@@ -45,6 +45,16 @@
       "sourceChecksum": "f67fcbd5755eb579e8f53ef90a2549cec41233c09f547b930e35780a58eecec9",
       "migrationTimestamp": "2026-08-15T12:12:37.958Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

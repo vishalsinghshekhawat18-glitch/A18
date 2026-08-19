@@ -1,36 +1,30 @@
 {
   "id": "migrated-ca-note-sec2-25",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "RBI Appoints Monisha Chakraborty as Executive Director Overseeing Forex & Financial Markets",
+  "type": "ca_note",
   "summary": "RBI Appoints Monisha Chakraborty as Executive Director Overseeing Forex & Financial Markets",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 RBI Appoints Monisha Chakraborty as Executive Director Overseeing Forex & Financial Markets. Key development for Banking & General Awareness."
+    },
+    {
       "type": "bullet_list",
       "items": [
-        "Monisha Chakraborty appointed ED at RBI overseeing Foreign Exchange Dept & Financial Markets Regulation Dept."
+        "Monisha Chakraborty appointed ED at RBI overseeing Foreign Exchange Dept & Financial Markets Regulation Dept.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Appointee / Official",
-        "New Position & Organization",
-        "Key Context & Details"
-      ],
-      "rows": [
-        [
-          "Monisha Chakraborty",
-          "Executive Director Overseeing Forex & Financial Markets",
-          "Monisha Chakraborty appointed ED at RBI overseeing Foreign Exchange Dept & Financial Markets Regulation Dept."
-        ]
-      ]
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -55,6 +49,16 @@
       "sourceChecksum": "9f1cbce8cf48bca3e07db0da81b4612b314595b22b977dd209d33a9268b6aac7",
       "migrationTimestamp": "2026-08-15T12:09:32.008Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

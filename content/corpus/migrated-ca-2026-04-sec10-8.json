@@ -1,13 +1,24 @@
 {
   "id": "migrated-ca-2026-04-sec10-8",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Punjab Cabinet Approves 'Mukh Mantri Mawan Dheeyan Satkar Yojna' (₹9,300 Cr)",
+  "type": "ca_note",
   "summary": "Punjab approves monthly financial aid of ₹1,000 for all eligible women aged 18+ and ₹1,500 for SC women.",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 Punjab Cabinet Approves 'Mukh Mantri Mawan Dheeyan Satkar Yojna' (₹9,300 Cr). Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Punjab Cabinet approved **Mukh Mantri Mawan Dheeyan Satkar Yojna**, providing monthly stipends of ₹1,000 (all women 18+) and ₹1,500 (SC women) with a ₹9,300 crore budget allocation.",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
+      ]
+    },
+    {
       "type": "paragraph",
-      "content": "Punjab Cabinet approved **Mukh Mantri Mawan Dheeyan Satkar Yojna**, providing monthly stipends of ₹1,000 (all women 18+) and ₹1,500 (SC women) with a ₹9,300 crore budget allocation."
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
     }
   ],
   "metadata": {
@@ -33,6 +44,16 @@
       "sourceChecksum": "baaabe80a44e87a0421508ec8cd8efbce5283527cf172911b193938a70c49a3f",
       "migrationTimestamp": "2026-08-16T15:38:14.789Z",
       "normalizationRuleVersion": "1.0.0-apr2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

@@ -1,0 +1,77 @@
+{
+  "id": "migrated-ca-note-sec4-337",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "WDMMA 2026 Global Air Power Rankings: IAF Ranked 3rd Powerful Nation & 6th Service Branch",
+  "summary": "IAF TruVal rating of 69.4 outranks China's PLAAF for 5th consecutive year.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 7. 🏆 AWARDS, BOOKS, INDICES & RANKINGS",
+      "text": "🪝 WDMMA 2026 Global Air Power Rankings: IAF Ranked 3rd Powerful Nation & 6th Service Branch. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "IAF TruVal rating of 69.4 outranks China's PLAAF for 5th consecutive year.",
+        "Country Ranking: India ranked 3rd military aviation nation globally (behind US 1st and Russia 2nd).",
+        "Branch Ranking: IAF ranked 6th overall (TruVal 69.4), outranking China PLAAF (63.8, 7th) for 5th straight year.",
+        "Fleet Strength: IAF operates 1,716 aircraft (542 fighters, 498 helicopters, 282 transport, 374 trainers) across 29 fighter squadrons.",
+        "IAF country rank (3rd globally) vs individual service branch rank (6th, TruVal 69.4).",
+        "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 7,
+      "code": "SEC7",
+      "name": "AWARDS, BOOKS, INDICES & RANKINGS",
+      "emoji": "🏆",
+      "fullName": "7. 🏆 AWARDS, BOOKS, INDICES & RANKINGS"
+    },
+    "hook": "🪝 WDMMA 2026 Global Air Power Rankings: IAF Ranked 3rd Powerful Nation & 6th Service Branch",
+    "examAngle": "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-07-20"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-20",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:16:51.763Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-337",
+      "sourceTitle": "WDMMA 2026 Global Air Power Rankings: IAF Ranked 3rd Powerful Nation & 6th Service Branch",
+      "sourceChecksum": "e78d4b72134e57e7337ee20cef89f5ec85df9ad3fd8deb17701df8e7e1a32e8c",
+      "migrationTimestamp": "2026-08-15T12:16:51.763Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC7",
+    "sectionNumber": 7,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

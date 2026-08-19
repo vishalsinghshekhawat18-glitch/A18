@@ -1,22 +1,24 @@
 {
   "id": "migrated-ca-2026-02-sec2-1",
+  "title": "DICGC Risk-Based Premium Framework 2026 — 4-Tier Differential Deposit Insurance",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "RBI Monetary Policy Feb 2026 — Repo Rate Held at 5.25%, MSME Loan Limit Doubled",
-  "summary": "RBI keeps Repo Rate unchanged at 5.25%, doubles collateral-free MSME loan limit to ₹20 lakh, and sets digital-fraud compensation cap at ₹25,000.",
+  "summary": "DICGC with RBI approval advised banks on Risk-Based Premium framework under Section 15(1) of DICGC Act 1961. Flat rate 12 paise/₹100 replaced by Tier 1/2 CAMELS models with up to 33.33% risk incentive and 25% vintage incentive from April 1, 2026.",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "RBI MPC kept the **Repo Rate unchanged at 5.25%** with a neutral stance. Key policy decisions focused on structural MSME and consumer protection reforms."
+      "content": "**Overview**: DICGC with RBI approval advised banks on Risk-Based Premium framework under Section 15(1) of DICGC Act 1961. Flat rate 12 paise/₹100 replaced by Tier 1/2 CAMELS models with up to 33.33% risk incentive and 25% vintage incentive from April 1, 2026."
     },
     {
       "type": "bullet_list",
       "items": [
-        "**Policy Rates**: Repo 5.25%, SDF 5.00%, MSF & Bank Rate 5.50%, Reverse Repo 3.35%, CRR 3%, SLR 18%.",
-        "**MSME Limit Doubled**: Collateral-free MSME loan limit doubled to **₹20 lakh** (from ₹10 lakh) effective 1 April 2026.",
-        "**Digital-Fraud Compensation**: Victim and bank each bear 15% of loss; RBI covers the remaining 70%, capped at **₹25,000/case** via DEA Fund.",
-        "**Growth & Inflation**: FY26 GDP 7.4%; FY26 CPI inflation 2.1%."
+        "**DICGC Risk-based Premium Framework for Deposit Insurance in India** (Page 8): DICGC with RBI approval advised banks on Risk-Based Premium framework under Section 15(1) of DICGC Act 1961. Flat rate 12 paise/₹100 replaced by Tier 1/2 CAMELS models with up to 33.33% risk incentive and 25% vintage incentive from April 1, 2026."
       ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Deposit Insurance & Financial Stability. Overhauls 1962 flat 12p rate into 4 CAMELS risk tiers with 33.33% risk and 25% vintage incentives."
     }
   ],
   "metadata": {
@@ -28,20 +30,34 @@
     "tags": [
       "sec2",
       "Current Affairs 2026",
-      "February 2026"
+      "February 2026",
+      "TIER_A"
     ],
     "date": "2026-02-15",
     "category": "SEC2",
-    "difficulty": "intermediate",
-    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "difficulty": "hard",
+    "lastUpdated": "2026-08-18T17:42:36.806Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "Feb2026.pdf",
-      "sourceId": "migrated-ca-2026-02-sec2-1",
-      "sourceTitle": "RBI Monetary Policy Feb 2026 — Repo Rate Held at 5.25%, MSME Loan Limit Doubled",
-      "sourceChecksum": "e4506dfe444efef973df8ced2f2ba3b212b00a79dba10a9ee4ab0585f085c853",
-      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
-      "normalizationRuleVersion": "1.0.0-feb2026"
-    }
-  }
+      "sourceId": "emu-dicgc-risk-based-premium",
+      "sourceTitle": "DICGC Risk-Based Premium Framework 2026 — 4-Tier Differential Deposit Insurance",
+      "provenancePages": [
+        8
+      ],
+      "constituentArticleCount": 1,
+      "migrationTimestamp": "2026-08-18T17:42:36.806Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
+  },
+  "relationships": []
 }

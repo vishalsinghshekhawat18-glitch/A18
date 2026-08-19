@@ -1,32 +1,29 @@
 {
   "id": "migrated-ca-note-sec2-158",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Supreme Court Issues Interim Order Barring Audio-Video Court Recording Monetisation on Digital Platforms",
+  "type": "ca_note",
   "summary": "Protects judicial dignity against selective, decontextualized social media video clipping.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Protects judicial dignity against selective, decontextualized social media video clipping."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 Supreme Court Issues Interim Order Barring Audio-Video Court Recording Monetisation on Digital Platforms. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Protects judicial dignity against selective, decontextualized social media video clipping.",
         "Bench Composition: 3-judge bench headed by CJI Surya Kant, Justice Joymalya Bagchi, and Justice V.",
         "Mohana.",
         "Order Mandate: Bars posting, reposting, extracting, or monetising courtroom audio-video recordings without written permission of Supreme Court Secretary General or High Court Registrar Generals.",
-        "News Reporting Clarification: Clarified that order does NOT restrict genuine news reporting or authorized livestreaming."
+        "News Reporting Clarification: Clarified that order does NOT restrict genuine news reporting or authorized livestreaming.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Supreme Court sanctioned judge strength: 38 (including CJI) | Article 124(1)."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -51,6 +48,16 @@
       "sourceChecksum": "56416af3067b404b90e9bbbb3afa6d455491f1138360e48c695294666c0dd764",
       "migrationTimestamp": "2026-08-15T12:12:37.958Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

@@ -1,0 +1,76 @@
+{
+  "id": "migrated-ca-2026-03-sec10-1",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "VB-G RAM G Act, 2025 Replaces MGNREGA — Wage Guarantee Raised to 125 Days",
+  "summary": "Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin) Act 2025 replaces MGNREGA 2005, raising annual wage days from 100 to 125.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 VB-G RAM G Act, 2025 Replaces MGNREGA — Wage Guarantee Raised to 125 Days. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Ministry of Rural Development replaced the 20-year-old MGNREGA with the **Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin) Act, 2025 (VB-G RAM G Act)**.",
+        "**Key Shift**: Statutory wage employment guarantee raised from **100 days to 125 days per financial year** for rural households.",
+        "**Minister**: Rural Development Minister Shivraj Singh Chouhan.",
+        "🎯 Exam Angle → Focus on 125-day wage guarantee expansion, minimum statutory wage rate (₹300/day), and replacement of MGNREGA 2005."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on 125-day wage guarantee expansion, minimum statutory wage rate (₹300/day), and replacement of MGNREGA 2005."
+    }
+  ],
+  "intelligence": {
+    "zone": "LIGHT_TOUCH",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 10,
+      "code": "SEC10",
+      "name": "MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "emoji": "📌",
+      "fullName": "10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC"
+    },
+    "hook": "🪝 VB-G RAM G Act, 2025 Replaces MGNREGA — Wage Guarantee Raised to 125 Days",
+    "examAngle": "🎯 Exam Angle → Focus on 125-day wage guarantee expansion, minimum statutory wage rate (₹300/day), and replacement of MGNREGA 2005.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-03-15"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec10",
+      "Current Affairs 2026",
+      "March 2026"
+    ],
+    "date": "2026-03-15",
+    "category": "SEC10",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T11:13:16.778Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "march2026_lighttouch.pdf",
+      "sourceId": "migrated-ca-2026-03-sec10-1",
+      "sourceTitle": "VB-G RAM G Act, 2025 Replaces MGNREGA — Wage Guarantee Raised to 125 Days",
+      "sourceChecksum": "e3f1ebf3da5cebd4bd5330e45052ef1942dc702edf55028cf5cc6b53c1758940",
+      "migrationTimestamp": "2026-08-16T11:13:16.778Z",
+      "normalizationRuleVersion": "1.0.0-mar2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "LIGHT_TOUCH",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

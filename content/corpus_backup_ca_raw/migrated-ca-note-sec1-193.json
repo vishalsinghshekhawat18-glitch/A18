@@ -1,0 +1,77 @@
+{
+  "id": "migrated-ca-note-sec1-193",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Cabinet Approves ₹84,084 Crore 'Samudra Manthan' Offshore Energy Exploration Scheme",
+  "summary": "Unlocks India's offshore crude oil and gas potential across Krishna-Godavari, Cauvery, and Mahanadi basins.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 Cabinet Approves ₹84,084 Crore 'Samudra Manthan' Offshore Energy Exploration Scheme. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Unlocks India's offshore crude oil and gas potential across Krishna-Godavari, Cauvery, and Mahanadi basins.",
+        "Phase-I Outlay: ₹84,084 crore implementation through FY31 under Ministry of Petroleum & Natural Gas.",
+        "Scheme Components: (i) ₹28,534 cr (2D/3D seismic data & NDR AI re-processing); (ii) ₹55,200 cr (drilling 60 deepwater wells); (iii) ₹350 cr (monitoring).",
+        "Production Target: Increases domestic oil & gas production from 62 MMTOE to 80 MMTOE annually.",
+        "Samudra Manthan Phase-I total outlay (₹84,084 crore) vs deepwater drilling component (₹55,200 crore).",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 10,
+      "code": "SEC10",
+      "name": "MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "emoji": "📌",
+      "fullName": "10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC"
+    },
+    "hook": "🪝 Cabinet Approves ₹84,084 Crore 'Samudra Manthan' Offshore Energy Exploration Scheme",
+    "examAngle": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-08-04"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-04",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:11.200Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-193",
+      "sourceTitle": "Cabinet Approves ₹84,084 Crore 'Samudra Manthan' Offshore Energy Exploration Scheme",
+      "sourceChecksum": "9a4247f44d8fe3aa24cdc4e6a07429e46afdba0b261f0dcddaeac090b3ef60c3",
+      "migrationTimestamp": "2026-08-15T12:13:11.200Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

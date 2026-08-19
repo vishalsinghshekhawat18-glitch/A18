@@ -1,24 +1,31 @@
 {
   "id": "migrated-ca-note-sec2-119",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Indel Remit Receives RBI Approval for Foreign Trade Remittances up to ₹25 Lakh",
+  "type": "ca_note",
   "summary": "Expands non-bank foreign exchange remittance channels for small traders.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Expands non-bank foreign exchange remittance channels for small traders."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 Indel Remit Receives RBI Approval for Foreign Trade Remittances up to ₹25 Lakh. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
-        "Transaction Cap: Up to ₹25 lakh per trade remittance transaction."
+        "Expands non-bank foreign exchange remittance channels for small traders.",
+        "Transaction Cap: Up to ₹25 lakh per trade remittance transaction.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -43,6 +50,16 @@
       "sourceChecksum": "27ce6caa23e804ccc06f75d87b480dae4fc65ddfeb7876f7a7a04fb4e2bef136",
       "migrationTimestamp": "2026-08-15T12:11:38.420Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

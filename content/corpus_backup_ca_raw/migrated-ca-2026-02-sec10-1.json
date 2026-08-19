@@ -1,0 +1,78 @@
+{
+  "id": "migrated-ca-2026-02-sec10-1",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India Semiconductor Mission 2.0 (ISM 2.0) Announced",
+  "summary": "Budget 2026-27 allocates ₹1,000 crore for ISM 2.0 to focus on domestic semiconductor equipment & materials manufacturing.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 India Semiconductor Mission 2.0 (ISM 2.0) Announced. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Government announced **India Semiconductor Mission 2.0 (ISM 2.0)** with an outlay of **₹1,000 crore** for FY27, shifting focus upstream to semiconductor equipment and materials.",
+        "🎯 Exam Angle → Focus on ₹1,27,500 Crore CCEA outlay, 50% fiscal support for silicon fabs, and India Semiconductor Mission (ISM) milestones."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on ₹1,27,500 Crore CCEA outlay, 50% fiscal support for silicon fabs, and India Semiconductor Mission (ISM) milestones."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 10,
+      "code": "SEC10",
+      "name": "MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "emoji": "📌",
+      "fullName": "10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC"
+    },
+    "hook": "🪝 India Semiconductor Mission 2.0 (ISM 2.0) Announced",
+    "examAngle": "🎯 Exam Angle → Focus on ₹1,27,500 Crore CCEA outlay, 50% fiscal support for silicon fabs, and India Semiconductor Mission (ISM) milestones.",
+    "interviewQ": {
+      "question": "Why is domestic semiconductor fabrication critical for India's strategic sovereignty?",
+      "modelAnswer": "Semiconductors underpin telecom, defence, AI, and automotive supply chains. Domestic fabrication eliminates single-source import dependencies."
+    },
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-02-15"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec10",
+      "Current Affairs 2026",
+      "February 2026"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC10",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "migrated-ca-2026-02-sec10-1",
+      "sourceTitle": "India Semiconductor Mission 2.0 (ISM 2.0) Announced",
+      "sourceChecksum": "110f39583a2deb2a08ee8a1c2521ac7cd62ec8033687d60490656cc36e451f7a",
+      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+      "normalizationRuleVersion": "1.0.0-feb2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

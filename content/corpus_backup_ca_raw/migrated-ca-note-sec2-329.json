@@ -1,0 +1,85 @@
+{
+  "id": "migrated-ca-note-sec2-329",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SEBI Replaces ₹10 Lakh Annual Custodian Fee with ₹85,000 Monthly Fee Mechanism",
+  "summary": "Amends Custodian Regulations to charge ₹85,000/month or 0.0000416% Assets Under Custody.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 SEBI Replaces ₹10 Lakh Annual Custodian Fee with ₹85,000 Monthly Fee Mechanism. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Amends Custodian Regulations to charge ₹85,000/month or 0.0000416% Assets Under Custody.",
+        "Revised Fee Formula: Custodians will pay ₹85,000/month or 0.0000416% AUC (whichever higher) effective October 1, 2026.",
+        "Previous Fee Structure: Replaces annual fee of ₹10 lakh or 0.0005% AUC.",
+        "Payment Schedule: Monthly fee must be remitted within 15 days of month-end.",
+        "Monthly custodian fee (₹85,000 / 0.0000416% AUC) vs previous annual fee (₹10 lakh / 0.0005% AUC).",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "SEBI Established: 12 April 1992 (SEBI Act 1992) · HQ: Mumbai · Regulatory Scope: Securities & Capital Markets"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 2,
+      "code": "SEC2",
+      "name": "REGULATORY BODIES NEWS",
+      "emoji": "🏛️",
+      "fullName": "2. 🏛️ REGULATORY BODIES NEWS"
+    },
+    "hook": "🪝 SEBI Replaces ₹10 Lakh Annual Custodian Fee with ₹85,000 Monthly Fee Mechanism",
+    "examAngle": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks.",
+    "staticGK": {
+      "summary": "SEBI Established: 12 April 1992 (SEBI Act 1992) · HQ: Mumbai · Regulatory Scope: Securities & Capital Markets"
+    },
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-07-12"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-12",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:16:51.763Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-329",
+      "sourceTitle": "SEBI Replaces ₹10 Lakh Annual Custodian Fee with ₹85,000 Monthly Fee Mechanism",
+      "sourceChecksum": "19c17927b25545b373f78fa02f4f01004676c4ed0c761a4a25b2eb987fe89610",
+      "migrationTimestamp": "2026-08-15T12:16:51.763Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

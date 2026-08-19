@@ -1,0 +1,63 @@
+{
+  "id": "migrated-ca-2026-02-sec6-6",
+  "title": "LCH Prachand — President Droupadi Murmu Flies Sortie in Indigenous Attack Helicopter",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "summary": "President Murmu became 1st President to fly in indigenous LCH Prachand (HAL, ceiling >5,000 m).",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "**Overview**: President Murmu became 1st President to fly in indigenous LCH Prachand (HAL, ceiling >5,000 m)."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**President Murmu flies sortie in LCH Prachand at Jaisalmer** (Page 82): President Murmu became 1st President to fly in indigenous LCH Prachand (HAL, ceiling >5,000 m)."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Indigenous Aviation & High-Altitude Combat. HAL-built attack helicopter operating above 5,000 m altitude."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026",
+      "February 2026",
+      "TIER_B_PLUS"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-18T17:42:36.856Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "emu-indigenous-combat-helicopter-prachand",
+      "sourceTitle": "LCH Prachand — President Droupadi Murmu Flies Sortie in Indigenous Attack Helicopter",
+      "provenancePages": [
+        82
+      ],
+      "constituentArticleCount": 1,
+      "migrationTimestamp": "2026-08-18T17:42:36.856Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_B_PLUS",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 85
+  },
+  "relationships": []
+}

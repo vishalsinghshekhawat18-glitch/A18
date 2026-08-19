@@ -1,26 +1,28 @@
 {
   "id": "migrated-ca-note-sec1-148",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Static GK Highlights: Manas National Park, SpaceX Falcon 9 Lunar Impact, Himalayan Serow",
+  "type": "ca_note",
   "summary": "Key static environment & space facts.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Key static environment & space facts."
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 Static GK Highlights: Manas National Park, SpaceX Falcon 9 Lunar Impact, Himalayan Serow. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Key static environment & space facts.",
         "Manas NP: Tiger & Elephant reserve in Assam.",
         "Himalayan Serow: Dalhousie, HP (IUCN: Near Threatened, CITES Appendix I).",
-        "Mullaperiyar Dam: Masonry gravity dam in Thekkady, Idukki, Kerala."
+        "Mullaperiyar Dam: Masonry gravity dam in Thekkady, Idukki, Kerala.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Static GK Highlights."
       ]
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Static GK Highlights."
     }
   ],
   "metadata": {
@@ -45,6 +47,16 @@
       "sourceChecksum": "95f380ed9af3fec7e64aa4077ad52034f5827f9ae34a9ed9edc6416820f8293e",
       "migrationTimestamp": "2026-08-15T12:12:07.934Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

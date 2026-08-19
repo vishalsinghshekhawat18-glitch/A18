@@ -1,20 +1,26 @@
 {
   "id": "migrated-ca-2026-04-sec5-2",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Google Cloud India AI Hub Announced in Visakhapatnam ($15 Billion Investment)",
+  "type": "ca_note",
   "summary": "Google commits $15B over 5 years for a 1 GW AI & Data Centre Hub in Visakhapatnam across 600 acres with AdaniConneX and Airtel.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Union Minister Ashwini Vaishnaw and AP CM N. Chandrababu Naidu laid the foundation stone for the **'Google Cloud India AI Hub'** at Visakhapatnam."
+      "type": "warning_banner",
+      "title": "📰 5. 🤝 MoUs, CONFERENCES & APPOINTMENTS",
+      "text": "🪝 Google Cloud India AI Hub Announced in Visakhapatnam ($15 Billion Investment). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
-        "**Scale**: $15 billion investment over 5 years (2026-2030), India's single largest FDI since independence. Initial capacity: 1 GW across 600 acres.",
-        "**Infrastructure**: AdaniConneX handles data center/power; Airtel builds fiber networks and 3 subsea cable landing stations."
+        "Union Minister Ashwini Vaishnaw and AP CM N. Chandrababu Naidu laid the foundation stone for the **'Google Cloud India AI Hub'** at Visakhapatnam.",
+        "**Scale**: $15 billion investment over 5 years (2026-2030), India's single largest FDI (foreign direct investment with management stake) since independence. Initial capacity: 1 GW across 600 acres.",
+        "**Infrastructure**: AdaniConneX handles data center/power; Airtel builds fiber networks and 3 subsea cable landing stations.",
+        "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
       ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
     }
   ],
   "metadata": {
@@ -40,6 +46,16 @@
       "sourceChecksum": "4ea505a449d5d36279fc10940818478ac7f6c44698fb1917fe305ba290de724d",
       "migrationTimestamp": "2026-08-16T15:38:14.789Z",
       "normalizationRuleVersion": "1.0.0-apr2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC5",
+    "sectionNumber": 5,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

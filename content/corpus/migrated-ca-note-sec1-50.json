@@ -1,20 +1,25 @@
 {
   "id": "migrated-ca-note-sec1-50",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Pacific Nation Nauru Officially Changes Name to Republic of Naoero",
+  "type": "ca_note",
   "summary": "Pacific Nation Nauru Officially Changes Name to Republic of Naoero",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 Pacific Nation Nauru Officially Changes Name to Republic of Naoero. Key development for Banking & General Awareness."
+    },
+    {
       "type": "bullet_list",
       "items": [
-        "Nauru officially changed its name to **Republic of Naoero** (3rd-smallest country by population after Vatican City & Tuvalu; Currency: Australian Dollar)."
+        "Nauru officially changed its name to **Republic of Naoero** (3rd-smallest country by population after Vatican City & Tuvalu; Currency: Australian Dollar).",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
       ]
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Pacific Nation Nauru Officially Changes Name to Republic of Naoero."
     }
   ],
   "metadata": {
@@ -39,6 +44,16 @@
       "sourceChecksum": "d1b654cc2da7dfb5e2bf77bd1eed32bd3bb93b5b6db1f7148c38aed4bf3871f8",
       "migrationTimestamp": "2026-08-15T12:10:02.257Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

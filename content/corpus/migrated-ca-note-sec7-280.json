@@ -1,41 +1,26 @@
 {
   "id": "migrated-ca-note-sec7-280",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "NSA Ajit Doval Selected for Prestigious Lokmanya Tilak Award 2026",
+  "type": "ca_note",
   "summary": "Honoured for outstanding national security service on Bal Gangadhar Tilak's death anniversary.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Honoured for outstanding national security service on Bal Gangadhar Tilak's death anniversary."
+      "type": "warning_banner",
+      "title": "📰 7. 🏆 AWARDS, BOOKS, INDICES & RANKINGS",
+      "text": "🪝 NSA Ajit Doval Selected for Prestigious Lokmanya Tilak Award 2026. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Honoured for outstanding national security service on Bal Gangadhar Tilak's death anniversary.",
         "Awardee: National Security Advisor Ajit Doval (longest-serving NSA of India).",
-        "Award Presentation: Conferred annually on August 1 (death anniversary of Bal Gangadhar Tilak, instituted 1983)."
+        "Award Presentation: Conferred annually on August 1 (death anniversary of Bal Gangadhar Tilak, instituted 1983).",
+        "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Award Title",
-        "Recipient / Winner",
-        "Conferred By / Key Detail"
-      ],
-      "rows": [
-        [
-          "NSA Ajit Doval Selected for Prestigious Lokmanya Tilak Award 2026",
-          "Awardee: National Security Advisor Ajit Doval (longest-serving NSA of India).",
-          "1st Lokmanya Tilak Award recipient: Socialist leader S. M. Joshi (1983)."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "1st Lokmanya Tilak Award recipient: Socialist leader S. M. Joshi (1983)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
     }
   ],
   "metadata": {
@@ -60,6 +45,16 @@
       "sourceChecksum": "3af92c608918b0c0ff522586dedd58564f71df66d83e6d0b64a5005e4c3920d5",
       "migrationTimestamp": "2026-08-15T12:15:40.420Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC7",
+    "sectionNumber": 7,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

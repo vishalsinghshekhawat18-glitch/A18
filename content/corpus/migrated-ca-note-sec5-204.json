@@ -1,41 +1,26 @@
 {
   "id": "migrated-ca-note-sec5-204",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "DoT and Madhya Pradesh Sign MoU for India's 1st Telecom Manufacturing Zone in Gwalior",
+  "type": "ca_note",
   "summary": "350-acre plug-and-play cluster supported by ₹493 crore Central infrastructure funding.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "350-acre plug-and-play cluster supported by ₹493 crore Central infrastructure funding."
+      "type": "warning_banner",
+      "title": "📰 5. 🤝 MoUs, CONFERENCES & APPOINTMENTS",
+      "text": "🪝 DoT and Madhya Pradesh Sign MoU for India's 1st Telecom Manufacturing Zone in Gwalior. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "350-acre plug-and-play cluster supported by ₹493 crore Central infrastructure funding.",
         "SPV Ownership: 51% MP Govt, 49% Department of Telecommunications (MPIDC master developer).",
-        "Central Funding: ₹493 crore 100% central funding for Phase-I testing labs (5G core, satellite comms, optical fibre)."
+        "Central Funding: ₹493 crore 100% central funding for Phase-I testing labs (5G core, satellite comms, optical fibre).",
+        "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Appointee / Official",
-        "New Position & Organization",
-        "Key Context & Details"
-      ],
-      "rows": [
-        [
-          "DoT and Madhya Pradesh Sign MoU for India's 1st Telecom Manufacturing Zone in Gwalior",
-          "Official Appointment",
-          "SPV Ownership: 51% MP Govt, 49% Department of Telecommunications (MPIDC master developer)."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "MP CM: Mohan Yadav | MP Govt provided 170 acres land free of cost."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
     }
   ],
   "metadata": {
@@ -60,6 +45,16 @@
       "sourceChecksum": "2fa5d25237446ffab89474c6ac24df47304c75afd89d10faf565fe351a9cdaba",
       "migrationTimestamp": "2026-08-15T12:13:47.644Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC5",
+    "sectionNumber": 5,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

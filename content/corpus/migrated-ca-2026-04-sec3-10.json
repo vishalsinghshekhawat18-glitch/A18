@@ -1,19 +1,25 @@
 {
   "id": "migrated-ca-2026-04-sec3-10",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "KreditBee Enters Unicorn Club with $280M Funding Round at $1.5B Valuation",
+  "type": "ca_note",
   "summary": "Fintech lender KreditBee becomes India's 3rd unicorn of 2026 following Juspay and Neysa, securing $280M pre-IPO funding.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Bengaluru-based consumer lending platform **KreditBee** entered the Unicorn club ($1B+ valuation) following a $280 million pre-IPO funding round led by Motilal Oswal Alternates, Hornbill Capital, and MUFG-backed Dragon Funds."
+      "type": "warning_banner",
+      "title": "📰 3. 🏦 BANKING & INSURANCE NEWS",
+      "text": "🪝 KreditBee Enters Unicorn Club with $280M Funding Round at $1.5B Valuation. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
-        "**2026 Unicorn Tally**: 3rd startup to hit unicorn status in 2026 after **Juspay** (Jan 2026) and **Neysa** (Feb 2026)."
+        "Bengaluru-based consumer lending platform **KreditBee** entered the Unicorn club ($1B+ valuation) following a $280 million pre-IPO funding round led by Motilal Oswal Alternates, Hornbill Capital, and MUFG-backed Dragon Funds.",
+        "**2026 Unicorn Tally**: 3rd startup to hit unicorn status in 2026 after **Juspay** (Jan 2026) and **Neysa** (Feb 2026).",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
       ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
     }
   ],
   "metadata": {
@@ -39,6 +45,16 @@
       "sourceChecksum": "39598a7fab543c6748221e92bee73a9083150288628d17ce30a4fb4bcf67053d",
       "migrationTimestamp": "2026-08-16T15:38:14.789Z",
       "normalizationRuleVersion": "1.0.0-apr2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC3",
+    "sectionNumber": 3,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

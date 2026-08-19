@@ -1,0 +1,39 @@
+{
+  "id": "emu-national-accounts-base-revisions",
+  "title": "National Statistical Base Revisions — CPI 2024 Base, Trade 2022-23 & National Accounts",
+  "category": "SEC1",
+  "tier": "TIER_A",
+  "theme": "Official Statistical Indicators & Base Year Overhauls",
+  "summary": "Retail inflation stood at 2.75% in January 2026 under newly released CPI series (base year updated from 2012 to 2024), compared to 1.33% in Dec 2025.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "**Overview**: Retail inflation stood at 2.75% in January 2026 under newly released CPI series (base year updated from 2012 to 2024), compared to 1.33% in Dec 2025."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**India’s retail inflation stands at 2.75% in January 2026 (PIB)** (Page 4): Retail inflation stood at 2.75% in January 2026 under newly released CPI series (base year updated from 2012 to 2024), compared to 1.33% in Dec 2025.",
+        "**MoCI Revised Base Year of Merchandise Trade Indices to 2022-23** (Page 5): DGCI&S under MoCI revised base year of merchandise trade indices from 2012-13 to 2022-23, based on Prof. Nachiketa Chattopadhyay (ISI Kolkata) committee."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Official Statistical Indicators & Base Year Overhauls. Directly testable base revisions for CPI, Merchandise Trade, and National Accounts."
+    }
+  ],
+  "metadata": {
+    "provenancePages": [
+      4,
+      5
+    ],
+    "constituentArticleCount": 2,
+    "provenanceArticleIds": [
+      "cgb-art-10",
+      "cgb-art-16"
+    ],
+    "statutoryConcept": "Official Statistical Indicators & Base Year Overhauls",
+    "whyStandalone": "Directly testable base revisions for CPI, Merchandise Trade, and National Accounts."
+  }
+}

@@ -1,31 +1,33 @@
 {
   "id": "migrated-ca-ca-2026-08-08-govt-debt-to-gdp-fy26",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Govt Debt-to-GDP Ratio Stands at 58.2% in FY26; Fiscal Deficit Drops to 4.4%",
+  "type": "ca_note",
   "summary": "India's debt-to-GDP ratio for FY26 stood at 58.2%, 210 bps higher than the 56.1% target, while fiscal deficit declined to 4.4%.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "India's debt-to-GDP ratio for FY26 stood at 58.2%, 210 bps higher than the 56.1% target, while fiscal deficit declined to 4.4%."
+      "type": "warning_banner",
+      "title": "📰 3. 🏦 BANKING & INSURANCE NEWS",
+      "text": "🪝 Govt Debt-to-GDP Ratio Stands at 58.2% in FY26; Fiscal Deficit Drops to 4.4%. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "India's debt-to-GDP ratio for FY26 stood at 58.2%, 210 bps higher than the 56.1% target, while fiscal deficit declined to 4.4%.",
         "**Debt-to-GDP Ratio:** Government debt-to-GDP ratio for FY26 stood at **58.2%**.",
         "**Target Deviation:** Ratio was **210 basis points (bps)** higher than the government target of **56.1%**.",
-        "**Fiscal Deficit Trajectory:** Fiscal deficit dropped significantly from **9.2% in FY21 to 4.4% in FY26**."
+        "**Fiscal Deficit Trajectory:** Fiscal deficit dropped significantly from **9.2% in FY21 to 4.4% in FY26**.",
+        "⚠️ **Target Trap:** Note that FY26 debt-to-GDP (58.2%) missed the government aim of 56.1% by 210 bps (2.1%).",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Fiscal Deficit Definition: Gap between total expenditure and total receipts excluding borrowings."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Target Trap:** Note that FY26 debt-to-GDP (58.2%) missed the government aim of 56.1% by 210 bps (2.1%)."
+      "type": "warning_banner",
+      "title": "💼 Interview Question & Model Answer",
+      "text": "**Q:** How does the forward-looking ECL provisioning model improve bank balance sheets over the traditional incurred loss framework?\n\n**Model Answer:** ECL mandates early provisioning based on historical trends and economic forecasts, preventing abrupt shock losses during credit downcycles."
     }
   ],
   "metadata": {
@@ -39,7 +41,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-08-08",
-    "category": "SEC3",
+    "category": "SEC1",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:19:15.620Z",
     "provenance": {
@@ -50,6 +52,16 @@
       "sourceChecksum": "5bff9d1cb944892a5b7c02aa6105ab91cc2c92bf378b44f1fb9c8d2b2979da89",
       "migrationTimestamp": "2026-08-15T12:19:15.620Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC3",
+    "sectionNumber": 3,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 92
   }
 }

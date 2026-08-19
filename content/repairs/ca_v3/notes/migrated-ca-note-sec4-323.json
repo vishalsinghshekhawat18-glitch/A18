@@ -1,0 +1,77 @@
+{
+  "id": "migrated-ca-note-sec4-323",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "16th CCHFW Conference Chaired by J.P. Nadda: Launches SUMAN Roadmap 2030 and Aarogya Setu 2.0",
+  "summary": "Apex health council constituted under Article 263 launches digital health DPI initiatives.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 5. 🤝 MoUs, CONFERENCES & APPOINTMENTS",
+      "text": "🪝 16th CCHFW Conference Chaired by J.P. Nadda: Launches SUMAN Roadmap 2030 and Aarogya Setu 2.0. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Apex health council constituted under Article 263 launches digital health DPI initiatives.",
+        "Constitutional Body: Central Council of Health and Family Welfare (CCHFW) constituted under Article 263.",
+        "Policy Documents: Operational Guidelines on National Ambulance Services (NAS 2026), SUMAN Roadmap 2030, and SSBSK child health program.",
+        "Digital DPI: Aarogya Setu 2.0, eSushrut@clinic (C-DAC), Ayushman Sarathi chatbot, UHI, and Drug Registry.",
+        "CCHFW constitutional basis (Article 263) vs SUMAN target year (2030).",
+        "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 5,
+      "code": "SEC5",
+      "name": "MoUs, CONFERENCES & APPOINTMENTS",
+      "emoji": "🤝",
+      "fullName": "5. 🤝 MoUs, CONFERENCES & APPOINTMENTS"
+    },
+    "hook": "🪝 16th CCHFW Conference Chaired by J.P. Nadda: Launches SUMAN Roadmap 2030 and Aarogya Setu 2.0",
+    "examAngle": "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-07-21"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-21",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:16:15.974Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-323",
+      "sourceTitle": "16th CCHFW Conference Chaired by J.P. Nadda: Launches SUMAN Roadmap 2030 and Aarogya Setu 2.0",
+      "sourceChecksum": "09aaf1bc5609152154d62723785552972a061d5bdd6a4359fcd8a6dc1383bb56",
+      "migrationTimestamp": "2026-08-15T12:16:15.974Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC5",
+    "sectionNumber": 5,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

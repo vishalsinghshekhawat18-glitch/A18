@@ -1,30 +1,27 @@
 {
   "id": "migrated-ca-ca-2026-08-12-fssai-hfss-school-limits",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "FSSAI Proposes New Classification Limits for High-Fat, Sugar & Salt (HFSS) Foods in Schools",
+  "type": "ca_note",
   "summary": "FSSAI proposed HFSS thresholds for school foods: Solid (>4.2g fat, >3g sugar, >0.625g salt per 100g); Liquid (>1.5g fat, >2g sugar, >0.175g salt per 100ml).",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "FSSAI proposed HFSS thresholds for school foods: Solid (>4.2g fat, >3g sugar, >0.625g salt per 100g); Liquid (>1.5g fat, >2g sugar, >0.175g salt per 100ml)."
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 FSSAI Proposes New Classification Limits for High-Fat, Sugar & Salt (HFSS) Foods in Schools. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "FSSAI proposed HFSS thresholds for school foods: Solid (>4.2g fat, >3g sugar, >0.625g salt per 100g); Liquid (>1.5g fat, >2g sugar, >0.175g salt per 100ml).",
         "**Solid Foods (per 100g):** Fat >4.2g, Sugar >3g, Salt >0.625g.",
-        "**Liquid Foods (per 100ml):** Fat >1.5g, Sugar >2g, Salt >0.175g."
+        "**Liquid Foods (per 100ml):** Fat >1.5g, Sugar >2g, Salt >0.175g.",
+        "⚠️ **Threshold Units:** Solid (per 100g) vs Liquid (per 100ml).",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of FSSAI Proposes New Classification Limits for High."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "FSSAI Statutory Body under Food Safety and Standards Act, 2006 (Ministry of Health and Family Welfare)."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Threshold Units:** Solid (per 100g) vs Liquid (per 100ml)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of FSSAI Proposes New Classification Limits for High."
     }
   ],
   "metadata": {
@@ -49,6 +46,16 @@
       "sourceChecksum": "fff9e995d8acb95a388f17732ae082b2f027f6c1a17d0b4fe765ef82950baa84",
       "migrationTimestamp": "2026-08-15T12:20:27.537Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

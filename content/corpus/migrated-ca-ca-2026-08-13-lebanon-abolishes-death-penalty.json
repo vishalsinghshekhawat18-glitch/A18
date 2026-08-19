@@ -1,29 +1,26 @@
 {
   "id": "migrated-ca-ca-2026-08-13-lebanon-abolishes-death-penalty",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Lebanon Becomes 1st Country in Arab World to Abolish Death Penalty",
+  "type": "ca_note",
   "summary": "Lebanon abolished death penalty, replacing it with life imprisonment with aggravated hard labour.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Lebanon abolished death penalty, replacing it with life imprisonment with aggravated hard labour."
+      "type": "warning_banner",
+      "title": "📰 6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS",
+      "text": "🪝 Lebanon Becomes 1st Country in Arab World to Abolish Death Penalty. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
-        "**Historic Reform:** First Arab world country to abolish death penalty, replacing it with life imprisonment."
+        "Lebanon abolished death penalty, replacing it with life imprisonment with aggravated hard labour.",
+        "**Historic Reform:** First Arab world country to abolish death penalty, replacing it with life imprisonment.",
+        "≠ **First Arab Country:** Lebanon.",
+        "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Lebanon Capital: Beirut. Currency: Lebanese Pound."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "≠ **First Arab Country:** Lebanon."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
     }
   ],
   "metadata": {
@@ -48,6 +45,16 @@
       "sourceChecksum": "d8fa124720ceba974a5a076564a59e51b4f759e4b22d3dc1b5f0f72b929620e7",
       "migrationTimestamp": "2026-08-15T12:14:01.063Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "sectionNumber": 6,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

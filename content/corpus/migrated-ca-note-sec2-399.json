@@ -1,31 +1,33 @@
 {
   "id": "migrated-ca-note-sec2-399",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "SEBI Tightens Margin Trading Facility (MTF) Rules: Net Worth Limit Raised to ₹5 Crore",
+  "type": "ca_note",
   "summary": "Raises broker net worth requirement from ₹3 crore to ₹5 crore and allows LLPs to offer MTFs.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Raises broker net worth requirement from ₹3 crore to ₹5 crore and allows LLPs to offer MTFs."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 SEBI Tightens Margin Trading Facility (MTF) Rules: Net Worth Limit Raised to ₹5 Crore. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Raises broker net worth requirement from ₹3 crore to ₹5 crore and allows LLPs to offer MTFs.",
         "Net Worth Cap: Broker net worth requirement raised from ₹3 crore to ₹5 crore; LLPs permitted.",
         "Locked Net Worth: Locked-away amount = lower of 2x min net worth or 50% total net worth.",
-        "Exposure Ceiling: Remaining net worth usable for MTF within overall exposure limit of 5.5x net worth (single client cap 10%)."
+        "Exposure Ceiling: Remaining net worth usable for MTF within overall exposure limit of 5.5x net worth (single client cap 10%).",
+        "Broker net worth cap (₹5 crore) vs MTF exposure limit (5.5x net worth).",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
       "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "MTF allows investors to buy stocks by paying a margin while broker funds the rest."
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "SEBI Established: 12 April 1992 (SEBI Act 1992) · HQ: Mumbai · Regulatory Scope: Securities & Capital Markets"
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Broker net worth cap (₹5 crore) vs MTF exposure limit (5.5x net worth)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -50,6 +52,16 @@
       "sourceChecksum": "ed11585081ac63f9f66a3d8b473416b86210d60aee76f08ccb22b36a849a512f",
       "migrationTimestamp": "2026-08-15T12:18:04.452Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

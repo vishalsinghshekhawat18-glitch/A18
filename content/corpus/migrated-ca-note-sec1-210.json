@@ -1,46 +1,45 @@
 {
   "id": "migrated-ca-note-sec1-210",
-  "type": "ca_note",
-  "domain": "current-affairs",
-  "title": "Small Savings Scheme Interest Rates Unchanged for July–September 2026 Quarter",
-  "summary": "Finance Ministry retains PPF interest rate at 7.10% and Sukanya Samriddhi Yojana at 8.20%.",
+  "title": "🔄 UPDATE: Small Savings Scheme Interest Rates Unchanged for July–September 2026 Quarter (Q2 FY27)",
+  "type": "ca_note_update",
+  "summary": "Finance Ministry retains small savings interest rates for Q2 FY27: SSY and SCSS at 8.20%, PPF at 7.10%, NSC at 7.70%.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Finance Ministry retains PPF interest rate at 7.10% and Sukanya Samriddhi Yojana at 8.20%."
+      "type": "warning_banner",
+      "title": "🔄 CHRONOLOGICAL UPDATE — SMALL SAVINGS TIME-SERIES",
+      "text": "Subsequent quarterly rate notification linked to baseline note [Small Savings Q4 FY26 Rates](migrated-ca-2026-01-sec4-1)."
     },
     {
       "type": "bullet_list",
       "items": [
-        "Public Provident Fund (PPF): 7.10% annual interest (Min ₹500, Max ₹1.5 Lakh p.a.; loans 3rd–6th FY; withdrawal from 7th FY).",
-        "Sukanya Samriddhi Yojana (SSY): 8.20% annual interest (Min ₹250, Max ₹1.5 Lakh p.a.; open till age 10; matures after 21 years)."
+        "**Q2 FY27 Rates Unchanged**: Ministry of Finance notified unchanged interest rates across all small savings instruments for July–September 2026.",
+        "**Key Instrument Rates**: Sukanya Samriddhi Yojana (SSY) at **8.20%**, Senior Citizens Savings Scheme (SCSS) at **8.20%**, National Savings Certificate (NSC) at **7.70%**, Kisan Vikas Patra (KVP) at **7.50%** (matures in 115 months), and Public Provident Fund (PPF) at **7.10%**.",
+        "**Post Office Savings Account**: Rate retained at **4.00%**.",
+        "**Relationship to Baseline**: Maintains continuous rate freeze from Q4 FY26 baseline (`migrated-ca-2026-01-sec4-1`) into Q2 FY27."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Small Savings Rates reviewed quarterly by Ministry of Finance."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "PPF interest rate (7.10%) vs SSY interest rate (8.20%)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on the top-yielding instruments (SSY & SCSS at 8.20%) and PPF rate (7.10% with tax-free EEE status under Section 80C)."
     }
   ],
   "metadata": {
     "exam": [
       "RBI Grade B",
       "NABARD Grade A",
-      "SBI PO"
+      "SBI PO",
+      "IBPS PO"
     ],
     "tags": [
-      "sec1",
+      "sec3",
+      "Banking Operations",
+      "Small Savings",
       "Current Affairs 2026"
     ],
     "date": "2026-07-05",
-    "category": "SEC1",
+    "category": "SEC3",
     "difficulty": "intermediate",
-    "lastUpdated": "2026-08-15T12:13:47.645Z",
+    "lastUpdated": "2026-08-18T22:16:00.000Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "ca_app/data.js",
@@ -48,7 +47,12 @@
       "sourceTitle": "Small Savings Scheme Interest Rates Unchanged for July–September 2026 Quarter",
       "sourceChecksum": "1c1b2147b7e36cf449c94769c691bf968dbe4242009d13ea596e37fce6f25180",
       "migrationTimestamp": "2026-08-15T12:13:47.645Z",
-      "normalizationRuleVersion": "1.0.0-phase4"
-    }
+      "normalizationRuleVersion": "1.0.0-freeze"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "editorialDecision": "CHRONOLOGICAL_UPDATE",
+    "parentStoryId": "migrated-ca-2026-01-sec4-1",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A"
   }
 }

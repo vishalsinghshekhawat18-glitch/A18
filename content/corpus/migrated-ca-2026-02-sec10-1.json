@@ -1,13 +1,24 @@
 {
   "id": "migrated-ca-2026-02-sec10-1",
+  "title": "Brahmaputra Underwater Road-Rail Tunnel (₹18,662 Cr Gohpur–Numaligarh Project)",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "India Semiconductor Mission 2.0 (ISM 2.0) Announced",
-  "summary": "Budget 2026-27 allocates ₹1,000 crore for ISM 2.0 to focus on domestic semiconductor equipment & materials manufacturing.",
+  "summary": "Cabinet approved 33.7 km Gohpur-Numaligarh 4-lane underwater tunnel under Brahmaputra River in Assam (2nd in world after Germany-Denmark).",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "Government announced **India Semiconductor Mission 2.0 (ISM 2.0)** with an outlay of **₹1,000 crore** for FY27, shifting focus upstream to semiconductor equipment and materials."
+      "content": "**Overview**: Cabinet approved 33.7 km Gohpur-Numaligarh 4-lane underwater tunnel under Brahmaputra River in Assam (2nd in world after Germany-Denmark)."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Cabinet approves ₹18,662 Crore Brahmaputra underwater road-cum-rail tunnel** (Page 39): Cabinet approved 33.7 km Gohpur-Numaligarh 4-lane underwater tunnel under Brahmaputra River in Assam (2nd in world after Germany-Denmark)."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under North-East Multi-Modal Strategic Connectivity. India's first 33.7 km underwater road-rail tunnel (2nd globally)."
     }
   ],
   "metadata": {
@@ -19,20 +30,34 @@
     "tags": [
       "sec10",
       "Current Affairs 2026",
-      "February 2026"
+      "February 2026",
+      "TIER_A"
     ],
     "date": "2026-02-15",
     "category": "SEC10",
-    "difficulty": "intermediate",
-    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "difficulty": "hard",
+    "lastUpdated": "2026-08-18T17:42:36.869Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "Feb2026.pdf",
-      "sourceId": "migrated-ca-2026-02-sec10-1",
-      "sourceTitle": "India Semiconductor Mission 2.0 (ISM 2.0) Announced",
-      "sourceChecksum": "110f39583a2deb2a08ee8a1c2521ac7cd62ec8033687d60490656cc36e451f7a",
-      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
-      "normalizationRuleVersion": "1.0.0-feb2026"
-    }
-  }
+      "sourceId": "emu-brahmaputra-underwater-tunnel",
+      "sourceTitle": "Brahmaputra Underwater Road-Rail Tunnel (₹18,662 Cr Gohpur–Numaligarh Project)",
+      "provenancePages": [
+        39
+      ],
+      "constituentArticleCount": 1,
+      "migrationTimestamp": "2026-08-18T17:42:36.869Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
+  },
+  "relationships": []
 }

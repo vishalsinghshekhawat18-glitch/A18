@@ -1,30 +1,32 @@
 {
   "id": "migrated-ca-note-sec2-258",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "RBI One-Time Approval Proposal for MFs & Insurers to Acquire up to 10% Bank Shareholding",
+  "type": "ca_note",
   "summary": "Replaces repeated prior approval requirement for qualifying institutional investors acquiring >5% bank stakes.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Replaces repeated prior approval requirement for qualifying institutional investors acquiring >5% bank stakes."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 RBI One-Time Approval Proposal for MFs & Insurers to Acquire up to 10% Bank Shareholding. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Replaces repeated prior approval requirement for qualifying institutional investors acquiring >5% bank stakes.",
         "One-Time Approval: One-time RBI clearance covers future acquisitions up to 10% voting rights/share capital.",
-        "Qualifying Entities: SEBI-registered MFs, IRDAI-registered Insurers, PFRDA-registered Pension Funds."
+        "Qualifying Entities: SEBI-registered MFs, IRDAI-registered Insurers, PFRDA-registered Pension Funds.",
+        "Standard approval threshold (5%) vs one-time clearance cap (10%).",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
       "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Standard RBI major shareholding threshold in banks is 5%."
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Standard approval threshold (5%) vs one-time clearance cap (10%)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -49,6 +51,16 @@
       "sourceChecksum": "76433d29316d5a5967c6453daa9b18d5bd83c6915c8eda5bba276b214eb24de5",
       "migrationTimestamp": "2026-08-15T12:15:05.761Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

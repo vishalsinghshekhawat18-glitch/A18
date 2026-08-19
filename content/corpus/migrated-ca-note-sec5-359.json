@@ -1,46 +1,27 @@
 {
   "id": "migrated-ca-note-sec5-359",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "DoT & TSDSI Sign MoU under ₹203 Crore 'TDIP Scheme' for Bharat 6G Standardisation",
+  "type": "ca_note",
   "summary": "Provides up to 98% financial support to Indian startups/MSMEs for global SDO participation.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Provides up to 98% financial support to Indian startups/MSMEs for global SDO participation."
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 DoT & TSDSI Sign MoU under ₹203 Crore 'TDIP Scheme' for Bharat 6G Standardisation. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Provides up to 98% financial support to Indian startups/MSMEs for global SDO participation.",
         "TDIP Scheme Outlay: ₹203 crore outlay (2026-2031) under Technology Development and Investment Promotion Scheme.",
-        "Financial Support: Up to 98% funding for startups (turnover ≤ ₹10 cr) and 80% (turnover ₹10 cr – ₹500 cr) to participate in 3GPP, ITU, and oneM2M standards meetings."
+        "Financial Support: Up to 98% funding for startups (turnover ≤ ₹10 cr) and 80% (turnover ₹10 cr – ₹500 cr) to participate in 3GPP, ITU, and oneM2M standards meetings.",
+        "Startup support limit (98% for turnover ≤ ₹10 cr) vs mid-sized MSME support limit (80%).",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Appointee / Official",
-        "New Position & Organization",
-        "Key Context & Details"
-      ],
-      "rows": [
-        [
-          "DoT & TSDSI Sign MoU under ₹203 Crore 'TDIP Scheme' for Bharat 6G Standardisation",
-          "Official Appointment",
-          "TDIP Scheme Outlay: ₹203 crore outlay (2026-2031) under Technology Development and Investment Promotion Scheme."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Telecom Minister: Jyotiraditya M. Scindia | Bharat 6G Mission target 2030."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Startup support limit (98% for turnover ≤ ₹10 cr) vs mid-sized MSME support limit (80%)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
     }
   ],
   "metadata": {
@@ -65,6 +46,16 @@
       "sourceChecksum": "238c90727192654764ad81692f95ad60a5728dc405b4e665cbebb54ec3f39c76",
       "migrationTimestamp": "2026-08-15T12:17:28.292Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

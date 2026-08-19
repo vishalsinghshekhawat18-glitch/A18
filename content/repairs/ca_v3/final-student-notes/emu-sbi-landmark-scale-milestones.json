@@ -1,0 +1,42 @@
+{
+  "id": "emu-sbi-landmark-scale-milestones",
+  "title": "State Bank of India — ₹10.9L Cr Market Cap (#4 in India) & $1B MUFG Social Loan",
+  "category": "SEC3",
+  "tier": "TIER_A",
+  "theme": "Public Sector Banking Scale & Balance Sheet Expansion",
+  "summary": "SBI raised $1 billion through 5-year social loan from Japan's MUFG, the first social loan raised by an Indian bank.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "**Overview**: SBI raised $1 billion through 5-year social loan from Japan's MUFG, the first social loan raised by an Indian bank."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**SBI raises $1 billion from MUFG via 5-year social loan** (Page 18): SBI raised $1 billion through 5-year social loan from Japan's MUFG, the first social loan raised by an Indian bank.",
+        "**SBI overtakes TCS to become India's 4th Most Valuable Company** (Page 20): SBI market cap crossed ₹10.9 lakh crore, surpassing TCS (₹10.5L Cr) to rank 4th (Reliance > HDFC Bank > Bharti Airtel > SBI).",
+        "**SBI targets increasing green advances to 10% by 2030, launches CHAKRA** (Page 24): SBI aims for 7.5-10% green advances by 2030 and launched CHAKRA Centre of Excellence for renewable energy and green hydrogen."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Public Sector Banking Scale & Balance Sheet Expansion. SBI market cap surpasses TCS; India's 1st commercial bank social loan."
+    }
+  ],
+  "metadata": {
+    "provenancePages": [
+      18,
+      20,
+      24
+    ],
+    "constituentArticleCount": 3,
+    "provenanceArticleIds": [
+      "cgb-art-46",
+      "cgb-art-53",
+      "cgb-art-73"
+    ],
+    "statutoryConcept": "Public Sector Banking Scale & Balance Sheet Expansion",
+    "whyStandalone": "SBI market cap surpasses TCS; India's 1st commercial bank social loan."
+  }
+}

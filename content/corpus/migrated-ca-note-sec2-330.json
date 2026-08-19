@@ -1,31 +1,28 @@
 {
   "id": "migrated-ca-note-sec2-330",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "CCI Imposes ₹126.87 Crore Penalty on HP India Sales for GeM Bid-Rigging",
+  "type": "ca_note",
   "summary": "Fines HP India and 5 resellers for cartelisation in GeM PC and printer cartridge procurement.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Fines HP India and 5 resellers for cartelisation in GeM PC and printer cartridge procurement."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 CCI Imposes ₹126.87 Crore Penalty on HP India Sales for GeM Bid-Rigging. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Fines HP India and 5 resellers for cartelisation in GeM PC and printer cartridge procurement.",
         "Cartelisation Fine: CCI imposed ₹126.87 crore penalty on HP India Sales Pvt Ltd under Section 27 of Competition Act 2002.",
         "Reseller Penalties: Combined penalty of ₹1.22 crore on 5 colluding resellers (Delphi Infosolutions, Digitech, Orbit Techsol, Hind Technocare, Krishna Computer).",
-        "Printer Supplies Fine: Separate ₹11.98 crore penalty imposed on HP India for GeM printer cartridge cartelisation."
+        "Printer Supplies Fine: Separate ₹11.98 crore penalty imposed on HP India for GeM printer cartridge cartelisation.",
+        "PC cartelisation penalty (₹126.87 crore) vs printer cartridge penalty (₹11.98 crore).",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Competition Commission of India (CCI) Chairperson: Ravneet Kaur | Est 2003."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "PC cartelisation penalty (₹126.87 crore) vs printer cartridge penalty (₹11.98 crore)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -50,6 +47,16 @@
       "sourceChecksum": "b5d4adb9ee7a7690a7d7a79978825b1f9783a57af2b64ae67c354732202d7182",
       "migrationTimestamp": "2026-08-15T12:16:51.763Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

@@ -1,0 +1,46 @@
+{
+  "nodeId": "node-story-migrated-ca-2026-02-sec2-1",
+  "sourceId": "migrated-ca-2026-02-sec2-1",
+  "title": "RBI Monetary Policy Feb 2026 — Repo Rate Held at 5.25%, MSME Loan Limit Doubled",
+  "type": "ca_note",
+  "tier": "TIER_A",
+  "category": "SEC2",
+  "qualityState": "VALID",
+  "summary": "RBI keeps Repo Rate unchanged at 5.25%, doubles collateral-free MSME loan limit to ₹20 lakh, and sets digital-fraud compensation cap at ₹25,000.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 RBI Monetary Policy Feb 2026 — Repo Rate Held at 5.25%, MSME Loan Limit Doubled. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "RBI MPC kept the **Repo Rate unchanged at 5.25%** with a neutral stance. Key policy decisions focused on structural MSME and consumer protection reforms.",
+        "**Policy Rates**: Repo 5.25%, SDF (standing deposit facility without collateral) 5.00%, MSF (marginal standing facility for emergency borrowing) & Bank Rate 5.50%, Reverse Repo 3.35%, CRR 3%, SLR 18%.",
+        "**MSME Limit Doubled**: Collateral-free MSME loan limit doubled to **₹20 lakh** (from ₹10 lakh) effective 1 April 2026.",
+        "**Digital-Fraud Compensation**: Victim and bank each bear 15% of loss; RBI covers the remaining 70%, capped at **₹25,000/case** via DEA Fund.",
+        "**Growth & Inflation**: FY26 GDP 7.4%; FY26 CPI (consumer price index tracking retail inflation) inflation 2.1%.",
+        "🎯 Exam Angle → Focus on Repo Rate figure (5.25%), MPC stance ('Neutral'), MSME collateral-free threshold, and inflation forecast."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on Repo Rate figure (5.25%), MPC stance ('Neutral'), MSME collateral-free threshold, and inflation forecast."
+    },
+    {
+      "type": "warning_banner",
+      "title": "💼 Interview Question & Model Answer",
+      "text": "**Q:** Why has the MPC maintained a 'Neutral' stance amidst global macroeconomic uncertainties?\n\n**Model Answer:** A neutral stance provides the RBI flexibility to balance domestic growth with inflation targets while monitoring global commodity price volatility."
+    }
+  ],
+  "provenance": [
+    "migrated-ca-2026-02-sec2-1"
+  ],
+  "examAngle": "🎯 Exam Angle → Focus on statutory thresholds, financial outlays, and key authority bodies."
+}

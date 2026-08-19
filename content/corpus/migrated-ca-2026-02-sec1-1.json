@@ -1,29 +1,24 @@
 {
   "id": "migrated-ca-2026-02-sec1-1",
+  "title": "16th Finance Commission Report — 41% Tax Devolution & Contribution to GDP Weight",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "Union Budget 2026-27 — Sitharaman's First Budget from Kartavya Bhawan",
-  "summary": "FM Nirmala Sitharaman presented Union Budget 2026-27 with fiscal deficit target of 4.3% of GDP, Capex at ₹12.2 lakh crore, and the New Income Tax Act 2025.",
+  "summary": "The 16th Finance Commission report for tax revenue devolution between Centre and states for 2026-2031 retained 41% share. Formally constituted Dec 31, 2023 under Arvind Panagariya under Article 280.",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "Presented by FM Nirmala Sitharaman on 1 Feb 2026, this was the **1st Budget prepared in the new Kartavya Bhawan building**, built around 3 'Kartavyas': growth, citizen aspirations, and inclusive development."
+      "content": "**Overview**: The 16th Finance Commission report for tax revenue devolution between Centre and states for 2026-2031 retained 41% share. Formally constituted Dec 31, 2023 under Arvind Panagariya under Article 280."
     },
     {
       "type": "bullet_list",
       "items": [
-        "**Fiscal Deficit BE 2026-27**: 4.3% of GDP (down from 4.4% in RE 2025-26); Debt-to-GDP down to 55.6% (from 56.1%).",
-        "**Capex Push**: Up 9% to a record **₹12.2 lakh crore (4.4% of GDP)**; total expenditure ₹53.5 lakh Cr, net tax receipts ₹28.7 lakh Cr.",
-        "**New Income Tax Act, 2025**: Effective 1 Apr 2026—sections simplified from 819 to 536.",
-        "**TCS Cuts**: Overseas tour packages cut to 2% (from 5%/20%); LRS education/medical cut to 2% (from 5%).",
-        "**STT Hiked**: Futures raised to 0.05%, Options to 0.15%; corporate buyback tax set at 22% (30% non-corporate).",
-        "**New Sectoral Schemes**: Biopharma SHAKTI (₹10,000 Cr), SME Growth Fund (₹10,000 Cr), 7 High-Speed Rail corridors, 20 new National Waterways, Bharat-VISTAAR AI agri-tool."
+        "**16th Finance Commission report for Tax revenue laid in LS** (Page 1): The 16th Finance Commission report for tax revenue devolution between Centre and states for 2026-2031 retained 41% share. Formally constituted Dec 31, 2023 under Arvind Panagariya under Article 280."
       ]
     },
     {
       "type": "exam_trap",
-      "title": "Fiscal Target Mnemonic",
-      "content": "Mnemonic '4.3 - 4.4 - 55.6' — Fiscal deficit 4.4% -> 4.3%, Debt-to-GDP 56.1% -> 55.6%."
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Inter-Governmental Fiscal Devolution. Constitutional 5-year tax sharing formula between Centre and States under Article 280."
     }
   ],
   "metadata": {
@@ -33,22 +28,36 @@
       "SBI PO"
     ],
     "tags": [
-      "sec3",
+      "sec1",
       "Current Affairs 2026",
-      "February 2026"
+      "February 2026",
+      "TIER_A"
     ],
     "date": "2026-02-15",
-    "category": "SEC3",
-    "difficulty": "intermediate",
-    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "category": "SEC1",
+    "difficulty": "hard",
+    "lastUpdated": "2026-08-18T17:42:36.705Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "Feb2026.pdf",
-      "sourceId": "migrated-ca-2026-02-sec1-1",
-      "sourceTitle": "Union Budget 2026-27 — Sitharaman's First Budget from Kartavya Bhawan",
-      "sourceChecksum": "263196f3b0840fdbb362ae69521e3755443702e07507e85b966c4beacef4911a",
-      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
-      "normalizationRuleVersion": "1.0.0-feb2026"
-    }
-  }
+      "sourceId": "emu-16th-finance-commission",
+      "sourceTitle": "16th Finance Commission Report — 41% Tax Devolution & Contribution to GDP Weight",
+      "provenancePages": [
+        1
+      ],
+      "constituentArticleCount": 1,
+      "migrationTimestamp": "2026-08-18T17:42:36.756Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
+  },
+  "relationships": []
 }

@@ -1,20 +1,25 @@
 {
   "id": "migrated-ca-note-sec1-33",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Shivalik Small Finance Bank Acquires ManiBhavnam Home Finance for ₹109 Crore",
+  "type": "ca_note",
   "summary": "Shivalik Small Finance Bank Acquires ManiBhavnam Home Finance for ₹109 Crore",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 Shivalik Small Finance Bank Acquires ManiBhavnam Home Finance for ₹109 Crore. Key development for Banking & General Awareness."
+    },
+    {
       "type": "bullet_list",
       "items": [
-        "Shivalik Small Finance Bank completed acquisition and merger of Delhi-based ManiBhavnam Home Finance India Pvt Ltd for **₹109 crore** (Shivalik SFB HQ: Noida)."
+        "Shivalik Small Finance Bank completed acquisition and merger of Delhi-based ManiBhavnam Home Finance India Pvt Ltd for **₹109 crore** (Shivalik SFB HQ: Noida).",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
       ]
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Shivalik Small Finance Bank Acquires ManiBhavnam Home Finance for ₹109 Crore."
     }
   ],
   "metadata": {
@@ -39,6 +44,16 @@
       "sourceChecksum": "9696bcba2a15bd36e76b8d6b28b83375083837eb2eb889795973d0ec7991e5c6",
       "migrationTimestamp": "2026-08-15T12:10:02.257Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

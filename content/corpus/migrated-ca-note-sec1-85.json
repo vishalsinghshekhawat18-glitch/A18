@@ -1,53 +1,27 @@
 {
   "id": "migrated-ca-note-sec1-85",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "World Bank World Development Report 2026: The Promise of Artificial Intelligence",
+  "type": "ca_note",
   "summary": "Assesses Generative AI's differential impact on developing vs developed labor markets.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Assesses Generative AI's differential impact on developing vs developed labor markets."
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 World Bank World Development Report 2026: The Promise of Artificial Intelligence. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Assesses Generative AI's differential impact on developing vs developed labor markets.",
         "📌 **Core Policy Directives & Scope:**\nReport Title: **\"World Development Report 2026: The Promise of Artificial Intelligence\"**, published by **World Bank**.\nAutomation Risk Differential: **4.5% of jobs in low- and middle-income countries** at risk of automation vs **14.2% in high-income countries**.",
-        "💰 **Financial Outlays & Operational Rules:**\nProductivity Boost: AI enhances productivity in **16.2% of jobs in developing countries** (vs 18.7% in high-income countries).\nTelangana Case Study: AI weather forecasting produced savings **up to $560 per small farmer** in Telangana."
+        "💰 **Financial Outlays & Operational Rules:**\nProductivity Boost: AI enhances productivity in **16.2% of jobs in developing countries** (vs 18.7% in high-income countries).\nTelangana Case Study: AI weather forecasting produced savings **up to $560 per small farmer** in Telangana.",
+        "Job automation risk in developing countries (4.5%) vs high-income countries (14.2%).",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Metric / Component",
-        "Threshold / Provision Detail"
-      ],
-      "rows": [
-        [
-          "Automation Risk Differential",
-          "4.5% of jobs in low- and middle-income countries at risk of automation vs 14.2% in high-income countries."
-        ],
-        [
-          "Productivity Boost",
-          "AI enhances productivity in 16.2% of jobs in developing countries (vs 18.7% in high-income countries)."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "World Bank Group (HQ: Washington D.C. | President: Ajay Banga | Founded 1944)."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Job automation risk in developing countries (4.5%) vs high-income countries (14.2%)."
-    },
-    {
-      "type": "quote",
-      "quote": "Interview Focus Question: \"Why is AI automation job risk lower in developing countries like India?\"\n💡 **Model Answer: Developing economies have fewer formal cognitive desk jobs prone to Generative AI replacement, making AI primarily a productivity booster.**",
-      "author": "Banking & Regulatory Board Panel"
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of World Bank World Development Report 2026."
     }
   ],
   "metadata": {
@@ -72,6 +46,16 @@
       "sourceChecksum": "4c5474fec422688ce8efcb729f5f49492b4f0adc2fd1b606a2a9c2dd846998bd",
       "migrationTimestamp": "2026-08-15T12:11:08.725Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

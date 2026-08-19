@@ -1,0 +1,102 @@
+{
+  "version": "1.0.0-retain-rate-challenge",
+  "generatedAt": "2026-08-18T16:39:58.023Z",
+  "sample100Breakdown": {
+    "coreRetain": 33,
+    "compactRetain": 65,
+    "mergeCandidate": 0,
+    "updateCandidate": 0,
+    "duplicateCandidate": 0,
+    "lowYieldShouldSkip": 2
+  },
+  "estimatedTrueRetainRate": "98%",
+  "estimatedSkipRate": "2%",
+  "highConfidenceDuplicatesCount": 19,
+  "duplicatePairsSample": [
+    {
+      "idA": "migrated-ca-2026-01-sec1-2",
+      "titleA": "Census 2027 — India's First Fully Digital, Caste-Enumerating Census",
+      "idB": "migrated-ca-2026-04-sec10-1",
+      "titleB": "🔄 UPDATE: Government Launches First Phase of Census 2027 — First Fully Digital & Caste-Enumerating Census",
+      "sim": 0.58
+    },
+    {
+      "idA": "migrated-ca-2026-01-sec6-3",
+      "titleA": "January 2026 Rapid Recall & Key Milestones Summary",
+      "idB": "migrated-ca-2026-02-sec10-6",
+      "titleB": "February 2026 Rapid Recall & Key Milestones Summary",
+      "sim": 0.71
+    },
+    {
+      "idA": "migrated-ca-2026-01-sec6-3",
+      "titleA": "January 2026 Rapid Recall & Key Milestones Summary",
+      "idB": "migrated-ca-2026-03-sec10-6",
+      "titleB": "March 2026 Rapid Recall & Key Milestones Summary",
+      "sim": 0.71
+    },
+    {
+      "idA": "migrated-ca-2026-01-sec6-3",
+      "titleA": "January 2026 Rapid Recall & Key Milestones Summary",
+      "idB": "migrated-ca-2026-04-sec10-6",
+      "titleB": "April 2026 Rapid Recall & Key Milestones Summary",
+      "sim": 0.71
+    },
+    {
+      "idA": "migrated-ca-2026-02-sec10-6",
+      "titleA": "February 2026 Rapid Recall & Key Milestones Summary",
+      "idB": "migrated-ca-2026-03-sec10-6",
+      "titleB": "March 2026 Rapid Recall & Key Milestones Summary",
+      "sim": 0.71
+    },
+    {
+      "idA": "migrated-ca-2026-02-sec10-6",
+      "titleA": "February 2026 Rapid Recall & Key Milestones Summary",
+      "idB": "migrated-ca-2026-04-sec10-6",
+      "titleB": "April 2026 Rapid Recall & Key Milestones Summary",
+      "sim": 0.71
+    },
+    {
+      "idA": "migrated-ca-2026-03-sec1-3",
+      "titleA": "EPFO Retains PF Interest Rate at 8.25% for FY26 (3rd Consecutive Year)",
+      "idB": "migrated-ca-note-sec2-386",
+      "titleB": "EPF Deposit Interest Rate Retained at 8.25% for FY26 (3rd Consecutive Year)",
+      "sim": 0.56
+    },
+    {
+      "idA": "migrated-ca-2026-03-sec1-4",
+      "titleA": "India's Current Account Deficit (CAD) Touches 1.3% of GDP in Q3 FY26",
+      "idB": "migrated-ca-note-sec2-392",
+      "titleB": "India Q4 FY26 Current Account Surplus Touches .1 Billion (0.7% of GDP)",
+      "sim": 0.63
+    },
+    {
+      "idA": "migrated-ca-2026-03-sec10-1",
+      "titleA": "VB-G RAM G Act, 2025 Replaces MGNREGA — Wage Guarantee Raised to 125 Days",
+      "idB": "migrated-ca-note-sec1-303",
+      "titleB": "VB-G-RAM-G Act Replaces MGNREGA: Wage Employment Guarantee Increased to 125 Days",
+      "sim": 0.56
+    },
+    {
+      "idA": "migrated-ca-2026-03-sec10-6",
+      "titleA": "March 2026 Rapid Recall & Key Milestones Summary",
+      "idB": "migrated-ca-2026-04-sec10-6",
+      "titleB": "April 2026 Rapid Recall & Key Milestones Summary",
+      "sim": 0.71
+    }
+  ],
+  "noteDensity": {
+    "avgWordsPerNote": 110,
+    "avgBlocksPerNote": "3.2"
+  },
+  "sectionDistribution": {
+    "SEC4": 61,
+    "SEC1": 157,
+    "SEC6": 75,
+    "SEC10": 36,
+    "SEC3": 54,
+    "SEC2": 201,
+    "SEC7": 20,
+    "SEC5": 42,
+    "SEC8": 15
+  }
+}

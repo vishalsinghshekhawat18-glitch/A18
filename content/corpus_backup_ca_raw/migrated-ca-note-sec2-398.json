@@ -1,0 +1,85 @@
+{
+  "id": "migrated-ca-note-sec2-398",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SEBI Board 214th Meeting: Reintroduces Open-Market Buybacks & Intraday MF Borrowing",
+  "summary": "Open-market buybacks re-allowed from Aug 1, 2026; MFs allowed intraday borrowing up to 20% net assets.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 SEBI Board 214th Meeting: Reintroduces Open-Market Buybacks & Intraday MF Borrowing. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Open-market buybacks re-allowed from Aug 1, 2026; MFs allowed intraday borrowing up to 20% net assets.",
+        "Open-Market Buybacks: Reintroduced from Aug 1, 2026; completed within 66 working days with min 40% funds deployed in 1st half.",
+        "MF Intraday Borrowing: MFs permitted intraday borrowing to manage temporary liquidity mismatches (in addition to 20% net asset borrowing limit).",
+        "QTP Claims: Introduced Quick Transmission Processing (QTP) for small-value deceased investor claims.",
+        "Buyback execution timeline (66 working days) vs min 1st half fund deployment (40%).",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "SEBI Established: 12 April 1992 (SEBI Act 1992) · HQ: Mumbai · Regulatory Scope: Securities & Capital Markets"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 2,
+      "code": "SEC2",
+      "name": "REGULATORY BODIES NEWS",
+      "emoji": "🏛️",
+      "fullName": "2. 🏛️ REGULATORY BODIES NEWS"
+    },
+    "hook": "🪝 SEBI Board 214th Meeting: Reintroduces Open-Market Buybacks & Intraday MF Borrowing",
+    "examAngle": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks.",
+    "staticGK": {
+      "summary": "SEBI Established: 12 April 1992 (SEBI Act 1992) · HQ: Mumbai · Regulatory Scope: Securities & Capital Markets"
+    },
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-06-20"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-20",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:18:04.452Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-398",
+      "sourceTitle": "SEBI Board 214th Meeting: Reintroduces Open-Market Buybacks & Intraday MF Borrowing",
+      "sourceChecksum": "78cddd5e96442f7912faafc114176aeabcf2d78b0c012c753b2a5960594236f4",
+      "migrationTimestamp": "2026-08-15T12:18:04.452Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

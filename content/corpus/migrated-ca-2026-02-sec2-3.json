@@ -1,20 +1,24 @@
 {
   "id": "migrated-ca-2026-02-sec2-3",
+  "title": "RBI Lead Bank Scheme (60% CD Ratio) & Mis-Selling Conduct Directions",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "DICGC Risk-Based Deposit Insurance Premium Framework",
-  "summary": "DICGC moves from flat 12 paise/₹100 premium to a 4-tier risk-based framework starting 1 April 2026.",
+  "summary": "RBI revised Lead Bank Scheme guidelines (introduced 1969) to strengthen SLBCs and LDMs with minimum 60% CD ratio in rural/semi-urban branches.",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "Deposit Insurance and Credit Guarantee Corporation (DICGC) transitions from a flat premium (12 paise per ₹100 since 1962) to a **risk-based premium structure** effective 1 April 2026."
+      "content": "**Overview**: RBI revised Lead Bank Scheme guidelines (introduced 1969) to strengthen SLBCs and LDMs with minimum 60% CD ratio in rural/semi-urban branches."
     },
     {
       "type": "bullet_list",
       "items": [
-        "**4 Risk Tiers**: Category A (safest: 8 paise/₹100), Category B (10 paise), Category C (11 paise), Category D (12 paise).",
-        "**Insurance Cover**: Coverage remains unchanged at **₹5 lakh per depositor per bank**."
+        "**RBI Draft Circular on Lead Bank Scheme (LBS)** (Page 12): RBI revised Lead Bank Scheme guidelines (introduced 1969) to strengthen SLBCs and LDMs with minimum 60% CD ratio in rural/semi-urban branches."
       ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Financial Inclusion & Customer Conduct. Enforces 60% rural CD ratio and establishes first formal mis-selling definition."
     }
   ],
   "metadata": {
@@ -26,20 +30,34 @@
     "tags": [
       "sec2",
       "Current Affairs 2026",
-      "February 2026"
+      "February 2026",
+      "TIER_A"
     ],
     "date": "2026-02-15",
     "category": "SEC2",
-    "difficulty": "intermediate",
-    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "difficulty": "hard",
+    "lastUpdated": "2026-08-18T17:42:36.810Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "Feb2026.pdf",
-      "sourceId": "migrated-ca-2026-02-sec2-3",
-      "sourceTitle": "DICGC Risk-Based Deposit Insurance Premium Framework",
-      "sourceChecksum": "20ef64f488b5e55b4d9d2034e2a983c5c29d5471abeb1811c535e101d7ea26b4",
-      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
-      "normalizationRuleVersion": "1.0.0-feb2026"
-    }
-  }
+      "sourceId": "emu-rbi-lead-bank-consumer-conduct",
+      "sourceTitle": "RBI Lead Bank Scheme (60% CD Ratio) & Mis-Selling Conduct Directions",
+      "provenancePages": [
+        12
+      ],
+      "constituentArticleCount": 1,
+      "migrationTimestamp": "2026-08-18T17:42:36.810Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
+  },
+  "relationships": []
 }

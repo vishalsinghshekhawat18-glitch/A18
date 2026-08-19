@@ -1,0 +1,77 @@
+{
+  "id": "migrated-ca-note-sec4-315",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "PM Modi Commissions 3 Warships in Kolkata: INS Dunagiri, INS Sanshodhak, & INS Agray",
+  "summary": "Commissions 7th Project 17A frigate, 4th Survey Vessel Large, and ASW Shallow Water Craft.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 PM Modi Commissions 3 Warships in Kolkata: INS Dunagiri, INS Sanshodhak, & INS Agray. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Commissions 7th Project 17A frigate, 4th Survey Vessel Large, and ASW Shallow Water Craft.",
+        "Warships Commissioned: INS Dunagiri (7th & final Project 17A stealth frigate), INS Sanshodhak (4th Survey Vessel Large), and INS Agray (ASW Shallow Water Craft).",
+        "Builder & Content: Built by Garden Reach Shipbuilders & Engineers (GRSE) Kolkata with >75% indigenous content.",
+        "Navratna Status: Marks GRSE's 1st warship commissioning after receiving Navratna status.",
+        "INS Dunagiri (Project 17A 7th frigate) vs INS Sanshodhak (Survey Vessel 4th vessel).",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 10,
+      "code": "SEC10",
+      "name": "MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "emoji": "📌",
+      "fullName": "10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC"
+    },
+    "hook": "🪝 PM Modi Commissions 3 Warships in Kolkata: INS Dunagiri, INS Sanshodhak, & INS Agray",
+    "examAngle": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-07-13"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-13",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:16:15.973Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-315",
+      "sourceTitle": "PM Modi Commissions 3 Warships in Kolkata: INS Dunagiri, INS Sanshodhak, & INS Agray",
+      "sourceChecksum": "ead3e2941f01087429408054ee2154bc851395f4c931bc81fed98cb98a9c953e",
+      "migrationTimestamp": "2026-08-15T12:16:15.973Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

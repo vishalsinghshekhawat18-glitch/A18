@@ -1,0 +1,80 @@
+{
+  "id": "migrated-ca-2026-02-sec10-6",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "February 2026 Rapid Recall & Key Milestones Summary",
+  "summary": "High-speed sweep of top figures, budget highlights, policy decisions, and sports records from February 2026.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 11. 🧠 REVISION",
+      "text": "🪝 February 2026 Rapid Recall & Key Milestones Summary. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "High-speed recall summary for February 2026:",
+        "**Union Budget 2026-27**: Fiscal Deficit 4.3%, Capex ₹12.2L Cr (+9%), Income Tax Act 2025.",
+        "**16th Finance Commission**: Devolution 41%, 10% weight for GDP contribution.",
+        "**RBI Repo Rate**: Held at 5.25%; MSME collateral-free limit ₹20 Lakh; Fraud compensation cap ₹25,000.",
+        "**India-US Trade Deal**: US reciprocal tariffs cut to 18%; $500B US purchases.",
+        "**100% Insurance FDI (foreign direct investment with management stake)**: Operationalized via Sabka Bima Sabki Raksha Act 2025.",
+        "**Corruption Perception Index**: India 91st (score 39).",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of February 2026 Rapid Recall & Key Milestones Summary."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of February 2026 Rapid Recall & Key Milestones Summary."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 11,
+      "code": "SEC11",
+      "name": "REVISION",
+      "emoji": "🧠",
+      "fullName": "11. 🧠 REVISION"
+    },
+    "hook": "🪝 February 2026 Rapid Recall & Key Milestones Summary",
+    "examAngle": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of February 2026 Rapid Recall & Key Milestones Summary.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-02-15"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec11",
+      "Current Affairs 2026",
+      "February 2026"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC11",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "migrated-ca-2026-02-sec10-6",
+      "sourceTitle": "February 2026 Rapid Recall & Key Milestones Summary",
+      "sourceChecksum": "74f01d4878a04f6620d71d334cb3e3d0d1172020539046fa2f6f947f71d37bea",
+      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+      "normalizationRuleVersion": "1.0.0-feb2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC11",
+    "sectionNumber": 11,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

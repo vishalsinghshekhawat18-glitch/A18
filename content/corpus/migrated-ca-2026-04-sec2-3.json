@@ -1,20 +1,26 @@
 {
   "id": "migrated-ca-2026-04-sec2-3",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "IRDAI Mandates 'Ind AS' Accounting Standards for Insurers from April 1, 2026",
+  "type": "ca_note",
   "summary": "IRDAI notifies Actuarial, Finance & Investment Amendment Regulations 2026, enforcing IFRS-aligned Ind AS reporting across all insurance companies.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "IRDAI approved regulations mandating **Indian Accounting Standards (Ind AS)** (aligned with global IFRS 17 & IFRS 9) for all life, general, health, and reinsurance companies w.e.f. April 1, 2026."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 IRDAI Mandates 'Ind AS' Accounting Standards for Insurers from April 1, 2026. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "IRDAI approved regulations mandating **Indian Accounting Standards (Ind AS)** (aligned with global IFRS 17 & IFRS 9) for all life, general, health, and reinsurance companies w.e.f. April 1, 2026.",
         "**Parallel Reporting**: 2-year parallel reporting window alongside existing framework.",
-        "**Forbearance**: 1-year transition forbearance option for insurers facing operational hurdles."
+        "**Forbearance**: 1-year transition forbearance option for insurers facing operational hurdles.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -29,7 +35,7 @@
       "April 2026"
     ],
     "date": "2026-04-15",
-    "category": "SEC2",
+    "category": "SEC6",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-16T11:56:36.842Z",
     "provenance": {
@@ -40,6 +46,16 @@
       "sourceChecksum": "462ad6fe6a1e45bf5b604a9cacb70c7c26ef5fdeb6eb15517f12f9492c5bd874",
       "migrationTimestamp": "2026-08-16T11:56:36.842Z",
       "normalizationRuleVersion": "1.0.0-apr2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 82
   }
 }

@@ -1,31 +1,28 @@
 {
   "id": "migrated-ca-ca-2026-08-11-mmdr-amendment-bill-2026",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Govt Introduces MMDR Amendment Bill 2026 in Lok Sabha; Removes 50% Captive Sales Ceiling",
+  "type": "ca_note",
   "summary": "Mines and Minerals Amendment Bill 2026 introduced in Lok Sabha, removing 50% sales cap on captive mines and expanding NMET.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Mines and Minerals Amendment Bill 2026 introduced in Lok Sabha, removing 50% sales cap on captive mines and expanding NMET."
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 Govt Introduces MMDR Amendment Bill 2026 in Lok Sabha; Removes 50% Captive Sales Ceiling. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Mines and Minerals Amendment Bill 2026 introduced in Lok Sabha, removing 50% sales cap on captive mines and expanding NMET.",
         "**Captive Mine Ceiling Removed:** Bill removes 50% ceiling on annual mineral sales by captive mines after meeting end-use requirements.",
         "**Trust Expansion:** Renames NMET to **National Mineral Exploration and Development Trust** to fund mine development.",
-        "**Lease Extension:** Composite licence extended up to 30%; mining lease up to 10%; one-time extension for deep-seated minerals (>200m depth)."
+        "**Lease Extension:** Composite licence extended up to 30%; mining lease up to 10%; one-time extension for deep-seated minerals (>200m depth).",
+        "⚠️ **Depth Threshold:** Deep-seated minerals defined as minerals found >200 meters below land surface.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Govt Introduces MMDR Amendment Bill 2026 in Lok Sabha; Removes 50% Captive Sales Ceiling."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Amends: Mines and Minerals (Development and Regulation) Act, 1957."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Depth Threshold:** Deep-seated minerals defined as minerals found >200 meters below land surface."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Govt Introduces MMDR Amendment Bill 2026 in Lok Sabha; Removes 50% Captive Sales Ceiling."
     }
   ],
   "metadata": {
@@ -50,6 +47,16 @@
       "sourceChecksum": "2ff79746e2a1e4bd71c3b92b01310740aa0943535b952151b220fe69581237d2",
       "migrationTimestamp": "2026-08-15T12:19:51.522Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

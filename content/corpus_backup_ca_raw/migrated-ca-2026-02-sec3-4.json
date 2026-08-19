@@ -1,0 +1,82 @@
+{
+  "id": "migrated-ca-2026-02-sec3-4",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "MIGA $197.67 Million Guarantee for SBI Rooftop Solar Refinancing",
+  "summary": "Multilateral Investment Guarantee Agency (MIGA) provides $197.67 million 5-year guarantee to Citibank for loan to SBI.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 3. 🏦 BANKING & INSURANCE NEWS",
+      "text": "🪝 MIGA $197.67 Million Guarantee for SBI Rooftop Solar Refinancing. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "MIGA (World Bank Group) issued a **$197.67 million guarantee** to Citibank N.A. to back financing for SBI's $500 million Grid-connected Rooftop Solar PV (GRPV) programme.",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "SBI Established: 1 July 1955 (SBI Act 1955) · HQ: Mumbai · Tagline: The Nation banks on us"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
+    }
+  ],
+  "intelligence": {
+    "zone": "LIGHT_TOUCH",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 3,
+      "code": "SEC3",
+      "name": "BANKING & INSURANCE NEWS",
+      "emoji": "🏦",
+      "fullName": "3. 🏦 BANKING & INSURANCE NEWS"
+    },
+    "hook": "🪝 MIGA $197.67 Million Guarantee for SBI Rooftop Solar Refinancing",
+    "examAngle": "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure.",
+    "staticGK": {
+      "summary": "SBI Established: 1 July 1955 (SBI Act 1955) · HQ: Mumbai · Tagline: The Nation banks on us"
+    },
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-02-15"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec5",
+      "Current Affairs 2026",
+      "February 2026"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC5",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "migrated-ca-2026-02-sec3-4",
+      "sourceTitle": "MIGA $197.67 Million Guarantee for SBI Rooftop Solar Refinancing",
+      "sourceChecksum": "3c6982863735889b740414b6ab91428cc5278b4bd0812bb5c50d9309530e0119",
+      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+      "normalizationRuleVersion": "1.0.0-feb2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "LIGHT_TOUCH",
+    "sectionCode": "SEC3",
+    "sectionNumber": 3,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

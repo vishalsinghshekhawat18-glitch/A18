@@ -1,0 +1,69 @@
+{
+  "id": "migrated-ca-2026-01-sec1-5",
+  "originalTitle": "India Notifies Coking Coal as Critical & Strategic Mineral",
+  "v3Title": "📰 India Notifies Coking Coal as Critical & Strategic Mineral",
+  "v3Summary": "Government classifies coking coal under MMDR Act 1957 to fast-track environmental clearances and tap 37.37 billion-tonne reserves.",
+  "v3Framework": {
+    "zone": "LIGHT_TOUCH",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "sectionNumber": 3,
+    "hook": "🪝 India Notifies Coking Coal as Critical & Strategic Mineral... Key exam anchor with high-frequency MCQ hit rate.",
+    "examAngle": "🎯 Exam Angle → Focus on nodal body, key thresholds, and statutory implementation timelines.",
+    "staticGK": {
+      "nodalAuthority": "Government of India / Nodal Regulatory Agency",
+      "headquarters": "New Delhi / Mumbai"
+    }
+  },
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 Section 3: Exam High-Yield Note",
+      "text": "🪝 India Notifies Coking Coal as Critical & Strategic Mineral. Sourced from official gazette and institutional circulars."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Key Development**: Government classifies coking coal under MMDR Act 1957 to fast-track environmental clearances and tap 37.37 billion-tonne reserves.",
+        "**Implementation Date**: Effective as of **2026-01-26**.",
+        "**Nodal Jurisdiction**: Central / Regulatory Authority."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "Headquarters: Mumbai / New Delhi · Published Date: 2026-01-26"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Direct MCQ candidate on nodal ministry, outlays, and statutory compliance dates."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026",
+      "January 2026"
+    ],
+    "date": "2026-01-26",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "January_26.pdf",
+      "sourceId": "migrated-ca-2026-01-sec1-5",
+      "sourceTitle": "India Notifies Coking Coal as Critical & Strategic Mineral",
+      "sourceChecksum": "7c52a1506f31b5d1c20128542f577edca63b550be9113aa63debef166d9c5a3b",
+      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+      "normalizationRuleVersion": "1.0.0-jan2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "pilotStatus": "staged_pilot_verified"
+  }
+}

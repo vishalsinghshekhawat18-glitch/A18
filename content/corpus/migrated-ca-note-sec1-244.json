@@ -1,30 +1,27 @@
 {
   "id": "migrated-ca-note-sec1-244",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "India's Total Exports Reach Record .1 Billion in FY 2025-26",
+  "type": "ca_note",
   "summary": "Merchandise exports touch .8B and services exports reach .3B.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Merchandise exports touch .8B and services exports reach .3B."
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 India's Total Exports Reach Record .1 Billion in FY 2025-26. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Merchandise exports touch .8B and services exports reach .3B.",
         "Export Breakdown: Merchandise exports .8 billion; Services exports .3 billion (Total .1B).",
-        "Top FTA Destination: ASEAN countries emerged as highest merchandise export destination (.42B), followed by UAE (.36B)."
+        "Top FTA Destination: ASEAN countries emerged as highest merchandise export destination (.42B), followed by UAE (.36B).",
+        "Merchandise exports (.8B) vs Services exports (.3B).",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of India's Total Exports Reach Record .1 Billion in FY 2025."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "ASEAN (10 member nations) HQ: Jakarta, Indonesia."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Merchandise exports (.8B) vs Services exports (.3B)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of India's Total Exports Reach Record .1 Billion in FY 2025."
     }
   ],
   "metadata": {
@@ -49,6 +46,16 @@
       "sourceChecksum": "b35e4bf9d478354f9cf7064d2a98cb79d30c4ca99595b5e0bf5a0fab578fc73f",
       "migrationTimestamp": "2026-08-15T12:14:29.731Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

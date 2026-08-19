@@ -1,0 +1,77 @@
+{
+  "id": "migrated-ca-note-sec4-42",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Lok Sabha Passes Bill to Increase Supreme Court Judge Strength from 33 to 37",
+  "summary": "Expands Apex Court judicial capacity to tackle case pendency and constitute Constitutional Benches.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 Lok Sabha Passes Bill to Increase Supreme Court Judge Strength from 33 to 37. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Expands Apex Court judicial capacity to tackle case pendency and constitute Constitutional Benches.",
+        "Passed **Supreme Court (Number of Judges) Amendment Bill, 2026** amending the 1956 Act.",
+        "Sanctioned Strength Expansion: Increases SC Judges from **33 to 37** (excluding CJI).",
+        "Total Strength with CJI: **38 Judges** (37 Judges + 1 CJI).",
+        "Judge strength excluding CJI (**37 judges**) vs total strength including CJI (**38 judges**).",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Lok Sabha Passes Bill to Increase Supreme Court Judge Strength from 33 to 37."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Lok Sabha Passes Bill to Increase Supreme Court Judge Strength from 33 to 37."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 4,
+      "code": "SEC4",
+      "name": "NATIONAL, STATE & INTERNATIONAL NEWS",
+      "emoji": "🌐",
+      "fullName": "4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS"
+    },
+    "hook": "🪝 Lok Sabha Passes Bill to Increase Supreme Court Judge Strength from 33 to 37",
+    "examAngle": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Lok Sabha Passes Bill to Increase Supreme Court Judge Strength from 33 to 37.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-08-05"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-05",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:10:02.257Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-42",
+      "sourceTitle": "Lok Sabha Passes Bill to Increase Supreme Court Judge Strength from 33 to 37",
+      "sourceChecksum": "eb6fa398d23346e07a09816e948c109018174653ee79d20c3ab7c052fc694a9e",
+      "migrationTimestamp": "2026-08-15T12:10:02.257Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

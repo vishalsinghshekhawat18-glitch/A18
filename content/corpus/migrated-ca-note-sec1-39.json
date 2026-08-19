@@ -1,20 +1,30 @@
 {
   "id": "migrated-ca-note-sec1-39",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "WSFx GlobalPay Secures RBI AD Category II License under FEMA 2026",
+  "type": "ca_note",
   "summary": "WSFx GlobalPay Secures RBI AD Category II License under FEMA 2026",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 WSFx GlobalPay Secures RBI AD Category II License under FEMA 2026. Key development for Banking & General Awareness."
+    },
+    {
       "type": "bullet_list",
       "items": [
-        "WSFx Global Pay Limited received RBI Authorised Dealer Cat-II license under FEMA for trade remittances up to **₹25 lakh**."
+        "WSFx Global Pay Limited received RBI Authorised Dealer Cat-II license under FEMA for trade remittances up to **₹25 lakh**.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on Authorized Dealer Category-II (AD-II) perpetual license terms, permissible non-trade current account transactions, and FEMA 1999 Section 10."
       ]
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on Authorized Dealer Category-II (AD-II) perpetual license terms, permissible non-trade current account transactions, and FEMA 1999 Section 10."
     }
   ],
   "metadata": {
@@ -28,7 +38,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-08-01",
-    "category": "SEC1",
+    "category": "SEC2",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:10:02.257Z",
     "provenance": {
@@ -39,6 +49,16 @@
       "sourceChecksum": "7b86f04d5507c2e07a657e41c848c62cc724d8727a2a91b1cb1c1a16c21b82b1",
       "migrationTimestamp": "2026-08-15T12:10:02.257Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

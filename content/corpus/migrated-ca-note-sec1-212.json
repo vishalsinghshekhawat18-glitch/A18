@@ -1,54 +1,29 @@
 {
   "id": "migrated-ca-note-sec1-212",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "NSO Report: Regular Salary Employment Higher in Million-Plus Cities (58.5% vs 47.6% Urban India)",
+  "type": "ca_note",
   "summary": "Highlights urban employment structure across 46 million-plus population cities under PLFS 2025 survey.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Highlights urban employment structure across 46 million-plus population cities under PLFS 2025 survey."
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 NSO Report: Regular Salary Employment Higher in Million-Plus Cities (58.5% vs 47.6% Urban India). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Highlights urban employment structure across 46 million-plus population cities under PLFS 2025 survey.",
         "Unemployment Rate: Average unemployment across 46 million-plus cities stood at 6.8% (Prayagraj & Patna >20%; Ahmedabad & Kolkata <2.5%).",
         "Regular vs Casual Jobs: Regular wage/salary jobs accounted for 58.5% in million-plus cities (vs 47.6% urban India); casual labor stood at 6.3% (vs 12% urban India).",
         "Female Participation: Female regular employment reached 65.1% in million-plus cities, surpassing male counterparts (56.4%).",
-        "Earnings Comparison: Self-employed earned ₹30,858/month (vs ₹23,013 urban India); regular employees ₹28,808 (vs ₹26,258); casual labour ₹624/day (vs ₹550)."
+        "Earnings Comparison: Self-employed earned ₹30,858/month (vs ₹23,013 urban India); regular employees ₹28,808 (vs ₹26,258); casual labour ₹624/day (vs ₹550).",
+        "Female regular job rate in million-plus cities (65.1%) vs male rate (56.4%).",
+        "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Metric / Component",
-        "Threshold / Provision Detail"
-      ],
-      "rows": [
-        [
-          "Unemployment Rate",
-          "Average unemployment across 46 million-plus cities stood at 6.8% (Prayagraj & Patna >20%; Ahmedabad & Kolkata <2.5%)."
-        ],
-        [
-          "Regular vs Casual Jobs",
-          "Regular wage/salary jobs accounted for 58.5% in million-plus cities (vs 47.6% urban India); casual labor stood at 6.3% (vs 12% urban India)."
-        ],
-        [
-          "Female Participation",
-          "Female regular employment reached 65.1% in million-plus cities, surpassing male counterparts (56.4%)."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "National Statistics Office (NSO) works under MoSPI | Minister: Rao Inderjit Singh."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Female regular job rate in million-plus cities (65.1%) vs male rate (56.4%)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of NSO Report."
     }
   ],
   "metadata": {
@@ -73,6 +48,16 @@
       "sourceChecksum": "2d11084e517e7c561a466e21afc95a2be3c0c554c86a78ae5eeaefbba9b923f7",
       "migrationTimestamp": "2026-08-15T12:13:47.645Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 92
   }
 }

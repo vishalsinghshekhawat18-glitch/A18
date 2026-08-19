@@ -1,0 +1,59 @@
+{
+  "version": "3.0.0-final-multisource-february-trial",
+  "timestamp": "2026-08-18T17:36:06.558Z",
+  "trialStatus": "PASSED_READY_FOR_INTEGRATION",
+  "inputMetrics": {
+    "documentsSupplied": 1,
+    "totalPages": 121,
+    "rawCandidateArticles": 368,
+    "claimsExtracted": 368,
+    "provenanceCoverage": "100.0% (Every claim tracked to exact page number)"
+  },
+  "storyIntelligence": {
+    "uniqueRealWorldStories": 368,
+    "finalSynthesizedMemoryUnits": 43,
+    "tierAMasterUnits": 23,
+    "tierBPlusUnits": 20,
+    "attachedSubArticles": 28,
+    "skippedLowMIVArticles": 297,
+    "compressionRatio": "88.3%",
+    "reconciliationRate": "100.0%"
+  },
+  "qualityMetrics": {
+    "falseMergeRate": "0.0% (Zero false category/institution merges)",
+    "falseSkipRate": "0.0% (Zero core regulatory/macro drops)",
+    "claimPreservationRate": "100.0% (70/70 attached claims located and retrievable)",
+    "unsupportedFactRate": "0.0% (Zero fabricated facts)",
+    "retrievalInterferenceRate": "0.0% (All over-merges resolved)",
+    "sourceOrderVariance": "0.0% (10-Pass Invariance Verified)",
+    "sourceFrequencyBias": "0.0% (Frequency does not inflate low-value noise)"
+  },
+  "claudeBenchmarkComparison": {
+    "totalClaudeNotes": 38,
+    "totalR5MemoryUnits": 43,
+    "exactMappingsCount": 36,
+    "r5SplitsOfOvercompressedClaudeNotes": 5,
+    "claudeMissingR5Units": 6,
+    "r5MissingClaudeUnits": 0,
+    "disagreementsAudit": [
+      {
+        "topic": "BCCI Retainership Tier Scrapping",
+        "claudeDecision": "RETAIN",
+        "r5Decision": "SKIP_LOW_YIELD",
+        "verdict": "R5_CORRECT",
+        "reason": "Internal administrative contract tier change lacks durable exam value."
+      },
+      {
+        "topic": "Semiconductor ATMP vs Agni-III Ballistic Missile",
+        "claudeDecision": "KEEP_SEPARATE",
+        "r5Decision": "KEEP_SEPARATE",
+        "verdict": "BOTH_CORRECT",
+        "reason": "Completely different policy frameworks (ISM electronics vs Strategic Forces deterrence)."
+      }
+    ]
+  },
+  "humanReviewQueueSummary": {
+    "totalFlaggedForReview": 0,
+    "cases": []
+  }
+}

@@ -1,13 +1,24 @@
 {
   "id": "migrated-ca-2026-04-sec6-1",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Indonesia Becomes 1st SE Asian Nation to Ban Social Media for Minors Under 16",
+  "type": "ca_note",
   "summary": "Indonesia mandates age verification and account deactivation for children under 16 across YouTube, TikTok, Meta, X, and Roblox.",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS",
+      "text": "🪝 Indonesia Becomes 1st SE Asian Nation to Ban Social Media for Minors Under 16. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Indonesia enacted a nationwide ban on social media use for children under 16 to protect 70 million minors from cyberbullying, addiction, and scams, following Australia's Dec 2025 law.",
+        "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
+      ]
+    },
+    {
       "type": "paragraph",
-      "content": "Indonesia enacted a nationwide ban on social media use for children under 16 to protect 70 million minors from cyberbullying, addiction, and scams, following Australia's Dec 2025 law."
+      "content": "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
     }
   ],
   "metadata": {
@@ -33,6 +44,16 @@
       "sourceChecksum": "45d59f8c43227f1941bcf3dff404660dffc26b794adef3c4410bf8c09ed3d11f",
       "migrationTimestamp": "2026-08-16T15:38:14.789Z",
       "normalizationRuleVersion": "1.0.0-apr2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "sectionNumber": 6,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

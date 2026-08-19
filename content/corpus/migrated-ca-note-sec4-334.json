@@ -1,31 +1,28 @@
 {
   "id": "migrated-ca-note-sec4-334",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "MoE PGI-S 2.0 & PGI-D Report: Chandigarh Tops School Education for 5th Consecutive Year",
+  "type": "ca_note",
   "summary": "Chandigarh sole UT/State in 'Uttam-3' category; Meghalaya records sharpest improvement.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Chandigarh sole UT/State in 'Uttam-3' category; Meghalaya records sharpest improvement."
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 MoE PGI-S 2.0 & PGI-D Report: Chandigarh Tops School Education for 5th Consecutive Year. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Chandigarh sole UT/State in 'Uttam-3' category; Meghalaya records sharpest improvement.",
         "State Leader: Chandigarh topped PGI-S 2.0 for 5th straight year (only entity in 'Uttam-3' grade).",
         "Sharpest Improvement: Meghalaya climbed 2 grades to 'Akanshi-1' (score rose from 448 to 525.7).",
-        "District Level: 19 districts reached 'Uttam-2' grade (led by 7 from Punjab)."
+        "District Level: 19 districts reached 'Uttam-2' grade (led by 7 from Punjab).",
+        "State PGI-S scale (1,000 points) vs District PGI-D scale (600 points).",
+        "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "PGI-S evaluates school education across 1,000 points and 70 indicators."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "State PGI-S scale (1,000 points) vs District PGI-D scale (600 points)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of MoE PGI."
     }
   ],
   "metadata": {
@@ -39,7 +36,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-07-17",
-    "category": "SEC4",
+    "category": "SEC2",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:16:51.763Z",
     "provenance": {
@@ -50,6 +47,16 @@
       "sourceChecksum": "9d2386290f440be043951938570d900e319f81260af0982193d0a6454cab4bad",
       "migrationTimestamp": "2026-08-15T12:16:51.763Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

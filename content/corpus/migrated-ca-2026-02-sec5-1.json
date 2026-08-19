@@ -1,13 +1,24 @@
 {
   "id": "migrated-ca-2026-02-sec5-1",
+  "title": "Uday Kotak Appointed Chairman of GIFT City (Gujarat International Finance Tec-City)",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "Defence Acquisition Council Clears ₹3.60 Lakh Crore Acquisitions Including 114 Rafales",
-  "summary": "DAC accords Acceptance of Necessity (AoN) for ₹3.60 lakh crore capital acquisitions, including 114 Rafale jets.",
+  "summary": "Uday Kotak appointed Chairman of GIFT City (IFSC Gandhinagar), succeeding Hasmukh Adhia.",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "DAC (chaired by Rajnath Singh) approved **₹3.60 lakh crore capital acquisitions**, including **114 Rafale fighter jets** (taking India's total Rafale fleet to 176) and 6 P-8I maritime aircraft."
+      "content": "**Overview**: Uday Kotak appointed Chairman of GIFT City (IFSC Gandhinagar), succeeding Hasmukh Adhia."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Uday Kotak appointed Chairman of GIFT City Company Ltd** (Page 102): Uday Kotak appointed Chairman of GIFT City (IFSC Gandhinagar), succeeding Hasmukh Adhia."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under International Financial Services Centre Governance. Veteran banker succeeds Hasmukh Adhia as GIFT City Chairman."
     }
   ],
   "metadata": {
@@ -17,22 +28,36 @@
       "SBI PO"
     ],
     "tags": [
-      "sec8",
+      "sec5",
       "Current Affairs 2026",
-      "February 2026"
+      "February 2026",
+      "TIER_A"
     ],
     "date": "2026-02-15",
-    "category": "SEC8",
-    "difficulty": "intermediate",
-    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "category": "SEC5",
+    "difficulty": "hard",
+    "lastUpdated": "2026-08-18T17:42:36.838Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "Feb2026.pdf",
-      "sourceId": "migrated-ca-2026-02-sec5-1",
-      "sourceTitle": "Defence Acquisition Council Clears ₹3.60 Lakh Crore Acquisitions Including 114 Rafales",
-      "sourceChecksum": "11d58b7c3e1bc61c2700a25452d4de10b515fa10830d36bf7cb0def9a0266233",
-      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
-      "normalizationRuleVersion": "1.0.0-feb2026"
-    }
-  }
+      "sourceId": "emu-uday-kotak-chairman-gift-city",
+      "sourceTitle": "Uday Kotak Appointed Chairman of GIFT City (Gujarat International Finance Tec-City)",
+      "provenancePages": [
+        102
+      ],
+      "constituentArticleCount": 1,
+      "migrationTimestamp": "2026-08-18T17:42:36.838Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC5",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
+  },
+  "relationships": []
 }

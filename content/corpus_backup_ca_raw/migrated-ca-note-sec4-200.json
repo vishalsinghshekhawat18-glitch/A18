@@ -1,0 +1,76 @@
+{
+  "id": "migrated-ca-note-sec4-200",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Parliament Passes Prevention of Insults to National Honour (Amendment) Bill 2026",
+  "summary": "Extends statutory protection under 1971 Act to National Song 'Vande Mataram'.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 Parliament Passes Prevention of Insults to National Honour (Amendment) Bill 2026. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Extends statutory protection under 1971 Act to National Song 'Vande Mataram'.",
+        "Criminal Offence: Intentional insult, prevention, or disruption of Vande Mataram rendition carries up to 3 years imprisonment or fine.",
+        "Repeat Conviction: Mandatory minimum 1-year jail term.",
+        "Singing Clarification: Bill criminalises deliberate insult/obstruction, NOT the choice not to sing.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Parliament Passes Prevention of Insults to National Honour (Amendment) Bill 2026."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Parliament Passes Prevention of Insults to National Honour (Amendment) Bill 2026."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 4,
+      "code": "SEC4",
+      "name": "NATIONAL, STATE & INTERNATIONAL NEWS",
+      "emoji": "🌐",
+      "fullName": "4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS"
+    },
+    "hook": "🪝 Parliament Passes Prevention of Insults to National Honour (Amendment) Bill 2026",
+    "examAngle": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Parliament Passes Prevention of Insults to National Honour (Amendment) Bill 2026.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-08-04"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-04",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:13:11.200Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-200",
+      "sourceTitle": "Parliament Passes Prevention of Insults to National Honour (Amendment) Bill 2026",
+      "sourceChecksum": "19c6cc76e93f26ba04df501151275f1fef346190577a1f6aee84fdd29173211c",
+      "migrationTimestamp": "2026-08-15T12:13:11.200Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

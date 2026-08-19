@@ -1,20 +1,26 @@
 {
   "id": "migrated-ca-note-sec6-135",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Chandipura Virus Disease (CHPV) Outbreak Triggers Acute Encephalitis Syndrome Alerts",
+  "type": "ca_note",
   "summary": "Rare vector-borne viral illness causing AES.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Rare vector-borne viral illness causing AES."
+      "type": "warning_banner",
+      "title": "📰 6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS",
+      "text": "🪝 Chandipura Virus Disease (CHPV) Outbreak Triggers Acute Encephalitis Syndrome Alerts. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Rare vector-borne viral illness causing AES.",
         "Union Health Ministry issued nationwide alert for Chandipura Virus Disease (CHPV) following acute encephalitis syndrome cases in Gujarat and Rajasthan.",
-        "Transmitted by sandflies; causes high fever and brain inflammation."
+        "Transmitted by sandflies; causes high fever and brain inflammation.",
+        "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
       ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
     }
   ],
   "metadata": {
@@ -39,6 +45,16 @@
       "sourceChecksum": "b199f5522dd4ae9885be522b3baa7abded5af3a7cd7f30db27e2f7fc0c3b5f05",
       "migrationTimestamp": "2026-08-15T12:12:07.934Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "sectionNumber": 6,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

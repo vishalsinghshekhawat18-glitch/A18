@@ -1,30 +1,27 @@
 {
   "id": "migrated-ca-note-sec1-211",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "ADB Approves  Million Loan for Chennai Water Supply & Sanitation Infrastructure",
+  "type": "ca_note",
   "summary": "Finances India's 1st urban ring-main solution for resilient water distribution in Chennai.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Finances India's 1st urban ring-main solution for resilient water distribution in Chennai."
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 ADB Approves  Million Loan for Chennai Water Supply & Sanitation Infrastructure. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Finances India's 1st urban ring-main solution for resilient water distribution in Chennai.",
         "Ring-Main Solution: Chennai becomes 1st Indian city to implement a ring-main water supply architecture.",
-        "Project Goal: Modernises municipal water supply, sewage treatment, and flood resilience in Chennai."
+        "Project Goal: Modernises municipal water supply, sewage treatment, and flood resilience in Chennai.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of ADB Approves  Million Loan for Chennai Water Supply & Sanitation Infrastructure."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Tamil Nadu CM: M. K. Stalin | Capital: Chennai."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of ADB Approves  Million Loan for Chennai Water Supply & Sanitation Infrastructure."
     }
   ],
   "metadata": {
@@ -38,7 +35,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-07-06",
-    "category": "SEC1",
+    "category": "SEC2",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:13:47.645Z",
     "provenance": {
@@ -49,6 +46,16 @@
       "sourceChecksum": "f15648e9d987b71d6661cc165dc703f354263ad5163db4273db8b5d1a7ef3477",
       "migrationTimestamp": "2026-08-15T12:13:47.645Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

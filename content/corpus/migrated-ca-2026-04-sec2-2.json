@@ -1,21 +1,27 @@
 {
   "id": "migrated-ca-2026-04-sec2-2",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "CBDT Notifies 'Income-tax Rules, 2026' & Launches 'Kar Saathi' AI Chatbot",
+  "type": "ca_note",
   "summary": "CBDT slims tax rules from 511 to 333, replaces Previous/Assessment Year with 'Tax Year', and launches Kar Saathi AI assistant under PRARAMBH 2026.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "CBDT notified the **'Income-tax Rules, 2026'** w.e.f. April 1, 2026, simplifying compliance under the new Income Tax Act, 2025."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 CBDT Notifies 'Income-tax Rules, 2026' & Launches 'Kar Saathi' AI Chatbot. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "CBDT notified the **'Income-tax Rules, 2026'** w.e.f. April 1, 2026, simplifying compliance under the new Income Tax Act, 2025.",
         "**Key Simplifications**: Replaces 'Previous Year' & 'Assessment Year' with a single **'Tax Year'**; cuts rules from 511 to 333 and forms from 399 to 190.",
         "**AI Chatbot**: Launched 24x7 **'Kar Saathi'** AI assistant for tax compliance guidance.",
-        "**Taxpayer Reliefs**: Children's education allowance hiked to ₹3,000/month/child (max 2); HRA 50% deduction expanded to Hyderabad, Pune, Ahmedabad, Bengaluru."
+        "**Taxpayer Reliefs**: Children's education allowance hiked to ₹3,000/month/child (max 2); HRA 50% deduction expanded to Hyderabad, Pune, Ahmedabad, Bengaluru.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -41,6 +47,16 @@
       "sourceChecksum": "b7ac374e847cea990324b20cd4664c99589ac21c04c968fcda7962064947f561",
       "migrationTimestamp": "2026-08-16T11:56:36.842Z",
       "normalizationRuleVersion": "1.0.0-apr2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

@@ -1,31 +1,28 @@
 {
   "id": "migrated-ca-note-sec4-323",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "16th CCHFW Conference Chaired by J.P. Nadda: Launches SUMAN Roadmap 2030 and Aarogya Setu 2.0",
+  "type": "ca_note",
   "summary": "Apex health council constituted under Article 263 launches digital health DPI initiatives.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Apex health council constituted under Article 263 launches digital health DPI initiatives."
+      "type": "warning_banner",
+      "title": "📰 5. 🤝 MoUs, CONFERENCES & APPOINTMENTS",
+      "text": "🪝 16th CCHFW Conference Chaired by J.P. Nadda: Launches SUMAN Roadmap 2030 and Aarogya Setu 2.0. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Apex health council constituted under Article 263 launches digital health DPI initiatives.",
         "Constitutional Body: Central Council of Health and Family Welfare (CCHFW) constituted under Article 263.",
         "Policy Documents: Operational Guidelines on National Ambulance Services (NAS 2026), SUMAN Roadmap 2030, and SSBSK child health program.",
-        "Digital DPI: Aarogya Setu 2.0, eSushrut@clinic (C-DAC), Ayushman Sarathi chatbot, UHI, and Drug Registry."
+        "Digital DPI: Aarogya Setu 2.0, eSushrut@clinic (C-DAC), Ayushman Sarathi chatbot, UHI, and Drug Registry.",
+        "CCHFW constitutional basis (Article 263) vs SUMAN target year (2030).",
+        "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "1.85 lakh Ayushman Arogya Mandirs operational across India."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "CCHFW constitutional basis (Article 263) vs SUMAN target year (2030)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
     }
   ],
   "metadata": {
@@ -50,6 +47,16 @@
       "sourceChecksum": "09aaf1bc5609152154d62723785552972a061d5bdd6a4359fcd8a6dc1383bb56",
       "migrationTimestamp": "2026-08-15T12:16:15.974Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC5",
+    "sectionNumber": 5,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

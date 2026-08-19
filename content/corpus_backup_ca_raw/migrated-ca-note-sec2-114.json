@@ -1,0 +1,86 @@
+{
+  "id": "migrated-ca-note-sec2-114",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Classifies Tata Sons as Upper-Layer NBFC (NBFC-UL) under Scale-Based Regulation",
+  "summary": "Enforces enhanced capital and mandatory listing requirements on systemic holding companies.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 RBI Classifies Tata Sons as Upper-Layer NBFC (NBFC-UL) under Scale-Based Regulation. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Enforces enhanced capital and mandatory listing requirements on systemic holding companies.",
+        "Scale-Based Classification: 17 NBFCs identified in Upper Layer (NBFC-UL).",
+        "Upper Layer Criteria: Asset size ≥ ₹1 lakh crore (₹1 trillion); mandatory public listing within 3 years.",
+        "Standalone Assets: Tata Sons standalone assets exceed ₹2 lakh crore (₹2 trillion).",
+        "Asset Layer Caps: Base Layer (<₹1,000 cr), Middle Layer (≥₹1,000 cr), Upper Layer (≥₹1 lakh cr).",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 2,
+      "code": "SEC2",
+      "name": "REGULATORY BODIES NEWS",
+      "emoji": "🏛️",
+      "fullName": "2. 🏛️ REGULATORY BODIES NEWS"
+    },
+    "hook": "🪝 RBI Classifies Tata Sons as Upper-Layer NBFC (NBFC-UL) under Scale-Based Regulation",
+    "examAngle": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks.",
+    "staticGK": {
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-08-07"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-07",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:38.420Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-114",
+      "sourceTitle": "RBI Classifies Tata Sons as Upper-Layer NBFC (NBFC-UL) under Scale-Based Regulation",
+      "sourceChecksum": "8c132538e3b883ea2be6d440f33c4a9a5b62b3396997f5c3060331d9ebe40574",
+      "migrationTimestamp": "2026-08-15T12:11:38.420Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

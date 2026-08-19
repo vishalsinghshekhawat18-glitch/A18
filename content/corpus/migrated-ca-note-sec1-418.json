@@ -1,31 +1,28 @@
 {
   "id": "migrated-ca-note-sec1-418",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "MHA Launches 'VINIMAY' Land Port Management System for 15 Operational Land Ports",
+  "type": "ca_note",
   "summary": "Digitises 90% paperwork using Single Electronic Window and ANPR gate systems.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Digitises 90% paperwork using Single Electronic Window and ANPR gate systems."
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 MHA Launches 'VINIMAY' Land Port Management System for 15 Operational Land Ports. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Digitises 90% paperwork using Single Electronic Window and ANPR gate systems.",
         "VINIMAY Platform: Integrated digital platform launched by Amit Shah under MHA's 'Smart Borders' strategy.",
         "Efficiency Gain: Cuts truck waiting times by 40-60% and gate processing by 22-35%.",
-        "Trade Growth: Land port trade surged 16-fold from ₹5,000 crore in 2014 to ₹83,000 crore in 2026."
+        "Trade Growth: Land port trade surged 16-fold from ₹5,000 crore in 2014 to ₹83,000 crore in 2026.",
+        "Operational land ports in India (15) vs total proposed border land ports (74).",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of MHA Launches 'VINIMAY' Land Port Management System for 15 Operational Land Ports."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Land Ports Authority of India (LPAI) Chairman: Jayant Singh | Est 2012."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Operational land ports in India (15) vs total proposed border land ports (74)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of MHA Launches 'VINIMAY' Land Port Management System for 15 Operational Land Ports."
     }
   ],
   "metadata": {
@@ -50,6 +47,16 @@
       "sourceChecksum": "3c2fd8f1dfca219c2fb623974a62d9e9b92162c812477a260e921d4242574fa4",
       "migrationTimestamp": "2026-08-15T12:18:39.842Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

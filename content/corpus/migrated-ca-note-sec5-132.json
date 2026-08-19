@@ -1,36 +1,26 @@
 {
   "id": "migrated-ca-note-sec5-132",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "9th India Medical Device Conference 2026 Held in New Delhi",
+  "type": "ca_note",
   "summary": "Promotes India as a global manufacturing hub for quality medical devices.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Promotes India as a global manufacturing hub for quality medical devices."
+      "type": "warning_banner",
+      "title": "📰 5. 🤝 MoUs, CONFERENCES & APPOINTMENTS",
+      "text": "🪝 9th India Medical Device Conference 2026 Held in New Delhi. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Promotes India as a global manufacturing hub for quality medical devices.",
         "Organized By: Dept of Pharmaceuticals & FICCI (Aug 7–8, 2026).",
-        "Theme: “Towards Viksit Bharat: Advancing India as a Global Hub for Quality Medical Devices”."
+        "Theme: “Towards Viksit Bharat: Advancing India as a Global Hub for Quality Medical Devices”.",
+        "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Appointee / Official",
-        "New Position & Organization",
-        "Key Context & Details"
-      ],
-      "rows": [
-        [
-          "9th India Medical Device Conference 2026 Held in New Delhi",
-          "Official Appointment",
-          "Organized By: Dept of Pharmaceuticals & FICCI (Aug 7–8, 2026)."
-        ]
-      ]
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
     }
   ],
   "metadata": {
@@ -55,6 +45,16 @@
       "sourceChecksum": "7b605b1ce68fc41edfd79605523bb96b56495ba8b86110572bc9efe2adcfaca8",
       "migrationTimestamp": "2026-08-15T12:12:07.934Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC5",
+    "sectionNumber": 5,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

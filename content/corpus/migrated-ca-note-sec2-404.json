@@ -1,30 +1,32 @@
 {
   "id": "migrated-ca-note-sec2-404",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "UPI Launches in Cambodia via KHQR Linkage (10th Global Destination)",
+  "type": "ca_note",
   "summary": "NIPL partners with ACLEDA Bank for cross-border QR payments.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "NIPL partners with ACLEDA Bank for cross-border QR payments."
+      "type": "warning_banner",
+      "title": "📰 3. 🏦 BANKING & INSURANCE NEWS",
+      "text": "🪝 UPI Launches in Cambodia via KHQR Linkage (10th Global Destination). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "NIPL partners with ACLEDA Bank for cross-border QR payments.",
         "Cambodia Linkage: UPI accepted in Cambodia via national QR code KHQR (in partnership with ACLEDA Bank).",
-        "10 Countries Tally: Cambodia becomes 10th international destination joining Bhutan, France, Mauritius, Nepal, Singapore, Sri Lanka, UAE, Qatar, and Greece."
+        "10 Countries Tally: Cambodia becomes 10th international destination joining Bhutan, France, Mauritius, Nepal, Singapore, Sri Lanka, UAE, Qatar, and Greece.",
+        "Cambodia global position (10th country for UPI acceptance).",
+        "🎯 Exam Angle → Focus on monthly transaction volume & value records, NPCI market cap limits, and international UPI linkage countries."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "NPCI International Payments Ltd (NIPL) CEO: Ritesh Shukla."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on monthly transaction volume & value records, NPCI market cap limits, and international UPI linkage countries."
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Cambodia global position (10th country for UPI acceptance)."
+      "type": "warning_banner",
+      "title": "💼 Interview Question & Model Answer",
+      "text": "**Q:** How does international UPI linkage assist Indian cross-border trade and remittances?\n\n**Model Answer:** It lowers cross-border transaction fees by bypassing intermediary correspondent banking networks and enables real-time sovereign currency settlements."
     }
   ],
   "metadata": {
@@ -38,7 +40,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-06-26",
-    "category": "SEC2",
+    "category": "SEC3",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:18:39.841Z",
     "provenance": {
@@ -49,6 +51,16 @@
       "sourceChecksum": "952a3eb6801166bfecb46feb33b0f3545a75c665545b75aa034e570c34ea13ca",
       "migrationTimestamp": "2026-08-15T12:18:39.841Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC3",
+    "sectionNumber": 3,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 88
   }
 }

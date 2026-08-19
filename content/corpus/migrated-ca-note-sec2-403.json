@@ -1,31 +1,33 @@
 {
   "id": "migrated-ca-note-sec2-403",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "RBI Draft Directions on Call, Notice & Term Money Markets: SPD Limit Raised to 400%",
+  "type": "ca_note",
   "summary": "Allows AIFIs and NBFCs into term money market; caps NBFC term money borrowing at 200% NOF.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Allows AIFIs and NBFCs into term money market; caps NBFC term money borrowing at 200% NOF."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 RBI Draft Directions on Call, Notice & Term Money Markets: SPD Limit Raised to 400%. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Allows AIFIs and NBFCs into term money market; caps NBFC term money borrowing at 200% NOF.",
         "Entity Expansion: AIFIs and NBFCs (excl Base Layer) permitted to borrow and lend in term money market; corporate entities as lenders.",
         "Borrowing Caps: Standalone Primary Dealers (SPDs) term money limit raised to 400% of Net Owned Funds (NOF); NBFC limit set at 200% NOF.",
-        "Platform Mandate: All participants must join NDS-CALL platform within 6 months; OTC deals reported within 15 mins."
+        "Platform Mandate: All participants must join NDS-CALL platform within 6 months; OTC deals reported within 15 mins.",
+        "SPD term money limit (400% NOF) vs NBFC term money limit (200% NOF) vs SPD call/notice limit (225%).",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
       "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Call Money (1 day), Notice Money (2-14 days), Term Money (15 days - 1 year)."
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "SPD term money limit (400% NOF) vs NBFC term money limit (200% NOF) vs SPD call/notice limit (225%)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -50,6 +52,16 @@
       "sourceChecksum": "abb1c98e9a423469c487b6a391db2fc918970daba6a905d6586b6f62724e9e80",
       "migrationTimestamp": "2026-08-15T12:18:39.841Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

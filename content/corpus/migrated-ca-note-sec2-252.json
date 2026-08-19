@@ -1,31 +1,33 @@
 {
   "id": "migrated-ca-note-sec2-252",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "SEBI Tightens Staff Conduct Rules: 2-Year Cooling-Off Period & Equity Investment Bar",
+  "type": "ca_note",
   "summary": "Bars SEBI staff from direct equity trading and caps investment product exposure at 25%.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Bars SEBI staff from direct equity trading and caps investment product exposure at 25%."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 SEBI Tightens Staff Conduct Rules: 2-Year Cooling-Off Period & Equity Investment Bar. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Bars SEBI staff from direct equity trading and caps investment product exposure at 25%.",
         "Cooling-Off Period: 2-year cooling-off period before former employees can represent clients before SEBI.",
         "Equity Bar: Staff barred from direct investment in equities, derivatives, and convertible instruments.",
-        "Gift Threshold: Disclosure threshold for gifts raised from ₹10,000 to ₹50,000."
+        "Gift Threshold: Disclosure threshold for gifts raised from ₹10,000 to ₹50,000.",
+        "Cooling-off period (2 years) vs gift disclosure threshold (₹50,000).",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
       "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Amends SEBI (Employees' Service) Regulations 2026."
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "SEBI Established: 12 April 1992 (SEBI Act 1992) · HQ: Mumbai · Regulatory Scope: Securities & Capital Markets"
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Cooling-off period (2 years) vs gift disclosure threshold (₹50,000)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -50,6 +52,16 @@
       "sourceChecksum": "092012256272ab5ba70191fb5a004272aa8f8cc0512feb1c14a1319f3b80c71e",
       "migrationTimestamp": "2026-08-15T12:15:05.761Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

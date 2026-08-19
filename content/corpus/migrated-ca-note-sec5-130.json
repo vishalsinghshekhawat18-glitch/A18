@@ -1,37 +1,27 @@
 {
   "id": "migrated-ca-note-sec5-130",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "UNCCD COP17 to be Hosted by Mongolia in August 2026",
+  "type": "ca_note",
   "summary": "Global environmental conference on desertification and land restoration.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Global environmental conference on desertification and land restoration."
+      "type": "warning_banner",
+      "title": "📰 5. 🤝 MoUs, CONFERENCES & APPOINTMENTS",
+      "text": "🪝 UNCCD COP17 to be Hosted by Mongolia in August 2026. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Global environmental conference on desertification and land restoration.",
         "Location & Dates: Ulaanbaatar, Mongolia (August 17 to 28, 2026).",
         "Theme: “Restoring Land.",
-        "Restoring Hope”."
+        "Restoring Hope”.",
+        "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Appointee / Official",
-        "New Position & Organization",
-        "Key Context & Details"
-      ],
-      "rows": [
-        [
-          "UNCCD COP17 to be Hosted by Mongolia in August 2026",
-          "Official Appointment",
-          "Location & Dates: Ulaanbaatar, Mongolia (August 17 to 28, 2026)."
-        ]
-      ]
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
     }
   ],
   "metadata": {
@@ -56,6 +46,16 @@
       "sourceChecksum": "7bc808a8421122ca595d98e4031e2150159b7aeddd22be391b7dab5770537270",
       "migrationTimestamp": "2026-08-15T12:12:07.934Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC5",
+    "sectionNumber": 5,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

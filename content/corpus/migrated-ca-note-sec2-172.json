@@ -1,31 +1,33 @@
 {
   "id": "migrated-ca-note-sec2-172",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "SEBI Releases 'GARUDA' Green-Channel Framework for Accelerated AIF Scheme Launches",
+  "type": "ca_note",
   "summary": "Permits regular Alternative Investment Funds (AIFs) to launch schemes within 10 working days of PPM filing.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Permits regular Alternative Investment Funds (AIFs) to launch schemes within 10 working days of PPM filing."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 SEBI Releases 'GARUDA' Green-Channel Framework for Accelerated AIF Scheme Launches. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Permits regular Alternative Investment Funds (AIFs) to launch schemes within 10 working days of PPM filing.",
         "GARUDA Mechanism: Green-Channel AIF Rollout Upon Document Acknowledgement allows operation 10 working days after Private Placement Memorandum (PPM) filing on SEBI SI Portal.",
         "Exemption for AI & Large Value Funds: Accredited Investor (AI-only) funds, Large Value Funds (LVFs), and Angel Funds exempted from merchant banker PPM filing.",
-        "Digital Accessibility Audit Extension: Extended deadline for regulated entities to complete digital accessibility audits under Persons with Disabilities Act to October 31, 2026."
+        "Digital Accessibility Audit Extension: Extended deadline for regulated entities to complete digital accessibility audits under Persons with Disabilities Act to October 31, 2026.",
+        "Regular AIF GARUDA launch window (10 working days after PPM) vs digital accessibility audit extension (October 31, 2026).",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
       "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "SEBI Chairman: Tuhin Kanta Pandey | AIFs governed under SEBI (AIF) Regulations 2012."
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "SEBI Established: 12 April 1992 (SEBI Act 1992) · HQ: Mumbai · Regulatory Scope: Securities & Capital Markets"
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Regular AIF GARUDA launch window (10 working days after PPM) vs digital accessibility audit extension (October 31, 2026)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -50,6 +52,16 @@
       "sourceChecksum": "40505e7e4264aca813cc6d7b59a5ea438541651fc59ce978c35fa8218ec4d279",
       "migrationTimestamp": "2026-08-15T12:12:37.959Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

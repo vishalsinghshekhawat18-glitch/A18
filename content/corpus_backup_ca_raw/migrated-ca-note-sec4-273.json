@@ -1,0 +1,76 @@
+{
+  "id": "migrated-ca-note-sec4-273",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "West Bengal Secures 3 New GI Tags: Jalbhara Sandesh, Manohara, & Balagarh Wooden Boats",
+  "summary": "Increases West Bengal's total GI registrations to 59, making it India's 3rd-highest GI-tagged state.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 West Bengal Secures 3 New GI Tags: Jalbhara Sandesh, Manohara, & Balagarh Wooden Boats. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Increases West Bengal's total GI registrations to 59, making it India's 3rd-highest GI-tagged state.",
+        "New GI Products: Chandannagar's Jalbhara Sandesh, Janai's Manohara sweet, and Balagarh traditional wooden boats.",
+        "State Ranking: West Bengal ranks 3rd in India (59 GI tags), behind Uttar Pradesh (83) and Tamil Nadu (76).",
+        "West Bengal GI rank (3rd, 59 tags) vs Uttar Pradesh (1st, 83 tags) vs Tamil Nadu (2nd, 76 tags).",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of West Bengal Secures 3 New GI Tags."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of West Bengal Secures 3 New GI Tags."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 4,
+      "code": "SEC4",
+      "name": "NATIONAL, STATE & INTERNATIONAL NEWS",
+      "emoji": "🌐",
+      "fullName": "4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS"
+    },
+    "hook": "🪝 West Bengal Secures 3 New GI Tags: Jalbhara Sandesh, Manohara, & Balagarh Wooden Boats",
+    "examAngle": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of West Bengal Secures 3 New GI Tags.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-07-14"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-14",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:15:05.762Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-273",
+      "sourceTitle": "West Bengal Secures 3 New GI Tags: Jalbhara Sandesh, Manohara, & Balagarh Wooden Boats",
+      "sourceChecksum": "523e89356e10a0ac462d76495881a5b50393e9e645d871d65ce53ffb7323c48a",
+      "migrationTimestamp": "2026-08-15T12:15:05.762Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

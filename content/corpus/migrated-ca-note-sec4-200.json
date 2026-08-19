@@ -1,42 +1,27 @@
 {
   "id": "migrated-ca-note-sec4-200",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Parliament Passes Prevention of Insults to National Honour (Amendment) Bill 2026",
+  "type": "ca_note",
   "summary": "Extends statutory protection under 1971 Act to National Song 'Vande Mataram'.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Extends statutory protection under 1971 Act to National Song 'Vande Mataram'."
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 Parliament Passes Prevention of Insults to National Honour (Amendment) Bill 2026. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Extends statutory protection under 1971 Act to National Song 'Vande Mataram'.",
         "Criminal Offence: Intentional insult, prevention, or disruption of Vande Mataram rendition carries up to 3 years imprisonment or fine.",
         "Repeat Conviction: Mandatory minimum 1-year jail term.",
-        "Singing Clarification: Bill criminalises deliberate insult/obstruction, NOT the choice not to sing."
+        "Singing Clarification: Bill criminalises deliberate insult/obstruction, NOT the choice not to sing.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Parliament Passes Prevention of Insults to National Honour (Amendment) Bill 2026."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Award Title",
-        "Recipient / Winner",
-        "Conferred By / Key Detail"
-      ],
-      "rows": [
-        [
-          "Parliament Passes Prevention of Insults to National Honour (Amendment) Bill 2026",
-          "Criminal Offence: Intentional insult, prevention, or disruption of Vande Mataram rendition carries up to 3 years imprisonment or fine.",
-          "Vande Mataram composed by Bankim Chandra Chattopadhyay in 1875 (first published 1882 in Anandamath) | MoS Home: Nityanand Rai."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Vande Mataram composed by Bankim Chandra Chattopadhyay in 1875 (first published 1882 in Anandamath) | MoS Home: Nityanand Rai."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Parliament Passes Prevention of Insults to National Honour (Amendment) Bill 2026."
     }
   ],
   "metadata": {
@@ -61,6 +46,16 @@
       "sourceChecksum": "19c6cc76e93f26ba04df501151275f1fef346190577a1f6aee84fdd29173211c",
       "migrationTimestamp": "2026-08-15T12:13:11.200Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

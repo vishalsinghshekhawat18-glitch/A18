@@ -1,25 +1,26 @@
 {
   "id": "migrated-ca-note-sec4-372",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "HCLTech, Sarvam AI, & Odisha Sign ₹14,257 Crore MoU for AI-Optimised Data Centre",
+  "type": "ca_note",
   "summary": "1st AI-optimised data centre at upcoming Odisha Sovereign AI Park in Bhubaneswar.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "1st AI-optimised data centre at upcoming Odisha Sovereign AI Park in Bhubaneswar."
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 HCLTech, Sarvam AI, & Odisha Sign ₹14,257 Crore MoU for AI-Optimised Data Centre. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "1st AI-optimised data centre at upcoming Odisha Sovereign AI Park in Bhubaneswar.",
         "Project Outlay: ₹14,257 crore (.7 billion) capital outlay supported by Odisha Government.",
-        "Technology Integration: Combines HCLTech full-stack AI with Sarvam AI foundation models; houses 5,000 jobs by 2028."
+        "Technology Integration: Combines HCLTech full-stack AI with Sarvam AI foundation models; houses 5,000 jobs by 2028.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of HCLTech, Sarvam AI, & Odisha Sign ₹14,257 Crore MoU for AI."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "HCLTech CEO: C Vijayakumar | Odisha CM: Mohan Charan Majhi."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of HCLTech, Sarvam AI, & Odisha Sign ₹14,257 Crore MoU for AI."
     }
   ],
   "metadata": {
@@ -44,6 +45,16 @@
       "sourceChecksum": "873f3fb97a08a6ce1046da5183320e3a951ab30e95496d89080a5b77c00590a8",
       "migrationTimestamp": "2026-08-15T12:17:28.292Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

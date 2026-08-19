@@ -1,0 +1,76 @@
+{
+  "id": "migrated-ca-note-sec7-346",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Fortune India Most Powerful Women 2026: Nita Ambani Ranks #1 Nationally",
+  "summary": "Recognizes top 100 female leaders shaping India's economic and business landscape.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 Fortune India Most Powerful Women 2026: Nita Ambani Ranks #1 Nationally. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Recognizes top 100 female leaders shaping India's economic and business landscape.",
+        "Rank #1: Nita M.",
+        "Ambani (Founder & Chairperson of Reliance Foundation) ranked #1 in Fortune India MPW 2026 list.",
+        "Key Recognition: Marks her 2nd major recognition of 2026 following AAPI Humanitarian Award & Key to City of Tampa.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 2,
+      "code": "SEC2",
+      "name": "REGULATORY BODIES NEWS",
+      "emoji": "🏛️",
+      "fullName": "2. 🏛️ REGULATORY BODIES NEWS"
+    },
+    "hook": "🪝 Fortune India Most Powerful Women 2026: Nita Ambani Ranks #1 Nationally",
+    "examAngle": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-07-29"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec7",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-29",
+    "category": "SEC7",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:16:51.764Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec7-346",
+      "sourceTitle": "Fortune India Most Powerful Women 2026: Nita Ambani Ranks #1 Nationally",
+      "sourceChecksum": "7c6394354d29c0fc4556f442a6ea462f624ace5d6162e5b82d8a9f3144306ef5",
+      "migrationTimestamp": "2026-08-15T12:16:51.764Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

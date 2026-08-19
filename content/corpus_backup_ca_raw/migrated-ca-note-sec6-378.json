@@ -1,0 +1,77 @@
+{
+  "id": "migrated-ca-note-sec6-378",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Commonwealth Games 2026 (Glasgow): Mirabai Chanu & Sharmila Dhankar Win Gold Medals",
+  "summary": "Mirabai Chanu lifts 190 kg for 3rd consecutive CWG gold; Sharmila Dhankar wins 1st para athletics gold.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS",
+      "text": "🪝 Commonwealth Games 2026 (Glasgow): Mirabai Chanu & Sharmila Dhankar Win Gold Medals. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Mirabai Chanu lifts 190 kg for 3rd consecutive CWG gold; Sharmila Dhankar wins 1st para athletics gold.",
+        "Mirabai Chanu Gold: Lifted 190 kg (85kg snatch + 105kg clean & jerk) for 3rd straight CWG gold in women's 48kg.",
+        "Sharmila Dhankar Gold: Gold in women's shot put F57 para athletics (ending India's 20-year CWG para athletics wait).",
+        "Silver Medals: Gulveer Singh (men's 10,000m 27:49.78), Harjinder Kaur (women's 69kg weightlifting 227kg), Sarvesh Kushare (high jump).",
+        "Mirabai Chanu CWG gold streak (3rd consecutive: 2018, 2022, 2026).",
+        "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 6,
+      "code": "SEC6",
+      "name": "SCIENCE, TECHNOLOGY, DEFENCE & SPORTS",
+      "emoji": "🔬",
+      "fullName": "6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS"
+    },
+    "hook": "🪝 Commonwealth Games 2026 (Glasgow): Mirabai Chanu & Sharmila Dhankar Win Gold Medals",
+    "examAngle": "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-07-08"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-08",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:18:04.451Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec6-378",
+      "sourceTitle": "Commonwealth Games 2026 (Glasgow): Mirabai Chanu & Sharmila Dhankar Win Gold Medals",
+      "sourceChecksum": "22cefaf223d5ec95b67efb6bd708633c4844b718fef216b3b5be3759f419e351",
+      "migrationTimestamp": "2026-08-15T12:18:04.451Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "sectionNumber": 6,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

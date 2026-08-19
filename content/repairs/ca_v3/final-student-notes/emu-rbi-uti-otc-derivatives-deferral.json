@@ -1,0 +1,36 @@
+{
+  "id": "emu-rbi-uti-otc-derivatives-deferral",
+  "title": "RBI 52-Character UTI Framework for OTC Derivatives (Deferred to Jan 2027)",
+  "category": "SEC2",
+  "tier": "TIER_B_PLUS",
+  "theme": "Derivatives Market Transparency",
+  "summary": "RBI deferred Unique Transaction Identifier (UTI) mandate for OTC interest rate, FX, and credit derivatives from April 2026 to January 1, 2027; reported to CCIL.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "**Overview**: RBI deferred Unique Transaction Identifier (UTI) mandate for OTC interest rate, FX, and credit derivatives from April 2026 to January 1, 2027; reported to CCIL."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**RBI defers 52-character UTI framework for OTC derivatives to January 2027** (Page 16): RBI deferred Unique Transaction Identifier (UTI) mandate for OTC interest rate, FX, and credit derivatives from April 2026 to January 1, 2027; reported to CCIL."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Derivatives Market Transparency. Global reporting standard to CCIL for OTC derivatives."
+    }
+  ],
+  "metadata": {
+    "provenancePages": [
+      16
+    ],
+    "constituentArticleCount": 1,
+    "provenanceArticleIds": [
+      "cgb-art-39"
+    ],
+    "statutoryConcept": "Derivatives Market Transparency",
+    "whyStandalone": "Global reporting standard to CCIL for OTC derivatives."
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "migrated-ca-note-sec2-325",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Digital India Programme Completes 11 Years: UPI Handles 81% of India Digital Payments",
+  "summary": "Quadruples internet connections to 1.02 billion as electronics manufacturing reaches ₹13 lakh crore.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 3. 🏦 BANKING & INSURANCE NEWS",
+      "text": "🪝 Digital India Programme Completes 11 Years: UPI Handles 81% of India Digital Payments. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Quadruples internet connections to 1.02 billion as electronics manufacturing reaches ₹13 lakh crore.",
+        "Digital Milestones: Internet connections rose to 1.02 billion (from 250M in 2015); UPI processed 24,162 crore transactions in FY26 (49% of global real-time digital payments).",
+        "Electronics & Chips: Electronics manufacturing reached ₹13 lakh crore (3rd-largest export category); India Semiconductor Mission approved 12 projects with ₹1.64 lakh crore investment pipeline.",
+        "Global DPI Model: DigiLocker, UMANG, eSanjeevani, and DIKSHA (2 crore users) exported via 'India Stack Global'.",
+        "UPI share of domestic digital payments (81%) vs share of global real-time digital transactions (49%).",
+        "🎯 Exam Angle → Focus on monthly transaction volume & value records, NPCI market cap limits, and international UPI linkage countries."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on monthly transaction volume & value records, NPCI market cap limits, and international UPI linkage countries."
+    },
+    {
+      "type": "warning_banner",
+      "title": "💼 Interview Question & Model Answer",
+      "text": "**Q:** How does international UPI linkage assist Indian cross-border trade and remittances?\n\n**Model Answer:** It lowers cross-border transaction fees by bypassing intermediary correspondent banking networks and enables real-time sovereign currency settlements."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 3,
+      "code": "SEC3",
+      "name": "BANKING & INSURANCE NEWS",
+      "emoji": "🏦",
+      "fullName": "3. 🏦 BANKING & INSURANCE NEWS"
+    },
+    "hook": "🪝 Digital India Programme Completes 11 Years: UPI Handles 81% of India Digital Payments",
+    "examAngle": "🎯 Exam Angle → Focus on monthly transaction volume & value records, NPCI market cap limits, and international UPI linkage countries.",
+    "interviewQ": {
+      "question": "How does international UPI linkage assist Indian cross-border trade and remittances?",
+      "modelAnswer": "It lowers cross-border transaction fees by bypassing intermediary correspondent banking networks and enables real-time sovereign currency settlements."
+    },
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-07-08"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-08",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:16:15.974Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-325",
+      "sourceTitle": "Digital India Programme Completes 11 Years: UPI Handles 81% of India Digital Payments",
+      "sourceChecksum": "a579d59b8a89f2942a16c7d027ca09ac00e7daacae28371ef3332b45d77b1dc9",
+      "migrationTimestamp": "2026-08-15T12:16:15.974Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC3",
+    "sectionNumber": 3,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

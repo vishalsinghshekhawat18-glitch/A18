@@ -1,13 +1,26 @@
 {
   "id": "migrated-ca-2026-02-sec6-1",
+  "title": "ANRF ₹1 Lakh Crore RDI Fund & Deep-Tech Startup 20-Year Recognition",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "India Wins Record 6th ICC Under-19 Cricket World Cup",
-  "summary": "India U-19 team captained by Ayush Mhatre beats England by 100 runs in Harare to claim India's 6th U-19 World Cup title.",
+  "summary": "Dr. Jitendra Singh launched 1st call of TDB under ₹1 Lakh Crore Research, Development & Innovation Fund of ANRF (2-4% interest, up to 15-yr tenure, TRL 4+).",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "India defeated England by 100 runs at Harare to win their **record 6th ICC Under-19 World Cup title** (Captain: Ayush Mhatre; Player of Series: Vaibhav Suryavanshi)."
+      "content": "**Overview**: Dr. Jitendra Singh launched 1st call of TDB under ₹1 Lakh Crore Research, Development & Innovation Fund of ANRF (2-4% interest, up to 15-yr tenure, TRL 4+)."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**ANRF launches ₹1 Lakh Crore RDI Fund first call under TDB** (Page 29): Dr. Jitendra Singh launched 1st call of TDB under ₹1 Lakh Crore Research, Development & Innovation Fund of ANRF (2-4% interest, up to 15-yr tenure, TRL 4+).",
+        "**DPIIT revises start-up definition: Deep-tech up to 20 years and ₹300 crore** (Page 30): DPIIT revised 2019 rules: Deep-tech start-ups recognized up to 20 years (turnover ₹300 Cr); non-deep-tech turnover raised to ₹200 Cr (10 years).",
+        "**BIRAC-RDI Fund for Biotechnology launched by Dr. Jitendra Singh** (Page 38): DBT's BIRAC appointed second-level manager to deploy ₹2,000 Cr under ₹1L Cr RDI framework."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Indigenous R&D Financing & Deep-Tech Policy. ₹1L Cr concessional fund (2-4%) and 20-year deep-tech startup recognition."
     }
   ],
   "metadata": {
@@ -17,22 +30,38 @@
       "SBI PO"
     ],
     "tags": [
-      "sec8",
+      "sec6",
       "Current Affairs 2026",
-      "February 2026"
+      "February 2026",
+      "TIER_A"
     ],
     "date": "2026-02-15",
-    "category": "SEC8",
-    "difficulty": "intermediate",
-    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "category": "SEC6",
+    "difficulty": "hard",
+    "lastUpdated": "2026-08-18T17:42:36.841Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "Feb2026.pdf",
-      "sourceId": "migrated-ca-2026-02-sec6-1",
-      "sourceTitle": "India Wins Record 6th ICC Under-19 Cricket World Cup",
-      "sourceChecksum": "a06e8d7c25916153bbf58e60df573afeb13f8e79a1935473f388fd1e6c7742b5",
-      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
-      "normalizationRuleVersion": "1.0.0-feb2026"
-    }
-  }
+      "sourceId": "emu-anrf-rdi-deep-tech-funds",
+      "sourceTitle": "ANRF ₹1 Lakh Crore RDI Fund & Deep-Tech Startup 20-Year Recognition",
+      "provenancePages": [
+        29,
+        30,
+        38
+      ],
+      "constituentArticleCount": 3,
+      "migrationTimestamp": "2026-08-18T17:42:36.841Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
+  },
+  "relationships": []
 }

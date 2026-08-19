@@ -1,31 +1,28 @@
 {
   "id": "migrated-ca-note-sec2-431",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "MCA Amends Schedule VII Companies Act: ZCZP Instruments Eligible Under CSR (Up to 10%)",
+  "type": "ca_note",
   "summary": "Allows corporates to allocate up to 10% annual CSR expenditure to Social Stock Exchange instruments.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Allows corporates to allocate up to 10% annual CSR expenditure to Social Stock Exchange instruments."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 MCA Amends Schedule VII Companies Act: ZCZP Instruments Eligible Under CSR (Up to 10%). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Allows corporates to allocate up to 10% annual CSR expenditure to Social Stock Exchange instruments.",
         "ZCZP Inclusion: Subscription to Zero Coupon Zero Principal (ZCZP) instruments on Social Stock Exchanges added to Schedule VII.",
         "CSR Cap: Companies permitted to allocate up to 10% of annual mandatory CSR outlay to ZCZP instruments.",
-        "Zero Returns: ZCZP instruments offer no financial returns or principal repayment; used exclusively for social impact projects."
+        "Zero Returns: ZCZP instruments offer no financial returns or principal repayment; used exclusively for social impact projects.",
+        "ZCZP CSR cap (10% of annual CSR expenditure) vs return structure (Zero Coupon Zero Principal).",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Social Stock Exchange (SSE) framework regulated by SEBI."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "ZCZP CSR cap (10% of annual CSR expenditure) vs return structure (Zero Coupon Zero Principal)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -50,6 +47,16 @@
       "sourceChecksum": "2bee5588138a9276e1e1d4a9a6fc51693b60c4e70d5bd3884b80af02f4ad1532",
       "migrationTimestamp": "2026-08-15T12:19:15.619Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

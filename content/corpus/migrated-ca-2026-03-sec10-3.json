@@ -1,13 +1,24 @@
 {
   "id": "migrated-ca-2026-03-sec10-3",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "BHAVYA Scheme Approved — ₹33,660 Crore for 100 Plug-and-Play Industrial Parks",
+  "type": "ca_note",
   "summary": "Cabinet clears Bharat Audyogik Vikas Yojna (BHAVYA) to set up 100 industrial parks sized 100-1,000 acres.",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 BHAVYA Scheme Approved — ₹33,660 Crore for 100 Plug-and-Play Industrial Parks. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Cabinet approved **Bharat Audyogik Vikas Yojna (BHAVYA)** with **₹33,660 crore allocation** to build 100 plug-and-play industrial parks nationwide.",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
+      ]
+    },
+    {
       "type": "paragraph",
-      "content": "Cabinet approved **Bharat Audyogik Vikas Yojna (BHAVYA)** with **₹33,660 crore allocation** to build 100 plug-and-play industrial parks nationwide."
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
     }
   ],
   "metadata": {
@@ -33,6 +44,16 @@
       "sourceChecksum": "be10717e4491164e6e2f52b5a24641b40a82a4c7ddc3368363faea1b1342d6fb",
       "migrationTimestamp": "2026-08-16T11:13:16.778Z",
       "normalizationRuleVersion": "1.0.0-mar2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "LIGHT_TOUCH",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

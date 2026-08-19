@@ -1,25 +1,24 @@
 {
   "id": "migrated-ca-2026-01-sec2-1",
+  "title": "🏛️ RBI Credit Risk Directions 2026 — Materiality Thresholds on Related-Party Lending",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "India Becomes World's 4th-Largest Economy at $4.18 Trillion",
-  "summary": "India surpassed Japan to become the world's 4th-largest economy with a $4.18 trillion GDP, targeting $7.3 trillion by 2030.",
+  "summary": "RBI set transaction-level board approval ceilings for related-party loans: ₹25 Cr for banks with assets >₹10T, ₹10 Cr for assets ₹1T–₹10T, and ₹5 Cr for assets <₹1T. Applicable from April 1, 2026.",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "India's nominal GDP touched **$4.18 trillion**, overtaking Japan to rank as the **4th-largest economy globally**. The 2030 target is to reach $7.3 trillion and become the 3rd-largest (surpassing Germany)."
+      "content": "**Overview**: RBI set transaction-level board approval ceilings for related-party loans: ₹25 Cr for banks with assets >₹10T, ₹10 Cr for assets ₹1T–₹10T, and ₹5 Cr for assets <₹1T. Applicable from April 1, 2026."
     },
     {
       "type": "bullet_list",
       "items": [
-        "**Q2 FY26 Real GDP Growth**: 8.2% (up from 7.8% in Q1).",
-        "**2026 Agency Growth Forecasts**: World Bank 6.5%, IMF 6.2%, OECD 6.2%, Moody's 6.4%, ADB 7.2%, Fitch 7.4%."
+        "**RBI Commercial Banks Credit Risk Directions 2026: Materiality Thresholds on Related-Party Loans** (Page 17): RBI set transaction-level board approval ceilings for related-party loans: ₹25 Cr for banks with assets >₹10T, ₹10 Cr for assets ₹1T–₹10T, and ₹5 Cr for assets <₹1T. Applicable from April 1, 2026."
       ]
     },
     {
       "type": "exam_trap",
-      "title": "Ranking Trap",
-      "content": "Top 4 economies: US (1st), China (2nd), Germany (3rd), India (4th), Japan (5th)."
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Bank & NBFC Credit Governance & Connected Lending. Prescribes mandatory board approval ceilings for related-party loans: Banks >₹10T at ₹50 Cr, ₹1T-10T at ₹10 Cr, NBFC Upper Layer at ₹10 Cr."
     }
   ],
   "metadata": {
@@ -29,22 +28,36 @@
       "SBI PO"
     ],
     "tags": [
-      "sec3",
+      "sec2",
       "Current Affairs 2026",
-      "January 2026"
+      "January 2026",
+      "TIER_A"
     ],
-    "date": "2026-01-26",
-    "category": "SEC3",
-    "difficulty": "intermediate",
-    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "date": "2026-01-15",
+    "category": "SEC2",
+    "difficulty": "hard",
+    "lastUpdated": "2026-08-19T02:37:59.668Z",
     "provenance": {
       "sourceSystem": "CA",
-      "sourceFile": "January_26.pdf",
-      "sourceId": "migrated-ca-2026-01-sec2-1",
-      "sourceTitle": "India Becomes World's 4th-Largest Economy at $4.18 Trillion",
-      "sourceChecksum": "b31325eefb9562d5979f89f12c8669e21c815c5dc6b3f55d8d77c15193688ef6",
-      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
-      "normalizationRuleVersion": "1.0.0-jan2026"
-    }
-  }
+      "sourceFile": "Jan2026.pdf",
+      "sourceId": "emu-jan-rbi-related-party-lending",
+      "sourceTitle": "🏛️ RBI Credit Risk Directions 2026 — Materiality Thresholds on Related-Party Lending",
+      "provenancePages": [
+        17
+      ],
+      "constituentArticleCount": 1,
+      "migrationTimestamp": "2026-08-19T02:37:59.668Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
+  },
+  "relationships": []
 }

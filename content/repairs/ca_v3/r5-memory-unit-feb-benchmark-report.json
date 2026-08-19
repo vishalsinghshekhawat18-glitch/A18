@@ -1,0 +1,210 @@
+{
+  "version": "2.0.0-r5-editorial-memory-unit",
+  "timestamp": "2026-08-18T17:21:29.001Z",
+  "metrics": {
+    "rawCandidateArticles": 368,
+    "totalEditorialMemoryUnits": 334,
+    "tierAMasterUnits": 96,
+    "tierBPlusUnits": 238,
+    "attachedSubArticles": 12,
+    "skippedNoiseArticles": 22,
+    "totalAccounted": 368,
+    "reconciliationRate": "100.0%",
+    "rawToMemoryUnitCompression": "9.2%",
+    "highYieldRecall": "100.0% (38/38)",
+    "factLossRate": "0.0%",
+    "unsupportedFactRate": "0.0%"
+  },
+  "sampleMemoryUnits": [
+    {
+      "id": "emu-cgb-art-1",
+      "title": "16th Finance Commission report for Tax revenue laid in LS",
+      "category": "SEC2",
+      "tier": "TIER_A",
+      "theme": "16th Finance Commission report for Tax revenue laid in LS",
+      "attentionJustification": "Enforceable regulatory circular issued by RBI/SEBI/DICGC.",
+      "constituentArticles": [
+        {
+          "page": 1,
+          "section": "ESI, Finance & Business",
+          "title": "16th Finance Commission report for Tax revenue laid in LS",
+          "text": "The 16th Finance Commission report for tax revenue devolution between Centre and states for 2026-2031 retained 41% share. Formally constituted Dec 31, 2023 under Arvind Panagariya under Article 280."
+        }
+      ],
+      "keyFacts": [
+        "The 16th Finance Commission report for tax revenue devolution between Centre and states for 2026-2031 retained 41% share. Formally constituted Dec 31, 2023 under Arvind Panagariya under Article 280."
+      ]
+    },
+    {
+      "id": "emu-cgb-art-2",
+      "title": "PMEGP assisted 63% of units under manufacturing and 93% under service",
+      "category": "SEC2",
+      "tier": "TIER_A",
+      "theme": "PMEGP assisted 63% of units under manufacturing and 93% under service",
+      "attentionJustification": "Enforceable regulatory circular issued by RBI/SEBI/DICGC.",
+      "constituentArticles": [
+        {
+          "page": 2,
+          "section": "ESI, Finance & Business",
+          "title": "PMEGP assisted 63% of units under manufacturing and 93% under service",
+          "text": "PMEGP central sector scheme assisted 63% manufacturing and 93% service units up to Rs 10 lakh. RBI guidelines: no collateral for loans up to Rs 10 lakh."
+        }
+      ],
+      "keyFacts": [
+        "PMEGP central sector scheme assisted 63% manufacturing and 93% service units up to Rs 10 lakh. RBI guidelines: no collateral for loans up to Rs 10 lakh."
+      ]
+    },
+    {
+      "id": "emu-cgb-art-3",
+      "title": "UPI, RuPay subsidy for FY27 at ₹2,000 crore",
+      "category": "SEC1",
+      "tier": "TIER_A",
+      "theme": "UPI, RuPay subsidy for FY27 at ₹2,000 crore",
+      "attentionJustification": "Sovereign macroeconomic / fiscal devolution baseline figure.",
+      "constituentArticles": [
+        {
+          "page": 2,
+          "section": "ESI, Finance & Business",
+          "title": "UPI, RuPay subsidy for FY27 at ₹2,000 crore",
+          "text": "Union Budget allocated ₹2,000 crore incentive for low-value P2M UPI and RuPay debit card transactions with zero MDR. Zero MDR made effective Jan 2020."
+        }
+      ],
+      "keyFacts": [
+        "Union Budget allocated ₹2,000 crore incentive for low-value P2M UPI and RuPay debit card transactions with zero MDR. Zero MDR made effective Jan 2020."
+      ]
+    },
+    {
+      "id": "emu-cgb-art-4",
+      "title": "NSO to launch year-long nationwide migration survey from July 2026",
+      "category": "SEC4",
+      "tier": "TIER_B_PLUS",
+      "theme": "NSO to launch year-long nationwide migration survey from July 2026",
+      "attentionJustification": "High-frequency exam fact (appointment, treaty, weapon trial, global index).",
+      "constituentArticles": [
+        {
+          "page": 2,
+          "section": "ESI, Finance & Business",
+          "title": "NSO to launch year-long nationwide migration survey from July 2026",
+          "text": "NSO to conduct survey on migration between July 2026 and June 2027. Previous PLFS 2020-21 showed migration rate 10.7% males, 47.9% females."
+        }
+      ],
+      "keyFacts": [
+        "NSO to conduct survey on migration between July 2026 and June 2027. Previous PLFS 2020-21 showed migration rate 10.7% males, 47.9% females."
+      ]
+    },
+    {
+      "id": "emu-cgb-art-5",
+      "title": "Disinvestment Target Set at ₹80,000 Crore for FY27",
+      "category": "SEC1",
+      "tier": "TIER_A",
+      "theme": "Disinvestment Target Set at ₹80,000 Crore for FY27",
+      "attentionJustification": "Sovereign macroeconomic / fiscal devolution baseline figure.",
+      "constituentArticles": [
+        {
+          "page": 3,
+          "section": "ESI, Finance & Business",
+          "title": "Disinvestment Target Set at ₹80,000 Crore for FY27",
+          "text": "Centre set disinvestment and asset monetization target of Rs 80,000 crore for FY27 (135% higher than RE FY26 of Rs 33,837 Cr), banking on IDBI Bank and LIC."
+        }
+      ],
+      "keyFacts": [
+        "Centre set disinvestment and asset monetization target of Rs 80,000 crore for FY27 (135% higher than RE FY26 of Rs 33,837 Cr), banking on IDBI Bank and LIC."
+      ]
+    },
+    {
+      "id": "emu-cgb-art-6",
+      "title": "Housing ministry raises EWS housing target under PMAY 2.0 by 350%",
+      "category": "SEC1",
+      "tier": "TIER_A",
+      "theme": "Housing ministry raises EWS housing target under PMAY 2.0 by 350%",
+      "attentionJustification": "Sovereign macroeconomic / fiscal devolution baseline figure.",
+      "constituentArticles": [
+        {
+          "page": 3,
+          "section": "ESI, Finance & Business",
+          "title": "Housing ministry raises EWS housing target under PMAY 2.0 by 350%",
+          "text": "MoHUA raised BLC PMAY-U 2.0 target to 500,000 homes in FY27 from 110,000 in FY26. Budgetary outlay rose 148% to Rs 18,625 crore."
+        }
+      ],
+      "keyFacts": [
+        "MoHUA raised BLC PMAY-U 2.0 target to 500,000 homes in FY27 from 110,000 in FY26. Budgetary outlay rose 148% to Rs 18,625 crore."
+      ]
+    },
+    {
+      "id": "emu-cgb-art-7",
+      "title": "Yuva Sahakar Scheme and Swayamshakti Sahakar Scheme (PIB)",
+      "category": "SEC4",
+      "tier": "TIER_B_PLUS",
+      "theme": "Yuva Sahakar Scheme and Swayamshakti Sahakar Scheme (PIB)",
+      "attentionJustification": "High-frequency exam fact (appointment, treaty, weapon trial, global index).",
+      "constituentArticles": [
+        {
+          "page": 3,
+          "section": "ESI, Finance & Business",
+          "title": "Yuva Sahakar Scheme and Swayamshakti Sahakar Scheme (PIB)",
+          "text": "NCDC under Ministry of Cooperation implements Yuva Sahakar and Swayam Shakti Sahakar Scheme, fully funded by NCDC."
+        }
+      ],
+      "keyFacts": [
+        "NCDC under Ministry of Cooperation implements Yuva Sahakar and Swayam Shakti Sahakar Scheme, fully funded by NCDC."
+      ]
+    },
+    {
+      "id": "emu-cgb-art-8",
+      "title": "PFC board clears merger with REC",
+      "category": "SEC2",
+      "tier": "TIER_A",
+      "theme": "PFC board clears merger with REC",
+      "attentionJustification": "Enforceable regulatory circular issued by RBI/SEBI/DICGC.",
+      "constituentArticles": [
+        {
+          "page": 3,
+          "section": "ESI, Finance & Business",
+          "title": "PFC board clears merger with REC",
+          "text": "Power Finance Corporation approved merger with subsidiary REC Ltd. PFC had acquired 52.63% in REC in March 2019 for ₹14,500 crore. Registered as NBFC with RBI since 1990."
+        }
+      ],
+      "keyFacts": [
+        "Power Finance Corporation approved merger with subsidiary REC Ltd. PFC had acquired 52.63% in REC in March 2019 for ₹14,500 crore. Registered as NBFC with RBI since 1990."
+      ]
+    },
+    {
+      "id": "emu-cgb-art-9",
+      "title": "World Bank Highlights Karnataka’s Fiscal Strategy for Other States",
+      "category": "SEC4",
+      "tier": "TIER_B_PLUS",
+      "theme": "World Bank Highlights Karnataka’s Fiscal Strategy for Other States",
+      "attentionJustification": "High-frequency exam fact (appointment, treaty, weapon trial, global index).",
+      "constituentArticles": [
+        {
+          "page": 4,
+          "section": "ESI, Finance & Business",
+          "title": "World Bank Highlights Karnataka’s Fiscal Strategy for Other States",
+          "text": "World Bank report to 16th FC highlighted Karnataka 2014 model of including PSU/SPV borrowings into state liabilities to improve fiscal transparency."
+        }
+      ],
+      "keyFacts": [
+        "World Bank report to 16th FC highlighted Karnataka 2014 model of including PSU/SPV borrowings into state liabilities to improve fiscal transparency."
+      ]
+    },
+    {
+      "id": "emu-cgb-art-10",
+      "title": "India’s retail inflation stands at 2.75% in January 2026 (PIB)",
+      "category": "SEC1",
+      "tier": "TIER_A",
+      "theme": "India’s retail inflation stands at 2.75% in January 2026 (PIB)",
+      "attentionJustification": "Sovereign macroeconomic / fiscal devolution baseline figure.",
+      "constituentArticles": [
+        {
+          "page": 4,
+          "section": "ESI, Finance & Business",
+          "title": "India’s retail inflation stands at 2.75% in January 2026 (PIB)",
+          "text": "Retail inflation stood at 2.75% in January 2026 under newly released CPI series (base year updated from 2012 to 2024), compared to 1.33% in Dec 2025."
+        }
+      ],
+      "keyFacts": [
+        "Retail inflation stood at 2.75% in January 2026 under newly released CPI series (base year updated from 2012 to 2024), compared to 1.33% in Dec 2025."
+      ]
+    }
+  ]
+}

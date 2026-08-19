@@ -1,31 +1,28 @@
 {
   "id": "migrated-ca-note-sec1-415",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "India's 1st Model Border Village Foundation Laid at Chumur (Ladakh) Under VVP",
+  "type": "ca_note",
   "summary": "LG Vinai Kumar Saxena inaugurates 1st of 10 model border villages at 16,700 feet altitude.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "LG Vinai Kumar Saxena inaugurates 1st of 10 model border villages at 16,700 feet altitude."
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 India's 1st Model Border Village Foundation Laid at Chumur (Ladakh) Under VVP. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "LG Vinai Kumar Saxena inaugurates 1st of 10 model border villages at 16,700 feet altitude.",
         "Vibrant Village Model: Chumur village (24 households) developed under 4 pillars: Infrastructure, Livelihoods, All-Weather, and Defence Integration.",
         "Climate Housing: Construction of 24 passive solar, thermally insulated houses with homestay facilities.",
-        "Border Altitude: Situated at 16,700 feet along the India-China border."
+        "Border Altitude: Situated at 16,700 feet along the India-China border.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of India's 1st Model Border Village Foundation Laid at Chumur (Ladakh) Under VVP."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Vibrant Villages Programme (VVP) launched in 2023 for northern border development."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of India's 1st Model Border Village Foundation Laid at Chumur (Ladakh) Under VVP."
     }
   ],
   "metadata": {
@@ -50,6 +47,16 @@
       "sourceChecksum": "b26f935e680b55d81ab8e052080c762428b57bc6251a4fc7c14356aedafe3e01",
       "migrationTimestamp": "2026-08-15T12:18:39.841Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

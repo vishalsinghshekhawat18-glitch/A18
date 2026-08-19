@@ -1,0 +1,77 @@
+{
+  "id": "migrated-ca-note-sec6-438",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "World Boxing Rankings: Jaismine Lamboria & Minakshi Hooda Ranked World No. 1",
+  "summary": "India ranks 3rd overall globally and 2nd in women's boxing worldwide.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 7. 🏆 AWARDS, BOOKS, INDICES & RANKINGS",
+      "text": "🪝 World Boxing Rankings: Jaismine Lamboria & Minakshi Hooda Ranked World No. 1. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "India ranks 3rd overall globally and 2nd in women's boxing worldwide.",
+        "World No. 1 Boxers: Jaismine Lamboria (57kg) and Minakshi Hooda (48kg) achieved World No. 1 rankings.",
+        "Top-10 Representation: Indian boxers feature in top 10 across 9 of 10 women's weight categories and 8 of 10 men's divisions.",
+        "Global Position: India ranks 3rd overall in top-10 athletes globally behind Kazakhstan and Uzbekistan.",
+        "Jaismine Lamboria category (57kg) vs Minakshi Hooda category (48kg).",
+        "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 7,
+      "code": "SEC7",
+      "name": "AWARDS, BOOKS, INDICES & RANKINGS",
+      "emoji": "🏆",
+      "fullName": "7. 🏆 AWARDS, BOOKS, INDICES & RANKINGS"
+    },
+    "hook": "🪝 World Boxing Rankings: Jaismine Lamboria & Minakshi Hooda Ranked World No. 1",
+    "examAngle": "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-06-30"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-30",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:19:15.619Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec6-438",
+      "sourceTitle": "World Boxing Rankings: Jaismine Lamboria & Minakshi Hooda Ranked World No. 1",
+      "sourceChecksum": "f02ef0db73d4e0126d88ffb21acf1b87b494c36ed137d2b70a689ded93d703e1",
+      "migrationTimestamp": "2026-08-15T12:19:15.619Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC7",
+    "sectionNumber": 7,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

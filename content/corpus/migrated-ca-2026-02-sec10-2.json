@@ -1,13 +1,24 @@
 {
   "id": "migrated-ca-2026-02-sec10-2",
+  "title": "Delhi–Meerut Namo Bharat RRTS — Entire 82 km Corridor Dedicated (180 kmph)",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "Cabinet Approves ₹1 Lakh Crore Urban Challenge Fund (UCF)",
-  "summary": "UCF provides ₹1 lakh crore central assistance to catalyze ₹4 lakh crore total urban infrastructure investment.",
+  "summary": "PM Modi dedicated entire 82 km corridor: Namo Bharat RRTS (180 kmph) and Meerut Metro (120 kmph) sharing tracks in 30 mins.",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "Union Cabinet approved the **₹1 lakh crore Urban Challenge Fund (UCF)** operating under a 25:25:50 funding model (Centre 25%, State/ULB 25%, Market 50%)."
+      "content": "**Overview**: PM Modi dedicated entire 82 km corridor: Namo Bharat RRTS (180 kmph) and Meerut Metro (120 kmph) sharing tracks in 30 mins."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**PM Modi flags off 82 km Delhi-Meerut Namo Bharat RRTS corridor (180 kmph)** (Page 49): PM Modi dedicated entire 82 km corridor: Namo Bharat RRTS (180 kmph) and Meerut Metro (120 kmph) sharing tracks in 30 mins."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Regional Rapid Transit & Urban Mobility. 82 km corridor with 180 kmph RRTS and 120 kmph Meerut Metro."
     }
   ],
   "metadata": {
@@ -19,20 +30,34 @@
     "tags": [
       "sec10",
       "Current Affairs 2026",
-      "February 2026"
+      "February 2026",
+      "TIER_A"
     ],
     "date": "2026-02-15",
     "category": "SEC10",
-    "difficulty": "intermediate",
-    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "difficulty": "hard",
+    "lastUpdated": "2026-08-18T17:42:36.870Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "Feb2026.pdf",
-      "sourceId": "migrated-ca-2026-02-sec10-2",
-      "sourceTitle": "Cabinet Approves ₹1 Lakh Crore Urban Challenge Fund (UCF)",
-      "sourceChecksum": "9e3ebc6173d4be0e990cf9772c59e6ddeb0674b9b7d07fba9b6837b298ad093e",
-      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
-      "normalizationRuleVersion": "1.0.0-feb2026"
-    }
-  }
+      "sourceId": "emu-delhi-meerut-namo-bharat-rrts",
+      "sourceTitle": "Delhi–Meerut Namo Bharat RRTS — Entire 82 km Corridor Dedicated (180 kmph)",
+      "provenancePages": [
+        49
+      ],
+      "constituentArticleCount": 1,
+      "migrationTimestamp": "2026-08-18T17:42:36.870Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
+  },
+  "relationships": []
 }

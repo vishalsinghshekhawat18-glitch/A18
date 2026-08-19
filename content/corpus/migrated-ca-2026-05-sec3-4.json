@@ -1,20 +1,31 @@
 {
   "id": "migrated-ca-2026-05-sec3-4",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "RBI Draft Norms on Loan Recovery & Recovery Agent Engagement",
+  "type": "ca_note",
   "summary": "RBI proposes strict restrictions on mobile phone disabling tools (90-day overdue threshold) and ₹250/hr compensation for delayed restoration.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "RBI released draft Amendment Directions titled 'Conduct of Regulated Entities in Recovery of Loans and Engagement of Recovery Agents', proposing strict borrower protection standards."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 RBI Draft Norms on Loan Recovery & Recovery Agent Engagement. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "RBI released draft Amendment Directions titled 'Conduct of Regulated Entities in Recovery of Loans and Engagement of Recovery Agents', proposing strict borrower protection standards.",
         "**Phone Disabling Restrictions**: Allowed only for device-financed loans after a 90-day overdue threshold (21-day cure + 7-day notice). Must restore within 1 hour or pay ₹250/hour compensation.",
-        "**Agent Conduct**: Mandatory IIBF certification; contact hours restricted to 8:00 AM – 7:00 PM; contact with relatives/friends prohibited."
+        "**Agent Conduct**: Mandatory IIBF certification; contact hours restricted to 8:00 AM – 7:00 PM; contact with relatives/friends prohibited.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -29,7 +40,7 @@
       "May 2026"
     ],
     "date": "2026-05-15",
-    "category": "SEC3",
+    "category": "SEC2",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-16T16:10:30.135Z",
     "provenance": {
@@ -40,6 +51,16 @@
       "sourceChecksum": "167aca49693cfbccd39ddc02c994dc9acf60b848b3703c547c8115cceb3a4db2",
       "migrationTimestamp": "2026-08-16T16:10:30.135Z",
       "normalizationRuleVersion": "1.0.0-may2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

@@ -1,41 +1,26 @@
 {
   "id": "migrated-ca-note-sec7-317",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Sunil Bharti Mittal Presented USISPF 2026 Leadership Award in Washington D.C.",
+  "type": "ca_note",
   "summary": "Conferred at IX USISPF Leadership Summit alongside V Prem Watsa and Christopher Calio.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Conferred at IX USISPF Leadership Summit alongside V Prem Watsa and Christopher Calio."
+      "type": "warning_banner",
+      "title": "📰 7. 🏆 AWARDS, BOOKS, INDICES & RANKINGS",
+      "text": "🪝 Sunil Bharti Mittal Presented USISPF 2026 Leadership Award in Washington D.C.. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Conferred at IX USISPF Leadership Summit alongside V Prem Watsa and Christopher Calio.",
         "Awardees: Sunil Bharti Mittal (Bharti Enterprises), V Prem Watsa (Fairfax Financial), and Christopher T Calio (RTX Corp).",
-        "Event Context: Conferred during IX USISPF Leadership Summit marking America@250 anniversary."
+        "Event Context: Conferred during IX USISPF Leadership Summit marking America@250 anniversary.",
+        "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Award Title",
-        "Recipient / Winner",
-        "Conferred By / Key Detail"
-      ],
-      "rows": [
-        [
-          "Sunil Bharti Mittal Presented USISPF 2026 Leadership Award in Washington D.C.",
-          "Awardees: Sunil Bharti Mittal (Bharti Enterprises), V Prem Watsa (Fairfax Financial), and Christopher T Calio (RTX Corp).",
-          "USISPF President & CEO: Mukesh Aghi | HQ: Washington D.C."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "USISPF President & CEO: Mukesh Aghi | HQ: Washington D.C."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
     }
   ],
   "metadata": {
@@ -60,6 +45,16 @@
       "sourceChecksum": "7942ab8a7d324db2bf2ff4ce7c06d49b0192d718e04be824fdaf7ca8f44bbd61",
       "migrationTimestamp": "2026-08-15T12:16:15.974Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC7",
+    "sectionNumber": 7,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

@@ -1,0 +1,73 @@
+{
+  "id": "migrated-ca-note-sec8-95",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "World Breastfeeding Week Observed from 1st to 7th August 2026",
+  "summary": "World Breastfeeding Week Observed from 1st to 7th August 2026",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 8. 📅 IMPORTANT DAYS & PERSONS IN NEWS",
+      "text": "🪝 World Breastfeeding Week Observed from 1st to 7th August 2026. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Theme 2026: *\"Breastfeeding for a sustainable start in life: strengthen what works\"*.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of World Breastfeeding Week Observed from 1st to 7th August 2026."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of World Breastfeeding Week Observed from 1st to 7th August 2026."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 8,
+      "code": "SEC8",
+      "name": "IMPORTANT DAYS & PERSONS IN NEWS",
+      "emoji": "📅",
+      "fullName": "8. 📅 IMPORTANT DAYS & PERSONS IN NEWS"
+    },
+    "hook": "🪝 World Breastfeeding Week Observed from 1st to 7th August 2026",
+    "examAngle": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of World Breastfeeding Week Observed from 1st to 7th August 2026.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-08-01"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec8",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC8",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:11:08.725Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec8-95",
+      "sourceTitle": "World Breastfeeding Week Observed from 1st to 7th August 2026",
+      "sourceChecksum": "3408f9cd5f17b2ec0efb1722fa3cd7b5f49b803884ebba2c0d6c5a8719ef9bc9",
+      "migrationTimestamp": "2026-08-15T12:11:08.725Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC8",
+    "sectionNumber": 8,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

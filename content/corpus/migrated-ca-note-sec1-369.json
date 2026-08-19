@@ -1,53 +1,28 @@
 {
   "id": "migrated-ca-note-sec1-369",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Cabinet Approves 'BHAVYA Rasayan' Scheme (₹3,030 Crore for 3 Chemical Parks)",
+  "type": "ca_note",
   "summary": "Provides ₹1,000 crore grant per park to build common infrastructure across 3 chemical hubs.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Provides ₹1,000 crore grant per park to build common infrastructure across 3 chemical hubs."
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 Cabinet Approves 'BHAVYA Rasayan' Scheme (₹3,030 Crore for 3 Chemical Parks). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Provides ₹1,000 crore grant per park to build common infrastructure across 3 chemical hubs.",
         "Scheme Outlay: ₹3,030 crore financial outlay over 5 years (FY27 to FY31) from Union Budget FY27.",
         "Park Requirements: Grant up to ₹1,000 cr per park (min ₹500 cr state contribution); min area 2,000 acres (8 sq km).",
-        "Chemical Sector Rank: India ranks 6th globally and 3rd in Asia in chemical production (contributes 7% to GDP)."
+        "Chemical Sector Rank: India ranks 6th globally and 3rd in Asia in chemical production (contributes 7% to GDP).",
+        "BHAVYA Rasayan outlay (₹3,030 crore for 3 chemical parks) vs BHAVYA industrial parks outlay (₹33,660 crore).",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Metric / Component",
-        "Threshold / Provision Detail"
-      ],
-      "rows": [
-        [
-          "Scheme Outlay",
-          "₹3,030 crore financial outlay over 5 years (FY27 to FY31) from Union Budget FY27."
-        ],
-        [
-          "Park Requirements",
-          "Grant up to ₹1,000 cr per park (min ₹500 cr state contribution); min area 2,000 acres (8 sq km)."
-        ],
-        [
-          "Chemical Sector Rank",
-          "India ranks 6th globally and 3rd in Asia in chemical production (contributes 7% to GDP)."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Distinct from BHAVYA scheme (₹33,660 cr for 100 industrial parks approved March 2026)."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "BHAVYA Rasayan outlay (₹3,030 crore for 3 chemical parks) vs BHAVYA industrial parks outlay (₹33,660 crore)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
     }
   ],
   "metadata": {
@@ -72,6 +47,16 @@
       "sourceChecksum": "c266ae396304989bd462bef4874daf62348bcf05779b6fa82684e557cfa7ccbf",
       "migrationTimestamp": "2026-08-15T12:17:28.292Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

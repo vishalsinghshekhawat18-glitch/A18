@@ -1,0 +1,63 @@
+{
+  "id": "migrated-ca-2026-02-sec6-5",
+  "title": "Indian Navy Assumes Command of Combined Task Force 154 (CTF 154) in Bahrain",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "summary": "Cmde Milind M Mokashi assumed command of CTF 154 (47 nations, CMF Bahrain) for maritime training.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "content": "**Overview**: Cmde Milind M Mokashi assumed command of CTF 154 (47 nations, CMF Bahrain) for maritime training."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Indian Navy assumes command of Combined Task Force 154 (CTF 154) in Bahrain** (Page 77): Cmde Milind M Mokashi assumed command of CTF 154 (47 nations, CMF Bahrain) for maritime training."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under Multinational Maritime Security & Naval Diplomacy. Indian Navy commands 47-nation training task force in Bahrain."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec6",
+      "Current Affairs 2026",
+      "February 2026",
+      "TIER_B_PLUS"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC6",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-18T17:42:36.846Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "emu-naval-task-force-ctf-154-command",
+      "sourceTitle": "Indian Navy Assumes Command of Combined Task Force 154 (CTF 154) in Bahrain",
+      "provenancePages": [
+        77
+      ],
+      "constituentArticleCount": 1,
+      "migrationTimestamp": "2026-08-18T17:42:36.846Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_B_PLUS",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 85
+  },
+  "relationships": []
+}

@@ -1,31 +1,33 @@
 {
   "id": "migrated-ca-note-sec2-353",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "NITI Aayog Releases Bioeconomy Roadmap 2035: Targets  Billion Bioeconomy by 2035",
+  "type": "ca_note",
   "summary": "Recommends ₹50,000-crore BioEconomy Growth Fund across 6 National BioMissions.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Recommends ₹50,000-crore BioEconomy Growth Fund across 6 National BioMissions."
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 NITI Aayog Releases Bioeconomy Roadmap 2035: Targets  Billion Bioeconomy by 2035. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Recommends ₹50,000-crore BioEconomy Growth Fund across 6 National BioMissions.",
         "Bioeconomy Targets: Projects growth from .3B (2025) to  by 2035 and .6 trillion by 2047 (8-10% of  GDP).",
         "6 National BioMissions: GeneIndia, AgriBio 2.0, BioX Foundry, One Health Grid, Marine Biotechnology, BioPharmaNext.",
-        "Fund Allocation: Proposes ₹50,000-crore BioEconomy Growth Fund (2026-2035) to bridge lab-to-market commercialisation."
+        "Fund Allocation: Proposes ₹50,000-crore BioEconomy Growth Fund (2026-2035) to bridge lab-to-market commercialisation.",
+        "Bioeconomy 2035 target ( billion) vs 2047 target (.6 trillion).",
+        "🎯 Exam Angle → Focus on India composite score (71), top-performing states (Kerala, Uttarakhand), bottom state (Bihar), and 16 target SDGs."
       ]
     },
     {
       "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Union Science Minister: Dr. Jitendra Singh | India currently 4.8% GDP bioeconomy."
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "NITI Aayog Formed: 1 January 2015 · Chairperson: Prime Minister · HQ: New Delhi"
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Bioeconomy 2035 target ( billion) vs 2047 target (.6 trillion)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on India composite score (71), top-performing states (Kerala, Uttarakhand), bottom state (Bihar), and 16 target SDGs."
     }
   ],
   "metadata": {
@@ -39,7 +41,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-07-22",
-    "category": "SEC2",
+    "category": "SEC6",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:17:28.291Z",
     "provenance": {
@@ -50,6 +52,16 @@
       "sourceChecksum": "a171646b886758a655080903dd4dd4dcfc6c85fca5a5bab68379941363363e29",
       "migrationTimestamp": "2026-08-15T12:17:28.291Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 82
   }
 }

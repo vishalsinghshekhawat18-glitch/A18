@@ -1,25 +1,26 @@
 {
   "id": "migrated-ca-note-sec4-274",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "India Commissions First Geothermal Wells in Puga Valley, Ladakh",
+  "type": "ca_note",
   "summary": "Drills India's deepest geothermal wells for 1 MW pilot geothermal power plant.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Drills India's deepest geothermal wells for 1 MW pilot geothermal power plant."
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 India Commissions First Geothermal Wells in Puga Valley, Ladakh. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Drills India's deepest geothermal wells for 1 MW pilot geothermal power plant.",
         "Location: Puga Valley, Union Territory of Ladakh.",
-        "Execution Agency: Executed by ONGC Energy Centre for 1 MW pilot geothermal power project."
+        "Execution Agency: Executed by ONGC Energy Centre for 1 MW pilot geothermal power project.",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Geothermal Energy taps heat from the Earth's sub-surface crust."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
     }
   ],
   "metadata": {
@@ -33,7 +34,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-07-15",
-    "category": "SEC4",
+    "category": "SEC6",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:15:05.762Z",
     "provenance": {
@@ -44,6 +45,16 @@
       "sourceChecksum": "57cdd308cd6ff4bd2b90a6c6d06776424c277ac5c5fae7118636b982f7f6d888",
       "migrationTimestamp": "2026-08-15T12:15:05.762Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 82
   }
 }

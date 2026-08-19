@@ -1,31 +1,28 @@
 {
   "id": "migrated-ca-note-sec4-326",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "ZSI 111th Foundation Day: Discovers 709 New Faunal Records (India Total 1,05,953 Species)",
+  "type": "ca_note",
   "summary": "Releases 'Animal Discoveries 2025' and 'Fauna of India Checklist 3.0' at Kolkata summit.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Releases 'Animal Discoveries 2025' and 'Fauna of India Checklist 3.0' at Kolkata summit."
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 ZSI 111th Foundation Day: Discovers 709 New Faunal Records (India Total 1,05,953 Species). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Releases 'Animal Discoveries 2025' and 'Fauna of India Checklist 3.0' at Kolkata summit.",
         "Faunal Biodiversity: 709 new faunal records added in 2025 (483 new to science, 226 new to India), raising India's total faunal wealth to 1,05,953 species.",
         "State Leader: Kerala led regional species discoveries (98 new species), followed by West Bengal, Karnataka, and Arunachal Pradesh.",
-        "Digital Platforms: Launched 'Fauna of India Checklist 3.0' and 'PaleoIndia Portal' (specimen fossil mapping across 28 states and 8 UTs)."
+        "Digital Platforms: Launched 'Fauna of India Checklist 3.0' and 'PaleoIndia Portal' (specimen fossil mapping across 28 states and 8 UTs).",
+        "New faunal records added (709) vs total species documented in India (1,05,953).",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of ZSI 111th Foundation Day."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Zoological Survey of India (ZSI) established July 1, 1916 | Director: Dr. Dhriti Banerjee | HQ: Kolkata."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "New faunal records added (709) vs total species documented in India (1,05,953)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of ZSI 111th Foundation Day."
     }
   ],
   "metadata": {
@@ -50,6 +47,16 @@
       "sourceChecksum": "24a6a203f6385c3d4abea0cc84d5a6b0f026e6e8c6cf594cf7efbf14b2b8f848",
       "migrationTimestamp": "2026-08-15T12:16:51.763Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

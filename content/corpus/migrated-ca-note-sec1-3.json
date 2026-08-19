@@ -1,35 +1,27 @@
 {
   "id": "migrated-ca-note-sec1-3",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Government Approves ₹4,687 Crore Interest Subsidies for Ethanol Projects via NABARD",
+  "type": "ca_note",
   "summary": "Expanding ethanol production capacity accelerates India's E20 target (20% ethanol blending by 2025-26).",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Expanding ethanol production capacity accelerates India's E20 target (20% ethanol blending by 2025-26)."
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 Government Approves ₹4,687 Crore Interest Subsidies for Ethanol Projects via NABARD. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Expanding ethanol production capacity accelerates India's E20 target (20% ethanol blending by 2025-26).",
         "📌 **Core Policy Directives & Scope:**\nUnion Government approved **₹4,687 crore** in interest subsidies for eligible ethanol projects.\n**Nodal Agency:** **NABARD** serves as the nodal disbursing agency (**₹2,075 crore** released since FY23).",
-        "💰 **Financial Outlays & Operational Rules:**\n**Subvention Terms:** Interest subvention of **6% per annum or 50% of interest charged** (whichever lower) for **5 years**.\nPolicy Alignment: Boosts grain-based and sugar-based distilleries under Ethanol Blended Petrol (EBP) program."
+        "💰 **Financial Outlays & Operational Rules:**\n**Subvention Terms:** Interest subvention of **6% per annum or 50% of interest charged** (whichever lower) for **5 years**.\nPolicy Alignment: Boosts grain-based and sugar-based distilleries under Ethanol Blended Petrol (EBP) program.",
+        "Ethanol interest subvention (6% p.a. or 50% of interest for 5 yrs) vs priority sector short-term crop loan subvention (capped at 3%).",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Government Approves ₹4,687 Crore Interest Subsidies for Ethanol Projects via NABARD."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "NABARD established July 12, 1982 (B. Sivaraman Committee) | HQ: Mumbai."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Ethanol interest subvention (6% p.a. or 50% of interest for 5 yrs) vs priority sector short-term crop loan subvention (capped at 3%)."
-    },
-    {
-      "type": "quote",
-      "quote": "Interview Focus Question: \"What role does NABARD play as the nodal agency for ethanol interest subventions?\"\n💡 **Model Answer: NABARD administers and verifies subvention claims from lending banks to ensure capital credit flows into bio-fuel infrastructure.**",
-      "author": "Banking & Regulatory Board Panel"
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Government Approves ₹4,687 Crore Interest Subsidies for Ethanol Projects via NABARD."
     }
   ],
   "metadata": {
@@ -54,6 +46,16 @@
       "sourceChecksum": "b0d47c04edf135458cd233fee3671f56f8784d47ae58b404f37b5aeb8de2ac45",
       "migrationTimestamp": "2026-08-15T05:52:09.823Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

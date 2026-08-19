@@ -1,13 +1,24 @@
 {
   "id": "migrated-ca-2026-04-sec10-7",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "MeitY Approves 29 Proposals Worth ₹7,104 Cr Under ECMS Scheme",
+  "type": "ca_note",
   "summary": "Electronics Components Manufacturing Scheme (ECMS) approves India's 1st Tantalum SMD passive plant, 1st Flexible PCB plant, and 1st Rare Earth Magnet facility.",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 MeitY Approves 29 Proposals Worth ₹7,104 Cr Under ECMS Scheme. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "MeitY approved 29 proposals under ECMS involving ₹7,104 crore investment for ₹84,515 crore projected production, taking total ECMS approvals to 75 applications (₹61,671 crore investment).",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
+      ]
+    },
+    {
       "type": "paragraph",
-      "content": "MeitY approved 29 proposals under ECMS involving ₹7,104 crore investment for ₹84,515 crore projected production, taking total ECMS approvals to 75 applications (₹61,671 crore investment)."
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
     }
   ],
   "metadata": {
@@ -33,6 +44,16 @@
       "sourceChecksum": "8392440a8b9cf16b731fbc457bb6a63625414d6ae24ac396ff90b5c04d6b6cc3",
       "migrationTimestamp": "2026-08-16T15:38:14.789Z",
       "normalizationRuleVersion": "1.0.0-apr2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

@@ -1,0 +1,94 @@
+{
+  "id": "migrated-ca-2026-04-sec3-1",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Monetary Policy Committee (MPC) Keeps Repo Rate Unchanged at 5.25%",
+  "summary": "RBI MPC unanimously votes to retain Repo Rate at 5.25% with Neutral stance; projects FY27 GDP growth at 6.9%.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 RBI Monetary Policy Committee (MPC) Keeps Repo Rate Unchanged at 5.25%. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "In its 1st bi-monthly Monetary Policy Statement for FY 2026-27 (6-8 April 2026), the Governor Sanjay Malhotra-led MPC unanimously voted to **keep the Repo Rate unchanged at 5.25%** for the second consecutive meeting with a **'Neutral' stance**.",
+        "**Key Rates**: Repo Rate: 5.25% | SDF (standing deposit facility without collateral): 5.00% | MSF (marginal standing facility for emergency borrowing) & Bank Rate: 5.50% | Reverse Repo: 3.35% | CRR: 3.00% | SLR: 18.00%.",
+        "**GDP Growth Projection (FY27)**: 6.9% overall (Q1: 6.8%, Q2: 6.7%, Q3: 7.0%, Q4: 7.2%).",
+        "**Inflation Target**: FIT anchor maintained at 4.0% (±2% tolerance band).",
+        "🎯 Exam Angle → Focus on Repo Rate figure (5.25%), MPC stance ('Neutral'), MSME collateral-free threshold, and inflation forecast."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on Repo Rate figure (5.25%), MPC stance ('Neutral'), MSME collateral-free threshold, and inflation forecast."
+    },
+    {
+      "type": "warning_banner",
+      "title": "💼 Interview Question & Model Answer",
+      "text": "**Q:** Why has the MPC maintained a 'Neutral' stance amidst global macroeconomic uncertainties?\n\n**Model Answer:** A neutral stance provides the RBI flexibility to balance domestic growth with inflation targets while monitoring global commodity price volatility."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 2,
+      "code": "SEC2",
+      "name": "REGULATORY BODIES NEWS",
+      "emoji": "🏛️",
+      "fullName": "2. 🏛️ REGULATORY BODIES NEWS"
+    },
+    "hook": "🪝 RBI Monetary Policy Committee (MPC) Keeps Repo Rate Unchanged at 5.25%",
+    "examAngle": "🎯 Exam Angle → Focus on Repo Rate figure (5.25%), MPC stance ('Neutral'), MSME collateral-free threshold, and inflation forecast.",
+    "interviewQ": {
+      "question": "Why has the MPC maintained a 'Neutral' stance amidst global macroeconomic uncertainties?",
+      "modelAnswer": "A neutral stance provides the RBI flexibility to balance domestic growth with inflation targets while monitoring global commodity price volatility."
+    },
+    "staticGK": {
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-04-15"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026",
+      "April 2026"
+    ],
+    "date": "2026-04-15",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T11:56:36.842Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Apri6927cf5d2b211a2b729e125el 2026 Monthly CA PDF.pdf",
+      "sourceId": "migrated-ca-2026-04-sec3-1",
+      "sourceTitle": "RBI Monetary Policy Committee (MPC) Keeps Repo Rate Unchanged at 5.25%",
+      "sourceChecksum": "7f7369d4773dbd3d2bfa91767391c7bec031c1e2e7cc709b74475097eba3580d",
+      "migrationTimestamp": "2026-08-16T11:56:36.842Z",
+      "normalizationRuleVersion": "1.0.0-apr2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

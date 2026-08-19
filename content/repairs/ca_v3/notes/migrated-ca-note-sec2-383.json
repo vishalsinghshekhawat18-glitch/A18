@@ -1,0 +1,77 @@
+{
+  "id": "migrated-ca-note-sec2-383",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "FEMA Rules Amended: Overseas Individual Portfolio Investment Limit Raised to 10%",
+  "summary": "Amends Non-Debt Instruments Rules 2019, doubling individual non-resident holding limits in listed equities.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 FEMA Rules Amended: Overseas Individual Portfolio Investment Limit Raised to 10%. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Amends Non-Debt Instruments Rules 2019, doubling individual non-resident holding limits in listed equities.",
+        "Individual Holding Cap: Maximum holding for individual overseas investor (PROI) in a listed company raised from 5% to below 10%.",
+        "Aggregate Limit: Combined holding of all overseas investors increased from 10% to 24%.",
+        "Coverage Expansion: Extends portfolio investment route to all individual Persons Resident Outside India (PROIs) at par with NRIs and OCIs.",
+        "Individual PROI cap (below 10%) vs aggregate limit for all non-residents (24%).",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 2,
+      "code": "SEC2",
+      "name": "REGULATORY BODIES NEWS",
+      "emoji": "🏛️",
+      "fullName": "2. 🏛️ REGULATORY BODIES NEWS"
+    },
+    "hook": "🪝 FEMA Rules Amended: Overseas Individual Portfolio Investment Limit Raised to 10%",
+    "examAngle": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-06-05"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-06-05",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:18:04.451Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-383",
+      "sourceTitle": "FEMA Rules Amended: Overseas Individual Portfolio Investment Limit Raised to 10%",
+      "sourceChecksum": "ab4719721a0f0d9daef371c8530454fa92e7e32ca87a19b23b53927797cdd9d8",
+      "migrationTimestamp": "2026-08-15T12:18:04.451Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

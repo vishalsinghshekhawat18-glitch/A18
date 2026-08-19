@@ -1,0 +1,84 @@
+{
+  "id": "migrated-ca-note-sec2-247",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI Retains Floating Rate Savings Bonds (FRSB 2020) Interest Rate at 8.05%",
+  "summary": "Maintains 0.35% premium over National Savings Certificate (NSC) 7.7% benchmark.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 RBI Retains Floating Rate Savings Bonds (FRSB 2020) Interest Rate at 8.05%. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Maintains 0.35% premium over National Savings Certificate (NSC) 7.7% benchmark.",
+        "FRSB Coupon Rate: 8.05% per annum for July 1 to Dec 31, 2026 (payable Jan 1, 2027).",
+        "Benchmark Formula: FRSB rate = NSC rate (7.70%) + 0.35% spread.",
+        "FRSB interest rate (8.05%) vs NSC benchmark rate (7.70%).",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 2,
+      "code": "SEC2",
+      "name": "REGULATORY BODIES NEWS",
+      "emoji": "🏛️",
+      "fullName": "2. 🏛️ REGULATORY BODIES NEWS"
+    },
+    "hook": "🪝 RBI Retains Floating Rate Savings Bonds (FRSB 2020) Interest Rate at 8.05%",
+    "examAngle": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks.",
+    "staticGK": {
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-07-11"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-11",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:14:29.731Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec2-247",
+      "sourceTitle": "RBI Retains Floating Rate Savings Bonds (FRSB 2020) Interest Rate at 8.05%",
+      "sourceChecksum": "82c2c1b11533cc5b9518f1c42256f8f760a9f38fb282b6006fcf844abc8f35a1",
+      "migrationTimestamp": "2026-08-15T12:14:29.731Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

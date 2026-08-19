@@ -1,0 +1,69 @@
+{
+  "id": "migrated-ca-2026-01-sec1-9",
+  "originalTitle": "India–UAE $200 Billion Trade Target by 2032 & LNG Deal",
+  "v3Title": "📰 India–UAE $200 Billion Trade Target by 2032 & LNG Deal",
+  "v3Summary": "India and UAE agree to double bilateral trade to $200 billion by 2032 and sign 10-year LNG supply agreement.",
+  "v3Framework": {
+    "zone": "LIGHT_TOUCH",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "sectionNumber": 4,
+    "hook": "🪝 India–UAE $200 Billion Trade Target by 2032 & LNG Deal... Key exam anchor with high-frequency MCQ hit rate.",
+    "examAngle": "🎯 Exam Angle → Focus on nodal body, key thresholds, and statutory implementation timelines.",
+    "staticGK": {
+      "nodalAuthority": "Government of India / Nodal Regulatory Agency",
+      "headquarters": "New Delhi / Mumbai"
+    }
+  },
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 Section 4: Exam High-Yield Note",
+      "text": "🪝 India–UAE $200 Billion Trade Target by 2032 & LNG Deal. Sourced from official gazette and institutional circulars."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Key Development**: India and UAE agree to double bilateral trade to $200 billion by 2032 and sign 10-year LNG supply agreement.",
+        "**Implementation Date**: Effective as of **2026-01-26**.",
+        "**Nodal Jurisdiction**: Central / Regulatory Authority."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "Headquarters: Mumbai / New Delhi · Published Date: 2026-01-26"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Direct MCQ candidate on nodal ministry, outlays, and statutory compliance dates."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec3",
+      "Current Affairs 2026",
+      "January 2026"
+    ],
+    "date": "2026-01-26",
+    "category": "SEC3",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "January_26.pdf",
+      "sourceId": "migrated-ca-2026-01-sec1-9",
+      "sourceTitle": "India–UAE $200 Billion Trade Target by 2032 & LNG Deal",
+      "sourceChecksum": "4277300d2bee2a7e098f02ff77014ac1e10290214e9abea3a0c1d754bcf44aef",
+      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+      "normalizationRuleVersion": "1.0.0-jan2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "pilotStatus": "staged_pilot_verified"
+  }
+}

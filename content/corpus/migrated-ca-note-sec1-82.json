@@ -1,20 +1,25 @@
 {
   "id": "migrated-ca-note-sec1-82",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "BWF Para World Circuit 2026 in Brazil",
+  "type": "ca_note",
   "summary": "BWF Para World Circuit 2026 in Brazil",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 BWF Para World Circuit 2026 in Brazil. Key development for Banking & General Awareness."
+    },
+    {
       "type": "bullet_list",
       "items": [
-        "Biri Takar (Arunachal Pradesh) won Gold in Men's Doubles and Bronze in Men's Singles."
+        "Biri Takar (Arunachal Pradesh) won Gold in Men's Doubles and Bronze in Men's Singles.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of BWF Para World Circuit 2026 in Brazil."
       ]
     },
     {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of BWF Para World Circuit 2026 in Brazil."
     }
   ],
   "metadata": {
@@ -39,6 +44,16 @@
       "sourceChecksum": "d20d251314ad0031cbaaff78234db1be8faf6679d808b63ee858238bcb5938bf",
       "migrationTimestamp": "2026-08-15T12:11:08.725Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

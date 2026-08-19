@@ -1,13 +1,24 @@
 {
   "id": "migrated-ca-2026-04-sec3-14",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Bank of Baroda Launches 'bob SAMVAD' AI Multilingual In-Branch Platform",
+  "type": "ca_note",
   "summary": "BoB launches industry-first AI-driven speech & language tool supporting real-time two-way communication across 22 Indian languages.",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 3. 🏦 BANKING & INSURANCE NEWS",
+      "text": "🪝 Bank of Baroda Launches 'bob SAMVAD' AI Multilingual In-Branch Platform. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Bank of Baroda launched **'bob SAMVAD'**, an in-house developed AI conversational platform enabling real-time translation between customers and branch staff across **22 scheduled languages** in 250 pilot branches.",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
+      ]
+    },
+    {
       "type": "paragraph",
-      "content": "Bank of Baroda launched **'bob SAMVAD'**, an in-house developed AI conversational platform enabling real-time translation between customers and branch staff across **22 scheduled languages** in 250 pilot branches."
+      "content": "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
     }
   ],
   "metadata": {
@@ -33,6 +44,16 @@
       "sourceChecksum": "42f78c364bbf7388f717f4750d85d48d2915d29a6183efb5629461352fcd7fa1",
       "migrationTimestamp": "2026-08-16T15:38:14.789Z",
       "normalizationRuleVersion": "1.0.0-apr2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC3",
+    "sectionNumber": 3,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

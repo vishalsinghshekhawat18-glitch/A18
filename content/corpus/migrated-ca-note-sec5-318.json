@@ -1,41 +1,26 @@
 {
   "id": "migrated-ca-note-sec5-318",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "IIT Delhi and Sorbonne University (France) Launch Joint Master's & PhD in Biological Science",
+  "type": "ca_note",
   "summary": "Establishes 'Franco-Indian Integrated Health Campus' for joint medical and AI research.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Establishes 'Franco-Indian Integrated Health Campus' for joint medical and AI research."
+      "type": "warning_banner",
+      "title": "📰 5. 🤝 MoUs, CONFERENCES & APPOINTMENTS",
+      "text": "🪝 IIT Delhi and Sorbonne University (France) Launch Joint Master's & PhD in Biological Science. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Establishes 'Franco-Indian Integrated Health Campus' for joint medical and AI research.",
         "Academic Partnership: IIT Delhi and Sorbonne University (Paris) launched joint master's and PhD programs.",
-        "Integrated Campus: Centred around Franco-Indian Integrated Health Campus for healthcare AI and robotics."
+        "Integrated Campus: Centred around Franco-Indian Integrated Health Campus for healthcare AI and robotics.",
+        "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Appointee / Official",
-        "New Position & Organization",
-        "Key Context & Details"
-      ],
-      "rows": [
-        [
-          "IIT Delhi and Sorbonne University (France) Launch Joint Master's & PhD in Biological Science",
-          "Official Appointment",
-          "Academic Partnership: IIT Delhi and Sorbonne University (Paris) launched joint master's and PhD programs."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Sorbonne University HQ: Paris, France | IIT Delhi Director: Rangan Banerjee."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
     }
   ],
   "metadata": {
@@ -60,6 +45,16 @@
       "sourceChecksum": "b99f0253bc2fb509c7f924df80d69281818fa6a082388bfdb2ed8d7102172bd0",
       "migrationTimestamp": "2026-08-15T12:16:15.974Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC5",
+    "sectionNumber": 5,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

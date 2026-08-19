@@ -1,17 +1,26 @@
 {
   "id": "migrated-ca-2026-05-sec7-2",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Padma Awards 2026 Conferred by President Murmu & PM Modi Conferred Sweden's Highest Honour",
+  "type": "ca_note",
   "summary": "President Murmu confers 66 Padma awards; PM Modi receives Sweden's Royal Order of Polar Star; Pulitzer 2026 awarded to Indian journalists.",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 7. 🏆 AWARDS, BOOKS, INDICES & RANKINGS",
+      "text": "🪝 Padma Awards 2026 Conferred by President Murmu & PM Modi Conferred Sweden's Highest Honour. Key development for Banking & General Awareness."
+    },
     {
       "type": "bullet_list",
       "items": [
         "**Padma Awards 2026**: 66 of 131 awardees conferred at Rashtrapati Bhavan (Padma Vibhushan to Dharmendra Deol & Dr N. Rajam).",
         "**PM Modi's 31st Intl Honour**: Awarded Sweden's **Royal Order of the Polar Star** & FAO **Agricola Medal 2026** in Rome.",
-        "**Pulitzer Prize 2026**: Indian journalists Anand RK and Suparna Sharma win in Illustrated Reporting for 'trAPPed'."
+        "**Pulitzer Prize 2026**: Indian journalists Anand RK and Suparna Sharma win in Illustrated Reporting for 'trAPPed'.",
+        "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
       ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on global publishing body, India ranking/score movement, top-ranked country, and underlying evaluation indicators."
     }
   ],
   "metadata": {
@@ -37,6 +46,16 @@
       "sourceChecksum": "6239bf6b515837987ea9671a3bf7035f7f2d83bd0a03617cd5b3ecb6829a5f63",
       "migrationTimestamp": "2026-08-16T16:10:30.135Z",
       "normalizationRuleVersion": "1.0.0-may2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC7",
+    "sectionNumber": 7,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 82
   }
 }

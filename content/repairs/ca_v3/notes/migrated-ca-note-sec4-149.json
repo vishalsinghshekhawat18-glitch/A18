@@ -1,0 +1,77 @@
+{
+  "id": "migrated-ca-note-sec4-149",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Maharashtra Approves ₹45-Crore Eco-Nature Park with India's 1st AI Bird Monitoring Centre at Thane Creek",
+  "summary": "Integrates AI acoustic sensors and automated camera tracking into coastal Ramsar wetland conservation.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 Maharashtra Approves ₹45-Crore Eco-Nature Park with India's 1st AI Bird Monitoring Centre at Thane Creek. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Integrates AI acoustic sensors and automated camera tracking into coastal Ramsar wetland conservation.",
+        "Project Location: Thane Creek Flamingo Sanctuary shoreline (Bhandup Bird Park project, 20.09 hectares total, 0.35 hectares physical footprint).",
+        "Technology Footprint: Uses AI-based cameras and acoustic sensors across a 1.5-km stretch to track bird activity along the Central Asian Flyway.",
+        "Funding Allocation: ₹45 crore sanctioned from District Planning Committee special fund.",
+        "India's 1st dedicated flamingo sanctuary (Thane Creek, 2015) vs India's 101st Ramsar site (Glaw Lake, Arunachal Pradesh).",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Maharashtra Approves ₹45."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Maharashtra Approves ₹45."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 4,
+      "code": "SEC4",
+      "name": "NATIONAL, STATE & INTERNATIONAL NEWS",
+      "emoji": "🌐",
+      "fullName": "4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS"
+    },
+    "hook": "🪝 Maharashtra Approves ₹45-Crore Eco-Nature Park with India's 1st AI Bird Monitoring Centre at Thane Creek",
+    "examAngle": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Maharashtra Approves ₹45.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-08-01"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-01",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:07.934Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-149",
+      "sourceTitle": "Maharashtra Approves ₹45-Crore Eco-Nature Park with India's 1st AI Bird Monitoring Centre at Thane Creek",
+      "sourceChecksum": "25930eed878377f4fee7b4f53a414c03b58bd9d627148498c71bfd50c414a25e",
+      "migrationTimestamp": "2026-08-15T12:12:07.934Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

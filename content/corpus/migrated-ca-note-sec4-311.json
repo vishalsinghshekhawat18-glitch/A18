@@ -1,25 +1,26 @@
 {
   "id": "migrated-ca-note-sec4-311",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Uttar Pradesh Launches Digi Rover (GNSS) Centimetre-Accurate Land Measurement Campaign",
+  "type": "ca_note",
   "summary": "Deploys Global Navigation Satellite System (GNSS) rovers across all UP tehsils to resolve land disputes.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Deploys Global Navigation Satellite System (GNSS) rovers across all UP tehsils to resolve land disputes."
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 Uttar Pradesh Launches Digi Rover (GNSS) Centimetre-Accurate Land Measurement Campaign. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Deploys Global Navigation Satellite System (GNSS) rovers across all UP tehsils to resolve land disputes.",
         "Campaign Duration: Digi Rover-GNSS Special Land Measurement Campaign runs July 1 to August 15, 2026.",
-        "Technology: Uses GNSS satellite instruments for centimetre-level accurate land demarcation under DILRMP."
+        "Technology: Uses GNSS satellite instruments for centimetre-level accurate land demarcation under DILRMP.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Uttar Pradesh Launches Digi Rover (GNSS) Centimetre."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "DILRMP: Digital India Land Records Modernisation Programme."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Uttar Pradesh Launches Digi Rover (GNSS) Centimetre."
     }
   ],
   "metadata": {
@@ -44,6 +45,16 @@
       "sourceChecksum": "41032e1ec0782b93a781860a452204d7e1463a4c7112d0d0a3748530a9460ed4",
       "migrationTimestamp": "2026-08-15T12:16:15.973Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

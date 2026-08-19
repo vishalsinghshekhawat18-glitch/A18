@@ -1,0 +1,80 @@
+{
+  "id": "migrated-ca-note-sec4-165",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "PM Modi Dedicates ₹17,900 Crore Infrastructure Projects in Andhra Pradesh & Opens Alluri Sitarama Raju Airport",
+  "summary": "Inaugurates Greenfield PPP airport at Bhogapuram and lays foundation for AP's 1st semiconductor facility.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 PM Modi Dedicates ₹17,900 Crore Infrastructure Projects in Andhra Pradesh & Opens Alluri Sitarama Raju Airport. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Inaugurates Greenfield PPP airport at Bhogapuram and lays foundation for AP's 1st semiconductor facility.",
+        "Bhogapuram International Airport: Developed under PPP mode at ₹5,640 crore (capacity 6 million passengers annually).",
+        "Semiconductor Infrastructure: Foundation stone laid for Andhra Semiconductor and Innovation Park (ASIP) at Visakhapatnam (₹460 crore).",
+        "Heritage Landmark: Inaugurated 'Viveka Smaraka' at Sri Ramakrishna Ashrama in Mysuru, Karnataka.",
+        "🎯 Exam Angle → Focus on ₹1,27,500 Crore CCEA outlay, 50% fiscal support for silicon fabs, and India Semiconductor Mission (ISM) milestones."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on ₹1,27,500 Crore CCEA outlay, 50% fiscal support for silicon fabs, and India Semiconductor Mission (ISM) milestones."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 4,
+      "code": "SEC4",
+      "name": "NATIONAL, STATE & INTERNATIONAL NEWS",
+      "emoji": "🌐",
+      "fullName": "4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS"
+    },
+    "hook": "🪝 PM Modi Dedicates ₹17,900 Crore Infrastructure Projects in Andhra Pradesh & Opens Alluri Sitarama Raju Airport",
+    "examAngle": "🎯 Exam Angle → Focus on ₹1,27,500 Crore CCEA outlay, 50% fiscal support for silicon fabs, and India Semiconductor Mission (ISM) milestones.",
+    "interviewQ": {
+      "question": "Why is domestic semiconductor fabrication critical for India's strategic sovereignty?",
+      "modelAnswer": "Semiconductors underpin telecom, defence, AI, and automotive supply chains. Domestic fabrication eliminates single-source import dependencies."
+    },
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-08-03"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec4",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-03",
+    "category": "SEC4",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:12:37.959Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec4-165",
+      "sourceTitle": "PM Modi Dedicates ₹17,900 Crore Infrastructure Projects in Andhra Pradesh & Opens Alluri Sitarama Raju Airport",
+      "sourceChecksum": "0d5d646093159d6e4a512141ef2845b493e67f5f95fa98ffc889f60917aa9eed",
+      "migrationTimestamp": "2026-08-15T12:12:37.959Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

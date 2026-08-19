@@ -1,30 +1,27 @@
 {
   "id": "migrated-ca-note-sec1-9",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "HSBC India Composite PMI (July 2026): Manufacturing at 53.5 & Services at 53.3",
+  "type": "ca_note",
   "summary": "High-frequency survey indicator reflecting health of India's manufacturing and services output.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "High-frequency survey indicator reflecting health of India's manufacturing and services output."
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 HSBC India Composite PMI (July 2026): Manufacturing at 53.5 & Services at 53.3. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "High-frequency survey indicator reflecting health of India's manufacturing and services output.",
         "HSBC India Manufacturing PMI registered **53.5 in July 2026** (above 50 signals manufacturing expansion).",
-        "HSBC India Services PMI Business Activity Index stood at **53.3 in July 2026** (down from 57.4 in June)."
+        "HSBC India Services PMI Business Activity Index stood at **53.3 in July 2026** (down from 57.4 in June).",
+        "Manufacturing PMI (53.5) vs Services PMI (53.3, down from 57.4 in June).",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of HSBC India Composite PMI (July 2026)."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Purchasing Managers' Index (PMI) is compiled by S&P Global; PMI score > 50 indicates expansion, while < 50 indicates contraction."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "Manufacturing PMI (53.5) vs Services PMI (53.3, down from 57.4 in June)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of HSBC India Composite PMI (July 2026)."
     }
   ],
   "metadata": {
@@ -49,6 +46,16 @@
       "sourceChecksum": "02feee215384865dfd7828dfaa491af4ba52b1b741bf18359af3dcbf956d7d44",
       "migrationTimestamp": "2026-08-15T12:09:32.006Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

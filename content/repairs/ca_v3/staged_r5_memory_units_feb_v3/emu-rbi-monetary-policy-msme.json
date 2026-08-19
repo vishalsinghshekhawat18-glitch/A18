@@ -1,0 +1,42 @@
+{
+  "unitId": "emu-rbi-monetary-policy-msme",
+  "title": "🏛️ RBI Monetary Policy & MSME Credit Architecture — 5.25% Repo & ₹20L Collateral-Free Limit",
+  "category": "SEC2",
+  "tier": "TIER_A",
+  "theme": "Central Bank Policy Rates & MSME Priority Lending",
+  "leadArticleId": "cgb-art-25",
+  "constituentCount": 2,
+  "provenancePages": [
+    10,
+    18
+  ],
+  "provenanceArticleIds": [
+    "cgb-art-25",
+    "cgb-art-47"
+  ],
+  "mivScore": 80,
+  "executiveSummary": "RBI MPC announced one-time compensation up to 85% of amount lost or ₹25,000 for small digital fraud victims: banks bear 15%, customer 15%, RBI/DEA fund bears 70%.",
+  "masterKeyFacts": [
+    "RBI MPC announced one-time compensation up to 85% of amount lost or ₹25,000 for small digital fraud victims: banks bear 15%, customer 15%, RBI/DEA fund bears 70%.",
+    "Axis Bank launched collateral-free loans from ₹10 lakh to ₹2 crore (4-7 year tenure) for MSME rooftop solar adoption."
+  ],
+  "subEvents": [
+    {
+      "title": "RBI monetary policy: Small digital fraud victims to get up to ₹25K refund",
+      "page": 10,
+      "facts": [
+        "RBI MPC announced one-time compensation up to 85% of amount lost or ₹25,000 for small digital fraud victims: banks bear 15%, customer 15%, RBI/DEA fund bears 70%."
+      ]
+    },
+    {
+      "title": "Axis Bank launches Rooftop Solar Finance for MSMEs",
+      "page": 18,
+      "facts": [
+        "Axis Bank launched collateral-free loans from ₹10 lakh to ₹2 crore (4-7 year tenure) for MSME rooftop solar adoption."
+      ]
+    }
+  ],
+  "statutoryProvisions": [],
+  "examAngle": "🎯 Exam Angle → Focus on exact statutory limits, financial outlays, and regulatory frameworks.",
+  "whyStandaloneJustification": "Apex monetary policy rates and mandatory PSL collateral-free credit ceiling expansion from ₹10L to ₹20L."
+}

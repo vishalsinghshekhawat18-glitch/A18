@@ -1,13 +1,29 @@
 {
   "id": "migrated-ca-2026-03-sec2-5",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Govt Retains 4% Retail Inflation Target for 2026-2031 Cycle",
-  "summary": "Department of Economic Affairs retains 4% headline CPI target with +/-2% tolerance band (2-6% range) under Sec 45-ZA of RBI Act.",
+  "type": "ca_note",
+  "summary": "Department of Economic Affairs retains 4% headline CPI (consumer price index tracking retail inflation) target with +/-2% tolerance band (2-6% range) under Sec 45-ZA of RBI Act.",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 Govt Retains 4% Retail Inflation Target for 2026-2031 Cycle. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Government retained the **4% headline CPI (consumer price index tracking retail inflation) inflation target (±2% tolerance band)** for the 5-year period April 2026 – March 2031 under Section 45-ZA of the RBI Act, 1934.",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    {
       "type": "paragraph",
-      "content": "Government retained the **4% headline CPI inflation target (±2% tolerance band)** for the 5-year period April 2026 – March 2031 under Section 45-ZA of the RBI Act, 1934."
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -33,6 +49,16 @@
       "sourceChecksum": "5f92dd9cbec3880bbb7fb81b30a69837e84a34f5ccd1fe9462ce2698b2eab343",
       "migrationTimestamp": "2026-08-16T11:13:16.778Z",
       "normalizationRuleVersion": "1.0.0-mar2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
   }
 }

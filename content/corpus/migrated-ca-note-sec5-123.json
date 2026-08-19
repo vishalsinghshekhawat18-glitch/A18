@@ -1,41 +1,26 @@
 {
   "id": "migrated-ca-note-sec5-123",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Pawan Hans Partners with Norway's Noemi Aerospace for Electric Seaplanes",
+  "type": "ca_note",
   "summary": "Promotes green aviation and regional seaplane connectivity under UDAN framework.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Promotes green aviation and regional seaplane connectivity under UDAN framework."
+      "type": "warning_banner",
+      "title": "📰 5. 🤝 MoUs, CONFERENCES & APPOINTMENTS",
+      "text": "🪝 Pawan Hans Partners with Norway's Noemi Aerospace for Electric Seaplanes. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Promotes green aviation and regional seaplane connectivity under UDAN framework.",
         "State-owned helicopter operator Pawan Hans signed MoU with Norway's Noemi Aerospace to deploy electric seaplanes.",
-        "Aims to enhance regional coastal connectivity under UDAN scheme."
+        "Aims to enhance regional coastal connectivity under UDAN scheme.",
+        "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Appointee / Official",
-        "New Position & Organization",
-        "Key Context & Details"
-      ],
-      "rows": [
-        [
-          "Pawan Hans Partners with Norway's Noemi Aerospace for Electric Seaplanes",
-          "Official Appointment",
-          "State-owned helicopter operator Pawan Hans signed MoU with Norway's Noemi Aerospace to deploy electric seaplanes."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Noemi Aerospace (Elfly AS) HQ: Bergen, Norway | Pawan Hans HQ: Noida, UP (Ministry of Civil Aviation)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on bilateral partner country/institution, strategic MoU sector, financial commitment, and host summit venue."
     }
   ],
   "metadata": {
@@ -60,6 +45,16 @@
       "sourceChecksum": "0d244fcd6870cfb0f28f4144a25a17eca742a3053f63d1008839f93f466c4db7",
       "migrationTimestamp": "2026-08-15T12:11:38.420Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC5",
+    "sectionNumber": 5,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

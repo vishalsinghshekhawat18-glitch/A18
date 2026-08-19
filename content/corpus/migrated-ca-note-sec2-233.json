@@ -1,25 +1,13 @@
 {
   "id": "migrated-ca-note-sec2-233",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "GPF Interest Rate Maintained at 7.1% for Q2 FY27; EPF Interest at 8.25%",
+  "type": "ca_note_redirect",
+  "redirectTarget": "migrated-ca-2026-03-sec1-3",
   "summary": "GPF Interest Rate Maintained at 7.1% for Q2 FY27; EPF Interest at 8.25%",
   "blocks": [
     {
-      "type": "bullet_list",
-      "items": [
-        "GPF Rate: 7.10% annual interest for July–September 2026 quarter (EPF subscribers earn 8.25%)."
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "GPF applies strictly to eligible government employees."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "GPF interest rate (7.10%) vs EPF interest rate (8.25%)."
+      "type": "paragraph",
+      "content": "*Editorial Decision: Duplicate Redirect $\\rightarrow$ Canonical Master Note [EPFO Retains PF Interest Rate at 8.25% for FY26 (3rd Consecutive Year)](migrated-ca-2026-03-sec1-3).*"
     }
   ],
   "metadata": {
@@ -44,6 +32,15 @@
       "sourceChecksum": "ba0c35588150eab6e68f1f22f6f6603a95f8caddad012b377c9ed20ba79e3597",
       "migrationTimestamp": "2026-08-15T12:14:29.730Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "REDIRECT_DUPLICATE",
+    "isStudyMaterial": false,
+    "redirectTarget": "migrated-ca-2026-03-sec1-3"
   }
 }

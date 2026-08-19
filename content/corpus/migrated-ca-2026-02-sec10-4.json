@@ -1,13 +1,25 @@
 {
   "id": "migrated-ca-2026-02-sec10-4",
+  "title": "PM-SETU Scheme — ₹60,000 Cr ITI Modernisation & World Bank $830M Loan",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "Vibrant Villages Programme-II (VVP-II) Launched with ₹6,839 Crore Outlay",
-  "summary": "Amit Shah launches VVP-II covering border villages along Pakistan, Bangladesh, Nepal, Bhutan, and Myanmar across 15 states and 2 UTs.",
+  "summary": "World Bank approved $830 million loan (19.5-year maturity, 4-year grace) under CPF 2026-31 for PM-SETU ITI upgradation.",
   "blocks": [
     {
       "type": "paragraph",
-      "content": "Home Minister Amit Shah launched **VVP-II (outlay ₹6,839 Cr through FY29)** covering border villages along 5 non-China neighbor nations."
+      "content": "**Overview**: World Bank approved $830 million loan (19.5-year maturity, 4-year grace) under CPF 2026-31 for PM-SETU ITI upgradation."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**World Bank Approves $830 Million Loan for PM-SETU to Upgrade ITIs** (Page 17): World Bank approved $830 million loan (19.5-year maturity, 4-year grace) under CPF 2026-31 for PM-SETU ITI upgradation.",
+        "**National Centre of Excellence for Aeronautics & Defence Skilling at NSTI Kanpur** (Page 45): Centre with France announced CoE under PM-SETU (₹60,000 Cr outlay to upgrade 1,000 ITIs)."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "title": "🎯 Exam Focus & Pitfalls",
+      "content": "Pay close attention to statutory outlays, regulatory deadlines, and institutional authority under National Skilling Infrastructure & External Borrowing. Mega-scheme upgrading 1,000 ITIs funded by $830M World Bank loan."
     }
   ],
   "metadata": {
@@ -19,20 +31,35 @@
     "tags": [
       "sec10",
       "Current Affairs 2026",
-      "February 2026"
+      "February 2026",
+      "TIER_A"
     ],
     "date": "2026-02-15",
     "category": "SEC10",
-    "difficulty": "intermediate",
-    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "difficulty": "hard",
+    "lastUpdated": "2026-08-18T17:42:36.871Z",
     "provenance": {
       "sourceSystem": "CA",
       "sourceFile": "Feb2026.pdf",
-      "sourceId": "migrated-ca-2026-02-sec10-4",
-      "sourceTitle": "Vibrant Villages Programme-II (VVP-II) Launched with ₹6,839 Crore Outlay",
-      "sourceChecksum": "35c2502139636714a84c62fec9ecf0d5b63b71c750ada27fbb8e42e18d497e83",
-      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
-      "normalizationRuleVersion": "1.0.0-feb2026"
-    }
-  }
+      "sourceId": "emu-national-skilling-pm-setu",
+      "sourceTitle": "PM-SETU Scheme — ₹60,000 Cr ITI Modernisation & World Bank $830M Loan",
+      "provenancePages": [
+        17,
+        45
+      ],
+      "constituentArticleCount": 2,
+      "migrationTimestamp": "2026-08-18T17:42:36.871Z",
+      "normalizationRuleVersion": "5.5.0-r5-production"
+    },
+    "caFrameworkVersion": "v5.5.0-r5-production",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 95
+  },
+  "relationships": []
 }

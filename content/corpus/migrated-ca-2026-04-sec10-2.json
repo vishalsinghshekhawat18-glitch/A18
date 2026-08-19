@@ -1,20 +1,26 @@
 {
   "id": "migrated-ca-2026-04-sec10-2",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Parliament Passes 'Jan Vishwas (Amendment) Bill, 2026' Decriminalising 717 Provisions",
+  "type": "ca_note",
   "summary": "Jan Vishwas Bill 2026 amends 784 provisions across 79 Central Acts to boost Ease of Doing Business by replacing criminal penalties with civil fines.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Parliament passed the **Jan Vishwas (Amendment of Provisions) Bill, 2026**, decriminalising 717 minor civic/business provisions across 79 Central Acts (23 Ministries)."
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 Parliament Passes 'Jan Vishwas (Amendment) Bill, 2026' Decriminalising 717 Provisions. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Parliament passed the **Jan Vishwas (Amendment of Provisions) Bill, 2026**, decriminalising 717 minor civic/business provisions across 79 Central Acts (23 Ministries).",
         "**Key Acts Amended**: RBI Act 1934, Food Safety & Standards Act 2006, Motor Vehicles Act 1988.",
-        "**Approach**: Replaces criminal prosecution with civil penalties and warning-first principles."
+        "**Approach**: Replaces criminal prosecution with civil penalties and warning-first principles.",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
       ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
     }
   ],
   "metadata": {
@@ -29,7 +35,7 @@
       "April 2026"
     ],
     "date": "2026-04-15",
-    "category": "SEC10",
+    "category": "SEC6",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-16T11:56:36.842Z",
     "provenance": {
@@ -40,6 +46,16 @@
       "sourceChecksum": "dbe3b936836f8ae07214b9fc74583fee5be7d53381219bc36c84f32a96022787",
       "migrationTimestamp": "2026-08-16T11:56:36.842Z",
       "normalizationRuleVersion": "1.0.0-apr2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 82
   }
 }

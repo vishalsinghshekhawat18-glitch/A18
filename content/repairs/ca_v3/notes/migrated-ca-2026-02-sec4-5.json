@@ -1,0 +1,74 @@
+{
+  "id": "migrated-ca-2026-02-sec4-5",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Cabinet Approves Renaming Kerala to 'Keralam'",
+  "summary": "Union Cabinet clears 'Kerala (Alteration of Name) Bill 2026' under Article 3 of the Constitution.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 Cabinet Approves Renaming Kerala to 'Keralam'. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Union Cabinet approved the **Kerala (Alteration of Name) Bill, 2026** to rename the state to 'Keralam', amending the First Schedule under Article 3.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Cabinet Approves Renaming Kerala to 'Keralam'."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Cabinet Approves Renaming Kerala to 'Keralam'."
+    }
+  ],
+  "intelligence": {
+    "zone": "LIGHT_TOUCH",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 1,
+      "code": "SEC1",
+      "name": "ESI, FINANCE & BUSINESS NEWS",
+      "emoji": "💰",
+      "fullName": "1. 💰 ESI, FINANCE & BUSINESS NEWS"
+    },
+    "hook": "🪝 Cabinet Approves Renaming Kerala to 'Keralam'",
+    "examAngle": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Cabinet Approves Renaming Kerala to 'Keralam'.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-02-15"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026",
+      "February 2026"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "migrated-ca-2026-02-sec4-5",
+      "sourceTitle": "Cabinet Approves Renaming Kerala to 'Keralam'",
+      "sourceChecksum": "6abd91393f5bec8d4bf9b7c0a8abd813cf9773fbaf9f8bbb4e453c608e25977b",
+      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+      "normalizationRuleVersion": "1.0.0-feb2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "LIGHT_TOUCH",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

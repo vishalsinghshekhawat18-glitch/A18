@@ -1,0 +1,77 @@
+{
+  "id": "migrated-ca-note-sec1-376",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "PM-Vidyalaxmi Scheme Sanctions 1,12,817 Education Loans Worth ₹15,634 Crore",
+  "summary": "Provides 3% interest subvention for education loans up to ₹10 lakh (family income ≤ ₹8 lakh).",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 PM-Vidyalaxmi Scheme Sanctions 1,12,817 Education Loans Worth ₹15,634 Crore. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Provides 3% interest subvention for education loans up to ₹10 lakh (family income ≤ ₹8 lakh).",
+        "Sanctioned Loans: 1,12,817 collateral-free and guarantor-free loans worth ₹15,634 crore as of July 2026.",
+        "Interest Subvention: 3% interest subvention on loans up to ₹10 lakh for family income ≤ ₹8 lakh p.a.",
+        "PM-USP CGFSEL Guarantee: Department of Higher Education scheme issued 14.65 lakh guarantees worth ₹59,843.74 crore (75% default cover up to ₹7.5 lakh).",
+        "PM-Vidyalaxmi subvention loan cap (₹10 lakh) vs CGFSEL credit guarantee cap (₹7.5 lakh).",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 10,
+      "code": "SEC10",
+      "name": "MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "emoji": "📌",
+      "fullName": "10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC"
+    },
+    "hook": "🪝 PM-Vidyalaxmi Scheme Sanctions 1,12,817 Education Loans Worth ₹15,634 Crore",
+    "examAngle": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-07-06"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-07-06",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:18:04.451Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "note-sec1-376",
+      "sourceTitle": "PM-Vidyalaxmi Scheme Sanctions 1,12,817 Education Loans Worth ₹15,634 Crore",
+      "sourceChecksum": "696ad3cb412373dda088e2e288d2ffff31325f6117ff4cdeeb98f1a87deed13a",
+      "migrationTimestamp": "2026-08-15T12:18:04.451Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

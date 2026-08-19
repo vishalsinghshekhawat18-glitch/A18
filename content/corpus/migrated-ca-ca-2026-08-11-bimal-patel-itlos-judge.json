@@ -1,46 +1,27 @@
 {
   "id": "migrated-ca-ca-2026-08-11-bimal-patel-itlos-judge",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Bimal N Patel Appointed Judge of International Tribunal for Law of Sea (ITLOS)",
+  "type": "ca_note",
   "summary": "Dr. Bimal N Patel appointed Judge of ITLOS at Hamburg, Germany.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Dr. Bimal N Patel appointed Judge of ITLOS at Hamburg, Germany."
+      "type": "warning_banner",
+      "title": "📰 5. 🤝 MoUs, CONFERENCES & APPOINTMENTS",
+      "text": "🪝 Bimal N Patel Appointed Judge of International Tribunal for Law of Sea (ITLOS). Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Dr. Bimal N Patel appointed Judge of ITLOS at Hamburg, Germany.",
         "**Appointed Position:** Judge of the International Tribunal for the Law of the Sea (ITLOS).",
-        "**Headquarters:** ITLOS HQ located in **Hamburg, Germany**."
+        "**Headquarters:** ITLOS HQ located in **Hamburg, Germany**.",
+        "≠ **HQ Location:** Hamburg, Germany (NOT The Hague or Geneva).",
+        "🎯 Exam Angle → Focus on appointee name, nominating body (FSIB / ACC), predecessor, tenure duration, and statutory establishment year."
       ]
     },
     {
-      "type": "comparison",
-      "title": "Key Details & Regulatory Matrix",
-      "headers": [
-        "Appointee / Official",
-        "New Position & Organization",
-        "Key Context & Details"
-      ],
-      "rows": [
-        [
-          "Bimal N Patel",
-          "Judge of ITLOS",
-          "Appointed Judge of ITLOS (HQ: Hamburg, Germany)."
-        ]
-      ]
-    },
-    {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "ITLOS Established: UNCLOS 1982 convention. HQ: Hamburg, Germany."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "≠ **HQ Location:** Hamburg, Germany (NOT The Hague or Geneva)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on appointee name, nominating body (FSIB / ACC), predecessor, tenure duration, and statutory establishment year."
     }
   ],
   "metadata": {
@@ -65,6 +46,16 @@
       "sourceChecksum": "ce9f1a6edb5e2911789b6d1a8a2cdda2dbc72522160b11bf44aa84468d605554",
       "migrationTimestamp": "2026-08-15T12:19:51.523Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC5",
+    "sectionNumber": 5,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

@@ -1,20 +1,26 @@
 {
   "id": "migrated-ca-2026-04-sec10-5",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "MoEFCC Notifies 'Solid Waste Management (SWM) Rules, 2026' with 4-Bin Source Segregation",
+  "type": "ca_note",
   "summary": "SWM Rules 2026 mandates 4-stream color-coded waste segregation (Green, Blue, Red, Black) under Environment Protection Act 1986.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Ministry of Environment, Forest and Climate Change notified **Solid Waste Management Rules, 2026** (effective April 1, 2026, replacing 2016 rules), mandating 4-stream source segregation."
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 MoEFCC Notifies 'Solid Waste Management (SWM) Rules, 2026' with 4-Bin Source Segregation. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Ministry of Environment, Forest and Climate Change notified **Solid Waste Management Rules, 2026** (effective April 1, 2026, replacing 2016 rules), mandating 4-stream source segregation.",
         "**Color-Coded Bins**: Green Bin (Wet), Blue Bin (Dry), Red Bin (Sanitary), Black Bin (Special Care/Hazardous).",
-        "**Bulk Waste Generators**: Defined as entities generating >100 kg waste/day or floor area >20,000 sqm."
+        "**Bulk Waste Generators**: Defined as entities generating >100 kg waste/day or floor area >20,000 sqm.",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
       ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
     }
   ],
   "metadata": {
@@ -40,6 +46,16 @@
       "sourceChecksum": "f0c078cf8c7c36ffdf6bad9a4f911adee197ab00c539254bbae5e0ba77529205",
       "migrationTimestamp": "2026-08-16T11:56:36.842Z",
       "normalizationRuleVersion": "1.0.0-apr2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

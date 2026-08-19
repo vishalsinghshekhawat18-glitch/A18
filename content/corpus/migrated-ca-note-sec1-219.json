@@ -1,26 +1,26 @@
 {
   "id": "migrated-ca-note-sec1-219",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Customs Duty Exempted on Lithium-Ion Battery Machinery & Charger Parts till March 2029",
+  "type": "ca_note",
   "summary": "Customs Duty Exempted on Lithium-Ion Battery Machinery & Charger Parts till March 2029",
   "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 Customs Duty Exempted on Lithium-Ion Battery Machinery & Charger Parts till March 2029. Key development for Banking & General Awareness."
+    },
     {
       "type": "bullet_list",
       "items": [
         "Duty Exemptions: Customs duty exempted on automotive/medical display assembly parts, mobile wireless charging modules, and lithium-ion cell machinery till March 31, 2029.",
-        "Previous Duty Rates: Duties previously ranged from 7.5% to 15%."
+        "Previous Duty Rates: Duties previously ranged from 7.5% to 15%.",
+        "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall.",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Customs Duty Exempted on Lithium."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "CBIC works under Department of Revenue, Ministry of Finance."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "⚠️ **Regulatory Compliance Trap:** Ensure exact compliance dates, institutional ceilings, and penalty provisions are verified during recall."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of Customs Duty Exempted on Lithium."
     }
   ],
   "metadata": {
@@ -45,6 +45,16 @@
       "sourceChecksum": "b0a34493f78a2ae9eac3654ce7acd2242630626cb09581d8b69e0b9355ffbcfa",
       "migrationTimestamp": "2026-08-15T12:13:47.645Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

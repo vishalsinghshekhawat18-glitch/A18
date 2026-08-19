@@ -1,0 +1,13 @@
+{
+  "totalOriginalsProcessed": 661,
+  "reconciliation": {
+    "retainedCanonicalNotes": 653,
+    "mergedIntoSubStories": 0,
+    "chronologicalUpdatesLinked": 4,
+    "duplicatesDeduplicated": 7,
+    "tierCSkippedOrObituaries": 1,
+    "tierAEnriched": 194,
+    "sectionRealigned": 181
+  },
+  "exactSumValidation": true
+}

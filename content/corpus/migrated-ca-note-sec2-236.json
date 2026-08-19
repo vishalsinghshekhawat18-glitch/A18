@@ -1,31 +1,28 @@
 {
   "id": "migrated-ca-note-sec2-236",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Andhra Pradesh Ranks 2nd Nationally in MISHTI Mangrove Restoration",
+  "type": "ca_note",
   "summary": "Secures 2nd rank in mangrove plantation area under Shoreline Habitats initiative behind Gujarat.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Secures 2nd rank in mangrove plantation area under Shoreline Habitats initiative behind Gujarat."
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 Andhra Pradesh Ranks 2nd Nationally in MISHTI Mangrove Restoration. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Secures 2nd rank in mangrove plantation area under Shoreline Habitats initiative behind Gujarat.",
         "State Rankings: Gujarat ranks 1st in total plantation area; Andhra Pradesh 2nd.",
         "MISHTI Scheme: Launched June 5, 2023 for 540 sq. km. mangrove restoration across 9 states and 4 UTs.",
-        "National Cover: West Bengal holds 42.45% of national mangrove cover (Sundarbans)."
+        "National Cover: West Bengal holds 42.45% of national mangrove cover (Sundarbans).",
+        "1st rank mangrove plantation (Gujarat) vs largest national mangrove cover share (West Bengal, 42.45%).",
+        "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Sundarbans is the world's largest contiguous mangrove forest (UNESCO World Heritage Site)."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "1st rank mangrove plantation (Gujarat) vs largest national mangrove cover share (West Bengal, 42.45%)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on statutory circular guidelines, compliance deadlines, penal provisions, and applicability thresholds across scheduled banks."
     }
   ],
   "metadata": {
@@ -50,6 +47,16 @@
       "sourceChecksum": "7305220089bc843502ee84a73ae8db4756969ccb8402808d90a369fce06c7820",
       "migrationTimestamp": "2026-08-15T12:14:29.730Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

@@ -1,21 +1,27 @@
 {
   "id": "migrated-ca-2026-03-sec1-1",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "Cabinet Approves Changes to FDI Policy for Land-Bordering Countries (LBC) & PN3 Timeline",
+  "type": "ca_note",
   "summary": "Cabinet permits up to 10% non-controlling LBC beneficial ownership under automatic route and sets 60-day clearance timeline for critical sectors.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Union Cabinet approved a new **'Beneficial Owner' (BO) definition** under PMLA Rules 2003 for screening investment from Land-Bordering Countries (LBC) under Press Note 3 (PN3, April 2020)."
+      "type": "warning_banner",
+      "title": "📰 3. 🏦 BANKING & INSURANCE NEWS",
+      "text": "🪝 Cabinet Approves Changes to FDI Policy for Land-Bordering Countries (LBC) & PN3 Timeline. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Union Cabinet approved a new **'Beneficial Owner' (BO) definition** under PMLA Rules 2003 for screening investment from Land-Bordering Countries (LBC) under Press Note 3 (PN3, April 2020).",
         "**10% Automatic Threshold**: Non-controlling LBC beneficial ownership up to **10%** now permitted under the automatic route (per sectoral caps).",
         "**60-Day Clearance**: Expedited 60-day clearance timeline for LBC investment proposals in capital goods, electronic components, polysilicon, and ingot-wafer manufacturing.",
-        "**PN3 Background**: Press Note 3 (2020) mandates government-route approval for all investments from countries sharing land borders with India (enforced via FEMA Non-Debt Instruments Rules)."
+        "**PN3 Background**: Press Note 3 (2020) mandates government-route approval for all investments from countries sharing land borders with India (enforced via FEMA Non-Debt Instruments Rules).",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
       ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
     }
   ],
   "metadata": {
@@ -41,6 +47,16 @@
       "sourceChecksum": "8767202ea940bbd93e571903e6f92aa24305d2fc3b113335c28165bed154f5b1",
       "migrationTimestamp": "2026-08-16T11:13:16.778Z",
       "normalizationRuleVersion": "1.0.0-mar2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "LIGHT_TOUCH",
+    "sectionCode": "SEC3",
+    "sectionNumber": 3,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 88
   }
 }

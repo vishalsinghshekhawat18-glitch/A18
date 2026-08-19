@@ -1,0 +1,349 @@
+{
+  "version": "1.0.0-false-standalone-audit",
+  "timestamp": "2026-08-18T17:26:33.251Z",
+  "totalFalseStandaloneResolved": 38,
+  "cases": [
+    {
+      "storyId": "cgb-art-5",
+      "title": "Disinvestment Target Set at ₹80,000 Crore for FY27",
+      "candidateParent": "emu-union-budget-2026-27",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [💰 Union Budget 2026–27 — Fiscal Targets, Capex Push & Direct Tax Overhaul]"
+    },
+    {
+      "storyId": "cgb-art-114",
+      "title": "Output-Outcome Monitoring Framework (OOMF) by DMEO NITI Aayog",
+      "candidateParent": "emu-union-budget-2026-27",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [💰 Union Budget 2026–27 — Fiscal Targets, Capex Push & Direct Tax Overhaul]"
+    },
+    {
+      "storyId": "cgb-art-147",
+      "title": "Union Budget 2026-27 announces Khelo India Mission with ₹4,479.88 Crore outlay",
+      "candidateParent": "emu-union-budget-2026-27",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [💰 Union Budget 2026–27 — Fiscal Targets, Capex Push & Direct Tax Overhaul]"
+    },
+    {
+      "storyId": "cgb-art-186",
+      "title": "Union Budget announces Integrated East Coast Industrial Corridor (Durgapur node)",
+      "candidateParent": "emu-union-budget-2026-27",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [💰 Union Budget 2026–27 — Fiscal Targets, Capex Push & Direct Tax Overhaul]"
+    },
+    {
+      "storyId": "cgb-art-210",
+      "title": "Defence Ministry grants Miniratna-I status to YIL (Yantra India Limited)",
+      "candidateParent": "emu-union-budget-2026-27",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [💰 Union Budget 2026–27 — Fiscal Targets, Capex Push & Direct Tax Overhaul]"
+    },
+    {
+      "storyId": "cgb-art-60",
+      "title": "NPCI offers 'UPI One World' wallet to foreign visitors at AI Summit",
+      "candidateParent": "emu-india-ai-impact-summit-2026",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [🔬 India AI Impact Summit 2026 — Sovereign MANAV Vision, Frontier Commitments & BHASHINI Stack]"
+    },
+    {
+      "storyId": "cgb-art-62",
+      "title": "NPCI launches FiMI domain-specific language model for payments",
+      "candidateParent": "emu-india-ai-impact-summit-2026",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [🔬 India AI Impact Summit 2026 — Sovereign MANAV Vision, Frontier Commitments & BHASHINI Stack]"
+    },
+    {
+      "storyId": "cgb-art-66",
+      "title": "NPCI and Nvidia tie up for sovereign AI payment infrastructure",
+      "candidateParent": "emu-india-ai-impact-summit-2026",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [🔬 India AI Impact Summit 2026 — Sovereign MANAV Vision, Frontier Commitments & BHASHINI Stack]"
+    },
+    {
+      "storyId": "cgb-art-95",
+      "title": "Bharat GenAI text models across 22 scheduled languages led by IIT Bombay",
+      "candidateParent": "emu-india-ai-impact-summit-2026",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [🔬 India AI Impact Summit 2026 — Sovereign MANAV Vision, Frontier Commitments & BHASHINI Stack]"
+    },
+    {
+      "storyId": "cgb-art-113",
+      "title": "India AI Impact Summit 2026 held in New Delhi: Seven Chakras & 3 Sutras",
+      "candidateParent": "emu-india-ai-impact-summit-2026",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [🔬 India AI Impact Summit 2026 — Sovereign MANAV Vision, Frontier Commitments & BHASHINI Stack]"
+    },
+    {
+      "storyId": "cgb-art-132",
+      "title": "MeitY launches VoicERA open-source voice AI stack on BHASHINI",
+      "candidateParent": "emu-india-ai-impact-summit-2026",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [🔬 India AI Impact Summit 2026 — Sovereign MANAV Vision, Frontier Commitments & BHASHINI Stack]"
+    },
+    {
+      "storyId": "cgb-art-142",
+      "title": "India unveils 'New Delhi Frontier AI Commitments' at AI Summit",
+      "candidateParent": "emu-india-ai-impact-summit-2026",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [🔬 India AI Impact Summit 2026 — Sovereign MANAV Vision, Frontier Commitments & BHASHINI Stack]"
+    },
+    {
+      "storyId": "cgb-art-21",
+      "title": "SEBI eases SGF rules for commodity derivatives clearing houses",
+      "candidateParent": "emu-sebi-market-infrastructure-reforms",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [🏛️ SEBI Market Reforms — SWP/STP in Demat, AIF Exit Flexibility & ETF Price Bands]"
+    },
+    {
+      "storyId": "cgb-art-22",
+      "title": "SEBI proposes exit flexibility for Alternative Investment Funds (AIFs)",
+      "candidateParent": "emu-sebi-market-infrastructure-reforms",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [🏛️ SEBI Market Reforms — SWP/STP in Demat, AIF Exit Flexibility & ETF Price Bands]"
+    },
+    {
+      "storyId": "cgb-art-37",
+      "title": "SEBI floats proposal to revamp ETF price band framework",
+      "candidateParent": "emu-sebi-market-infrastructure-reforms",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [🏛️ SEBI Market Reforms — SWP/STP in Demat, AIF Exit Flexibility & ETF Price Bands]"
+    },
+    {
+      "storyId": "cgb-art-40",
+      "title": "SEBI Tightens AIF Disclosure Norms; Mandates ISIN-Level NAV Reporting",
+      "candidateParent": "emu-sebi-market-infrastructure-reforms",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [🏛️ SEBI Market Reforms — SWP/STP in Demat, AIF Exit Flexibility & ETF Price Bands]"
+    },
+    {
+      "storyId": "cgb-art-47",
+      "title": "Axis Bank launches Rooftop Solar Finance for MSMEs",
+      "candidateParent": "emu-rbi-monetary-policy-msme",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [🏛️ RBI Monetary Policy & MSME Credit Architecture — 5.25% Repo & ₹20L Collateral-Free Limit]"
+    },
+    {
+      "storyId": "cgb-art-36",
+      "title": "RBI mandates 100% collateral for stockbroker credit facilities",
+      "candidateParent": "emu-rbi-prudential-capital-markets",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [🏛️ RBI Prudential Intermediary Lending & Acquisition Financing Norms]"
+    },
+    {
+      "storyId": "cgb-art-139",
+      "title": "National Centre of Excellence for Aeronautics & Defence Skilling at NSTI Kanpur",
+      "candidateParent": "emu-national-skilling-pm-setu",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [📌 PM-SETU Scheme — ₹60,000 Cr ITI Modernisation & World Bank $830M Loan]"
+    },
+    {
+      "storyId": "cgb-art-53",
+      "title": "SBI overtakes TCS to become India's 4th Most Valuable Company",
+      "candidateParent": "emu-sbi-landmark-scale-milestones",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [🏦 State Bank of India — ₹10.9L Cr Market Cap (#4 in India) & $1B MUFG Social Loan]"
+    },
+    {
+      "storyId": "cgb-art-73",
+      "title": "SBI targets increasing green advances to 10% by 2030, launches CHAKRA",
+      "candidateParent": "emu-sbi-landmark-scale-milestones",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [🏦 State Bank of India — ₹10.9L Cr Market Cap (#4 in India) & $1B MUFG Social Loan]"
+    },
+    {
+      "storyId": "cgb-art-122",
+      "title": "Amit Shah launches e-Rupee PDS & 24x7 'Annapurti' grain ATM in Gujarat",
+      "candidateParent": "emu-digital-payments-cbdc-ecosystem",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [🏦 Digital Payments Architecture — CBDC PDS, UPI-RuPay Incentives & UPI Global Expansion]"
+    },
+    {
+      "storyId": "cgb-art-92",
+      "title": "DPIIT revises start-up definition: Deep-tech up to 20 years and ₹300 crore",
+      "candidateParent": "emu-anrf-rdi-deep-tech-funds",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [🔬 ANRF ₹1 Lakh Crore RDI Fund & Deep-Tech Innovation Framework]"
+    },
+    {
+      "storyId": "cgb-art-118",
+      "title": "BIRAC-RDI Fund for Biotechnology launched by Dr. Jitendra Singh",
+      "candidateParent": "emu-anrf-rdi-deep-tech-funds",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [🔬 ANRF ₹1 Lakh Crore RDI Fund & Deep-Tech Innovation Framework]"
+    },
+    {
+      "storyId": "cgb-art-215",
+      "title": "India successfully test-fires Agni-III missile from Chandipur Odisha",
+      "candidateParent": "emu-strategic-defence-indigenisation",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [🔬 Strategic Defence Milestones — Semiconductor ATMP Sanand, Agni-III & BEL-Safran HAMMER JV]"
+    },
+    {
+      "storyId": "cgb-art-218",
+      "title": "Indian Navy assumes command of Combined Task Force 154 (CTF 154) in Bahrain",
+      "candidateParent": "emu-strategic-defence-indigenisation",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [🔬 Strategic Defence Milestones — Semiconductor ATMP Sanand, Agni-III & BEL-Safran HAMMER JV]"
+    },
+    {
+      "storyId": "cgb-art-222",
+      "title": "BEL and Safran tie up to produce HAMMER precision-guided weapons in India",
+      "candidateParent": "emu-strategic-defence-indigenisation",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [🔬 Strategic Defence Milestones — Semiconductor ATMP Sanand, Agni-III & BEL-Safran HAMMER JV]"
+    },
+    {
+      "storyId": "cgb-art-235",
+      "title": "President Murmu flies sortie in LCH Prachand at Jaisalmer",
+      "candidateParent": "emu-strategic-defence-indigenisation",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [🔬 Strategic Defence Milestones — Semiconductor ATMP Sanand, Agni-III & BEL-Safran HAMMER JV]"
+    },
+    {
+      "storyId": "cgb-art-236",
+      "title": "DRDO conducts successful flight trials of VSHORADS missile at Chandipur",
+      "candidateParent": "emu-strategic-defence-indigenisation",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [🔬 Strategic Defence Milestones — Semiconductor ATMP Sanand, Agni-III & BEL-Safran HAMMER JV]"
+    },
+    {
+      "storyId": "cgb-art-205",
+      "title": "India joins US-led 'Pax Silica' tech supply chain coalition as 10th member",
+      "candidateParent": "emu-global-economic-treaties-pacts",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [🌐 Strategic Trade & Multilateral Pacts — India-GCC FTA ($178B), Pax Silica & France DTAC]"
+    },
+    {
+      "storyId": "cgb-art-238",
+      "title": "Corruption Perceptions Index 2025: India ranks 91st (score 39/100)",
+      "candidateParent": "emu-apex-global-indices-reports",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [🏆 Global Indices & National Reports — Network Readiness (45th), CPI (91st) & Henley Passport (75th)]"
+    },
+    {
+      "storyId": "cgb-art-239",
+      "title": "USGBC LEED Green Building List 2025: India ranks 2nd globally",
+      "candidateParent": "emu-apex-global-indices-reports",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [🏆 Global Indices & National Reports — Network Readiness (45th), CPI (91st) & Henley Passport (75th)]"
+    },
+    {
+      "storyId": "cgb-art-240",
+      "title": "Henley Passport Index February 2026: India ranks 75th (56 destinations)",
+      "candidateParent": "emu-apex-global-indices-reports",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [🏆 Global Indices & National Reports — Network Readiness (45th), CPI (91st) & Henley Passport (75th)]"
+    },
+    {
+      "storyId": "cgb-art-241",
+      "title": "FT Global MBA Rankings 2026: ISB ranks #12 globally, #1 in India",
+      "candidateParent": "emu-apex-global-indices-reports",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [🏆 Global Indices & National Reports — Network Readiness (45th), CPI (91st) & Henley Passport (75th)]"
+    },
+    {
+      "storyId": "cgb-art-282",
+      "title": "RCB wins 4th Women's Premier League (WPL 2026) title",
+      "candidateParent": "emu-landmark-sports-milestones",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [⚽ Historic Sporting Landmarks — India 6th U-19 World Cup Title & Alcaraz Career Slam]"
+    },
+    {
+      "storyId": "cgb-art-297",
+      "title": "CA Prasanna Kumar D elected 74th President of ICAI (2026-27)",
+      "candidateParent": "emu-apex-institutional-appointments",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [🤝 Apex Regulatory & Institutional Appointments — GIFT City, NITI Aayog & ICAI]"
+    },
+    {
+      "storyId": "cgb-art-300",
+      "title": "Nidhi Chhibber appointed Interim CEO of NITI Aayog",
+      "candidateParent": "emu-apex-institutional-appointments",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [🤝 Apex Regulatory & Institutional Appointments — GIFT City, NITI Aayog & ICAI]"
+    },
+    {
+      "storyId": "cgb-art-305",
+      "title": "First BRICS Sherpa Meeting begins in New Delhi under India's 2026 Chairship",
+      "candidateParent": "emu-apex-institutional-appointments",
+      "cohesionScore": 0.92,
+      "miv": 30,
+      "whyPreviousKeptSeparate": "Previously treated each headline as a separate memory object.",
+      "recommendedAction": "Attach under Master Unit [🤝 Apex Regulatory & Institutional Appointments — GIFT City, NITI Aayog & ICAI]"
+    }
+  ]
+}

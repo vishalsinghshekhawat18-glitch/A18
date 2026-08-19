@@ -1,0 +1,84 @@
+{
+  "id": "migrated-ca-ca-2026-08-10-paul-merchants-fema-ad2",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Paul Merchants Secures Perpetual RBI AD Category-II License Under FEMA Norms 2026",
+  "summary": "RBI granted Paul Merchants a perpetual Authorised Dealer Category-II (AD-II) license under FEMA Regulations 2026.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 2. 🏛️ REGULATORY BODIES NEWS",
+      "text": "🪝 Paul Merchants Secures Perpetual RBI AD Category-II License Under FEMA Norms 2026. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "RBI granted Paul Merchants a perpetual Authorised Dealer Category-II (AD-II) license under FEMA Regulations 2026.",
+        "**License Status:** Perpetual AD Category-II (AD-II) status granted under FEMA Regulations 2026.",
+        "**Permitted Scope:** Non-trade current account transactions (excluding gifts/donations) and foreign trade transactions up to **₹25 lakh per transaction**.",
+        "⚠️ **Transaction Cap:** Foreign trade remittance capped at ₹25 lakh per transaction under AD-II.",
+        "🎯 Exam Angle → Focus on Authorized Dealer Category-II (AD-II) perpetual license terms, permissible non-trade current account transactions, and FEMA 1999 Section 10."
+      ]
+    },
+    {
+      "type": "key_concept",
+      "title": "🏛️ Static GK & Institutional Context",
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on Authorized Dealer Category-II (AD-II) perpetual license terms, permissible non-trade current account transactions, and FEMA 1999 Section 10."
+    }
+  ],
+  "intelligence": {
+    "zone": "CORE",
+    "tier": "TIER_A",
+    "templateType": "TEMPLATE_A_RICH",
+    "section": {
+      "number": 2,
+      "code": "SEC2",
+      "name": "REGULATORY BODIES NEWS",
+      "emoji": "🏛️",
+      "fullName": "2. 🏛️ REGULATORY BODIES NEWS"
+    },
+    "hook": "🪝 Paul Merchants Secures Perpetual RBI AD Category-II License Under FEMA Norms 2026",
+    "examAngle": "🎯 Exam Angle → Focus on Authorized Dealer Category-II (AD-II) perpetual license terms, permissible non-trade current account transactions, and FEMA 1999 Section 10.",
+    "staticGK": {
+      "summary": "RBI Established: 1 April 1935 (RBI Act 1934) · HQ: Mumbai · Nationalized: 1949"
+    },
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-08-10"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026"
+    ],
+    "date": "2026-08-10",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-15T12:19:51.522Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "ca_app/data.js",
+      "sourceId": "ca_2026_08_10_paul_merchants_fema_ad2",
+      "sourceTitle": "Paul Merchants Secures Perpetual RBI AD Category-II License Under FEMA Norms 2026",
+      "sourceChecksum": "2ce41a9ac6058d78d793aac81e02e9981352c050017b748e27f046861d8ece97",
+      "migrationTimestamp": "2026-08-15T12:19:51.522Z",
+      "normalizationRuleVersion": "1.0.0-phase4"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_A",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC2",
+    "sectionNumber": 2,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

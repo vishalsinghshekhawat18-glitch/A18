@@ -1,0 +1,80 @@
+{
+  "id": "migrated-ca-2026-01-sec1-2",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Census 2027 — India's First Fully Digital, Caste-Enumerating Census",
+  "summary": "India's next Census will be its first fully digital census and the first since 1931 to conduct nationwide caste enumeration.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 1. 💰 ESI, FINANCE & BUSINESS NEWS",
+      "text": "🪝 Census 2027 — India's First Fully Digital, Caste-Enumerating Census. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "India's next Census will be its **16th official Census (8th since Independence)**, operating as the first fully digital census and first comprehensive caste enumeration since 1931.",
+        "**Phase I (Houselisting/Housing Census)**: 1 April 2026 – 30 September 2026; 33 questions on assets/housing with self-enumeration option 15 days prior.",
+        "**Phase II (Population Enumeration)**: Begins February 2027—this is when caste data is collected.",
+        "**Reference Date**: 12 a.m., 1 March 2027 (1 October 2026 for snow-bound J&K/HP/Uttarakhand/Ladakh).",
+        "**Legal Basis**: Article 246, Entry 69 of the Union List (Seventh Schedule); Census Act, 1948 under MHA (Registrar General & Census Commissioner).",
+        "**Impact**: Feeds directly into next delimitation of Lok Sabha/Assembly seats and 33% women's reservation.",
+        "Do not confuse Phase I dates (Apr–Sep 2026) with Phase II dates (Feb 2027). Caste enumeration occurs exclusively in Phase II.",
+        "🎯 Exam Angle → Focus on digital census methodology, caste enumeration inclusion, mobile self-enumeration portal, and nodal ministry (MHA)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on digital census methodology, caste enumeration inclusion, mobile self-enumeration portal, and nodal ministry (MHA)."
+    }
+  ],
+  "intelligence": {
+    "zone": "LIGHT_TOUCH",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 1,
+      "code": "SEC1",
+      "name": "ESI, FINANCE & BUSINESS NEWS",
+      "emoji": "💰",
+      "fullName": "1. 💰 ESI, FINANCE & BUSINESS NEWS"
+    },
+    "hook": "🪝 Census 2027 — India's First Fully Digital, Caste-Enumerating Census",
+    "examAngle": "🎯 Exam Angle → Focus on digital census methodology, caste enumeration inclusion, mobile self-enumeration portal, and nodal ministry (MHA).",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-01-26"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec1",
+      "Current Affairs 2026",
+      "January 2026"
+    ],
+    "date": "2026-01-26",
+    "category": "SEC1",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T08:37:54.408Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "January_26.pdf",
+      "sourceId": "migrated-ca-2026-01-sec1-2",
+      "sourceTitle": "Census 2027 — India's First Fully Digital, Caste-Enumerating Census",
+      "sourceChecksum": "8d178c31ce6e9ac0074ca761543a5bd63ac19c9402d960327e48353cc12d0c9e",
+      "migrationTimestamp": "2026-08-16T08:37:54.408Z",
+      "normalizationRuleVersion": "1.0.0-jan2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "LIGHT_TOUCH",
+    "sectionCode": "SEC1",
+    "sectionNumber": 1,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}

@@ -1,13 +1,24 @@
 {
   "id": "migrated-ca-2026-05-sec5-1",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "GalaxEye Launches 'Mission Drishti' — World's 1st OptoSAR Hybrid EO Satellite",
+  "type": "ca_note",
   "summary": "Bengaluru space startup GalaxEye launches 190kg Mission Drishti aboard SpaceX Falcon 9, combining optical and SAR sensors on one platform.",
   "blocks": [
     {
+      "type": "warning_banner",
+      "title": "📰 10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC",
+      "text": "🪝 GalaxEye Launches 'Mission Drishti' — World's 1st OptoSAR Hybrid EO Satellite. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Space startup GalaxEye launched **Mission Drishti** on a SpaceX Falcon 9 rocket, becoming the world's 1st satellite to integrate Electro-Optical (EO) and Synthetic Aperture Radar (SAR) sensors into a single 190kg platform.",
+        "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
+      ]
+    },
+    {
       "type": "paragraph",
-      "content": "Space startup GalaxEye launched **Mission Drishti** on a SpaceX Falcon 9 rocket, becoming the world's 1st satellite to integrate Electro-Optical (EO) and Synthetic Aperture Radar (SAR) sensors into a single 190kg platform."
+      "content": "🎯 Exam Angle → Focus on nodal central ministry, total financial outlay, funding split ratio, beneficiary eligibility, and target milestone year."
     }
   ],
   "metadata": {
@@ -22,7 +33,7 @@
       "May 2026"
     ],
     "date": "2026-05-15",
-    "category": "SEC5",
+    "category": "SEC1",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-16T16:10:30.135Z",
     "provenance": {
@@ -33,6 +44,16 @@
       "sourceChecksum": "0423806813911ab855398e441a2b478ef321273b857a056093cacc10a8fa544e",
       "migrationTimestamp": "2026-08-16T16:10:30.135Z",
       "normalizationRuleVersion": "1.0.0-may2026"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC10",
+    "sectionNumber": 10,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_A",
+    "studyUtilityScore": 92
   }
 }

@@ -1,13 +1,13 @@
 {
   "version": "1.0.0",
-  "generatedAt": "2026-08-18T13:39:09.138Z",
+  "generatedAt": "2026-08-18T14:31:56.705Z",
   "summary": {
     "totalItems": 1088,
-    "validCount": 919,
-    "supersededCount": 53,
-    "needsEnrichmentCount": 79,
-    "fragmentCount": 22,
-    "artifactCount": 8,
+    "validCount": 920,
+    "supersededCount": 56,
+    "needsEnrichmentCount": 104,
+    "fragmentCount": 1,
+    "artifactCount": 0,
     "thinCount": 7
   },
   "assessments": [
@@ -10576,14 +10576,20 @@
     {
       "itemId": "migrated-schemes-scheme-1",
       "domain": "schemes",
-      "title": "Credit guarantee scheme:",
-      "qualityStatus": "artifact",
+      "title": "[Index Page Reference] Credit guarantee scheme:",
+      "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
-        "Contains OCR headers, table of contents citations, or channel extraction noise."
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
       ],
-      "missingFields": [],
-      "recommendedAction": "discard-artifact"
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "targetBeneficiaries",
+        "launchYear",
+        "financialOutlay"
+      ],
+      "recommendedAction": "enrich"
     },
     {
       "itemId": "migrated-schemes-scheme-10",
@@ -10640,58 +10646,68 @@
     {
       "itemId": "migrated-schemes-scheme-103",
       "domain": "schemes",
-      "title": "Pre Matric (Class 9-10):",
-      "qualityStatus": "fragment",
+      "title": "[Sub-Component] Pre Matric (Class 9-10):",
+      "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
-        "Orphan sub-heading or section bullet point belonging to a parent flagship scheme."
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
       ],
-      "missingFields": [],
-      "parentId": "migrated-schemes-scheme-102",
-      "parentTitle": "PM YASASVI (PM Young Achievers Scholarship Award Scheme for Vibrant India)",
-      "recommendedAction": "merge"
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "targetBeneficiaries",
+        "launchYear"
+      ],
+      "recommendedAction": "enrich"
     },
     {
       "itemId": "migrated-schemes-scheme-104",
       "domain": "schemes",
-      "title": "Post Matric:",
-      "qualityStatus": "fragment",
+      "title": "[Sub-Component] Post Matric:",
+      "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
-        "Orphan sub-heading or section bullet point belonging to a parent flagship scheme."
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
       ],
-      "missingFields": [],
-      "parentId": "migrated-schemes-scheme-102",
-      "parentTitle": "PM YASASVI (PM Young Achievers Scholarship Award Scheme for Vibrant India)",
-      "recommendedAction": "merge"
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "targetBeneficiaries",
+        "launchYear"
+      ],
+      "recommendedAction": "enrich"
     },
     {
       "itemId": "migrated-schemes-scheme-105",
       "domain": "schemes",
-      "title": "Higher Education (Beyond Class 12):",
-      "qualityStatus": "fragment",
+      "title": "[Sub-Component] Higher Education (Beyond Class 12):",
+      "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
-        "Orphan sub-heading or section bullet point belonging to a parent flagship scheme."
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
       ],
-      "missingFields": [],
-      "parentId": "migrated-schemes-scheme-102",
-      "parentTitle": "PM YASASVI (PM Young Achievers Scholarship Award Scheme for Vibrant India)",
-      "recommendedAction": "merge"
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "targetBeneficiaries"
+      ],
+      "recommendedAction": "enrich"
     },
     {
       "itemId": "migrated-schemes-scheme-106",
       "domain": "schemes",
-      "title": "Merit Improvement (Class 9-12):",
-      "qualityStatus": "fragment",
+      "title": "[Sub-Component] Merit Improvement (Class 9-12):",
+      "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
-        "Orphan sub-heading or section bullet point belonging to a parent flagship scheme."
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
       ],
-      "missingFields": [],
-      "parentId": "migrated-schemes-scheme-102",
-      "parentTitle": "PM YASASVI (PM Young Achievers Scholarship Award Scheme for Vibrant India)",
-      "recommendedAction": "merge"
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "targetBeneficiaries"
+      ],
+      "recommendedAction": "enrich"
     },
     {
       "itemId": "migrated-schemes-scheme-107",
@@ -10794,7 +10810,7 @@
     {
       "itemId": "migrated-schemes-scheme-113",
       "domain": "schemes",
-      "title": "Atal Vayo Abhyudaya Yojana (AVYAY):",
+      "title": "Atal Vayo Abhyudaya Yojana (AVYAY)",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -10810,7 +10826,7 @@
     {
       "itemId": "migrated-schemes-scheme-114",
       "domain": "schemes",
-      "title": "Pradhan Mantri Jan Vikas Karyakram (PMJVK):",
+      "title": "Pradhan Mantri Jan Vikas Karyakram (PMJVK)",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -10826,7 +10842,7 @@
     {
       "itemId": "migrated-schemes-scheme-115",
       "domain": "schemes",
-      "title": "Vanbandhu Kalyan Yojana (VKY):",
+      "title": "Vanbandhu Kalyan Yojana (VKY)",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -10843,7 +10859,7 @@
     {
       "itemId": "migrated-schemes-scheme-116",
       "domain": "schemes",
-      "title": "PM-JANMAN Abhiyan (Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan):",
+      "title": "PM-JANMAN Abhiyan (Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan)",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -10857,7 +10873,7 @@
     {
       "itemId": "migrated-schemes-scheme-117",
       "domain": "schemes",
-      "title": "NPS Vatsalya Scheme (Budget 2024-25):",
+      "title": "NPS Vatsalya Scheme (Budget 2024-25)",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -10873,7 +10889,7 @@
     {
       "itemId": "migrated-schemes-scheme-118",
       "domain": "schemes",
-      "title": "Pradhan Mantri Vaya Vandana Yojana (PMVVY):",
+      "title": "Pradhan Mantri Vaya Vandana Yojana (PMVVY)",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -10920,16 +10936,19 @@
     {
       "itemId": "migrated-schemes-scheme-120",
       "domain": "schemes",
-      "title": "Nationwide",
-      "qualityStatus": "fragment",
+      "title": "[Sub-Component] Nationwide",
+      "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
-        "Orphan sub-heading or section bullet point belonging to a parent flagship scheme."
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
       ],
-      "missingFields": [],
-      "parentId": "migrated-schemes-scheme-119",
-      "parentTitle": "Beti Bachao Beti Padhao:",
-      "recommendedAction": "merge"
+      "missingFields": [
+        "nodalMinistry",
+        "targetBeneficiaries",
+        "launchYear",
+        "financialOutlay"
+      ],
+      "recommendedAction": "enrich"
     },
     {
       "itemId": "migrated-schemes-scheme-121",
@@ -10962,16 +10981,16 @@
     {
       "itemId": "migrated-schemes-scheme-123",
       "domain": "schemes",
-      "title": "Rs. 2000 for birth registration",
-      "qualityStatus": "fragment",
+      "title": "[Sub-Component] Rs. 2000 for birth registration",
+      "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
-        "Orphan sub-heading or section bullet point belonging to a parent flagship scheme."
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
       ],
-      "missingFields": [],
-      "parentId": "migrated-schemes-scheme-122",
-      "parentTitle": "Pradhan Mantri Matru Vandana Yojana (PMMVY):",
-      "recommendedAction": "merge"
+      "missingFields": [
+        "nodalMinistry"
+      ],
+      "recommendedAction": "enrich"
     },
     {
       "itemId": "migrated-schemes-scheme-124",
@@ -11046,7 +11065,7 @@
     {
       "itemId": "migrated-schemes-scheme-129",
       "domain": "schemes",
-      "title": "Janani Suraksha Yojnna:",
+      "title": "Janani Suraksha Yojnna",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -11060,16 +11079,19 @@
     {
       "itemId": "migrated-schemes-scheme-13",
       "domain": "schemes",
-      "title": "Launch & Approval:",
-      "qualityStatus": "fragment",
+      "title": "[Sub-Component] Launch & Approval:",
+      "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
-        "Orphan sub-heading or section bullet point belonging to a parent flagship scheme."
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
       ],
-      "missingFields": [],
-      "parentId": "migrated-schemes-scheme-12",
-      "parentTitle": "Solarization of Centers & Street Lights: 1,500 centers, ₹1 Lakh each",
-      "recommendedAction": "merge"
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "targetBeneficiaries",
+        "financialOutlay"
+      ],
+      "recommendedAction": "enrich"
     },
     {
       "itemId": "migrated-schemes-scheme-130",
@@ -11102,35 +11124,42 @@
     {
       "itemId": "migrated-schemes-scheme-132",
       "domain": "schemes",
-      "title": "Samarthya (Support for women’s well-being):",
-      "qualityStatus": "fragment",
+      "title": "[Sub-Component] Samarthya (Support for women’s well-being):",
+      "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
-        "Orphan sub-heading or section bullet point belonging to a parent flagship scheme."
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
       ],
-      "missingFields": [],
-      "parentId": "migrated-schemes-scheme-131",
-      "parentTitle": "Mission Shakti (2021-2026):",
-      "recommendedAction": "merge"
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "targetBeneficiaries",
+        "launchYear",
+        "financialOutlay"
+      ],
+      "recommendedAction": "enrich"
     },
     {
       "itemId": "migrated-schemes-scheme-133",
       "domain": "schemes",
-      "title": "Sambal (Safety and justice for women):",
-      "qualityStatus": "fragment",
+      "title": "[Sub-Component] Sambal (Safety and justice for women):",
+      "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
-        "Orphan sub-heading or section bullet point belonging to a parent flagship scheme."
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
       ],
-      "missingFields": [],
-      "parentId": "migrated-schemes-scheme-131",
-      "parentTitle": "Mission Shakti (2021-2026):",
-      "recommendedAction": "merge"
+      "missingFields": [
+        "nodalMinistry",
+        "targetBeneficiaries",
+        "launchYear",
+        "financialOutlay"
+      ],
+      "recommendedAction": "enrich"
     },
     {
       "itemId": "migrated-schemes-scheme-134",
       "domain": "schemes",
-      "title": "Suposhit Maa Abhiyan:",
+      "title": "Suposhit Maa Abhiyan",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -11174,7 +11203,7 @@
     {
       "itemId": "migrated-schemes-scheme-137",
       "domain": "schemes",
-      "title": "Prime Minister's PVTG Development Mission:",
+      "title": "Prime Minister's PVTG Development Mission",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -11217,21 +11246,24 @@
     {
       "itemId": "migrated-schemes-scheme-14",
       "domain": "schemes",
-      "title": "Key Objectives:",
-      "qualityStatus": "fragment",
+      "title": "[Sub-Component] Key Objectives:",
+      "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
-        "Orphan sub-heading or section bullet point belonging to a parent flagship scheme."
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
       ],
-      "missingFields": [],
-      "parentId": "migrated-schemes-scheme-12",
-      "parentTitle": "Solarization of Centers & Street Lights: 1,500 centers, ₹1 Lakh each",
-      "recommendedAction": "merge"
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "targetBeneficiaries",
+        "launchYear"
+      ],
+      "recommendedAction": "enrich"
     },
     {
       "itemId": "migrated-schemes-scheme-140",
       "domain": "schemes",
-      "title": "Sickle Cell Anemia Eradication Mission (Budget 2023-24):",
+      "title": "Sickle Cell Anemia Eradication Mission (Budget 2023-24)",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -11274,7 +11306,7 @@
     {
       "itemId": "migrated-schemes-scheme-143",
       "domain": "schemes",
-      "title": "Antyodaya Shramik Suraksha Yojana:",
+      "title": "Antyodaya Shramik Suraksha Yojana",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -11290,7 +11322,7 @@
     {
       "itemId": "migrated-schemes-scheme-144",
       "domain": "schemes",
-      "title": "Pradhan Mantri Matsya Kisan Samridhi Sah-Yojana (PM-MKSSY):",
+      "title": "Pradhan Mantri Matsya Kisan Samridhi Sah-Yojana (PM-MKSSY)",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -11305,7 +11337,7 @@
     {
       "itemId": "migrated-schemes-scheme-145",
       "domain": "schemes",
-      "title": "Aatmanirbhar Bharat Rojgar Yojana (ABRY):",
+      "title": "Aatmanirbhar Bharat Rojgar Yojana (ABRY)",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -11320,7 +11352,7 @@
     {
       "itemId": "migrated-schemes-scheme-146",
       "domain": "schemes",
-      "title": "Aatmanirbhar Bharat Rojgar Yojana (ABRY):",
+      "title": "Aatmanirbhar Bharat Rojgar Yojana (ABRY)",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -11377,7 +11409,7 @@
     {
       "itemId": "migrated-schemes-scheme-15",
       "domain": "schemes",
-      "title": "Financials:",
+      "title": "Financials",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -11422,7 +11454,7 @@
     {
       "itemId": "migrated-schemes-scheme-152",
       "domain": "schemes",
-      "title": "Shree Anna Yojana:",
+      "title": "Shree Anna Yojana",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -11438,7 +11470,7 @@
     {
       "itemId": "migrated-schemes-scheme-153",
       "domain": "schemes",
-      "title": "BHARAT SHRI Scheme :",
+      "title": "BHARAT SHRI Scheme",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -11455,7 +11487,7 @@
     {
       "itemId": "migrated-schemes-scheme-154",
       "domain": "schemes",
-      "title": "MISHTI Scheme:",
+      "title": "MISHTI Scheme",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -11484,16 +11516,20 @@
     {
       "itemId": "migrated-schemes-scheme-156",
       "domain": "schemes",
-      "title": "Legal Ownership: Property cards to enable financial empowerment and dispute resolution.",
-      "qualityStatus": "fragment",
+      "title": "[Sub-Component] Legal Ownership: Property cards to enable financial empowerment and dispute resolution.",
+      "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
-        "Orphan sub-heading or section bullet point belonging to a parent flagship scheme."
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
       ],
-      "missingFields": [],
-      "parentId": "migrated-schemes-scheme-155",
-      "parentTitle": "SVAMITVA Scheme:",
-      "recommendedAction": "merge"
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "targetBeneficiaries",
+        "launchYear",
+        "financialOutlay"
+      ],
+      "recommendedAction": "enrich"
     },
     {
       "itemId": "migrated-schemes-scheme-157",
@@ -11512,16 +11548,19 @@
     {
       "itemId": "migrated-schemes-scheme-158",
       "domain": "schemes",
-      "title": "Energy: 24% (Power Generation, Renewable Energy)",
-      "qualityStatus": "fragment",
+      "title": "[Sub-Component] Energy: 24% (Power Generation, Renewable Energy)",
+      "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
-        "Orphan sub-heading or section bullet point belonging to a parent flagship scheme."
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
       ],
-      "missingFields": [],
-      "parentId": "migrated-schemes-scheme-157",
-      "parentTitle": "National Infrastructure Pipeline (NIP):",
-      "recommendedAction": "merge"
+      "missingFields": [
+        "nodalMinistry",
+        "targetBeneficiaries",
+        "launchYear",
+        "financialOutlay"
+      ],
+      "recommendedAction": "enrich"
     },
     {
       "itemId": "migrated-schemes-scheme-159",
@@ -11540,7 +11579,7 @@
     {
       "itemId": "migrated-schemes-scheme-16",
       "domain": "schemes",
-      "title": "Subsidy Structure for Solar Plant Installation:",
+      "title": "Subsidy Structure for Solar Plant Installation",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -11558,21 +11597,23 @@
     {
       "itemId": "migrated-schemes-scheme-160",
       "domain": "schemes",
-      "title": "Electricity (15%)",
-      "qualityStatus": "fragment",
+      "title": "[Sub-Component] Electricity (15%)",
+      "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
-        "Orphan sub-heading or section bullet point belonging to a parent flagship scheme."
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
       ],
-      "missingFields": [],
-      "parentId": "migrated-schemes-scheme-159",
-      "parentTitle": "National Monetization Pipeline (NMP):",
-      "recommendedAction": "merge"
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "launchYear"
+      ],
+      "recommendedAction": "enrich"
     },
     {
       "itemId": "migrated-schemes-scheme-161",
       "domain": "schemes",
-      "title": "Rashtriya Gram Swaraj Abhiyan (RGSA):",
+      "title": "Rashtriya Gram Swaraj Abhiyan (RGSA)",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -11586,7 +11627,7 @@
     {
       "itemId": "migrated-schemes-scheme-162",
       "domain": "schemes",
-      "title": "Mission Karmayogi:",
+      "title": "Mission Karmayogi",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -11616,33 +11657,43 @@
     {
       "itemId": "migrated-schemes-scheme-164",
       "domain": "schemes",
-      "title": "Infrastructure: Roads, housing, electricity, telecom.",
-      "qualityStatus": "artifact",
+      "title": "[Sub-Component] Infrastructure: Roads, housing, electricity, telecom.",
+      "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
-        "Contains OCR headers, table of contents citations, or channel extraction noise."
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
       ],
-      "missingFields": [],
-      "recommendedAction": "discard-artifact"
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "targetBeneficiaries",
+        "launchYear",
+        "financialOutlay"
+      ],
+      "recommendedAction": "enrich"
     },
     {
       "itemId": "migrated-schemes-scheme-165",
       "domain": "schemes",
-      "title": "Economic Growth: Tourism, skill development, cultural promotion.",
-      "qualityStatus": "fragment",
+      "title": "[Sub-Component] Economic Growth: Tourism, skill development, cultural promotion.",
+      "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
-        "Orphan sub-heading or section bullet point belonging to a parent flagship scheme."
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
       ],
-      "missingFields": [],
-      "parentId": "migrated-schemes-scheme-163",
-      "parentTitle": "Vibrant Village Program (VVP):",
-      "recommendedAction": "merge"
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "targetBeneficiaries",
+        "launchYear",
+        "financialOutlay"
+      ],
+      "recommendedAction": "enrich"
     },
     {
       "itemId": "migrated-schemes-scheme-166",
       "domain": "schemes",
-      "title": "ADITI Scheme (2023-26):",
+      "title": "ADITI Scheme (2023-26)",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -11657,7 +11708,7 @@
     {
       "itemId": "migrated-schemes-scheme-167",
       "domain": "schemes",
-      "title": "PM-DevINE Scheme:",
+      "title": "PM-DevINE Scheme",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -11671,7 +11722,7 @@
     {
       "itemId": "migrated-schemes-scheme-168",
       "domain": "schemes",
-      "title": "PM E-Bus Scheme:",
+      "title": "PM E-Bus Scheme",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -11685,7 +11736,7 @@
     {
       "itemId": "migrated-schemes-scheme-169",
       "domain": "schemes",
-      "title": "PM - E-DRIVE Scheme:",
+      "title": "PM - E-DRIVE Scheme",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -11700,16 +11751,20 @@
     {
       "itemId": "migrated-schemes-scheme-17",
       "domain": "schemes",
-      "title": "Special Focus:",
-      "qualityStatus": "fragment",
+      "title": "[Sub-Component] Special Focus:",
+      "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
-        "Orphan sub-heading or section bullet point belonging to a parent flagship scheme."
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
       ],
-      "missingFields": [],
-      "parentId": "migrated-schemes-scheme-16",
-      "parentTitle": "Subsidy Structure for Solar Plant Installation:",
-      "recommendedAction": "merge"
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "targetBeneficiaries",
+        "launchYear",
+        "financialOutlay"
+      ],
+      "recommendedAction": "enrich"
     },
     {
       "itemId": "migrated-schemes-scheme-170",
@@ -11728,19 +11783,21 @@
     {
       "itemId": "migrated-schemes-scheme-171",
       "domain": "schemes",
-      "title": "PMUY II (2021, Mahoba, UP)",
-      "qualityStatus": "artifact",
+      "title": "[Sub-Component] PMUY II (2021, Mahoba, UP)",
+      "qualityStatus": "superseded",
       "confidence": "high",
       "reasons": [
-        "Contains OCR headers, table of contents citations, or channel extraction noise."
+        "Fully represented with funding patterns and trap analysis in masterfile under \"PM Ujjwala Yojana (PMUY)\"."
       ],
       "missingFields": [],
-      "recommendedAction": "discard-artifact"
+      "supersededBy": "migrated-schemes-masterfile",
+      "supersededTarget": "PM Ujjwala Yojana (PMUY)",
+      "recommendedAction": "supersede"
     },
     {
       "itemId": "migrated-schemes-scheme-18",
       "domain": "schemes",
-      "title": "PM-SURAJ Portal:",
+      "title": "PM-SURAJ Portal",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -11755,7 +11812,7 @@
     {
       "itemId": "migrated-schemes-scheme-19",
       "domain": "schemes",
-      "title": "UNNATI Scheme:",
+      "title": "UNNATI Scheme",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -11770,19 +11827,21 @@
     {
       "itemId": "migrated-schemes-scheme-2",
       "domain": "schemes",
-      "title": "Atal Pension Yojana (APY):",
-      "qualityStatus": "artifact",
+      "title": "[Index Page Reference] Atal Pension Yojana (APY):",
+      "qualityStatus": "superseded",
       "confidence": "high",
       "reasons": [
-        "Contains OCR headers, table of contents citations, or channel extraction noise."
+        "Fully represented with funding patterns and trap analysis in masterfile under \"APY\"."
       ],
       "missingFields": [],
-      "recommendedAction": "discard-artifact"
+      "supersededBy": "migrated-schemes-masterfile",
+      "supersededTarget": "APY",
+      "recommendedAction": "supersede"
     },
     {
       "itemId": "migrated-schemes-scheme-20",
       "domain": "schemes",
-      "title": "Vigyan Dhara Scheme:",
+      "title": "Vigyan Dhara Scheme",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -11797,7 +11856,7 @@
     {
       "itemId": "migrated-schemes-scheme-21",
       "domain": "schemes",
-      "title": "SPICED Scheme:",
+      "title": "SPICED Scheme",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -11829,7 +11888,7 @@
     {
       "itemId": "migrated-schemes-scheme-23",
       "domain": "schemes",
-      "title": "RESET Program:",
+      "title": "RESET Program",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -11843,7 +11902,7 @@
     {
       "itemId": "migrated-schemes-scheme-24",
       "domain": "schemes",
-      "title": "Deen Dayal SPARSH Yojana:",
+      "title": "Deen Dayal SPARSH Yojana",
       "qualityStatus": "valid",
       "confidence": "high",
       "reasons": [
@@ -11855,7 +11914,7 @@
     {
       "itemId": "migrated-schemes-scheme-25",
       "domain": "schemes",
-      "title": "Unified Pension Scheme (UPS) :",
+      "title": "Unified Pension Scheme (UPS)",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -11870,7 +11929,7 @@
     {
       "itemId": "migrated-schemes-scheme-26",
       "domain": "schemes",
-      "title": "Pradhan Mantri Janjatiya Unnat Gram Abhiyan (PM-JUGA):",
+      "title": "Pradhan Mantri Janjatiya Unnat Gram Abhiyan (PM-JUGA)",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -11886,44 +11945,56 @@
     {
       "itemId": "migrated-schemes-scheme-27",
       "domain": "schemes",
-      "title": "Infrastructure Development:",
-      "qualityStatus": "fragment",
+      "title": "[Sub-Component] Infrastructure Development:",
+      "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
-        "Orphan sub-heading or section bullet point belonging to a parent flagship scheme."
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
       ],
-      "missingFields": [],
-      "parentId": "migrated-schemes-scheme-26",
-      "parentTitle": "Pradhan Mantri Janjatiya Unnat Gram Abhiyan (PM-JUGA):",
-      "recommendedAction": "merge"
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "targetBeneficiaries",
+        "launchYear",
+        "financialOutlay"
+      ],
+      "recommendedAction": "enrich"
     },
     {
       "itemId": "migrated-schemes-scheme-28",
       "domain": "schemes",
-      "title": "Economic Empowerment:",
-      "qualityStatus": "fragment",
+      "title": "[Sub-Component] Economic Empowerment:",
+      "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
-        "Orphan sub-heading or section bullet point belonging to a parent flagship scheme."
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
       ],
-      "missingFields": [],
-      "parentId": "migrated-schemes-scheme-26",
-      "parentTitle": "Pradhan Mantri Janjatiya Unnat Gram Abhiyan (PM-JUGA):",
-      "recommendedAction": "merge"
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "targetBeneficiaries",
+        "launchYear",
+        "financialOutlay"
+      ],
+      "recommendedAction": "enrich"
     },
     {
       "itemId": "migrated-schemes-scheme-29",
       "domain": "schemes",
-      "title": "Education:",
-      "qualityStatus": "fragment",
+      "title": "[Sub-Component] Education:",
+      "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
-        "Orphan sub-heading or section bullet point belonging to a parent flagship scheme."
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
       ],
-      "missingFields": [],
-      "parentId": "migrated-schemes-scheme-26",
-      "parentTitle": "Pradhan Mantri Janjatiya Unnat Gram Abhiyan (PM-JUGA):",
-      "recommendedAction": "merge"
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "targetBeneficiaries",
+        "launchYear",
+        "financialOutlay"
+      ],
+      "recommendedAction": "enrich"
     },
     {
       "itemId": "migrated-schemes-scheme-3",
@@ -11942,7 +12013,7 @@
     {
       "itemId": "migrated-schemes-scheme-30",
       "domain": "schemes",
-      "title": "Health & Nutrition:",
+      "title": "Health & Nutrition",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -11958,7 +12029,7 @@
     {
       "itemId": "migrated-schemes-scheme-31",
       "domain": "schemes",
-      "title": "Purvodaya:",
+      "title": "Purvodaya",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -11975,7 +12046,7 @@
     {
       "itemId": "migrated-schemes-scheme-32",
       "domain": "schemes",
-      "title": "Higher Education Loan Scheme:",
+      "title": "Higher Education Loan Scheme",
       "qualityStatus": "fragment",
       "confidence": "high",
       "reasons": [
@@ -11983,13 +12054,13 @@
       ],
       "missingFields": [],
       "parentId": "migrated-schemes-scheme-31",
-      "parentTitle": "Purvodaya:",
+      "parentTitle": "Purvodaya",
       "recommendedAction": "merge"
     },
     {
       "itemId": "migrated-schemes-scheme-33",
       "domain": "schemes",
-      "title": "Prime Minister’s Package:",
+      "title": "Prime Minister’s Package",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -12018,7 +12089,7 @@
     {
       "itemId": "migrated-schemes-scheme-35",
       "domain": "schemes",
-      "title": "Credit guarantee scheme:",
+      "title": "Credit guarantee scheme",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -12090,19 +12161,25 @@
     {
       "itemId": "migrated-schemes-scheme-4",
       "domain": "schemes",
-      "title": "PAiSA Portal:",
-      "qualityStatus": "artifact",
+      "title": "[Index Page Reference] PAiSA Portal:",
+      "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
-        "Contains OCR headers, table of contents citations, or channel extraction noise."
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
       ],
-      "missingFields": [],
-      "recommendedAction": "discard-artifact"
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "targetBeneficiaries",
+        "launchYear",
+        "financialOutlay"
+      ],
+      "recommendedAction": "enrich"
     },
     {
       "itemId": "migrated-schemes-scheme-40",
       "domain": "schemes",
-      "title": "Pradhan Mantri Kisan Maandhan Yojana (PMKMY):",
+      "title": "Pradhan Mantri Kisan Maandhan Yojana (PMKMY)",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -12130,7 +12207,7 @@
     {
       "itemId": "migrated-schemes-scheme-42",
       "domain": "schemes",
-      "title": "Operation Green:",
+      "title": "Operation Green",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -12219,7 +12296,7 @@
     {
       "itemId": "migrated-schemes-scheme-48",
       "domain": "schemes",
-      "title": "Agriculture Infrastructure Fund (AIF):",
+      "title": "Agriculture Infrastructure Fund (AIF)",
       "qualityStatus": "valid",
       "confidence": "high",
       "reasons": [
@@ -12231,7 +12308,7 @@
     {
       "itemId": "migrated-schemes-scheme-49",
       "domain": "schemes",
-      "title": "Nano Fertilizers: Revolutionizing Agriculture:",
+      "title": "Nano Fertilizers: Revolutionizing Agriculture",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -12247,7 +12324,7 @@
     {
       "itemId": "migrated-schemes-scheme-5",
       "domain": "schemes",
-      "title": "Pradhan Mantri Vaya Vandana Yojana (PMVVY):",
+      "title": "[Index Page Reference] Pradhan Mantri Vaya Vandana Yojana (PMVVY):",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -12279,7 +12356,7 @@
     {
       "itemId": "migrated-schemes-scheme-51",
       "domain": "schemes",
-      "title": "Atal Bhujal Yojana (ABY):",
+      "title": "Atal Bhujal Yojana (ABY)",
       "qualityStatus": "valid",
       "confidence": "high",
       "reasons": [
@@ -12291,7 +12368,7 @@
     {
       "itemId": "migrated-schemes-scheme-52",
       "domain": "schemes",
-      "title": "Mission Amrit Sarovar:",
+      "title": "Mission Amrit Sarovar",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -12306,7 +12383,7 @@
     {
       "itemId": "migrated-schemes-scheme-53",
       "domain": "schemes",
-      "title": "The Green Hydrogen Mission:",
+      "title": "The Green Hydrogen Mission",
       "qualityStatus": "valid",
       "confidence": "high",
       "reasons": [
@@ -12318,7 +12395,7 @@
     {
       "itemId": "migrated-schemes-scheme-54",
       "domain": "schemes",
-      "title": "MAHIR: Mission on Advanced and High-Impact Research:",
+      "title": "MAHIR: Mission on Advanced and High-Impact Research",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -12334,7 +12411,7 @@
     {
       "itemId": "migrated-schemes-scheme-55",
       "domain": "schemes",
-      "title": "Pradhan Mantri Sahaj Bijli Har Ghar Yojana – Saubhagya (2017):",
+      "title": "Pradhan Mantri Sahaj Bijli Har Ghar Yojana – Saubhagya (2017)",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -12407,14 +12484,20 @@
     {
       "itemId": "migrated-schemes-scheme-6",
       "domain": "schemes",
-      "title": "Sickle Cell Anemia Eradication Mission (Budget 2023-24):",
-      "qualityStatus": "artifact",
+      "title": "[Index Page Reference] Sickle Cell Anemia Eradication Mission (Budget 2023-24):",
+      "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
-        "Contains OCR headers, table of contents citations, or channel extraction noise."
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
       ],
-      "missingFields": [],
-      "recommendedAction": "discard-artifact"
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "targetBeneficiaries",
+        "launchYear",
+        "financialOutlay"
+      ],
+      "recommendedAction": "enrich"
     },
     {
       "itemId": "migrated-schemes-scheme-60",
@@ -12447,7 +12530,7 @@
     {
       "itemId": "migrated-schemes-scheme-62",
       "domain": "schemes",
-      "title": "MSME Competitive LEAN Scheme:",
+      "title": "MSME Competitive LEAN Scheme",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -12461,7 +12544,7 @@
     {
       "itemId": "migrated-schemes-scheme-63",
       "domain": "schemes",
-      "title": "RAMP Scheme (Raising and Accelerating MSME Performance):",
+      "title": "RAMP Scheme (Raising and Accelerating MSME Performance)",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -12476,7 +12559,7 @@
     {
       "itemId": "migrated-schemes-scheme-64",
       "domain": "schemes",
-      "title": "MSME Portal:",
+      "title": "MSME Portal",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -12492,7 +12575,7 @@
     {
       "itemId": "migrated-schemes-scheme-65",
       "domain": "schemes",
-      "title": "Startup India Initiative:",
+      "title": "Startup India Initiative",
       "qualityStatus": "valid",
       "confidence": "high",
       "reasons": [
@@ -12504,7 +12587,7 @@
     {
       "itemId": "migrated-schemes-scheme-66",
       "domain": "schemes",
-      "title": "Make in India:",
+      "title": "Make in India",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -12519,7 +12602,7 @@
     {
       "itemId": "migrated-schemes-scheme-67",
       "domain": "schemes",
-      "title": "Production Linked Incentive (PLI) Scheme:",
+      "title": "Production Linked Incentive (PLI) Scheme",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -12534,7 +12617,7 @@
     {
       "itemId": "migrated-schemes-scheme-68",
       "domain": "schemes",
-      "title": "Unity Mall Scheme:",
+      "title": "Unity Mall Scheme",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -12551,7 +12634,7 @@
     {
       "itemId": "migrated-schemes-scheme-69",
       "domain": "schemes",
-      "title": "FAME India Scheme:",
+      "title": "FAME India Scheme",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -12567,13 +12650,15 @@
       "itemId": "migrated-schemes-scheme-7",
       "domain": "schemes",
       "title": "PMUY II (2021, Mahoba, UP)",
-      "qualityStatus": "artifact",
+      "qualityStatus": "superseded",
       "confidence": "high",
       "reasons": [
-        "Contains OCR headers, table of contents citations, or channel extraction noise."
+        "Fully represented with funding patterns and trap analysis in masterfile under \"PM Ujjwala Yojana (PMUY)\"."
       ],
       "missingFields": [],
-      "recommendedAction": "discard-artifact"
+      "supersededBy": "migrated-schemes-masterfile",
+      "supersededTarget": "PM Ujjwala Yojana (PMUY)",
+      "recommendedAction": "supersede"
     },
     {
       "itemId": "migrated-schemes-scheme-70",
@@ -12595,7 +12680,7 @@
     {
       "itemId": "migrated-schemes-scheme-71",
       "domain": "schemes",
-      "title": "PM MITRA Park Scheme:",
+      "title": "PM MITRA Park Scheme",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -12627,14 +12712,20 @@
     {
       "itemId": "migrated-schemes-scheme-73",
       "domain": "schemes",
-      "title": "Infrastructure: Integrated facilities for manufacturing, logistics, housing, and sustainability.",
-      "qualityStatus": "artifact",
+      "title": "[Index Page Reference] Infrastructure: Integrated facilities for manufacturing, logistics, housing, and sustainability.",
+      "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
-        "Contains OCR headers, table of contents citations, or channel extraction noise."
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
       ],
-      "missingFields": [],
-      "recommendedAction": "discard-artifact"
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "targetBeneficiaries",
+        "launchYear",
+        "financialOutlay"
+      ],
+      "recommendedAction": "enrich"
     },
     {
       "itemId": "migrated-schemes-scheme-74",
@@ -12667,7 +12758,7 @@
     {
       "itemId": "migrated-schemes-scheme-76",
       "domain": "schemes",
-      "title": "The Shyama Prasad Mukherjee Rurban Mission (SPMRM):",
+      "title": "The Shyama Prasad Mukherjee Rurban Mission (SPMRM)",
       "qualityStatus": "valid",
       "confidence": "high",
       "reasons": [
@@ -12708,7 +12799,7 @@
     {
       "itemId": "migrated-schemes-scheme-79",
       "domain": "schemes",
-      "title": "The Sansad Adarsh Gram Yojana (SAGY):",
+      "title": "The Sansad Adarsh Gram Yojana (SAGY)",
       "qualityStatus": "valid",
       "confidence": "high",
       "reasons": [
@@ -12720,7 +12811,7 @@
     {
       "itemId": "migrated-schemes-scheme-8",
       "domain": "schemes",
-      "title": "\"One Scientist, One Product\" Scheme by ICAR:",
+      "title": "\"One Scientist, One Product\" Scheme by ICAR",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -12749,7 +12840,7 @@
     {
       "itemId": "migrated-schemes-scheme-81",
       "domain": "schemes",
-      "title": "Women Enterprise Acceleration Fund:",
+      "title": "Women Enterprise Acceleration Fund",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -12824,7 +12915,7 @@
     {
       "itemId": "migrated-schemes-scheme-86",
       "domain": "schemes",
-      "title": "SVANidhi se Samriddhi:",
+      "title": "[Sub-Component] SVANidhi se Samriddhi:",
       "qualityStatus": "superseded",
       "confidence": "high",
       "reasons": [
@@ -12847,8 +12938,7 @@
       "missingFields": [
         "nodalMinistry",
         "targetBeneficiaries",
-        "launchYear",
-        "financialOutlay"
+        "launchYear"
       ],
       "recommendedAction": "enrich"
     },
@@ -12883,7 +12973,7 @@
     {
       "itemId": "migrated-schemes-scheme-9",
       "domain": "schemes",
-      "title": "Digital Agriculture Mission:",
+      "title": "Digital Agriculture Mission",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -12898,21 +12988,24 @@
     {
       "itemId": "migrated-schemes-scheme-90",
       "domain": "schemes",
-      "title": "Improving waste management.",
-      "qualityStatus": "fragment",
+      "title": "[Sub-Component] Improving waste management.",
+      "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
-        "Orphan sub-heading or section bullet point belonging to a parent flagship scheme."
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
       ],
-      "missingFields": [],
-      "parentId": "migrated-schemes-scheme-89",
-      "parentTitle": "Swachh Bharat Mission (Urban):",
-      "recommendedAction": "merge"
+      "missingFields": [
+        "nodalMinistry",
+        "targetBeneficiaries",
+        "launchYear",
+        "financialOutlay"
+      ],
+      "recommendedAction": "enrich"
     },
     {
       "itemId": "migrated-schemes-scheme-91",
       "domain": "schemes",
-      "title": "NAMASTE Scheme (2022–2026):",
+      "title": "NAMASTE Scheme (2022–2026)",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -12941,21 +13034,24 @@
     {
       "itemId": "migrated-schemes-scheme-93",
       "domain": "schemes",
-      "title": "Enable digital monitoring of water quality.",
-      "qualityStatus": "fragment",
+      "title": "[Sub-Component] Enable digital monitoring of water quality.",
+      "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
-        "Orphan sub-heading or section bullet point belonging to a parent flagship scheme."
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
       ],
-      "missingFields": [],
-      "parentId": "migrated-schemes-scheme-92",
-      "parentTitle": "Jal Jeevan Mission (Urban):",
-      "recommendedAction": "merge"
+      "missingFields": [
+        "nodalMinistry",
+        "keyObjectives",
+        "targetBeneficiaries",
+        "launchYear"
+      ],
+      "recommendedAction": "enrich"
     },
     {
       "itemId": "migrated-schemes-scheme-94",
       "domain": "schemes",
-      "title": "CITIIS 2.0 (City Investments to Innovate, Integrate, & Sustain):",
+      "title": "CITIIS 2.0 (City Investments to Innovate, Integrate, & Sustain)",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -12971,16 +13067,19 @@
     {
       "itemId": "migrated-schemes-scheme-95",
       "domain": "schemes",
-      "title": "Expansion of Cities (sustainable urban growth)",
-      "qualityStatus": "fragment",
+      "title": "[Sub-Component] Expansion of Cities (sustainable urban growth)",
+      "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
-        "Orphan sub-heading or section bullet point belonging to a parent flagship scheme."
+        "Legitimate standalone government scheme lacking comprehensive structured fields."
       ],
-      "missingFields": [],
-      "parentId": "migrated-schemes-scheme-94",
-      "parentTitle": "CITIIS 2.0 (City Investments to Innovate, Integrate, & Sustain):",
-      "recommendedAction": "merge"
+      "missingFields": [
+        "nodalMinistry",
+        "targetBeneficiaries",
+        "launchYear",
+        "financialOutlay"
+      ],
+      "recommendedAction": "enrich"
     },
     {
       "itemId": "migrated-schemes-scheme-96",
@@ -13013,7 +13112,7 @@
     {
       "itemId": "migrated-schemes-scheme-98",
       "domain": "schemes",
-      "title": "PAiSA Portal:",
+      "title": "PAiSA Portal",
       "qualityStatus": "needs_enrichment",
       "confidence": "high",
       "reasons": [
@@ -13030,16 +13129,14 @@
     {
       "itemId": "migrated-schemes-scheme-99",
       "domain": "schemes",
-      "title": "SHRESHTA Scheme: Empowering SC Students through Quality Education:",
-      "qualityStatus": "needs_enrichment",
+      "title": "SHRESHTA Scheme: Empowering SC Students through Quality Education",
+      "qualityStatus": "valid",
       "confidence": "high",
       "reasons": [
-        "Legitimate standalone government scheme lacking comprehensive structured fields."
+        "Independently understandable, structurally intact study unit with meaningful content blocks."
       ],
-      "missingFields": [
-        "financialOutlay"
-      ],
-      "recommendedAction": "enrich"
+      "missingFields": [],
+      "recommendedAction": "keep"
     },
     {
       "itemId": "migrated-staticga-ch1-sub1",

@@ -1,26 +1,27 @@
 {
   "id": "migrated-ca-note-sec6-186",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "NVIDIA & 35 Tech Giants Launch 'Open Secure AI Alliance' for AI Cybersecurity",
+  "type": "ca_note",
   "summary": "Develops open-source security tools to detect and respond to AI-powered cyber threats.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Develops open-source security tools to detect and respond to AI-powered cyber threats."
+      "type": "warning_banner",
+      "title": "📰 6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS",
+      "text": "🪝 NVIDIA & 35 Tech Giants Launch 'Open Secure AI Alliance' for AI Cybersecurity. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Develops open-source security tools to detect and respond to AI-powered cyber threats.",
         "Founding Alliance Members: Microsoft, IBM, Cisco, Adobe, Cloudflare, CrowdStrike, HPE, Hugging Face, Red Hat, SpaceX, Linux Foundation.",
         "Notable Absentees: OpenAI, Anthropic, Google, and Meta are absent from alliance roster.",
-        "Foundational Framework: Builds on Linux Foundation's Akrites initiative and OpenSSF."
+        "Foundational Framework: Builds on Linux Foundation's Akrites initiative and OpenSSF.",
+        "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "NVIDIA HQ: Santa Clara, California | CEO: Jensen Huang."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on indigenous development agency (ISRO/DRDO), technical range/speed metrics, tournament winner, and host city."
     }
   ],
   "metadata": {
@@ -45,6 +46,16 @@
       "sourceChecksum": "21f02c20d457ca75071a0845ef6fd105f80bafde77e6f1104860463fe45a4fae",
       "migrationTimestamp": "2026-08-15T12:13:11.200Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC6",
+    "sectionNumber": 6,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 76
   }
 }

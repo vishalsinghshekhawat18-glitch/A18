@@ -1,30 +1,27 @@
 {
   "id": "migrated-ca-note-sec4-273",
-  "type": "ca_note",
-  "domain": "current-affairs",
   "title": "West Bengal Secures 3 New GI Tags: Jalbhara Sandesh, Manohara, & Balagarh Wooden Boats",
+  "type": "ca_note",
   "summary": "Increases West Bengal's total GI registrations to 59, making it India's 3rd-highest GI-tagged state.",
   "blocks": [
     {
-      "type": "paragraph",
-      "content": "Increases West Bengal's total GI registrations to 59, making it India's 3rd-highest GI-tagged state."
+      "type": "warning_banner",
+      "title": "📰 4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS",
+      "text": "🪝 West Bengal Secures 3 New GI Tags: Jalbhara Sandesh, Manohara, & Balagarh Wooden Boats. Key development for Banking & General Awareness."
     },
     {
       "type": "bullet_list",
       "items": [
+        "Increases West Bengal's total GI registrations to 59, making it India's 3rd-highest GI-tagged state.",
         "New GI Products: Chandannagar's Jalbhara Sandesh, Janai's Manohara sweet, and Balagarh traditional wooden boats.",
-        "State Ranking: West Bengal ranks 3rd in India (59 GI tags), behind Uttar Pradesh (83) and Tamil Nadu (76)."
+        "State Ranking: West Bengal ranks 3rd in India (59 GI tags), behind Uttar Pradesh (83) and Tamil Nadu (76).",
+        "West Bengal GI rank (3rd, 59 tags) vs Uttar Pradesh (1st, 83 tags) vs Tamil Nadu (2nd, 76 tags).",
+        "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of West Bengal Secures 3 New GI Tags."
       ]
     },
     {
-      "type": "key_concept",
-      "title": "Static Background & GK Context",
-      "summary": "Uttar Pradesh ranks 1st in India for total GI tags (83)."
-    },
-    {
-      "type": "exam_trap",
-      "title": "Exam Trap & Statutory Distinction",
-      "content": "West Bengal GI rank (3rd, 59 tags) vs Uttar Pradesh (1st, 83 tags) vs Tamil Nadu (2nd, 76 tags)."
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on core policy figures, nodal authority, and key operational parameters of West Bengal Secures 3 New GI Tags."
     }
   ],
   "metadata": {
@@ -38,7 +35,7 @@
       "Current Affairs 2026"
     ],
     "date": "2026-07-14",
-    "category": "SEC4",
+    "category": "SEC6",
     "difficulty": "intermediate",
     "lastUpdated": "2026-08-15T12:15:05.762Z",
     "provenance": {
@@ -49,6 +46,16 @@
       "sourceChecksum": "523e89356e10a0ac462d76495881a5b50393e9e645d871d65ce53ffb7323c48a",
       "migrationTimestamp": "2026-08-15T12:15:05.762Z",
       "normalizationRuleVersion": "1.0.0-phase4"
-    }
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "CORE",
+    "sectionCode": "SEC4",
+    "sectionNumber": 4,
+    "relationshipDecision": "UNIQUE_STANDALONE",
+    "editorialDecision": "RETAIN_NEW",
+    "isStudyMaterial": true,
+    "noteTier": "TIER_B_PLUS",
+    "studyUtilityScore": 82
   }
 }

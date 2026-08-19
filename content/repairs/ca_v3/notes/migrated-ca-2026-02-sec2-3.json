@@ -1,0 +1,76 @@
+{
+  "id": "migrated-ca-2026-02-sec2-3",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "DICGC Risk-Based Deposit Insurance Premium Framework",
+  "summary": "DICGC moves from flat 12 paise/₹100 premium to a 4-tier risk-based framework starting 1 April 2026.",
+  "blocks": [
+    {
+      "type": "warning_banner",
+      "title": "📰 3. 🏦 BANKING & INSURANCE NEWS",
+      "text": "🪝 DICGC Risk-Based Deposit Insurance Premium Framework. Key development for Banking & General Awareness."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Deposit Insurance and Credit Guarantee Corporation (DICGC) transitions from a flat premium (12 paise per ₹100 since 1962) to a **risk-based premium structure** effective 1 April 2026.",
+        "**4 Risk Tiers**: Category A (safest: 8 paise/₹100), Category B (10 paise), Category C (11 paise), Category D (12 paise).",
+        "**Insurance Cover**: Coverage remains unchanged at **₹5 lakh per depositor per bank**.",
+        "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure."
+    }
+  ],
+  "intelligence": {
+    "zone": "LIGHT_TOUCH",
+    "tier": "TIER_B",
+    "templateType": "TEMPLATE_B_PLUS",
+    "section": {
+      "number": 3,
+      "code": "SEC3",
+      "name": "BANKING & INSURANCE NEWS",
+      "emoji": "🏦",
+      "fullName": "3. 🏦 BANKING & INSURANCE NEWS"
+    },
+    "hook": "🪝 DICGC Risk-Based Deposit Insurance Premium Framework",
+    "examAngle": "🎯 Exam Angle → Focus on institutional financial products, interest margins, capital adequacy ratios, and digital payment infrastructure.",
+    "isUpdate": false,
+    "jargonGlosses": {},
+    "claimVerificationStatus": "VERIFIED",
+    "publishedDate": "2026-02-15"
+  },
+  "metadata": {
+    "exam": [
+      "RBI Grade B",
+      "NABARD Grade A",
+      "SBI PO"
+    ],
+    "tags": [
+      "sec2",
+      "Current Affairs 2026",
+      "February 2026"
+    ],
+    "date": "2026-02-15",
+    "category": "SEC2",
+    "difficulty": "intermediate",
+    "lastUpdated": "2026-08-16T09:37:06.757Z",
+    "provenance": {
+      "sourceSystem": "CA",
+      "sourceFile": "Feb2026.pdf",
+      "sourceId": "migrated-ca-2026-02-sec2-3",
+      "sourceTitle": "DICGC Risk-Based Deposit Insurance Premium Framework",
+      "sourceChecksum": "20ef64f488b5e55b4d9d2034e2a983c5c29d5471abeb1811c535e101d7ea26b4",
+      "migrationTimestamp": "2026-08-16T09:37:06.757Z",
+      "normalizationRuleVersion": "1.0.0-feb2026"
+    },
+    "caFrameworkVersion": "v3.0.0-claude-aligned",
+    "relevanceTier": "TIER_B",
+    "temporalZone": "LIGHT_TOUCH",
+    "sectionCode": "SEC3",
+    "sectionNumber": 3,
+    "relationshipDecision": "UNIQUE_STANDALONE"
+  }
+}
