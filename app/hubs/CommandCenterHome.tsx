@@ -121,7 +121,7 @@ export const CommandCenterHome: React.FC<Props> = ({
   const allSec11Items = useMemo(() => {
     return items.filter(i => {
       const secCode = (i.metadata?.sectionCode || i.metadata?.category || '').toUpperCase();
-      const isSec11 = secCode === 'SEC11' || i.id.includes('sec11') || (i.domain === 'current-affairs' && i.title.toLowerCase().includes('rapid revision'));
+      const isSec11 = secCode === 'SEC11' || i.id.includes('sec11') || ((i.domain === 'current-affairs' || !i.domain) && (i.title || '').toLowerCase().includes('rapid revision'));
       return isSec11;
     }).sort((a, b) => {
       const dA = a.metadata?.date || '';
@@ -467,7 +467,7 @@ export const CommandCenterHome: React.FC<Props> = ({
             >
               <div className="continue-card-badge-row">
                 <span className="continue-card-badge">⚡ CONTINUE STUDYING</span>
-                <span className="continue-card-domain">{lastItem.domain.toUpperCase()}</span>
+                <span className="continue-card-domain">{(lastItem.domain || 'STUDY').toUpperCase()}</span>
               </div>
               <h2 className="continue-card-title">{lastItem.title}</h2>
               {lastItem.summary && (
