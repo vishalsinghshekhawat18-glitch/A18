@@ -247,25 +247,21 @@ export const CAFeedSurface: React.FC<Props> = ({
                               )}
                             </div>
 
-                            {/* Adaptive Grid Layout */}
-                            <div
-                              className="ca-card-grid-compact"
-                              style={{ gridTemplateColumns: sideBlocks.length > 0 ? undefined : '1fr' }}
-                            >
-                              <div className="ca-main-col-compact">
-                                {mainBlocks.map((block: SemanticBlock, bIdx: number) => (
-                                  <BlockRenderer key={bIdx} block={block} blockIndex={bIdx} />
+                            {/* News Content (Paragraphs, Bullets, Tables) */}
+                            <div className="ca-main-col-compact">
+                              {mainBlocks.map((block: SemanticBlock, bIdx: number) => (
+                                <BlockRenderer key={bIdx} block={block} blockIndex={bIdx} />
+                              ))}
+                            </div>
+
+                            {/* Exam Focus & Pitfalls / Traps placed below news as an extra line/section */}
+                            {sideBlocks.length > 0 && (
+                              <div className="ca-bottom-col-compact" style={{ marginTop: '1rem' }}>
+                                {sideBlocks.map((block: SemanticBlock, bIdx: number) => (
+                                  <BlockRenderer key={bIdx} block={block} blockIndex={100 + bIdx} />
                                 ))}
                               </div>
-
-                              {sideBlocks.length > 0 && (
-                                <aside className="ca-side-col-compact">
-                                  {sideBlocks.map((block: SemanticBlock, bIdx: number) => (
-                                    <BlockRenderer key={bIdx} block={block} blockIndex={100 + bIdx} />
-                                  ))}
-                                </aside>
-                              )}
-                            </div>
+                            )}
 
                             {/* Relationships if present */}
                             <RelationshipLinks
