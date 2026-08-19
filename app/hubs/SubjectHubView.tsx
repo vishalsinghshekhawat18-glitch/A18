@@ -251,43 +251,55 @@ export const SubjectHubView: React.FC<Props> = ({
                         </h3>
                       </div>
 
-                      <div className="hub-items-list" style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(320px, 1fr))', gap: '1rem' }}>
-                        {secGroup.items.map((item, idx) => (
-                          <div
-                            key={item.id}
-                            className="hub-item-card"
-                            onClick={() => onSelectItem(item.id)}
-                            style={{ cursor: 'pointer', display: 'flex', flexDirection: 'column', justifyContent: 'space-between', padding: '1rem', background: 'var(--card-bg, #f8fafc)', borderRadius: '8px', border: '1px solid var(--card-border, #cbd5e1)' }}
-                          >
-                            <div className="hub-item-content">
-                              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.4rem' }}>
-                                <span className="hub-item-index" style={{ fontSize: '0.75rem', fontWeight: 700, color: '#64748b' }}>#{idx + 1}</span>
-                                {(item.metadata as any)?.relevanceTier && (
-                                  <span className={`tag-pill ${(item.metadata as any).relevanceTier === 'TIER_A' ? 'bold-pill' : ''}`} style={{ fontSize: '0.7rem', padding: '0.15rem 0.45rem', background: (item.metadata as any).relevanceTier === 'TIER_A' ? '#fee2e2' : '#f1f5f9', color: (item.metadata as any).relevanceTier === 'TIER_A' ? '#991b1b' : '#475569' }}>
-                                    {(item.metadata as any).relevanceTier}
-                                  </span>
+                      {secGroup.items.length > 0 ? (
+                        <div className="hub-items-list" style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(320px, 1fr))', gap: '1rem' }}>
+                          {secGroup.items.map((item, idx) => (
+                            <div
+                              key={item.id}
+                              className="hub-item-card"
+                              onClick={() => onSelectItem(item.id)}
+                              style={{ cursor: 'pointer', display: 'flex', flexDirection: 'column', justifyContent: 'space-between', padding: '1rem', background: 'var(--card-bg, #f8fafc)', borderRadius: '8px', border: '1px solid var(--card-border, #cbd5e1)' }}
+                            >
+                              <div className="hub-item-content">
+                                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.4rem' }}>
+                                  <span className="hub-item-index" style={{ fontSize: '0.75rem', fontWeight: 700, color: '#64748b' }}>#{idx + 1}</span>
+                                  {((item.metadata as any)?.relevanceTier || (item.metadata as any)?.noteTier) && (
+                                    <span className="tag-pill bold-pill" style={{ 
+                                      fontSize: '0.7rem', 
+                                      padding: '0.15rem 0.5rem', 
+                                      background: ((item.metadata as any)?.relevanceTier === 'TIER_A' || (item.metadata as any)?.noteTier === 'TIER_A') ? '#fee2e2' : '#fef3c7', 
+                                      color: ((item.metadata as any)?.relevanceTier === 'TIER_A' || (item.metadata as any)?.noteTier === 'TIER_A') ? '#991b1b' : '#92400e',
+                                      border: '1px solid currentColor'
+                                    }}>
+                                      {((item.metadata as any)?.relevanceTier === 'TIER_A' || (item.metadata as any)?.noteTier === 'TIER_A') ? '🔴 Tier A (Core)' : '🟡 Tier B+ (Quick)'}
+                                    </span>
+                                  )}
+                                </div>
+                                <h4 className="hub-item-title" style={{ fontSize: '0.95rem', fontWeight: 700, margin: '0 0 0.4rem 0', lineHeight: 1.4 }}>
+                                  {item.title}
+                                </h4>
+                                {item.summary && (
+                                  <p className="hub-item-summary" style={{ fontSize: '0.82rem', color: '#475569', margin: '0 0 0.8rem 0', lineHeight: 1.4, display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>
+                                    {item.summary}
+                                  </p>
                                 )}
                               </div>
-                              <h4 className="hub-item-title" style={{ fontSize: '0.95rem', fontWeight: 700, margin: '0 0 0.4rem 0', lineHeight: 1.4 }}>
-                                {item.title}
-                              </h4>
-                              {item.summary && (
-                                <p className="hub-item-summary" style={{ fontSize: '0.82rem', color: '#475569', margin: '0 0 0.8rem 0', lineHeight: 1.4, display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>
-                                  {item.summary}
-                                </p>
-                              )}
+                              <div className="hub-item-meta" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: 'auto', paddingTop: '0.6rem', borderTop: '1px solid #e2e8f0', fontSize: '0.75rem' }}>
+                                {isCompleted(item.id) ? (
+                                  <span style={{ color: '#16a34a', fontWeight: 700 }}>✓ Completed</span>
+                                ) : (
+                                  <span style={{ color: '#2563eb', fontWeight: 600 }}>Study Unit →</span>
+                                )}
+                                <span style={{ color: '#94a3b8' }}>ID: {item.id}</span>
+                              </div>
                             </div>
-                            <div className="hub-item-meta" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: 'auto', paddingTop: '0.6rem', borderTop: '1px solid #e2e8f0', fontSize: '0.75rem' }}>
-                              {isCompleted(item.id) ? (
-                                <span style={{ color: '#16a34a', fontWeight: 700 }}>✓ Completed</span>
-                              ) : (
-                                <span style={{ color: '#2563eb', fontWeight: 600 }}>Study Unit →</span>
-                              )}
-                              <span style={{ color: '#94a3b8' }}>ID: {item.id}</span>
-                            </div>
-                          </div>
-                        ))}
-                      </div>
+                          ))}
+                        </div>
+                      ) : (
+                        <div style={{ padding: '0.6rem 1rem', background: '#f8fafc', borderRadius: '6px', border: '1px dashed #cbd5e1', color: '#94a3b8', fontSize: '0.82rem', fontStyle: 'italic' }}>
+                          No items this cycle
+                        </div>
+                      )}
                     </div>
                   ))}
                 </div>

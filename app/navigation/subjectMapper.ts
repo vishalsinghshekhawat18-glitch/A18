@@ -135,17 +135,17 @@ export interface CASectionDef {
 }
 
 export const CA_SECTION_DEFS: CASectionDef[] = [
-  { secId: 'SEC1', title: 'ESI, Finance & Business News', emoji: '📈' },
-  { secId: 'SEC2', title: 'Regulatory Bodies News', emoji: '🏛️' },
-  { secId: 'SEC3', title: 'Banking & Insurance News', emoji: '💳' },
-  { secId: 'SEC4', title: 'National, State & International News', emoji: '🌐' },
-  { secId: 'SEC5', title: 'MoUs, Conferences & Appointments', emoji: '🤝' },
-  { secId: 'SEC6', title: 'Science, Technology, Defence & Sports', emoji: '🚀' },
-  { secId: 'SEC7', title: 'Awards, Books, Indices & Rankings', emoji: '🏆' },
-  { secId: 'SEC8', title: 'Important Days & Persons in News', emoji: '📅' },
-  { secId: 'SEC9', title: 'PIB, Circulars & Notifications', emoji: '📜' },
-  { secId: 'SEC10', title: 'Miscellaneous - Govt Schemes & Static', emoji: '🎯' },
-  { secId: 'SEC11', title: 'Rapid Revision', emoji: '⚡' }
+  { secId: 'SEC1', title: '1. 💰 ESI, FINANCE & BUSINESS NEWS', emoji: '💰' },
+  { secId: 'SEC2', title: '2. 🏛️ REGULATORY BODIES NEWS', emoji: '🏛️' },
+  { secId: 'SEC3', title: '3. 🏦 BANKING & INSURANCE NEWS', emoji: '🏦' },
+  { secId: 'SEC4', title: '4. 🌐 NATIONAL, STATE & INTERNATIONAL NEWS', emoji: '🌐' },
+  { secId: 'SEC5', title: '5. 🤝 MoUs, CONFERENCES & APPOINTMENTS', emoji: '🤝' },
+  { secId: 'SEC6', title: '6. 🔬 SCIENCE, TECHNOLOGY, DEFENCE & SPORTS', emoji: '🔬' },
+  { secId: 'SEC7', title: '7. 🏆 AWARDS, BOOKS, INDICES & RANKINGS', emoji: '🏆' },
+  { secId: 'SEC8', title: '8. 📅 IMPORTANT DAYS & PERSONS IN NEWS', emoji: '📅' },
+  { secId: 'SEC9', title: '9. 📋 PIB, CIRCULARS & NOTIFICATIONS', emoji: '📋' },
+  { secId: 'SEC10', title: '10. 📌 MISCELLANEOUS — GOVT SCHEMES & STATIC', emoji: '📌' },
+  { secId: 'SEC11', title: '11. 🧠 REVISION', emoji: '🧠' }
 ];
 
 export interface CASectionGroup {
@@ -193,33 +193,31 @@ export function groupCAItemsByMonth(caItems: KnowledgeItem[]): CAMonthGroup[] {
     // Group items inside this month by Section (SEC1 .. SEC11)
     const secMap = new Map<string, KnowledgeItem[]>();
     for (const item of group.items) {
-      const cat = (item.metadata?.category || 'SEC10').toUpperCase();
+      const cat = (item.metadata?.sectionCode || item.metadata?.category || 'SEC10').toUpperCase();
       if (!secMap.has(cat)) {
         secMap.set(cat, []);
       }
       secMap.get(cat)!.push(item);
     }
 
+    // Always include all 11 locked sections in order
     const sections: CASectionGroup[] = [];
     for (const secDef of CA_SECTION_DEFS) {
-      const secItems = secMap.get(secDef.secId.toUpperCase());
-      if (secItems && secItems.length > 0) {
-        // Sort items chronologically within section (latest date first)
-        const sortedSecItems = [...secItems].sort((a, b) => {
-          const dA = a.metadata?.date || '';
-          const dB = b.metadata?.date || '';
-          return dB.localeCompare(dA);
-        });
-        sections.push({
-          secId: secDef.secId,
-          title: secDef.title,
-          emoji: secDef.emoji,
-          items: sortedSecItems
-        });
-      }
+      const secItems = secMap.get(secDef.secId.toUpperCase()) || [];
+      const sortedSecItems = [...secItems].sort((a, b) => {
+        const dA = a.metadata?.date || '';
+        const dB = b.metadata?.date || '';
+        return dB.localeCompare(dA);
+      });
+      sections.push({
+        secId: secDef.secId,
+        title: secDef.title,
+        emoji: secDef.emoji,
+        items: sortedSecItems
+      });
     }
 
-    // Unmapped categories into SEC10
+    // Map any rogue categories into SEC10
     const knownSecIds = new Set(CA_SECTION_DEFS.map(s => s.secId.toUpperCase()));
     const unmappedItems: KnowledgeItem[] = [];
     for (const [catKey, itemsList] of secMap.entries()) {
@@ -228,17 +226,10 @@ export function groupCAItemsByMonth(caItems: KnowledgeItem[]): CAMonthGroup[] {
       }
     }
     if (unmappedItems.length > 0) {
-      let miscSec = sections.find(s => s.secId === 'SEC10');
-      if (!miscSec) {
-        miscSec = {
-          secId: 'SEC10',
-          title: 'Miscellaneous - Govt Schemes & Static',
-          emoji: '🎯',
-          items: []
-        };
-        sections.push(miscSec);
+      const miscSec = sections.find(s => s.secId === 'SEC10');
+      if (miscSec) {
+        miscSec.items.push(...unmappedItems);
       }
-      miscSec.items.push(...unmappedItems);
     }
 
     const flatOrderedItems = sections.flatMap(s => s.items);

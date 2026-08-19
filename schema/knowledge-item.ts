@@ -210,7 +210,10 @@ export interface Metadata {
   tags?: string[];
   date?: string;
   category?: string;
-  difficulty?: 'beginner' | 'intermediate' | 'advanced';
+  sectionCode?: string;
+  relevanceTier?: string;
+  noteTier?: string;
+  difficulty?: 'beginner' | 'intermediate' | 'advanced' | string;
   lastUpdated?: string;
   part?: string;
   section?: string;
