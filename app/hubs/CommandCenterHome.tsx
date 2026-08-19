@@ -115,19 +115,20 @@ export const CommandCenterHome: React.FC<Props> = ({
   const prepSubjects = SUBJECT_DEFS.filter(s => prepSubjectIds.includes(s.id));
 
   const [isFocusMode, setIsFocusMode] = useState<boolean>(false);
+  const [isSec11VaultExpanded, setIsSec11VaultExpanded] = useState<boolean>(true);
 
-  // Handler to open Current Affairs specifically at Section 11 (Rapid Revision)
-  const handleOpenCARevisionSec11 = () => {
-    const sec11Item = items.find(i =>
-      isItemInSubject(i, 'current-affairs') &&
-      (i.metadata?.category === 'SEC11' || i.id.includes('sec11') || i.title.toLowerCase().includes('rapid revision'))
-    );
-    if (sec11Item) {
-      onSelectItem(sec11Item.id);
-    } else {
-      onSelectSubject('current-affairs');
-    }
-  };
+  // Derive all Section 11 (Rapid Revision) units across all months dynamically
+  const allSec11Items = useMemo(() => {
+    return items.filter(i => {
+      const secCode = (i.metadata?.sectionCode || i.metadata?.category || '').toUpperCase();
+      const isSec11 = secCode === 'SEC11' || i.id.includes('sec11') || (i.domain === 'current-affairs' && i.title.toLowerCase().includes('rapid revision'));
+      return isSec11;
+    }).sort((a, b) => {
+      const dA = a.metadata?.date || '';
+      const dB = b.metadata?.date || '';
+      return dB.localeCompare(dA); // newest month first
+    });
+  }, [items]);
 
   return (
     <div className={`command-center-home ${isFocusMode ? 'focus-mode-active' : ''}`}>
@@ -293,8 +294,11 @@ export const CommandCenterHome: React.FC<Props> = ({
 
           {/* Bottom Block: CURRENT AFFAIRS 2026 -27 */}
           <section className="home-ca-box">
-            <div className="ca-box-header">
+            <div className="ca-box-header" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
               <h2 className="ca-box-title">CURRENT AFFAIRS 2026 -27</h2>
+              <span className="tag-pill bold-pill" style={{ background: 'var(--accent-bg, #e0e7ff)', color: 'var(--accent-text, #3730a3)', fontSize: '0.75rem' }}>
+                {counts.caCount} Briefings • {allSec11Items.length} Revision Sheets
+              </span>
             </div>
 
             {/* Actions Row: STATIC & CA REVISION (Section 11) side-by-side above months */}
@@ -303,19 +307,24 @@ export const CommandCenterHome: React.FC<Props> = ({
                 className="ca-box-wide-btn static-btn"
                 onClick={() => onSelectSubject('static-ga')}
               >
-                STATIC
+                STATIC SUPERBOOK
               </button>
               <button
                 className="ca-box-wide-btn revision-btn"
-                onClick={handleOpenCARevisionSec11}
+                onClick={() => setIsSec11VaultExpanded(!isSec11VaultExpanded)}
+                style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '0.5rem' }}
               >
-                CA REVISION (Section 11)
+                <span>🧠 CA REVISION (Section 11 Vault)</span>
+                <span style={{ background: '#ffffff', color: '#1e3a8a', padding: '0.1rem 0.4rem', borderRadius: '10px', fontSize: '0.75rem', fontWeight: 800 }}>
+                  {allSec11Items.length}
+                </span>
+                <span style={{ fontSize: '0.8rem' }}>{isSec11VaultExpanded ? '▲' : '▼'}</span>
               </button>
             </div>
 
             {/* 2026 Month Grid */}
             <div className="ca-box-year-group">
-              <div className="ca-box-year-label">2026</div>
+              <div className="ca-box-year-label">2026 MONTHS</div>
               <div className="ca-box-month-grid">
                 {[
                   { label: 'JAN', key: '2026-01', active: true },
@@ -354,7 +363,93 @@ export const CommandCenterHome: React.FC<Props> = ({
                   </button>
                 ))}
               </div>
-            </div></section>
+            </div>
+
+            {/* Dynamic Section 11 All-Months Revision Vault */}
+            {isSec11VaultExpanded && (
+              <div className="ca-sec11-vault-container" style={{
+                marginTop: '1.2rem',
+                padding: '1.2rem',
+                background: 'var(--card-bg, #f8fafc)',
+                borderRadius: '10px',
+                border: '1px solid var(--card-border, #cbd5e1)'
+              }}>
+                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.8rem' }}>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: '0.4rem' }}>
+                    <span style={{ fontSize: '1.1rem' }}>🧠</span>
+                    <h3 style={{ fontSize: '0.95rem', fontWeight: 800, margin: 0, color: 'var(--text-primary, #0f172a)' }}>
+                      SECTION 11: ALL-MONTHS RAPID REVISION SHEETS
+                    </h3>
+                  </div>
+                  <span style={{ fontSize: '0.75rem', color: '#64748b' }}>
+                    Auto-updated collection of monthly Section 11 cheat sheets
+                  </span>
+                </div>
+
+                <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: '0.75rem' }}>
+                  {allSec11Items.map((item, idx) => {
+                    const dateStr = item.metadata?.date || '';
+                    let monthTag = 'REVISION';
+                    if (dateStr.match(/^\d{4}-\d{2}/)) {
+                      const [y, m] = dateStr.split('-');
+                      const dObj = new Date(parseInt(y, 10), parseInt(m, 10) - 1, 1);
+                      monthTag = `${dObj.toLocaleString('en-US', { month: 'short' }).toUpperCase()} ${y}`;
+                    } else if (item.id.includes('iibf')) {
+                      monthTag = 'IIBF TRAPS';
+                    }
+
+                    return (
+                      <div
+                        key={item.id}
+                        onClick={() => onSelectItem(item.id)}
+                        style={{
+                          cursor: 'pointer',
+                          padding: '0.9rem',
+                          background: 'var(--bg-surface, #ffffff)',
+                          borderRadius: '8px',
+                          border: '1px solid var(--border-color, #e2e8f0)',
+                          display: 'flex',
+                          flexDirection: 'column',
+                          justifyContent: 'space-between',
+                          boxShadow: '0 1px 3px rgba(0,0,0,0.05)',
+                          transition: 'border-color 0.15s ease, transform 0.15s ease'
+                        }}
+                        onMouseEnter={(e) => {
+                          e.currentTarget.style.borderColor = 'var(--primary, #2563eb)';
+                          e.currentTarget.style.transform = 'translateY(-2px)';
+                        }}
+                        onMouseLeave={(e) => {
+                          e.currentTarget.style.borderColor = 'var(--border-color, #e2e8f0)';
+                          e.currentTarget.style.transform = 'translateY(0)';
+                        }}
+                      >
+                        <div>
+                          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.4rem' }}>
+                            <span className="tag-pill bold-pill" style={{ fontSize: '0.68rem', padding: '0.15rem 0.45rem', background: '#dbeafe', color: '#1e40af' }}>
+                              ⚡ {monthTag}
+                            </span>
+                            <span style={{ fontSize: '0.68rem', color: '#94a3b8' }}>#{idx + 1}</span>
+                          </div>
+                          <h4 style={{ fontSize: '0.88rem', fontWeight: 700, margin: '0 0 0.3rem 0', color: 'var(--text-primary, #0f172a)', lineHeight: 1.35 }}>
+                            {item.title}
+                          </h4>
+                          {item.summary && (
+                            <p style={{ fontSize: '0.78rem', color: '#64748b', margin: 0, lineHeight: 1.35, display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>
+                              {item.summary}
+                            </p>
+                          )}
+                        </div>
+                        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: '0.7rem', paddingTop: '0.5rem', borderTop: '1px solid #f1f5f9', fontSize: '0.72rem' }}>
+                          <span style={{ color: '#059669', fontWeight: 600 }}>⚡ 1-Minute Cheat Sheet</span>
+                          <span style={{ color: '#2563eb', fontWeight: 700 }}>Open →</span>
+                        </div>
+                      </div>
+                    );
+                  })}
+                </div>
+              </div>
+            )}
+          </section>
         </div>
 
         {/* Tactical Phase 2 Label */}
