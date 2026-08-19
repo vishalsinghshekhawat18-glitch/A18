@@ -46,25 +46,21 @@ export const CABriefingView: React.FC<Props> = ({
           )}
         </header>
 
-        {/* 2-Column Side-by-Side Grid (Collapses to 1 full-width column when sideBlocks are absent) */}
-        <div
-          className="ca-grid-layout"
-          style={{ gridTemplateColumns: sideBlocks.length > 0 ? undefined : '1fr' }}
-        >
-          <div className="ca-main-column">
-            {mainBlocks.map((block: SemanticBlock, idx: number) => (
-              <BlockRenderer key={idx} block={block} blockIndex={idx} />
-            ))}
-          </div>
+        {/* Main News Content (Paragraphs, Bullets, Tables) */}
+        <main className="ca-main-content">
+          {mainBlocks.map((block: SemanticBlock, idx: number) => (
+            <BlockRenderer key={idx} block={block} blockIndex={idx} />
+          ))}
+        </main>
 
-          {sideBlocks.length > 0 && (
-            <aside className="ca-side-column">
-              {sideBlocks.map((block: SemanticBlock, idx: number) => (
-                <BlockRenderer key={idx} block={block} blockIndex={100 + idx} />
-              ))}
-            </aside>
-          )}
-        </div>
+        {/* Exam Focus & Pitfalls / Traps placed below news as an extra section */}
+        {sideBlocks.length > 0 && (
+          <section className="ca-bottom-focus-section" style={{ marginTop: '1.5rem' }}>
+            {sideBlocks.map((block: SemanticBlock, idx: number) => (
+              <BlockRenderer key={idx} block={block} blockIndex={100 + idx} />
+            ))}
+          </section>
+        )}
 
         {/* Stream Navigation Footer */}
         <footer className="ca-stream-footer">
