@@ -18733,5 +18733,181 @@
       }
     },
     "relationships": []
+  },
+  {
+    "id": "quant-rbi-grade-b-pyq-master-suite",
+    "type": "quant_topic",
+    "domain": "quant",
+    "title": "RBI Grade B Phase 1 Quant Memory-Based PYQ Masterclass (2020–2025)",
+    "summary": "Exhaustive 3-tier solved masterclass covering authentic RBI Grade B Phase 1 Quant questions: Missing NPA Recovery DI, Circular Track TSD, and Weighted Probability...",
+    "metadata": {
+      "exam": [
+        "RBI Grade B Phase 1 2026",
+        "SBI PO Mains 2026",
+        "IBPS PO Mains 2026"
+      ],
+      "tags": [
+        "quant",
+        "rbi-grade-b",
+        "pyq",
+        "data-interpretation",
+        "tsd"
+      ],
+      "category": "Quant",
+      "sectionCode": "QUANT",
+      "difficulty": "advanced",
+      "relevanceTier": "TIER_A",
+      "noteTier": "TIER_A",
+      "date": "2026-08-20",
+      "period": "2026-Q4",
+      "provenance": {
+        "sourceSystem": "DF-EIC",
+        "sourceFile": "Phase 2 Quant Suite",
+        "sourceTitle": "RBI Grade B Quant PYQs"
+      },
+      "noteNumber": 546
+    },
+    "relationships": []
+  },
+  {
+    "id": "ras-geo-ch-1-rajasthan-physical-divisions",
+    "type": "chapter",
+    "domain": "geography",
+    "title": "RAS Geography Chapter 1: 4 Physical Divisions of Rajasthan & Aravalli Formations",
+    "summary": "Exhaustive geospatial guide covering the Western Sandy Desert (Thar), Aravalli Range (Guru Shikhar 1,722m), Eastern Plains (56 Basin), and Hadoti Plateau...",
+    "metadata": {
+      "exam": [
+        "RPSC RAS Prelims 2026",
+        "RPSC RAS Mains 2026",
+        "Rajasthan Police SI"
+      ],
+      "tags": [
+        "geography",
+        "rpsc-ras",
+        "rajasthan-geography",
+        "aravalli",
+        "thar-desert"
+      ],
+      "category": "Geography",
+      "sectionCode": "GEO",
+      "difficulty": "advanced",
+      "relevanceTier": "TIER_A",
+      "noteTier": "TIER_A",
+      "date": "2026-08-20",
+      "period": "2026-Q4",
+      "provenance": {
+        "sourceSystem": "DF-EIC",
+        "sourceFile": "Phase 3 RAS Suite",
+        "sourceTitle": "RAS Geography Chapter 1"
+      },
+      "noteNumber": 550
+    },
+    "relationships": []
+  },
+  {
+    "id": "ras-pol-ch-1-rajasthan-governor-cm-assembly",
+    "type": "chapter",
+    "domain": "polity",
+    "title": "RAS Polity Chapter 1: Governor of Rajasthan, Chief Minister & State Legislative Assembly",
+    "summary": "Exhaustive administrative guide for RPSC RAS Pre & Mains on the Governor of Rajasthan, CM Secretariat, Vidhan Sabha rules, and key historical milestones...",
+    "metadata": {
+      "exam": [
+        "RPSC RAS Prelims 2026",
+        "RPSC RAS Mains 2026",
+        "Rajasthan Police SI"
+      ],
+      "tags": [
+        "polity",
+        "rpsc-ras",
+        "rajasthan-polity",
+        "governor",
+        "vidhan-sabha"
+      ],
+      "category": "Polity",
+      "sectionCode": "POL",
+      "difficulty": "advanced",
+      "relevanceTier": "TIER_A",
+      "noteTier": "TIER_A",
+      "date": "2026-08-20",
+      "period": "2026-Q4",
+      "provenance": {
+        "sourceSystem": "DF-EIC",
+        "sourceFile": "Phase 3 RAS Suite",
+        "sourceTitle": "RAS Polity Chapter 1"
+      },
+      "noteNumber": 547
+    },
+    "relationships": []
+  },
+  {
+    "id": "ras-pol-ch-2-rajasthan-high-court-rpsc-commissions",
+    "type": "chapter",
+    "domain": "polity",
+    "title": "RAS Polity Chapter 2: Rajasthan High Court, RPSC, SHRC & Lokayukta",
+    "summary": "Comprehensive legal and constitutional guide on the Rajasthan High Court (Jodhpur/Jaipur Bench), RPSC (Satyanarayan Rao Committee), SHRC, and Lokayukta Act 1973...",
+    "metadata": {
+      "exam": [
+        "RPSC RAS Prelims 2026",
+        "RPSC RAS Mains 2026"
+      ],
+      "tags": [
+        "polity",
+        "rpsc-ras",
+        "high-court",
+        "rpsc",
+        "lokayukta",
+        "shrc"
+      ],
+      "category": "Polity",
+      "sectionCode": "POL",
+      "difficulty": "advanced",
+      "relevanceTier": "TIER_A",
+      "noteTier": "TIER_A",
+      "date": "2026-08-20",
+      "period": "2026-Q4",
+      "provenance": {
+        "sourceSystem": "DF-EIC",
+        "sourceFile": "Phase 3 RAS Suite",
+        "sourceTitle": "RAS Polity Chapter 2"
+      },
+      "noteNumber": 548
+    },
+    "relationships": []
+  },
+  {
+    "id": "ras-pol-ch-4-comparative-constitutions",
+    "type": "chapter",
+    "domain": "polity",
+    "title": "RAS Mains Paper III: Comparative Constitutions (UK, USA, Canada, Germany & Switzerland)",
+    "summary": "Doctoral comparative jurisprudence matrix contrasting Parliamentary Sovereignty (UK), Dual Federalism & Due Process (USA), Asymmetric Federalism (Canada), and Direct Democracy (Switzerland)...",
+    "metadata": {
+      "exam": [
+        "RPSC RAS Mains 2026",
+        "UPSC CSE 2026"
+      ],
+      "tags": [
+        "polity",
+        "rpsc-ras",
+        "ras-mains",
+        "comparative-constitutions",
+        "uk",
+        "usa",
+        "switzerland"
+      ],
+      "category": "Polity",
+      "sectionCode": "POL",
+      "difficulty": "advanced",
+      "relevanceTier": "TIER_A",
+      "noteTier": "TIER_A",
+      "date": "2026-08-20",
+      "period": "2026-Q4",
+      "provenance": {
+        "sourceSystem": "DF-EIC",
+        "sourceFile": "Phase 3 RAS Suite",
+        "sourceTitle": "Comparative Constitutions"
+      },
+      "noteNumber": 549
+    },
+    "relationships": []
   }
 ]

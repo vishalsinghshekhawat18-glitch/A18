@@ -1,0 +1,83 @@
+{
+  "id": "ras-geo-ch-1-rajasthan-physical-divisions",
+  "type": "chapter",
+  "domain": "geography",
+  "title": "RAS Geography Chapter 1: 4 Physical Divisions of Rajasthan & Aravalli Formations",
+  "summary": "Exhaustive geospatial guide covering the Western Sandy Desert (Thar), Aravalli Range (Guru Shikhar 1,722m), Eastern Plains (56 Basin), and Hadoti Plateau...",
+  "blocks": [
+    {
+      "id": "blk-ras-geo-1",
+      "type": "paragraph",
+      "content": "### 🏔️ The 4 Physical Physiographic Divisions of Rajasthan\n\n1. **Western Sandy Desert (Thar Desert - Marusthali):**\n   • **Area & Population:** Covers **61.11% of state area**; houses **40% of state population** (12 desert districts).\n   • **Rainfall:** Less than (25\text{ cm}) annual rainfall; characterized by sand dunes (*Barchans, Longitudinal, Transverse*).\n   • **Lathi Series:** Geohydrological fossil aquifer belt in Jaisalmer rich in *Sevan grass* (Lasiurus scindicus).\n   • **Akal Wood Fossil Park:** 180-million-year-old Jurassic fossils in Jaisalmer.\n2. **Aravalli Mountain Range (Relict Fold Mountains):**\n   • **Age & Extent:** World's oldest fold mountain range (Pre-Cambrian era, (sim 650\text{ Million Years})); runs **692 km from Khedbrahma (Gujarat) to Raisina Hill (Delhi)**; **550 km ((80%)) lies in Rajasthan** (Khetri in Jhunjhunu to Khedbrahma in Sirohi).\n   • **Area & Population:** Covers **9.0% of state area**; houses **10% of population**.\n   • **Top Peak Heights (Descending Sequence):**\n     1. **Guru Shikhar:** **1,722 meters** (Sirohi - Mount Abu, \"Colonel Todd called it *Santoon Ka Shikhar* / Peak of the Saints\").\n     2. **Ser:** **1,597 meters** (Sirohi).\n     3. **Dilwara:** **1,442 meters** (Sirohi).\n     4. **Jarga:** **1,431 meters** (Udaipur).\n     5. **Achalgarh:** **1,380 meters** (Sirohi).\n     6. **Kumbhalgarh:** **1,224 meters** (Rajsamand).\n3. **Eastern Plains (Purvi Maidan):**\n   • **Area:** **23.03% of state area**; houses **39% of population** (highest population density).\n   • **Chappan Basin (Chappan Ka Maidan):** Formed by the Mahi River and its 56 village streams between Banswara and Pratapgarh.\n4. **South-Eastern Plateau (Hadoti Plateau):**\n   • **Area:** **6.86% of state area**; houses **11% of population**; volcanic black regur basalt soil; drained by the Chambal and its tributaries (Kali Sindh, Parbati)."
+    },
+    {
+      "id": "blk-ras-geo-table",
+      "type": "table",
+      "headers": [
+        "Physiographic Division",
+        "Area (% of State)",
+        "Population (%)",
+        "Key Geological / Ecological Landmark"
+      ],
+      "rows": [
+        [
+          "Western Sandy Plains (Thar)",
+          "61.11%",
+          "40%",
+          "Lathi Series aquifer, Akal Fossil Park, Barchans dunes"
+        ],
+        [
+          "Aravalli Mountain Range",
+          "9.00%",
+          "10%",
+          "Guru Shikhar (1,722m), Great Indian Water Divide (50cm isohyet)"
+        ],
+        [
+          "Eastern Fertile Plains",
+          "23.03%",
+          "39%",
+          "Chappan Basin (Mahi river), Banas alluvial plains"
+        ],
+        [
+          "Hadoti (SE Basalt Plateau)",
+          "6.86%",
+          "11%",
+          "Mukundara Hills, Chambal ravines (Dang area), Black cotton soil"
+        ]
+      ]
+    },
+    {
+      "id": "blk-ras-geo-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — RPSC RAS Top Traps:\n1. **Aravalli Length Split:** Total length = 692 km; Length in Rajasthan = **550 km (80%)**.\n2. **50 cm Isohyet Line:** The Aravalli range aligns with the **50 cm rainfall isohyet line**, dividing Rajasthan into two distinct climatic zones (Arid/Semi-Arid West vs Sub-Humid/Humid East)!"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RPSC RAS Prelims 2026",
+      "RPSC RAS Mains 2026",
+      "Rajasthan Police SI"
+    ],
+    "tags": [
+      "geography",
+      "rpsc-ras",
+      "rajasthan-geography",
+      "aravalli",
+      "thar-desert"
+    ],
+    "category": "Geography",
+    "sectionCode": "GEO",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-20",
+    "period": "2026-Q4",
+    "provenance": {
+      "sourceSystem": "DF-EIC",
+      "sourceFile": "Phase 3 RAS Suite",
+      "sourceTitle": "RAS Geography Chapter 1"
+    },
+    "noteNumber": 550
+  },
+  "relationships": []
+}

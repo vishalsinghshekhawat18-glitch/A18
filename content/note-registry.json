@@ -2788,5 +2788,55 @@
     "period": "2026-Q4",
     "category": "English",
     "file": "content/corpus/eng-50-model-essays-bank-po-rbi.json"
+  },
+  "546": {
+    "noteNumber": 546,
+    "id": "quant-rbi-grade-b-pyq-master-suite",
+    "title": "RBI Grade B Phase 1 Quant Memory-Based PYQ Masterclass (2020–2025)",
+    "section": "QUANT",
+    "date": "2026-08-20",
+    "period": "2026-Q4",
+    "category": "Quant",
+    "file": "content/corpus/quant-rbi-grade-b-pyq-master-suite.json"
+  },
+  "547": {
+    "noteNumber": 547,
+    "id": "ras-pol-ch-1-rajasthan-governor-cm-assembly",
+    "title": "RAS Polity Chapter 1: Governor of Rajasthan, Chief Minister & State Legislative Assembly",
+    "section": "POL",
+    "date": "2026-08-20",
+    "period": "2026-Q4",
+    "category": "Polity",
+    "file": "content/corpus/ras-pol-ch-1-rajasthan-governor-cm-assembly.json"
+  },
+  "548": {
+    "noteNumber": 548,
+    "id": "ras-pol-ch-2-rajasthan-high-court-rpsc-commissions",
+    "title": "RAS Polity Chapter 2: Rajasthan High Court, RPSC, SHRC & Lokayukta",
+    "section": "POL",
+    "date": "2026-08-20",
+    "period": "2026-Q4",
+    "category": "Polity",
+    "file": "content/corpus/ras-pol-ch-2-rajasthan-high-court-rpsc-commissions.json"
+  },
+  "549": {
+    "noteNumber": 549,
+    "id": "ras-pol-ch-4-comparative-constitutions",
+    "title": "RAS Mains Paper III: Comparative Constitutions (UK, USA, Canada, Germany & Switzerland)",
+    "section": "POL",
+    "date": "2026-08-20",
+    "period": "2026-Q4",
+    "category": "Polity",
+    "file": "content/corpus/ras-pol-ch-4-comparative-constitutions.json"
+  },
+  "550": {
+    "noteNumber": 550,
+    "id": "ras-geo-ch-1-rajasthan-physical-divisions",
+    "title": "RAS Geography Chapter 1: 4 Physical Divisions of Rajasthan & Aravalli Formations",
+    "section": "GEO",
+    "date": "2026-08-20",
+    "period": "2026-Q4",
+    "category": "Geography",
+    "file": "content/corpus/ras-geo-ch-1-rajasthan-physical-divisions.json"
   }
 }

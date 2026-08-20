@@ -1,0 +1,83 @@
+{
+  "id": "ras-pol-ch-1-rajasthan-governor-cm-assembly",
+  "type": "chapter",
+  "domain": "polity",
+  "title": "RAS Polity Chapter 1: Governor of Rajasthan, Chief Minister & State Legislative Assembly",
+  "summary": "Exhaustive administrative guide for RPSC RAS Pre & Mains on the Governor of Rajasthan, CM Secretariat, Vidhan Sabha rules, and key historical milestones...",
+  "blocks": [
+    {
+      "id": "blk-ras-pol-1",
+      "type": "paragraph",
+      "content": "### 🏛️ State Executive & Legislature of Rajasthan\n\n1. **Governor of Rajasthan (Articles 153–161):**\n   • **Historical Evolution:** The post of Governor in Rajasthan was created on **1 November 1956** (following the 7th Constitutional Amendment Act and the State Reorganisation Act, replacing the post of *Rajpramukh* held by Maharaja Sawai Man Singh II of Jaipur).\n   • **First Governor:** **Gurumukh Nihal Singh** (1 Nov 1956 – 16 Apr 1962, longest serving Governor of Rajasthan).\n   • **First Woman Governor:** **Pratibha Patil** (8 Nov 2004 – 21 Jun 2007; later 1st woman President of India).\n   • **Four Governors who died in office:** Darbara Singh (1998), Nirmal Chandra Jain (2003), S.K. Singh (2009), and Prabha Rau (2010).\n2. **Chief Minister & State Council of Ministers (Articles 163–167):**\n   • **First Nominated CM:** Hiralal Shastri (7 Apr 1949 – 5 Jan 1951).\n   • **First Democratically Elected CM:** Tikaram Paliwal (3 Mar 1952 – 31 Oct 1952).\n   • **Modern Rajasthan Builder:** Mohan Lal Sukhadia (served for ~17 years across 4 terms: 1954–1971).\n3. **Rajasthan Legislative Assembly (Vidhan Sabha):**\n   • **Seat Strength:** Initially 160 seats in 1st Assembly (1952) (\to) expanded to **200 seats** in the 6th Assembly (1977 onwards).\n   • **Seat Reservation:** SC: **34 seats**; ST: **25 seats**; General: 141 seats (Unicameral Legislature; zero Legislative Council).\n   • **First Speaker:** Narottam Lal Joshi; **First Deputy Speaker:** Lal Singh Shaktawat."
+    },
+    {
+      "id": "blk-ras-pol-1-table",
+      "type": "table",
+      "headers": [
+        "Constitutional Office",
+        "First Incumbent",
+        "Key Historical Milestone / Landmark Fact"
+      ],
+      "rows": [
+        [
+          "Governor of Rajasthan",
+          "Gurumukh Nihal Singh (1956)",
+          "Replaced the office of Rajpramukh on 1 Nov 1956"
+        ],
+        [
+          "First Woman Governor",
+          "Pratibha Patil (2004)",
+          "Resigned in 2007 to become President of India"
+        ],
+        [
+          "First Elected CM",
+          "Tikaram Paliwal (1952)",
+          "First general elections held in Jan 1952"
+        ],
+        [
+          "First Woman CM",
+          "Vasundhara Raje (2003)",
+          "Elected in 12th Rajasthan Legislative Assembly"
+        ],
+        [
+          "First Assembly Speaker",
+          "Narottam Lal Joshi",
+          "Elected from Jhunjhunu constituency"
+        ]
+      ]
+    },
+    {
+      "id": "blk-ras-pol-1-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — RPSC RAS Recurring Traps:\n1. **First CM Distinction:** First *Nominated* CM = Hiralal Shastri (1949); First *Elected* CM = Tikaram Paliwal (1952); First person to be both Nominated and Elected CM = Jai Narayan Vyas.\n2. **Assembly Seats Evolution:** 1st Assembly = 160 seats; 200 seats reached in the 6th Assembly (1977)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "RPSC RAS Prelims 2026",
+      "RPSC RAS Mains 2026",
+      "Rajasthan Police SI"
+    ],
+    "tags": [
+      "polity",
+      "rpsc-ras",
+      "rajasthan-polity",
+      "governor",
+      "vidhan-sabha"
+    ],
+    "category": "Polity",
+    "sectionCode": "POL",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-20",
+    "period": "2026-Q4",
+    "provenance": {
+      "sourceSystem": "DF-EIC",
+      "sourceFile": "Phase 3 RAS Suite",
+      "sourceTitle": "RAS Polity Chapter 1"
+    },
+    "noteNumber": 547
+  },
+  "relationships": []
+}
