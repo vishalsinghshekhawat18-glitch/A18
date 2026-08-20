@@ -3,14 +3,13 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "FATF adds Kuwait, Papua New Guinea",
-  "summary": "to increased-monitoring \"grey list\"",
+  "summary": "to increased-monitoring \"grey list\"; high-risk \"black list\" unchanged (Iran, DPRK, Myanmar).",
   "blocks": [
     {
       "id": "blk-q4-90-bullets",
       "type": "bullet_list",
       "items": [
-        "to increased-monitoring \"grey list\"",
-        "high-risk \"black list\" unchanged (Iran, DPRK, Myanmar)."
+        "to increased-monitoring \"grey list\"; high-risk \"black list\" unchanged (Iran, DPRK, Myanmar)."
       ]
     },
     {

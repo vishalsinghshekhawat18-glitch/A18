@@ -3,20 +3,19 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "SEBI's AI tool 'Sudarshan'",
-  "summary": "removed 1.2 lakh+ misleading finfluencer posts",
+  "summary": "removed 1.2 lakh+ misleading finfluencer posts; multilingual audio/video/text surveillance.",
   "blocks": [
     {
       "id": "blk-q4-38-bullets",
       "type": "bullet_list",
       "items": [
-        "removed 1.2 lakh+ misleading finfluencer posts",
-        "multilingual audio/video/text surveillance."
+        "removed 1.2 lakh+ misleading finfluencer posts; multilingual audio/video/text surveillance."
       ]
     },
     {
       "id": "blk-q4-38-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → Key data points, statutory provisions, and figures in SEBI's AI tool 'Sudarshan' are tested in SBI PO Mains & RBI Grade B."
+      "content": "🎯 Exam Angle → Key statutory data points, figures, and apex announcements in SEBI's AI tool 'Sudarshan' are directly tested in SBI PO Mains & RBI Grade B."
     }
   ],
   "metadata": {

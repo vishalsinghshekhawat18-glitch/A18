@@ -3,31 +3,20 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "[Jan/Feb] Awards",
-  "summary": ": Padma Awards 2026 — 131 total (5 Vibhushan + 13 Bhushan + 113 Shri)",
+  "summary": ": Padma Awards 2026 — 131 total (5 Vibhushan + 13 Bhushan + 113 Shri).",
   "blocks": [
     {
       "id": "blk-q4-111-table",
       "type": "paragraph",
-      "content": "|---|---|"
+      "content": "| Festival | State/Region |\n|---|---|\n| Attukal Pongala | Kerala |\n| Hatti Risala (138th year) | Jalna, Maharashtra |\n| Dol Jatra | West Bengal |\n| Hola Mohalla (est. 1701) | Takht Sachkhand Sri Abchalnagar Sahib |\n| Indian Orchid Festival | Pakyong, Sikkim |\n| Phool Dei | Uttarakhand |\n| Gudi Padwa / Ugadi | Deccan region |\n| Sajibu Cheiraoba | Manipur (Meitei) |\n| Chapchar Kut | Mizoram |\n| Sarhul | Jharkhand (Adivasi) |\n| Navroz | Parsi New Year |"
     },
     {
       "id": "blk-q4-111-bullets",
       "type": "bullet_list",
       "items": [
-        ": Padma Awards 2026 — 131 total (5 Vibhushan + 13 Bhushan + 113 Shri)",
-        "Crafoord Prize 2026 (\"Nobel of Geosciences\") — Veerabhadran Ramanathan (Indian-origin)",
-        "Global Teacher Prize 2026 — Rouble Nagi (India).",
-        "| Attukal Pongala | Kerala |",
-        "| Hatti Risala (138th year) | Jalna, Maharashtra |",
-        "| Dol Jatra | West Bengal |",
-        "| Hola Mohalla (est. 1701) | Takht Sachkhand Sri Abchalnagar Sahib |",
-        "| Indian Orchid Festival | Pakyong, Sikkim |",
-        "| Phool Dei | Uttarakhand |",
-        "| Gudi Padwa / Ugadi | Deccan region |",
-        "| Sajibu Cheiraoba | Manipur (Meitei) |",
-        "| Chapchar Kut | Mizoram |",
-        "| Sarhul | Jharkhand (Adivasi) |",
-        "| Navroz | Parsi New Year |"
+        ": Padma Awards 2026 — 131 total (5 Vibhushan + 13 Bhushan + 113 Shri).",
+        "Crafoord Prize 2026 (\"Nobel of Geosciences\") — Veerabhadran Ramanathan (Indian-origin).",
+        "Global Teacher Prize 2026 — Rouble Nagi (India)."
       ]
     },
     {

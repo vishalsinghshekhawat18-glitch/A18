@@ -3,20 +3,19 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "India's metro network — world's 3rd largest",
-  "summary": "248 km (2014) → 1,095 km (2025)",
+  "summary": "248 km (2014) → 1,095 km (2025); 5 cities → 26 cities.",
   "blocks": [
     {
       "id": "blk-q4-78-bullets",
       "type": "bullet_list",
       "items": [
-        "248 km (2014) → 1,095 km (2025)",
-        "5 cities → 26 cities."
+        "248 km (2014) → 1,095 km (2025); 5 cities → 26 cities."
       ]
     },
     {
       "id": "blk-q4-78-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → Key data points, statutory provisions, and figures in India's metro network — world's 3rd largest are tested in SBI PO Mains & RBI Grade B."
+      "content": "🎯 Exam Angle → Key statutory data points, figures, and apex announcements in India's metro network — world's 3rd largest are directly tested in SBI PO Mains & RBI Grade B."
     }
   ],
   "metadata": {

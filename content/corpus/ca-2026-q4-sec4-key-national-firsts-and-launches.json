@@ -3,21 +3,21 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "Key national firsts and launches",
-  "summary": "**[Feb]** Bharat Taxi (first cooperative-sector ride-hailing, launched by Amit Shah, 5 Feb)",
+  "summary": "**** Bharat Taxi (first cooperative-sector ride-hailing, launched by Amit Shah, 5 Feb).",
   "blocks": [
     {
       "id": "blk-q4-73-bullets",
       "type": "bullet_list",
       "items": [
-        "**** Bharat Taxi (first cooperative-sector ride-hailing, launched by Amit Shah, 5 Feb)",
-        "CBDC-based PDS (Gandhinagar, first e-Rupee ration system)",
-        "Namo Bharat RRTS full 82 km Delhi-Meerut corridor inaugurated (180 km/h)",
-        "PM RAHAT scheme (13 Feb) — cashless road-accident treatment up to ₹1.5 lakh/victim for 7 days",
-        "Micron ATMP facility (Sanand, Gujarat) — first proposal under India Semiconductor Mission, >₹22,500 crore",
-        "**** India's first bullet train (Mumbai-Ahmedabad HSR, 508 km) — target **15 August 2027**",
-        "National Sports Governance Act partial implementation (1 Jan 2026)",
-        "Coking coal notified Critical & Strategic Mineral (MMDR Act Sec 11C)",
-        "77th Republic Day — Chief Guests António Costa & Ursula von der Leyen (16th India-EU Summit, 27 Jan)"
+        "**** Bharat Taxi (first cooperative-sector ride-hailing, launched by Amit Shah, 5 Feb).",
+        "CBDC-based PDS (Gandhinagar, first e-Rupee ration system).",
+        "Namo Bharat RRTS full 82 km Delhi-Meerut corridor inaugurated (180 km/h).",
+        "PM RAHAT scheme (13 Feb) — cashless road-accident treatment up to ₹1.5 lakh/victim for 7 days.",
+        "Micron ATMP facility (Sanand, Gujarat) — first proposal under India Semiconductor Mission, >₹22,500 crore.",
+        "**** India's first bullet train (Mumbai-Ahmedabad HSR, 508 km) — target **15 August 2027**.",
+        "National Sports Governance Act partial implementation (1 Jan 2026).",
+        "Coking coal notified Critical & Strategic Mineral (MMDR Act Sec 11C).",
+        "77th Republic Day — Chief Guests António Costa & Ursula von der Leyen (16th India-EU Summit, 27 Jan)."
       ]
     },
     {
@@ -51,7 +51,7 @@
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "Q4 FY26_Jan to March.md",
-      "sourceTitle": "Key national \"firsts\" and launches"
+      "sourceTitle": "Key national firsts and launches"
     },
     "noteNumber": 274
   },

@@ -3,15 +3,13 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "PFRDA revises NPS distributor (PoP) charges",
-  "summary": "onboarding ₹200/subscriber (₹100 digital), paid in ₹50 quarterly instalments",
+  "summary": "onboarding ₹200/subscriber (₹100 digital), paid in ₹50 quarterly instalments; annual charge 0.20% of AUM; min contribution ₹250 (onboarding)/₹10 (subsequent).",
   "blocks": [
     {
       "id": "blk-q4-42-bullets",
       "type": "bullet_list",
       "items": [
-        "onboarding ₹200/subscriber (₹100 digital), paid in ₹50 quarterly instalments",
-        "annual charge 0.20% of AUM",
-        "min contribution ₹250 (onboarding)/₹10 (subsequent)."
+        "onboarding ₹200/subscriber (₹100 digital), paid in ₹50 quarterly instalments; annual charge 0.20% of AUM; min contribution ₹250 (onboarding)/₹10 (subsequent)."
       ]
     },
     {

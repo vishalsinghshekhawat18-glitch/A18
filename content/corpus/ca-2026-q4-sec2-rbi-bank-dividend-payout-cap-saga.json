@@ -3,18 +3,15 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "RBI bank-dividend-payout cap saga",
-  "summary": "**[Jan]** RBI raises bank dividend payout cap to **75% of net profit** (from 40%), CET1-linked, 10-bucket structure by capital buffer.",
+  "summary": "**** RBI raises bank dividend payout cap to **75% of net profit** (from 40%), CET1-linked, 10-bucket structure by capital buffer.",
   "blocks": [
     {
       "id": "blk-q4-24-bullets",
       "type": "bullet_list",
       "items": [
         "**** RBI raises bank dividend payout cap to **75% of net profit** (from 40%), CET1-linked, 10-bucket structure by capital buffer.",
-        "** 🔄 Full mechanism confirmed:** payout capped at 75% of **Profit After Tax (PAT)**",
-        "quantum linked to CET1 ratio",
-        "banks with CET1 just above regulatory minimum get **no dividend**",
-        "stronger banks may pay up to **100% of Adjusted PAT** (subject to the overall 75%-of-PAT cap)",
-        "Adjusted PAT = PAT − 50% of net NPAs (as of 31 March). **Effective FY27.**"
+        "** 🔄 Full mechanism confirmed:** payout capped at 75% of **Profit After Tax (PAT)**.",
+        "quantum linked to CET1 ratio; banks with CET1 just above regulatory minimum get **no dividend**; stronger banks may pay up to **100% of Adjusted PAT** (subject to the overall 75%-of-PAT cap); Adjusted PAT = PAT − 50% of net NPAs (as of 31 March). **Effective FY27.**."
       ]
     },
     {

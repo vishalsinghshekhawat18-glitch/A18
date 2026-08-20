@@ -3,15 +3,13 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "RoDTEP restored",
-  "summary": "50% restriction withdrawn, full rates (as on 22 Feb 2026) restored effective **23 March 2026**",
+  "summary": "50% restriction withdrawn, full rates (as on 22 Feb 2026) restored effective **23 March 2026**; administered by Dept of Revenue; replaced earlier **MEIS**.",
   "blocks": [
     {
       "id": "blk-q4-14-bullets",
       "type": "bullet_list",
       "items": [
-        "50% restriction withdrawn, full rates (as on 22 Feb 2026) restored effective **23 March 2026**",
-        "administered by Dept of Revenue",
-        "replaced earlier **MEIS**."
+        "50% restriction withdrawn, full rates (as on 22 Feb 2026) restored effective **23 March 2026**; administered by Dept of Revenue; replaced earlier **MEIS**."
       ]
     },
     {

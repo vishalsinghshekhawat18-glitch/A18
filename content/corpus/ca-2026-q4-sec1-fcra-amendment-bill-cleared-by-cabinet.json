@@ -3,20 +3,19 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "FCRA amendment bill cleared by Cabinet",
-  "summary": "new **Section 14B** (deemed cessation on expiry/non-renewal/refusal)",
+  "summary": "new **Section 14B** (deemed cessation on expiry/non-renewal/refusal); max imprisonment for unauthorized foreign-fund receipt cut to 1 year.",
   "blocks": [
     {
       "id": "blk-q4-20-bullets",
       "type": "bullet_list",
       "items": [
-        "new **Section 14B** (deemed cessation on expiry/non-renewal/refusal)",
-        "max imprisonment for unauthorized foreign-fund receipt cut to 1 year."
+        "new **Section 14B** (deemed cessation on expiry/non-renewal/refusal); max imprisonment for unauthorized foreign-fund receipt cut to 1 year."
       ]
     },
     {
       "id": "blk-q4-20-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → Key data points, statutory provisions, and figures in FCRA amendment bill cleared by Cabinet are tested in SBI PO Mains & RBI Grade B."
+      "content": "🎯 Exam Angle → Key statutory data points, figures, and apex announcements in FCRA amendment bill cleared by Cabinet are directly tested in SBI PO Mains & RBI Grade B."
     }
   ],
   "metadata": {

@@ -3,37 +3,25 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "\udcca Consolidated Global Indices Table",
-  "summary": "India's rank, Jan-Mar 2026",
+  "summary": "India's rank, Jan-Mar 2026.",
   "blocks": [
     {
       "id": "blk-q4-109-table",
       "type": "paragraph",
-      "content": "|---|---|---|---|"
+      "content": "| Index | India Rank/Score | Month | Key Note |\n|---|---|---|---|\n| Global Soft Power Index 2026 | 32nd, 48.0 | Jan | Slipped 2 places y-o-y |\n| Henley Passport Index | 80th (Jan) → 75th (Feb) | Jan/Feb | Feb: 56 countries (down from 57) — rank rose, destinations fell |\n| Network Readiness Index 2025 | 45th (↑4), 54.43 | Feb | #1 in telecom investment, AI publications |\n| Corruption Perceptions Index 2025 | 91st/182, score 39 | Feb | Denmark #1, 8th year running |\n| Global AI Brain Race 2026 | 6th, 32/100 | Feb | US #1, 82/100 |\n| UBS Billionaire Ambition Report | 3rd, 188 billionaires | Feb | US 924, China 470 |\n| Responsible Nations Index (1st edn) | 16th/154 | Jan | Singapore #1 |\n| Asia Manufacturing Index 2026 | 6th/11 | Jan | China #1 |\n| Global Innovation Index | 81 → 38 (improved) | Feb | Announced at AI Impact Summit — see Section 4 |\n| Global Terrorism Index 2026 (13th edn) | 13th, score 6.428 | Mar | Worst 5: Pakistan, Burkina Faso, Niger, Nigeria, Mali |\n| Fiscal Health Index 2026 (2nd edn, NITI Aayog) | — (covers 18 major + 10 NE/Himalayan states) | Mar | FY2023-24; 5 parameters |\n| SKYTRAX World Airport Awards 2026 | Delhi 32→28 (global top 30) | Mar | Changi won 13th time; Hyderabad 43rd, Goa Manohar 64th, Mumbai 66th |\n| QS World University Rankings by Subject 2026 | 99 institutions ranked, 4th globally by count | Mar | after US, China, UK |\n| Brand Finance Banking 500 (2026) | HDFC Bank 31st ($12.4bn); SBI 56th ($8.1bn, AAA+ rated) | Mar | 19 Indian banks featured |\n| Most Valuable Telecom Brands 2026 | Airtel 17th; Jio 23rd | Mar | Deutsche Telekom = most valuable telecom brand globally |"
     },
     {
       "id": "blk-q4-109-bullets",
       "type": "bullet_list",
       "items": [
-        "India's rank, Jan-Mar 2026",
-        "**Hurun Global Rich List 2026**: India = **308** (+24 YoY), 3rd globally (after US, China); Mumbai leads India (95 billionaires); Mukesh Ambani India's/Asia's richest (₹9.8 trillion); globally New York tops (146)",
-        "**Forbes World's Billionaires List 2026** (40th edn): India = **229** (wealth >$1 trillion); Top 5 India: Ambani, Adani, Savitri Jindal (richest woman), Lakshmi Mittal, Shiv Nadar; globally 3,428 (all-time high); world's richest Elon Musk ($839bn)",
-        "Youngest billionaire: Surya Midha (22, Mercor co-founder), matches Zuckerberg's record",
-        "Self-made women billionaires globally: 150 (doubled in a decade), $470bn; India has 3 (Radha Vembu, Falguni Nayar, Kiran Mazumdar-Shaw)",
-        "| Global Soft Power Index 2026 | 32nd, 48.0 | Jan | Slipped 2 places y-o-y |",
-        "| Henley Passport Index | 80th (Jan) → 75th (Feb) | Jan/Feb | Feb: 56 countries (down from 57) — rank rose, destinations fell |",
-        "| Network Readiness Index 2025 | 45th (↑4), 54.43 | Feb | #1 in telecom investment, AI publications |",
-        "| Corruption Perceptions Index 2025 | 91st/182, score 39 | Feb | Denmark #1, 8th year running |",
-        "| Global AI Brain Race 2026 | 6th, 32/100 | Feb | US #1, 82/100 |",
-        "| UBS Billionaire Ambition Report | 3rd, 188 billionaires | Feb | US 924, China 470 |",
-        "| Responsible Nations Index (1st edn) | 16th/154 | Jan | Singapore #1 |",
-        "| Asia Manufacturing Index 2026 | 6th/11 | Jan | China #1 |",
-        "| Global Innovation Index | 81 → 38 (improved) | Feb | Announced at AI Impact Summit — see Section 4 |",
-        "| Global Terrorism Index 2026 (13th edn) | 13th, score 6.428 | Mar | Worst 5: Pakistan, Burkina Faso, Niger, Nigeria, Mali |",
-        "| Fiscal Health Index 2026 (2nd edn, NITI Aayog) | — (covers 18 major + 10 NE/Himalayan states) | Mar | FY2023-24; 5 parameters |",
-        "| SKYTRAX World Airport Awards 2026 | Delhi 32→28 (global top 30) | Mar | Changi won 13th time; Hyderabad 43rd, Goa Manohar 64th, Mumbai 66th |",
-        "| QS World University Rankings by Subject 2026 | 99 institutions ranked, 4th globally by count | Mar | after US, China, UK |",
-        "| Brand Finance Banking 500 (2026) | HDFC Bank 31st ($12.4bn); SBI 56th ($8.1bn, AAA+ rated) | Mar | 19 Indian banks featured |",
-        "| Most Valuable Telecom Brands 2026 | Airtel 17th; Jio 23rd | Mar | Deutsche Telekom = most valuable telecom brand globally |"
+        "India's rank, Jan-Mar 2026.",
+        "**Hurun Global Rich List 2026**: India = **308** (+24 YoY), 3rd globally (after US, China).",
+        "Mumbai leads India (95 billionaires); Mukesh Ambani India's/Asia's richest (₹9.8 trillion); globally New York tops (146).",
+        "**Forbes World's Billionaires List 2026** (40th edn): India = **229** (wealth >$1 trillion).",
+        "Top 5 India: Ambani, Adani, Savitri Jindal (richest woman), Lakshmi Mittal, Shiv Nadar.",
+        "globally 3,428 (all-time high); world's richest Elon Musk ($839bn).",
+        "Youngest billionaire: Surya Midha (22, Mercor co-founder), matches Zuckerberg's record.",
+        "Self-made women billionaires globally: 150 (doubled in a decade), $470bn; India has 3 (Radha Vembu, Falguni Nayar, Kiran Mazumdar-Shaw)."
       ]
     },
     {

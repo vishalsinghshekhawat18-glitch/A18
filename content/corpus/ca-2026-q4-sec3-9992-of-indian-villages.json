@@ -3,21 +3,19 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "99.92% of Indian villages",
-  "summary": "covered with banking outlets (within 5km)",
+  "summary": "covered with banking outlets (within 5km); 100% in Dadra & Nagar Haveli; monitored via Jan Dhan Darshak App.",
   "blocks": [
     {
       "id": "blk-q4-53-bullets",
       "type": "bullet_list",
       "items": [
-        "covered with banking outlets (within 5km)",
-        "100% in Dadra & Nagar Haveli",
-        "monitored via Jan Dhan Darshak App."
+        "covered with banking outlets (within 5km); 100% in Dadra & Nagar Haveli; monitored via Jan Dhan Darshak App."
       ]
     },
     {
       "id": "blk-q4-53-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → Key data points, statutory provisions, and figures in 99.92% of Indian villages are tested in SBI PO Mains & RBI Grade B."
+      "content": "🎯 Exam Angle → Key statutory data points, figures, and apex announcements in 99.92% of Indian villages are directly tested in SBI PO Mains & RBI Grade B."
     }
   ],
   "metadata": {
