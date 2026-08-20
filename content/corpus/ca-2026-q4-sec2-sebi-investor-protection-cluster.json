@@ -2,27 +2,23 @@
   "id": "ca-2026-q4-sec2-sebi-investor-protection-cluster",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "SEBI investor-protection cluster",
-  "summary": "debit-freeze voluntary lock-in for MF folios; simplified heir claims (STP ₹10k physical/₹30k demat; simplified-doc threshold ₹10 lakh physical/₹30 lakh demat; t...",
+  "title": "SEBI Investor Protection, Folio Lock-In & Heir Claims Package",
+  "summary": "**Mutual Fund Folio Debit-Freeze:** Introduced voluntary debit-freeze facility enabling mutual fund investors to lock their folios against unauthorized redempti...",
   "blocks": [
     {
-      "id": "blk-q4-39-bullets",
+      "id": "blk-ca-2026-q4-sec2-sebi-investor-protection-cluster-bullets",
       "type": "bullet_list",
       "items": [
-        "debit-freeze voluntary lock-in for MF folios.",
-        "simplified heir claims (STP ₹10k physical/₹30k demat.",
-        "simplified-doc threshold ₹10 lakh physical/₹30 lakh demat.",
-        "transmission ≤21 days).",
-        "proposed nomination cap **4** (not the earlier-proposed 10).",
-        "**Verified App Label** (Chairman Tuhin Kanta Pandey, \"First verify. Then invest.\").",
-        "Niveshak Shivir (IEPFA+SEBI, Bhubaneswar, 27 Mar).",
-        "SEBI SETU digital advisory platform."
+        "**Mutual Fund Folio Debit-Freeze:** Introduced voluntary debit-freeze facility enabling mutual fund investors to lock their folios against unauthorized redemption or switching.",
+        "**Simplified Transmission for Deceased Heirs:** Streamlined processing thresholds set at ₹10,000 for physical units and ₹30,000 for demat units via STP; full documentation waiver threshold raised to **₹10 Lakh (physical) / ₹30 Lakh (demat)** with mandatory claim transmission within **≤21 days**.",
+        "**Nomination Limits:** Standardized the maximum nomination ceiling to **4 nominees** per folio (revising earlier draft proposal of 10).",
+        "**Verified App Certification & Advisory Platforms:** Launched **Verified App Label** under Chairman Tuhin Kanta Pandey (\"First verify. Then invest.\") and rolled out **SEBI SETU** digital advisory platform."
       ]
     },
     {
-      "id": "blk-q4-39-trap",
+      "id": "blk-ca-2026-q4-sec2-sebi-investor-protection-cluster-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → Max nominees (proposed) = 4, down from proposed 10."
+      "content": "🎯 Exam Angle → Simplified claim transmission timeline is ≤21 days; maximum nomination cap fixed at 4 nominees (not 10)."
     }
   ],
   "metadata": {

@@ -3,17 +3,20 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "\udd01 Running thread: What changes on April 1, 2026 (cross-month mega-cluster)",
-  "summary": "This single date accumulated the most trap-dense list of the quarter. Consolidated for one-shot revision:.",
+  "summary": "RBI RPT rules realign; NBFC infra-lending risk-weight easing.",
   "blocks": [
+    {
+      "id": "blk-q4-43-p",
+      "type": "paragraph",
+      "content": "This single date accumulated the most trap-dense list of the quarter. Consolidated for one-shot revision:"
+    },
     {
       "id": "blk-q4-43-bullets",
       "type": "bullet_list",
       "items": [
-        "This single date accumulated the most trap-dense list of the quarter. Consolidated for one-shot revision:.",
-        "**** RBI RPT rules realign; NBFC infra-lending risk-weight easing.",
-        "**** Fraud-comp (₹25k/85%, later deferred — see Status Check).",
-        "acquisition-financing (20% cap); MSME collateral-free limit ₹20 lakh; broker 100% collateral; ECB cap $1bn/300%; RBP deposit-insurance framework; 4%±2% RBI inflation mandate begins.",
-        "**** Income Tax Rules 2026; 2FA mandate; DigiLocker verification; ECB filing 7-day window; SEBI intra-day MF borrowing; Ind AS 117 for insurers; FSSAI perpetual licences; SWM Rules 2026; PM E-DRIVE-linked norms."
+        "RBI RPT rules realign; NBFC infra-lending risk-weight easing.",
+        "Fraud-comp (₹25k/85%, later deferred — see Status Check); acquisition-financing (20% cap); MSME collateral-free limit ₹20 lakh; broker 100% collateral; ECB cap $1bn/300%; RBP deposit-insurance framework; 4%±2% RBI inflation mandate begins.",
+        "Income Tax Rules 2026; 2FA mandate; DigiLocker verification; ECB filing 7-day window; SEBI intra-day MF borrowing; Ind AS 117 for insurers; FSSAI perpetual licences; SWM Rules 2026; PM E-DRIVE-linked norms."
       ]
     },
     {

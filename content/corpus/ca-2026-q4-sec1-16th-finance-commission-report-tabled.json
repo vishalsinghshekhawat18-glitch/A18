@@ -1,21 +1,22 @@
 {
-  "id": "ca-2026-q4-sec1-pm-ebus-sewa-scheme",
+  "id": "ca-2026-q4-sec1-16th-finance-commission-report-tabled",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "PM-eBus Sewa Scheme",
-  "summary": "10,000 AC e-buses, 116 cities, 26 states/UTs, PPP, by end-2027; total cost ₹57,613 crore, central support ₹20,000 crore.",
+  "title": "16th Finance Commission report tabled",
+  "summary": "Covers Centre-State tax devolution, **2026-2031**; Centre retains **41%** share (unchanged since 2021).",
   "blocks": [
     {
-      "id": "blk-q4-22-bullets",
+      "id": "blk-q4-1-bullets",
       "type": "bullet_list",
       "items": [
-        "10,000 AC e-buses, 116 cities, 26 states/UTs, PPP, by end-2027; total cost ₹57,613 crore, central support ₹20,000 crore."
+        "Covers Centre-State tax devolution, **2026-2031**; Centre retains **41%** share (unchanged since 2021).",
+        "Constituted 31 Dec 2023; Chairman **Arvind Panagariya**; constitutional basis **Article 280**."
       ]
     },
     {
-      "id": "blk-q4-22-trap",
+      "id": "blk-q4-1-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → Key data points, dates, and provisions in PM-eBus Sewa Scheme are critical for SBI PO Mains & RBI Grade B."
+      "content": "🎯 Exam Angle → 🔥 HIGH — \"41%, Panagariya, Article 280\" trio."
     }
   ],
   "metadata": {
@@ -36,16 +37,16 @@
     "difficulty": "advanced",
     "relevanceTier": "TIER_A",
     "noteTier": "TIER_A",
-    "date": "2026-03-31",
+    "date": "2026-02-20",
     "period": "2026-Q4",
     "monthLabel": "JANUARY – MARCH 2026",
     "monthGroup": "2026-01-03",
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "Q4 FY26_Jan to March.md",
-      "sourceTitle": "PM-eBus Sewa Scheme"
+      "sourceTitle": "16th Finance Commission report tabled"
     },
-    "noteNumber": 223
+    "noteNumber": 202
   },
   "relationships": []
 }

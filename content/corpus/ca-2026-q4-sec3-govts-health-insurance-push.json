@@ -2,24 +2,22 @@
   "id": "ca-2026-q4-sec3-govts-health-insurance-push",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "Govt's health-insurance push",
-  "summary": "coverage-for-all target **2033** (govt) vs IRDAI's \"Insurance for All by **2047**\" vision; 25,000 gram panchayats for rural outreach; per-capita premium **$97**...",
+  "title": "National Health Insurance Expansion & Settlement Timelines",
+  "summary": "**Universal Health Target Vision:** Government articulated \"Health Coverage for All by **2033**\", complementing IRDAI's long-term \"Insurance for All by **2047**...",
   "blocks": [
     {
-      "id": "blk-q4-67-bullets",
+      "id": "blk-ca-2026-q4-sec3-govts-health-insurance-push-bullets",
       "type": "bullet_list",
       "items": [
-        "coverage-for-all target **2033** (govt) vs IRDAI's \"Insurance for All by **2047**\" vision.",
-        "25,000 gram panchayats for rural outreach.",
-        "per-capita premium **$97** vs global average **$943**.",
-        "health insurance premiums ₹1,17,505 crore FY25, 58 crore lives covered.",
-        "**PMJJBY**: ₹2 lakh cover for ₹436 annual premium."
+        "**Universal Health Target Vision:** Government articulated \"Health Coverage for All by **2033**\", complementing IRDAI's long-term \"Insurance for All by **2047**\" vision.",
+        "**Market Depth & Premium Slabs:** Total health insurance premiums reached ₹1,17,505 Crore in FY25 covering 58 Crore lives; India's per-capita insurance premium stands at **$97** (compared to the global average of **$943**).",
+        "**Mandatory Cashless Turnaround Times:** IRDAI mandated hospitals and insurers to complete **cashless pre-authorization within 1 hour** and **final discharge approval within 3 hours**."
       ]
     },
     {
-      "id": "blk-q4-67-trap",
+      "id": "blk-ca-2026-q4-sec3-govts-health-insurance-push-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → 🔥 HIGH — $97 vs $943 per-capita comparison; 2033 (govt) vs 2047 (IRDAI) target trap."
+      "content": "🎯 Exam Angle → 🔥 HIGH — Government target is 2033 vs IRDAI vision 2047; India per capita premium ($97) vs Global average ($943); Cashless timelines: 1 hr pre-auth / 3 hrs final."
     }
   ],
   "metadata": {

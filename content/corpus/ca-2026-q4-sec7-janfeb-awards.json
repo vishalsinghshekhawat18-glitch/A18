@@ -3,7 +3,7 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "[Jan/Feb] Awards",
-  "summary": ": Padma Awards 2026 — 131 total (5 Vibhushan + 13 Bhushan + 113 Shri).",
+  "summary": ": Padma Awards 2026 — 131 total (5 Vibhushan + 13 Bhushan + 113 Shri); Crafoord Prize 2026 (\"Nobel of Geosciences\") — Veerabhadran Ramanathan (Indian-origin); G...",
   "blocks": [
     {
       "id": "blk-q4-111-table",
@@ -11,12 +11,15 @@
       "content": "| Festival | State/Region |\n|---|---|\n| Attukal Pongala | Kerala |\n| Hatti Risala (138th year) | Jalna, Maharashtra |\n| Dol Jatra | West Bengal |\n| Hola Mohalla (est. 1701) | Takht Sachkhand Sri Abchalnagar Sahib |\n| Indian Orchid Festival | Pakyong, Sikkim |\n| Phool Dei | Uttarakhand |\n| Gudi Padwa / Ugadi | Deccan region |\n| Sajibu Cheiraoba | Manipur (Meitei) |\n| Chapchar Kut | Mizoram |\n| Sarhul | Jharkhand (Adivasi) |\n| Navroz | Parsi New Year |"
     },
     {
+      "id": "blk-q4-111-p",
+      "type": "paragraph",
+      "content": "*(Obituaries never logged, per standing framework rule — none carried in any of the three months.)*"
+    },
+    {
       "id": "blk-q4-111-bullets",
       "type": "bullet_list",
       "items": [
-        ": Padma Awards 2026 — 131 total (5 Vibhushan + 13 Bhushan + 113 Shri).",
-        "Crafoord Prize 2026 (\"Nobel of Geosciences\") — Veerabhadran Ramanathan (Indian-origin).",
-        "Global Teacher Prize 2026 — Rouble Nagi (India)."
+        ": Padma Awards 2026 — 131 total (5 Vibhushan + 13 Bhushan + 113 Shri); Crafoord Prize 2026 (\"Nobel of Geosciences\") — Veerabhadran Ramanathan (Indian-origin); Global Teacher Prize 2026 — Rouble Nagi (India)."
       ]
     },
     {

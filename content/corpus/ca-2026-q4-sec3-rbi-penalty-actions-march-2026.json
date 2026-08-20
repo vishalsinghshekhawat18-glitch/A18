@@ -2,25 +2,24 @@
   "id": "ca-2026-q4-sec3-rbi-penalty-actions-march-2026",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "RBI penalty actions, March 2026",
-  "summary": "HSBC ₹31.8 lakh (inoperative accounts); Union Bank of India ₹95.40 lakh (unauthorised e-transactions not actioned in 10 days); Central Bank of India ₹63.60 lakh...",
+  "title": "RBI Regulatory Penalties on Banks & Intermediaries (March 2026)",
+  "summary": "**Union Bank of India (₹95.40 Lakh):** Penalized for failure to resolve unauthorized electronic banking transactions within the statutory 10-day timeline....",
   "blocks": [
     {
-      "id": "blk-q4-51-bullets",
+      "id": "blk-ca-2026-q4-sec3-rbi-penalty-actions-march-2026-bullets",
       "type": "bullet_list",
       "items": [
-        "HSBC ₹31.8 lakh (inoperative accounts).",
-        "Union Bank of India ₹95.40 lakh (unauthorised e-transactions not actioned in 10 days).",
-        "Central Bank of India ₹63.60 lakh (KYC/BSBDA lapses).",
-        "Bank of India ₹58.50 lakh (PSL/deposit-rate norms).",
-        "Pine Labs ₹3.10 lakh (PPI directions).",
-        "Airtel Payments Bank ₹31.8 lakh (complaint non-disclosure)."
+        "**Union Bank of India (₹95.40 Lakh):** Penalized for failure to resolve unauthorized electronic banking transactions within the statutory 10-day timeline.",
+        "**Central Bank of India (₹63.60 Lakh):** Fined for lapses in customer identification (KYC) and basic savings bank deposit account (BSBDA) norms.",
+        "**Bank of India (₹58.50 Lakh):** Penalized for non-compliance with priority sector lending (PSL) guidelines and deposit interest rate directions.",
+        "**HSBC India & Airtel Payments Bank (₹31.80 Lakh each):** HSBC fined for inoperative account lapses; Airtel Payments Bank fined for non-disclosure of customer grievance escalations.",
+        "**Pine Labs (₹3.10 Lakh):** Penalized for procedural non-compliance under Master Directions on Prepaid Payment Instruments (PPIs)."
       ]
     },
     {
-      "id": "blk-q4-51-trap",
+      "id": "blk-ca-2026-q4-sec3-rbi-penalty-actions-march-2026-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → 🔥 HIGH — Highest this cluster: Union Bank of India ₹95.40 lakh."
+      "content": "🎯 Exam Angle → Highest single penalty in this cluster was imposed on Union Bank of India (₹95.40 Lakh) for electronic transaction delays."
     }
   ],
   "metadata": {

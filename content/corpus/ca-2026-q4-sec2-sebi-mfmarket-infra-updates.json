@@ -2,25 +2,23 @@
   "id": "ca-2026-q4-sec2-sebi-mfmarket-infra-updates",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "SEBI MF/market-infra updates",
-  "summary": "intra-day borrowing beyond 20%-of-net-assets cap effective 1 April 2026; Life cycle funds fixed maturities 5/10/15/20/25/30 yrs, exit load 3%/2%/1%; MF Gift Car...",
+  "title": "SEBI Mutual Funds & Market Infrastructure Reforms",
+  "summary": "**Intra-Day Borrowing Facility:** Permitted mutual funds to execute intra-day borrowing beyond the statutory 20% of net assets cap for liquidity management, eff...",
   "blocks": [
     {
-      "id": "blk-q4-40-bullets",
+      "id": "blk-ca-2026-q4-sec2-sebi-mfmarket-infra-updates-bullets",
       "type": "bullet_list",
       "items": [
-        "intra-day borrowing beyond 20%-of-net-assets cap effective 1 April 2026.",
-        "Life cycle funds fixed maturities 5/10/15/20/25/30 yrs, exit load 3%/2%/1%.",
-        "MF Gift Cards (proposed) max ₹10,000/card, ₹50,000/MF/yr.",
-        "**IT Resilience Index** (proposed) — availability & security weighted **20% each** (highest), others 10% each.",
-        "Custodian SBU framework, net worth ₹75 crore, most provisions effective 24 March 2026.",
-        "Abridged Prospectus for IPOs."
+        "**Intra-Day Borrowing Facility:** Permitted mutual funds to execute intra-day borrowing beyond the statutory 20% of net assets cap for liquidity management, effective 1 April 2026.",
+        "**Life Cycle Funds Architecture:** Mandated fixed maturity horizons of 5, 10, 15, 20, 25, and 30 years with staggered exit loads of 3%, 2%, and 1%.",
+        "**IT Resilience & Cyber Security Index:** Proposed framework assigning the highest weightage of **20% each to System Availability and Cyber Security**, with remaining operational parameters weighted at 10% each.",
+        "**Custodian SBU & Gifting Norms:** Approved dedicated Custodian Strategic Business Unit (SBU) framework with ₹75 Crore net worth bar, alongside proposed MF Gift Cards capped at ₹10,000 per card (₹50,000/fund/year)."
       ]
     },
     {
-      "id": "blk-q4-40-trap",
+      "id": "blk-ca-2026-q4-sec2-sebi-mfmarket-infra-updates-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → IT Resilience Index: availability & security = 20% weight each."
+      "content": "🎯 Exam Angle → IT Resilience Index weights Availability & Security at 20% each; Custodian SBU minimum net worth requirement is ₹75 Crore."
     }
   ],
   "metadata": {
