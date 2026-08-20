@@ -42,10 +42,6 @@
       "content": "4. Fundamental Identity: $\\text{Total Value Added} \\equiv \\text{Total Factor Income} \\equiv \\text{Total Final Expenditure}$."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚡ 1. The Three National Income Calculation Methods"
@@ -63,17 +59,9 @@
       "content": "#### C. Expenditure Method\n$$GDP_{MP} = C + I + G + (X - M)$$\nWhere:\n- $C$ = Private Final Consumption Expenditure (PFCE)\n- $G$ = Government Final Consumption Expenditure (GFCE)\n- $I$ = Gross Domestic Capital Formation (GDCF = Gross Fixed Capital Formation + Change in Stocks)\n- $(X - M)$ = Net Exports"
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "📖 2. The Problem of Double Counting & Solutions\n- **Double Counting:** Counting the value of intermediate goods multiple times at successive stages of production (e.g. counting wheat $\rightarrow$ flour $\rightarrow$ bread).\n- **Solution 1:** Take ONLY the value of the **final good** (Bread price).\n- **Solution 2:** Take the **sum of Value Added** at each stage of production."
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -81,17 +69,9 @@
       "text": "🏛️ 3. Data Sources & NSO Sectoral Scrutiny in India\n- **Primary Sector (Agri, Mining):** Uses Product Method (crop yield data from Ministry of Agriculture).\n- **Secondary Sector (Manufacturing, Construction):** Uses Product & Income Methods (MCA-21 corporate database + Annual Survey of Industries ASI).\n- **Tertiary Sector (Services):** Uses Income Method (RBI banking data, GST portal collections, PLFS employment data)."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚖️ 4. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Intermediate consumption (raw materials) MUST be subtracted from output. If a bakery buys flour for ₹40 and sells bread for ₹60, its Value Added is **₹20** (not ₹60!).\n- ⚠️ **Exam Trap 2:** Transfer payments (scholarships, pensions) and sale of **second-hand goods** are EXCLUDED from expenditure method (second-hand goods were already counted in the year of original manufacture)."
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -100,7 +80,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which component of the Income Method accounts for the earnings of sole proprietors, farmers, and self-employed professionals where factor payments cannot be distinguished?  \n(A) Compensation of Employees  \n(B) Operating Surplus  \n(C) Mixed Income of Self-Employed  \n(D) Net Factor Income from Abroad  \n**Answer:** **(C)** — Mixed Income combines unseparated labor, rent, and profit income of self-employed units."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which component of the Income Method accounts for the earnings of sole proprietors, farmers, and self-employed professionals where factor payments cannot be distinguished?  \n(A) Compensation of Employees  \n(B) Operating Surplus  \n(C) Mixed Income of Self-Employed  \n(D) Net Factor Income from Abroad  \n**Answer:** ** — Mixed Income combines unseparated labor, rent, and profit income of self-employed units."
     },
     {
       "type": "paragraph",

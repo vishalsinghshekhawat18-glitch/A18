@@ -42,17 +42,9 @@
       "content": "4. Capital Conservation Buffer (CCB): Mandatory additional **2.5% Common Equity Tier 1 capital** built during non-stress periods."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚡ 1. Basel Accords Evolution Matrix\n| Accord | Year | Key Regulatory Pillar Introduced |\n|---|---|---|\n| **Basel I** | 1988 | Focused strictly on **Credit Risk**. Fixed minimum CRAR at **8%** of Risk-Weighted Assets. |\n| **Basel II** | 2004 | Introduced **3 Pillars:** 1. Minimum Capital Requirements (Credit, Market, Operational Risk); 2. Supervisory Review; 3. Market Discipline (Disclosures). |\n| **Basel III** | 2010 (Post-2008 Crisis) | Strengthened Tier 1 capital quality, added **Capital Conservation Buffer (2.5%)**, **Counter-Cyclical Buffer (0-2.5%)**, Leverage Ratio, and Liquidity Ratios (LCR & NSFR). |"
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -60,17 +52,9 @@
       "text": "📖 2. Risk-Weighted Assets (RWA) Concept\nDifferent bank assets carry different risk weights:\n- **Cash & Government Securities:** **0% Risk Weight** (Zero risk).\n- **Home Loans (Secured):** 35% to 50% Risk Weight.\n- **Unsecured Personal Loans / Credit Cards:** **100% to 125% Risk Weight** (High risk)."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** RBI's minimum CRAR requirement for Indian commercial banks (**9%**) is **stricter than the global Basel III norm (8%)**!\n- ⚠️ **Exam Trap 2:** Tier 1 capital consists of high-quality loss-absorbing equity, whereas Tier 2 capital includes subordinated debt."
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -79,7 +63,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** What is the minimum Capital to Risk-Weighted Assets Ratio (CRAR) mandated by the RBI for Indian commercial banks under Basel III norms (excluding Capital Conservation Buffer)?  \n(A) 7%  \n(B) 8%  \n(C) 9%  \n(D) 11.5%  \n**Answer:** **(C)** — RBI mandates a minimum 9% CRAR (stricter than Basel's 8%)."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** What is the minimum Capital to Risk-Weighted Assets Ratio (CRAR) mandated by the RBI for Indian commercial banks under Basel III norms (excluding Capital Conservation Buffer)?  \n(A) 7%  \n(B) 8%  \n(C) 9%  \n(D) 11.5%  \n**Answer:** ** — RBI mandates a minimum 9% CRAR (stricter than Basel's 8%)."
     },
     {
       "type": "paragraph",

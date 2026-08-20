@@ -42,10 +42,6 @@
       "content": "4. Index Scale: $0$ represents Perfect Equality (everyone has equal income); $1$ or $100%$ represents Absolute Inequality (1 person owns all income)."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚡ 1. Geometry of the Lorenz Curve & Gini Ratio"
@@ -59,17 +55,9 @@
       "content": "Where:\n- **Area A:** Area bounded between the $45^circ$ Line of Perfect Equality and the actual Lorenz Curve.\n- **Area B:** Area beneath the Lorenz Curve down to the horizontal axis."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "📖 2. Inequality Indicators Comparison Matrix\n| Indicator | Mathematical Definition | Typical Range | Primary Limitation |\n|---|---|---|---|\n| **Gini Coefficient** | Ratio $A / (A+B)$ derived from Lorenz Curve | $0.0 \\text{ to } 1.0$ (or 0 to 100%) | Insensitive to shifts in extreme top vs bottom tail distributions |\n| **Palma Ratio** | Share of national income of top 10% divided by bottom 40% | $>1.0$ in unequal societies | Ignores middle 50% income bracket |\n| **20/20 Ratio** | Income of top 20% divided by bottom 20% | Ratio multiplier (e.g. 5x, 10x) | Ignores distribution within top and bottom quintiles |"
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -77,17 +65,9 @@
       "text": "🏛️ 3. Indian Context & NSO Inequality Data Trends\n- **World Inequality Report Data:** Top 1% in India holds over 22% of national income, while bottom 50% holds ~15%.\n- **Consumption vs. Income Gini:** India's Consumption Gini (derived from NSO MPCE data) is lower ($sim 0.35$) than its Income/Wealth Gini ($sim 0.75$), because consumption inequality is bounded by physical survival limits."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚖️ 4. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** The further the Lorenz Curve bows AWAY from the 45-degree diagonal line, the **HIGHER** the Gini Coefficient and the **GREATER** the inequality!\n- ⚠️ **Exam Trap 2:** A Gini Coefficient of $0$ means **Perfect Equality**, NOT zero income! A Gini of $1$ means **Absolute Inequality**."
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -96,7 +76,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** If an economy's Lorenz Curve moves closer to the 45-degree diagonal line over a decade, what does this mathematically indicate about its Gini Coefficient and income distribution?  \n(A) Gini increases, inequality rises  \n(B) Gini decreases, inequality falls  \n(C) Gini becomes 1.0, income becomes zero  \n(D) Gini remains unchanged  \n**Answer:** **(B)** — Moving closer to the 45-degree line reduces Area A, causing the Gini Coefficient to fall toward 0 (lower inequality)."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** If an economy's Lorenz Curve moves closer to the 45-degree diagonal line over a decade, what does this mathematically indicate about its Gini Coefficient and income distribution?  \n(A) Gini increases, inequality rises  \n(B) Gini decreases, inequality falls  \n(C) Gini becomes 1.0, income becomes zero  \n(D) Gini remains unchanged  \n**Answer:** ** — Moving closer to the 45-degree line reduces Area A, causing the Gini Coefficient to fall toward 0 (lower inequality)."
     },
     {
       "type": "paragraph",

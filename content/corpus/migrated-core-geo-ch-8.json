@@ -36,17 +36,9 @@
       "content": "Pacific & Indian Ocean Teleconnections: El Niño (Suppressing monsoon), La Niña (Boosting monsoon), Positive IOD (Warm West I.O. boosting rainfall)."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚡ 1. Beginner Jargon Unpack\n- **Monsoon Trough:** Low-pressure trough created over North India by the northward migration of the Inter-Tropical Convergence Zone (ITCZ) during summer.\n- **El Niño (ENSO):** Periodic warming of central/eastern equatorial Pacific Ocean surface waters; causes weak monsoons and droughts in India.\n- **Positive Indian Ocean Dipole (+IOD):** Western Indian Ocean becomes warmer than Eastern Indian Ocean (near Indonesia); neutralizes negative impact of El Niño!\n- **Madden-Julian Oscillation (MJO):** Eastward moving oceanic-atmospheric wave traversing the tropics every 30–60 days; enhances rainfall during its active phase over Indian Ocean."
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -58,17 +50,9 @@
       "content": "🏷️ Itemized Verification Tag\n  ✅ Verified Feb 2026 (Itemized): IMD Monsoon teleconnection parameters & Tropical Cyclone genesis conditions (SST > 27°C, Coriolis f > 0) verified against IMD Bulletins & NCERT Class 11."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "🧠 3. Layer 2: Underlying Reasoning (\"The Why\")\nWhy do **Tropical Cyclones NOT form at the Equator (0°–5° Latitude)**, despite sea surface temperature exceeding 28°C?\n1. Tropical cyclones require **Coriolis Force** to induce rotational vortex spinning ($f = 2omega sinphi$).\n2. At the Equator ($phi = 0^circ$), $sin(0) = 0$, meaning **Coriolis force is ZERO**. Air flows straight into low pressure without spinning, preventing cyclone formation!"
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -80,26 +64,14 @@
       "content": "**Step-by-Step Resolution:**\n1. El Niño tends to suppress Indian monsoon via Walker circulation shift.\n2. Strong Positive IOD injects warm moist air into Arabian Sea, enhancing cross-equatorial flow.\n3. Historical data (e.g. 1997 Monsoon) shows Positive IOD **fully overrides El Niño**, resulting in **Normal to Above-Normal Monsoon Rainfall**!"
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "🏛️ 5. Concrete Anchor (Extreme Weather Event)\n**1997 Super El Niño vs Normal Monsoon:** Despite 1997 having the strongest El Niño of the 20th century, India received 102% normal rainfall due to a record Positive Indian Ocean Dipole (+IOD)."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚖️ 6. Debates & Controversies\n**Impact of Climate Change on Monsoon Dynamics:**\n- *The Controversy:* Global warming is causing fewer total rainy days, but an increase in **extreme localized rain bursts** (cloudbursts) and longer dry breaks.\n- *Phase 2 Core Question:* \"The classical thermal concept of Halley is inadequate to explain the complexities of the Indian Monsoon.\" Discuss modern dynamic theories."
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",

@@ -42,17 +42,9 @@
       "content": "4. SDG Linkage: Sustainable Development Goal 1 (SDG 1.1) targets eradicating extreme poverty (people living on less than $2.15 a day at 2017 PPP) by 2030."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚡ 1. Absolute Poverty vs. Relative Poverty\n- **Absolute Poverty:** Condition where household income is insufficient to afford basic necessities of life (food, clean water, shelter, clothing, sanitation). It is measured relative to a fixed monetary benchmark (Poverty Line). *Dominant measure in developing nations like India.*\n- **Relative Poverty:** Condition where income is significantly lower than the median income of society, reflecting economic inequality. It persists even if everyone has basic necessities. *Dominant measure in developed OECD nations.*"
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -72,10 +64,6 @@
       "content": "#### C. Squared Poverty Gap Index (SPGI)\nWeights individual poverty gaps by squaring them, giving greater weight to the poorest of the poor (measures severity of poverty)."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "🏛️ 3. Global & National MPI Architecture\nThe **Global Multidimensional Poverty Index (MPI)** (OPHI/UNDP) uses **3 Dimensions** weighted equally ($\\frac{1}{3}$ each):"
@@ -89,17 +77,9 @@
       "content": "*NITI Aayog National MPI (India):* Adds **2 extra indicators** under Health (Maternal Health) and Standard of Living (Bank Accounts), totaling **12 indicators**."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚖️ 4. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Headcount Ratio ($HCR$) measures the *incidence* of poverty, NOT the *depth* or *severity*. To measure depth, use the Poverty Gap Index ($PGI$).\n- ⚠️ **Exam Trap 2:** NITI Aayog's National MPI uses NFHS (National Family Health Survey) data, NOT NSSO/NSO MPCE consumption expenditure data alone."
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -108,7 +88,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which index measures the exact financial deficit / depth of poverty relative to the poverty line rather than just counting the number of poor?  \n(A) Headcount Ratio ($HCR$)  \n(B) Poverty Gap Index ($PGI$)  \n(C) Gini Coefficient  \n(D) Human Development Index ($HDI$)  \n**Answer:** **(B)** — $PGI$ measures the mean distance separating population from the poverty line."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which index measures the exact financial deficit / depth of poverty relative to the poverty line rather than just counting the number of poor?  \n(A) Headcount Ratio ($HCR$)  \n(B) Poverty Gap Index ($PGI$)  \n(C) Gini Coefficient  \n(D) Human Development Index ($HDI$)  \n**Answer:** ** — $PGI$ measures the mean distance separating population from the poverty line."
     },
     {
       "type": "paragraph",

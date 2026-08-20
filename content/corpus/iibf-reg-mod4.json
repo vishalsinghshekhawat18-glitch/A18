@@ -13,7 +13,10 @@
       "id": "blk-2",
       "type": "bullet_list",
       "items": [
-        "Unified Payments Interface (UPI) Advanced Modes: UPI Lite (On-device wallet, ₹2,000 max balance, ₹500 per-txn cap, zero PIN, near-zero failure rate); UPI 123PAY (4 non-internet modes: IVR numbers, Missed call, Sound-based proximity, and OEM apps); UPI Circle (delegated primary-secondary user authorization); Credit Lines on UPI (pre-approved bank credit lines accessed via UPI QR).",
+        "Unified Payments Interface (UPI) Advanced Modes: UPI Lite (On-device wallet, ₹2,000 max balance, ₹500 per-txn cap, zero PIN, near-zero failure rate).",
+        "UPI 123PAY (4 non-internet modes: IVR numbers, Missed call, Sound-based proximity, and OEM apps).",
+        "UPI Circle (delegated primary-secondary user authorization).",
+        "Credit Lines on UPI (pre-approved bank credit lines accessed via UPI QR).",
         "BHIM 3.0: 22-language AI voice assistant, automated family spend management, biometric authentication, real-time integration with Centralised Fraud Registry.",
         "Finternet (BIS Unified Ledger Model): Conceptualized by Agustin Carstens & Nandan Nilekani. The Three U's: User-centric (user retains asset control), Unified (connects multiple asset classes on programmable smart contracts), Universal (interoperable across borders).",
         "Digital Personal Data Protection (DPDP) Rules 2025: Data Protection Board of India (DPBI). SARAL approach (Simple, Accessible, Rational, Actionable notices). Maximum penalties: ₹250 Crore for security safeguards failure preventing data breach; ₹200 Crore for non-notification of breach or child data violations. 90-day grievance redressal mandate.",

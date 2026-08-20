@@ -32,17 +32,9 @@
       "content": "3. NITI Aayog National MPI (2021/2023): Non-monetary multidimensional measure using NFHS data across **12 indicators**."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚡ 1. Tendulkar vs. Rangarajan Committees Benchmark Comparison\n| Parameter | Suresh Tendulkar Committee (2009) | C. Rangarajan Committee (2014) |\n|---|---|---|\n| **Calorie Anchor** | **Abandoned explicit calorie anchor** | **Restored calorie + protein + fat norms** (Rural: 2155 kcal, Urban: 2090 kcal) |\n| **Recall Period Used** | Mixed Recall Period (MRP - 365-day for low-frequency items) | Modified Mixed Recall Period (MMRP - 7-day for edible oil/veg, 30-day for rest) |\n| **Rural Poverty Line (2011-12)** | **₹27 / day** (₹816 per capita per month) | **₹32 / day** (₹972 per capita per month) |\n| **Urban Poverty Line (2011-12)** | **₹33 / day** (₹1,000 per capita per month) | **₹47 / day** (₹1,407 per capita per month) |\n| **Poverty Headcount (2011-12)** | **21.9%** (269.8 million poor) | **29.5%** (363 million poor) |\n| **Price Index Used** | Fisher Ideal Index | Independent State-level CPI-AL and CPI-IW |"
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -50,26 +42,14 @@
       "text": "📖 2. NSSO Recall Periods Explained\n- **Uniform Recall Period (URP):** Asks respondents about consumption expenditure over a uniform **30-day recall period** for all goods. *(Used pre-2005)*.\n- **Mixed Recall Period (MRP):** Uses 30-day recall for general goods, but **365-day recall** for 5 non-food low-frequency items (clothing, footwear, durable goods, education, institutional medical). *(Used by Tendulkar)*.\n- **Modified Mixed Recall Period (MMRP):** Uses **7-day recall** for highly volatile food items (edible oil, eggs, meat, vegetables, fruits), 365-day for 5 non-food items, and 30-day for remaining items. *(Used by Rangarajan & current NSO MPCE surveys)*."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "🏛️ 3. NITI Aayog National MPI Architecture & Progress\n- **Data Source:** NFHS-4 (2015-16) & NFHS-5 (2019-21) health surveys.\n- **12 Indicators:** Nutrition, Child & Adolescent Mortality, Maternal Health, Years of Schooling, School Attendance, Cooking Fuel, Sanitation, Drinking Water, Electricity, Housing, Assets, Bank Accounts.\n- **Reported Trend (NITI Aayog 2023 Update):** 13.5 Crore Indians exited multidimensional poverty between 2015-16 and 2019-21 (MPI headcount ratio dropped from 24.85% to 14.96%)."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚖️ 4. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Official government poverty estimates in India for 2011-12 are still based on the **Tendulkar Committee line (21.9%)**, because Rangarajan Committee recommendations were NOT formally accepted by government cabinet.\n- ⚠️ **Exam Trap 2:** Tendulkar used the **Urban Consumption Basket** as the universal anchor for both rural and urban poverty lines."
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -78,7 +58,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which recall period methodology adopted by the C. Rangarajan Committee uses a 7-day recall period for volatile food items alongside 30-day and 365-day recall periods?  \n(A) Uniform Recall Period (URP)  \n(B) Mixed Recall Period (MRP)  \n(C) Modified Mixed Recall Period (MMRP)  \n(D) Annual Expenditure Period (AEP)  \n**Answer:** **(C)** — MMRP uses 7-day recall for volatile food items (vegetables, spices, meat)."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which recall period methodology adopted by the C. Rangarajan Committee uses a 7-day recall period for volatile food items alongside 30-day and 365-day recall periods?  \n(A) Uniform Recall Period (URP)  \n(B) Mixed Recall Period (MRP)  \n(C) Modified Mixed Recall Period (MMRP)  \n(D) Annual Expenditure Period (AEP)  \n**Answer:** ** — MMRP uses 7-day recall for volatile food items (vegetables, spices, meat)."
     },
     {
       "type": "paragraph",

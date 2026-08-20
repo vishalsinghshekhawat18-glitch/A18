@@ -36,17 +36,9 @@
       "content": "4. Services Inclusion: Services (Housing, Medical, Education, Transport) are **INCLUDED in CPI**, but **EXCLUDED from WPI** (WPI covers goods only!)."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚡ 1. CPI vs. WPI Comprehensive Feature Matrix\n| Parameter | Consumer Price Index (CPI Combined) | Wholesale Price Index (WPI) |\n|---|---|---|\n| **Level of Measurement** | Retail consumer price level | Wholesale / First point of bulk sale |\n| **Publishing Agency** | National Sample Survey Office (NSO), MoSPI | Office of Economic Adviser, DPIIT (Min of Commerce) |\n| **Current Base Year** | **2012 = 100** | **2011-12 = 100** |\n| **Food Basket Weight** | **45.86%** (High sensitivity to food prices) | **24.38%** (Combined Food Index) |\n| **Manufactured Goods Weight**| 23.80% | **64.23%** (Dominant sector in WPI) |\n| **Services Sector** | **INCLUDED** (Housing 10.07%, Health, Transport) | **EXCLUDED** (Measures goods only) |\n| **RBI Monetary Anchor** | **Primary Anchor** for Flexible Inflation Targeting (4%±2%) | Secondary indicator for producer margins |"
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -54,17 +46,9 @@
       "text": "📖 2. 4 Sub-Types of Consumer Price Index (CPI) in India\n1. **CPI (Rural, Urban, Combined):** Base 2012=100, published by NSO (MoSPI).\n2. **CPI for Agricultural Laborers (CPI-AL):** Base 1986-87=100, published by **Labour Bureau (Ministry of Labour & Employment)**. Used for updating minimum wages in farming.\n3. **CPI for Rural Laborers (CPI-RL):** Base 1986-87=100, published by Labour Bureau.\n4. **CPI for Industrial Workers (CPI-IW):** Base **2016=100**, published by Labour Bureau. Used for calculating **Dearness Allowance (DA)** of central government employees!"
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** WPI does NOT measure price changes for Services (banking, software, health)! Only CPI includes Services.\n- ⚠️ **Exam Trap 2:** RBI switched its monetary anchor from WPI to **CPI Combined** in 2014 based on Urjit Patel Committee recommendations."
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -73,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which index is published by the Labour Bureau (Ministry of Labour & Employment) and used to determine Dearness Allowance (DA) for central government employees?  \n(A) CPI Combined (NSO)  \n(B) CPI for Industrial Workers (CPI-IW)  \n(C) Wholesale Price Index (WPI)  \n(D) GDP Deflator  \n**Answer:** **(B)** — CPI-IW (Base 2016) is published by Labour Bureau for DA calculation."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which index is published by the Labour Bureau (Ministry of Labour & Employment) and used to determine Dearness Allowance (DA) for central government employees?  \n(A) CPI Combined (NSO)  \n(B) CPI for Industrial Workers (CPI-IW)  \n(C) Wholesale Price Index (WPI)  \n(D) GDP Deflator  \n**Answer:** ** — CPI-IW (Base 2016) is published by Labour Bureau for DA calculation."
     },
     {
       "type": "paragraph",

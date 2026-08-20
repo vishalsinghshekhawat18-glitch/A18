@@ -44,17 +44,9 @@
       "content": "Fuel: Thorium-232 + Uranium-233 breeder system. Unlocks India's ~25% of global Thorium reserves in Kerala monazite sands!"
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚡ 1. Beginner Jargon Unpack\n- **Nuclear Fission:** Splitting of heavy nucleus (U-235, Pu-239) into lighter fragments by neutron bombardment, releasing huge energy ($E=mc^2$).\n- **Fissile Material:** Isotopes capable of undergoing fission by slow thermal neutrons (U-235, U-233, Pu-239).\n- **Fertile Material:** Isotopes that cannot fission directly, but absorb neutrons to transform into fissile isotopes (U-238 $\rightarrow$ Pu-239; Th-232 $\rightarrow$ U-233)."
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -66,17 +58,9 @@
       "content": "🏷️ Itemized Verification Tag\n  ✅ Verified Feb 2026 (Itemized): 3-Stage fuel cycles & Kalpakkam 500 MWe PFBR status verified against DAE Reports & BARC Technical Bulletins."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "🧠 3. Layer 2: Underlying Reasoning (\"The Why\")\nWhy does **Stage 2 Fast Breeder Reactor use Liquid Sodium**, and **NO Moderator**?\n1. Fast breeder reactors require **FAST neutrons** (high kinetic energy) to convert Fertile $U^{238}$ and $Th^{232}$ into fissile material.\n2. Moderators (like water or graphite) slow down neutrons. Therefore, FBR eliminates moderators and uses **Liquid Sodium** which cools the core without slowing neutrons!"
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -88,26 +72,14 @@
       "content": "**Step-by-Step Resolution:**\n1. Total time elapsed $t = 24$ days. Half-life $T_{1/2} = 8$ days.\n2. Number of half-lives $n = t / T_{1/2} = 24 / 8 = 3$.\n3. Remaining Fraction = $(1/2)^n = (1/2)^3 = 1/8 = 12.5%$."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "🏛️ 5. Concrete Anchor (Reactor Landmark)\n**Kamini Reactor (Kalpakkam):** World's first and only operational experimental reactor using Uranium-233 bred from Thorium as fuel!"
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚖️ 6. Debates & Environmental Considerations\n**Nuclear vs Renewable Transition:**\n- *The Controversy:* Nuclear provides baseload zero-carbon power, but raises small-prob low-frequency disaster risks (Fukushima/Chernobyl) and long-term nuclear waste disposal challenges.\n- *Phase 2 Core Question:* \"India's 3-stage nuclear program remains indispensable for achieving net-zero emissions by 2070.\" Discuss."
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",

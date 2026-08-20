@@ -42,17 +42,9 @@
       "content": "4. Headline Growth Measure: In 2015, NSO adopted **GVA at Basic Prices** for sectoral growth and **GDP at Market Price** as headline GDP, aligning with UN SNA 2008."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚡ 1. Production vs. Product Taxes & Subsidies\n| Tax / Subsidy Category | Definition & Characteristics | Examples |\n|---|---|---|\n| **Production Taxes** | Paid irrespective of actual volume of production | Land Revenue, Stamp Duty, Registration Fees, Factory License Fees |\n| **Production Subsidies** | Received irrespective of actual volume of production | Subsidies to Small Scale Industries, Farmers' Land Subsidies |\n| **Product Taxes** | Paid per unit of product produced / sold | Goods and Services Tax (GST), Excise Duty, Customs Duty, Sales Tax |\n| **Product Subsidies** | Granted per unit of product produced / sold | Food Subsidy (TPDS), Fertilizer Subsidy, LPG Subsidy |"
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -68,26 +60,14 @@
       "content": "$$\\mathbf{GDP \\text{ at Market Price} = GVA \\text{ at Basic Prices} + \\text{Product Taxes} - \\text{Product Subsidies}}$$"
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "🏛️ 3. NSO Base Year 2011-12 Revision (Introduced Jan 2015)\nPrior to 2015, India reported headline GDP growth at **GDP at Factor Cost**. In 2015, CSO/NSO made 3 major changes:\n1. Shifted base year from **2004-05 to 2011-12**.\n2. Headline economic growth switched to **GDP at Market Price** (matching global practice).\n3. Sectoral performance switched to **GVA at Basic Prices**.\n4. Replaced manufacturing census data with **MCA-21 database** (Ministry of Corporate Affairs online filings) for corporate sector income estimation."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚖️ 4. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** GST is a **Product Tax** (volume dependent), whereas Stamp Duty on factory land is a **Production Tax** (volume independent).\n- ⚠️ **Exam Trap 2:** If Product Subsidies exceed Product Taxes in a crisis year, $GDP_{MP}$ will be **LESS** than $GVA \text{ at Basic Prices}$!"
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -96,7 +76,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which of the following is classified as a 'Production Tax' (independent of actual production volume) under NSO national accounting rules?  \n(A) Goods and Services Tax (GST)  \n(B) Customs Duty  \n(C) Land Revenue & Stamp Duty  \n(D) Central Excise Duty  \n**Answer:** **(C)** — Land Revenue and Stamp Duty are paid irrespective of production volume."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which of the following is classified as a 'Production Tax' (independent of actual production volume) under NSO national accounting rules?  \n(A) Goods and Services Tax (GST)  \n(B) Customs Duty  \n(C) Land Revenue & Stamp Duty  \n(D) Central Excise Duty  \n**Answer:** ** — Land Revenue and Stamp Duty are paid irrespective of production volume."
     },
     {
       "type": "paragraph",

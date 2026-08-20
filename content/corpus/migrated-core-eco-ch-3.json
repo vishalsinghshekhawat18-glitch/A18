@@ -42,17 +42,9 @@
       "content": "4. Injections (Additions): Exogenous spending added into circular flow: Investment ($I$) + Government Expenditure ($G$) + Exports ($X$)."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚡ 1. Real Flow vs. Money Flow Matrix\n| Parameter | Real Flow (Physical Flow) | Money Flow (Nominal Flow) |\n|---|---|---|\n| **Definition** | Flow of factor services from households to firms, and final goods/services from firms to households | Flow of factor payments from firms to households, and consumption expenditure from households to firms |\n| **Medium of Exchange** | Physical goods, services, and labor hours | Currency notes, bank deposits, and monetary assets |\n| **Alternative Name** | Product / Factor Flow | Income / Expenditure Flow |"
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -72,26 +64,14 @@
       "content": "$$\\text{Macroeconomic Equilibrium Condition: } \\mathbf{\\text{Total Leakages} = \\text{Total Injections}}$$\n$$\\mathbf{S + T + M = I + G + X}$$"
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "🏛️ 3. Factor Income vs. Transfer Income\n- **Factor Income:** Earnings received for rendering productive factor services (Rent, Wages, Interest, Profit). **INCLUDED in National Income!**\n- **Transfer Income:** Money received without rendering any productive service in return (Unemployment allowance, Old-age pensions, Gifts, Pocket money). **EXCLUDED from National Income!**"
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚖️ 4. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Old-age pensions are Transfer Income (EXCLUDED from National Income), but **Retirement Pensions** paid to retired employees are deferred factor payments for past services (INCLUDED in National Income!).\n- ⚠️ **Exam Trap 2:** If Leakages exceed Injections ($S+T+M > I+G+X$), National Income ($GDP$) will **contract** in the next cycle until equilibrium is restored."
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -100,7 +80,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which of the following is classified as a 'Leakage' (Withdrawal) from the circular flow of income in a four-sector open economy?  \n(A) Investment Expenditure ($I$)  \n(B) Government Spending ($G$)  \n(C) Imports ($M$)  \n(D) Exports ($X$)  \n**Answer:** **(C)** — Imports represent money flowing out of domestic circular stream to foreign producers."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which of the following is classified as a 'Leakage' (Withdrawal) from the circular flow of income in a four-sector open economy?  \n(A) Investment Expenditure ($I$)  \n(B) Government Spending ($G$)  \n(C) Imports ($M$)  \n(D) Exports ($X$)  \n**Answer:** ** — Imports represent money flowing out of domestic circular stream to foreign producers."
     },
     {
       "type": "paragraph",

@@ -42,17 +42,9 @@
       "content": "4. NDTL Calculation: Net Demand and Time Liabilities (NDTL) = Total demand & time liabilities minus inter-bank deposits. Base for CRR & SLR!"
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚡ 1. Commercial Bank Balance Sheet Structure\n| Bank Liabilities (What Bank OWES) | Bank Assets (What Bank OWNS / Claims) |\n|---|---|\n| Current Account Deposits | Cash in Vault & Cash with RBI (CRR) |\n| Savings Account Deposits | Balances with other Banks |\n| Fixed / Term Deposits | Investments in G-Secs (SLR) & Bonds |\n| Borrowings from RBI (Repo/MSF) | Loans and Advances extended to borrowers |"
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -64,17 +56,9 @@
       "content": "If Legal Reserve Ratio ($LRR$) is **20%** ($0.20$), and a customer deposits **₹10,000**:\n$$\\text{Total Credit Created} = 10,000 \\times \\frac{1}{0.20} = 10,000 \\times 5 = \\mathbf{₹50,000}$$"
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Deposits are **Liabilities** for commercial banks (because banks must return money to depositors), whereas Loans given out are **Assets**!\n- ⚠️ **Exam Trap 2:** High CASA ratio reduces a bank's cost of capital, increasing its **Net Interest Margin (NIM)**."
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -83,7 +67,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** On a commercial bank's balance sheet, under which accounting category are customer Savings Account deposits classified?  \n(A) Bank Assets  \n(B) Bank Liabilities  \n(C) Contingent Reserves  \n(D) Capital Reserves  \n**Answer:** **(B)** — Customer deposits are liabilities because the bank owes this money back to depositors."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** On a commercial bank's balance sheet, under which accounting category are customer Savings Account deposits classified?  \n(A) Bank Assets  \n(B) Bank Liabilities  \n(C) Contingent Reserves  \n(D) Capital Reserves  \n**Answer:** ** — Customer deposits are liabilities because the bank owes this money back to depositors."
     },
     {
       "type": "paragraph",

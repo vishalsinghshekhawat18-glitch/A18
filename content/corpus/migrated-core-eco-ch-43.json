@@ -42,17 +42,9 @@
       "content": "4. GST Council (Article 279A): Constitutional body chaired by **Union Finance Minister**. Decision voting weight: Center $= 1/3\text{rd}$, States $= 2/3\text{rds}$. Majority required: **75% (3/4ths)**!"
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚡ 1. Direct vs. Indirect Taxes Feature Comparison\n| Feature | Direct Taxes | Indirect Taxes (GST / Customs) |\n|---|---|---|\n| **Impact vs. Incidence** | Fall on the **same entity** (cannot be shifted) | Fall on different entities (tax shifted to final buyer) |\n| **Progressivity** | **Progressive** (higher income bracket $implies$ higher tax rate) | **Regressive** (rich and poor pay same tax rate per item) |\n| **Primary Examples** | Income Tax, Corporation Tax, STT, Capital Gains Tax | GST (CGST, SGST, IGST), Customs Duty, Central Excise |\n| **Administrative Body** | **CBDT** (Central Board of Direct Taxes) | **CBIC** (Central Board of Indirect Taxes & Customs) |"
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -60,17 +52,9 @@
       "text": "📖 2. GST Architecture & GST Council Voting Mechanics\n- **3 Sub-Types:** CGST (Central GST), SGST (State GST), IGST (Integrated GST for inter-state trade & imports).\n- **Primary 4 Tax Slabs:** **5%, 12%, 18%, 28%** (Special 0.25% for rough diamonds, 3% for gold).\n- **Items Outside GST Scope:** Petroleum crude, High-speed diesel, Motor spirit (Petrol), Natural gas, Aviation turbine fuel (ATF), and **Alcohol for human consumption**!\n- **GST Council Voting Formula (Art 279A):**\n  $$\\text{Central Govt Weight} = \\frac{1}{3}, \\quad \\text{All State Govts Combined Weight} = \\frac{2}{3}$$\n  $$\\text{Decision Approval Threshold} = \\mathbf{\\ge 75\\% \\text{ of weighted votes cast}}$$"
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Neither Center nor States alone can pass a resolution in the GST Council! Center has $33.3%$ vote (can veto, but cannot pass alone without states); States combined have $66.6%$ vote (need Center to reach $75%$).\n- ⚠️ **Exam Trap 2:** Alcohol for human consumption is **constitutionally excluded** from GST (requires a Constitutional Amendment to include), whereas 5 petroleum products are statutorily deferred."
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -79,7 +63,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** What is the constitutional voting threshold required to pass a resolution in the GST Council under Article 279A of the Indian Constitution?  \n(A) Simple majority (50%)  \n(B) Two-thirds majority (66.6%)  \n(C) Three-fourths weighted majority (75%)  \n(D) Unanimous 100% consensus  \n**Answer:** **(C)** — Article 279A mandates a 75% weighted majority for GST Council decisions."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** What is the constitutional voting threshold required to pass a resolution in the GST Council under Article 279A of the Indian Constitution?  \n(A) Simple majority (50%)  \n(B) Two-thirds majority (66.6%)  \n(C) Three-fourths weighted majority (75%)  \n(D) Unanimous 100% consensus  \n**Answer:** ** — Article 279A mandates a 75% weighted majority for GST Council decisions."
     },
     {
       "type": "paragraph",

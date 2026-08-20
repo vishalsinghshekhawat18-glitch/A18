@@ -42,17 +42,9 @@
       "content": "4. Green GDP: $\\text{Green GDP} = \\text{Real GDP} - \\text{Environmental Degradation Cost} - \\text{Natural Resource Depletion Cost}$."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚡ 1. Nominal GDP vs. Real GDP Matrix\n| Feature | Nominal GDP | Real GDP |\n|---|---|---|\n| **Price Valuation** | Current year market prices ($P_t$) | Constant base year prices ($P_0$, currently 2011-12 in India) |\n| **Inflation Influence** | High (can increase even if physical output falls!) | Zero (reflects purely physical volume changes $\\Delta Q$) |\n| **Comparison Utility** | Useful for current debt-to-GDP ratios | Standard for comparing true economic growth over time |\n| **Formula** | $\\sum (P_{\\text{current}} \\times Q_{\\text{current}})$ | $\\sum (P_{\\text{base}} \\times Q_{\\text{current}})$ |"
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -64,26 +56,14 @@
       "content": "| Parameter | GDP Deflator | Consumer Price Index (CPI) |\n|---|---|---|\n| **Goods Covered** | ALL domestically produced goods and services | Fixed basket of consumer goods and services |\n| **Imported Goods** | **EXCLUDED** (only domestic output included) | **INCLUDED** if consumed by households (e.g. imported edible oil) |\n| **Weighting System** | Dynamic / Paasche index (weights change with output composition) | Fixed basket weights / Laspeyres index |"
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "🏛️ 3. Green GDP & Environmental Economic Accounting\n- **Concept:** Standard GDP treats natural resource depletion as income rather than capital loss. Green GDP adjusts standard GDP for environmental externalities.\n- **Formula:** $\\text{Green GDP} = \\text{GDP} - \\text{Natural Resource Depletion} - \\text{Environmental Damage Costs}$.\n- **Global Framework:** UN **System of Environmental-Economic Accounting (SEEA)** framework."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚖️ 4. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** If Nominal GDP grows by 10% and Inflation is 4%, Real GDP growth is approximately **6%** ($10% - 4%$). Nominal growth alone does NOT mean physical output expanded by 10%!\n- ⚠️ **Exam Trap 2:** GDP Deflator includes capital goods (machinery) and government services, whereas CPI includes only consumer goods."
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -92,7 +72,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Why is the GDP Deflator considered a broader measure of economy-wide inflation than the Consumer Price Index (CPI)?  \n(A) It includes imported consumer goods  \n(B) It covers all domestically produced goods and services including capital goods  \n(C) It uses a fixed basket of goods from 2004  \n(D) It is published weekly by RBI  \n**Answer:** **(B)** — GDP Deflator reflects prices of all domestic output, not just household consumer items."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Why is the GDP Deflator considered a broader measure of economy-wide inflation than the Consumer Price Index (CPI)?  \n(A) It includes imported consumer goods  \n(B) It covers all domestically produced goods and services including capital goods  \n(C) It uses a fixed basket of goods from 2004  \n(D) It is published weekly by RBI  \n**Answer:** ** — GDP Deflator reflects prices of all domestic output, not just household consumer items."
     },
     {
       "type": "paragraph",

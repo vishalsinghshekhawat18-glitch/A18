@@ -36,17 +36,9 @@
       "content": "4. Qualitative Tools (Selective Credit Control): Affect direction and allocation of credit: Margin Requirements | Moral Suasion | Credit Rationing."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚡ 1. Quantitative Instruments Comparison Matrix\n| Instrument | Legal Definition / Mechanism | Collateral Needed? | Interest Paid by RBI? |\n|---|---|---|---|\n| **Repo Rate** | Rate at which RBI lends short-term money to banks against Govt securities | **YES** (Approved G-Secs) | N/A (Bank pays Repo interest to RBI) |\n| **Standing Deposit Facility (SDF)** | Floor rate at which RBI absorbs excess liquidity from banks | **NO Collateral Needed!** | YES (RBI pays SDF interest to banks) |\n| **Marginal Standing Facility (MSF)** | Emergency overnight lending rate for banks dipping into SLR quota | **YES** (Dips into SLR portfolio) | N/A (Bank pays MSF interest to RBI) |\n| **Cash Reserve Ratio (CRR)** | Share of NDTL banks must deposit as cash with RBI | N/A (Cash reserve) | **ZERO Interest** paid by RBI! |\n| **Statutory Liquidity Ratio (SLR)** | Share of NDTL banks must maintain in gold, cash, or approved G-Secs | N/A (Self-maintained) | Banks earn yield on G-Sec holdings |"
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -54,17 +46,9 @@
       "text": "📖 2. Monetary Policy Committee (MPC) Architecture\n- **Composition:** **6 Members** (3 from RBI: Governor + Deputy Governor + 1 RBI Officer; 3 external experts appointed by Central Govt).\n- **Chairmanship:** RBI Governor (holds casting vote in case of tie).\n- **Mandate:** Meets at least **4 times a year** to fix Policy Repo Rate for maintaining CPI inflation target ($4% pm 2%$)."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** RBI pays **ZERO interest** to commercial banks on their mandatory Cash Reserve Ratio (CRR) deposits!\n- ⚠️ **Exam Trap 2:** Standing Deposit Facility (SDF) introduced in April 2022 allows RBI to absorb liquidity **without providing government securities as collateral**."
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -73,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which monetary policy instrument introduced by RBI in 2022 allows it to absorb excess liquidity from commercial banks WITHOUT providing government securities as collateral?  \n(A) Reverse Repo Rate  \n(B) Standing Deposit Facility (SDF)  \n(C) Open Market Operations (OMO)  \n(D) Marginal Standing Facility (MSF)  \n**Answer:** **(B)** — SDF is a collateral-free liquidity absorption tool."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which monetary policy instrument introduced by RBI in 2022 allows it to absorb excess liquidity from commercial banks WITHOUT providing government securities as collateral?  \n(A) Reverse Repo Rate  \n(B) Standing Deposit Facility (SDF)  \n(C) Open Market Operations (OMO)  \n(D) Marginal Standing Facility (MSF)  \n**Answer:** ** — SDF is a collateral-free liquidity absorption tool."
     },
     {
       "type": "paragraph",

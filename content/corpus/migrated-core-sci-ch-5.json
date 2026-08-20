@@ -36,17 +36,9 @@
       "content": "Orbits: LEO (160–2000 km), SSO (600–800 km Sun-Synchronous), MEO (NavIC ~20,000 km), GEO (35,786 km Geostationary 24-hr orbit)."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚡ 1. Beginner Jargon Unpack\n- **Geostationary Orbit (GEO):** Circular orbit at 35,786 km above Equator where satellite orbital period equals Earth rotation (24 hours). Satellite appears stationary in the sky (*ideal for DTH & communications*).\n- **Sun-Synchronous Orbit (SSO):** Polar orbit where satellite passes over any given spot on Earth at the same local solar time (*ideal for earth observation & imaging under consistent lighting*).\n- **Cryogenic Engine:** Engine burning liquid hydrogen (LH2 at -253°C) and liquid oxygen (LOX at -183°C), providing high specific impulse efficiency."
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -58,17 +50,9 @@
       "content": "🏷️ Itemized Verification Tag\n  ✅ Verified Feb 2026 (Itemized): LVM3 payload specs & NavIC 7-satellite constellation architecture verified against ISRO Mission Bulletins."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "🧠 3. Layer 2: Underlying Reasoning (\"The Why\")\nWhy are communication satellites launched into **Geostationary Orbit (35,786 km)**, while Earth observation satellites go into **Sun-Synchronous Polar Orbits (600–800 km)**?\n1. **Communication Satellites:** Need a fixed position relative to ground dish antennas to provide uninterrupted 24/7 TV/broadband signals over a country.\n2. **Earth Observation Satellites:** Need low altitude for high optical resolution and polar inclination to scan the entire Earth surface as it rotates underneath!"
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -80,26 +64,14 @@
       "content": "**Step-by-Step Resolution:**\n1. Set orbital period $T = 86,164$ seconds (1 sidereal day).\n2. Applying $r^3 = G M_E T^2 / (4pi^2)$, orbital radius $r approx 42,164$ km from Earth center.\n3. Altitude above sea level $h = r - R_E = 42,164 - 6,378 = mathbf{35,786\text{ km}}$."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "🏛️ 5. Concrete Anchor (Historic Space Landmark)\n**Chandrayaan-3 Touchdown (Aug 23, 2023):** Vikram lander landed near Moon's South Pole ($69.36^circ S, 32.34^circ E$), naming the landing site *Shiv Shakti Point*."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚖️ 6. Debates & Space Policy Issues\n**Space Debris & Commercialization (IN-SPACe):**\n- *The Controversy:* Growing mega-constellations (Starlink) increasing collision risks (Kessler Syndrome) vs commercial space privatization.\n- *Phase 2 Core Question:* \"ISRO's transition from a developmental space agency to a commercial launcher (NSIL/IN-SPACe) is essential for India's space economy.\" Discuss."
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",

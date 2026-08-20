@@ -36,17 +36,9 @@
       "content": "4. Bad Bank Structure (NARCL / IDRCL): National Asset Reconstruction Company Ltd (NARCL) buys bad loans using a 15:85 structure (15% cash + 85% Govt-guaranteed Security Receipts)."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚡ 1. Asset Classification Timeline Matrix\n| Asset Category | Overdue Period Benchmark | Provisioning Requirement |\n|---|---|---|\n| **Standard Asset** | No default / Up to 30 days | 0.40% general provision |\n| **SMA-0** | 1 to 30 days overdue | Early warning tracking |\n| **SMA-1** | 31 to 60 days overdue | Mandatory reporting to CRILC database |\n| **SMA-2** | 61 to 90 days overdue | Pre-NPA resolution plan initiation |\n| **Substandard NPA** | Overdue $> mathbf{90\text{ days}}$ up to 12 months | 15% provision (secured) / 25% (unsecured) |\n| **Doubtful NPA** | Remained substandard for $> mathbf{12\text{ months}}$ | 25% to 100% provision depending on age |\n| **Loss Asset** | Identified as uncollectible by bank/RBI | **100% Provisioning** / Full write-off |"
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -54,17 +46,9 @@
       "text": "📖 2. Key Recovery Mechanisms\n1. **SARFAESI Act 2002:** Allows banks to seize and auction collateralized assets of defaulting borrowers **without court intervention** (applies to secured loans above ₹1 Lakh where NPA $>90$ days).\n2. **IBC 2016:** Creditor-in-control model with a strict **180-day resolution timeline** (extendable by 90 days). NCLT is the Adjudicating Authority for corporates; DRT for individuals.\n3. **NARCL (Bad Bank):** Buys stressed loans $ge ₹500\text{ Cr}$ from commercial banks. Govt provides ₹30,600 Cr guarantee for Security Receipts (SRs)."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** A loan becomes an NPA when interest or principal installment remains overdue for **more than 90 days** (for agricultural crop loans: 2 crop seasons for short-duration crops, 1 season for long-duration crops!).\n- ⚠️ **Exam Trap 2:** Under IBC 2016, the **NCLT** is the adjudicating body for corporate entities, whereas **DRT** (Debt Recovery Tribunal) adjudicates individual/partnership insolvency."
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -73,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** What is the legal adjudicating authority for Corporate Insolvency Resolution Process (CIRP) under the Insolvency and Bankruptcy Code (IBC 2016)?  \n(A) Debt Recovery Tribunal (DRT)  \n(B) National Company Law Tribunal (NCLT)  \n(C) High Court  \n(D) Reserve Bank of India  \n**Answer:** **(B)** — NCLT is the adjudicating authority for corporate entities under IBC."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** What is the legal adjudicating authority for Corporate Insolvency Resolution Process (CIRP) under the Insolvency and Bankruptcy Code (IBC 2016)?  \n(A) Debt Recovery Tribunal (DRT)  \n(B) National Company Law Tribunal (NCLT)  \n(C) High Court  \n(D) Reserve Bank of India  \n**Answer:** ** — NCLT is the adjudicating authority for corporate entities under IBC."
     },
     {
       "type": "paragraph",

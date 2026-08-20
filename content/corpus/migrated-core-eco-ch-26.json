@@ -36,17 +36,9 @@
       "content": "4. Open Commerce Layer: **ONDC** (Open Network for Digital Commerce) democratizing e-commerce by unbundling buyers and sellers."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚡ 1. Economic Weight & Composition of Services Sector\n- **GVA Contribution:** Accounts for **$>53%$ of India's total Gross Value Added (GVA)**.\n- **Employment Share:** Employs $sim 31%$ of total Indian workforce.\n- **FDI Inflows:** Receives highest share ($>50%$) of total Foreign Direct Investment inflows (Financial, Computer Software/Hardware, Business Services).\n- **Net Services Exports:** Consistently surplus (IT software services, Global Capability Centers GCCs), offsetting a large part of merchandise trade deficit!"
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -54,17 +46,9 @@
       "text": "📖 2. India Stack Layers & Key Platforms\n| India Stack Layer | Technology / Protocol | Managing Entity | Key Utility |\n|---|---|---|---|\n| **Identity Layer** | Aadhaar / e-KYC | UIDAI | Digital identity authentication |\n| **Payment Layer** | UPI / IMPS / AePS | NPCI (National Payments Corp of India) | Interoperable instant payments |\n| **Data Empowerment Layer** | Account Aggregator (AA) | RBI-regulated NBFC-AA | Consent-based financial data sharing |\n| **Open Network Layer** | ONDC / Beckn Protocol | DPIIT / Section 8 Non-Profit | Decentralized e-commerce network |"
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Account Aggregators (AAs) do **NOT** store or aggregate user financial data on their own servers; they act strictly as **pass-through data conduits** based on explicit user consent!\n- ⚠️ **Exam Trap 2:** NPCI is a **not-for-profit company** set up by RBI and Indian Banks Association (IBA) under the Payment and Settlement Systems Act 2007."
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -73,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which non-profit umbrella organization regulated by RBI developed the Unified Payments Interface (UPI) and RuPay card network?  \n(A) NITI Aayog  \n(B) National Payments Corporation of India (NPCI)  \n(C) Unique Identification Authority of India (UIDAI)  \n(D) Security and Exchange Board of India (SEBI)  \n**Answer:** **(B)** — NPCI developed UPI and RuPay."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which non-profit umbrella organization regulated by RBI developed the Unified Payments Interface (UPI) and RuPay card network?  \n(A) NITI Aayog  \n(B) National Payments Corporation of India (NPCI)  \n(C) Unique Identification Authority of India (UIDAI)  \n(D) Security and Exchange Board of India (SEBI)  \n**Answer:** ** — NPCI developed UPI and RuPay."
     },
     {
       "type": "paragraph",

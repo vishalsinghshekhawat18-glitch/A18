@@ -36,10 +36,6 @@
       "content": "4. Legal National Income Definition: $NNP_{FC}$ (Net National Product at Factor Cost) is the official legal definition of **National Income**."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚡ 1. The 3 Fundamental Conversion Rules\n1. **Gross vs. Net:** $\\text{Gross} - \\text{Depreciation} = \\text{Net}$\n2. **Domestic vs. National:** $\\text{Domestic} + \\text{NFIA} = \\text{National}$\n3. **Factor Cost vs. Market Price:** $\\text{Factor Cost} + \\text{Net Indirect Taxes (NIT)} = \\text{Market Price}$"
@@ -49,17 +45,9 @@
       "content": "Where:\n- $\\text{NFIA} = \\text{Factor Income earned by domestic residents abroad} - \\text{Factor Income earned by foreign residents in domestic territory}$.\n- $\\text{NIT} = \\text{Indirect Taxes} - \\text{Subsidies}$."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "📖 2. Master 8 Aggregates Derivation Matrix\n| Aggregate Abbreviation | Full Name | Derivation Formula from $GDP_{MP}$ |\n|---|---|---|\n| **$GDP_{MP}$** | Gross Domestic Product at Market Price | Baseline total market value of final goods/services within domestic territory |\n| **$NDP_{MP}$** | Net Domestic Product at Market Price | $GDP_{MP} - \\text{Depreciation}$ |\n| **$GNP_{MP}$** | Gross National Product at Market Price | $GDP_{MP} + \\text{NFIA}$ |\n| **$NNP_{MP}$** | Net National Product at Market Price | $GDP_{MP} + \\text{NFIA} - \\text{Depreciation}$ |\n| **$GDP_{FC}$** | Gross Domestic Product at Factor Cost | $GDP_{MP} - \\text{NIT}$ |\n| **$NDP_{FC}$** | Net Domestic Product at Factor Cost | $GDP_{MP} - \\text{Depreciation} - \\text{NIT}$ |\n| **$GNP_{FC}$** | Gross National Product at Factor Cost | $GDP_{MP} + \\text{NFIA} - \\text{NIT}$ |\n| **$NNP_{FC}$** | **Net National Product at Factor Cost (National Income)** | $\\mathbf{GDP_{MP} + NFIA - Depreciation - NIT}$ |"
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -71,17 +59,9 @@
       "content": "*Note for India:* NFIA for India has historically been negative due to heavy interest payments on foreign debt and profit outflows by foreign MNCs exceeding NRI inflows."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚖️ 4. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** $GDP_{MP}$ includes output produced by foreign citizens residing *inside* India's geographic borders, but EXCLUDES output by Indian citizens living abroad.\n- ⚠️ **Exam Trap 2:** $GNP_{MP}$ can be less than $GDP_{MP}$ if NFIA is **negative** (as is typically the case for developing nations with net foreign debt payments)."
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -90,7 +70,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which specific aggregate among the eight national income metrics is legally and officially designated as 'National Income'?  \n(A) $GDP_{MP}$  \n(B) $GNP_{MP}$  \n(C) $NNP_{FC}$  \n(D) $NDP_{FC}$  \n**Answer:** **(C)** — $NNP_{FC}$ (Net National Product at Factor Cost) is the official National Income."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which specific aggregate among the eight national income metrics is legally and officially designated as 'National Income'?  \n(A) $GDP_{MP}$  \n(B) $GNP_{MP}$  \n(C) $NNP_{FC}$  \n(D) $NDP_{FC}$  \n**Answer:** ** — $NNP_{FC}$ (Net National Product at Factor Cost) is the official National Income."
     },
     {
       "type": "paragraph",

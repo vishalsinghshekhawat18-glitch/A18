@@ -42,17 +42,9 @@
       "content": "4. Core Ratios: Labor Force Participation Rate ($LFPR = \\frac{\\text{Labor Force}}{\\text{Total Pop}}$) | Worker Population Ratio ($WPR = \\frac{\\text{Employed}}{\\text{Total Pop}}$) | Unemployment Rate ($UR = \\frac{\\text{Unemployed}}{\\text{Labor Force}}$)."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚡ 1. Primary Types of Unemployment Matrix\n| Type | Underlying Cause | Characteristic Feature | Indian Context |\n|---|---|---|---|\n| **Disguised Unemployment** | Overcrowding in agriculture | Marginal product of additional worker is **Zero ($MP_L = 0$)** | Joint family farming; 2 workers doing work of 1 |\n| **Structural Unemployment** | Technological / skill mismatch | Long-term structural shift from agri to capital-intensive services | Youth educated but lacking industry-ready technical skills |\n| **Frictional Unemployment** | Time lag while switching jobs | Short-term search unemployment | Changing careers or relocating between cities |\n| **Cyclical Unemployment** | Recessionary downturn in $AD$ | Demand-deficient unemployment | IT/export sector lay-offs during global economic slowdowns |"
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -68,17 +60,9 @@
       "content": "- **Usual Principal & Subsidiary Status (UPSS):** Determines activity status based on majority of days in the **preceding 365 days**. Captures chronic / long-term unemployment.\n- **Current Weekly Status (CWS):** Determines status based on preceding **7 days**. A person is considered employed if they worked for **at least 1 hour** on any 1 day during the reference week. Captures seasonal/underemployment."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** The Unemployment Rate ($UR$) denominator is the **LABOR FORCE** (Employed + Unemployed looking for work), NOT total population!\n- ⚠️ **Exam Trap 2:** Disguised unemployment does NOT mean zero workers; it means the **marginal product** of extra workers is zero ($MP_L = 0$)."
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -87,7 +71,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which formula correctly defines the Unemployment Rate ($UR$) measured by NSO under the Periodic Labour Force Survey (PLFS)?  \n(A) $\\frac{\\text{Unemployed}}{\\text{Total Population}} \\times 100$  \n(B) $\\frac{\\text{Unemployed}}{\\text{Labor Force}} \\times 100$  \n(C) $\\frac{\\text{Labor Force}}{\\text{Working Age Population}} \\times 100$  \n(D) $\\frac{\\text{Employed}}{\\text{Labor Force}} \\times 100$  \n**Answer:** **(B)** — $UR$ is the percentage of unemployed within the active Labor Force."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which formula correctly defines the Unemployment Rate ($UR$) measured by NSO under the Periodic Labour Force Survey (PLFS)?  \n(A) $\\frac{\\text{Unemployed}}{\\text{Total Population}} \\times 100$  \n(B) $\\frac{\\text{Unemployed}}{\\text{Labor Force}} \\times 100$  \n(C) $\\frac{\\text{Labor Force}}{\\text{Working Age Population}} \\times 100$  \n(D) $\\frac{\\text{Employed}}{\\text{Labor Force}} \\times 100$  \n**Answer:** ** — $UR$ is the percentage of unemployed within the active Labor Force."
     },
     {
       "type": "paragraph",

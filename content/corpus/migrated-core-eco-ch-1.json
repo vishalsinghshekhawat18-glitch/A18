@@ -42,26 +42,14 @@
       "content": "4. Production Possibility Frontier (PPF): Graphical curve showing all maximum output combinations of two goods an economy can produce using fixed technology and resources efficiently."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚡ 1. Historical & Conceptual Definitions\n- **Wealth Definition (Adam Smith, 1776):** Economics is an inquiry into the nature and causes of the wealth of nations (*An Inquiry into the Nature and Causes of the Wealth of Nations*).\n- **Welfare Definition (Alfred Marshall, 1890):** Economics is a study of mankind in the ordinary business of life; it examines that part of individual and social action which is connected with the attainment of material requisites of well-being.\n- **Scarcity Definition (Lionel Robbins, 1932):** Economics is the science which studies human behavior as a relationship between ends and scarce means which have alternative uses."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "📖 2. Microeconomics vs. Macroeconomics Comparison Matrix\n| Parameter | Microeconomics | Macroeconomics |\n|---|---|---|\n| **Origin & Founder** | Greek *Mikros* (Small); Alfred Marshall | Greek *Makros* (Large); John Maynard Keynes (1936) |\n| **Focus Unit** | Individual economic units (Consumer, Firm, Industry) | Economy as a whole (Aggregate Output, Inflation, Employment) |\n| **Central Problem** | Price Determination & Resource Allocation | Level of Income and Employment Determination |\n| **Key Variables** | Individual Demand, Individual Supply, Market Price | Aggregate Demand ($AD$), Aggregate Supply ($AS$), National Income ($GDP$) |\n| **Methodology** | Partial Equilibrium Analysis (Other things remaining constant) | General Equilibrium Analysis |"
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -77,26 +65,14 @@
       "content": "- **Shape of PPF:** Concave to the origin because MRT increases as more of one good is produced (law of increasing marginal opportunity cost, as resources are specialized and not equally efficient in producing all goods).\n- **Points on PPF:** Efficient resource utilization.\n- **Points Inside PPF:** Underutilization or inefficient allocation of resources / unemployment.\n- **Points Outside PPF:** Unattainable given current resources and technology."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "🏛️ 4. Positive vs. Normative Economics\n- **Positive Economics:** Deals with \"what is\" or \"how the economy actually works.\" Statements can be tested, verified, or disproved using empirical data (e.g., *\"An increase in fuel price leads to a decrease in fuel demand\"*).\n- **Normative Economics:** Deals with \"what ought to be\" or value judgments. Statements cannot be empirically tested because they represent subjective opinions (e.g., *\"The government should provide free electricity to marginal farmers\"*)."
     },
     {
-      "type": "paragraph",
-      "content": "---"
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "⚖️ 5. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Opportunity cost is NOT the total sum of all alternatives foregone; it is ONLY the value of the **single next best alternative**.\n- ⚠️ **Exam Trap 2:** A straight-line PPF implies a **constant** MRT (opportunity cost remains constant), which happens only if resources are perfectly adaptable between the two goods."
-    },
-    {
-      "type": "paragraph",
-      "content": "---"
     },
     {
       "type": "heading",
@@ -105,7 +81,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Why is the Production Possibility Frontier (PPF) typically concave to the origin?  \n(A) Opportunity cost remains constant  \n(B) Marginal Rate of Transformation (MRT) increases as output shifts  \n(C) Resources are equally efficient in all activities  \n(D) Technology is continuously improving  \n**Answer:** **(B)** — Concavity is caused by increasing MRT due to resource specialization."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Why is the Production Possibility Frontier (PPF) typically concave to the origin?  \n(A) Opportunity cost remains constant  \n(B) Marginal Rate of Transformation (MRT) increases as output shifts  \n(C) Resources are equally efficient in all activities  \n(D) Technology is continuously improving  \n**Answer:** ** — Concavity is caused by increasing MRT due to resource specialization."
     },
     {
       "type": "paragraph",
