@@ -234,9 +234,13 @@ export const CAFeedSurface: React.FC<Props> = ({
                             {/* Card Header & Title */}
                             <div className="ca-card-header-compact">
                               <div className="ca-card-meta-bar">
-                                <span className="ca-card-num">NOTE #{noteNumber}</span>
-                                {item.metadata?.date && <span className="ca-date-chip">📅 {item.metadata.date}</span>}
-                                {item.metadata?.category && <span className="ca-category-chip">{item.metadata.category}</span>}
+                                <div className="ca-meta-left">
+                                  <span className="ca-card-num">NOTE #{noteNumber}</span>
+                                  {item.metadata?.date && <span className="ca-date-chip">📅 {item.metadata.date}</span>}
+                                  {item.metadata?.category && <span className="ca-category-chip">{item.metadata.category}</span>}
+                                </div>
+                                {/* 💡 Feature 1 & 2: Top-right Hint Bulb */}
+                                <ExplainSimplyCard item={item} />
                               </div>
 
                               <h2 className="ca-card-title-compact">{item.title}</h2>
@@ -246,9 +250,6 @@ export const CAFeedSurface: React.FC<Props> = ({
                                   <span className="ca-hook-label">EXECUTIVE BRIEFING:</span> {formatInlineText(item.summary)}
                                 </div>
                               )}
-
-                              {/* 💡 Feature 1 & 2: Plain English Story, Analogy & Jargon Buster */}
-                              <ExplainSimplyCard item={item} />
                             </div>
 
                             {/* News Content (Paragraphs, Bullets, Tables) */}

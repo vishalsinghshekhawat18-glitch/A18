@@ -48,7 +48,6 @@ export const ExplainSimplyCard: React.FC<Props> = ({ item }) => {
       return "PM-RAHAT guarantees that if anyone suffers a road accident on an Indian highway, any nearby empanelled hospital must provide free cashless emergency trauma care up to ₹1.5 lakh during the first 60 minutes ('Golden Hour').";
     }
 
-    // Default intelligent summary
     return item.summary || "This policy reform updates regulatory standards, capital allocation, or statutory oversight to strengthen economic stability and public compliance.";
   };
 
@@ -68,23 +67,34 @@ export const ExplainSimplyCard: React.FC<Props> = ({ item }) => {
   };
 
   return (
-    <div className="explain-simply-wrapper">
+    <div className="explain-simply-container">
+      {/* Top-right floating / embedded Hint Bulb trigger */}
       <button
-        className={`btn-explain-simply ${isOpen ? 'active' : ''}`}
-        onClick={() => setIsOpen(!isOpen)}
-        title="Click to view plain-English summary, everyday analogy, and jargon breakdowns"
+        className={`btn-hint-bulb ${isOpen ? 'active' : ''}`}
+        onClick={(e) => {
+          e.stopPropagation();
+          setIsOpen(!isOpen);
+        }}
+        title={isOpen ? "Close simple explanation" : "💡 Explain Simply (ELI5 & Jargon Buster)"}
+        aria-label="Explain Simply"
       >
-        <span className="btn-icon">💡</span>
-        <span className="btn-text">{isOpen ? 'Hide Plain-English Breakdown' : 'Explain in Plain English (ELI5)'}</span>
-        <span className="btn-badge">{detectedJargon.length} terms identified</span>
+        <span className="hint-bulb-icon">💡</span>
+        <span className="hint-bulb-text">{isOpen ? 'Hide' : 'Explain'}</span>
+        {detectedJargon.length > 0 && !isOpen && (
+          <span className="hint-bulb-badge" title={`${detectedJargon.length} key concepts identified`}>
+            {detectedJargon.length}
+          </span>
+        )}
       </button>
 
+      {/* Expanded Details Card */}
       {isOpen && (
-        <div className="explain-simply-card">
+        <div className="explain-simply-card" onClick={(e) => e.stopPropagation()}>
           <div className="explain-card-header">
             <div className="explain-badge-row">
               <span className="badge-layman">👶 PLAIN ENGLISH STORY</span>
               <span className="badge-analogy">🍕 EVERYDAY ANALOGY</span>
+              <button className="btn-close-explain" onClick={() => setIsOpen(false)} title="Close">✕</button>
             </div>
             <h3 className="explain-headline">What is this news actually saying?</h3>
           </div>

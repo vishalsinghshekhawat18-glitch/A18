@@ -35,9 +35,13 @@ export const CABriefingView: React.FC<Props> = ({
         {/* Top Header Card */}
         <header className="ca-header-card">
           <div className="ca-metadata-bar">
-            {item.metadata?.date && <span className="ca-date-chip">📅 {item.metadata.date}</span>}
-            {item.metadata?.category && <span className="ca-category-chip">{item.metadata.category}</span>}
-            <span className="ca-domain-chip">CURRENT AFFAIRS BRIEFING</span>
+            <div className="ca-meta-left">
+              {item.metadata?.date && <span className="ca-date-chip">📅 {item.metadata.date}</span>}
+              {item.metadata?.category && <span className="ca-category-chip">{item.metadata.category}</span>}
+              <span className="ca-domain-chip">CURRENT AFFAIRS BRIEFING</span>
+            </div>
+            {/* 💡 Feature 1 & 2: Top-right Hint Bulb */}
+            <ExplainSimplyCard item={item} />
           </div>
 
           <h1 className="ca-title">{item.title}</h1>
@@ -47,9 +51,6 @@ export const CABriefingView: React.FC<Props> = ({
               <span className="ca-hook-label">EXECUTIVE BRIEFING:</span> {item.summary}
             </div>
           )}
-
-          {/* 💡 Feature 1 & 2: Plain-English Story, Analogy & Jargon Buster */}
-          <ExplainSimplyCard item={item} />
         </header>
 
         {/* Main News Content (Paragraphs, Bullets, Tables) */}
