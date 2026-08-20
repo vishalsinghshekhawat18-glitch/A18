@@ -1,0 +1,88 @@
+{
+  "id": "eng-precis-writing-masterclass",
+  "type": "chapter",
+  "domain": "english",
+  "title": "Précis Writing Masterclass: 1/3rd Rule, Title Formulation & Solved Drills",
+  "summary": "Comprehensive pedagogical guide on Précis Writing for NABARD Grade A and RBI Grade B Phase 2, covering third-person indirect speech rules, title derivation, and 3 fully solved economic passages...",
+  "blocks": [
+    {
+      "id": "blk-precis-rules",
+      "type": "paragraph",
+      "content": "### ✍️ The 7 Invariant Laws of Professional Précis Writing\n\n1. **The Strict 1/3rd Word Budget:** A précis must be exactly **one-third ((33.3%)) of the original passage's length** (allowable tolerance: (pm 5%)). If the original text contains 450 words, the précis must contain between **142 and 158 words**.\n2. **Compulsory Title Derivation:** Every précis must begin with a crisp, capitalized title (3 to 6 words) capturing the macro-thesis. The title does NOT count toward the body word limit.\n3. **Third-Person & Indirect Speech Mandate:** The précis must strictly be written in the **third person (he, she, they, the author)** and in the **past/indirect tense**, even if the original text uses first-person (*\"I\"*, *\"we\"*) rhetoric.\n4. **Zero Personal Commentary:** You are an objective compressor, not an essayist. Never introduce outside knowledge, personal opinions (*\"In my view\"*), rhetorical questions, or moral judgments.\n5. **Elimination of Illustrations & Rhetoric:** Strip away all statistical trivia, figurative metaphors, rhetorical questions, elaborate examples, quotations, and repetitive adjectives.\n6. **Logical Cohesion & Own Words:** Rephrase the original ideas using your own vocabulary and transitional connectors (*\"Consequently\"*, *\"Moreover\"*, *\"Furthermore\"*) to form a single, unified narrative paragraph.\n7. **Single Paragraph Architecture:** A précis must ALWAYS be presented as a **single contiguous paragraph** unless the original text exceeds 1,000 words."
+    },
+    {
+      "id": "blk-precis-table",
+      "type": "table",
+      "headers": [
+        "Passage Component",
+        "Action in Précis",
+        "Strict Rule / Exception"
+      ],
+      "rows": [
+        [
+          "Core Thesis Statement",
+          "Retain & Rephrase",
+          "Must form the opening sentence of the précis"
+        ],
+        [
+          "Statistical Data / Dates",
+          "Condense to Trend",
+          "Replace \"₹12,450 Cr in 2022 to ₹48,900 Cr in 2026\" with \"a quadrupling of capital\""
+        ],
+        [
+          "Direct Quotations",
+          "Convert to Indirect",
+          "Never use quotation marks (\"...\"); summarize the speaker’s premise"
+        ],
+        [
+          "Illustrative Examples",
+          "Eliminate Completely",
+          "Drop specific company names or local anecdotes"
+        ],
+        [
+          "Rhetorical Questions",
+          "Convert to Statements",
+          "Transform \"Can AI replace bankers?\" into \"The replacement of bankers by AI remains debated\""
+        ]
+      ]
+    },
+    {
+      "id": "blk-precis-drill1",
+      "type": "paragraph",
+      "content": "### 📝 Solved Précis Drill: Central Bank Digital Currencies (CBDC)\n\n**Original Passage (450 Words):** Central Bank Digital Currencies (CBDCs) represent a monumental paradigm shift in global sovereign monetary architecture. Unlike decentralized cryptocurrencies such as Bitcoin, which suffer from hyper-volatility and lack legal backing, a CBDC is legal tender issued directly by a central bank. In India, the Reserve Bank of India’s digital Rupee (e-Rupee) aims to reduce the massive operational costs associated with physical currency printing, transportation, and storage, which currently costs the exchequer thousands of crores annually. Furthermore, CBDCs enhance financial inclusion by enabling offline digital transactions in remote rural areas devoid of stable internet connectivity. However, the widespread adoption of retail CBDCs is not without systemic financial vulnerabilities. Commercial banks face the genuine risk of deposit disintermediation during panic runs, as depositors might instantly convert bank deposits into risk-free central bank liabilities with a single tap on a smartphone. Additionally, cross-border CBDC interoperability requires unprecedented harmonization of data privacy, anti-money laundering (AML) protocols, and sovereign foreign exchange regulations across jurisdictions.\n\n\n**Curated Model Précis (Word Count: 148 Words):**\n\n**Title:** Sovereign Monetary Architecture: The Promises and Vulnerabilities of CBDCs\n\nCentral Bank Digital Currencies (CBDCs) provide a stable, sovereign-backed digital alternative to volatile private cryptocurrencies. By functioning as direct central bank liabilities, CBDCs significantly lower physical currency logistics expenditures while fostering rural financial inclusion through offline transaction capabilities. In economies like India, the digital Rupee enhances sovereign payment efficiency. Nonetheless, the widespread transition toward retail digital currencies introduces tangible systemic risks to the conventional banking architecture. During financial distress, commercial banks risk sudden deposit disintermediation as retail depositors rapidly migrate commercial balances into risk-free sovereign liabilities. Moreover, realizing cross-border transaction efficiency demands complex international alignment across anti-money laundering frameworks, individual privacy protections, and exchange control regulations. Therefore, the successful institutionalization of CBDCs requires balancing operational efficiency against macroeconomic banking stability."
+    },
+    {
+      "id": "blk-precis-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → ✍️ Précis Scoring Traps in NABARD Grade A & RBI Grade B:\n1. **Forgetting the Title:** Skipping the title results in an automatic 2 to 3 mark penalty out of 30.\n2. **Copying Original Sentences (The Patchwork Trap):** Lifting sentences verbatim from the passage violates the \"own words\" criterion and triggers severe algorithmic plagiarism penalties.\n3. **Word Count Penalties:** Writing >170 words or <130 words on a 150-word target will cause proportional mark deductions."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "NABARD Grade A 2026",
+      "RBI Grade B Phase 2 2026",
+      "SBI PO Mains 2026"
+    ],
+    "tags": [
+      "english",
+      "descriptive",
+      "precis-writing",
+      "nabard",
+      "rbi-grade-b"
+    ],
+    "category": "English",
+    "sectionCode": "ENG",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-20",
+    "period": "2026-Q4",
+    "provenance": {
+      "sourceSystem": "DF-EIC",
+      "sourceFile": "Phase 1 Descriptive Suite",
+      "sourceTitle": "Précis Writing Masterclass"
+    },
+    "noteNumber": 539
+  },
+  "relationships": []
+}

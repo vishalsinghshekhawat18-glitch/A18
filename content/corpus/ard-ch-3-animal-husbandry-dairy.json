@@ -1,0 +1,47 @@
+{
+  "id": "ard-ch-3-animal-husbandry-dairy",
+  "type": "chapter",
+  "domain": "agriculture",
+  "title": "ARD Chapter 3: Animal Husbandry, Dairy Cattle Breeds & Poultry Architecture",
+  "summary": "Exhaustive reference on indigenous vs exotic cattle breeds, gestation periods, lactation curves, National Livestock Mission, and Rashtriya Gokul Mission...",
+  "blocks": [
+    {
+      "id": "blk-ard3-theory",
+      "type": "paragraph",
+      "content": "### 🐄 Livestock Census, Dairy Breeds & Physiological Benchmarks\n\n1. **20th Livestock Census Benchmarks:**\n   • Total Livestock population in India = **535.78 Million** (Cattle: 192.5M, Buffaloes: 109.8M, Goats: 148.9M, Sheep: 74.3M).\n   • India ranks **#1 globally in Milk Production** ((247\text{ Million Tonnes in 2025})) and **#1 in Buffalo population**.\n2. **Indigenous Cattle Breed Classifications:**\n   • **Milch Breeds (High Milk Yield):** Gir (Gujarat/Saurashtra), Sahiwal (Punjab/Haryana, highest milk yield ~2,500L/lactation), Red Sindhi, Deoni.\n   • **Draught Breeds (Work/Ploughing):** Amritmahal, Hallikar, Kangayam, Khillari, Nagori.\n   • **Dual-Purpose Breeds:** Haryana, Tharparkar, Ongole, Kankrej (famous for \"Sawai Chal\" gait).\n3. **Physiological & Gestation Invariants:**\n   • **Cattle (Cow) Gestation:** **280 to 285 days** ((sim 9\text{ months } 9\text{ days})); Estrous cycle = (21\text{ days}).\n   • **Buffalo Gestation:** **310 days** ((sim 10\text{ months } 10\text{ days})).\n   • **Sheep & Goat Gestation:** **148 to 152 days** ((sim 5\text{ months}))."
+    },
+    {
+      "id": "blk-ard3-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Animal Gestation Periods in NABARD Grade A: Cow (282 days) vs Buffalo (310 days) vs Goat (150 days). Sahiwal has the highest milk fat yield among Indian indigenous cow breeds."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "NABARD Grade A 2026",
+      "IBPS AFO 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "agriculture",
+      "ard",
+      "animal-husbandry",
+      "dairy",
+      "nabard"
+    ],
+    "category": "ARD",
+    "sectionCode": "ARD",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-20",
+    "period": "2026-Q4",
+    "provenance": {
+      "sourceSystem": "DF-EIC",
+      "sourceFile": "Phase 1 ARD Suite",
+      "sourceTitle": "ARD Chapter 3: Animal Husbandry"
+    },
+    "noteNumber": 543
+  },
+  "relationships": []
+}

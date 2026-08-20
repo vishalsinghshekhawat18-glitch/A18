@@ -2718,5 +2718,75 @@
     "period": "2026-Q4",
     "category": "SEC8",
     "file": "content/corpus/ca-2026-q4-sec8--persons-in-news.json"
+  },
+  "539": {
+    "noteNumber": 539,
+    "id": "eng-precis-writing-masterclass",
+    "title": "Précis Writing Masterclass: 1/3rd Rule, Title Formulation & Solved Drills",
+    "section": "ENG",
+    "date": "2026-08-20",
+    "period": "2026-Q4",
+    "category": "English",
+    "file": "content/corpus/eng-precis-writing-masterclass.json"
+  },
+  "540": {
+    "noteNumber": 540,
+    "id": "eng-report-writing-masterclass",
+    "title": "Business & Committee Report Writing Masterclass (NABARD & Bank PO)",
+    "section": "ENG",
+    "date": "2026-08-20",
+    "period": "2026-Q4",
+    "category": "English",
+    "file": "content/corpus/eng-report-writing-masterclass.json"
+  },
+  "541": {
+    "noteNumber": 541,
+    "id": "ard-ch-1-agronomy-cropping-systems",
+    "title": "ARD Chapter 1: Agronomy, Agro-Climatic Zones & Cropping Systems",
+    "section": "ARD",
+    "date": "2026-08-20",
+    "period": "2026-Q4",
+    "category": "ARD",
+    "file": "content/corpus/ard-ch-1-agronomy-cropping-systems.json"
+  },
+  "542": {
+    "noteNumber": 542,
+    "id": "ard-ch-2-soil-water-conservation",
+    "title": "ARD Chapter 2: Soil Health, Micro-Irrigation (Drip & Sprinkler) & Watershed Management",
+    "section": "ARD",
+    "date": "2026-08-20",
+    "period": "2026-Q4",
+    "category": "ARD",
+    "file": "content/corpus/ard-ch-2-soil-water-conservation.json"
+  },
+  "543": {
+    "noteNumber": 543,
+    "id": "ard-ch-3-animal-husbandry-dairy",
+    "title": "ARD Chapter 3: Animal Husbandry, Dairy Cattle Breeds & Poultry Architecture",
+    "section": "ARD",
+    "date": "2026-08-20",
+    "period": "2026-Q4",
+    "category": "ARD",
+    "file": "content/corpus/ard-ch-3-animal-husbandry-dairy.json"
+  },
+  "544": {
+    "noteNumber": 544,
+    "id": "ard-ch-5-agri-economics-kcc-psl",
+    "title": "ARD Chapter 5: Farm Credit, Kisan Credit Card (KCC) & Priority Sector Lending Targets",
+    "section": "ARD",
+    "date": "2026-08-20",
+    "period": "2026-Q4",
+    "category": "ARD",
+    "file": "content/corpus/ard-ch-5-agri-economics-kcc-psl.json"
+  },
+  "545": {
+    "noteNumber": 545,
+    "id": "eng-50-model-essays-bank-po-rbi",
+    "title": "50 High-Yield Model Essay Prompts & Socioeconomic Frameworks (Bank PO, RBI & NABARD)",
+    "section": "ENG",
+    "date": "2026-08-20",
+    "period": "2026-Q4",
+    "category": "English",
+    "file": "content/corpus/eng-50-model-essays-bank-po-rbi.json"
   }
 }

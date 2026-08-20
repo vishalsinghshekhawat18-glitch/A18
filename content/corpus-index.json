@@ -1,5 +1,146 @@
 [
   {
+    "id": "ard-ch-1-agronomy-cropping-systems",
+    "type": "chapter",
+    "domain": "agriculture",
+    "title": "ARD Chapter 1: Agronomy, Agro-Climatic Zones & Cropping Systems",
+    "summary": "Doctoral foundation in Agricultural Agronomy covering the 15 Planning Commission Agro-Climatic Zones, Kharif/Rabi/Zaid classification, and Cropping Intensity formulas...",
+    "metadata": {
+      "exam": [
+        "NABARD Grade A 2026",
+        "IBPS AFO 2026",
+        "RBI Grade B 2026"
+      ],
+      "tags": [
+        "agriculture",
+        "ard",
+        "agronomy",
+        "nabard-grade-a"
+      ],
+      "category": "ARD",
+      "sectionCode": "ARD",
+      "difficulty": "advanced",
+      "relevanceTier": "TIER_A",
+      "noteTier": "TIER_A",
+      "date": "2026-08-20",
+      "period": "2026-Q4",
+      "provenance": {
+        "sourceSystem": "DF-EIC",
+        "sourceFile": "Phase 1 ARD Suite",
+        "sourceTitle": "ARD Chapter 1: Agronomy"
+      },
+      "noteNumber": 541
+    },
+    "relationships": []
+  },
+  {
+    "id": "ard-ch-2-soil-water-conservation",
+    "type": "chapter",
+    "domain": "agriculture",
+    "title": "ARD Chapter 2: Soil Health, Micro-Irrigation (Drip & Sprinkler) & Watershed Management",
+    "summary": "Comprehensive guide covering Soil Health Card nutrient benchmarks (NPK ratio 4:2:1), Micro-irrigation efficiencies, and Integrated Watershed Management Program (IWMP)...",
+    "metadata": {
+      "exam": [
+        "NABARD Grade A 2026",
+        "IBPS AFO 2026",
+        "RBI Grade B 2026"
+      ],
+      "tags": [
+        "agriculture",
+        "ard",
+        "soil-science",
+        "irrigation",
+        "nabard"
+      ],
+      "category": "ARD",
+      "sectionCode": "ARD",
+      "difficulty": "advanced",
+      "relevanceTier": "TIER_A",
+      "noteTier": "TIER_A",
+      "date": "2026-08-20",
+      "period": "2026-Q4",
+      "provenance": {
+        "sourceSystem": "DF-EIC",
+        "sourceFile": "Phase 1 ARD Suite",
+        "sourceTitle": "ARD Chapter 2: Soil & Irrigation"
+      },
+      "noteNumber": 542
+    },
+    "relationships": []
+  },
+  {
+    "id": "ard-ch-3-animal-husbandry-dairy",
+    "type": "chapter",
+    "domain": "agriculture",
+    "title": "ARD Chapter 3: Animal Husbandry, Dairy Cattle Breeds & Poultry Architecture",
+    "summary": "Exhaustive reference on indigenous vs exotic cattle breeds, gestation periods, lactation curves, National Livestock Mission, and Rashtriya Gokul Mission...",
+    "metadata": {
+      "exam": [
+        "NABARD Grade A 2026",
+        "IBPS AFO 2026",
+        "RBI Grade B 2026"
+      ],
+      "tags": [
+        "agriculture",
+        "ard",
+        "animal-husbandry",
+        "dairy",
+        "nabard"
+      ],
+      "category": "ARD",
+      "sectionCode": "ARD",
+      "difficulty": "advanced",
+      "relevanceTier": "TIER_A",
+      "noteTier": "TIER_A",
+      "date": "2026-08-20",
+      "period": "2026-Q4",
+      "provenance": {
+        "sourceSystem": "DF-EIC",
+        "sourceFile": "Phase 1 ARD Suite",
+        "sourceTitle": "ARD Chapter 3: Animal Husbandry"
+      },
+      "noteNumber": 543
+    },
+    "relationships": []
+  },
+  {
+    "id": "ard-ch-5-agri-economics-kcc-psl",
+    "type": "chapter",
+    "domain": "agriculture",
+    "title": "ARD Chapter 5: Farm Credit, Kisan Credit Card (KCC) & Priority Sector Lending Targets",
+    "summary": "Comprehensive financial guide on KCC interest subvention (MISS), scale of finance, PSL 18% agriculture sub-targets, and Small/Marginal Farmer definition...",
+    "metadata": {
+      "exam": [
+        "NABARD Grade A 2026",
+        "RBI Grade B 2026",
+        "SBI PO Mains 2026",
+        "IBPS PO Mains 2026"
+      ],
+      "tags": [
+        "agriculture",
+        "ard",
+        "kcc",
+        "psl",
+        "banking-credit",
+        "nabard"
+      ],
+      "category": "ARD",
+      "sectionCode": "ARD",
+      "difficulty": "advanced",
+      "relevanceTier": "TIER_A",
+      "noteTier": "TIER_A",
+      "date": "2026-08-20",
+      "period": "2026-Q4",
+      "provenance": {
+        "sourceSystem": "DF-EIC",
+        "sourceFile": "Phase 1 ARD Suite",
+        "sourceTitle": "ARD Chapter 5: Farm Credit"
+      },
+      "noteNumber": 544
+    },
+    "relationships": []
+  },
+  {
     "id": "ca-2026-07-sec1-adb-imf-july-growth-forecasts-for-india",
     "type": "ca_note",
     "domain": "current-affairs",
@@ -10012,6 +10153,112 @@
         "sourceTitle": "\udc64 Persons in News"
       },
       "noteNumber": 314
+    },
+    "relationships": []
+  },
+  {
+    "id": "eng-50-model-essays-bank-po-rbi",
+    "type": "chapter",
+    "domain": "english",
+    "title": "50 High-Yield Model Essay Prompts & Socioeconomic Frameworks (Bank PO, RBI & NABARD)",
+    "summary": "Curated repository of 50 macro, banking, environmental, and rural development essay topics with structural thesis hooks, body arguments, and circular callbacks...",
+    "metadata": {
+      "exam": [
+        "RBI Grade B Phase 2 2026",
+        "NABARD Grade A 2026",
+        "SBI PO Mains 2026",
+        "IBPS PO Mains 2026"
+      ],
+      "tags": [
+        "english",
+        "descriptive",
+        "essays",
+        "bank-po",
+        "rbi-grade-b",
+        "nabard"
+      ],
+      "category": "English",
+      "sectionCode": "ENG",
+      "difficulty": "advanced",
+      "relevanceTier": "TIER_A",
+      "noteTier": "TIER_A",
+      "date": "2026-08-20",
+      "period": "2026-Q4",
+      "provenance": {
+        "sourceSystem": "DF-EIC",
+        "sourceFile": "Phase 1 Descriptive Suite",
+        "sourceTitle": "50 Model Essays Suite"
+      },
+      "noteNumber": 545
+    },
+    "relationships": []
+  },
+  {
+    "id": "eng-precis-writing-masterclass",
+    "type": "chapter",
+    "domain": "english",
+    "title": "Précis Writing Masterclass: 1/3rd Rule, Title Formulation & Solved Drills",
+    "summary": "Comprehensive pedagogical guide on Précis Writing for NABARD Grade A and RBI Grade B Phase 2, covering third-person indirect speech rules, title derivation, and 3 fully solved economic passages...",
+    "metadata": {
+      "exam": [
+        "NABARD Grade A 2026",
+        "RBI Grade B Phase 2 2026",
+        "SBI PO Mains 2026"
+      ],
+      "tags": [
+        "english",
+        "descriptive",
+        "precis-writing",
+        "nabard",
+        "rbi-grade-b"
+      ],
+      "category": "English",
+      "sectionCode": "ENG",
+      "difficulty": "advanced",
+      "relevanceTier": "TIER_A",
+      "noteTier": "TIER_A",
+      "date": "2026-08-20",
+      "period": "2026-Q4",
+      "provenance": {
+        "sourceSystem": "DF-EIC",
+        "sourceFile": "Phase 1 Descriptive Suite",
+        "sourceTitle": "Précis Writing Masterclass"
+      },
+      "noteNumber": 539
+    },
+    "relationships": []
+  },
+  {
+    "id": "eng-report-writing-masterclass",
+    "type": "chapter",
+    "domain": "english",
+    "title": "Business & Committee Report Writing Masterclass (NABARD & Bank PO)",
+    "summary": "Standardized administrative report writing architectures covering Terms of Reference, Methodology, Findings, and Structured Recommendation Matrix for banking and regulatory examinations...",
+    "metadata": {
+      "exam": [
+        "NABARD Grade A 2026",
+        "SBI PO Mains 2026",
+        "IBPS PO Mains 2026"
+      ],
+      "tags": [
+        "english",
+        "descriptive",
+        "report-writing",
+        "nabard"
+      ],
+      "category": "English",
+      "sectionCode": "ENG",
+      "difficulty": "advanced",
+      "relevanceTier": "TIER_A",
+      "noteTier": "TIER_A",
+      "date": "2026-08-20",
+      "period": "2026-Q4",
+      "provenance": {
+        "sourceSystem": "DF-EIC",
+        "sourceFile": "Phase 1 Descriptive Suite",
+        "sourceTitle": "Report Writing Masterclass"
+      },
+      "noteNumber": 540
     },
     "relationships": []
   },

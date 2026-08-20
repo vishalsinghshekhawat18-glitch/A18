@@ -1,0 +1,49 @@
+{
+  "id": "ard-ch-5-agri-economics-kcc-psl",
+  "type": "chapter",
+  "domain": "agriculture",
+  "title": "ARD Chapter 5: Farm Credit, Kisan Credit Card (KCC) & Priority Sector Lending Targets",
+  "summary": "Comprehensive financial guide on KCC interest subvention (MISS), scale of finance, PSL 18% agriculture sub-targets, and Small/Marginal Farmer definition...",
+  "blocks": [
+    {
+      "id": "blk-ard5-theory",
+      "type": "paragraph",
+      "content": "### 💳 Farm Credit Architecture & Priority Sector Lending (PSL)\n\n1. **Kisan Credit Card (KCC) Scheme Mechanics:**\n   • **Genesis & Committee:** Formulated in **1998** by RBI and NABARD based on the **R.V. Gupta Committee** recommendations.\n   • **Validity & Limit Escalation:** KCC credit card validity is **5 years**; card limit automatically scales by **10% per year** up to 5th year based on crop area.\n   • **Modified Interest Subvention Scheme (MISS):** Benchmark short-term crop loan interest is **7.0% p.a. (up to ₹3 Lakh)**. Centre provides **1.5% interest subvention** to banks + **3.0% Prompt Repayment Incentive (PRI)** to farmers (implies) Effective interest rate = **4.0% p.a.**\n2. **RBI Priority Sector Lending (PSL) Agriculture Mandates:**\n   • **Total Agriculture PSL Target:** **18% of ANBC** (Adjusted Net Bank Credit) for Domestic Commercial Banks & Foreign Banks with (ge 20) branches.\n   • **Small and Marginal Farmers (SMF) Sub-Target:** **10% of ANBC** (phased in up to FY26).\n   • **Landholding Definitions:**\n     - **Marginal Farmer:** Agricultural landholding up to **1 hectare (2.47 acres)**.\n     - **Small Farmer:** Agricultural landholding between **1 hectare and 2 hectares (2.47 to 4.94 acres)**.\n     - **Semi-Medium:** 2 to 4 hectares; **Medium:** 4 to 10 hectares; **Large:** >10 hectares."
+    },
+    {
+      "id": "blk-ard5-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — KCC & Farm Landholding Traps:\n1. **KCC Effective Rate:** Benchmark 7% − 3% Prompt Repayment = **4.0% effective interest**.\n2. **Farmer Classification:** Marginal Farmer is (<1\text{ ha}); Small Farmer is (1\text{ to }2\text{ ha}). Notice that (86.2%) of Indian farmers are Small & Marginal Farmers (SMFs) as per Agriculture Census!"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "NABARD Grade A 2026",
+      "RBI Grade B 2026",
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026"
+    ],
+    "tags": [
+      "agriculture",
+      "ard",
+      "kcc",
+      "psl",
+      "banking-credit",
+      "nabard"
+    ],
+    "category": "ARD",
+    "sectionCode": "ARD",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-20",
+    "period": "2026-Q4",
+    "provenance": {
+      "sourceSystem": "DF-EIC",
+      "sourceFile": "Phase 1 ARD Suite",
+      "sourceTitle": "ARD Chapter 5: Farm Credit"
+    },
+    "noteNumber": 544
+  },
+  "relationships": []
+}

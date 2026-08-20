@@ -1,0 +1,87 @@
+{
+  "id": "ard-ch-1-agronomy-cropping-systems",
+  "type": "chapter",
+  "domain": "agriculture",
+  "title": "ARD Chapter 1: Agronomy, Agro-Climatic Zones & Cropping Systems",
+  "summary": "Doctoral foundation in Agricultural Agronomy covering the 15 Planning Commission Agro-Climatic Zones, Kharif/Rabi/Zaid classification, and Cropping Intensity formulas...",
+  "blocks": [
+    {
+      "id": "blk-ard1-theory",
+      "type": "paragraph",
+      "content": "### 🌾 Agro-Climatic Zones & Indian Agronomic Seasons\n\n1. **Agro-Climatic Zones Classification:**\n   • **Planning Commission Framework:** Divided India into **15 Agro-Climatic Zones** based on physiography, soil type, rainfall, and water availability (14 in mainland + 1 island zone).\n   • **NARP (ICAR) Framework:** National Agricultural Research Project sub-divided the country into **127 Agro-Ecological Zones**.\n   • **NBSS&LUP Classification:** 20 Agro-Ecological Regions (AER) and 60 Agro-Ecological Sub-Regions (AESR).\n2. **Agronomic Seasons in India:**\n   • **Kharif Season (Monsoon Crops):** Sown in **June–July** (onset of southwest monsoon); harvested in **September–October**. *Crops:* Rice, Maize, Jowar, Bajra, Cotton, Jute, Groundnut, Soybean.\n   • **Rabi Season (Winter Crops):** Sown in **October–November**; harvested in **March–April**. *Crops:* Wheat, Barley, Mustard, Gram, Peas, Lentil.\n   • **Zaid Season (Summer Crops):** Sown and harvested between **March–June** (warm, dry period). *Crops:* Watermelon, Muskmelon, Cucumber, Bitter gourd, Moong (summer pulse).\n3. **Cropping Intensity Formula:**\n   $$\\text{Cropping Intensity (\\%)} = \\frac{\\text{Gross Cropped Area (GCA)}}{\\text{Net Sown Area (NSA)}} \\times 100$$."
+    },
+    {
+      "id": "blk-ard1-table",
+      "type": "table",
+      "headers": [
+        "Cropping Pattern",
+        "Agronomic Definition",
+        "Key Advantage / Exam Example"
+      ],
+      "rows": [
+        [
+          "Monoculture",
+          "Growing only one crop species season after season on the same land",
+          "High commercial specialization; severe risk of soil nutrient depletion"
+        ],
+        [
+          "Multiple Cropping",
+          "Growing two or more crops on the same field in a single agricultural year",
+          "Increases cropping intensity and annual farm income"
+        ],
+        [
+          "Intercropping",
+          "Growing two or more crops simultaneously in definite row ratio (e.g. 1:1, 1:2)",
+          "Optimizes sunlight/moisture; e.g. Wheat + Mustard (9:1 ratio)"
+        ],
+        [
+          "Mixed Cropping",
+          "Sowing seeds of two or more crops mixed together without distinct row geometry",
+          "Insurance against total crop failure in drought/rainfed areas"
+        ],
+        [
+          "Relay Cropping",
+          "Sowing the second crop before harvesting the standing first crop",
+          "Zero-tillage moisture utilization; e.g. Lathyrus pulse in standing paddy"
+        ],
+        [
+          "Alley Cropping",
+          "Growing food crops in corridors between rows of trees/shrubs",
+          "Agro-forestry system providing soil shade and organic mulching"
+        ]
+      ]
+    },
+    {
+      "id": "blk-ard1-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Recurring NABARD Grade A Traps:\n1. **Agro-Climatic Zones Count:** Planning Commission = 15 Zones; ICAR NARP = 127 Zones; NBSS&LUP = 20 Regions.\n2. **Intercropping vs Mixed Cropping:** Intercropping uses a **strict definite row arrangement** (e.g. 4:1); Mixed Cropping uses mixed seed broadcasting with zero row arrangement!"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "NABARD Grade A 2026",
+      "IBPS AFO 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "agriculture",
+      "ard",
+      "agronomy",
+      "nabard-grade-a"
+    ],
+    "category": "ARD",
+    "sectionCode": "ARD",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-20",
+    "period": "2026-Q4",
+    "provenance": {
+      "sourceSystem": "DF-EIC",
+      "sourceFile": "Phase 1 ARD Suite",
+      "sourceTitle": "ARD Chapter 1: Agronomy"
+    },
+    "noteNumber": 541
+  },
+  "relationships": []
+}

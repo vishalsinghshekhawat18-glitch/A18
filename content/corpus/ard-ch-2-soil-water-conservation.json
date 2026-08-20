@@ -1,0 +1,47 @@
+{
+  "id": "ard-ch-2-soil-water-conservation",
+  "type": "chapter",
+  "domain": "agriculture",
+  "title": "ARD Chapter 2: Soil Health, Micro-Irrigation (Drip & Sprinkler) & Watershed Management",
+  "summary": "Comprehensive guide covering Soil Health Card nutrient benchmarks (NPK ratio 4:2:1), Micro-irrigation efficiencies, and Integrated Watershed Management Program (IWMP)...",
+  "blocks": [
+    {
+      "id": "blk-ard2-theory",
+      "type": "paragraph",
+      "content": "### 💧 Soil Health Management & Precision Irrigation Architectures\n\n1. **Ideal NPK Ratio & Soil Health Card Scheme:**\n   • **Optimum National NPK Fertilizer Ratio:** (4:2:1) ((\text{Nitrogen}:\text{Phosphorus}:\text{Potassium})). The current distorted national ratio stands at (sim 6.7:2.4:1) due to urea subsidies.\n   • **Soil Health Card (SHC) 12 Parameters:** Tests 12 parameters:\n     - Macro-nutrients (3): Nitrogen (N), Phosphorus (P), Potassium (K).\n     - Secondary-nutrient (1): Sulphur (S).\n     - Micro-nutrients (5): Zinc (Zn), Iron (Fe), Copper (Cu), Manganese (Mn), Boron (B).\n     - Physical parameters (3): pH, Electrical Conductivity (EC), Organic Carbon (OC).\n2. **Micro-Irrigation Systems (PMKSY - Per Drop More Crop):**\n   • **Drip / Trickle Irrigation:** Water application efficiency of **90% to 95%**; delivers water directly to root zones at low pressure ((1\text{ to }2.5\text{ kg/cm}^2)); cuts water usage by 40–70%.\n   • **Sprinkler Irrigation:** Water application efficiency of **70% to 80%**; suited for undulating, sandy soils with high infiltration rates.\n3. **Watershed Classification by Size (NABARD Invariant):**\n   • **Micro-watershed:** (100\text{ to }1,000\text{ hectares}).\n   • **Mini-watershed:** (1,000\text{ to }10,000\text{ hectares}).\n   • **Sub-watershed:** (10,000\text{ to }50,000\text{ hectares}).\n   • **Macro-watershed:** (>50,000\text{ hectares})."
+    },
+    {
+      "id": "blk-ard2-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — NABARD Grade A Traps:\n1. **Soil Health Card 12 Parameters:** Memorize the 12 parameters. Calcium (Ca) and Magnesium (Mg) are NOT tested in standard SHC!\n2. **Micro-Watershed Size:** The size of a Micro-watershed is **100 to 1,000 hectares** (frequently tested numerical MCQ)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "NABARD Grade A 2026",
+      "IBPS AFO 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "agriculture",
+      "ard",
+      "soil-science",
+      "irrigation",
+      "nabard"
+    ],
+    "category": "ARD",
+    "sectionCode": "ARD",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-20",
+    "period": "2026-Q4",
+    "provenance": {
+      "sourceSystem": "DF-EIC",
+      "sourceFile": "Phase 1 ARD Suite",
+      "sourceTitle": "ARD Chapter 2: Soil & Irrigation"
+    },
+    "noteNumber": 542
+  },
+  "relationships": []
+}
