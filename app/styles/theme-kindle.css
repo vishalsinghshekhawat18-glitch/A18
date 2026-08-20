@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400..700;1,7..72,400..700&family=Source+Sans+3:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700&family=Literata:ital,opsz,wght@0,7..72,400..700;1,7..72,400..700&family=Source+Sans+3:ital,wght@0,400..700;1,400..700&display=swap');
 
 /* ==========================================================================
    BANKING COMMAND CENTER — KINDLE SEPIA DESIGN SYSTEM (V2.0)
    Default Kindle Sepia Theme: Warm sepia paper (#f4ecd8) & deep sepia-charcoal typography (#2c221a)
-   Typography: Google Literata / Bookerly / Palatino font stack
+   Typography: Lexend / Literata / Source Sans font stack
    ========================================================================== */
 
 :root {
@@ -26,13 +26,13 @@
   --border-warning: #c28928;
 
   /* Kindle Typography Stack */
-  --font-reading: "Literata", "Bookerly", "Palatino Linotype", "Palatino", "Georgia", "Cambria", serif;
-  --font-ui: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-reading: "Lexend", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-ui: "Lexend", "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   --font-mono: SFMono-Regular, Consolas, "Liberation Mono", Menlo, Courier, monospace;
 
   /* Dynamic Reading Controls Defaults */
-  --reading-font-size: 18px;
-  --reading-line-height: 1.7;
+  --reading-font-size: 15px;
+  --reading-line-height: 1.72;
   --reading-max-width: 960px;
 
   /* Shadows */

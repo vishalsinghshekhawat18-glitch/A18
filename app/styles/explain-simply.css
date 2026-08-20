@@ -1,5 +1,98 @@
-/* 💡 Sleek Top-Right Hint Bulb & Detail Drawer Styles */
+/* 💡 Unified Scientific Study Card Styles (Lexend, Solid Header Rule, Dashed Headline Rule, Style 1 Track Bullets, Unboxed Italic Exam Angle) */
 
+/* Locked Header Byline Bar */
+.card-header-locked {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 0.65rem;
+  margin-bottom: 1.15rem;
+  border-bottom: 1px solid var(--border-subtle, #d2c19e);
+  font-family: inherit;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-muted, #7d6d5c);
+}
+
+/* Locked Dashed Headline */
+.news-title-locked {
+  font-family: inherit;
+  font-size: 1.45rem;
+  font-weight: 700;
+  line-height: 1.35;
+  padding-bottom: 0.95rem;
+  margin-bottom: 1.25rem;
+  border-bottom: 1px dashed var(--border-subtle, #d2c19e);
+  color: var(--text-primary, #2c221a);
+  letter-spacing: -0.01em;
+}
+
+/* Executive Hook (Lead Story) */
+.exec-hook {
+  font-size: 1.02rem;
+  margin-bottom: 1.35rem;
+  line-height: 1.68;
+  color: var(--text-primary, #2c221a);
+}
+
+/* Style 1: Vertical Step-Track Bullets */
+.bullets-track {
+  position: relative;
+  list-style-type: none;
+  padding-left: 1.5rem;
+  margin-bottom: 1.35rem;
+}
+
+.bullets-track::before {
+  content: "";
+  position: absolute;
+  left: 0.4rem;
+  top: 0.5rem;
+  bottom: 0.5rem;
+  width: 1.5px;
+  background: var(--border-subtle, #d2c19e);
+}
+
+.bullets-track li {
+  position: relative;
+  margin-bottom: 1rem;
+  line-height: 1.68;
+  color: var(--text-primary, #2c221a);
+}
+
+.bullets-track li::before {
+  content: "";
+  position: absolute;
+  left: -1.35rem;
+  top: 0.55rem;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--text-secondary, #5a4c3e);
+}
+
+/* Unboxed Small Italic Exam Trap Footnote */
+.exam-trap-subtext {
+  margin-top: 1.25rem;
+  padding-top: 0.85rem;
+  border-top: 1px dashed var(--border-subtle, #d2c19e);
+  font-size: 0.88rem;
+  font-style: italic;
+  color: var(--text-muted, #7d6d5c);
+  line-height: 1.6;
+}
+
+.exam-trap-subtext .trap-prefix {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 0.8rem;
+  color: var(--text-primary, #2c221a);
+  margin-right: 0.35rem;
+}
+
+/* Quiet Top-Right Hint Bulb */
 .explain-simply-container {
   display: inline-flex;
   flex-direction: column;
@@ -7,50 +100,49 @@
   position: relative;
 }
 
-/* Top-Right Hint Bulb Button */
 .btn-hint-bulb {
+  font-family: inherit;
   display: inline-flex;
   align-items: center;
-  gap: 0.35rem;
-  padding: 0.25rem 0.6rem;
-  background: #fef3c7;
-  border: 1px solid #f59e0b;
-  border-radius: 20px;
-  color: #92400e;
-  font-size: 0.78rem;
-  font-weight: 700;
+  gap: 0.3rem;
+  background: transparent;
+  border: 1px solid var(--border-subtle, #d2c19e);
+  border-radius: 16px;
+  padding: 0.18rem 0.55rem;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--text-muted, #7d6d5c);
   cursor: pointer;
-  box-shadow: 0 1px 3px rgba(245, 158, 11, 0.25);
-  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  text-transform: none;
+  letter-spacing: normal;
+  transition: all 0.15s ease;
   user-select: none;
 }
 
 .btn-hint-bulb:hover {
-  background: #fde68a;
-  border-color: #d97706;
-  transform: translateY(-1px);
-  box-shadow: 0 4px 8px rgba(245, 158, 11, 0.35);
+  border-color: var(--text-secondary, #5a4c3e);
+  color: var(--text-primary, #2c221a);
+  background: rgba(0, 0, 0, 0.04);
 }
 
 .btn-hint-bulb.active {
-  background: #92400e;
-  color: #ffffff;
-  border-color: #78350f;
+  background: var(--text-primary, #2c221a);
+  color: var(--bg-reading-paper, #f7f1e3);
+  border-color: var(--text-primary, #2c221a);
 }
 
 .hint-bulb-icon {
-  font-size: 0.95rem;
+  font-size: 0.9rem;
   line-height: 1;
 }
 
 .hint-bulb-text {
-  font-size: 0.75rem;
-  font-weight: 700;
-  letter-spacing: 0.02em;
+  font-size: 0.72rem;
+  font-weight: 600;
 }
 
 .hint-bulb-badge {
-  background: #f59e0b;
+  background: var(--border-warning, #c28928);
   color: #ffffff;
   padding: 0.05rem 0.35rem;
   border-radius: 9999px;
@@ -62,34 +154,7 @@
   background: rgba(255, 255, 255, 0.3);
 }
 
-/* Header & Card Top Row Alignment */
-.ca-metadata-bar, .ca-card-meta-bar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  width: 100%;
-}
-
-.ca-meta-left {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  flex-wrap: wrap;
-}
-
-.ca-note-num-chip {
-  background: #1e293b;
-  color: #f8fafc;
-  font-size: 0.72rem;
-  font-weight: 800;
-  letter-spacing: 0.05em;
-  padding: 0.15rem 0.55rem;
-  border-radius: 4px;
-  border: 1px solid #334155;
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
-}
-
-/* Expanded Details Card */
+/* Expanded Explain Simply Card Drawer */
 .explain-simply-card {
   margin-top: 0.75rem;
   width: 100%;
@@ -214,7 +279,7 @@
   margin: 0;
 }
 
-/* Jargon Buster Section */
+/* Jargon Buster Chips */
 .explain-jargon-section {
   border-top: 1px dashed #fcd34d;
   padding-top: 0.75rem;

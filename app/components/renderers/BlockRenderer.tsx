@@ -22,7 +22,7 @@ export const BlockRenderer: React.FC<Props> = ({ block, blockIndex = 0 }) => {
     }
     case 'bullet_list': {
       return (
-        <ul className="block-list">
+        <ul className="bullets-track">
           {block.items.map((item, i) => (
             <li key={i}>{formatInlineText(item)}</li>
           ))}
@@ -81,13 +81,11 @@ export const BlockRenderer: React.FC<Props> = ({ block, blockIndex = 0 }) => {
     }
     case 'exam_trap': {
       return (
-        <div id={blockId} className="block-exam-trap">
-          <div className="exam-trap-header">
-            ⚠️ {formatInlineText(block.title || 'Exam Trap / Common Misconception')}
-          </div>
-          <div>{formatInlineText(block.content)}</div>
+        <div id={blockId} className="exam-trap-subtext">
+          <span className="trap-prefix">🎯 Exam Angle:</span>{' '}
+          <span>{formatInlineText(block.content)}</span>
           {block.trapDetails && (
-            <div className="exam-trap-details">{formatInlineText(block.trapDetails)}</div>
+            <div className="exam-trap-details" style={{ marginTop: '0.3rem' }}>{formatInlineText(block.trapDetails)}</div>
           )}
         </div>
       );

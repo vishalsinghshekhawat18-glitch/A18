@@ -33,26 +33,23 @@ export const CABriefingView: React.FC<Props> = ({
     <div className="layout-ca-briefing">
       <div className="ca-briefing-container" style={{ fontSize: `${fontSize}px` }}>
         {/* Top Header Card */}
-        <header className="ca-header-card">
-          <div className="ca-metadata-bar">
-            <div className="ca-meta-left">
-              {item.metadata?.noteNumber && (
-                <span className="ca-note-num-chip">NOTE #{item.metadata.noteNumber}</span>
-              )}
-              {item.metadata?.date && <span className="ca-date-chip">📅 {item.metadata.date}</span>}
-              {item.metadata?.category && <span className="ca-category-chip">{item.metadata.category}</span>}
-              <span className="ca-domain-chip">CURRENT AFFAIRS BRIEFING</span>
+        <header className="study-card-header">
+          <div className="card-header-locked">
+            <div>
+              {item.metadata?.noteNumber ? `NOTE ${String(item.metadata.noteNumber).padStart(2, '0')}` : 'REVISION NOTE'}
+              {item.metadata?.date && ` · ${item.metadata.date}`}
+              {item.metadata?.category && ` · ${item.metadata.category}`}
             </div>
-            {/* 💡 Feature 1 & 2: Top-right Hint Bulb */}
+            {/* 💡 Top-right Hint Bulb */}
             <ExplainSimplyCard item={item} />
           </div>
 
-          <h1 className="ca-title">{item.title}</h1>
+          <h1 className="news-title-locked">{item.title}</h1>
 
           {item.summary && (
-            <div className="ca-hook-box">
-              <span className="ca-hook-label">EXECUTIVE BRIEFING:</span> {item.summary}
-            </div>
+            <p className="exec-hook">
+              {item.summary}
+            </p>
           )}
         </header>
 

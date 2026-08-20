@@ -232,25 +232,23 @@ export const CAFeedSurface: React.FC<Props> = ({
                             className={`ca-feed-card-compact ${isTarget ? 'is-active-target' : ''}`}
                           >
                             {/* Card Header & Title */}
-                            <div className="ca-card-header-compact">
-                              <div className="ca-card-meta-bar">
-                                <div className="ca-meta-left">
-                                  <span className="ca-card-num">
-                                    {item.metadata?.noteNumber ? `NOTE #${item.metadata.noteNumber}` : (item.metadata?.sectionCode === 'SEC11' ? 'REVISION VAULT' : `ITEM #${noteNumber}`)}
-                                  </span>
-                                  {item.metadata?.date && <span className="ca-date-chip">📅 {item.metadata.date}</span>}
-                                  {item.metadata?.category && <span className="ca-category-chip">{item.metadata.category}</span>}
+                            <div className="study-card-header">
+                              <div className="card-header-locked">
+                                <div>
+                                  {item.metadata?.noteNumber ? `NOTE ${String(item.metadata.noteNumber).padStart(2, '0')}` : (item.metadata?.sectionCode === 'SEC11' ? 'REVISION NOTE' : `NOTE ${String(noteNumber).padStart(2, '0')}`)}
+                                  {item.metadata?.date && ` · ${item.metadata.date}`}
+                                  {item.metadata?.category && ` · ${item.metadata.category}`}
                                 </div>
                                 {/* 💡 Feature 1 & 2: Top-right Hint Bulb */}
                                 <ExplainSimplyCard item={item} />
                               </div>
 
-                              <h2 className="ca-card-title-compact">{item.title}</h2>
+                              <h2 className="news-title-locked">{item.title}</h2>
 
                               {item.summary && (
-                                <div className="ca-card-hook-compact">
-                                  <span className="ca-hook-label">EXECUTIVE BRIEFING:</span> {formatInlineText(item.summary)}
-                                </div>
+                                <p className="exec-hook">
+                                  {formatInlineText(item.summary)}
+                                </p>
                               )}
                             </div>
 
