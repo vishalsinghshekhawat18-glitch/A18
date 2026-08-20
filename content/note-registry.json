@@ -2838,5 +2838,45 @@
     "period": "2026-Q4",
     "category": "Geography",
     "file": "content/corpus/ras-geo-ch-1-rajasthan-physical-divisions.json"
+  },
+  "551": {
+    "noteNumber": 551,
+    "id": "ras-his-ch-1-rajasthan-unesco-hill-forts",
+    "title": "RAS History Ch 1: 6 UNESCO Hill Forts of Rajasthan & Military Architecture",
+    "section": "HIS",
+    "date": "2026-08-20",
+    "period": "2026-Q4",
+    "category": "History",
+    "file": "content/corpus/ras-his-ch-1-rajasthan-unesco-hill-forts.json"
+  },
+  "552": {
+    "noteNumber": 552,
+    "id": "ras-his-ch-2-rajasthan-miniature-paintings",
+    "title": "RAS History Ch 2: Rajasthan Miniature Painting Schools (Mewar, Kishangarh, Bundi & Kota)",
+    "section": "HIS",
+    "date": "2026-08-20",
+    "period": "2026-Q4",
+    "category": "History",
+    "file": "content/corpus/ras-his-ch-2-rajasthan-miniature-paintings.json"
+  },
+  "553": {
+    "noteNumber": 553,
+    "id": "ras-his-ch-3-rajasthan-prajamandal-movements",
+    "title": "RAS History Ch 3: Rajasthan Peasant Revolts (Bijolia, Begun) & Prajamandal Movements",
+    "section": "HIS",
+    "date": "2026-08-20",
+    "period": "2026-Q4",
+    "category": "History",
+    "file": "content/corpus/ras-his-ch-3-rajasthan-prajamandal-movements.json"
+  },
+  "554": {
+    "noteNumber": 554,
+    "id": "ras-eco-ch-1-rajasthan-economic-review-schemes",
+    "title": "RAS Economy Ch 1: Economic Review of Rajasthan & State Flagship Schemes Master Suite",
+    "section": "ECO",
+    "date": "2026-08-20",
+    "period": "2026-Q4",
+    "category": "Economy",
+    "file": "content/corpus/ras-eco-ch-1-rajasthan-economic-review-schemes.json"
   }
 }

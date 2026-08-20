@@ -18770,6 +18770,42 @@
     "relationships": []
   },
   {
+    "id": "ras-eco-ch-1-rajasthan-economic-review-schemes",
+    "type": "chapter",
+    "domain": "economy",
+    "title": "RAS Economy Ch 1: Economic Review of Rajasthan & State Flagship Schemes Master Suite",
+    "summary": "Doctoral macroeconomic synthesis of Rajasthan’s GSVA sectoral distribution (Services 45%, Industry 28%, Agri 27%), per capita income, and 10 state flagship welfare schemes...",
+    "metadata": {
+      "exam": [
+        "RPSC RAS Prelims 2026",
+        "RPSC RAS Mains 2026",
+        "Rajasthan Police SI"
+      ],
+      "tags": [
+        "economy",
+        "rpsc-ras",
+        "rajasthan-economy",
+        "economic-review",
+        "flagship-schemes",
+        "minerals"
+      ],
+      "category": "Economy",
+      "sectionCode": "ECO",
+      "difficulty": "advanced",
+      "relevanceTier": "TIER_A",
+      "noteTier": "TIER_A",
+      "date": "2026-08-20",
+      "period": "2026-Q4",
+      "provenance": {
+        "sourceSystem": "DF-EIC",
+        "sourceFile": "Phase 4 RAS Suite",
+        "sourceTitle": "RAS Economy Chapter 1: Economic Review"
+      },
+      "noteNumber": 554
+    },
+    "relationships": []
+  },
+  {
     "id": "ras-geo-ch-1-rajasthan-physical-divisions",
     "type": "chapter",
     "domain": "geography",
@@ -18801,6 +18837,114 @@
         "sourceTitle": "RAS Geography Chapter 1"
       },
       "noteNumber": 550
+    },
+    "relationships": []
+  },
+  {
+    "id": "ras-his-ch-1-rajasthan-unesco-hill-forts",
+    "type": "chapter",
+    "domain": "history",
+    "title": "RAS History Ch 1: 6 UNESCO Hill Forts of Rajasthan & Military Architecture",
+    "summary": "Doctoral guide on the 6 UNESCO World Heritage Hill Forts of Rajasthan inscribed at Phnom Penh (2013): Chittorgarh, Kumbhalgarh, Ranthambore, Gagron, Amber, and Jaisalmer...",
+    "metadata": {
+      "exam": [
+        "RPSC RAS Prelims 2026",
+        "RPSC RAS Mains 2026",
+        "Rajasthan Police SI"
+      ],
+      "tags": [
+        "history",
+        "rpsc-ras",
+        "rajasthan-history",
+        "unesco-forts",
+        "chittorgarh",
+        "kumbhalgarh"
+      ],
+      "category": "History",
+      "sectionCode": "HIS",
+      "difficulty": "advanced",
+      "relevanceTier": "TIER_A",
+      "noteTier": "TIER_A",
+      "date": "2026-08-20",
+      "period": "2026-Q4",
+      "provenance": {
+        "sourceSystem": "DF-EIC",
+        "sourceFile": "Phase 4 RAS Suite",
+        "sourceTitle": "RAS History Chapter 1: UNESCO Forts"
+      },
+      "noteNumber": 551
+    },
+    "relationships": []
+  },
+  {
+    "id": "ras-his-ch-2-rajasthan-miniature-paintings",
+    "type": "chapter",
+    "domain": "history",
+    "title": "RAS History Ch 2: Rajasthan Miniature Painting Schools (Mewar, Kishangarh, Bundi & Kota)",
+    "summary": "Comprehensive art history matrix of Rajasthan painting styles: Mewar Ragamala, Kishangarh Bani Thani (Mona Lisa of India), Bundi Chitrashala, and Kota hunting frescoes...",
+    "metadata": {
+      "exam": [
+        "RPSC RAS Prelims 2026",
+        "RPSC RAS Mains 2026",
+        "UPSC CSE 2026"
+      ],
+      "tags": [
+        "history",
+        "rpsc-ras",
+        "rajasthan-art",
+        "paintings",
+        "bani-thani",
+        "mewar-school"
+      ],
+      "category": "History",
+      "sectionCode": "HIS",
+      "difficulty": "advanced",
+      "relevanceTier": "TIER_A",
+      "noteTier": "TIER_A",
+      "date": "2026-08-20",
+      "period": "2026-Q4",
+      "provenance": {
+        "sourceSystem": "DF-EIC",
+        "sourceFile": "Phase 4 RAS Suite",
+        "sourceTitle": "RAS History Chapter 2: Paintings"
+      },
+      "noteNumber": 552
+    },
+    "relationships": []
+  },
+  {
+    "id": "ras-his-ch-3-rajasthan-prajamandal-movements",
+    "type": "chapter",
+    "domain": "history",
+    "title": "RAS History Ch 3: Rajasthan Peasant Revolts (Bijolia, Begun) & Prajamandal Movements",
+    "summary": "Exhaustive historical analysis of the 44-year Bijolia Peasant Movement (Vijay Singh Pathik), Begun Movement (Trench Commission), and Prajamandal chronological matrix...",
+    "metadata": {
+      "exam": [
+        "RPSC RAS Prelims 2026",
+        "RPSC RAS Mains 2026",
+        "Rajasthan Police SI"
+      ],
+      "tags": [
+        "history",
+        "rpsc-ras",
+        "rajasthan-history",
+        "bijolia",
+        "prajamandal",
+        "vijay-singh-pathik"
+      ],
+      "category": "History",
+      "sectionCode": "HIS",
+      "difficulty": "advanced",
+      "relevanceTier": "TIER_A",
+      "noteTier": "TIER_A",
+      "date": "2026-08-20",
+      "period": "2026-Q4",
+      "provenance": {
+        "sourceSystem": "DF-EIC",
+        "sourceFile": "Phase 4 RAS Suite",
+        "sourceTitle": "RAS History Chapter 3: Peasant & Prajamandal"
+      },
+      "noteNumber": 553
     },
     "relationships": []
   },
