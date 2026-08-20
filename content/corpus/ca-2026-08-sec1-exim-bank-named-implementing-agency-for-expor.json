@@ -1,0 +1,47 @@
+{
+  "id": "ca-2026-08-sec1-exim-bank-named-implementing-agency-for-expor",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "EXIM Bank named implementing agency for exporter interest subvention",
+  "summary": "Replaces RBI for pre/post-shipment export credit subvention (Export Promotion Mission), effective 1 Apr 2026; Q4 (Jan–Mar 2026) claims still via RBI...",
+  "blocks": [
+    {
+      "id": "blk-11-bullets",
+      "type": "bullet_list",
+      "items": [
+        "Replaces RBI for pre/post-shipment export credit subvention (Export Promotion Mission), effective 1 Apr 2026; Q4 (Jan–Mar 2026) claims still via RBI",
+        "EXIM Bank: HQ Mumbai; CMD Harsha Bangari"
+      ]
+    },
+    {
+      "id": "blk-11-focus",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → EXIM Bank replaces RBI as implementing agency."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-08",
+      "sec1",
+      "claude-core-v3"
+    ],
+    "category": "SEC1",
+    "sectionCode": "SEC1",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-11",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
+      "sourceTitle": "EXIM Bank named implementing agency for exporter interest subvention"
+    }
+  },
+  "relationships": []
+}
