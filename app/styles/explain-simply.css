@@ -110,6 +110,8 @@
   flex-direction: column;
   align-items: flex-end;
   position: relative;
+  text-transform: none;
+  letter-spacing: normal;
 }
 
 .btn-hint-bulb {
@@ -151,6 +153,7 @@
 .hint-bulb-text {
   font-size: 0.7rem;
   font-weight: 600;
+  text-transform: none;
 }
 
 .hint-bulb-badge {
@@ -167,7 +170,7 @@
 }
 
 /* =========================================================
-   EXPLAIN SIMPLY DRAWER (Calm Paper Theme — Zero Neon Glare)
+   EXPLAIN SIMPLY DRAWER (Calm Paper Theme — Natural Casing)
    ========================================================= */
 .explain-simply-card {
   margin-top: 0.75rem;
@@ -179,6 +182,8 @@
   border-radius: 8px;
   box-shadow: 0 3px 10px rgba(0, 0, 0, 0.05);
   animation: fadeInDown 0.2s ease-out;
+  text-transform: none !important;
+  letter-spacing: normal !important;
 }
 
 @keyframes fadeInDown {

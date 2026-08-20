@@ -188,8 +188,8 @@ export const ExplainSimplyCard: React.FC<Props> = ({ item }) => {
         <div className="explain-simply-card" onClick={(e) => e.stopPropagation()}>
           <div className="explain-card-header">
             <div className="explain-badge-row">
-              <span className="badge-layman">{isCluster ? `📚 CLUSTER BREAKDOWN (${clusterActions.length} ACTIONS)` : '👶 PLAIN ENGLISH STORY'}</span>
-              <span className="badge-analogy">🎯 CORE LOGIC</span>
+              <span className="badge-layman">{isCluster ? `📚 Action Breakdown (${clusterActions.length} actions)` : '👶 Plain English Story'}</span>
+              <span className="badge-analogy">🎯 Core Logic</span>
               <button className="btn-close-explain" onClick={() => setIsOpen(false)} title="Close">✕</button>
             </div>
             <h3 className="explain-headline">{isCluster ? `Breaking down all regulatory actions in plain words:` : `What is this news actually saying?`}</h3>
