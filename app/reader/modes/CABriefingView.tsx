@@ -2,6 +2,9 @@ import React from 'react';
 import { KnowledgeItem, SemanticBlock } from '../../../schema/knowledge-item';
 import { BlockRenderer } from '../../components/renderers/BlockRenderer';
 import { RelationshipLinks } from '../RelationshipLinks';
+import { ExplainSimplyCard } from '../components/ExplainSimplyCard';
+import { MentorDeconstruct } from '../components/MentorDeconstruct';
+import { PrerequisiteBridge } from '../components/PrerequisiteBridge';
 
 interface Props {
   item: KnowledgeItem;
@@ -44,6 +47,9 @@ export const CABriefingView: React.FC<Props> = ({
               <span className="ca-hook-label">EXECUTIVE BRIEFING:</span> {item.summary}
             </div>
           )}
+
+          {/* 💡 Feature 1 & 2: Plain-English Story, Analogy & Jargon Buster */}
+          <ExplainSimplyCard item={item} />
         </header>
 
         {/* Main News Content (Paragraphs, Bullets, Tables) */}
@@ -52,6 +58,12 @@ export const CABriefingView: React.FC<Props> = ({
             <BlockRenderer key={idx} block={block} blockIndex={idx} />
           ))}
         </main>
+
+        {/* 🧠 Feature 4: 3-Question Mentor Deconstruct (Why, Impact, Exam Trap) */}
+        <MentorDeconstruct item={item} />
+
+        {/* 🔗 Feature 3: Prerequisite Fundamental Knowledge Bridge */}
+        <PrerequisiteBridge item={item} onNavigateItem={onNavigateItem} />
 
         {/* Exam Focus & Pitfalls / Traps placed below news as an extra section */}
         {sideBlocks.length > 0 && (

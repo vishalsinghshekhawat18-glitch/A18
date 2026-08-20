@@ -5,6 +5,7 @@ import { formatInlineText } from '../../components/renderers/formatInline';
 import { RelationshipLinks } from '../RelationshipLinks';
 import { isItemInSubject, groupCAItemsByMonth } from '../../navigation/subjectMapper';
 import { loadAllCorpusItemsForSearch } from '../../contentLoader';
+import { ExplainSimplyCard } from '../components/ExplainSimplyCard';
 
 interface Props {
   activeItemId: string;
@@ -245,6 +246,9 @@ export const CAFeedSurface: React.FC<Props> = ({
                                   <span className="ca-hook-label">EXECUTIVE BRIEFING:</span> {formatInlineText(item.summary)}
                                 </div>
                               )}
+
+                              {/* 💡 Feature 1 & 2: Plain English Story, Analogy & Jargon Buster */}
+                              <ExplainSimplyCard item={item} />
                             </div>
 
                             {/* News Content (Paragraphs, Bullets, Tables) */}
