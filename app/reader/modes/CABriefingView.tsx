@@ -45,12 +45,6 @@ export const CABriefingView: React.FC<Props> = ({
           </div>
 
           <h1 className="news-title-locked">{item.title}</h1>
-
-          {item.summary && (
-            <p className="exec-hook">
-              {item.summary}
-            </p>
-          )}
         </header>
 
         {/* Main News Content (Paragraphs, Bullets, Tables) */}

@@ -29,10 +29,10 @@
   letter-spacing: -0.01em;
 }
 
-/* Executive Hook (Lead Story) */
-.exec-hook {
+/* Executive Hook & Paragraph (Lead Story) */
+.block-paragraph, .exec-hook {
   font-size: 1.02rem;
-  margin-bottom: 1.35rem;
+  margin-bottom: 1.25rem;
   line-height: 1.68;
   color: var(--text-primary, #2c221a);
 }

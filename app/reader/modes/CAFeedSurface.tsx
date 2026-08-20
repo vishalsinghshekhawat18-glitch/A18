@@ -1,7 +1,6 @@
 import React, { useState, useEffect, useRef, useMemo } from 'react';
 import { KnowledgeItem, SemanticBlock } from '../../../schema/knowledge-item';
 import { BlockRenderer } from '../../components/renderers/BlockRenderer';
-import { formatInlineText } from '../../components/renderers/formatInline';
 import { RelationshipLinks } from '../RelationshipLinks';
 import { isItemInSubject, groupCAItemsByMonth } from '../../navigation/subjectMapper';
 import { loadAllCorpusItemsForSearch } from '../../contentLoader';
@@ -244,12 +243,6 @@ export const CAFeedSurface: React.FC<Props> = ({
                               </div>
 
                               <h2 className="news-title-locked">{item.title}</h2>
-
-                              {item.summary && (
-                                <p className="exec-hook">
-                                  {formatInlineText(item.summary)}
-                                </p>
-                              )}
                             </div>
 
                             {/* News Content (Paragraphs, Bullets, Tables) */}
