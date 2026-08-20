@@ -2,27 +2,23 @@
   "id": "ca-2026-q4-sec2-rbi-penalty-survey-items",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "RBI penalty & survey items",
-  "summary": "** RBI FSR**: unsecured retail loan slippages = 53.1% of total retail slippages (Sept 2025); life-insurance early-surrender payouts = 37% of total payouts.",
+  "title": "RBI Financial Stability Indicators, Surveys & DPI Index",
+  "summary": "**Financial Stability Report (FSR):** Unsecured retail personal loan slippages accounted for **53.1% of total retail slippages** as of September 2025; early-sur...",
   "blocks": [
     {
-      "id": "blk-q4-36-bullets",
+      "id": "blk-ca-2026-q4-sec2-rbi-penalty-survey-items-bullets",
       "type": "bullet_list",
       "items": [
-        "** RBI FSR**: unsecured retail loan slippages = 53.1% of total retail slippages (Sept 2025); life-insurance early-surrender payouts = 37% of total payouts.",
-        "** RBI-Digital Payments Index**: Sep 2025 reading 516.76 (vs 493.22, March 2025); base 100 = March 2018.",
-        "** RBI Financial Literacy Week 2026** (11th edn): theme \"KYC – Your First Step to Safe Banking\".",
-        "** SEBI**: ISIN-level NAV reporting for AIFs mandated; social-media registered-name disclosure effective 1 May 2026.",
-        "** India-France DTAC amending protocol**: dividend tax split 5%/15% (from flat 10%).",
-        "** DICGC**: 97.6% of bank accounts insured (March 2025); deposit insurance fund ₹2.29 lakh crore.",
-        "** RBI penalty**: **₹11.5 lakh on Mahindra & Mahindra Financial Services** — Fair Practices Code & Internal Ombudsman non-compliance; Sections 58G(1)(b) r/w 58B(5)(aa), RBI Act 1934.",
-        "** RBI Consumer Confidence Surveys**: RCCS (Ipsos, Gurugram) covers 31 states/UTs; UCCS (Hansa Research, Mumbai) covers 19 cities — don't swap the two."
+        "**Financial Stability Report (FSR):** Unsecured retail personal loan slippages accounted for **53.1% of total retail slippages** as of September 2025; early-surrender payouts in life insurance constituted 37% of total claims.",
+        "**RBI Digital Payments Index (RBI-DPI):** Rose to **516.76 in September 2025** (up from 493.22 in March 2025; Base: March 2018 = 100).",
+        "**Financial Literacy Week 2026:** Observed 11th edition under the national theme *\"KYC – Your First Step to Safe Banking\"* across all commercial banks.",
+        "**DICGC Insurance Coverage:** Insured accounts stood at **97.6% of total bank accounts** in India with the Deposit Insurance Fund corpus exceeding ₹2.29 Lakh Crore."
       ]
     },
     {
-      "id": "blk-q4-36-trap",
+      "id": "blk-ca-2026-q4-sec2-rbi-penalty-survey-items-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → 🔥 HIGH (53.1% unsecured slippage share; RBI-DPI 516.76) — no marker for the rest."
+      "content": "🎯 Exam Angle → 🔥 HIGH — Unsecured retail loans formed 53.1% of retail slippages; RBI-DPI reading is 516.76 (Base March 2018=100)."
     }
   ],
   "metadata": {

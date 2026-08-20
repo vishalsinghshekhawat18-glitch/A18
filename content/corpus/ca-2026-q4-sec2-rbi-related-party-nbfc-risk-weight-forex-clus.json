@@ -2,22 +2,22 @@
   "id": "ca-2026-q4-sec2-rbi-related-party-nbfc-risk-weight-forex-clus",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "RBI related-party, NBFC risk-weight & forex cluster",
-  "summary": "RBI redraws related-party transaction (RPT) rules — aligned with Companies Act 2013/IBC; effective 1 April 2026.",
+  "title": "RBI Related-Party Transactions, NBFC Risk-Weights & Forex Norms",
+  "summary": "**Related-Party Transaction (RPT) Rules:** RBI overhauled prudential guidelines for bank transactions with related parties, aligning definitions with the Compan...",
   "blocks": [
     {
-      "id": "blk-q4-25-bullets",
+      "id": "blk-ca-2026-q4-sec2-rbi-related-party-nbfc-risk-weight-forex-clus-bullets",
       "type": "bullet_list",
       "items": [
-        "RBI redraws related-party transaction (RPT) rules — aligned with Companies Act 2013/IBC; effective 1 April 2026.",
-        "RBI eases NBFC infra-lending risk weights — effective 1 April 2026 (or NBFC's choice, up to 31 Mar 2027).",
-        "Forex risk framework (NOP) aligned with Basel — effective 1 April 2027."
+        "**Related-Party Transaction (RPT) Rules:** RBI overhauled prudential guidelines for bank transactions with related parties, aligning definitions with the Companies Act 2013 and IBC (effective 1 April 2026).",
+        "**NBFC Infrastructure Risk-Weight Easing:** Eased risk weights on bank lending to infrastructure-financing NBFCs effective 1 April 2026 (with compliance flexibility up to 31 March 2027).",
+        "**Forex Risk & Net Open Position (NOP):** Harmonized foreign exchange Net Open Position guidelines with Basel III market risk frameworks, taking effect from **1 April 2027**."
       ]
     },
     {
-      "id": "blk-q4-25-trap",
+      "id": "blk-ca-2026-q4-sec2-rbi-related-party-nbfc-risk-weight-forex-clus-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → 🔥 HIGH — Note this Jan cluster's April-1 items are separate from the Feb \"April-1 cluster\" below and the March additions further down — three months feed one growing \"What changes April 1, 2026\" mega-list (see consolidated note at end of Section 2)."
+      "content": "🎯 Exam Angle → RPT rules and NBFC risk-weight easing take effect 1 April 2026; Basel Forex NOP framework takes effect 1 April 2027."
     }
   ],
   "metadata": {

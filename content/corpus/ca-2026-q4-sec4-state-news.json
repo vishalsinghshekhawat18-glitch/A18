@@ -2,21 +2,23 @@
   "id": "ca-2026-q4-sec4-state-news",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "State News",
-  "summary": "Kerala — first comprehensive graphene policy; Sikkim — Pakyong Airport renamed **Trilochan Pokhrel Airport**; Rajasthan — largest wool producer (~47.5% of natio...",
+  "title": "State Policy Firsts: Kerala Graphene, Tamil Nadu AI Park & PESA",
+  "summary": "**Kerala Graphene Policy:** Kerala formulated India’s first comprehensive State Graphene & 2D Materials Industrial Policy....",
   "blocks": [
     {
-      "id": "blk-q4-74-bullets",
+      "id": "blk-ca-2026-q4-sec4-state-news-bullets",
       "type": "bullet_list",
       "items": [
-        "Kerala — first comprehensive graphene policy; Sikkim — Pakyong Airport renamed **Trilochan Pokhrel Airport**; Rajasthan — largest wool producer (~47.5% of national output).",
-        "Tamil Nadu — first sovereign AI park (with Sarvam AI) + first Deeptech Startup Policy; Jharkhand — PESA Act implemented after 25-year delay; Assam — first state to constitute an 8th State Pay Commission."
+        "**Kerala Graphene Policy:** Kerala formulated India’s first comprehensive State Graphene & 2D Materials Industrial Policy.",
+        "**Tamil Nadu Sovereign AI Park:** Partnered with Sarvam AI to establish India’s first Sovereign AI Research Park and notified the state Deeptech Startup Policy.",
+        "**Jharkhand PESA Act Operationalisation:** Implemented the Panchayats (Extension to Scheduled Areas) Act, 1996 rules after a 25-year delay.",
+        "**Assam 8th State Pay Commission:** Became the first state in India to constitute the 8th State Pay Commission for government employees."
       ]
     },
     {
-      "id": "blk-q4-74-trap",
+      "id": "blk-ca-2026-q4-sec4-state-news-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → 🔥 HIGH — Multiple state \"firsts\" in close succession, high confusion-trap potential."
+      "content": "🎯 Exam Angle → Kerala notified 1st Graphene policy; Tamil Nadu built 1st Sovereign AI Park; Assam set up 8th State Pay Commission."
     }
   ],
   "metadata": {

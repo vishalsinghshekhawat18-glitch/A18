@@ -2,20 +2,22 @@
   "id": "ca-2026-q4-sec7-janfeb-india-relevant-reports",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "[Jan/Feb] India-relevant reports",
-  "summary": ": FDI inflows jumped **73% to $47 billion in 2025** (UNCTAD); India nuclear stockpile 6th globally, 180 warheads (cross-ref Section 6); India 3rd-largest wind+s...",
+  "title": "SIPRI Arms Imports, FDI 73% Jump & Maternal-Child Health Trends",
+  "summary": "**SIPRI International Arms Transfers (2021–2025):** India ranked as the world’s **2nd-largest arms importer** (behind Ukraine at #1); Russia remains India’s lar...",
   "blocks": [
     {
-      "id": "blk-q4-110-bullets",
+      "id": "blk-ca-2026-q4-sec7-janfeb-india-relevant-reports-bullets",
       "type": "bullet_list",
       "items": [
-        ": FDI inflows jumped **73% to $47 billion in 2025** (UNCTAD); India nuclear stockpile 6th globally, 180 warheads (cross-ref Section 6); India 3rd-largest wind+solar capacity globally (>163 GW); India 2nd-largest active smartphone base (740mn+); Economic Survey cites Power Gap Index for first time — India score -4.0 (lowest in Asia excl. Russia/N. Korea)."
+        "**SIPRI International Arms Transfers (2021–2025):** India ranked as the world’s **2nd-largest arms importer** (behind Ukraine at #1); Russia remains India’s largest single weapons supplier; Top 5 suppliers globally: USA, France, Russia, Germany, China.",
+        "**UNCTAD Global Investment Trends:** Foreign direct investment inflows into India surged by **73% YoY to $47 Billion in 2025**.",
+        "**Maternal & Child Mortality Declines:** Lancet study reported India’s Maternal Mortality Ratio (MMR) dropped by ~80% from 508 (1990) ➔ **116 per Lakh live births** (SRS 2021-23 puts current MMR at **88**); Neonatal Mortality Rate (NMR) declined by ~70% from 57 ➔ **17 per 1,000 live births**."
       ]
     },
     {
-      "id": "blk-q4-110-trap",
+      "id": "blk-ca-2026-q4-sec7-janfeb-india-relevant-reports-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → World Obesity Atlas: India ranks 2nd for child obesity (China 1st)."
+      "content": "🎯 Exam Angle → 🔥 HIGH — SIPRI: India is 2nd-largest arms importer (Ukraine 1st); UNCTAD: India FDI jumped 73% to $47 Billion; MMR is 116 (Lancet) / 88 (SRS); NMR is 17."
     }
   ],
   "metadata": {

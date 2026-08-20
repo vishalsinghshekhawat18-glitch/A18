@@ -2,23 +2,22 @@
   "id": "ca-2026-q4-sec2-rbi-payments-vision-2028",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "RBI Payments Vision 2028",
-  "summary": "Theme \"Shaping India's Payment Frontier\"; covers up to Dec 2028; **15 initiatives**.",
+  "title": "RBI Payments Vision 2028 & Institutional Initiatives",
+  "summary": "**Vision Theme & Horizon:** Published Payments Vision 2028 under the core theme **\"Shaping India’s Payment Frontier\"**, outlining **15 strategic initiatives** a...",
   "blocks": [
     {
-      "id": "blk-q4-32-bullets",
+      "id": "blk-ca-2026-q4-sec2-rbi-payments-vision-2028-bullets",
       "type": "bullet_list",
       "items": [
-        "Theme \"Shaping India's Payment Frontier\"; covers up to Dec 2028; **15 initiatives**.",
-        "**PaSS** (Payments Switching Service) — feasibility study on payment-instruction management during bank switches/mergers.",
-        "**TReDS** (Trade Receivables Discounting System) — integrated receivables-financing ecosystem.",
-        "Explores shared-responsibility framework: issuer + beneficiary bank jointly liable for unauthorised fraud."
+        "**Vision Theme & Horizon:** Published Payments Vision 2028 under the core theme **\"Shaping India’s Payment Frontier\"**, outlining **15 strategic initiatives** across 5 anchor goalposts through December 2028.",
+        "**Payments Switching Service (PaSS):** Commissioned a feasibility study on PaSS to ensure seamless continuity of recurring payment instructions during commercial bank mergers and account migrations.",
+        "**TReDS & Joint Liability:** Mandated expansion of Trade Receivables Discounting System (TReDS) and proposed a **Shared-Responsibility Framework** holding issuer and beneficiary banks jointly liable for unauthorized digital transaction losses."
       ]
     },
     {
-      "id": "blk-q4-32-trap",
+      "id": "blk-ca-2026-q4-sec2-rbi-payments-vision-2028-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → 15 initiatives, up to Dec 2028; don't confuse PaSS with TReDS."
+      "content": "🎯 Exam Angle → Payments Vision 2028 contains 15 initiatives valid till Dec 2028; PaSS manages payment instructions during bank switches."
     }
   ],
   "metadata": {

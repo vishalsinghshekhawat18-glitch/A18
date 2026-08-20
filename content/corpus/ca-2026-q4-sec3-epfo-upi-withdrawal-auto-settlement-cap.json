@@ -2,21 +2,22 @@
   "id": "ca-2026-q4-sec3-epfo-upi-withdrawal-auto-settlement-cap",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "EPFO UPI withdrawal & auto-settlement cap",
-  "summary": "EPF withdrawal via UPI from 1 April 2026; auto-settlement limit ₹1 lakh → **₹5 lakh**, settled within 3 days.",
+  "title": "EPFO UPI Claim Withdrawal & ₹5 Lakh Auto-Settlement Limit",
+  "summary": "**UPI Withdrawal Mechanism:** Employees’ Provident Fund Organisation (EPFO) enabled claim withdrawals directly via Unified Payments Interface (UPI), operational...",
   "blocks": [
     {
-      "id": "blk-q4-45-bullets",
+      "id": "blk-ca-2026-q4-sec3-epfo-upi-withdrawal-auto-settlement-cap-bullets",
       "type": "bullet_list",
       "items": [
-        "EPF withdrawal via UPI from 1 April 2026; auto-settlement limit ₹1 lakh → **₹5 lakh**, settled within 3 days.",
-        "Up to 75% of eligible PF balance withdrawable in many cases; 100% in specified situations (retirement 55, disability, retrenchment, VRS)."
+        "**UPI Withdrawal Mechanism:** Employees’ Provident Fund Organisation (EPFO) enabled claim withdrawals directly via Unified Payments Interface (UPI), operational from **1 April 2026**.",
+        "**Auto-Settlement Limit Expanded:** Auto-settlement claim ceiling raised 5-fold from ₹1 Lakh ➔ **₹5 Lakh**, processed within a streamlined turnaround time of **3 working days**.",
+        "**Withdrawal Quantum:** Up to 75% of eligible provident fund balance withdrawable for non-contingency needs, and up to 100% for superannuation (at age 55), permanent disability, or voluntary retirement."
       ]
     },
     {
-      "id": "blk-q4-45-trap",
+      "id": "blk-ca-2026-q4-sec3-epfo-upi-withdrawal-auto-settlement-cap-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → 🔥 HIGH."
+      "content": "🎯 Exam Angle → EPFO auto-settlement limit raised from ₹1 Lakh to ₹5 Lakh (settled within 3 days); UPI withdrawal live from 1 April 2026."
     }
   ],
   "metadata": {

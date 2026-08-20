@@ -2,21 +2,21 @@
   "id": "ca-2026-q4-sec3-upidigital-payments-milestones",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "UPI/digital-payments milestones",
-  "summary": "UPI global transaction volume crossed **1 million (1.48 mn)** for first time in FY26 (up from 0.75mn FY25); live in 8 countries.",
+  "title": "UPI Global Milestone (1.48M Transactions) & NPCI ‘FiMI’ AI LLM",
+  "summary": "**Cross-Border Volume Surge:** UPI global cross-border transaction volume crossed **1.48 Million transactions** in FY26 (doubling from 0.75 Million in FY25), op...",
   "blocks": [
     {
-      "id": "blk-q4-48-bullets",
+      "id": "blk-ca-2026-q4-sec3-upidigital-payments-milestones-bullets",
       "type": "bullet_list",
       "items": [
-        "UPI global transaction volume crossed **1 million (1.48 mn)** for first time in FY26 (up from 0.75mn FY25); live in 8 countries.",
-        "NPCI launches **FiMI** (payments-domain LLM) at AI Impact Summit."
+        "**Cross-Border Volume Surge:** UPI global cross-border transaction volume crossed **1.48 Million transactions** in FY26 (doubling from 0.75 Million in FY25), operational across 8 international countries.",
+        "**NPCI ‘FiMI’ LLM Launch:** National Payments Corporation of India launched **FiMI**, a specialized payments-domain Large Language Model developed for conversational digital payments, during the India AI Impact Summit."
       ]
     },
     {
-      "id": "blk-q4-48-trap",
+      "id": "blk-ca-2026-q4-sec3-upidigital-payments-milestones-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → Key data points, dates, and provisions in UPI/digital-payments milestones are critical for SBI PO Mains & RBI Grade B."
+      "content": "🎯 Exam Angle → NPCI’s AI model for payments is named ‘FiMI’; UPI cross-border transactions reached 1.48 Million."
     }
   ],
   "metadata": {

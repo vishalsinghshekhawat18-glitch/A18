@@ -2,21 +2,22 @@
   "id": "ca-2026-q4-sec2-rbi-cad-narrows-q3-fy26-bop-report",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "RBI: CAD narrows (Q3 FY26 BoP report)",
-  "summary": "CAD: **$30.1 billion (1% of GDP)**, Apr-Dec 2025 — down from $36.6 billion same period last year.",
+  "title": "RBI Balance of Payments (BoP) & CAD Trajectory (Q3 FY26)",
+  "summary": "**Current Account Deficit (CAD) Moderation:** India’s CAD narrowed to **$30.1 Billion (1.0% of GDP)** during April–December 2025, down from $36.6 Billion in the...",
   "blocks": [
     {
-      "id": "blk-q4-30-bullets",
+      "id": "blk-ca-2026-q4-sec2-rbi-cad-narrows-q3-fy26-bop-report-bullets",
       "type": "bullet_list",
       "items": [
-        "CAD: **$30.1 billion (1% of GDP)**, Apr-Dec 2025 — down from $36.6 billion same period last year.",
-        "FDI inflow up to $3bn (from $0.6bn); FPI net **outflow** $4.3bn (vs net inflow $9.4bn last year); forex reserves depleted $30.8bn (vs $13.8bn last year)."
+        "**Current Account Deficit (CAD) Moderation:** India’s CAD narrowed to **$30.1 Billion (1.0% of GDP)** during April–December 2025, down from $36.6 Billion in the corresponding period of the previous fiscal.",
+        "**Foreign Direct Investment (FDI):** Net FDI equity inflows expanded significantly to **$3.0 Billion** (up from $0.6 Billion in the previous year).",
+        "**Portfolio Flows & Reserve Drawdown:** Foreign Portfolio Investors recorded a net outflow of **$4.3 Billion** (compared to an inflow of $9.4 Billion previously); foreign exchange reserves saw a depletion of **$30.8 Billion**."
       ]
     },
     {
-      "id": "blk-q4-30-trap",
+      "id": "blk-ca-2026-q4-sec2-rbi-cad-narrows-q3-fy26-bop-report-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → 🔥 HIGH — CAD as %GDP (1%) and $30.1bn vs $36.6bn YoY comparison."
+      "content": "🎯 Exam Angle → 🔥 HIGH — CAD stood at exactly 1.0% of GDP ($30.1 Billion) for Apr-Dec 2025."
     }
   ],
   "metadata": {

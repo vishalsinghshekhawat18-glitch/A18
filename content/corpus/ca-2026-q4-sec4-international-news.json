@@ -2,21 +2,22 @@
   "id": "ca-2026-q4-sec4-international-news",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "International News",
-  "summary": "New START Treaty (US-Russia nuclear arms control) **expired 5 February 2026** — last major US-Russia nuclear arms treaty; India-GCC FTA Terms of Reference signe...",
+  "title": "International Geopolitics: New START Expiry & India BRICS Chair 2026",
+  "summary": "**New START Nuclear Treaty Expiry:** The New Strategic Arms Reduction Treaty (New START) between the United States and Russia **officially expired on 5 February...",
   "blocks": [
     {
-      "id": "blk-q4-75-bullets",
+      "id": "blk-ca-2026-q4-sec4-international-news-bullets",
       "type": "bullet_list",
       "items": [
-        "New START Treaty (US-Russia nuclear arms control) **expired 5 February 2026** — last major US-Russia nuclear arms treaty; India-GCC FTA Terms of Reference signed (GCC = India's largest trading-partner bloc, $178.56bn FY25); WHO prequalifies nOPV2 vaccine (Biological E Ltd, Hyderabad).",
-        "India assumes **BRICS Chairmanship 2026**, to host 18th BRICS Summit; Bulgaria adopts the Euro; EU CBAM comes into force."
+        "**New START Nuclear Treaty Expiry:** The New Strategic Arms Reduction Treaty (New START) between the United States and Russia **officially expired on 5 February 2026**, ending the last surviving bilateral nuclear arms control treaty.",
+        "**India Assumes BRICS Chairmanship 2026:** India formally took over the BRICS Chairmanship for 2026 to host the 18th Annual BRICS Summit.",
+        "**India-GCC FTA Terms of Reference:** Signed the formal Terms of Reference for the India-GCC Free Trade Agreement (GCC represents India’s largest trading partner bloc at $178.56 Billion in FY25)."
       ]
     },
     {
-      "id": "blk-q4-75-trap",
+      "id": "blk-ca-2026-q4-sec4-international-news-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → 🔥 HIGH (New START expiry, India's BRICS chairmanship)."
+      "content": "🎯 Exam Angle → New START expired on 5 Feb 2026; India holds BRICS 2026 Chairmanship (18th Summit)."
     }
   ],
   "metadata": {

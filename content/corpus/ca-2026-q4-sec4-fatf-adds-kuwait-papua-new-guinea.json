@@ -2,20 +2,21 @@
   "id": "ca-2026-q4-sec4-fatf-adds-kuwait-papua-new-guinea",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "FATF adds Kuwait, Papua New Guinea",
-  "summary": "to increased-monitoring \"grey list\"; high-risk \"black list\" unchanged (Iran, DPRK, Myanmar).",
+  "title": "FATF Adds Kuwait & Papua New Guinea to AML Grey List",
+  "summary": "**Increased Monitoring Grey List:** Financial Action Task Force (FATF) placed **Kuwait and Papua New Guinea** on its increased monitoring \"Grey List\" for strate...",
   "blocks": [
     {
-      "id": "blk-q4-90-bullets",
+      "id": "blk-ca-2026-q4-sec4-fatf-adds-kuwait-papua-new-guinea-bullets",
       "type": "bullet_list",
       "items": [
-        "to increased-monitoring \"grey list\"; high-risk \"black list\" unchanged (Iran, DPRK, Myanmar)."
+        "**Increased Monitoring Grey List:** Financial Action Task Force (FATF) placed **Kuwait and Papua New Guinea** on its increased monitoring \"Grey List\" for strategic deficiencies in anti-money laundering (AML) and counter-terrorist financing (CFT) frameworks.",
+        "**High-Risk Black List Unchanged:** The FATF High-Risk Jurisdictions \"Black List\" remains unchanged with **Iran, DPRK (North Korea), and Myanmar**."
       ]
     },
     {
-      "id": "blk-q4-90-trap",
+      "id": "blk-ca-2026-q4-sec4-fatf-adds-kuwait-papua-new-guinea-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → Don't confuse grey list (Kuwait, PNG added) with black/high-risk list (Iran, DPRK, Myanmar)."
+      "content": "🎯 Exam Angle → FATF grey list added Kuwait and PNG; black list remains Iran, North Korea, Myanmar."
     }
   ],
   "metadata": {

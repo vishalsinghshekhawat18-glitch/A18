@@ -2,20 +2,21 @@
   "id": "ca-2026-q4-sec3-pmfby-modified",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "PMFBY modified",
-  "summary": "insurers/state govts must pay agri claims with **12% interest** if not settled within **21 days**.",
+  "title": "PMFBY Revision: 21-Day Claim Settlement & 12% Interest Penalty",
+  "summary": "**Mandatory Settlement Timeline:** Ministry of Agriculture amended Pradhan Mantri Fasal Bima Yojana (PMFBY) guidelines, requiring insurance companies and state ...",
   "blocks": [
     {
-      "id": "blk-q4-68-bullets",
+      "id": "blk-ca-2026-q4-sec3-pmfby-modified-bullets",
       "type": "bullet_list",
       "items": [
-        "insurers/state govts must pay agri claims with **12% interest** if not settled within **21 days**."
+        "**Mandatory Settlement Timeline:** Ministry of Agriculture amended Pradhan Mantri Fasal Bima Yojana (PMFBY) guidelines, requiring insurance companies and state governments to disburse settled agricultural crop claims within **21 days**.",
+        "**Statutory Interest Penalty:** Failure to settle claims within the 21-day window attracts a mandatory penal interest rate of **12% per annum** payable directly into the farmer’s bank account."
       ]
     },
     {
-      "id": "blk-q4-68-trap",
+      "id": "blk-ca-2026-q4-sec3-pmfby-modified-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → PMFBY claim window = 21 days; penalty = 12%."
+      "content": "🎯 Exam Angle → PMFBY claim settlement window is 21 days; penal interest for delay is 12% per annum."
     }
   ],
   "metadata": {

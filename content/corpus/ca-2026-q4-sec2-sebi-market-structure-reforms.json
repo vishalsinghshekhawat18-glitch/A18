@@ -2,23 +2,23 @@
   "id": "ca-2026-q4-sec2-sebi-market-structure-reforms",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "SEBI market-structure reforms",
-  "summary": "New Closing Auction Session (CAS): effective 3 Aug 2026.",
+  "title": "SEBI Market Infrastructure, Demat & FPI Registration Reforms",
+  "summary": "**Closing Auction Session (CAS):** SEBI introduced a dedicated Closing Auction Session mechanism across stock exchanges, taking effect from **3 August 2026**....",
   "blocks": [
     {
-      "id": "blk-q4-26-bullets",
+      "id": "blk-ca-2026-q4-sec2-sebi-market-structure-reforms-bullets",
       "type": "bullet_list",
       "items": [
-        "New Closing Auction Session (CAS): effective 3 Aug 2026.",
-        "SWAGAT-FI (unified FPI/FVCI registration): effective 1 June 2026.",
-        "Demat simplification (removes LoC, cuts transfer time 150→30 days): effective 2 April 2026.",
-        "Legacy physical-share dematerialisation window: 5 Feb 2026 – 4 Feb 2027."
+        "**Closing Auction Session (CAS):** SEBI introduced a dedicated Closing Auction Session mechanism across stock exchanges, taking effect from **3 August 2026**.",
+        "**Unified FPI/FVCI Portal (SWAGAT-FI):** Launched the SWAGAT-FI single-window registration system for Foreign Portfolio and Venture Capital Investors, effective **1 June 2026**.",
+        "**Demat Simplification:** Abolished Letters of Confirmation (LoC) and reduced transmission and transfer processing time from **150 days ➔ 30 days**, effective **2 April 2026**.",
+        "**Physical Share Dematerialisation Window:** Provided a one-year window from **5 February 2026 to 4 February 2027** for converting legacy physical share certificates into dematerialised form."
       ]
     },
     {
-      "id": "blk-q4-26-trap",
+      "id": "blk-ca-2026-q4-sec2-sebi-market-structure-reforms-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → 🔥 HIGH — Three SEBI dates (2 Apr / 1 June / 3 Aug 2026) trap cluster."
+      "content": "🎯 Exam Angle → 🔥 HIGH — Three critical SEBI effective dates: Demat transfer cut to 30 days (2 Apr 2026), SWAGAT-FI (1 June 2026), Closing Auction Session (3 Aug 2026)."
     }
   ],
   "metadata": {

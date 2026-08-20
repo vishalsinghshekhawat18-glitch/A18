@@ -2,20 +2,21 @@
   "id": "ca-2026-q4-sec2-sebis-ai-tool-sudarshan",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "SEBI's AI tool 'Sudarshan'",
-  "summary": "removed 1.2 lakh+ misleading finfluencer posts; multilingual audio/video/text surveillance.",
+  "title": "SEBI AI Surveillance Tool ‘Sudarshan’ & Finfluencer Enforcement",
+  "summary": "**AI Surveillance Capabilities:** SEBI deployed its proprietary AI-powered enforcement tool **‘Sudarshan’**, equipped with multilingual natural language process...",
   "blocks": [
     {
-      "id": "blk-q4-38-bullets",
+      "id": "blk-ca-2026-q4-sec2-sebis-ai-tool-sudarshan-bullets",
       "type": "bullet_list",
       "items": [
-        "removed 1.2 lakh+ misleading finfluencer posts; multilingual audio/video/text surveillance."
+        "**AI Surveillance Capabilities:** SEBI deployed its proprietary AI-powered enforcement tool **‘Sudarshan’**, equipped with multilingual natural language processing and computer vision to monitor audio, video, and social media feeds.",
+        "**Enforcement Actions:** Successfully identified and removed over **1,20,000 misleading finfluencer posts** and illegal investment advice channels operating across Telegram, YouTube, and X."
       ]
     },
     {
-      "id": "blk-q4-38-trap",
+      "id": "blk-ca-2026-q4-sec2-sebis-ai-tool-sudarshan-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → Key data points, dates, and provisions in SEBI's AI tool 'Sudarshan' are critical for SBI PO Mains & RBI Grade B."
+      "content": "🎯 Exam Angle → SEBI’s AI surveillance engine is named ‘Sudarshan’ (removed 1.2 Lakh+ unregistered finfluencer posts)."
     }
   ],
   "metadata": {

@@ -2,24 +2,23 @@
   "id": "ca-2026-q4-sec2-rbi-monetaryprudential-updates-cluster",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "RBI monetary/prudential updates cluster",
-  "summary": "**A)** Counterparty Credit Risk: equity add-ons 6%/8%/10% by maturity band; QCCP trade exposure risk weight 2%.",
+  "title": "RBI Monetary & Prudential Operations (WMA Limits & FX Cap)",
+  "summary": "**Ways and Means Advances (WMA) for H1 FY27:** Government of India WMA limit fixed at **₹2,50,000 Crore** for the first half of FY 2026-27 (April–September 2026...",
   "blocks": [
     {
-      "id": "blk-q4-34-bullets",
+      "id": "blk-ca-2026-q4-sec2-rbi-monetaryprudential-updates-cluster-bullets",
       "type": "bullet_list",
       "items": [
-        "**A)** Counterparty Credit Risk: equity add-ons 6%/8%/10% by maturity band; QCCP trade exposure risk weight 2%.",
-        "**B)** Capital market exposure rules postponed 3 months — new deadline **July 1, 2026** (was April 1).",
-        "**C)** ECB filings: authorised dealers submit ECB returns within **7 calendar days**, effective April 1, 2026 (earlier: no fixed deadline).",
-        "**D)** WMA limit, Govt of India, **H1 FY27 (Apr-Sep 2026): ₹2,50,000 crore**; fresh market-loan floatation trigger at 75% utilisation; WMA rate = repo, overdraft = repo+2%.",
-        "**E)** FX position cap: net rupee open position (NOP-INR) capped **$100 million/day**, compliance by 10 April 2026."
+        "**Ways and Means Advances (WMA) for H1 FY27:** Government of India WMA limit fixed at **₹2,50,000 Crore** for the first half of FY 2026-27 (April–September 2026); fresh market borrowing triggered at 75% utilisation (WMA interest rate = Repo Rate, Overdraft = Repo + 2%).",
+        "**Counterparty Credit Risk & QCCP:** Equity exposure add-ons set at 6%, 8%, and 10% across maturity bands; Qualifying Central Counterparty (QCCP) trade exposure risk weight fixed at 2%.",
+        "**Authorised Dealer ECB Returns:** Mandated that AD Category-I banks submit all external commercial borrowing returns within **7 calendar days**, effective 1 April 2026.",
+        "**Net Open Position FX Cap:** Net INR Open Position (NOP-INR) capped at **$100 Million per day**."
       ]
     },
     {
-      "id": "blk-q4-34-trap",
+      "id": "blk-ca-2026-q4-sec2-rbi-monetaryprudential-updates-cluster-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → WMA limit H1 FY27 = ₹2,50,000 crore; don't confuse with the $100mn FX cap."
+      "content": "🎯 Exam Angle → WMA limit for H1 FY27 is ₹2,50,000 Crore (trigger at 75% utilisation); AD ECB reporting window is 7 calendar days."
     }
   ],
   "metadata": {

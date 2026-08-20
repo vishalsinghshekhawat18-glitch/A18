@@ -2,25 +2,22 @@
   "id": "ca-2026-q4-sec2-pfrda-revises-nps-distributor-pop-charges",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "PFRDA revises NPS distributor (PoP) charges",
-  "summary": "onboarding ₹200/subscriber (₹100 digital), paid in ₹50 quarterly instalments; annual charge 0.20% of AUM; min contribution ₹250 (onboarding)/₹10 (subsequent).",
+  "title": "PFRDA Revises NPS Distributor (Point of Presence) Charges",
+  "summary": "**Subscriber Onboarding Fee:** Revised Point of Presence (PoP) charges to **₹200 per subscriber for physical onboarding (₹100 for digital onboarding)**, paid in...",
   "blocks": [
     {
-      "id": "blk-q4-42-p",
-      "type": "paragraph",
-      "content": "*(No items skipped to Tier C in this section across all three months — Regulatory Bodies News is a standing Tier A category.)*"
-    },
-    {
-      "id": "blk-q4-42-bullets",
+      "id": "blk-ca-2026-q4-sec2-pfrda-revises-nps-distributor-pop-charges-bullets",
       "type": "bullet_list",
       "items": [
-        "onboarding ₹200/subscriber (₹100 digital), paid in ₹50 quarterly instalments; annual charge 0.20% of AUM; min contribution ₹250 (onboarding)/₹10 (subsequent)."
+        "**Subscriber Onboarding Fee:** Revised Point of Presence (PoP) charges to **₹200 per subscriber for physical onboarding (₹100 for digital onboarding)**, paid in ₹50 quarterly instalments.",
+        "**Annual Asset Management Charge:** Permitted PoPs to levy an annual service fee capped at **0.20% of Assets Under Management (AUM)**.",
+        "**Contribution Thresholds:** Minimum initial contribution fixed at **₹250** with subsequent minimum contributions pegged at **₹10**."
       ]
     },
     {
-      "id": "blk-q4-42-trap",
+      "id": "blk-ca-2026-q4-sec2-pfrda-revises-nps-distributor-pop-charges-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → PoP onboarding = ₹200 (₹100 digital); annual AUM charge = 0.20%."
+      "content": "🎯 Exam Angle → PoP physical onboarding is ₹200 vs digital ₹100; annual AUM fee cap is 0.20%."
     }
   ],
   "metadata": {

@@ -2,22 +2,22 @@
   "id": "ca-2026-q4-sec2-rbiirdaisebi-unclaimed-asset-recovery-push",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "RBI/IRDAI/SEBI unclaimed-asset recovery push",
-  "summary": "Unclaimed PSB deposits transferred to **DEA Fund**: ₹60,518 crore (as of 31.1.2026); DEAF under Sec 26A, Banking Regulation Act 1949, live since 24 May 2014, co...",
+  "title": "Unclaimed Assets Recovery: DEA Fund & Banking Laws Amendment",
+  "summary": "**Depositor Education and Awareness (DEA) Fund:** Total unclaimed bank deposits transferred to the DEA Fund reached **₹60,518 Crore** (as of 31 January 2026); e...",
   "blocks": [
     {
-      "id": "blk-q4-35-bullets",
+      "id": "blk-ca-2026-q4-sec2-rbiirdaisebi-unclaimed-asset-recovery-push-bullets",
       "type": "bullet_list",
       "items": [
-        "Unclaimed PSB deposits transferred to **DEA Fund**: ₹60,518 crore (as of 31.1.2026); DEAF under Sec 26A, Banking Regulation Act 1949, live since 24 May 2014, covers accounts inactive 10+ years.",
-        "**Banking Laws (Amendment) Act, 2025**: allows up to **4 nominations** per bank account.",
-        "RBI portal: **UDGAM**; IRDAI: **Bima Bharosa**; SEBI: **MITRA**."
+        "**Depositor Education and Awareness (DEA) Fund:** Total unclaimed bank deposits transferred to the DEA Fund reached **₹60,518 Crore** (as of 31 January 2026); established under Section 26A of the Banking Regulation Act, 1949 for deposits inoperative for 10+ years.",
+        "**Up to 4 Nominees Mandated:** Enacted under the Banking Laws (Amendment) Act, 2025, allowing bank customers to register up to **4 nominees** per deposit account and locker.",
+        "**Multi-Agency Asset Portals:** RBI operates **UDGAM** (Unclaimed Deposits – Gateway to Access Information); IRDAI operates **Bima Bharosa**; SEBI operates **MITRA**."
       ]
     },
     {
-      "id": "blk-q4-35-trap",
+      "id": "blk-ca-2026-q4-sec2-rbiirdaisebi-unclaimed-asset-recovery-push-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → DEA Fund corpus = ₹60,518 crore; max nominations = 4."
+      "content": "🎯 Exam Angle → DEA Fund balance: ₹60,518 Crore (Section 26A, BR Act 1949); Banking Laws Amendment allows up to 4 nominees (not 10)."
     }
   ],
   "metadata": {

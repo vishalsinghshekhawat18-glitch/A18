@@ -2,20 +2,23 @@
   "id": "ca-2026-q4-sec6-sci-tech-highlights",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "Sci-Tech highlights",
-  "summary": ": India's first satellite from NE India (Lachit-1); Pixxel-led group wins first private national EO satellite project; ISRO identifies Chandrayaan-4 landing sit...",
+  "title": "Sci-Tech Milestones: ISRO CE20 Ground Test & Chandrayaan-4 Site",
+  "summary": "**ISRO CE20 Cryogenic Engine Test:** Successfully hot-tested the CE20 cryogenic engine for **165 seconds at 22 tonnes of thrust** at Mahendragiri, Tamil Nadu (p...",
   "blocks": [
     {
-      "id": "blk-q4-105-bullets",
+      "id": "blk-ca-2026-q4-sec6-sci-tech-highlights-bullets",
       "type": "bullet_list",
       "items": [
-        ": India's first satellite from NE India (Lachit-1); Pixxel-led group wins first private national EO satellite project; ISRO identifies Chandrayaan-4 landing site — **MM-4** (Mons Mouton region), mission ~2028; **Bharat GenAI** sovereign AI text-model initiative (IIT Bombay, 15/22 scheduled languages so far)."
+        "**ISRO CE20 Cryogenic Engine Test:** Successfully hot-tested the CE20 cryogenic engine for **165 seconds at 22 tonnes of thrust** at Mahendragiri, Tamil Nadu (powers the LVM3 upper stage).",
+        "**Chandrayaan-4 Landing Site Identified:** ISRO designated the **MM-4 landing site in the Mons Mouton region** near the lunar South Pole for the Chandrayaan-4 sample-return mission (scheduled for ~2028).",
+        "**North East’s First Satellite (Lachit-1):** Launched Lachit-1, the first satellite developed by researchers in North East India.",
+        "**Bharat GenAI Foundation Model:** IIT Bombay rolled out the Bharat GenAI sovereign AI multimodal text model, fine-tuned across 15 of the 22 Eighth Schedule languages."
       ]
     },
     {
-      "id": "blk-q4-105-trap",
+      "id": "blk-ca-2026-q4-sec6-sci-tech-highlights-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → LAMITIYE = India-Seychelles; KAKADU = Australia-led (India won Kakadu Shield) — don't mix up exercise-country pairs."
+      "content": "🎯 Exam Angle → CE20 cryogenic engine tested at 22 tonnes thrust (165 sec); Chandrayaan-4 landing site is Mons Mouton (MM-4)."
     }
   ],
   "metadata": {

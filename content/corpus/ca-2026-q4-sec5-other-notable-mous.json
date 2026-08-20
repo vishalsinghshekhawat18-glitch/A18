@@ -2,20 +2,22 @@
   "id": "ca-2026-q4-sec5-other-notable-mous",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "Other notable MoUs",
-  "summary": "Bharat Container Shipping Line (BCSL: SCI+CONCOR+major ports, under MoPSW/CMAS, separate ₹15,000 crore Outer Harbour financing MoU); FCI-WFP (2,00,000 MT rice t...",
+  "title": "Bharat Container Shipping Line & Bilateral Institutional MoUs",
+  "summary": "**Bharat Container Shipping Line (BCSL):** Formed as a joint national venture between Shipping Corporation of India (SCI), CONCOR, and major port authorities un...",
   "blocks": [
     {
-      "id": "blk-q4-96-bullets",
+      "id": "blk-ca-2026-q4-sec5-other-notable-mous-bullets",
       "type": "bullet_list",
       "items": [
-        "Bharat Container Shipping Line (BCSL: SCI+CONCOR+major ports, under MoPSW/CMAS, separate ₹15,000 crore Outer Harbour financing MoU); FCI-WFP (2,00,000 MT rice to WFP over 5 years); India-Malaysia (11 pacts incl. NIPL-PayNet UPI link); ONGC-Mitsui OSK Lines (ethane-shipping JV via GIFT City); India-Namibia (election-management MoU, IICDEM 2026)."
+        "**Bharat Container Shipping Line (BCSL):** Formed as a joint national venture between Shipping Corporation of India (SCI), CONCOR, and major port authorities under the Ministry of Ports, Shipping and Waterways.",
+        "**FCI-WFP Food Aid Agreement:** Food Corporation of India entered a multi-year pact with the UN World Food Programme (WFP) to supply **2,00,000 MT of wheat and rice over 5 years** for humanitarian relief.",
+        "**India-Malaysia 11 Pacts:** Signed 11 bilateral agreements including cross-border UPI payments linking NIPL with PayNet Malaysia."
       ]
     },
     {
-      "id": "blk-q4-96-trap",
+      "id": "blk-ca-2026-q4-sec5-other-notable-mous-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → SCI-Mazagon Dock vessel = India's first methanol dual-fuel PSV."
+      "content": "🎯 Exam Angle → BCSL is a joint venture of SCI + CONCOR + Ports; FCI to supply 2,00,000 MT foodgrains to WFP over 5 years."
     }
   ],
   "metadata": {

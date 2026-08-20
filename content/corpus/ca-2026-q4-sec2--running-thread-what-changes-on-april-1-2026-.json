@@ -2,27 +2,23 @@
   "id": "ca-2026-q4-sec2--running-thread-what-changes-on-april-1-2026-",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "\udd01 Running thread: What changes on April 1, 2026 (cross-month mega-cluster)",
-  "summary": "RBI RPT rules realign; NBFC infra-lending risk-weight easing.",
+  "title": "Master Consolidated Review: What Changes on 1 April 2026",
+  "summary": "🏛️ **Banking & RBI Directives:**\n• **Risk-Based Deposit Insurance:** DICGC replaces flat 12 paise rate with dynamic Risk-Based Premium framework.\n• **Digital P...",
   "blocks": [
     {
-      "id": "blk-q4-43-p",
-      "type": "paragraph",
-      "content": "This single date accumulated the most trap-dense list of the quarter. Consolidated for one-shot revision:"
-    },
-    {
-      "id": "blk-q4-43-bullets",
+      "id": "blk-ca-2026-q4-sec2--running-thread-what-changes-on-april-1-2026--bullets",
       "type": "bullet_list",
       "items": [
-        "RBI RPT rules realign; NBFC infra-lending risk-weight easing.",
-        "Fraud-comp (₹25k/85%, later deferred — see Status Check); acquisition-financing (20% cap); MSME collateral-free limit ₹20 lakh; broker 100% collateral; ECB cap $1bn/300%; RBP deposit-insurance framework; 4%±2% RBI inflation mandate begins.",
-        "Income Tax Rules 2026; 2FA mandate; DigiLocker verification; ECB filing 7-day window; SEBI intra-day MF borrowing; Ind AS 117 for insurers; FSSAI perpetual licences; SWM Rules 2026; PM E-DRIVE-linked norms."
+        "🏛️ **Banking & RBI Directives:**\n• **Risk-Based Deposit Insurance:** DICGC replaces flat 12 paise rate with dynamic Risk-Based Premium framework.\n• **Digital Payment 2FA:** Compulsory Two-Factor Authentication for all domestic cards, UPI, and wallet transactions.\n• **DigiLocker Verification:** Real-time bank identity verification for high-risk digital payments.\n• **NBFC Risk Weights & RPT:** Easing of infrastructure loan risk weights; alignment of Related-Party Transaction norms with Companies Act.\n• **ECB 7-Day Reporting:** Authorised Dealers must file external borrowing returns within 7 calendar days.",
+        "📈 **SEBI & Capital Markets:**\n• **Mutual Fund Intra-Day Borrowing:** Permitted beyond the statutory 20% net assets ceiling for settlement liquidity.\n• **Demat Simplification:** Letter of Confirmation abolished; security transfer timeline compressed to 30 days.",
+        "💰 **Direct Taxes & Insurance:**\n• **Income Tax Rules 2026:** Sections cut from 819➔536; 50% HRA extended to 8 metro cities; PAN high-value threshold ₹10 Lakh/yr.\n• **Ind AS 117:** Mandatory financial reporting standard for all life, general, health, and reinsurance companies.",
+        "🌿 **National & Regulatory Mandates:**\n• **FSSAI Perpetual Licencing:** Basic turnover exemption raised from ₹12 Lakh ➔ ₹1.5 Crore.\n• **Solid Waste Management Rules 2026:** Mandatory 4-way waste segregation at source."
       ]
     },
     {
-      "id": "blk-q4-43-trap",
+      "id": "blk-ca-2026-q4-sec2--running-thread-what-changes-on-april-1-2026--trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → 🔥 HIGH — This is the highest-density recurring trap theme of the quarter — examiners are likely to test \"which regulator/which reform took effect April 1, 2026\" as a mix-and-match."
+      "content": "🎯 Exam Angle → 🔥 HIGH — Single highest-density revision flashcard across the quarter; tests which exact reform took effect on 1 April 2026."
     }
   ],
   "metadata": {

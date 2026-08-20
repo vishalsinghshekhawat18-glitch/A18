@@ -2,30 +2,23 @@
   "id": "ca-2026-q4-sec7-janfeb-awards",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "[Jan/Feb] Awards",
-  "summary": ": Padma Awards 2026 — 131 total (5 Vibhushan + 13 Bhushan + 113 Shri); Crafoord Prize 2026 (\"Nobel of Geosciences\") — Veerabhadran Ramanathan (Indian-origin); G...",
+  "title": "Padma Awards 2026, 60th Jnanpith & National Honors",
+  "summary": "**Padma Awards 2026 Breakdown:** President approved **131 total Padma Awards**, comprising **5 Padma Vibhushan, 13 Padma Bhushan, and 113 Padma Shri**....",
   "blocks": [
     {
-      "id": "blk-q4-111-table",
-      "type": "paragraph",
-      "content": "| Festival | State/Region |\n|---|---|\n| Attukal Pongala | Kerala |\n| Hatti Risala (138th year) | Jalna, Maharashtra |\n| Dol Jatra | West Bengal |\n| Hola Mohalla (est. 1701) | Takht Sachkhand Sri Abchalnagar Sahib |\n| Indian Orchid Festival | Pakyong, Sikkim |\n| Phool Dei | Uttarakhand |\n| Gudi Padwa / Ugadi | Deccan region |\n| Sajibu Cheiraoba | Manipur (Meitei) |\n| Chapchar Kut | Mizoram |\n| Sarhul | Jharkhand (Adivasi) |\n| Navroz | Parsi New Year |"
-    },
-    {
-      "id": "blk-q4-111-p",
-      "type": "paragraph",
-      "content": "*(Obituaries never logged, per standing framework rule — none carried in any of the three months.)*"
-    },
-    {
-      "id": "blk-q4-111-bullets",
+      "id": "blk-ca-2026-q4-sec7-janfeb-awards-bullets",
       "type": "bullet_list",
       "items": [
-        ": Padma Awards 2026 — 131 total (5 Vibhushan + 13 Bhushan + 113 Shri); Crafoord Prize 2026 (\"Nobel of Geosciences\") — Veerabhadran Ramanathan (Indian-origin); Global Teacher Prize 2026 — Rouble Nagi (India)."
+        "**Padma Awards 2026 Breakdown:** President approved **131 total Padma Awards**, comprising **5 Padma Vibhushan, 13 Padma Bhushan, and 113 Padma Shri**.",
+        "**60th Jnanpith Award (2025):** Awarded to eminent Tamil poet and lyricist **R. Vairamuthu** (received ₹11 Lakh cash prize and bronze statue of Goddess Saraswati; 3rd Tamil writer to win after Akilan and Jayakanthan).",
+        "**Crafoord Prize 2026:** Awarded to Indian-origin atmospheric scientist **Veerabhadran Ramanathan** by the Royal Swedish Academy of Sciences (\"Nobel of Geosciences\").",
+        "**BCCI Annual Awards 2026:** Shubman Gill won Cricketer of the Year (Polly Umrigar Award); Smriti Mandhana named Best International Cricketer (Women) for a **record 5th time**; Rahul Dravid and Roger Binny received the Col. C.K. Nayudu Lifetime Achievement Award."
       ]
     },
     {
-      "id": "blk-q4-111-trap",
+      "id": "blk-ca-2026-q4-sec7-janfeb-awards-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → Sarhul (Jharkhand) and Chapchar Kut (Mizoram) most distinctive pairs."
+      "content": "🎯 Exam Angle → Padma Awards total: 131 (5 Vibhushan + 13 Bhushan + 113 Shri); Jnanpith winner: R. Vairamuthu; Smriti Mandhana won record 5th BCCI award."
     }
   ],
   "metadata": {

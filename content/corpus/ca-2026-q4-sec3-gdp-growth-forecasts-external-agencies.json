@@ -2,20 +2,21 @@
   "id": "ca-2026-q4-sec3-gdp-growth-forecasts-external-agencies",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "GDP growth forecasts — external agencies",
-  "summary": "OECD (primary): 7.6% FY26, 6.1% FY27. 🚫 Also Goldman Sachs (cut to 5.9% CY26) and S&P Global (raised to 7.1% next fiscal) — not repeating in full.",
+  "title": "Global Agency GDP Growth Forecasts for India (FY26–FY27)",
+  "summary": "**OECD Projections:** Pegged India’s real GDP growth at **7.6% for FY 2025-26** and **6.1% for FY 2026-27**....",
   "blocks": [
     {
-      "id": "blk-q4-52-bullets",
+      "id": "blk-ca-2026-q4-sec3-gdp-growth-forecasts-external-agencies-bullets",
       "type": "bullet_list",
       "items": [
-        "OECD (primary): 7.6% FY26, 6.1% FY27. 🚫 Also Goldman Sachs (cut to 5.9% CY26) and S&P Global (raised to 7.1% next fiscal) — not repeating in full."
+        "**OECD Projections:** Pegged India’s real GDP growth at **7.6% for FY 2025-26** and **6.1% for FY 2026-27**.",
+        "**Comparative Institutional Forecasts:** S&P Global projected growth at **7.1%**, while Goldman Sachs issued a conservative estimate of **5.9% for CY 2026**."
       ]
     },
     {
-      "id": "blk-q4-52-trap",
+      "id": "blk-ca-2026-q4-sec3-gdp-growth-forecasts-external-agencies-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → OECD 7.6%(FY26)→6.1%(FY27); Goldman's sharply lower 5.9% CY26 is the trap pairing."
+      "content": "🎯 Exam Angle → OECD GDP projection: 7.6% (FY26) and 6.1% (FY27)."
     }
   ],
   "metadata": {
