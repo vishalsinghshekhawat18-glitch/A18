@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-34",
   "type": "chapter",
   "domain": "economics",
-  "title": "34. Commercial Banking & Money Creation",
+  "title": "Commercial Banking & Money Creation",
   "summary": "Commercial banks create credit by expanding deposits based on reserve ratios, balancing liquidity and profitability across assets and liabilities.",
   "blocks": [
     {
@@ -67,7 +67,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** On a commercial bank's balance sheet, under which accounting category are customer Savings Account deposits classified?  \n(A) Bank Assets  \n(B) Bank Liabilities  \n(C) Contingent Reserves  \n(D) Capital Reserves  \n**Answer:** ** — Customer deposits are liabilities because the bank owes this money back to depositors."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** On a commercial bank's balance sheet, under which accounting category are customer Savings Account deposits classified?  \n(A) Bank Assets  \n(B) Bank Liabilities  \n(C) Contingent Reserves  \n(D) Capital Reserves  \n**Answer: — Customer deposits are liabilities because the bank owes this money back to depositors."
     },
     {
       "type": "paragraph",
@@ -76,6 +76,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Explain the process of credit creation by commercial banks. How do CRR and SLR regulate money creation and bank liquidity?'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-34-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

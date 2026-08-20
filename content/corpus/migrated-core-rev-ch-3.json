@@ -2,7 +2,7 @@
   "id": "migrated-core-rev-ch-3",
   "type": "chapter",
   "domain": "revision",
-  "title": "3. Rapid Revision — Indian Polity & Constitutional Traps",
+  "title": "Rapid Revision — Indian Polity & Constitutional Traps",
   "summary": "High-yield rapid revision matrix targeting constitutional articles, non-statutory bodies, emergency provisions, and parliamentary committee traps.",
   "blocks": [
     {
@@ -57,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which of the following Parliamentary Standing Committees consists of 30 members drawn EXCLUSIVELY from the Lok Sabha, with zero representation from the Rajya Sabha?  \n(A) Public Accounts Committee (PAC)  \n(B) Estimates Committee  \n(C) Committee on Public Undertakings (COPU)  \n(D) Business Advisory Committee  \n**Answer:** ** — Estimates Committee has 30 members, all from Lok Sabha."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which of the following Parliamentary Standing Committees consists of 30 members drawn EXCLUSIVELY from the Lok Sabha, with zero representation from the Rajya Sabha?  \n(A) Public Accounts Committee (PAC)  \n(B) Estimates Committee  \n(C) Committee on Public Undertakings (COPU)  \n(D) Business Advisory Committee  \n**Answer: — Estimates Committee has 30 members, all from Lok Sabha."
     },
     {
       "type": "paragraph",
@@ -66,6 +66,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Distinguish between Constitutional Bodies, Statutory Bodies, and Executive Bodies in India. How does the 44th Constitutional Amendment protect Articles 20 and 21 during National Emergency?'*"
+    },
+    {
+      "id": "blk-migrated-core-rev-ch-3-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → Key factual relationships, headquarters, statutory classifications, and numerical benchmarks in Rapid Revision — Indian Polity & Constitutional Traps are critical for Bank PO & RBI Grade B."
     }
   ],
   "metadata": {

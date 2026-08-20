@@ -2,7 +2,7 @@
   "id": "migrated-core-geo-ch-8",
   "type": "chapter",
   "domain": "geography",
-  "title": "8. Monsoons, Jet Streams & Tropical Cyclones",
+  "title": "Monsoons, Jet Streams & Tropical Cyclones",
   "summary": "Indian Monsoon is a dynamic seasonal wind reversal governed by differential heating, ITCZ shift, Subtropical Jet Streams, and IOD/El Niño ocean-atmospheric oscillations.",
   "blocks": [
     {
@@ -77,6 +77,11 @@
       "type": "heading",
       "level": 3,
       "text": "❓ 7. 3-Tier Practice & Retention Section\n- **Tier 1 (Recall MCQ):** Which jet stream over South India is directly responsible for the sudden burst of the SW Monsoon? (A: Subtropical Westerly Jet, **B: Tropical Easterly Jet**, C: Polar Front Jet, D: Somali Jet) [Correct: B].\n- **Tier 2 (Applied Scenario):** Explain how the Madden-Julian Oscillation (MJO) affects monsoon breaks and active spells.\n- **Tier 3 (Mains Prompt):** *'Examine the influence of Pacific and Indian Ocean teleconnections (ENSO, IOD, MJO) on the predictability and variability of the Indian Monsoon.'*"
+    },
+    {
+      "id": "blk-migrated-core-geo-ch-8-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Verify river origin points, left-bank vs right-bank tributaries, mountain pass elevations, and soil distribution patterns across Indian states."
     }
   ],
   "metadata": {

@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-6",
   "type": "chapter",
   "domain": "economics",
-  "title": "6. Methods of Calculating National Income & Sectoral Scrutiny",
+  "title": "Methods of Calculating National Income & Sectoral Scrutiny",
   "summary": "National income can be calculated through production (value added), factor income generation, or final expenditure, yielding identical theoretical totals.",
   "blocks": [
     {
@@ -80,7 +80,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which component of the Income Method accounts for the earnings of sole proprietors, farmers, and self-employed professionals where factor payments cannot be distinguished?  \n(A) Compensation of Employees  \n(B) Operating Surplus  \n(C) Mixed Income of Self-Employed  \n(D) Net Factor Income from Abroad  \n**Answer:** ** — Mixed Income combines unseparated labor, rent, and profit income of self-employed units."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which component of the Income Method accounts for the earnings of sole proprietors, farmers, and self-employed professionals where factor payments cannot be distinguished?  \n(A) Compensation of Employees  \n(B) Operating Surplus  \n(C) Mixed Income of Self-Employed  \n(D) Net Factor Income from Abroad  \n**Answer: — Mixed Income combines unseparated labor, rent, and profit income of self-employed units."
     },
     {
       "type": "paragraph",
@@ -89,6 +89,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Compare the Product, Income, and Expenditure methods of estimating National Income. How does NSO address data gaps in India's unorganized sector?'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-6-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

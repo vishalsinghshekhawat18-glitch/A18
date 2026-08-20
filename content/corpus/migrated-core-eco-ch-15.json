@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-15",
   "type": "chapter",
   "domain": "economics",
-  "title": "15. Inflation Mechanics, Types & The Phillips Curve",
+  "title": "Inflation Mechanics, Types & The Phillips Curve",
   "summary": "Inflation is a sustained increase in the general price level of goods and services, driven by demand pressures, supply shocks, or structural bottlenecks.",
   "blocks": [
     {
@@ -71,7 +71,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** According to modern macroeconomic theory, what is the shape of the Long-Run Phillips Curve (LRPC)?  \n(A) Downward sloping curve  \n(B) Horizontal straight line  \n(C) Vertical straight line at NAIRU  \n(D) Upward sloping curve  \n**Answer:** ** — In the long run, unemployment returns to its natural rate (NAIRU) regardless of inflation."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** According to modern macroeconomic theory, what is the shape of the Long-Run Phillips Curve (LRPC)?  \n(A) Downward sloping curve  \n(B) Horizontal straight line  \n(C) Vertical straight line at NAIRU  \n(D) Upward sloping curve  \n**Answer: — In the long run, unemployment returns to its natural rate (NAIRU) regardless of inflation."
     },
     {
       "type": "paragraph",
@@ -80,6 +80,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Critically evaluate the trade-offs implied by the Phillips Curve in short-run versus long-run macroeconomics. How does Cost-Push inflation constrain central bank policy under Flexible Inflation Targeting?'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-15-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

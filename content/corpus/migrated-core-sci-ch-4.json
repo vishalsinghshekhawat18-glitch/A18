@@ -2,7 +2,7 @@
   "id": "migrated-core-sci-ch-4",
   "type": "chapter",
   "domain": "science",
-  "title": "4. Nuclear Physics: Fission, Fusion & India's 3-Stage Nuclear Program",
+  "title": "Nuclear Physics: Fission, Fusion & India's 3-Stage Nuclear Program",
   "summary": "India's 3-Stage Nuclear Power Program engineered by Dr. Homi Bhabha utilizes limited Uranium reserves to unlock vast domestic Thorium reserves.",
   "blocks": [
     {
@@ -85,6 +85,11 @@
       "type": "heading",
       "level": 3,
       "text": "❓ 7. 3-Tier Practice & Retention Section\n- **Tier 1 (Recall MCQ):** Which reactor in India uses Uranium-233 derived from Thorium as fuel? (A: Apsara, B: Dhruva, **C: Kamini**, D: Kudankulam) [Correct: C].\n- **Tier 2 (Applied Scenario):** Explain why Fast Breeder Reactors do NOT use heavy water as a moderator.\n- **Tier 3 (Mains Prompt):** *'Evaluate the technical architecture, progress, and strategic relevance of India's 3-stage nuclear power program.'*"
+    },
+    {
+      "id": "blk-migrated-core-sci-ch-4-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → Focus on SI units, chemical compound common names, human endocrine hormone functions, and ISRO/DRDO propulsion technologies."
     }
   ],
   "metadata": {

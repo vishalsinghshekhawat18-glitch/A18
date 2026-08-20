@@ -2,7 +2,7 @@
   "id": "migrated-quant-qsec7-3",
   "type": "quant_topic",
   "domain": "quant",
-  "title": "7.3 Worked Examples",
+  "title": "3 Worked Examples",
   "summary": "Quant — 7.3 Worked Examples",
   "blocks": [
     {
@@ -32,6 +32,11 @@
         }
       ],
       "answer": "P(both miss) = 0.4×0.5 = 0.2. P(at least one hits) = 1−0.2 = 0.8.\n*Pattern: 'at least one' in probability always converts fastest via 1−P(none).*"
+    },
+    {
+      "id": "blk-migrated-quant-qsec7-3-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → ⚡ Calculation Trap — Watch for base-year shifts, percentage of vs percentage more than traps, and units conversion (km/h ➔ m/s) in time-speed-distance."
     }
   ],
   "metadata": {

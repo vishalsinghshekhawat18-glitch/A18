@@ -2,16 +2,21 @@
   "id": "migrated-quant-qsec6-2",
   "type": "quant_topic",
   "domain": "quant",
-  "title": "6.2 Shortcuts & Tricks",
+  "title": "2 Shortcuts & Tricks",
   "summary": "Quant — 6.2 Shortcuts & Tricks",
   "blocks": [
     {
       "type": "bullet_list",
       "items": [
-        "**Don't fully solve, just check**: stop the moment sufficiency is confirmed — you don't need the actual numerical answer",
-        "**Quadratic-in-disguise trap**: x²=25 is NOT sufficient for 'find x' unless sign is constrained — always check for ±",
-        "**Ratio-only statements**: rarely sufficient alone for absolute quantity; often enough for comparison"
+        "**Don't fully solve, just check**: stop the moment sufficiency is confirmed — you don't need the actual numerical answer.",
+        "**Quadratic-in-disguise trap**: x²=25 is NOT sufficient for 'find x' unless sign is constrained — always check for ±.",
+        "**Ratio-only statements**: rarely sufficient alone for absolute quantity; often enough for comparison."
       ]
+    },
+    {
+      "id": "blk-migrated-quant-qsec6-2-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → ⚡ Calculation Trap — Watch for base-year shifts, percentage of vs percentage more than traps, and units conversion (km/h ➔ m/s) in time-speed-distance."
     }
   ],
   "metadata": {

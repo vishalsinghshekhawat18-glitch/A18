@@ -2,7 +2,7 @@
   "id": "migrated-core-pol-ch-36",
   "type": "chapter",
   "domain": "polity",
-  "title": "36. Public Service Commissions: UPSC, RPSC & State PSCs Architecture",
+  "title": "Public Service Commissions: UPSC, RPSC & State PSCs Architecture",
   "summary": "Public Service Commissions under Part XIV (Articles 315–323) serve as independent merit-based recruitment watchdogs for Union and State civil services.",
   "blocks": [
     {
@@ -77,6 +77,11 @@
       "type": "heading",
       "level": 3,
       "text": "❓ 7. 3-Tier Practice & Retention Section\n- **Tier 1 (Recall MCQ):** On whose recommendation was RPSC headquarters shifted from Jaipur to Ajmer in 1956? (A: Dhar Commission, **B: Satyanarayan Rao Committee**, C: Fazl Ali Commission, D: Mehta Committee) [Correct: B].\n- **Tier 2 (Applied Scenario):** Differentiate between appointment and removal procedures of RPSC Chairman.\n- **Tier 3 (Mains Prompt):** *'Examine the constitutional role and operational independence of the Rajasthan Public Service Commission under Articles 315 to 323.'*"
+    },
+    {
+      "id": "blk-migrated-core-pol-ch-36-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Pay close attention to constitutional article numbers, amendment acts (e.g. 42nd, 44th, 73rd, 86th), and the exact qualifying age/tenure for constitutional offices."
     }
   ],
   "metadata": {

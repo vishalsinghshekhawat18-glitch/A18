@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-29",
   "type": "chapter",
   "domain": "economics",
-  "title": "29. Exchange Rate Regimes & Rupee Convertibility",
+  "title": "Exchange Rate Regimes & Rupee Convertibility",
   "summary": "India operates a managed floating exchange rate regime, maintaining full current account convertibility while managing partial capital account convertibility.",
   "blocks": [
     {
@@ -57,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Under RBI's Liberalised Remittance Scheme (LRS), what is the maximum annual limit up to which a resident individual can freely remit funds abroad for permitted transactions per financial year?  \n(A) $100,000  \n(B) $250,000  \n(C) $500,000  \n(D) $1,000,000  \n**Answer:** ** — LRS cap is $250,000 per resident individual per financial year."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Under RBI's Liberalised Remittance Scheme (LRS), what is the maximum annual limit up to which a resident individual can freely remit funds abroad for permitted transactions per financial year?  \n(A) $100,000  \n(B) $250,000  \n(C) $500,000  \n(D) $1,000,000  \n**Answer: — LRS cap is $250,000 per resident individual per financial year."
     },
     {
       "type": "paragraph",
@@ -66,6 +66,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Distinguish between NEER and REER. Evaluate the Tarapore Committee recommendations for achieving full Capital Account Convertibility in India.'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-29-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

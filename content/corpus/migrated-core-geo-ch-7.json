@@ -2,7 +2,7 @@
   "id": "migrated-core-geo-ch-7",
   "type": "chapter",
   "domain": "geography",
-  "title": "7. Atmospheric Circulation, Pressure Belts & Wind Systems",
+  "title": "Atmospheric Circulation, Pressure Belts & Wind Systems",
   "summary": "Atmospheric Circulation, Pressure Belts & Wind Systems is a core geophysical process analyzed in UPSC CSE & State PCS examinations.",
   "blocks": [
     {
@@ -85,6 +85,11 @@
       "type": "heading",
       "level": 3,
       "text": "❓ 7. 3-Tier Practice & Retention Section\n- **Tier 1 (Recall MCQ):** Which physical factor primarily drives Atmospheric Circulation, Pressure Belts & Wind Systems? (A: Gravitational pull of moon, **B: Solar radiation & planetary dynamics**, C: Earth magnetic poles) [Correct: B].\n- **Tier 2 (Applied Scenario):** Analyze the spatial variation of Atmospheric Circulation, Pressure Belts & Wind Systems across Indian physiographic zones.\n- **Tier 3 (Mains Prompt):** *'Critically evaluate the physical mechanisms of Atmospheric Circulation, Pressure Belts & Wind Systems and their socio-economic significance for India.'*"
+    },
+    {
+      "id": "blk-migrated-core-geo-ch-7-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Verify river origin points, left-bank vs right-bank tributaries, mountain pass elevations, and soil distribution patterns across Indian states."
     }
   ],
   "metadata": {

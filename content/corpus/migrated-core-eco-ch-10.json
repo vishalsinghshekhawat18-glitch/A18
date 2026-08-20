@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-10",
   "type": "chapter",
   "domain": "economics",
-  "title": "10. Amartya Sen's Capability Approach & Entitlements",
+  "title": "Amartya Sen's Capability Approach & Entitlements",
   "summary": "Poverty is the deprivation of basic capabilities rather than low income alone, as economic entitlements dictate access to real human functionings.",
   "blocks": [
     {
@@ -62,7 +62,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** According to Amartya Sen's entitlement analysis of the 1943 Bengal Famine, what was the primary cause of mass starvation?  \n(A) Severe drop in total crop production across India  \n(B) Entitlement failure due to wage-price collapse and loss of purchasing power  \n(C) Total destruction of grain storage by foreign invasion  \n(D) Universal refusal of farmers to sell grain  \n**Answer:** ** — Starvation was caused by collapse in real wage entitlement, not physical food absence."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** According to Amartya Sen's entitlement analysis of the 1943 Bengal Famine, what was the primary cause of mass starvation?  \n(A) Severe drop in total crop production across India  \n(B) Entitlement failure due to wage-price collapse and loss of purchasing power  \n(C) Total destruction of grain storage by foreign invasion  \n(D) Universal refusal of farmers to sell grain  \n**Answer: — Starvation was caused by collapse in real wage entitlement, not physical food absence."
     },
     {
       "type": "paragraph",
@@ -71,6 +71,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Evaluate Amartya Sen's Capability Approach as a paradigm shift from traditional income-based economic development. How does entitlement theory inform universal food security policy under NFSA 2013?'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-10-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

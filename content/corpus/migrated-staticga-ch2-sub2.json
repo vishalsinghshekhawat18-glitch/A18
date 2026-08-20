@@ -2,7 +2,7 @@
   "id": "migrated-staticga-ch2-sub2",
   "type": "static_note",
   "domain": "static-ga",
-  "title": "Indian Pension Architecture & Regulatory Shifts (NPS, APY, UPS, NPS Vatsalya)",
+  "title": "Indian Pension Architecture & Regulatory Shifts (NPS, APY, UPS, NPS Vats...",
   "summary": "StaticGA — Indian Pension Architecture & Regulatory Shifts (NPS, APY, UPS, NPS Vatsalya)",
   "blocks": [
     {
@@ -52,6 +52,11 @@
           "Gratuity + 1/10th basic+DA per 6-m service"
         ]
       ]
+    },
+    {
+      "id": "blk-migrated-staticga-ch2-sub2-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → Key factual relationships, headquarters, statutory classifications, and numerical benchmarks in Indian Pension Architecture & Regulatory Shifts (NPS, APY, UPS, NPS Vats... are critical for Bank PO & RBI Grade B."
     }
   ],
   "metadata": {

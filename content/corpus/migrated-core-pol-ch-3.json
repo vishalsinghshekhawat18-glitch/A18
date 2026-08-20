@@ -2,7 +2,7 @@
   "id": "migrated-core-pol-ch-3",
   "type": "chapter",
   "domain": "polity",
-  "title": "3. Making of the Constitution: Constituent Assembly, Committees & Roster",
+  "title": "Making of the Constitution: Constituent Assembly, Committees & Roster",
   "summary": "The Constituent Assembly signed the Constitution on Nov 26, 1949; Article 394 enforced 16 specific Articles immediately.",
   "blocks": [
     {
@@ -85,6 +85,11 @@
       "type": "heading",
       "level": 3,
       "text": "❓ 7. 3-Tier Practice & Retention Section\n- **Tier 1 (Recall MCQ):** Which Article enforced 16 Articles on Nov 26, 1949? (A: Art 368, B: Art 370, **C: Art 394**, D: Art 395) [Correct: C].\n- **Tier 2 (Applied Scenario):** Explain why non-assembly members (S. Varadachari, S.K. Dhar) were appointed as committee chairs.\n- **Tier 3 (Mains Prompt):** *'Evaluate the role of Dr. B.R. Ambedkar and the Drafting Committee in synthesizing diverse global constitutional models.'*"
+    },
+    {
+      "id": "blk-migrated-core-pol-ch-3-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Pay close attention to constitutional article numbers, amendment acts (e.g. 42nd, 44th, 73rd, 86th), and the exact qualifying age/tenure for constitutional offices."
     }
   ],
   "metadata": {

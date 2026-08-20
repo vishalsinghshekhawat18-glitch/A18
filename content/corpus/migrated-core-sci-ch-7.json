@@ -2,7 +2,7 @@
   "id": "migrated-core-sci-ch-7",
   "type": "chapter",
   "domain": "science",
-  "title": "7. Artificial Intelligence: Machine Learning, Deep Learning & Generative AI",
+  "title": "Artificial Intelligence: Machine Learning, Deep Learning & Generative AI",
   "summary": "Artificial Intelligence: Machine Learning, Deep Learning & Generative AI is a critical scientific principle evaluated in UPSC CSE & State PCS examinations.",
   "blocks": [
     {
@@ -85,6 +85,11 @@
       "type": "heading",
       "level": 3,
       "text": "❓ 7. 3-Tier Practice & Retention Section\n- **Tier 1 (Recall MCQ):** Which scientific law forms the basis of Artificial Intelligence: Machine Learning, Deep Learning & Generative AI? (A: Kepler's First Law, **B: Core Scientific Principle**, C: Coulomb's Inverse Law) [Correct: B].\n- **Tier 2 (Applied Scenario):** Explain how Artificial Intelligence: Machine Learning, Deep Learning & Generative AI is applied in modern technology or healthcare.\n- **Tier 3 (Mains Prompt):** *'Discuss the strategic importance of advancing indigenous capabilities in Artificial Intelligence: Machine Learning, Deep Learning & Generative AI for India's technological self-reliance.'*"
+    },
+    {
+      "id": "blk-migrated-core-sci-ch-7-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → Focus on SI units, chemical compound common names, human endocrine hormone functions, and ISRO/DRDO propulsion technologies."
     }
   ],
   "metadata": {

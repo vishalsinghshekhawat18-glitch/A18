@@ -2,7 +2,7 @@
   "id": "migrated-core-his-ch-3",
   "type": "chapter",
   "domain": "history",
-  "title": "3. In the Earliest Cities (Harappan Civilisation - 2600–1900 BCE)",
+  "title": "In the Earliest Cities (Harappan Civilisation - 2600–1900 BCE)",
   "summary": "Harappan urban planning featured burnt-brick grid layouts, advanced drainage, specialized craftsmanship, and standardized weights.",
   "blocks": [
     {
@@ -81,6 +81,11 @@
       "type": "heading",
       "level": 3,
       "text": "❓ 7. 3-Tier Practice & Retention Section\n- **Tier 1 (Recall MCQ):** Which Harappan site is the ONLY one divided into THREE distinct administrative parts? (A: Lothal, B: Kalibangan, **C: Dholavira**, D: Chanhudaro) [Correct: C].\n- **Tier 2 (Applied Scenario):** Explain how standardized brick ratio (1:2:4) across 1500 km proves centralized Harappan governance.\n- **Tier 3 (Mains Prompt):** *'Evaluate the urban planning, water management, and civic architecture of the Harappan civilization and their relevance to modern smart cities.'*"
+    },
+    {
+      "id": "blk-migrated-core-his-ch-3-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Chronological order of Governor-Generals, Viceroys, landmark treaties, and British legislative acts (1773 to 1947) are recurring MCQ traps."
     }
   ],
   "metadata": {

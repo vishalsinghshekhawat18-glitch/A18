@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-37",
   "type": "chapter",
   "domain": "economics",
-  "title": "37. Specialized Financial Institutions & DFI Architecture",
+  "title": "Specialized Financial Institutions & DFI Architecture",
   "summary": "Development Financial Institutions (DFIs) provide long-term patient capital for infrastructure and sector development, anchored by NaBFID.",
   "blocks": [
     {
@@ -57,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Based on which committee's recommendations was the National Bank for Agriculture and Rural Development (NABARD) established in 1982?  \n(A) Narasimham Committee  \n(B) B. Sivaraman Committee  \n(C) Y.V. Reddy Committee  \n(D) Urjit Patel Committee  \n**Answer:** ** — B. Sivaraman Committee (CRAFICARD) recommended establishing NABARD."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Based on which committee's recommendations was the National Bank for Agriculture and Rural Development (NABARD) established in 1982?  \n(A) Narasimham Committee  \n(B) B. Sivaraman Committee  \n(C) Y.V. Reddy Committee  \n(D) Urjit Patel Committee  \n**Answer: — B. Sivaraman Committee (CRAFICARD) recommended establishing NABARD."
     },
     {
       "type": "paragraph",
@@ -66,6 +66,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Evaluate the role of specialized DFIs in India's economic history. Why was NaBFID established in 2021 to address the Asset-Liability Mismatch (ALM) in infrastructure financing?'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-37-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

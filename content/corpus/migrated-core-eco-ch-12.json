@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-12",
   "type": "chapter",
   "domain": "economics",
-  "title": "12. Tendulkar vs. Rangarajan Committees & NITI Aayog National MPI",
+  "title": "Tendulkar vs. Rangarajan Committees & NITI Aayog National MPI",
   "summary": "Tendulkar shifted poverty estimation to uniform mixed reference period consumption, while Rangarajan restored nutrition norms and NITI Aayog adopted multidimensional MPI.",
   "blocks": [
     {
@@ -58,7 +58,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which recall period methodology adopted by the C. Rangarajan Committee uses a 7-day recall period for volatile food items alongside 30-day and 365-day recall periods?  \n(A) Uniform Recall Period (URP)  \n(B) Mixed Recall Period (MRP)  \n(C) Modified Mixed Recall Period (MMRP)  \n(D) Annual Expenditure Period (AEP)  \n**Answer:** ** — MMRP uses 7-day recall for volatile food items (vegetables, spices, meat)."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which recall period methodology adopted by the C. Rangarajan Committee uses a 7-day recall period for volatile food items alongside 30-day and 365-day recall periods?  \n(A) Uniform Recall Period (URP)  \n(B) Mixed Recall Period (MRP)  \n(C) Modified Mixed Recall Period (MMRP)  \n(D) Annual Expenditure Period (AEP)  \n**Answer: — MMRP uses 7-day recall for volatile food items (vegetables, spices, meat)."
     },
     {
       "type": "paragraph",
@@ -67,6 +67,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Critically compare the methodology and poverty headcount outcomes of the Tendulkar and Rangarajan Committees. How does NITI Aayog's National MPI address non-monetary deprivations?'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-12-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

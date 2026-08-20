@@ -2,7 +2,7 @@
   "id": "migrated-quant-qsec1-4",
   "type": "quant_topic",
   "domain": "quant",
-  "title": "1.4 Mensuration Percentage Scale Shortcuts & Traps",
+  "title": "4 Mensuration Percentage Scale Shortcuts & Traps",
   "summary": "Quant — 1.4 Mensuration Percentage Scale Shortcuts & Traps",
   "blocks": [
     {
@@ -19,6 +19,11 @@
         "⚠️ **Common Trap Alert:** Increasing radius of a cylinder by 20% increases CSA by 20% (if height is constant), but increases Volume by **44%** ($1.2^2 = 1.44$).",
         "📝 **Worked Example (Melting Spheres Method):** 3 metallic spheres of radii 3 cm, 4 cm, 5 cm are melted to form a single solid sphere. Find its radius.\n*Method:* Recognize Recasting $\\rightarrow$ Equalize volumes: $V = \\frac{4}{3}\\pi (3^3 + 4^3 + 5^3) = \\frac{4}{3}\\pi (27 + 64 + 125) = \\frac{4}{3}\\pi (216) \\implies R^3 = 216 \\implies R = 6\\text{ cm}$."
       ]
+    },
+    {
+      "id": "blk-migrated-quant-qsec1-4-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → ⚡ Calculation Trap — Watch for base-year shifts, percentage of vs percentage more than traps, and units conversion (km/h ➔ m/s) in time-speed-distance."
     }
   ],
   "metadata": {

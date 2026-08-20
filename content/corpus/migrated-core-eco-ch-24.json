@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-24",
   "type": "chapter",
   "domain": "economics",
-  "title": "24. Agriculture Sector & MSP Architecture",
+  "title": "Agriculture Sector & MSP Architecture",
   "summary": "Minimum Support Prices (MSP) protect farmers from distress sales, calculated by CACP across 22 mandated crops plus sugarcane Fair and Remunerative Price (FRP).",
   "blocks": [
     {
@@ -62,7 +62,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which body approves and officially announces the Minimum Support Prices (MSP) for agricultural crops based on CACP recommendations?  \n(A) Commission for Agricultural Costs and Prices (CACP)  \n(B) Cabinet Committee on Economic Affairs (CCEA)  \n(C) NITI Aayog  \n(D) Ministry of Agriculture and Farmers Welfare  \n**Answer:** ** — CCEA makes the final official announcement."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which body approves and officially announces the Minimum Support Prices (MSP) for agricultural crops based on CACP recommendations?  \n(A) Commission for Agricultural Costs and Prices (CACP)  \n(B) Cabinet Committee on Economic Affairs (CCEA)  \n(C) NITI Aayog  \n(D) Ministry of Agriculture and Farmers Welfare  \n**Answer: — CCEA makes the final official announcement."
     },
     {
       "type": "paragraph",
@@ -71,6 +71,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Evaluate the structural effectiveness of the MSP framework in India. Compare the A2+FL cost formula with the Swaminathan Commission's C2 recommendation.'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-24-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

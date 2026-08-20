@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-2",
   "type": "chapter",
   "domain": "economics",
-  "title": "2. The 3 Central Problems & Goods Classification Matrix",
+  "title": "The 3 Central Problems & Goods Classification Matrix",
   "summary": "National income aggregates bridge domestic production and net factor income from abroad, linking Factor Cost to Market Price via Net Indirect Taxes.",
   "blocks": [
     {
@@ -77,6 +77,11 @@
       "type": "heading",
       "level": 3,
       "text": "❓ 7. 3-Tier Practice & Retention Section\n- **Tier 1 (Recall MCQ):** National Income of a country is legally defined as: (A: $GDP_{MP}$, B: $NDP_{FC}$, **C: $NNP_{FC}$**, D: $GNP_{MP}$) [Correct: C].\n- **Tier 2 (Applied Scenario):** Explain why Net Factor Income from Abroad (NFIA) can be negative for developing nations.\n- **Tier 3 (Mains Prompt):** *'Examine the methodological changes introduced in India's National Accounts Statistics base year 2011-12 revision and their impact on GDP growth estimation.'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-2-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

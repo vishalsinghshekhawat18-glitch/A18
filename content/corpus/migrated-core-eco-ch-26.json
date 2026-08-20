@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-26",
   "type": "chapter",
   "domain": "economics",
-  "title": "26. Services Sector & India's Digital Public Infrastructure (DPI)",
+  "title": "Services Sector & India's Digital Public Infrastructure (DPI)",
   "summary": "The services sector contributes over 53% of Indian GVA, powered by Digital Public Infrastructure (India Stack) spanning identity, payments, and open commerce.",
   "blocks": [
     {
@@ -57,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which non-profit umbrella organization regulated by RBI developed the Unified Payments Interface (UPI) and RuPay card network?  \n(A) NITI Aayog  \n(B) National Payments Corporation of India (NPCI)  \n(C) Unique Identification Authority of India (UIDAI)  \n(D) Security and Exchange Board of India (SEBI)  \n**Answer:** ** — NPCI developed UPI and RuPay."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which non-profit umbrella organization regulated by RBI developed the Unified Payments Interface (UPI) and RuPay card network?  \n(A) NITI Aayog  \n(B) National Payments Corporation of India (NPCI)  \n(C) Unique Identification Authority of India (UIDAI)  \n(D) Security and Exchange Board of India (SEBI)  \n**Answer: — NPCI developed UPI and RuPay."
     },
     {
       "type": "paragraph",
@@ -66,6 +66,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Evaluate the contribution of the services sector to India's GDP and exports. How does Digital Public Infrastructure (DPI) foster financial inclusion and e-commerce democratization through ONDC?'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-26-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

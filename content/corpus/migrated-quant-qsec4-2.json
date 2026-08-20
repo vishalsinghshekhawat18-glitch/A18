@@ -2,7 +2,7 @@
   "id": "migrated-quant-qsec4-2",
   "type": "quant_topic",
   "domain": "quant",
-  "title": "4.2 Quadratic Equation Sign Table & Root Tricks",
+  "title": "2 Quadratic Equation Sign Table & Root Tricks",
   "summary": "Quant — 4.2 Quadratic Equation Sign Table & Root Tricks",
   "blocks": [
     {
@@ -54,11 +54,16 @@
     {
       "type": "bullet_list",
       "items": [
-        "**Quadratic comparison (two equations)**: find roots of both, compare all pairs; mixed relations → 'cannot be determined'",
-        "**Fast factoring by inspection**: for x²+bx+c, find two numbers multiplying to c, adding to b",
-        "**a+1/a expressions**: a²+1/a²=k²−2; a³+1/a³=k³−3k",
-        "**a−1/a expressions**: a²+1/a²=k²+2; (a+1/a)²=(a−1/a)²+4"
+        "**Quadratic comparison (two equations)**: find roots of both, compare all pairs; mixed relations → 'cannot be determined'.",
+        "**Fast factoring by inspection**: for x²+bx+c, find two numbers multiplying to c, adding to b.",
+        "**a+1/a expressions**: a²+1/a²=k²−2; a³+1/a³=k³−3k.",
+        "**a−1/a expressions**: a²+1/a²=k²+2; (a+1/a)²=(a−1/a)²+4."
       ]
+    },
+    {
+      "id": "blk-migrated-quant-qsec4-2-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → ⚡ Calculation Trap — Watch for base-year shifts, percentage of vs percentage more than traps, and units conversion (km/h ➔ m/s) in time-speed-distance."
     }
   ],
   "metadata": {

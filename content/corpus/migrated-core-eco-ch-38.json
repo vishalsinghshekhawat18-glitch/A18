@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-38",
   "type": "chapter",
   "domain": "economics",
-  "title": "38. Financial Inclusion Initiatives & Priority Sector Lending Targets",
+  "title": "Financial Inclusion Initiatives & Priority Sector Lending Targets",
   "summary": "Priority Sector Lending mandates commercial banks to allocate specified credit quotas to vulnerable economic sectors, overseen by RBI.",
   "blocks": [
     {
@@ -61,7 +61,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** What is the mandatory overall Priority Sector Lending (PSL) target as a percentage of ANBC for Regional Rural Banks (RRBs) and Small Finance Banks (SFBs)?  \n(A) 40% of ANBC  \n(B) 50% of ANBC  \n(C) 60% of ANBC  \n(D) 75% of ANBC  \n**Answer:** ** — RRBs and SFBs have a higher mandatory PSL target of 75% of ANBC."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** What is the mandatory overall Priority Sector Lending (PSL) target as a percentage of ANBC for Regional Rural Banks (RRBs) and Small Finance Banks (SFBs)?  \n(A) 40% of ANBC  \n(B) 50% of ANBC  \n(C) 60% of ANBC  \n(D) 75% of ANBC  \n**Answer: — RRBs and SFBs have a higher mandatory PSL target of 75% of ANBC."
     },
     {
       "type": "paragraph",
@@ -70,6 +70,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Examine the role of Priority Sector Lending (PSL) in directing institutional credit to agriculture and MSMEs. How do PSLCs facilitate market-based compliance?'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-38-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

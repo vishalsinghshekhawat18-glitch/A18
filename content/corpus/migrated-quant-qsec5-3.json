@@ -2,7 +2,7 @@
   "id": "migrated-quant-qsec5-3",
   "type": "quant_topic",
   "domain": "quant",
-  "title": "5.3 Worked Examples",
+  "title": "3 Worked Examples",
   "summary": "Quant — 5.3 Worked Examples",
   "blocks": [
     {
@@ -32,6 +32,11 @@
         }
       ],
       "answer": "Expected ×2 pattern: 5, 10, 20, 40, 80, 160. 41 is the wrong term (should be 40).\n*Pattern: locate base pattern from majority, then find single deviation.*"
+    },
+    {
+      "id": "blk-migrated-quant-qsec5-3-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → ⚡ Calculation Trap — Watch for base-year shifts, percentage of vs percentage more than traps, and units conversion (km/h ➔ m/s) in time-speed-distance."
     }
   ],
   "metadata": {

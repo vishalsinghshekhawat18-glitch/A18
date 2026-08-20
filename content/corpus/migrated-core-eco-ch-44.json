@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-44",
   "type": "chapter",
   "domain": "economics",
-  "title": "44. FRBM Act 2003 & Fiscal Consolidation Ladder",
+  "title": "FRBM Act 2003 & Fiscal Consolidation Ladder",
   "summary": "The FRBM Act 2003 enforces fiscal discipline, guided by NK Singh Committee targets of 3% fiscal deficit and 60% combined debt-to-GDP ratio.",
   "blocks": [
     {
@@ -57,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** What is the recommended ceiling for the Central Government's Debt-to-GDP ratio proposed by the N.K. Singh FRBM Review Committee (2017)?  \n(A) 20% of GDP  \n(B) 40% of GDP  \n(C) 60% of GDP  \n(D) 80% of GDP  \n**Answer:** ** — N.K. Singh Committee set 40% for Central Govt debt (and 20% for State Govts, totaling 60%)."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** What is the recommended ceiling for the Central Government's Debt-to-GDP ratio proposed by the N.K. Singh FRBM Review Committee (2017)?  \n(A) 20% of GDP  \n(B) 40% of GDP  \n(C) 60% of GDP  \n(D) 80% of GDP  \n**Answer: — N.K. Singh Committee set 40% for Central Govt debt (and 20% for State Govts, totaling 60%)."
     },
     {
       "type": "paragraph",
@@ -66,6 +66,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Evaluate the N.K. Singh Committee recommendations for reforming the FRBM Act 2003. How did the COVID-19 pandemic disrupt the fiscal consolidation glide path?'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-44-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

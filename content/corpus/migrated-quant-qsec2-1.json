@@ -2,21 +2,26 @@
   "id": "migrated-quant-qsec2-1",
   "type": "quant_topic",
   "domain": "quant",
-  "title": "2.1 Core Formulas",
+  "title": "1 Core Formulas",
   "summary": "Quant — 2.1 Core Formulas",
   "blocks": [
     {
       "type": "bullet_list",
       "items": [
-        "**Simple Interest**: SI = (P×R×T)/100; Amount = P+SI; P = (SI×100)/(R×T)",
-        "**Compound Interest**: A = P(1+R/100)ⁿ; CI = A−P; half-yearly → rate/2, time×2; quarterly → rate/4, time×4",
-        "**Profit & Loss**: Profit% = (SP−CP)/CP×100; Loss% = (CP−SP)/CP×100; SP = CP(1±P/100); MP(1−discount%) = SP",
-        "**Time & Work**: Work = Rate×Time; 1 day's work = 1/n; combined rate = 1/A+1/B; efficiency ratio is inverse of time ratio",
-        "**Time, Speed & Distance**: Distance = Speed×Time; km/h→m/s ×5/18; m/s→km/h ×18/5; avg speed (equal distance) = 2xy/(x+y)",
-        "**Averages**: Average = sum/count; new term added → new avg shifts by (new term−old avg)/new count; avg of consecutive n numbers = middle term",
-        "**Mixture & Alligation**: Cheaper:Dearer = (Dearer−Mean):(Mean−Cheaper); replacement: final = P(1−x/n)ⁿ",
-        "**Partnership**: profit share ∝ capital×time invested; A:B ratio = (Ca×Ta):(Cb×Tb)"
+        "**Simple Interest**: SI = (P×R×T)/100; Amount = P+SI; P = (SI×100)/(R×T).",
+        "**Compound Interest**: A = P(1+R/100)ⁿ; CI = A−P; half-yearly → rate/2, time×2; quarterly → rate/4, time×4.",
+        "**Profit & Loss**: Profit% = (SP−CP)/CP×100; Loss% = (CP−SP)/CP×100; SP = CP(1±P/100); MP(1−discount%) = SP.",
+        "**Time & Work**: Work = Rate×Time; 1 day's work = 1/n; combined rate = 1/A+1/B; efficiency ratio is inverse of time ratio.",
+        "**Time, Speed & Distance**: Distance = Speed×Time; km/h→m/s ×5/18; m/s→km/h ×18/5; avg speed (equal distance) = 2xy/(x+y).",
+        "**Averages**: Average = sum/count; new term added → new avg shifts by (new term−old avg)/new count; avg of consecutive n numbers = middle term.",
+        "**Mixture & Alligation**: Cheaper:Dearer = (Dearer−Mean):(Mean−Cheaper); replacement: final = P(1−x/n)ⁿ.",
+        "**Partnership**: profit share ∝ capital×time invested; A:B ratio = (Ca×Ta):(Cb×Tb)."
       ]
+    },
+    {
+      "id": "blk-migrated-quant-qsec2-1-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → ⚡ Calculation Trap — Watch for base-year shifts, percentage of vs percentage more than traps, and units conversion (km/h ➔ m/s) in time-speed-distance."
     }
   ],
   "metadata": {

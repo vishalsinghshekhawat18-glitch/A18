@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-4",
   "type": "chapter",
   "domain": "economics",
-  "title": "4. GDP, NDP, GNP & NNP Aggregate Ladder",
+  "title": "GDP, NDP, GNP & NNP Aggregate Ladder",
   "summary": "The 8 national income aggregates form a mathematical ladder linking gross to net output and domestic to national income via depreciation and factor income abroad.",
   "blocks": [
     {
@@ -70,7 +70,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which specific aggregate among the eight national income metrics is legally and officially designated as 'National Income'?  \n(A) $GDP_{MP}$  \n(B) $GNP_{MP}$  \n(C) $NNP_{FC}$  \n(D) $NDP_{FC}$  \n**Answer:** ** — $NNP_{FC}$ (Net National Product at Factor Cost) is the official National Income."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which specific aggregate among the eight national income metrics is legally and officially designated as 'National Income'?  \n(A) $GDP_{MP}$  \n(B) $GNP_{MP}$  \n(C) $NNP_{FC}$  \n(D) $NDP_{FC}$  \n**Answer: — $NNP_{FC}$ (Net National Product at Factor Cost) is the official National Income."
     },
     {
       "type": "paragraph",
@@ -79,6 +79,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Demonstrate the mathematical relationships connecting the 8 national income aggregates. Why is NFIA negative for many developing economies, and how does it affect the gap between GDP and GNP?'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-4-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

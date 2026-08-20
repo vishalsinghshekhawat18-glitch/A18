@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-9",
   "type": "chapter",
   "domain": "economics",
-  "title": "9. Absolute vs Relative Poverty & Lorenz Curve / Gini Index",
+  "title": "Absolute vs Relative Poverty & Lorenz Curve / Gini Index",
   "summary": "The Lorenz Curve graphs income distribution against perfect equality, while the Gini Coefficient quantifies economic inequality from 0 (equality) to 1 (monopoly).",
   "blocks": [
     {
@@ -76,7 +76,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** If an economy's Lorenz Curve moves closer to the 45-degree diagonal line over a decade, what does this mathematically indicate about its Gini Coefficient and income distribution?  \n(A) Gini increases, inequality rises  \n(B) Gini decreases, inequality falls  \n(C) Gini becomes 1.0, income becomes zero  \n(D) Gini remains unchanged  \n**Answer:** ** — Moving closer to the 45-degree line reduces Area A, causing the Gini Coefficient to fall toward 0 (lower inequality)."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** If an economy's Lorenz Curve moves closer to the 45-degree diagonal line over a decade, what does this mathematically indicate about its Gini Coefficient and income distribution?  \n(A) Gini increases, inequality rises  \n(B) Gini decreases, inequality falls  \n(C) Gini becomes 1.0, income becomes zero  \n(D) Gini remains unchanged  \n**Answer: — Moving closer to the 45-degree line reduces Area A, causing the Gini Coefficient to fall toward 0 (lower inequality)."
     },
     {
       "type": "paragraph",
@@ -85,6 +85,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Explain the geometric relationship between the Lorenz Curve and the Gini Coefficient. Why does India's Consumption Gini differ significantly from its Wealth Gini?'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-9-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

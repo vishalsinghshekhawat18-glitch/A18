@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-3",
   "type": "chapter",
   "domain": "economics",
-  "title": "3. Circular Flow of Income, Factor Payments & Leakages",
+  "title": "Circular Flow of Income, Factor Payments & Leakages",
   "summary": "Income flows continuously between economic sectors through real factor/goods flows and counter-balancing monetary payments, governed by the identity of injections and leakages.",
   "blocks": [
     {
@@ -80,7 +80,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which of the following is classified as a 'Leakage' (Withdrawal) from the circular flow of income in a four-sector open economy?  \n(A) Investment Expenditure ($I$)  \n(B) Government Spending ($G$)  \n(C) Imports ($M$)  \n(D) Exports ($X$)  \n**Answer:** ** — Imports represent money flowing out of domestic circular stream to foreign producers."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which of the following is classified as a 'Leakage' (Withdrawal) from the circular flow of income in a four-sector open economy?  \n(A) Investment Expenditure ($I$)  \n(B) Government Spending ($G$)  \n(C) Imports ($M$)  \n(D) Exports ($X$)  \n**Answer: — Imports represent money flowing out of domestic circular stream to foreign producers."
     },
     {
       "type": "paragraph",
@@ -89,6 +89,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Explain the mechanics of circular flow of income in an open economy. Differentiate between Factor Payments and Transfer Payments with suitable national accounting examples.'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-3-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

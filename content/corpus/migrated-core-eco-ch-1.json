@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-1",
   "type": "chapter",
   "domain": "economics",
-  "title": "1. What is Economics? Scarcity, Choice & Opportunity Cost",
+  "title": "What is Economics? Scarcity, Choice & Opportunity Cost",
   "summary": "Economics is the study of how society manages its scarce resources to satisfy unlimited human wants through optimal choice.",
   "blocks": [
     {
@@ -81,7 +81,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Why is the Production Possibility Frontier (PPF) typically concave to the origin?  \n(A) Opportunity cost remains constant  \n(B) Marginal Rate of Transformation (MRT) increases as output shifts  \n(C) Resources are equally efficient in all activities  \n(D) Technology is continuously improving  \n**Answer:** ** — Concavity is caused by increasing MRT due to resource specialization."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Why is the Production Possibility Frontier (PPF) typically concave to the origin?  \n(A) Opportunity cost remains constant  \n(B) Marginal Rate of Transformation (MRT) increases as output shifts  \n(C) Resources are equally efficient in all activities  \n(D) Technology is continuously improving  \n**Answer: — Concavity is caused by increasing MRT due to resource specialization."
     },
     {
       "type": "paragraph",
@@ -90,6 +90,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Distinguish between Positive and Normative Economics. How does the concept of Opportunity Cost guide fiscal policy decisions in a developing economy facing resource constraints?'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-1-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

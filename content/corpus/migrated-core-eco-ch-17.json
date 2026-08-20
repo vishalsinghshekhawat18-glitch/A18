@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-17",
   "type": "chapter",
   "domain": "economics",
-  "title": "17. Human Capital Formation: Education, Skill India & Health Index",
+  "title": "Human Capital Formation: Education, Skill India & Health Index",
   "summary": "Human capital formation transforms labor into productive economic capital through investments in education, vocational skill development, and public healthcare.",
   "blocks": [
     {
@@ -62,7 +62,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** What is the target public expenditure on education as a percentage of GDP recommended by the National Education Policy (NEP 2020)?  \n(A) 3% of GDP  \n(B) 4.5% of GDP  \n(C) 6% of GDP  \n(D) 8% of GDP  \n**Answer:** ** — NEP 2020 reaffirms the Kothari Commission (1966) target of 6% of GDP."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** What is the target public expenditure on education as a percentage of GDP recommended by the National Education Policy (NEP 2020)?  \n(A) 3% of GDP  \n(B) 4.5% of GDP  \n(C) 6% of GDP  \n(D) 8% of GDP  \n**Answer: — NEP 2020 reaffirms the Kothari Commission (1966) target of 6% of GDP."
     },
     {
       "type": "paragraph",
@@ -71,6 +71,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Distinguish between Human Capital and Human Development. How does NEP 2020 and Skill India address the demographic dividend opportunity in India?'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-17-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

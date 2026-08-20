@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-13",
   "type": "chapter",
   "domain": "economics",
-  "title": "13. Types & Measurement of Unemployment (PLFS / NSO Framework)",
+  "title": "Types & Measurement of Unemployment (PLFS / NSO Framework)",
   "summary": "Unemployment measures unutilized labor supply, categorized into structural and disguised forms, and measured by NSO using Usual and Current Activity Statuses.",
   "blocks": [
     {
@@ -71,7 +71,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which formula correctly defines the Unemployment Rate ($UR$) measured by NSO under the Periodic Labour Force Survey (PLFS)?  \n(A) $\\frac{\\text{Unemployed}}{\\text{Total Population}} \\times 100$  \n(B) $\\frac{\\text{Unemployed}}{\\text{Labor Force}} \\times 100$  \n(C) $\\frac{\\text{Labor Force}}{\\text{Working Age Population}} \\times 100$  \n(D) $\\frac{\\text{Employed}}{\\text{Labor Force}} \\times 100$  \n**Answer:** ** — $UR$ is the percentage of unemployed within the active Labor Force."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which formula correctly defines the Unemployment Rate ($UR$) measured by NSO under the Periodic Labour Force Survey (PLFS)?  \n(A) $\\frac{\\text{Unemployed}}{\\text{Total Population}} \\times 100$  \n(B) $\\frac{\\text{Unemployed}}{\\text{Labor Force}} \\times 100$  \n(C) $\\frac{\\text{Labor Force}}{\\text{Working Age Population}} \\times 100$  \n(D) $\\frac{\\text{Employed}}{\\text{Labor Force}} \\times 100$  \n**Answer: — $UR$ is the percentage of unemployed within the active Labor Force."
     },
     {
       "type": "paragraph",
@@ -80,6 +80,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Compare the Usual Principal Status (UPS) and Current Weekly Status (CWS) methods of measuring unemployment. Why is disguised unemployment endemic in Indian agriculture?'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-13-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

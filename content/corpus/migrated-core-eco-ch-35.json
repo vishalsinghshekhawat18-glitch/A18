@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-35",
   "type": "chapter",
   "domain": "economics",
-  "title": "35. Non-Performing Assets (NPAs) & Insolvency Resolution",
+  "title": "Non-Performing Assets (NPAs) & Insolvency Resolution",
   "summary": "Non-Performing Assets reflect overdue loans categorized into SMA tiers and NPA classes, resolved through IBC 2016 and NARCL bad bank structures.",
   "blocks": [
     {
@@ -57,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** What is the legal adjudicating authority for Corporate Insolvency Resolution Process (CIRP) under the Insolvency and Bankruptcy Code (IBC 2016)?  \n(A) Debt Recovery Tribunal (DRT)  \n(B) National Company Law Tribunal (NCLT)  \n(C) High Court  \n(D) Reserve Bank of India  \n**Answer:** ** — NCLT is the adjudicating authority for corporate entities under IBC."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** What is the legal adjudicating authority for Corporate Insolvency Resolution Process (CIRP) under the Insolvency and Bankruptcy Code (IBC 2016)?  \n(A) Debt Recovery Tribunal (DRT)  \n(B) National Company Law Tribunal (NCLT)  \n(C) High Court  \n(D) Reserve Bank of India  \n**Answer: — NCLT is the adjudicating authority for corporate entities under IBC."
     },
     {
       "type": "paragraph",
@@ -66,6 +66,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Examine the twin balance sheet problem in India. How do IBC 2016 and NARCL (Bad Bank) address NPA resolution in commercial banks?'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-35-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

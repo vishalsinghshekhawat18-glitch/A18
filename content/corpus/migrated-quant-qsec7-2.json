@@ -2,7 +2,7 @@
   "id": "migrated-quant-qsec7-2",
   "type": "quant_topic",
   "domain": "quant",
-  "title": "7.2 Permutation & Combination Shortcuts",
+  "title": "2 Permutation & Combination Shortcuts",
   "summary": "Quant — 7.2 Permutation & Combination Shortcuts",
   "blocks": [
     {
@@ -18,6 +18,11 @@
         "**Circular Permutation:** Arrangements of $n$ distinct items in a circle = $(n-1)!$.",
         "📝 **Worked Example (Handshake Formula Method):** 10 persons attend a conference and each person shakes hands with every other person once. Find total handshakes.\n*Method:* Recognize Handshake pattern $\\rightarrow$ Apply $\\frac{n(n-1)}{2} = \\frac{10 \\times 9}{2} = 45\\text{ handshakes}$."
       ]
+    },
+    {
+      "id": "blk-migrated-quant-qsec7-2-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → ⚡ Calculation Trap — Watch for base-year shifts, percentage of vs percentage more than traps, and units conversion (km/h ➔ m/s) in time-speed-distance."
     }
   ],
   "metadata": {

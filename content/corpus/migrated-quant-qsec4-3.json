@@ -2,7 +2,7 @@
   "id": "migrated-quant-qsec4-3",
   "type": "quant_topic",
   "domain": "quant",
-  "title": "4.3 Worked Examples",
+  "title": "3 Worked Examples",
   "summary": "Quant — 4.3 Worked Examples",
   "blocks": [
     {
@@ -32,6 +32,11 @@
         }
       ],
       "answer": "k³−3k = 125 − 15 = 110.\n*Pattern: never solve for a itself when only a combined expression is asked.*"
+    },
+    {
+      "id": "blk-migrated-quant-qsec4-3-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → ⚡ Calculation Trap — Watch for base-year shifts, percentage of vs percentage more than traps, and units conversion (km/h ➔ m/s) in time-speed-distance."
     }
   ],
   "metadata": {

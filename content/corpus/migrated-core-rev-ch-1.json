@@ -2,7 +2,7 @@
   "id": "migrated-core-rev-ch-1",
   "type": "chapter",
   "domain": "revision",
-  "title": "1. Rapid Revision — Ancient & Medieval History Traps",
+  "title": "Rapid Revision — Ancient & Medieval History Traps",
   "summary": "Rapid revision matrix targeting high-frequency Prelims traps, confusing terms, and primary source distinctions across Ancient and Medieval History.",
   "blocks": [
     {
@@ -67,7 +67,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which Asokan Edict explicitly mentions Ashoka's victory over Kalinga and lists contemporary Hellenistic rulers?  \n(A) Major Rock Edict I  \n(B) Major Rock Edict XIII  \n(C) Rummindei Pillar Edict  \n(D) Sarnath Pillar Edict  \n**Answer:** ** — Major Rock Edict XIII details the Kalinga War and Hellenistic diplomatic contact."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which Asokan Edict explicitly mentions Ashoka's victory over Kalinga and lists contemporary Hellenistic rulers?  \n(A) Major Rock Edict I  \n(B) Major Rock Edict XIII  \n(C) Rummindei Pillar Edict  \n(D) Sarnath Pillar Edict  \n**Answer: — Major Rock Edict XIII details the Kalinga War and Hellenistic diplomatic contact."
     },
     {
       "type": "paragraph",
@@ -76,6 +76,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Compare the administrative mechanisms of the Delhi Sultanate Iqta system with the Mughal Mansabdari system. How did land revenue assignments affect central authority in both empires?'*"
+    },
+    {
+      "id": "blk-migrated-core-rev-ch-1-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → Key factual relationships, headquarters, statutory classifications, and numerical benchmarks in Rapid Revision — Ancient & Medieval History Traps are critical for Bank PO & RBI Grade B."
     }
   ],
   "metadata": {

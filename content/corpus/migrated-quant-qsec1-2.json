@@ -2,7 +2,7 @@
   "id": "migrated-quant-qsec1-2",
   "type": "quant_topic",
   "domain": "quant",
-  "title": "1.2 3D Solid Formulas & Worked Methods",
+  "title": "2 3D Solid Formulas & Worked Methods",
   "summary": "Quant — 1.2 3D Solid Formulas & Worked Methods",
   "blocks": [
     {
@@ -40,6 +40,11 @@
           "TSA = 4π r²"
         ]
       ]
+    },
+    {
+      "id": "blk-migrated-quant-qsec1-2-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → ⚡ Calculation Trap — Watch for base-year shifts, percentage of vs percentage more than traps, and units conversion (km/h ➔ m/s) in time-speed-distance."
     }
   ],
   "metadata": {

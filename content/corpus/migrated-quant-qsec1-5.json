@@ -2,7 +2,7 @@
   "id": "migrated-quant-qsec1-5",
   "type": "quant_topic",
   "domain": "quant",
-  "title": "1.5 Worked Examples",
+  "title": "5 Worked Examples",
   "summary": "Quant — 1.5 Worked Examples",
   "blocks": [
     {
@@ -60,6 +60,11 @@
         }
       ],
       "answer": "Capacity = (πh/3)(R²+r²+Rr). Slant l = √(h²+(R−r)²) = √(225+64) = 17. Metal sheet = π(R+r)l + πr².\n*Pattern: bucket/tub questions want slant height for CSA — always compute (R−r) first.*"
+    },
+    {
+      "id": "blk-migrated-quant-qsec1-5-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → ⚡ Calculation Trap — Watch for base-year shifts, percentage of vs percentage more than traps, and units conversion (km/h ➔ m/s) in time-speed-distance."
     }
   ],
   "metadata": {

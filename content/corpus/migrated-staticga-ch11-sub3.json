@@ -8,12 +8,17 @@
     {
       "type": "bullet_list",
       "items": [
-        "M0 (Reserve Money) = Currency in Circulation + Bankers' Deposits with RBI + Other Deposits with RBI",
-        "M1 (Narrow Money) = Currency with Public + Demand Deposits with Banking System + Other Deposits with RBI",
-        "M2 = M1 + Savings Deposits with Post Office Savings Banks",
-        "M3 (Broad Money - Policy Benchmark) = M1 + Time Deposits (Fixed Deposits) with Banking System",
-        "M4 = M3 + Total Deposits with Post Office Savings Organisation (excl. NSC)"
+        "M0 (Reserve Money) = Currency in Circulation + Bankers' Deposits with RBI + Other Deposits with RBI.",
+        "M1 (Narrow Money) = Currency with Public + Demand Deposits with Banking System + Other Deposits with RBI.",
+        "M2 = M1 + Savings Deposits with Post Office Savings Banks.",
+        "M3 (Broad Money - Policy Benchmark) = M1 + Time Deposits (Fixed Deposits) with Banking System.",
+        "M4 = M3 + Total Deposits with Post Office Savings Organisation (excl. NSC)."
       ]
+    },
+    {
+      "id": "blk-migrated-staticga-ch11-sub3-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → Key factual relationships, headquarters, statutory classifications, and numerical benchmarks in RBI Money Supply Equations are critical for Bank PO & RBI Grade B."
     }
   ],
   "metadata": {

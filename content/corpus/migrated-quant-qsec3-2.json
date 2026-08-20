@@ -2,18 +2,23 @@
   "id": "migrated-quant-qsec3-2",
   "type": "quant_topic",
   "domain": "quant",
-  "title": "3.2 Shortcuts & Estimation Tricks",
+  "title": "2 Shortcuts & Estimation Tricks",
   "summary": "Quant — 3.2 Shortcuts & Estimation Tricks",
   "blocks": [
     {
       "type": "bullet_list",
       "items": [
-        "**Approximate before exact**: round to nearest 10/100 to estimate range first; calculate exactly only if options are close",
-        "**Option elimination**: use unit digit/rough magnitude to eliminate 2-3 options instantly",
-        "**Visual estimation**: for highest/lowest questions, read directly off the chart",
-        "**Total-first trick**: compute grand total once, reuse across the whole question set",
-        "**Fraction shortcut reuse**: apply the 1/n → % table from Arithmetic to pie/ratio questions"
+        "**Approximate before exact**: round to nearest 10/100 to estimate range first; calculate exactly only if options are close.",
+        "**Option elimination**: use unit digit/rough magnitude to eliminate 2-3 options instantly.",
+        "**Visual estimation**: for highest/lowest questions, read directly off the chart.",
+        "**Total-first trick**: compute grand total once, reuse across the whole question set.",
+        "**Fraction shortcut reuse**: apply the 1/n → % table from Arithmetic to pie/ratio questions."
       ]
+    },
+    {
+      "id": "blk-migrated-quant-qsec3-2-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → ⚡ Calculation Trap — Watch for base-year shifts, percentage of vs percentage more than traps, and units conversion (km/h ➔ m/s) in time-speed-distance."
     }
   ],
   "metadata": {

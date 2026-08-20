@@ -2,7 +2,7 @@
   "id": "migrated-quant-qsec3-3",
   "type": "quant_topic",
   "domain": "quant",
-  "title": "3.3 Worked Examples",
+  "title": "3 Worked Examples",
   "summary": "Quant — 3.3 Worked Examples",
   "blocks": [
     {
@@ -46,6 +46,11 @@
         }
       ],
       "answer": "Ratio = 343/200 = 1.715. Cube root ≈ 1.197 → CAGR ≈ 19.7%.\n*Pattern: recognize perfect-cube ratios (343=7³) to shortcut the root.*"
+    },
+    {
+      "id": "blk-migrated-quant-qsec3-3-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → ⚡ Calculation Trap — Watch for base-year shifts, percentage of vs percentage more than traps, and units conversion (km/h ➔ m/s) in time-speed-distance."
     }
   ],
   "metadata": {

@@ -2,7 +2,7 @@
   "id": "migrated-quant-qsec1-1",
   "type": "quant_topic",
   "domain": "quant",
-  "title": "1.1 2D Shape Formulas & Applications",
+  "title": "1 2D Shape Formulas & Applications",
   "summary": "Quant — 1.1 2D Shape Formulas & Applications",
   "blocks": [
     {
@@ -40,6 +40,11 @@
           "Area of semi-circle = ½ π r²"
         ]
       ]
+    },
+    {
+      "id": "blk-migrated-quant-qsec1-1-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → ⚡ Calculation Trap — Watch for base-year shifts, percentage of vs percentage more than traps, and units conversion (km/h ➔ m/s) in time-speed-distance."
     }
   ],
   "metadata": {

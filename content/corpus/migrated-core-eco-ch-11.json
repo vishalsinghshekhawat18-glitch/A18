@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-11",
   "type": "chapter",
   "domain": "economics",
-  "title": "11. Poverty Measurement in India: Historical & Post-Independent Committees",
+  "title": "Poverty Measurement in India: Historical & Post-Independent Committees",
   "summary": "Poverty estimation in India evolved from Dadabhai Naoroji's jail cost of living to official calorie intake and state-specific CPI consumption baskets.",
   "blocks": [
     {
@@ -62,7 +62,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which committee first introduced state-specific poverty lines updated via CPI-AL (Agricultural Laborers) and CPI-IW (Industrial Workers)?  \n(A) Y.K. Alagh Task Force (1979)  \n(B) D.T. Lakdawala Committee (1993)  \n(C) Suresh Tendulkar Committee (2009)  \n(D) C. Rangarajan Committee (2014)  \n**Answer:** ** — Lakdawala Committee introduced state-level price disaggregation using CPI-AL and CPI-IW."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which committee first introduced state-specific poverty lines updated via CPI-AL (Agricultural Laborers) and CPI-IW (Industrial Workers)?  \n(A) Y.K. Alagh Task Force (1979)  \n(B) D.T. Lakdawala Committee (1993)  \n(C) Suresh Tendulkar Committee (2009)  \n(D) C. Rangarajan Committee (2014)  \n**Answer: — Lakdawala Committee introduced state-level price disaggregation using CPI-AL and CPI-IW."
     },
     {
       "type": "paragraph",
@@ -71,6 +71,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Trace the evolution of poverty estimation in India from Dadabhai Naoroji's Jail Cost of Living to the Lakdawala Committee. What were the structural limitations of calorie-anchored poverty lines?'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-11-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

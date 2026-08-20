@@ -2,7 +2,7 @@
   "id": "migrated-eng-ch-2",
   "type": "chapter",
   "domain": "english",
-  "title": "Chapter 2: Introductions",
+  "title": "Introductions",
   "summary": "Masterclass on writing high-scoring Essay Introductions using the 3-Sentence Formula (Hook, Definition, Thesis). Features exact model introductions for Digital Banking, UPI, Payments Banks, and Digital Rupee (e-Rupee).",
   "metadata": {
     "provenance": {
@@ -59,6 +59,11 @@
     {
       "type": "paragraph",
       "content": "In an era of increasingly digitized economies, RBI's e-Rupee acts as a trusted source for making digital transactions. Specifically, as a Central Bank Digital Currency (CBDC), it enables citizens to store money in a wallet backed by the central bank. This essay analyzes the impact of the e-Rupee on India's financial ecosystem while examining the key security challenges."
+    },
+    {
+      "id": "blk-migrated-eng-ch-2-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → ✍️ Scoring Rubric — Ensure strict adherence to word limits (250 words ± 10%), eliminate informal contractions, and maintain parallel grammatical structure throughout."
     }
   ]
 }

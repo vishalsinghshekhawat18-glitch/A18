@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-31",
   "type": "chapter",
   "domain": "economics",
-  "title": "31. Central Banking & RBI Functions",
+  "title": "Central Banking & RBI Functions",
   "summary": "The Reserve Bank of India acts as the central monetary authority, lender of last resort, banker to government, and regulator of the financial system.",
   "blocks": [
     {
@@ -57,15 +57,20 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** On which commission's recommendation was the Reserve Bank of India (RBI) established in 1935?  \n(A) Babington Smith Committee  \n(B) Royal Commission on Indian Finance and Currency (Hilton Young Commission)  \n(C) Chamberlain Commission  \n(D) Narasimham Committee  \n**Answer:** ** — Hilton Young Commission (1926) recommended setting up RBI."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** On which commission's recommendation was the Reserve Bank of India (RBI) established in 1935?  \n(A) Babington Smith Committee  \n(B) Royal Commission on Indian Finance and Currency (Hilton Young Commission)  \n(C) Chamberlain Commission  \n(D) Narasimham Committee  \n**Answer: — Hilton Young Commission (1926) recommended setting up RBI."
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** A commercial bank experiences a sudden panic run by depositors. Although solvent, it runs out of cash reserves. Which RBI function resolves this liquidity crisis?  \n**Resolution:** **Lender of Last Resort (LOLR)**. RBI provides emergency liquidity facility against eligible securities to prevent systemic bank failure."
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** A commercial bank experiences a sudden panic run by depositors. Although solvent, it runs out of cash reserves. Which RBI function resolves this liquidity crisis?  \n**Resolution:Lender of Last Resort (LOLR)**. RBI provides emergency liquidity facility against eligible securities to prevent systemic bank failure."
     },
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Trace the historical evolution and statutory powers of the Reserve Bank of India. Explain the role of RBI as Banker to Government and Lender of Last Resort.'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-31-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

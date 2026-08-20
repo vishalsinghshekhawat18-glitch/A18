@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-8",
   "type": "chapter",
   "domain": "economics",
-  "title": "8. What is Poverty? Dimensions, SDG Linkage & Poverty Gap",
+  "title": "What is Poverty? Dimensions, SDG Linkage & Poverty Gap",
   "summary": "Poverty is a multidimensional deprivation of basic human capabilities, measured across consumption thresholds, income gaps, and living standard indicators.",
   "blocks": [
     {
@@ -88,7 +88,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which index measures the exact financial deficit / depth of poverty relative to the poverty line rather than just counting the number of poor?  \n(A) Headcount Ratio ($HCR$)  \n(B) Poverty Gap Index ($PGI$)  \n(C) Gini Coefficient  \n(D) Human Development Index ($HDI$)  \n**Answer:** ** — $PGI$ measures the mean distance separating population from the poverty line."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which index measures the exact financial deficit / depth of poverty relative to the poverty line rather than just counting the number of poor?  \n(A) Headcount Ratio ($HCR$)  \n(B) Poverty Gap Index ($PGI$)  \n(C) Gini Coefficient  \n(D) Human Development Index ($HDI$)  \n**Answer: — $PGI$ measures the mean distance separating population from the poverty line."
     },
     {
       "type": "paragraph",
@@ -97,6 +97,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Analyze the transition from income-based poverty lines (Tendulkar/Rangarajan) to Multidimensional Poverty Indexing (MPI) in India. How does multidimensional measurement improve targeting of welfare interventions under SDG-1?'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-8-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

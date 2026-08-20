@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-27",
   "type": "chapter",
   "domain": "economics",
-  "title": "27. Foreign Direct Investment (FDI) & Foreign Portfolio Investment (FPI)",
+  "title": "Foreign Direct Investment (FDI) & Foreign Portfolio Investment (FPI)",
   "summary": "Foreign Direct Investment implies long-term management control with a 10%+ equity stake, whereas Foreign Portfolio Investment represents short-term liquid portfolio holdings.",
   "blocks": [
     {
@@ -69,7 +69,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** According to the Arvind Mayaram Committee norms, what is the numerical equity threshold that separates Foreign Direct Investment (FDI) from Foreign Portfolio Investment (FPI) in a listed Indian company?  \n(A) 5% equity  \n(B) 10% equity  \n(C) 26% equity  \n(D) 51% equity  \n**Answer:** ** — 10% equity stake is the dividing line (≥10% is FDI; <10% is FPI)."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** According to the Arvind Mayaram Committee norms, what is the numerical equity threshold that separates Foreign Direct Investment (FDI) from Foreign Portfolio Investment (FPI) in a listed Indian company?  \n(A) 5% equity  \n(B) 10% equity  \n(C) 26% equity  \n(D) 51% equity  \n**Answer: — 10% equity stake is the dividing line (≥10% is FDI; <10% is FPI)."
     },
     {
       "type": "paragraph",
@@ -78,6 +78,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Compare FDI and FPI in terms of capital stability and economic growth impact. Outline the prohibited sectors for FDI in India and the role of the FIFP portal.'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-27-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

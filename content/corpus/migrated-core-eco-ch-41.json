@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-41",
   "type": "chapter",
   "domain": "economics",
-  "title": "41. Financial Regulatory Bodies: SEBI, IRDAI, PFRDA & IFSCA",
+  "title": "Financial Regulatory Bodies: SEBI, IRDAI, PFRDA & IFSCA",
   "summary": "India's financial regulatory architecture assigns sectoral authority to SEBI, IRDAI, PFRDA, and IFSCA, coordinated by the Financial Stability and Development Council.",
   "blocks": [
     {
@@ -57,15 +57,20 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Who officially serves as the Chairperson of the Financial Stability and Development Council (FSDC)?  \n(A) Governor of the Reserve Bank of India  \n(B) Chairman of SEBI  \n(C) Union Minister of Finance  \n(D) Prime Minister of India  \n**Answer:** ** — FSDC is chaired by Union Finance Minister."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Who officially serves as the Chairperson of the Financial Stability and Development Council (FSDC)?  \n(A) Governor of the Reserve Bank of India  \n(B) Chairman of SEBI  \n(C) Union Minister of Finance  \n(D) Prime Minister of India  \n**Answer: — FSDC is chaired by Union Finance Minister."
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** A financial firm in GIFT City Gujarat offers combined offshore banking, securities trading, and insurance products to non-resident clients. Which single unified regulator oversees all these operations?  \n**Resolution:** **IFSCA** (International Financial Services Centres Authority), established as a unified regulator for IFSCs under the IFSCA Act 2019."
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** A financial firm in GIFT City Gujarat offers combined offshore banking, securities trading, and insurance products to non-resident clients. Which single unified regulator oversees all these operations?  \n**Resolution:IFSCA** (International Financial Services Centres Authority), established as a unified regulator for IFSCs under the IFSCA Act 2019."
     },
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Outline the jurisdictional structure of India's statutory financial regulators (RBI, SEBI, IRDAI, PFRDA, IFSCA). How does FSDC resolve inter-regulatory conflicts?'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-41-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

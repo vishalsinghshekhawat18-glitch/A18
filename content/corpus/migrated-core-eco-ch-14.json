@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-14",
   "type": "chapter",
   "domain": "economics",
-  "title": "14. The Informal Economy, Gig Economy & PLFS Data Trends",
+  "title": "The Informal Economy, Gig Economy & PLFS Data Trends",
   "summary": "Informal labor dominates Indian employment, while the emerging gig economy relies on platform mediation governed by the Code on Social Security 2020.",
   "blocks": [
     {
@@ -57,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which statutory labor code first legally recognized and defined 'Gig Workers' and 'Platform Workers' in India?  \n(A) Industrial Relations Code 2020  \n(B) Code on Social Security 2020  \n(C) Code on Wages 2019  \n(D) Occupational Safety Code 2020  \n**Answer:** ** — Code on Social Security 2020 introduced statutory recognition for gig and platform workers."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which statutory labor code first legally recognized and defined 'Gig Workers' and 'Platform Workers' in India?  \n(A) Industrial Relations Code 2020  \n(B) Code on Social Security 2020  \n(C) Code on Wages 2019  \n(D) Occupational Safety Code 2020  \n**Answer: — Code on Social Security 2020 introduced statutory recognition for gig and platform workers."
     },
     {
       "type": "paragraph",
@@ -66,6 +66,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Critically examine the opportunities and vulnerabilities of India's emerging gig economy. How does the e-Shram portal facilitate formalization of informal labor?'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-14-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

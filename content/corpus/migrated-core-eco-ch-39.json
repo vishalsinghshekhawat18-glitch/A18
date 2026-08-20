@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-39",
   "type": "chapter",
   "domain": "economics",
-  "title": "39. Money Market vs. Capital Market Architecture",
+  "title": "Money Market vs. Capital Market Architecture",
   "summary": "The financial market divides into short-term liquid money markets (<1 year) regulated by RBI and long-term capital markets (>1 year) regulated by SEBI.",
   "blocks": [
     {
@@ -57,15 +57,20 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which of the following money market instruments is an unsecured short-term promissory note issued specifically by highly-rated corporate entities?  \n(A) Treasury Bill (T-Bill)  \n(B) Certificate of Deposit (CD)  \n(C) Commercial Paper (CP)  \n(D) Sovereign Gold Bond  \n**Answer:** ** — Commercial Paper is issued by corporates."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which of the following money market instruments is an unsecured short-term promissory note issued specifically by highly-rated corporate entities?  \n(A) Treasury Bill (T-Bill)  \n(B) Certificate of Deposit (CD)  \n(C) Commercial Paper (CP)  \n(D) Sovereign Gold Bond  \n**Answer: — Commercial Paper is issued by corporates."
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** State Government X experiences a 60-day revenue shortfall and proposes issuing 91-day Treasury Bills. Evaluate the statutory validity under RBI regulations.  \n**Resolution:** **INVALID**. State Governments cannot issue T-Bills. State Government X must use **Ways and Means Advances (WMA)** from RBI or issue **State Development Loans (SDLs)**."
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** State Government X experiences a 60-day revenue shortfall and proposes issuing 91-day Treasury Bills. Evaluate the statutory validity under RBI regulations.  \n**Resolution:INVALID**. State Governments cannot issue T-Bills. State Government X must use **Ways and Means Advances (WMA)** from RBI or issue **State Development Loans (SDLs)**."
     },
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Compare the structural functions of the Money Market and Capital Market. Explain the key money market instruments used by RBI and commercial banks for short-term liquidity management.'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-39-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

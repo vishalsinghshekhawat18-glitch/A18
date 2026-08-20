@@ -2,7 +2,7 @@
   "id": "migrated-eng-ch-3",
   "type": "chapter",
   "domain": "english",
-  "title": "Chapter 3: Letters & Formal Correspondence",
+  "title": "Letters & Formal Correspondence",
   "summary": "Masterclass on Formal E-Mail Writing, Report Writing, and Banking Situation Analysis (from letters.pdf). Includes complete model leave request email, Financial Inclusion report, RBI Zero Liability complaint analysis, and grammar highlights.",
   "metadata": {
     "provenance": {
@@ -32,11 +32,11 @@
     {
       "type": "bullet_list",
       "items": [
-        "**To:** branchmanager.delhi@sbi.co.in",
-        "**Subject:** Request for Leave of Absence - Amit Kumar, PO",
-        "**CC:** hr.attendance@sbi.co.in",
-        "**BCC:** Not required",
-        "**Word Limit:** 150 – 200 words"
+        "**To:** branchmanager.delhi@sbi.co.in.",
+        "**Subject:** Request for Leave of Absence - Amit Kumar, PO.",
+        "**CC:** hr.attendance@sbi.co.in.",
+        "**BCC:** Not required.",
+        "**Word Limit:** 150 – 200 words."
       ]
     },
     {
@@ -56,9 +56,9 @@
     {
       "type": "bullet_list",
       "items": [
-        "**Byline:** By Riya Sharma, Special Correspondent, The Financial Times",
-        "**Dateline:** NEW DELHI, June 5",
-        "**Word Limit:** Approx 150 words"
+        "**Byline:** By Riya Sharma, Special Correspondent, The Financial Times.",
+        "**Dateline:** NEW DELHI, June 5.",
+        "**Word Limit:** Approx 150 words."
       ]
     },
     {
@@ -79,7 +79,7 @@
       "type": "bullet_list",
       "items": [
         "**Scenario:** A panicked customer reports a fraudulent, unauthorized deduction of ₹25,000 from their savings account.",
-        "**Word Limit:** Approx 150 words"
+        "**Word Limit:** Approx 150 words."
       ]
     },
     {
@@ -141,6 +141,11 @@
     {
       "type": "paragraph",
       "content": "### 💡 Grammar Identification Highlights:\n- **Passive Voice Construction:** *\"...over 500 million new bank accounts have been opened...\"* (Used in formal reporting to emphasize the action over the doer). Source: Report Writing\n- **Gerund Phrase:** *\"...bridging the deep-rooted gap...\"* (A verb ending in -ing functioning as a noun phrase). Source: Report Writing\n- **Modal of Obligation:** *\"The bank must swiftly ascertain...\"* (Indicates strong necessity or duty). Source: Situation Analysis\n- **Infinitive of Purpose:** *\"...to prevent further unauthorized debits.\"* (Shows the reason for an action). Source: Situation Analysis"
+    },
+    {
+      "id": "blk-migrated-eng-ch-3-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → ✍️ Scoring Rubric — Ensure strict adherence to word limits (250 words ± 10%), eliminate informal contractions, and maintain parallel grammatical structure throughout."
     }
   ]
 }

@@ -2,7 +2,7 @@
   "id": "migrated-quant-qsec2-2",
   "type": "quant_topic",
   "domain": "quant",
-  "title": "2.2 Arithmetic Shortcuts & Time-Work Tricks",
+  "title": "2 Arithmetic Shortcuts & Time-Work Tricks",
   "summary": "Quant — 2.2 Arithmetic Shortcuts & Time-Work Tricks",
   "blocks": [
     {
@@ -14,11 +14,16 @@
     {
       "type": "bullet_list",
       "items": [
-        "**2-Year CI − SI Difference Shortcut:** $D_2 = P \\left(\\frac{R}{100}\\right)^2$",
-        "**3-Year CI − SI Difference Shortcut:** $D_3 = P \\left(\\frac{R}{100}\\right)^2 \\left(\\frac{300 + R}{100}\\right) = D_2 \\times \\frac{300+R}{100}$",
+        "**2-Year CI − SI Difference Shortcut:** $D_2 = P \\left(\\frac{R}{100}\\right)^2$.",
+        "**3-Year CI − SI Difference Shortcut:** $D_3 = P \\left(\\frac{R}{100}\\right)^2 \\left(\\frac{300 + R}{100}\\right) = D_2 \\times \\frac{300+R}{100}$.",
         "**Time-Work LCM Method:** Assume total work = LCM of given completion days; Efficiency = $\\frac{\\text{Total Work}}{\\text{Days Taken}}$.",
         "📝 **Worked Example (Time-Work LCM Method):** A takes 10 days and B takes 15 days to complete a job. How long will they take working together?\n*Method:* Recognize Time-Work $\\rightarrow$ Total Work = $\\text{LCM}(10, 15) = 30\\text{ units}$. Efficiency: $A = 3\\text{ units/day}, B = 2\\text{ units/day}$. Combined efficiency = $5\\text{ units/day} \\implies \\text{Time} = \\frac{30}{5} = 6\\text{ days}$."
       ]
+    },
+    {
+      "id": "blk-migrated-quant-qsec2-2-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → ⚡ Calculation Trap — Watch for base-year shifts, percentage of vs percentage more than traps, and units conversion (km/h ➔ m/s) in time-speed-distance."
     }
   ],
   "metadata": {

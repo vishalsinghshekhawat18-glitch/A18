@@ -2,7 +2,7 @@
   "id": "migrated-pyqs-qsec8-3",
   "type": "pyq_item",
   "domain": "pyqs",
-  "title": "8.3 Data Interpretation & Algebra PYQs",
+  "title": "3 Data Interpretation & Algebra PYQs",
   "summary": "PYQs — 8.3 Data Interpretation & Algebra PYQs",
   "blocks": [
     {
@@ -32,6 +32,11 @@
         }
       ],
       "answer": "Differences: 1,2,6,24,120,720,5040 = 1!,2!,3!,4!,5!,6!,7!.\n5+1!=6✓, 6+2!=8✓, 8+3!=14✓, 14+4!=38✓, 38+5!=158 (not 168 — wrong term).\nSo 168 should be 158."
+    },
+    {
+      "id": "blk-migrated-pyqs-qsec8-3-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → Key factual relationships, headquarters, statutory classifications, and numerical benchmarks in 3 Data Interpretation & Algebra PYQs are critical for Bank PO & RBI Grade B."
     }
   ],
   "metadata": {

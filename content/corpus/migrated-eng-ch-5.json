@@ -2,7 +2,7 @@
   "id": "migrated-eng-ch-5",
   "type": "chapter",
   "domain": "english",
-  "title": "Chapter 5: High-Yield Banking & Financial Wordlist",
+  "title": "High-Yield Banking & Financial Wordlist",
   "summary": "Curated Financial, Regulatory, and Economic Vocabulary for RBI Grade B and Bank PO Reading Comprehension & Cloze Test.",
   "metadata": {
     "provenance": {
@@ -41,6 +41,11 @@
     {
       "type": "paragraph",
       "content": "- **Definition:** *Insolvency* is a state of financial distress where liabilities exceed assets. *Bankruptcy* is the legal declaration and court process of resolving insolvency under the IBC 2016.\n- **Usage:** *'The Insolvency and Bankruptcy Code (IBC) provides a time-bound 180-day resolution framework for corporate debtors.'*"
+    },
+    {
+      "id": "blk-migrated-eng-ch-5-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → ✍️ Scoring Rubric — Ensure strict adherence to word limits (250 words ± 10%), eliminate informal contractions, and maintain parallel grammatical structure throughout."
     }
   ]
 }

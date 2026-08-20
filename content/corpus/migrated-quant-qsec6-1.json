@@ -2,16 +2,21 @@
   "id": "migrated-quant-qsec6-1",
   "type": "quant_topic",
   "domain": "quant",
-  "title": "6.1 Core Evaluation Rules",
+  "title": "1 Core Evaluation Rules",
   "summary": "Quant — 6.1 Core Evaluation Rules",
   "blocks": [
     {
       "type": "bullet_list",
       "items": [
-        "**Standard answer choices**: I alone sufficient (II not); II alone sufficient (I not); either alone sufficient; both together needed; neither alone nor together sufficient",
-        "**Evaluation order**: test statement I alone first, then II alone independently — only combine if both fail alone",
-        "**Meaning of 'Sufficient'**: gives exactly ONE definite answer; multiple possible values = not sufficient, even for yes/no questions"
+        "**Standard answer choices**: I alone sufficient (II not); II alone sufficient (I not); either alone sufficient; both together needed; neither alone nor together sufficient.",
+        "**Evaluation order**: test statement I alone first, then II alone independently — only combine if both fail alone.",
+        "**Meaning of 'Sufficient'**: gives exactly ONE definite answer; multiple possible values = not sufficient, even for yes/no questions."
       ]
+    },
+    {
+      "id": "blk-migrated-quant-qsec6-1-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → ⚡ Calculation Trap — Watch for base-year shifts, percentage of vs percentage more than traps, and units conversion (km/h ➔ m/s) in time-speed-distance."
     }
   ],
   "metadata": {

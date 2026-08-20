@@ -2,7 +2,7 @@
   "id": "migrated-core-his-ch-1",
   "type": "chapter",
   "domain": "history",
-  "title": "1. What, Where, How and When? (Historical Methodology & Geography)",
+  "title": "What, Where, How and When? (Historical Methodology & Geography)",
   "summary": "History is reconstructed through primary sources (manuscripts, inscriptions, archaeology) and geographical physical constraints.",
   "blocks": [
     {
@@ -85,6 +85,11 @@
       "type": "heading",
       "level": 3,
       "text": "❓ 7. 3-Tier Practice & Retention Section\n- **Tier 1 (Recall MCQ):** Rice cultivation was first practiced in India north of which mountain range? (A: Western Ghats, **B: Vindhyas**, C: Aravallis, D: Himalayas) [Correct: B].\n- **Tier 2 (Applied Scenario):** Explain why birch bark manuscripts were predominantly produced in the Himalayan region.\n- **Tier 3 (Mains Prompt):** *'Reconstruct the relationship between geographical barriers and the rise of early riverine civilizations in India.'*"
+    },
+    {
+      "id": "blk-migrated-core-his-ch-1-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Chronological order of Governor-Generals, Viceroys, landmark treaties, and British legislative acts (1773 to 1947) are recurring MCQ traps."
     }
   ],
   "metadata": {

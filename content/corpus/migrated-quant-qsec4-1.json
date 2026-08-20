@@ -2,18 +2,23 @@
   "id": "migrated-quant-qsec4-1",
   "type": "quant_topic",
   "domain": "quant",
-  "title": "4.1 Core Formulas & Identities",
+  "title": "1 Core Formulas & Identities",
   "summary": "Quant — 4.1 Core Formulas & Identities",
   "blocks": [
     {
       "type": "bullet_list",
       "items": [
-        "**Basic identities**: (a+b)²=a²+2ab+b²; (a−b)²=a²−2ab+b²; a²−b²=(a+b)(a−b); (a+b)²−(a−b)²=4ab",
-        "**Cube identities**: a³+b³=(a+b)(a²−ab+b²); a³−b³=(a−b)(a²+ab+b²); (a+b)³=a³+3a²b+3ab²+b³",
-        "**Quadratic formula**: for ax²+bx+c=0, x = [−b±√(b²−4ac)]/2a; D = b²−4ac",
-        "**Sum & product of roots**: sum=−b/a, product=c/a; equation from roots: x²−(sum)x+(product)=0",
-        "**Nature of roots**: D>0 real unequal; D=0 real equal; D<0 no real roots; D perfect square → rational roots"
+        "**Basic identities**: (a+b)²=a²+2ab+b²; (a−b)²=a²−2ab+b²; a²−b²=(a+b)(a−b); (a+b)²−(a−b)²=4ab.",
+        "**Cube identities**: a³+b³=(a+b)(a²−ab+b²); a³−b³=(a−b)(a²+ab+b²); (a+b)³=a³+3a²b+3ab²+b³.",
+        "**Quadratic formula**: for ax²+bx+c=0, x = [−b±√(b²−4ac)]/2a; D = b²−4ac.",
+        "**Sum & product of roots**: sum=−b/a, product=c/a; equation from roots: x²−(sum)x+(product)=0.",
+        "**Nature of roots**: D>0 real unequal; D=0 real equal; D<0 no real roots; D perfect square → rational roots."
       ]
+    },
+    {
+      "id": "blk-migrated-quant-qsec4-1-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → ⚡ Calculation Trap — Watch for base-year shifts, percentage of vs percentage more than traps, and units conversion (km/h ➔ m/s) in time-speed-distance."
     }
   ],
   "metadata": {

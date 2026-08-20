@@ -8,11 +8,16 @@
     {
       "type": "bullet_list",
       "items": [
-        "CEILING -> MSF / Bank Rate = 5.75% (Emergency borrowing)",
-        "ANCHOR -> Policy Repo Rate = 5.25% (Normal overnight borrowing)",
-        "FLOOR -> SDF Rate = 5.00% (Parking surplus funds)",
-        "LAF Corridor Width = ±50 bps around Policy Repo Rate"
+        "CEILING -> MSF / Bank Rate = 5.75% (Emergency borrowing).",
+        "ANCHOR -> Policy Repo Rate = 5.25% (Normal overnight borrowing).",
+        "FLOOR -> SDF Rate = 5.00% (Parking surplus funds).",
+        "LAF Corridor Width = ±50 bps around Policy Repo Rate."
       ]
+    },
+    {
+      "id": "blk-migrated-staticga-ch14-sub2-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → Key factual relationships, headquarters, statutory classifications, and numerical benchmarks in LAF Corridor Visualised are critical for Bank PO & RBI Grade B."
     }
   ],
   "metadata": {

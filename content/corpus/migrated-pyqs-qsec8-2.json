@@ -2,7 +2,7 @@
   "id": "migrated-pyqs-qsec8-2",
   "type": "pyq_item",
   "domain": "pyqs",
-  "title": "8.2 Arithmetic PYQs",
+  "title": "2 Arithmetic PYQs",
   "summary": "PYQs — 8.2 Arithmetic PYQs",
   "blocks": [
     {
@@ -18,6 +18,11 @@
         }
       ],
       "answer": "Time(B)=20(1+2x%), Time(C)=20(1+2x%)(1+x%). Given Time(C)=Time(A)+Time(B):\n(1+2x%)(1+x%) = 2(1+x%) → 1+2x% = 2 → x=50.\nB=40 days, C=60 days. LCM(20,40,60)=120 units work. Efficiencies: A=6, B=3, C=2 → combined=11/day.\nTime for 11× the work = 11×120/11 = 120 days."
+    },
+    {
+      "id": "blk-migrated-pyqs-qsec8-2-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → Key factual relationships, headquarters, statutory classifications, and numerical benchmarks in 2 Arithmetic PYQs are critical for Bank PO & RBI Grade B."
     }
   ],
   "metadata": {

@@ -2,7 +2,7 @@
   "id": "migrated-eng-ch-1",
   "type": "chapter",
   "domain": "english",
-  "title": "Chapter 1: Framework",
+  "title": "Framework",
   "summary": "The 250-Word / 18-Min Essay Writing Framework. Includes exact Word & Time Distribution Table, Introduction 3-Sentence Formula, PEEL Body Paragraph Structure, Challenges & Solutions Mitigation, and Conclusion Circular Callback.",
   "metadata": {
     "provenance": {
@@ -127,6 +127,11 @@
         "**Sentence 2: The Circular Callback:** Briefly refer back to the hook or definition used in your introduction.",
         "**Sentence 3: The Forward-Looking Line:** End with an optimistic, policy-driven vision statement (e.g., \"Only by secure, accessible, and literacy-driven banking can India transition from digital access to true financial empowerment.\")."
       ]
+    },
+    {
+      "id": "blk-migrated-eng-ch-1-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → ✍️ Scoring Rubric — Ensure strict adherence to word limits (250 words ± 10%), eliminate informal contractions, and maintain parallel grammatical structure throughout."
     }
   ]
 }

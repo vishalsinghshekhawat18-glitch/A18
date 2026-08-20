@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-25",
   "type": "chapter",
   "domain": "economics",
-  "title": "25. Land Reforms & Green Revolution in India",
+  "title": "Land Reforms & Green Revolution in India",
   "summary": "Land reforms restructured agrarian ownership through Zamindari abolition, while the Green Revolution boosted food grain yields via High Yielding Variety seeds.",
   "blocks": [
     {
@@ -57,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which Constitutional Amendment enacted in 1951 introduced the Ninth Schedule to protect state land reform legislation from judicial challenge?  \n(A) First Amendment Act 1951  \n(B) Forty-Second Amendment Act 1976  \n(C) Forty-Fourth Amendment Act 1978  \n(D) Seventy-Third Amendment Act 1992  \n**Answer:** ** — 1st Constitutional Amendment Act 1951 added the Ninth Schedule."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which Constitutional Amendment enacted in 1951 introduced the Ninth Schedule to protect state land reform legislation from judicial challenge?  \n(A) First Amendment Act 1951  \n(B) Forty-Second Amendment Act 1976  \n(C) Forty-Fourth Amendment Act 1978  \n(D) Seventy-Third Amendment Act 1992  \n**Answer: — 1st Constitutional Amendment Act 1951 added the Ninth Schedule."
     },
     {
       "type": "paragraph",
@@ -66,6 +66,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Evaluate the socio-economic impacts of land reforms in post-independent India. How did the Green Revolution transform national food security while creating regional disparities?'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-25-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

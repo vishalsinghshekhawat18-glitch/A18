@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-30",
   "type": "chapter",
   "domain": "economics",
-  "title": "30. Functions of Money & Evolutionary Arc of Payment Systems",
+  "title": "Functions of Money & Evolutionary Arc of Payment Systems",
   "summary": "Money serves as a medium of exchange, unit of account, and store of value, evolving from commodity barter to central bank digital currencies (e-Rupee).",
   "blocks": [
     {
@@ -62,15 +62,20 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which of the following is legally classified as 'Unlimited Legal Tender' in India under Section 26 of the RBI Act 1934?  \n(A) Bank Cheques  \n(B) Demand Drafts  \n(C) RBI Currency Notes (₹10, ₹100, ₹500)  \n(D) Bitcoin  \n**Answer:** ** — RBI Currency Notes are unlimited legal tender for debt settlement."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which of the following is legally classified as 'Unlimited Legal Tender' in India under Section 26 of the RBI Act 1934?  \n(A) Bank Cheques  \n(B) Demand Drafts  \n(C) RBI Currency Notes (₹10, ₹100, ₹500)  \n(D) Bitcoin  \n**Answer: — RBI Currency Notes are unlimited legal tender for debt settlement."
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** A shopkeeper refuses to accept a payment of ₹5,000 made entirely in 50-paise coins. Is his refusal legally valid under Indian law?  \n**Resolution:** **YES**. Under the Coinage Act 2011, 50-paise coins are limited legal tender up to a maximum limit of **₹10** only."
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** A shopkeeper refuses to accept a payment of ₹5,000 made entirely in 50-paise coins. Is his refusal legally valid under Indian law?  \n**Resolution:YES**. Under the Coinage Act 2011, 50-paise coins are limited legal tender up to a maximum limit of **₹10** only."
     },
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Trace the evolutionary arc of money from commodity barter to Central Bank Digital Currencies (CBDC). How does e-Rupee differ from commercial bank electronic deposits?'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-30-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

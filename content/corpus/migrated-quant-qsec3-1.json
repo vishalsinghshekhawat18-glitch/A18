@@ -2,7 +2,7 @@
   "id": "migrated-quant-qsec3-1",
   "type": "quant_topic",
   "domain": "quant",
-  "title": "3.1 Core Concepts & Formats",
+  "title": "1 Core Concepts & Formats",
   "summary": "Quant — 3.1 Core Concepts & Formats",
   "blocks": [
     {
@@ -34,12 +34,17 @@
     {
       "type": "bullet_list",
       "items": [
-        "**Tabular DI**: read all headers first; missing values from given totals/ratios; cross-check row=column=grand total",
-        "**Pie chart**: degree = (value/total)×360°; % = degree/3.6; 1% = 3.6°",
-        "**Bar/line graph**: growth% = (new−old)/old×100; CAGR ≈ [(final/initial)^(1/n)−1]×100; watch dual-axis units",
-        "**Caselet DI**: extract facts into a small table; track relations as equations; solve in the order revealed",
-        "**Missing DI (interlinked sets)**: fill known values first, use total/ratio constraints for the rest"
+        "**Tabular DI**: read all headers first; missing values from given totals/ratios; cross-check row=column=grand total.",
+        "**Pie chart**: degree = (value/total)×360°; % = degree/3.6; 1% = 3.6°.",
+        "**Bar/line graph**: growth% = (new−old)/old×100; CAGR ≈ [(final/initial)^(1/n)−1]×100; watch dual-axis units.",
+        "**Caselet DI**: extract facts into a small table; track relations as equations; solve in the order revealed.",
+        "**Missing DI (interlinked sets)**: fill known values first, use total/ratio constraints for the rest."
       ]
+    },
+    {
+      "id": "blk-migrated-quant-qsec3-1-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → ⚡ Calculation Trap — Watch for base-year shifts, percentage of vs percentage more than traps, and units conversion (km/h ➔ m/s) in time-speed-distance."
     }
   ],
   "metadata": {

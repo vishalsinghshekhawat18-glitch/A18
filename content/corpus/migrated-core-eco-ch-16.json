@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-16",
   "type": "chapter",
   "domain": "economics",
-  "title": "16. CPI vs. WPI Inflation Indices & Food Inflation Dynamics",
+  "title": "CPI vs. WPI Inflation Indices & Food Inflation Dynamics",
   "summary": "Consumer Price Index (CPI) measures retail buyer price changes across 2012 weights, while Wholesale Price Index (WPI) measures producer bulk transaction prices.",
   "blocks": [
     {
@@ -57,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which index is published by the Labour Bureau (Ministry of Labour & Employment) and used to determine Dearness Allowance (DA) for central government employees?  \n(A) CPI Combined (NSO)  \n(B) CPI for Industrial Workers (CPI-IW)  \n(C) Wholesale Price Index (WPI)  \n(D) GDP Deflator  \n**Answer:** ** — CPI-IW (Base 2016) is published by Labour Bureau for DA calculation."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which index is published by the Labour Bureau (Ministry of Labour & Employment) and used to determine Dearness Allowance (DA) for central government employees?  \n(A) CPI Combined (NSO)  \n(B) CPI for Industrial Workers (CPI-IW)  \n(C) Wholesale Price Index (WPI)  \n(D) GDP Deflator  \n**Answer: — CPI-IW (Base 2016) is published by Labour Bureau for DA calculation."
     },
     {
       "type": "paragraph",
@@ -66,6 +66,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Compare the structural weightage and coverage of CPI and WPI in India. Why did RBI select CPI Combined as its policy anchor under Flexible Inflation Targeting?'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-16-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

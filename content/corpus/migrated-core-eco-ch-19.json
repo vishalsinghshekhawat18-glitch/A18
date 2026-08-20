@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-19",
   "type": "chapter",
   "domain": "economics",
-  "title": "19. Inclusive Growth, Financial Inclusion & JAM Trinity",
+  "title": "Inclusive Growth, Financial Inclusion & JAM Trinity",
   "summary": "Inclusive growth ensures broad-based economic participation, accelerated by financial inclusion through the Jan Dhan-Aadhaar-Mobile (JAM) infrastructure.",
   "blocks": [
     {
@@ -65,7 +65,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which sub-parameter holds the highest weightage (45%) in the annual Financial Inclusion Index (FI-Index) published by RBI?  \n(A) Access  \n(B) Usage  \n(C) Quality  \n(D) Literacy  \n**Answer:** ** — Usage holds 45% weightage, Access holds 35%, Quality holds 20%."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which sub-parameter holds the highest weightage (45%) in the annual Financial Inclusion Index (FI-Index) published by RBI?  \n(A) Access  \n(B) Usage  \n(C) Quality  \n(D) Literacy  \n**Answer: — Usage holds 45% weightage, Access holds 35%, Quality holds 20%."
     },
     {
       "type": "paragraph",
@@ -74,6 +74,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Evaluate the role of the JAM Trinity in accelerating financial inclusion and transforming social welfare delivery in India.'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-19-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

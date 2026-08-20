@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-32",
   "type": "chapter",
   "domain": "economics",
-  "title": "32. Money Supply Aggregates (M0, M1, M2, M3, M4)",
+  "title": "Money Supply Aggregates (M0, M1, M2, M3, M4)",
   "summary": "Money supply measures the total stock of monetary assets available in an economy, categorized by RBI across liquidity and broadness spectrums.",
   "blocks": [
     {
@@ -93,7 +93,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which monetary aggregate is legally defined as 'Broad Money' ($M3$)?  \n(A) $M1 + \\text{Post Office Savings Deposits}$  \n(B) $M1 + \\text{Time Deposits with Banking System}$  \n(C) $\\text{Currency with Public} + \\text{Demand Deposits}$  \n(D) $M0 + \\text{Total Post Office Deposits}$  \n**Answer:** ** — $M3 = M1 + \\text{Net Time Deposits with Commercial Banks}$."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which monetary aggregate is legally defined as 'Broad Money' ($M3$)?  \n(A) $M1 + \\text{Post Office Savings Deposits}$  \n(B) $M1 + \\text{Time Deposits with Banking System}$  \n(C) $\\text{Currency with Public} + \\text{Demand Deposits}$  \n(D) $M0 + \\text{Total Post Office Deposits}$  \n**Answer: — $M3 = M1 + \\text{Net Time Deposits with Commercial Banks}$."
     },
     {
       "type": "paragraph",
@@ -102,6 +102,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Compare the traditional monetary aggregates (M1-M4) with the Y.V. Reddy Working Group recommendations (NM1-NM3, L1-L3). How does digital currency (e-Rupee / CBDC) impact money multiplier dynamics?'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-32-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

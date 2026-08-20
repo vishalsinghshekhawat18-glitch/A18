@@ -2,7 +2,7 @@
   "id": "migrated-quant-qsec2-3",
   "type": "quant_topic",
   "domain": "quant",
-  "title": "2.3 Worked Examples",
+  "title": "3 Worked Examples",
   "summary": "Quant — 2.3 Worked Examples",
   "blocks": [
     {
@@ -60,6 +60,11 @@
         }
       ],
       "answer": "Milk left = 80(1−8/80)² = 80(0.81) = 64.8L.\n*Pattern: repeated-replacement uses (1−x/n)ⁿ directly.*"
+    },
+    {
+      "id": "blk-migrated-quant-qsec2-3-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → ⚡ Calculation Trap — Watch for base-year shifts, percentage of vs percentage more than traps, and units conversion (km/h ➔ m/s) in time-speed-distance."
     }
   ],
   "metadata": {

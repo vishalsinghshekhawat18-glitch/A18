@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-20",
   "type": "chapter",
   "domain": "economics",
-  "title": "20. Sustainable Development, Climate Economics & Carbon Markets",
+  "title": "Sustainable Development, Climate Economics & Carbon Markets",
   "summary": "Sustainable development balances economic expansion with environmental preservation, operationalized through carbon pricing and international climate commitments.",
   "blocks": [
     {
@@ -57,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which organization serves as the official Administrator of India's Carbon Credit Trading Scheme (CCTS 2023)?  \n(A) NITI Aayog  \n(B) Bureau of Energy Efficiency (BEE)  \n(C) Central Pollution Control Board (CPCB)  \n(D) Reserve Bank of India  \n**Answer:** ** — BEE administers the CCTS framework."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which organization serves as the official Administrator of India's Carbon Credit Trading Scheme (CCTS 2023)?  \n(A) NITI Aayog  \n(B) Bureau of Energy Efficiency (BEE)  \n(C) Central Pollution Control Board (CPCB)  \n(D) Reserve Bank of India  \n**Answer: — BEE administers the CCTS framework."
     },
     {
       "type": "paragraph",
@@ -66,6 +66,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Examine the mechanics of carbon credit trading under Article 6 of the Paris Agreement. How does CCTS 2023 accelerate India's progress toward its Panchamrit climate targets?'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-20-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

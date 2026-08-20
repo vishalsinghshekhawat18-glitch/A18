@@ -2,7 +2,7 @@
   "id": "migrated-core-geo-ch-1",
   "type": "chapter",
   "domain": "geography",
-  "title": "1. Origin & Evolution of Earth & Solar System",
+  "title": "Origin & Evolution of Earth & Solar System",
   "summary": "Origin & Evolution of Earth & Solar System is a core geophysical process analyzed in UPSC CSE & State PCS examinations.",
   "blocks": [
     {
@@ -85,6 +85,11 @@
       "type": "heading",
       "level": 3,
       "text": "❓ 7. 3-Tier Practice & Retention Section\n- **Tier 1 (Recall MCQ):** Which physical factor primarily drives Origin & Evolution of Earth & Solar System? (A: Gravitational pull of moon, **B: Solar radiation & planetary dynamics**, C: Earth magnetic poles) [Correct: B].\n- **Tier 2 (Applied Scenario):** Analyze the spatial variation of Origin & Evolution of Earth & Solar System across Indian physiographic zones.\n- **Tier 3 (Mains Prompt):** *'Critically evaluate the physical mechanisms of Origin & Evolution of Earth & Solar System and their socio-economic significance for India.'*"
+    },
+    {
+      "id": "blk-migrated-core-geo-ch-1-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Verify river origin points, left-bank vs right-bank tributaries, mountain pass elevations, and soil distribution patterns across Indian states."
     }
   ],
   "metadata": {

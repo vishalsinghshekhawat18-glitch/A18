@@ -2,7 +2,7 @@
   "id": "migrated-core-rev-ch-5",
   "type": "chapter",
   "domain": "revision",
-  "title": "5. Rapid Revision — Science, Technology & Environment Traps",
+  "title": "Rapid Revision — Science, Technology & Environment Traps",
   "summary": "High-yield rapid revision matrix targeting biotechnology (CRISPR), ISRO launch vehicle payloads, wildlife protection schedules, and ecological conservation zones.",
   "blocks": [
     {
@@ -57,15 +57,20 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** How many schedules are there in the Wildlife Protection (Amendment) Act 2022, following the rationalization from the original six schedules of the 1972 Act?  \n(A) 3 Schedules  \n(B) 4 Schedules  \n(C) 5 Schedules  \n(D) 6 Schedules  \n**Answer:** ** — The 2022 Amendment rationalized the Wildlife Protection Act into 4 schedules."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** How many schedules are there in the Wildlife Protection (Amendment) Act 2022, following the rationalization from the original six schedules of the 1972 Act?  \n(A) 3 Schedules  \n(B) 4 Schedules  \n(C) 5 Schedules  \n(D) 6 Schedules  \n**Answer: — The 2022 Amendment rationalized the Wildlife Protection Act into 4 schedules."
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** A biotechnology lab uses a guide RNA (gRNA) molecule to direct an endonuclease enzyme to cut double-stranded DNA at a specific gene locus. Name the molecular technology.  \n**Resolution:** **CRISPR-Cas9** (Clustered Regularly Interspaced Short Palindromic Repeats - Cas9)."
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** A biotechnology lab uses a guide RNA (gRNA) molecule to direct an endonuclease enzyme to cut double-stranded DNA at a specific gene locus. Name the molecular technology.  \n**Resolution:CRISPR-Cas9** (Clustered Regularly Interspaced Short Palindromic Repeats - Cas9)."
     },
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Compare the stage configurations and payload capabilities of PSLV and LVM3. Explain the 4 schedules introduced under the Wildlife Protection Amendment Act 2022.'*"
+    },
+    {
+      "id": "blk-migrated-core-rev-ch-5-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → Key factual relationships, headquarters, statutory classifications, and numerical benchmarks in Rapid Revision — Science, Technology & Environment Traps are critical for Bank PO & RBI Grade B."
     }
   ],
   "metadata": {

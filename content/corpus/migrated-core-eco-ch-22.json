@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-22",
   "type": "chapter",
   "domain": "economics",
-  "title": "22. Public Sector Enterprises & Disinvestment Architecture",
+  "title": "Public Sector Enterprises & Disinvestment Architecture",
   "summary": "Public Sector Enterprises are classified under financial autonomy tiers, while state disinvestment policies manage privatization and strategic asset sales via DIPAM.",
   "blocks": [
     {
@@ -62,7 +62,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which nodal department under the Ministry of Finance manages government equity investments, disinvestments, and asset monetization in CPSEs?  \n(A) Department of Economic Affairs (DEA)  \n(B) Department of Investment and Public Asset Management (DIPAM)  \n(C) Department of Financial Services (DFS)  \n(D) NITI Aayog  \n**Answer:** ** — DIPAM manages disinvestment and public asset monetization."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which nodal department under the Ministry of Finance manages government equity investments, disinvestments, and asset monetization in CPSEs?  \n(A) Department of Economic Affairs (DEA)  \n(B) Department of Investment and Public Asset Management (DIPAM)  \n(C) Department of Financial Services (DFS)  \n(D) NITI Aayog  \n**Answer: — DIPAM manages disinvestment and public asset monetization."
     },
     {
       "type": "paragraph",
@@ -71,6 +71,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Evaluate the New Public Sector Enterprise Policy 2021. Differentiate between Minority Disinvestment and Strategic Disinvestment with recent Indian case studies.'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-22-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

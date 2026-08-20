@@ -2,7 +2,7 @@
   "id": "migrated-pyqs-qsec8-1",
   "type": "pyq_item",
   "domain": "pyqs",
-  "title": "8.1 Mensuration PYQs",
+  "title": "1 Mensuration PYQs",
   "summary": "PYQs — 8.1 Mensuration PYQs",
   "blocks": [
     {
@@ -32,6 +32,11 @@
         }
       ],
       "answer": "Initial mixture = 117 ml. Total vessel volume = 117+37 = 154 cm³.\nπr²h = 154 → (22/7)(0.7)²h = 154 → h = 100 cm."
+    },
+    {
+      "id": "blk-migrated-pyqs-qsec8-1-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → Key factual relationships, headquarters, statutory classifications, and numerical benchmarks in 1 Mensuration PYQs are critical for Bank PO & RBI Grade B."
     }
   ],
   "metadata": {

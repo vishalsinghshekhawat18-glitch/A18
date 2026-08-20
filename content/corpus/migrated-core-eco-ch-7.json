@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-7",
   "type": "chapter",
   "domain": "economics",
-  "title": "7. Real vs Nominal GDP, GDP Deflator & Green GDP",
+  "title": "Real vs Nominal GDP, GDP Deflator & Green GDP",
   "summary": "Real GDP adjusts nominal output for inflation using constant base year prices, while the GDP Deflator measures economy-wide price changes across all domestic output.",
   "blocks": [
     {
@@ -72,7 +72,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Why is the GDP Deflator considered a broader measure of economy-wide inflation than the Consumer Price Index (CPI)?  \n(A) It includes imported consumer goods  \n(B) It covers all domestically produced goods and services including capital goods  \n(C) It uses a fixed basket of goods from 2004  \n(D) It is published weekly by RBI  \n**Answer:** ** — GDP Deflator reflects prices of all domestic output, not just household consumer items."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Why is the GDP Deflator considered a broader measure of economy-wide inflation than the Consumer Price Index (CPI)?  \n(A) It includes imported consumer goods  \n(B) It covers all domestically produced goods and services including capital goods  \n(C) It uses a fixed basket of goods from 2004  \n(D) It is published weekly by RBI  \n**Answer: — GDP Deflator reflects prices of all domestic output, not just household consumer items."
     },
     {
       "type": "paragraph",
@@ -81,6 +81,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Distinguish between Real GDP, Nominal GDP, and Green GDP. Why does standard GDP fail to reflect sustainable development, and how does Green GDP address this limitation?'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-7-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

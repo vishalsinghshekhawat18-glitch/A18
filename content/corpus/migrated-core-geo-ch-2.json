@@ -2,7 +2,7 @@
   "id": "migrated-core-geo-ch-2",
   "type": "chapter",
   "domain": "geography",
-  "title": "2. Interior of the Earth: Seismic Waves & Discontinuities",
+  "title": "Interior of the Earth: Seismic Waves & Discontinuities",
   "summary": "Earth's interior structure (Crust, Mantle, Core) is mapped using body seismic wave velocities and shadow zone boundaries.",
   "blocks": [
     {
@@ -81,6 +81,11 @@
       "type": "heading",
       "level": 3,
       "text": "❓ 7. 3-Tier Practice & Retention Section\n- **Tier 1 (Recall MCQ):** S-waves disappear completely at which discontinuity boundary? (A: Moho, B: Repetti, **C: Gutenberg**, D: Lehmann) [Correct: C].\n- **Tier 2 (Applied Scenario):** Differentiate between P-wave shadow zone (103°–142°) and S-wave shadow zone (103°–180°).\n- **Tier 3 (Mains Prompt):** *'Explain how seismic wave velocity variations help reconstruct the density and physical state of Earth's interior layers.'*"
+    },
+    {
+      "id": "blk-migrated-core-geo-ch-2-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Verify river origin points, left-bank vs right-bank tributaries, mountain pass elevations, and soil distribution patterns across Indian states."
     }
   ],
   "metadata": {

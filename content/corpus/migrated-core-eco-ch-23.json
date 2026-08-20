@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-23",
   "type": "chapter",
   "domain": "economics",
-  "title": "23. MSME Sector Architecture & 2020 Composite Criteria",
+  "title": "MSME Sector Architecture & 2020 Composite Criteria",
   "summary": "Micro, Small, and Medium Enterprises (MSMEs) form the backbone of Indian industrial employment, categorized under the 2020 composite investment and turnover thresholds.",
   "blocks": [
     {
@@ -62,7 +62,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Under the 2020 MSME Composite Criteria, what are the maximum Investment and Turnover limits for a 'Small' Enterprise?  \n(A) Inv $\\le ₹1\\text{ Cr}$, Turnover $\\le ₹5\\text{ Cr}$  \n(B) Inv $\\le ₹10\\text{ Cr}$, Turnover $\\le ₹50\\text{ Cr}$  \n(C) Inv $\\le ₹50\\text{ Cr}$, Turnover $\\le ₹250\\text{ Cr}$  \n(D) Inv $\\le ₹25\\text{ Cr}$, Turnover $\\le ₹100\\text{ Cr}$  \n**Answer:** ** — Small Enterprise: Investment $\\le ₹10\\text{ Cr}$ AND Annual Turnover $\\le ₹50\\text{ Cr}$."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Under the 2020 MSME Composite Criteria, what are the maximum Investment and Turnover limits for a 'Small' Enterprise?  \n(A) Inv $\\le ₹1\\text{ Cr}$, Turnover $\\le ₹5\\text{ Cr}$  \n(B) Inv $\\le ₹10\\text{ Cr}$, Turnover $\\le ₹50\\text{ Cr}$  \n(C) Inv $\\le ₹50\\text{ Cr}$, Turnover $\\le ₹250\\text{ Cr}$  \n(D) Inv $\\le ₹25\\text{ Cr}$, Turnover $\\le ₹100\\text{ Cr}$  \n**Answer: — Small Enterprise: Investment $\\le ₹10\\text{ Cr}$ AND Annual Turnover $\\le ₹50\\text{ Cr}$."
     },
     {
       "type": "paragraph",
@@ -71,6 +71,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Evaluate the structural changes introduced by the 2020 MSME Composite Classification. How do digital platforms like TReDS and Udyam address the twin challenges of credit access and delayed payments for MSMEs?'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-23-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

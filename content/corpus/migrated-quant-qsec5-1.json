@@ -2,18 +2,23 @@
   "id": "migrated-quant-qsec5-1",
   "type": "quant_topic",
   "domain": "quant",
-  "title": "5.1 Core Pattern Types",
+  "title": "1 Core Pattern Types",
   "summary": "Quant — 5.1 Core Pattern Types",
   "blocks": [
     {
       "type": "bullet_list",
       "items": [
-        "**Simple difference series**: constant diff (+5); increasing diff (+3,+5,+7); multiplicative (×3)",
-        "**Square/cube based**: n² (1,4,9,16,25); n²±k; n³±k",
-        "**Alternating/mixed series**: two interleaved patterns — split into sub-series before finding the rule",
-        "**Fibonacci-type**: each term = sum of previous two, or ± a constant",
-        "**Wrong number series**: find pattern from majority of terms, spot the deviation; check both difference and ratio"
+        "**Simple difference series**: constant diff (+5); increasing diff (+3,+5,+7); multiplicative (×3).",
+        "**Square/cube based**: n² (1,4,9,16,25); n²±k; n³±k.",
+        "**Alternating/mixed series**: two interleaved patterns — split into sub-series before finding the rule.",
+        "**Fibonacci-type**: each term = sum of previous two, or ± a constant.",
+        "**Wrong number series**: find pattern from majority of terms, spot the deviation; check both difference and ratio."
       ]
+    },
+    {
+      "id": "blk-migrated-quant-qsec5-1-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → ⚡ Calculation Trap — Watch for base-year shifts, percentage of vs percentage more than traps, and units conversion (km/h ➔ m/s) in time-speed-distance."
     }
   ],
   "metadata": {

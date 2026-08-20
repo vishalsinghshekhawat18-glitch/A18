@@ -2,16 +2,21 @@
   "id": "migrated-quant-qsec5-2",
   "type": "quant_topic",
   "domain": "quant",
-  "title": "5.2 Shortcuts & Tricks",
+  "title": "2 Shortcuts & Tricks",
   "summary": "Quant — 5.2 Shortcuts & Tricks",
   "blocks": [
     {
       "type": "bullet_list",
       "items": [
-        "**Check order**: differences → ratio → square/cube ± constant; if 1st diffs aren't constant, check 2nd-level diff",
-        "**Gap size reading**: small growing gaps → square/cube; doubling gaps → ×2 or Fibonacci; constant gaps → AP",
-        "**Approximation rounding**: round to a value that simplifies arithmetic; round all terms in same direction to avoid compounding error"
+        "**Check order**: differences → ratio → square/cube ± constant; if 1st diffs aren't constant, check 2nd-level diff.",
+        "**Gap size reading**: small growing gaps → square/cube; doubling gaps → ×2 or Fibonacci; constant gaps → AP.",
+        "**Approximation rounding**: round to a value that simplifies arithmetic; round all terms in same direction to avoid compounding error."
       ]
+    },
+    {
+      "id": "blk-migrated-quant-qsec5-2-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → ⚡ Calculation Trap — Watch for base-year shifts, percentage of vs percentage more than traps, and units conversion (km/h ➔ m/s) in time-speed-distance."
     }
   ],
   "metadata": {

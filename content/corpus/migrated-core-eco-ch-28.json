@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-28",
   "type": "chapter",
   "domain": "economics",
-  "title": "28. Balance of Payments (BoP) & Foreign Exchange Reserves",
+  "title": "Balance of Payments (BoP) & Foreign Exchange Reserves",
   "summary": "Balance of Payments records all monetary transactions between domestic residents and the rest of the world, balancing current and capital accounts.",
   "blocks": [
     {
@@ -57,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which of the following is NOT one of the four official components of India's Foreign Exchange Reserves held by the Reserve Bank of India?  \n(A) Foreign Currency Assets (FCA)  \n(B) Monetary Gold  \n(C) Special Drawing Rights (SDRs)  \n(D) Treasury Bills of State Governments  \n**Answer:** ** — State Treasury Bills are domestic assets, not part of international Forex reserves."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which of the following is NOT one of the four official components of India's Foreign Exchange Reserves held by the Reserve Bank of India?  \n(A) Foreign Currency Assets (FCA)  \n(B) Monetary Gold  \n(C) Special Drawing Rights (SDRs)  \n(D) Treasury Bills of State Governments  \n**Answer: — State Treasury Bills are domestic assets, not part of international Forex reserves."
     },
     {
       "type": "paragraph",
@@ -66,6 +66,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Explain the structure of India's Balance of Payments. How does a Capital Account surplus finance a persistent Current Account Deficit (CAD)?'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-28-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

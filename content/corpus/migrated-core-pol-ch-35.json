@@ -2,7 +2,7 @@
   "id": "migrated-core-pol-ch-35",
   "type": "chapter",
   "domain": "polity",
-  "title": "35. Election Commission of India (ECI - Article 324) & Electoral Reforms",
+  "title": "Election Commission of India (ECI - Article 324) & Electoral Reforms",
   "summary": "Election Commission of India (ECI - Article 324) & Electoral Reforms is a vital constitutional component analyzed in UPSC CSE & State PCS examinations.",
   "blocks": [
     {
@@ -102,6 +102,11 @@
     {
       "type": "paragraph",
       "content": "#### 🏛️ 3. Supreme Court Landmark Rulings on Electoral Funding & Transparency (2024)\n- **Electoral Bonds Case — *Association for Democratic Reforms (ADR) v. Union of India (Feb 15, 2024)*:**\n  - A 5-judge SC Constitution Bench **struck down the Electoral Bond Scheme (2018) as UNCONSTITUTIONAL**.\n  - **Core Ratio:** Anonymity in political funding violates voters' fundamental right to information under **Article 19(1)(a)**. SC ordered SBI to cease issuing bonds and submit donor/recipient data to ECI for public disclosure.\n- **VVPAT Audit Verification — *ADR v. Election Commission of India (April 2024)*:**\n  - SC rejected the demand for 100% manual VVPAT slip counting, retaining established verification of **randomly matching VVPAT slips in 5 polling stations per assembly segment**.\n- **Model Code of Conduct (MCC):** Set of consensus guidelines issued by ECI. **NON-STATUTORY** (not an Act of Parliament), but enforced via ECI powers under Article 324."
+    },
+    {
+      "id": "blk-migrated-core-pol-ch-35-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Pay close attention to constitutional article numbers, amendment acts (e.g. 42nd, 44th, 73rd, 86th), and the exact qualifying age/tenure for constitutional offices."
     }
   ],
   "metadata": {

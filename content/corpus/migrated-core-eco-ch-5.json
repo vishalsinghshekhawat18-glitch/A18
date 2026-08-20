@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-5",
   "type": "chapter",
   "domain": "economics",
-  "title": "5. Factor Cost, Market Price & GVA at Basic Prices",
+  "title": "Factor Cost, Market Price & GVA at Basic Prices",
   "summary": "GVA at Basic Prices includes production taxes and excludes product subsidies, serving as the bridge between producer factor costs and consumer market prices under SNA 2008.",
   "blocks": [
     {
@@ -76,7 +76,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which of the following is classified as a 'Production Tax' (independent of actual production volume) under NSO national accounting rules?  \n(A) Goods and Services Tax (GST)  \n(B) Customs Duty  \n(C) Land Revenue & Stamp Duty  \n(D) Central Excise Duty  \n**Answer:** ** — Land Revenue and Stamp Duty are paid irrespective of production volume."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which of the following is classified as a 'Production Tax' (independent of actual production volume) under NSO national accounting rules?  \n(A) Goods and Services Tax (GST)  \n(B) Customs Duty  \n(C) Land Revenue & Stamp Duty  \n(D) Central Excise Duty  \n**Answer: — Land Revenue and Stamp Duty are paid irrespective of production volume."
     },
     {
       "type": "paragraph",
@@ -85,6 +85,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Explain the distinction between Factor Cost, Basic Prices, and Market Price. Why did India adopt GVA at Basic Prices and MCA-21 database in the 2015 NSO base year revision?'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-5-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

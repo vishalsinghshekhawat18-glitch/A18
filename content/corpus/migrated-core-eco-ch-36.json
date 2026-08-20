@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-36",
   "type": "chapter",
   "domain": "economics",
-  "title": "36. Basel Accords & Risk-Weighted Asset Framework",
+  "title": "Basel Accords & Risk-Weighted Asset Framework",
   "summary": "Basel Accords establish international capital adequacy norms, requiring banks to hold capital reserves proportioned to risk-weighted assets.",
   "blocks": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** What is the minimum Capital to Risk-Weighted Assets Ratio (CRAR) mandated by the RBI for Indian commercial banks under Basel III norms (excluding Capital Conservation Buffer)?  \n(A) 7%  \n(B) 8%  \n(C) 9%  \n(D) 11.5%  \n**Answer:** ** — RBI mandates a minimum 9% CRAR (stricter than Basel's 8%)."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** What is the minimum Capital to Risk-Weighted Assets Ratio (CRAR) mandated by the RBI for Indian commercial banks under Basel III norms (excluding Capital Conservation Buffer)?  \n(A) 7%  \n(B) 8%  \n(C) 9%  \n(D) 11.5%  \n**Answer: — RBI mandates a minimum 9% CRAR (stricter than Basel's 8%)."
     },
     {
       "type": "paragraph",
@@ -72,6 +72,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Explain the three pillars of the Basel II and Basel III frameworks. Why did RBI impose stricter capital buffers on Indian banks?'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-36-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

@@ -2,18 +2,23 @@
   "id": "migrated-quant-qsec7-1",
   "type": "quant_topic",
   "domain": "quant",
-  "title": "7.1 Core Formulas",
+  "title": "1 Core Formulas",
   "summary": "Quant — 7.1 Core Formulas",
   "blocks": [
     {
       "type": "bullet_list",
       "items": [
-        "**Permutation (order matters)**: ⁿPr = n!/(n−r)!; arrangements of n distinct items = n!; with repetition allowed: nʳ",
-        "**Combination (order doesn't matter)**: ⁿCr = n!/[r!(n−r)!]; ⁿCr = ⁿC(n−r); ⁿC0 = ⁿCn = 1",
-        "**Repeated items / circular**: arrangement with repeats = n!/(p!×q!×...); circular arrangement of n items = (n−1)!; circular where clockwise=anticlockwise = (n−1)!/2",
-        "**Basic probability**: P(event) = favorable/total; 0≤P(event)≤1; P(not A) = 1−P(A)",
-        "**Combined events**: P(A or B) = P(A)+P(B)−P(A and B); mutually exclusive: P(A or B)=P(A)+P(B); independent: P(A and B)=P(A)×P(B)"
+        "**Permutation (order matters)**: ⁿPr = n!/(n−r)!; arrangements of n distinct items = n!; with repetition allowed: nʳ.",
+        "**Combination (order doesn't matter)**: ⁿCr = n!/[r!(n−r)!]; ⁿCr = ⁿC(n−r); ⁿC0 = ⁿCn = 1.",
+        "**Repeated items / circular**: arrangement with repeats = n!/(p!×q!×...); circular arrangement of n items = (n−1)!; circular where clockwise=anticlockwise = (n−1)!/2.",
+        "**Basic probability**: P(event) = favorable/total; 0≤P(event)≤1; P(not A) = 1−P(A).",
+        "**Combined events**: P(A or B) = P(A)+P(B)−P(A and B); mutually exclusive: P(A or B)=P(A)+P(B); independent: P(A and B)=P(A)×P(B)."
       ]
+    },
+    {
+      "id": "blk-migrated-quant-qsec7-1-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → ⚡ Calculation Trap — Watch for base-year shifts, percentage of vs percentage more than traps, and units conversion (km/h ➔ m/s) in time-speed-distance."
     }
   ],
   "metadata": {

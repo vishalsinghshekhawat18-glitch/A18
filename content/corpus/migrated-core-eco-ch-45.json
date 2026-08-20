@@ -2,7 +2,7 @@
   "id": "migrated-core-eco-ch-45",
   "type": "chapter",
   "domain": "economics",
-  "title": "45. International Economic Institutions: IMF, World Bank, WTO & BRICS Bank",
+  "title": "International Economic Institutions: IMF, World Bank, WTO & BRICS Bank",
   "summary": "Global economic architecture is governed by the IMF for balance of payments, World Bank for development, WTO for trade, and NDB for emerging economies.",
   "blocks": [
     {
@@ -57,7 +57,7 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which of the five World Bank Group organizations is India NOT a member of?  \n(A) International Finance Corporation (IFC)  \n(B) Multilateral Investment Guarantee Agency (MIGA)  \n(C) International Centre for Settlement of Investment Disputes (ICSID)  \n(D) International Development Association (IDA)  \n**Answer:** ** — India is not a signatory to the ICSID Convention."
+      "content": "#### Tier 1 — Recall MCQ\n**Q:** Which of the five World Bank Group organizations is India NOT a member of?  \n(A) International Finance Corporation (IFC)  \n(B) Multilateral Investment Guarantee Agency (MIGA)  \n(C) International Centre for Settlement of Investment Disputes (ICSID)  \n(D) International Development Association (IDA)  \n**Answer: — India is not a signatory to the ICSID Convention."
     },
     {
       "type": "paragraph",
@@ -66,6 +66,11 @@
     {
       "type": "paragraph",
       "content": "#### Tier 3 — Mains Descriptive Prompt\n*'Evaluate the role of IMF and World Bank in global financial governance. How do emerging institutions like NDB and AIIB challenge traditional Bretton Woods dominance?'*"
+    },
+    {
+      "id": "blk-migrated-core-eco-ch-45-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Master the distinctions between monetary policy tools (Repo vs Reverse Repo, MSF, SDF) and fiscal deficit calculation formulas."
     }
   ],
   "metadata": {

@@ -2,7 +2,7 @@
   "id": "migrated-core-sci-ch-6",
   "type": "chapter",
   "domain": "science",
-  "title": "6. Telecommunications: 5G vs. 6G, Optical Fiber & Quantum Computing",
+  "title": "Telecommunications: 5G vs. 6G, Optical Fiber & Quantum Computing",
   "summary": "Telecommunications: 5G vs. 6G, Optical Fiber & Quantum Computing is a critical scientific principle evaluated in UPSC CSE & State PCS examinations.",
   "blocks": [
     {
@@ -115,6 +115,11 @@
     {
       "type": "paragraph",
       "content": "#### 🧠 3. Key Physics Concepts & Exam Distinctions\n- **Bit vs. Qubit:** Classical computer uses binary bits (0 OR 1). Quantum computer uses **Qubits** (0 AND 1 simultaneously via **Quantum Superposition**).\n- **Quantum Entanglement:** Quantum state where two or more particles become interconnected such that the state of one instantaneously dictates the state of another regardless of distance (basis of unhackable QKD communication)."
+    },
+    {
+      "id": "blk-migrated-core-sci-ch-6-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → Focus on SI units, chemical compound common names, human endocrine hormone functions, and ISRO/DRDO propulsion technologies."
     }
   ],
   "metadata": {

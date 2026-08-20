@@ -2,7 +2,7 @@
   "id": "migrated-core-pol-ch-1",
   "type": "chapter",
   "domain": "polity",
-  "title": "1. Basic Concepts of Polity, Saptang Theory & Origin of State",
+  "title": "Basic Concepts of Polity, Saptang Theory & Origin of State",
   "summary": "1. Basic Concepts of Polity, Saptang Theory & Theories of State Origin is a mandatory core subject for UPSC CSE, RAS Pre/Mains, PSI, and RBI Grade A/Phase 2.",
   "blocks": [
     {
@@ -85,6 +85,11 @@
       "type": "heading",
       "level": 3,
       "text": "❓ 7. 3-Tier Practice & Retention Section\n- **Tier 1 (Recall MCQ):** Which element is NOT part of Kautilya's Saptang Theory? (A: Swami, B: Amatya, **C: Samiti**, D: Kosa) [Correct: C].\n- **Tier 2 (Applied Scenario):** Explain how Article 13 enforces Constitutional Supremacy over Parliamentary Sovereignty in India.\n- **Tier 3 (Mains Prompt):** *'India adopted the British Parliamentary model, but rejected Parliamentary Sovereignty.'* Discuss."
+    },
+    {
+      "id": "blk-migrated-core-pol-ch-1-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Pay close attention to constitutional article numbers, amendment acts (e.g. 42nd, 44th, 73rd, 86th), and the exact qualifying age/tenure for constitutional offices."
     }
   ],
   "metadata": {

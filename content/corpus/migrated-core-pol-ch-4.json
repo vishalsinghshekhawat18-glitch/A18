@@ -2,7 +2,7 @@
   "id": "migrated-core-pol-ch-4",
   "type": "chapter",
   "domain": "polity",
-  "title": "4. Salient Features of the Indian Constitution & System of Governance",
+  "title": "Salient Features of the Indian Constitution & System of Governance",
   "summary": "The Indian Constitution is the longest written constitution in the world, combining ~1,45,000 words in 1950.",
   "blocks": [
     {
@@ -85,6 +85,11 @@
       "type": "heading",
       "level": 3,
       "text": "❓ 7. 3-Tier Practice & Retention Section\n- **Tier 1 (Recall MCQ):** Joint Sitting of Parliament (Article 108) was borrowed from: (A: USA, B: UK, **C: Australia**, D: Canada) [Correct: C].\n- **Tier 2 (Applied Scenario):** Explain why India rejected dual citizenship in favor of single national citizenship.\n- **Tier 3 (Mains Prompt):** *'Evaluate how the Indian Constitution balances parliamentary democracy with constitutional judicial review.'*"
+    },
+    {
+      "id": "blk-migrated-core-pol-ch-4-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Pay close attention to constitutional article numbers, amendment acts (e.g. 42nd, 44th, 73rd, 86th), and the exact qualifying age/tenure for constitutional offices."
     }
   ],
   "metadata": {

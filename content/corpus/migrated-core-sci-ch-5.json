@@ -2,7 +2,7 @@
   "id": "migrated-core-sci-ch-5",
   "type": "chapter",
   "domain": "science",
-  "title": "5. Space Technology: Launch Vehicles (PSLV, GSLV, LVM3) & Satellite Orbits",
+  "title": "Space Technology: Launch Vehicles (PSLV, GSLV, LVM3) & Satellite Orbits",
   "summary": "ISRO's space architecture utilizes specialized launch vehicles (PSLV, LVM3) and multi-tier orbits (LEO, SSO, MEO, GEO) for communications, remote sensing, and interplanetary exploration.",
   "blocks": [
     {
@@ -77,6 +77,11 @@
       "type": "heading",
       "level": 3,
       "text": "❓ 7. 3-Tier Practice & Retention Section\n- **Tier 1 (Recall MCQ):** What is the propellant combination used in the liquid Vikas engine of PSLV? (A: Liquid Hydrogen + Oxygen, **B: UDMH + Nitrogen Tetroxide**, C: Kerosene + LOX, D: HTPB) [Correct: B].\n- **Tier 2 (Applied Scenario):** Explain why satellite launch sites (e.g. Sriharikota) are located on the EAST COAST near the Equator.\n- **Tier 3 (Mains Prompt):** *'Analyze the technological evolution of ISRO's launch vehicles from SLV-3 to LVM3 and their role in advancing India's strategic space autonomy.'*"
+    },
+    {
+      "id": "blk-migrated-core-sci-ch-5-exam-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → Focus on SI units, chemical compound common names, human endocrine hormone functions, and ISRO/DRDO propulsion technologies."
     }
   ],
   "metadata": {
