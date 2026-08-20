@@ -871,5 +871,1425 @@
     "date": "2026-08-07",
     "category": "SEC10",
     "file": "content/corpus/ca-2026-08-sec10-quick-hits-schemes-tier-a.json"
+  },
+  "201": {
+    "noteNumber": 201,
+    "id": "ca-2026-q4-sec1-union-budget-2026-27-related-fiscal-announcements-",
+    "title": "Union Budget 2026-27 & related fiscal announcements — [Feb] *(standing exception, Template A)*",
+    "section": "SEC1",
+    "date": "2026-02-20",
+    "period": "2026-Q4",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-q4-sec1-union-budget-2026-27-related-fiscal-announcements-.json"
+  },
+  "202": {
+    "noteNumber": 202,
+    "id": "ca-2026-q4-sec1-16th-finance-commission-report-tabled-feb",
+    "title": "16th Finance Commission report tabled — [Feb]",
+    "section": "SEC1",
+    "date": "2026-02-20",
+    "period": "2026-Q4",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-q4-sec1-16th-finance-commission-report-tabled-feb.json"
+  },
+  "203": {
+    "noteNumber": 203,
+    "id": "ca-2026-q4-sec1-gdpcpiiip-growth-saga-janfebmar-merged-one-running",
+    "title": "GDP/CPI/IIP growth saga — [Jan]🔄[Feb]🔄[Mar] merged (one running story across all three months)",
+    "section": "SEC1",
+    "date": "2026-01-20",
+    "period": "2026-Q4",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-q4-sec1-gdpcpiiip-growth-saga-janfebmar-merged-one-running.json"
+  },
+  "204": {
+    "noteNumber": 204,
+    "id": "ca-2026-q4-sec1-india-eu-fta-concluded-26-jan-mfn-status-confirmed",
+    "title": "India-EU FTA concluded (26 Jan) → MFN status confirmed (Mar) — [Jan]🔄[Mar]",
+    "section": "SEC1",
+    "date": "2026-01-20",
+    "period": "2026-Q4",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-q4-sec1-india-eu-fta-concluded-26-jan-mfn-status-confirmed.json"
+  },
+  "205": {
+    "noteNumber": 205,
+    "id": "ca-2026-q4-sec1-disinvestment-pfc-rec-merger-trade-index-rebasing-",
+    "title": "Disinvestment, PFC-REC merger, trade-index rebasing — [Feb]",
+    "section": "SEC1",
+    "date": "2026-02-20",
+    "period": "2026-Q4",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-q4-sec1-disinvestment-pfc-rec-merger-trade-index-rebasing-.json"
+  },
+  "206": {
+    "noteNumber": 206,
+    "id": "ca-2026-q4-sec1-key-scheme-decisions-milestones-janfeb-janfeb",
+    "title": "Key scheme decisions & milestones (Jan+Feb) — [Jan]+[Feb]",
+    "section": "SEC1",
+    "date": "2026-01-20",
+    "period": "2026-Q4",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-q4-sec1-key-scheme-decisions-milestones-janfeb-janfeb.json"
+  },
+  "207": {
+    "noteNumber": 207,
+    "id": "ca-2026-q4-sec1-mar-new-fiscaltaxtrade-reforms-cluster",
+    "title": "[Mar] New fiscal/tax/trade reforms cluster",
+    "section": "SEC1",
+    "date": "2026-03-20",
+    "period": "2026-Q4",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-q4-sec1-mar-new-fiscaltaxtrade-reforms-cluster.json"
+  },
+  "208": {
+    "noteNumber": 208,
+    "id": "ca-2026-q4-sec1-economic-stabilisation-fund-1-lakh-crore-fiscal-bu",
+    "title": "Economic Stabilisation Fund — ₹1 lakh crore fiscal buffer** *(standing exception)*",
+    "section": "SEC1",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-q4-sec1-economic-stabilisation-fund-1-lakh-crore-fiscal-bu.json"
+  },
+  "209": {
+    "noteNumber": 209,
+    "id": "ca-2026-q4-sec1-income-tax-rules-2026-standing-exception-major-ref",
+    "title": "Income Tax Rules 2026** *(standing exception — major reform)*",
+    "section": "SEC1",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-q4-sec1-income-tax-rules-2026-standing-exception-major-ref.json"
+  },
+  "210": {
+    "noteNumber": 210,
+    "id": "ca-2026-q4-sec1-insolvency-and-bankruptcy-code-amendment-billact-2",
+    "title": "Insolvency and Bankruptcy Code (Amendment) Bill/Act, 2025-26",
+    "section": "SEC1",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-q4-sec1-insolvency-and-bankruptcy-code-amendment-billact-2.json"
+  },
+  "211": {
+    "noteNumber": 211,
+    "id": "ca-2026-q4-sec1-dirghavadhi-krishak-punji-sahakar-yojana",
+    "title": "Dirghavadhi Krishak Punji Sahakar Yojana",
+    "section": "SEC1",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-q4-sec1-dirghavadhi-krishak-punji-sahakar-yojana.json"
+  },
+  "212": {
+    "noteNumber": 212,
+    "id": "ca-2026-q4-sec1-239th-cbt-meeting-epf-interest-rate-825",
+    "title": "239th CBT meeting — EPF interest rate 8.25%",
+    "section": "SEC1",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-q4-sec1-239th-cbt-meeting-epf-interest-rate-825.json"
+  },
+  "213": {
+    "noteNumber": 213,
+    "id": "ca-2026-q4-sec1-export-promotion-mission-e-commerce-msme-credit",
+    "title": "Export Promotion Mission — e-commerce MSME credit",
+    "section": "SEC1",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-q4-sec1-export-promotion-mission-e-commerce-msme-credit.json"
+  },
+  "214": {
+    "noteNumber": 214,
+    "id": "ca-2026-q4-sec1-finance-ministry-restructures-mps-norms",
+    "title": "Finance Ministry restructures MPS norms",
+    "section": "SEC1",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-q4-sec1-finance-ministry-restructures-mps-norms.json"
+  },
+  "215": {
+    "noteNumber": 215,
+    "id": "ca-2026-q4-sec1-wto-global-trade-outlook-march-2026",
+    "title": "WTO Global Trade Outlook (March 2026)",
+    "section": "SEC1",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-q4-sec1-wto-global-trade-outlook-march-2026.json"
+  },
+  "216": {
+    "noteNumber": 216,
+    "id": "ca-2026-q4-sec1-rodtep-restored-50-restriction-withdrawn-full-rate",
+    "title": "RoDTEP restored** — 50% restriction withdrawn, full rates (as on 22 Feb 2026) restored effective **23 March 2026**; administered by Dept of Revenue; replaced earlier **MEIS**.",
+    "section": "SEC1",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-q4-sec1-rodtep-restored-50-restriction-withdrawn-full-rate.json"
+  },
+  "217": {
+    "noteNumber": 217,
+    "id": "ca-2026-q4-sec1-pm-e-drive-revised-outlay-10900-crore-e-2w-registr",
+    "title": "PM E-DRIVE revised** — outlay ₹10,900 crore; e-2W registration till 31 July 2026, e-3W till 31 March 2028; incentive price caps ₹1.5 lakh (2W) / ₹2.5 lakh (3W).",
+    "section": "SEC1",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-q4-sec1-pm-e-drive-revised-outlay-10900-crore-e-2w-registr.json"
+  },
+  "218": {
+    "noteNumber": 218,
+    "id": "ca-2026-q4-sec1-essential-commodities-act-invoked-for-gas-allocati",
+    "title": "Essential Commodities Act invoked for gas allocation** — West Asia crisis response; 4-tier priority system (domestic PNG/CNG/LPG full; fertiliser 70%; national gas grid 80% cap; industrial/commercial CGD 80% cap); LPG refill wait raised **21→25 days**; Sec 5 delegation power.",
+    "section": "SEC1",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-q4-sec1-essential-commodities-act-invoked-for-gas-allocati.json"
+  },
+  "219": {
+    "noteNumber": 219,
+    "id": "ca-2026-q4-sec1-6th-phase-gold-hallmarking-7-new-districts-rupnaga",
+    "title": "6th phase gold hallmarking** — 7 new districts (Rupnagar, Banda, Beed, Gomati, Katihar, Beawar, Neemuch); 9-karat stays voluntary; HUID (6-digit code) via BIS CARE app.",
+    "section": "SEC1",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-q4-sec1-6th-phase-gold-hallmarking-7-new-districts-rupnaga.json"
+  },
+  "220": {
+    "noteNumber": 220,
+    "id": "ca-2026-q4-sec1-census-2027-to-recognise-all-21-disability-categor",
+    "title": "Census 2027** to recognise all **21** disability categories (Ministry of Social Justice & Empowerment; MoS Ramdas Athawale).",
+    "section": "SEC1",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-q4-sec1-census-2027-to-recognise-all-21-disability-categor.json"
+  },
+  "221": {
+    "noteNumber": 221,
+    "id": "ca-2026-q4-sec1-tamil-nadu-becomes-indias-top-textile-exporter-nir",
+    "title": "Tamil Nadu becomes India's top textile exporter** (NIRYAT/DPIIT, FY25) — TN $7,997.17mn (+29.12% over 4 yrs, rank 1); Gujarat $5,646.01mn (2); Maharashtra $3,831.29mn (3).",
+    "section": "SEC1",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-q4-sec1-tamil-nadu-becomes-indias-top-textile-exporter-nir.json"
+  },
+  "222": {
+    "noteNumber": 222,
+    "id": "ca-2026-q4-sec1-fcra-amendment-bill-cleared-by-cabinet-new-section",
+    "title": "FCRA amendment bill cleared by Cabinet** — new **Section 14B** (deemed cessation on expiry/non-renewal/refusal); max imprisonment for unauthorized foreign-fund receipt cut to 1 year.",
+    "section": "SEC1",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-q4-sec1-fcra-amendment-bill-cleared-by-cabinet-new-section.json"
+  },
+  "223": {
+    "noteNumber": 223,
+    "id": "ca-2026-q4-sec1-aif-scheme-punjab-tops-state-leaderboard-continues",
+    "title": "AIF scheme — Punjab tops state leaderboard** — 🔄 continues the [Feb] AIF ₹2 lakh crore target item: Punjab leads sanctioned AIF projects (since 2024-25), ahead of MP, Maharashtra, UP, Haryana; total corpus ₹1 lakh crore disbursed via banks till 2025-26; 3% interest subvention on loans up to ₹2 crore, max 7-year repayment; CGTMSE/NABSanrakshan guarantee support.",
+    "section": "SEC1",
+    "date": "2026-02-20",
+    "period": "2026-Q4",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-q4-sec1-aif-scheme-punjab-tops-state-leaderboard-continues.json"
+  },
+  "224": {
+    "noteNumber": 224,
+    "id": "ca-2026-q4-sec1-pm-ebus-sewa-scheme-10000-ac-e-buses-116-cities-26",
+    "title": "PM-eBus Sewa Scheme** — 10,000 AC e-buses, 116 cities, 26 states/UTs, PPP, by end-2027; total cost ₹57,613 crore, central support ₹20,000 crore.",
+    "section": "SEC1",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-q4-sec1-pm-ebus-sewa-scheme-10000-ac-e-buses-116-cities-26.json"
+  },
+  "225": {
+    "noteNumber": 225,
+    "id": "ca-2026-q4-sec1-pm-internship-scheme-pmis-pilot-revised-duration-1",
+    "title": "PM Internship Scheme (PMIS) pilot revised** — duration 1 yr→6-9 months; age 21-24→18-25; allowance ₹5,000→**₹9,000**; effective 12 March 2026.",
+    "section": "SEC1",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-q4-sec1-pm-internship-scheme-pmis-pilot-revised-duration-1.json"
+  },
+  "226": {
+    "noteNumber": 226,
+    "id": "ca-2026-q4-sec2-rbi-bank-dividend-payout-cap-saga-janmar-merged-sa",
+    "title": "RBI bank-dividend-payout cap saga — [Jan]🔄[Mar] merged (same reform, richer detail confirmed in March)",
+    "section": "SEC2",
+    "date": "2026-01-20",
+    "period": "2026-Q4",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-q4-sec2-rbi-bank-dividend-payout-cap-saga-janmar-merged-sa.json"
+  },
+  "227": {
+    "noteNumber": 227,
+    "id": "ca-2026-q4-sec2-rbi-related-party-nbfc-risk-weight-forex-cluster-j",
+    "title": "RBI related-party, NBFC risk-weight & forex cluster — [Jan] *(standing exception)*",
+    "section": "SEC2",
+    "date": "2026-01-20",
+    "period": "2026-Q4",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-q4-sec2-rbi-related-party-nbfc-risk-weight-forex-cluster-j.json"
+  },
+  "228": {
+    "noteNumber": 228,
+    "id": "ca-2026-q4-sec2-sebi-market-structure-reforms-jan-standing-excepti",
+    "title": "SEBI market-structure reforms — [Jan] *(standing exception)*",
+    "section": "SEC2",
+    "date": "2026-01-20",
+    "period": "2026-Q4",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-q4-sec2-sebi-market-structure-reforms-jan-standing-excepti.json"
+  },
+  "229": {
+    "noteNumber": 229,
+    "id": "ca-2026-q4-sec2-rbi-regulatory-package-april-1-2026-cluster-feb-st",
+    "title": "RBI Regulatory Package — April 1, 2026 cluster — [Feb] *(standing exception)*",
+    "section": "SEC2",
+    "date": "2026-02-20",
+    "period": "2026-Q4",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-q4-sec2-rbi-regulatory-package-april-1-2026-cluster-feb-st.json"
+  },
+  "230": {
+    "noteNumber": 230,
+    "id": "ca-2026-q4-sec2-rbi-risk-based-premium-rbp-for-deposit-insurance-f",
+    "title": "RBI Risk-Based Premium (RBP) for Deposit Insurance — [Feb] *(standing exception)*",
+    "section": "SEC2",
+    "date": "2026-02-20",
+    "period": "2026-Q4",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-q4-sec2-rbi-risk-based-premium-rbp-for-deposit-insurance-f.json"
+  },
+  "231": {
+    "noteNumber": 231,
+    "id": "ca-2026-q4-sec2-622nd-meeting-of-rbi-central-board-utkarsh-30-appr",
+    "title": "622nd Meeting of RBI Central Board — Utkarsh 3.0 approved — [Mar] *(standing exception)*",
+    "section": "SEC2",
+    "date": "2026-03-20",
+    "period": "2026-Q4",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-q4-sec2-622nd-meeting-of-rbi-central-board-utkarsh-30-appr.json"
+  },
+  "232": {
+    "noteNumber": 232,
+    "id": "ca-2026-q4-sec2-rbi-cad-narrows-q3-fy26-bop-report-mar-standing-ex",
+    "title": "RBI: CAD narrows (Q3 FY26 BoP report) — [Mar] *(standing exception)*",
+    "section": "SEC2",
+    "date": "2026-03-20",
+    "period": "2026-Q4",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-q4-sec2-rbi-cad-narrows-q3-fy26-bop-report-mar-standing-ex.json"
+  },
+  "233": {
+    "noteNumber": 233,
+    "id": "ca-2026-q4-sec2-govt-sets-4-retail-inflation-target-for-rbi-till-m",
+    "title": "Govt sets 4% retail inflation target for RBI till March 2031 — [Mar] *(standing exception)*",
+    "section": "SEC2",
+    "date": "2026-03-20",
+    "period": "2026-Q4",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-q4-sec2-govt-sets-4-retail-inflation-target-for-rbi-till-m.json"
+  },
+  "234": {
+    "noteNumber": 234,
+    "id": "ca-2026-q4-sec2-rbi-payments-vision-2028-mar",
+    "title": "RBI Payments Vision 2028 — [Mar]",
+    "section": "SEC2",
+    "date": "2026-03-20",
+    "period": "2026-Q4",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-q4-sec2-rbi-payments-vision-2028-mar.json"
+  },
+  "235": {
+    "noteNumber": 235,
+    "id": "ca-2026-q4-sec2-rbis-digital-payment-safety-cluster-mar-standing-e",
+    "title": "RBI's digital-payment safety cluster — [Mar] *(standing exception — links to Feb's digital-fraud-comp item above)*",
+    "section": "SEC2",
+    "date": "2026-03-20",
+    "period": "2026-Q4",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-q4-sec2-rbis-digital-payment-safety-cluster-mar-standing-e.json"
+  },
+  "236": {
+    "noteNumber": 236,
+    "id": "ca-2026-q4-sec2-rbi-monetaryprudential-updates-cluster-mar",
+    "title": "RBI monetary/prudential updates cluster — [Mar]",
+    "section": "SEC2",
+    "date": "2026-03-20",
+    "period": "2026-Q4",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-q4-sec2-rbi-monetaryprudential-updates-cluster-mar.json"
+  },
+  "237": {
+    "noteNumber": 237,
+    "id": "ca-2026-q4-sec2-rbiirdaisebi-unclaimed-asset-recovery-push-mar",
+    "title": "RBI/IRDAI/SEBI unclaimed-asset recovery push — [Mar]",
+    "section": "SEC2",
+    "date": "2026-03-20",
+    "period": "2026-Q4",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-q4-sec2-rbiirdaisebi-unclaimed-asset-recovery-push-mar.json"
+  },
+  "238": {
+    "noteNumber": 238,
+    "id": "ca-2026-q4-sec2-rbi-penalty-survey-items-janfebmar-merged",
+    "title": "RBI penalty & survey items — [Jan]+[Feb]+[Mar] merged",
+    "section": "SEC2",
+    "date": "2026-01-20",
+    "period": "2026-Q4",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-q4-sec2-rbi-penalty-survey-items-janfebmar-merged.json"
+  },
+  "239": {
+    "noteNumber": 239,
+    "id": "ca-2026-q4-sec2-sebi-reform-cluster-mar",
+    "title": "SEBI reform cluster — [Mar]",
+    "section": "SEC2",
+    "date": "2026-03-20",
+    "period": "2026-Q4",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-q4-sec2-sebi-reform-cluster-mar.json"
+  },
+  "240": {
+    "noteNumber": 240,
+    "id": "ca-2026-q4-sec2-sebis-ai-tool-sudarshan-removed-12-lakh-misleading",
+    "title": "SEBI's AI tool 'Sudarshan'** — removed 1.2 lakh+ misleading finfluencer posts; multilingual audio/video/text surveillance.",
+    "section": "SEC2",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-q4-sec2-sebis-ai-tool-sudarshan-removed-12-lakh-misleading.json"
+  },
+  "241": {
+    "noteNumber": 241,
+    "id": "ca-2026-q4-sec2-sebi-investor-protection-cluster-debit-freeze-volu",
+    "title": "SEBI investor-protection cluster** — debit-freeze voluntary lock-in for MF folios; simplified heir claims (STP ₹10k physical/₹30k demat; simplified-doc threshold ₹10 lakh physical/₹30 lakh demat; transmission ≤21 days); proposed nomination cap **4** (not the earlier-proposed 10); **Verified App Label** (Chairman Tuhin Kanta Pandey, \"First verify. Then invest.\"); Niveshak Shivir (IEPFA+SEBI, Bhubaneswar, 27 Mar); SEBI SETU digital advisory platform.",
+    "section": "SEC2",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-q4-sec2-sebi-investor-protection-cluster-debit-freeze-volu.json"
+  },
+  "242": {
+    "noteNumber": 242,
+    "id": "ca-2026-q4-sec2-sebi-mfmarket-infra-updates-intra-day-borrowing-be",
+    "title": "SEBI MF/market-infra updates** — intra-day borrowing beyond 20%-of-net-assets cap effective 1 April 2026; Life cycle funds fixed maturities 5/10/15/20/25/30 yrs, exit load 3%/2%/1%; MF Gift Cards (proposed) max ₹10,000/card, ₹50,000/MF/yr; **IT Resilience Index** (proposed) — availability & security weighted **20% each** (highest), others 10% each; Custodian SBU framework, net worth ₹75 crore, most provisions effective 24 March 2026; Abridged Prospectus for IPOs.",
+    "section": "SEC2",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-q4-sec2-sebi-mfmarket-infra-updates-intra-day-borrowing-be.json"
+  },
+  "243": {
+    "noteNumber": 243,
+    "id": "ca-2026-q4-sec2-irdai-clears-allianz-jio-reinsurance-kiwi-general-",
+    "title": "IRDAI clears Allianz Jio Reinsurance & Kiwi General Insurance** — Allianz Jio: 50:50 JV (Allianz Group Germany + Jio Financial Services); Kiwi General: WestBridge Capital + Neelesh Garg (ex-MD/CEO Tata AIG). Context: **Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Act, 2025** — notified 21 Dec 2025, in force from **5 Feb 2026** (🔄 same Act underlying the Feb 100%-FDI-insurance reform, Section 3). Domestic reinsurers: GIC Re + Valueattics Re; 11 foreign reinsurance branches.",
+    "section": "SEC2",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-q4-sec2-irdai-clears-allianz-jio-reinsurance-kiwi-general-.json"
+  },
+  "244": {
+    "noteNumber": 244,
+    "id": "ca-2026-q4-sec2-pfrda-revises-nps-distributor-pop-charges-onboardi",
+    "title": "PFRDA revises NPS distributor (PoP) charges** — onboarding ₹200/subscriber (₹100 digital), paid in ₹50 quarterly instalments; annual charge 0.20% of AUM; min contribution ₹250 (onboarding)/₹10 (subsequent).",
+    "section": "SEC2",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-q4-sec2-pfrda-revises-nps-distributor-pop-charges-onboardi.json"
+  },
+  "245": {
+    "noteNumber": 245,
+    "id": "ca-2026-q4-sec2--running-thread-what-changes-on-april-1-2026-cross",
+    "title": "🔁 Running thread: \"What changes on April 1, 2026\" (cross-month mega-cluster)",
+    "section": "SEC2",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-q4-sec2--running-thread-what-changes-on-april-1-2026-cross.json"
+  },
+  "246": {
+    "noteNumber": 246,
+    "id": "ca-2026-q4-sec3-banking",
+    "title": "Banking",
+    "section": "SEC3",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-q4-sec3-banking.json"
+  },
+  "247": {
+    "noteNumber": 247,
+    "id": "ca-2026-q4-sec3-100-fdi-in-insurance-automatic-route-feb-standing-",
+    "title": "100% FDI in insurance (automatic route) — [Feb] *(standing exception)*",
+    "section": "SEC3",
+    "date": "2026-02-20",
+    "period": "2026-Q4",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-q4-sec3-100-fdi-in-insurance-automatic-route-feb-standing-.json"
+  },
+  "248": {
+    "noteNumber": 248,
+    "id": "ca-2026-q4-sec3-epfo-upi-withdrawal-auto-settlement-cap-jan-standi",
+    "title": "EPFO UPI withdrawal & auto-settlement cap — [Jan] *(standing exception)*",
+    "section": "SEC3",
+    "date": "2026-01-20",
+    "period": "2026-Q4",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-q4-sec3-epfo-upi-withdrawal-auto-settlement-cap-jan-standi.json"
+  },
+  "249": {
+    "noteNumber": 249,
+    "id": "ca-2026-q4-sec3-credit-deposit-ratio-at-all-time-high-jan",
+    "title": "Credit-deposit ratio at all-time high — [Jan]",
+    "section": "SEC3",
+    "date": "2026-01-20",
+    "period": "2026-Q4",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-q4-sec3-credit-deposit-ratio-at-all-time-high-jan.json"
+  },
+  "250": {
+    "noteNumber": 250,
+    "id": "ca-2026-q4-sec3-major-rbi-stake-approvals-bank-ma-febmar",
+    "title": "Major RBI stake approvals & bank M&A — [Feb]🔄[Mar]",
+    "section": "SEC3",
+    "date": "2026-02-20",
+    "period": "2026-Q4",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-q4-sec3-major-rbi-stake-approvals-bank-ma-febmar.json"
+  },
+  "251": {
+    "noteNumber": 251,
+    "id": "ca-2026-q4-sec3-upidigital-payments-milestones-feb",
+    "title": "UPI/digital-payments milestones — [Feb]",
+    "section": "SEC3",
+    "date": "2026-02-20",
+    "period": "2026-Q4",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-q4-sec3-upidigital-payments-milestones-feb.json"
+  },
+  "252": {
+    "noteNumber": 252,
+    "id": "ca-2026-q4-sec3-sbi-overtakes-tcs-in-market-cap-feb-sbi-4th-most-v",
+    "title": "SBI overtakes TCS in market cap** — [Feb] — SBI = 4th most-valued company in India (₹10.9 lakh crore); most-valued PSU.",
+    "section": "SEC3",
+    "date": "2026-02-20",
+    "period": "2026-Q4",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-q4-sec3-sbi-overtakes-tcs-in-market-cap-feb-sbi-4th-most-v.json"
+  },
+  "253": {
+    "noteNumber": 253,
+    "id": "ca-2026-q4-sec3-mar-banking-cluster",
+    "title": "[Mar] Banking cluster",
+    "section": "SEC3",
+    "date": "2026-03-20",
+    "period": "2026-Q4",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-q4-sec3-mar-banking-cluster.json"
+  },
+  "254": {
+    "noteNumber": 254,
+    "id": "ca-2026-q4-sec3-nhb-launches-gruh-sugam-portal-standing-nhb-except",
+    "title": "NHB launches Gruh Sugam Portal** *(standing NHB exception)* — housing-finance access for defence/govt personnel at posting location. Static GK: NHB set up 9 July 1988 (NHB Act 1987); HQ New Delhi; MD Sanjay Shukla; authorised capital ₹1,450 crore (fully GoI). Regulatory powers over HFCs transferred NHB→RBI effective 9 Aug 2019 (Budget 2019-20).",
+    "section": "SEC3",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-q4-sec3-nhb-launches-gruh-sugam-portal-standing-nhb-except.json"
+  },
+  "255": {
+    "noteNumber": 255,
+    "id": "ca-2026-q4-sec3-rbi-penalty-actions-march-2026-merged-hsbc-318-lak",
+    "title": "RBI penalty actions, March 2026 (merged)** — HSBC ₹31.8 lakh (inoperative accounts); Union Bank of India ₹95.40 lakh (unauthorised e-transactions not actioned in 10 days); Central Bank of India ₹63.60 lakh (KYC/BSBDA lapses); Bank of India ₹58.50 lakh (PSL/deposit-rate norms); Pine Labs ₹3.10 lakh (PPI directions); Airtel Payments Bank ₹31.8 lakh (complaint non-disclosure).",
+    "section": "SEC3",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-q4-sec3-rbi-penalty-actions-march-2026-merged-hsbc-318-lak.json"
+  },
+  "256": {
+    "noteNumber": 256,
+    "id": "ca-2026-q4-sec3-gdp-growth-forecasts-external-agencies-oecd-primar",
+    "title": "GDP growth forecasts — external agencies** — OECD (primary): 7.6% FY26, 6.1% FY27. 🚫 Also Goldman Sachs (cut to 5.9% CY26) and S&P Global (raised to 7.1% next fiscal) — not repeating in full.",
+    "section": "SEC3",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-q4-sec3-gdp-growth-forecasts-external-agencies-oecd-primar.json"
+  },
+  "257": {
+    "noteNumber": 257,
+    "id": "ca-2026-q4-sec3-9992-of-indian-villages-covered-with-banking-outle",
+    "title": "99.92% of Indian villages** covered with banking outlets (within 5km); 100% in Dadra & Nagar Haveli; monitored via Jan Dhan Darshak App.",
+    "section": "SEC3",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-q4-sec3-9992-of-indian-villages-covered-with-banking-outle.json"
+  },
+  "258": {
+    "noteNumber": 258,
+    "id": "ca-2026-q4-sec3-nabfid-now-gcf-accredited-green-climate-fund-under",
+    "title": "NaBFID** now GCF-accredited (Green Climate Fund), under DFS/Finance Ministry.",
+    "section": "SEC3",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-q4-sec3-nabfid-now-gcf-accredited-green-climate-fund-under.json"
+  },
+  "259": {
+    "noteNumber": 259,
+    "id": "ca-2026-q4-sec3-bank-bondloan-issuances-cluster-bank-of-baroda-100",
+    "title": "Bank bond/loan issuances cluster** — Bank of Baroda ₹10,000 cr Green Infra Bonds (7.10%, 3x oversubscribed) — **first bank in India** for a domestic green infra bond; SBI ₹6,051 cr Basel III Tier 2 (7.05%, Chairman C S Setty); Canara Bank ₹5,000 cr Tier-II (7.24%); SBI $500mn social syndicated loan (women's empowerment, UN SDG-5); BoB $500mn 5-yr syndicated loan via GIFT City (return to global market after 1-yr gap).",
+    "section": "SEC3",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-q4-sec3-bank-bondloan-issuances-cluster-bank-of-baroda-100.json"
+  },
+  "260": {
+    "noteNumber": 260,
+    "id": "ca-2026-q4-sec3-jica-4-oda-loan-agreements-total-275858bn-16420-cr",
+    "title": "JICA — 4 ODA loan agreements**, total ¥275.858bn (~₹16,420 crore), across Punjab/Maharashtra/Karnataka (Bengaluru Metro Ph3, Mumbai Metro Line 11, Maharashtra healthcare, Punjab horticulture).",
+    "section": "SEC3",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-q4-sec3-jica-4-oda-loan-agreements-total-275858bn-16420-cr.json"
+  },
+  "261": {
+    "noteNumber": 261,
+    "id": "ca-2026-q4-sec3-nhai-sponsored-riit-raajmarg-infra-investment-trus",
+    "title": "NHAI-sponsored RIIT** (Raajmarg Infra Investment Trust) — InvIT, constituted 22 Dec 2025, listed BSE 24 March 2026; NHAI Chairman Santosh Kumar Yadav.",
+    "section": "SEC3",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-q4-sec3-nhai-sponsored-riit-raajmarg-infra-investment-trus.json"
+  },
+  "262": {
+    "noteNumber": 262,
+    "id": "ca-2026-q4-sec3-aiib-est-2016-hq-beijing-india-founding-member-fm-",
+    "title": "AIIB** (est. 2016, HQ Beijing, India founding member) — FM met President Zou Jiayi.",
+    "section": "SEC3",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-q4-sec3-aiib-est-2016-hq-beijing-india-founding-member-fm-.json"
+  },
+  "263": {
+    "noteNumber": 263,
+    "id": "ca-2026-q4-sec3-insurance",
+    "title": "Insurance",
+    "section": "SEC3",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-q4-sec3-insurance.json"
+  },
+  "264": {
+    "noteNumber": 264,
+    "id": "ca-2026-q4-sec3-irdai-mandates-ind-as-117-for-insurers-from-1-apri",
+    "title": "IRDAI mandates Ind AS 117 for insurers from 1 April 2026** — reporting-only change (life/general/health/reinsurers). ⏰ Status: effective date reached as scheduled.",
+    "section": "SEC3",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-q4-sec3-irdai-mandates-ind-as-117-for-insurers-from-1-apri.json"
+  },
+  "265": {
+    "noteNumber": 265,
+    "id": "ca-2026-q4-sec3-nabards-national-climate-stack-innovation-challeng",
+    "title": "NABARD's National Climate Stack Innovation Challenge** *(standing NABARD exception)* — with Gates Foundation + Dalberg Advisors; anchored in **DiCRA** (Data in Climate Resilient Agriculture); prizes ₹15/10/5 lakh for top 3.",
+    "section": "SEC3",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-q4-sec3-nabards-national-climate-stack-innovation-challeng.json"
+  },
+  "266": {
+    "noteNumber": 266,
+    "id": "ca-2026-q4-sec3-govts-health-insurance-push-merged-cluster-coverag",
+    "title": "Govt's health-insurance push (merged cluster)** — coverage-for-all target **2033** (govt) vs IRDAI's \"Insurance for All by **2047**\" vision; 25,000 gram panchayats for rural outreach; per-capita premium **$97** vs global average **$943**; health insurance premiums ₹1,17,505 crore FY25, 58 crore lives covered; **PMJJBY**: ₹2 lakh cover for ₹436 annual premium.",
+    "section": "SEC3",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-q4-sec3-govts-health-insurance-push-merged-cluster-coverag.json"
+  },
+  "267": {
+    "noteNumber": 267,
+    "id": "ca-2026-q4-sec3-pmfby-modified-insurersstate-govts-must-pay-agri-c",
+    "title": "PMFBY modified** — insurers/state govts must pay agri claims with **12% interest** if not settled within **21 days**.",
+    "section": "SEC3",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-q4-sec3-pmfby-modified-insurersstate-govts-must-pay-agri-c.json"
+  },
+  "268": {
+    "noteNumber": 268,
+    "id": "ca-2026-q4-sec3-health-insurance-sector-grows-9-irdai-total-premiu",
+    "title": "Health insurance sector grows ~9% (IRDAI)** — total premiums >₹1.2 lakh crore FY25; cashless pre-auth within **1 hour**, final approval within **3 hours**; Bima Bharosa recorded 1,37,361 grievances FY25.",
+    "section": "SEC3",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-q4-sec3-health-insurance-sector-grows-9-irdai-total-premiu.json"
+  },
+  "269": {
+    "noteNumber": 269,
+    "id": "ca-2026-q4-sec4-national",
+    "title": "National",
+    "section": "SEC4",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC4",
+    "file": "content/corpus/ca-2026-q4-sec4-national.json"
+  },
+  "270": {
+    "noteNumber": 270,
+    "id": "ca-2026-q4-sec4-india-ai-impact-summit-2026-16-20-feb-new-delhi-fe",
+    "title": "India AI Impact Summit 2026 (16-20 Feb, New Delhi) — [Feb] *(standing exception)*",
+    "section": "SEC4",
+    "date": "2026-02-20",
+    "period": "2026-Q4",
+    "category": "SEC4",
+    "file": "content/corpus/ca-2026-q4-sec4-india-ai-impact-summit-2026-16-20-feb-new-delhi-fe.json"
+  },
+  "271": {
+    "noteNumber": 271,
+    "id": "ca-2026-q4-sec4-union-cabinet-approvals-feb-keralakeralam-renaming",
+    "title": "Union Cabinet approvals** — [Feb] — Kerala→**Keralam** renaming approved (Bill to State Assembly under Article 3 — 🔄 status not yet finalised, see Status Check); Brahmaputra road-rail tunnel (Assam), ₹18,662 crore, 33.7 km, Gohpur-Numaligarh — world's 2nd such underwater tunnel (after Germany-Denmark).",
+    "section": "SEC4",
+    "date": "2026-02-20",
+    "period": "2026-Q4",
+    "category": "SEC4",
+    "file": "content/corpus/ca-2026-q4-sec4-union-cabinet-approvals-feb-keralakeralam-renaming.json"
+  },
+  "272": {
+    "noteNumber": 272,
+    "id": "ca-2026-q4-sec4-india-becomes-worlds-4th-largest-economy-jan-418-t",
+    "title": "India becomes world's 4th-largest economy** — [Jan] — ~$4.18 trillion, surpassing Japan; on track to overtake Germany for 3rd by 2030.",
+    "section": "SEC4",
+    "date": "2026-01-20",
+    "period": "2026-Q4",
+    "category": "SEC4",
+    "file": "content/corpus/ca-2026-q4-sec4-india-becomes-worlds-4th-largest-economy-jan-418-t.json"
+  },
+  "273": {
+    "noteNumber": 273,
+    "id": "ca-2026-q4-sec4-key-national-firsts-and-launches-janfeb-merged",
+    "title": "Key national \"firsts\" and launches — [Jan]+[Feb] merged",
+    "section": "SEC4",
+    "date": "2026-01-20",
+    "period": "2026-Q4",
+    "category": "SEC4",
+    "file": "content/corpus/ca-2026-q4-sec4-key-national-firsts-and-launches-janfeb-merged.json"
+  },
+  "274": {
+    "noteNumber": 274,
+    "id": "ca-2026-q4-sec4-state-news-janfeb-merged",
+    "title": "State News — [Jan]+[Feb] merged",
+    "section": "SEC4",
+    "date": "2026-01-20",
+    "period": "2026-Q4",
+    "category": "SEC4",
+    "file": "content/corpus/ca-2026-q4-sec4-state-news-janfeb-merged.json"
+  },
+  "275": {
+    "noteNumber": 275,
+    "id": "ca-2026-q4-sec4-international-news-janfeb-merged",
+    "title": "International News — [Jan]+[Feb] merged",
+    "section": "SEC4",
+    "date": "2026-01-20",
+    "period": "2026-Q4",
+    "category": "SEC4",
+    "file": "content/corpus/ca-2026-q4-sec4-international-news-janfeb-merged.json"
+  },
+  "276": {
+    "noteNumber": 276,
+    "id": "ca-2026-q4-sec4-mar-national-cluster",
+    "title": "[Mar] National cluster",
+    "section": "SEC4",
+    "date": "2026-03-20",
+    "period": "2026-Q4",
+    "category": "SEC4",
+    "file": "content/corpus/ca-2026-q4-sec4-mar-national-cluster.json"
+  },
+  "277": {
+    "noteNumber": 277,
+    "id": "ca-2026-q4-sec4-new-seed-act-2026-revised-pesticide-act-2026-seed-",
+    "title": "New Seed Act 2026 & Revised Pesticide Act 2026** — Seed Act: mandatory registration, QR codes on packets, fines up to ₹30 lakh; Pesticide Act replaces **Insecticides Act, 1968**. Ministry: Agriculture (Minister Shivraj Singh Chouhan).",
+    "section": "SEC4",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC4",
+    "file": "content/corpus/ca-2026-q4-sec4-new-seed-act-2026-revised-pesticide-act-2026-seed-.json"
+  },
+  "278": {
+    "noteNumber": 278,
+    "id": "ca-2026-q4-sec4-india-japan-bilateral-swap-arrangement-renewed-eff",
+    "title": "India-Japan Bilateral Swap Arrangement renewed** — effective 28 Feb 2026, size unchanged **$75 billion**.",
+    "section": "SEC4",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC4",
+    "file": "content/corpus/ca-2026-q4-sec4-india-japan-bilateral-swap-arrangement-renewed-eff.json"
+  },
+  "279": {
+    "noteNumber": 279,
+    "id": "ca-2026-q4-sec4-indias-metro-network-worlds-3rd-largest-248-km-201",
+    "title": "India's metro network — world's 3rd largest** — 248 km (2014) → 1,095 km (2025); 5 cities → 26 cities.",
+    "section": "SEC4",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC4",
+    "file": "content/corpus/ca-2026-q4-sec4-indias-metro-network-worlds-3rd-largest-248-km-201.json"
+  },
+  "280": {
+    "noteNumber": 280,
+    "id": "ca-2026-q4-sec4-indias-bio-economy-10bn-2014-1953-billion-20x-in-a",
+    "title": "India's bio-economy** — $10bn (2014) → **$195.3 billion** (~20x in a decade) → target $300bn by 2030 (BIRAC's 14th Foundation Day; India Bioeconomy Report/IBER 2026).",
+    "section": "SEC4",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC4",
+    "file": "content/corpus/ca-2026-q4-sec4-indias-bio-economy-10bn-2014-1953-billion-20x-in-a.json"
+  },
+  "281": {
+    "noteNumber": 281,
+    "id": "ca-2026-q4-sec4-mohfwfssai-ease-of-business-reforms-effective-1-ap",
+    "title": "MoHFW/FSSAI ease-of-business reforms** (effective 1 April 2026) — perpetual-validity registrations/licences; basic-registration turnover limit ₹12 lakh→**₹1.5 crore**; street-food vendors (Street Vendors Act 2014) deemed FSSAI-registered, benefiting 10 lakh+ vendors.",
+    "section": "SEC4",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC4",
+    "file": "content/corpus/ca-2026-q4-sec4-mohfwfssai-ease-of-business-reforms-effective-1-ap.json"
+  },
+  "282": {
+    "noteNumber": 282,
+    "id": "ca-2026-q4-sec4-tv-rating-policy-trp-2026-net-worth-bar-for-rating",
+    "title": "TV Rating Policy (TRP) 2026** — net-worth bar for rating agencies ₹20 crore→**₹5 crore**; ≥50% independent directors; sample scaling to 80,000 homes (18 months), eventually 1,20,000.",
+    "section": "SEC4",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC4",
+    "file": "content/corpus/ca-2026-q4-sec4-tv-rating-policy-trp-2026-net-worth-bar-for-rating.json"
+  },
+  "283": {
+    "noteNumber": 283,
+    "id": "ca-2026-q4-sec4-indias-milk-production-17-mt-1950-247-mt-2025-led-",
+    "title": "India's milk production** — 17 MT (1950) → **247 MT (2025)**, led by UP; NITI Aayog projects 480-606 MT demand by 2047; indigenous buffaloes = 31.18% share.",
+    "section": "SEC4",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC4",
+    "file": "content/corpus/ca-2026-q4-sec4-indias-milk-production-17-mt-1950-247-mt-2025-led-.json"
+  },
+  "284": {
+    "noteNumber": 284,
+    "id": "ca-2026-q4-sec4-india-leads-global-ircc-issuance-nagoya-protocol-3",
+    "title": "India leads global IRCC issuance (Nagoya Protocol)** — 3,561 of 6,311 IRCCs worldwide (**>56%**), global leader; only 34/142 countries issued any; France 2nd (964).",
+    "section": "SEC4",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC4",
+    "file": "content/corpus/ca-2026-q4-sec4-india-leads-global-ircc-issuance-nagoya-protocol-3.json"
+  },
+  "285": {
+    "noteNumber": 285,
+    "id": "ca-2026-q4-sec4-solid-waste-management-rules-2026-replaces-2016-sw",
+    "title": "Solid Waste Management Rules 2026** — replaces 2016 SWM Rules; effective 1 April 2026; 4-way segregation (wet/dry/sanitary/special-care); RDF substitution target 5%→15% over 6 years. ⏰ Status: effective date reached as scheduled.",
+    "section": "SEC4",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC4",
+    "file": "content/corpus/ca-2026-q4-sec4-solid-waste-management-rules-2026-replaces-2016-sw.json"
+  },
+  "286": {
+    "noteNumber": 286,
+    "id": "ca-2026-q4-sec4-quick-hits-national-firsts-8-cheetahs-from-botswan",
+    "title": "Quick Hits — National \"firsts\"**: 8 cheetahs from Botswana joining Kuno (3rd translocation batch, Project Cheetah, population now 53); V.O. Chidambaranar Port — India's 1st Digital Twin port platform; India's 1st hydrogen trainset (ICF Chennai, Jind-Sonipat trial); APSEZ's Port of Refuge — Dighi (west) + Gopalpur (east), India's 1st; India's 1st riverine lighthouses on Brahmaputra (₹84 crore, solar); India's 1st Integrated OTEC plant (Kavaratti) — world first-mover ahead of Japan/US; 25 MT GI-tagged Assam Joha Rice exported to UK/Italy; Odisha tops mining economy (~14% GVA); Madurai declared International Airport; Biopharma SHAKTI proposed (₹10,000 crore/5 yrs); National Dental Commission replaces Dental Council of India (in force 19 March 2026); Energy Statistics India 2026 (33rd edn) — renewable potential 47,04,043 MW.",
+    "section": "SEC4",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC4",
+    "file": "content/corpus/ca-2026-q4-sec4-quick-hits-national-firsts-8-cheetahs-from-botswan.json"
+  },
+  "287": {
+    "noteNumber": 287,
+    "id": "ca-2026-q4-sec4-mar-state-cluster",
+    "title": "[Mar] State cluster",
+    "section": "SEC4",
+    "date": "2026-03-20",
+    "period": "2026-Q4",
+    "category": "SEC4",
+    "file": "content/corpus/ca-2026-q4-sec4-mar-state-cluster.json"
+  },
+  "288": {
+    "noteNumber": 288,
+    "id": "ca-2026-q4-sec4-ups-project-ganga-rural-broadband-20-lakh-househol",
+    "title": "UP's Project GANGA** — rural broadband, 20 lakh+ households, 2-3 years.",
+    "section": "SEC4",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC4",
+    "file": "content/corpus/ca-2026-q4-sec4-ups-project-ganga-rural-broadband-20-lakh-househol.json"
+  },
+  "289": {
+    "noteNumber": 289,
+    "id": "ca-2026-q4-sec4-mar-international-cluster",
+    "title": "[Mar] International cluster",
+    "section": "SEC4",
+    "date": "2026-03-20",
+    "period": "2026-Q4",
+    "category": "SEC4",
+    "file": "content/corpus/ca-2026-q4-sec4-mar-international-cluster.json"
+  },
+  "290": {
+    "noteNumber": 290,
+    "id": "ca-2026-q4-sec4-fatf-adds-kuwait-papua-new-guinea-to-increased-mon",
+    "title": "FATF adds Kuwait, Papua New Guinea** to increased-monitoring \"grey list\"; high-risk \"black list\" unchanged (Iran, DPRK, Myanmar).",
+    "section": "SEC4",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC4",
+    "file": "content/corpus/ca-2026-q4-sec4-fatf-adds-kuwait-papua-new-guinea-to-increased-mon.json"
+  },
+  "291": {
+    "noteNumber": 291,
+    "id": "ca-2026-q4-sec4-14th-wto-ministerial-conference-yaound-cameroon-26",
+    "title": "14th WTO Ministerial Conference — Yaoundé, Cameroon**, 26-29 March 2026; India led by Commerce Minister Piyush Goyal. WTO: formed 1 Jan 1995; DG Ngozi Okonjo-Iweala; HQ Geneva.",
+    "section": "SEC4",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC4",
+    "file": "content/corpus/ca-2026-q4-sec4-14th-wto-ministerial-conference-yaound-cameroon-26.json"
+  },
+  "292": {
+    "noteNumber": 292,
+    "id": "ca-2026-q4-sec4-quick-hits-international-strait-of-hormuz-carries-",
+    "title": "Quick Hits — International**: Strait of Hormuz carries ~20% of global oil supply (20mn+ barrels/day), 2nd-busiest chokepoint after Malacca — West Asia-crisis context relevant across this note's fiscal items; India-Uzbekistan Pharma-Nutraceutical Corridor ($7-10bn CIS/Eurasian market target); Asia-Africa Agri Alliance (AAAA) — maize & millets focus, Africa's agri sector projected $1 trillion by 2030.",
+    "section": "SEC4",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC4",
+    "file": "content/corpus/ca-2026-q4-sec4-quick-hits-international-strait-of-hormuz-carries-.json"
+  },
+  "293": {
+    "noteNumber": 293,
+    "id": "ca-2026-q4-sec5-mous",
+    "title": "MoUs",
+    "section": "SEC5",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC5",
+    "file": "content/corpus/ca-2026-q4-sec5-mous.json"
+  },
+  "294": {
+    "noteNumber": 294,
+    "id": "ca-2026-q4-sec5-india-france-summit-21-agreements-feb-standing-exc",
+    "title": "India-France Summit — 21 agreements** — [Feb] *(standing exception)* — Defence Cooperation Agreement renewed 10 years; HAMMER missile JV (BEL+Safran); India's first private-sector helicopter assembly line (Tata Advanced Systems+Airbus, Karnataka); Indo-French Centre for AI in Health (AIIMS Delhi).",
+    "section": "SEC5",
+    "date": "2026-02-20",
+    "period": "2026-Q4",
+    "category": "SEC5",
+    "file": "content/corpus/ca-2026-q4-sec5-india-france-summit-21-agreements-feb-standing-exc.json"
+  },
+  "295": {
+    "noteNumber": 295,
+    "id": "ca-2026-q4-sec5-india-germany-summit-19-pacts-jan-visa-free-transi",
+    "title": "India-Germany Summit — 19 pacts** — [Jan] — visa-free transit for Indian passport holders via Germany; €1.24 billion GSDP funding; Track 1.5 Foreign Policy & Security Dialogue established.",
+    "section": "SEC5",
+    "date": "2026-01-20",
+    "period": "2026-Q4",
+    "category": "SEC5",
+    "file": "content/corpus/ca-2026-q4-sec5-india-germany-summit-19-pacts-jan-visa-free-transi.json"
+  },
+  "296": {
+    "noteNumber": 296,
+    "id": "ca-2026-q4-sec5-india-eu-13-agreements-jan-see-section-1-for-full-",
+    "title": "India-EU — 13 agreements** — [Jan] *(see Section 1 for full FTA detail; 🔄 MFN update in March)*",
+    "section": "SEC5",
+    "date": "2026-01-20",
+    "period": "2026-Q4",
+    "category": "SEC5",
+    "file": "content/corpus/ca-2026-q4-sec5-india-eu-13-agreements-jan-see-section-1-for-full-.json"
+  },
+  "297": {
+    "noteNumber": 297,
+    "id": "ca-2026-q4-sec5-other-notable-mous-janfeb-bharat-container-shippin",
+    "title": "Other notable MoUs — [Jan]+[Feb]** — Bharat Container Shipping Line (BCSL: SCI+CONCOR+major ports, under MoPSW/CMAS, separate ₹15,000 crore Outer Harbour financing MoU); FCI-WFP (2,00,000 MT rice to WFP over 5 years); India-Malaysia (11 pacts incl. NIPL-PayNet UPI link); ONGC-Mitsui OSK Lines (ethane-shipping JV via GIFT City); India-Namibia (election-management MoU, IICDEM 2026).",
+    "section": "SEC5",
+    "date": "2026-01-20",
+    "period": "2026-Q4",
+    "category": "SEC5",
+    "file": "content/corpus/ca-2026-q4-sec5-other-notable-mous-janfeb-bharat-container-shippin.json"
+  },
+  "298": {
+    "noteNumber": 298,
+    "id": "ca-2026-q4-sec5-mar-quick-hits-institutional-mous-scimazagon-dock-",
+    "title": "[Mar] Quick Hits — Institutional MoUs**: SCI+Mazagon Dock — India's first methanol dual-fuel Platform Supply Vessel (PSV); BHASHINI–PFRDA 'Seva-Sanchalan' (pension access in all 22 Eighth Schedule languages); UP Govt+RAILONE GmbH (₹200 crore rail modernisation); NITI Aayog+JICA (India-Japan SDG Phase II); NITI Aayog+UNICEF (nutrition, I4N platform); NPC+MoEFCC (NPC = Environment Audit Designated Agency); MSDE+GATI Foundation (3-year skills-mobility pact); Adani Group+UNESCO (1st Indian org as World Engineering Day partner).",
+    "section": "SEC5",
+    "date": "2026-03-20",
+    "period": "2026-Q4",
+    "category": "SEC5",
+    "file": "content/corpus/ca-2026-q4-sec5-mar-quick-hits-institutional-mous-scimazagon-dock-.json"
+  },
+  "299": {
+    "noteNumber": 299,
+    "id": "ca-2026-q4-sec5-mergers-acquisitions-mar",
+    "title": "Mergers & Acquisitions — [Mar]",
+    "section": "SEC5",
+    "date": "2026-03-20",
+    "period": "2026-Q4",
+    "category": "SEC5",
+    "file": "content/corpus/ca-2026-q4-sec5-mergers-acquisitions-mar.json"
+  },
+  "300": {
+    "noteNumber": 300,
+    "id": "ca-2026-q4-sec5-quick-hits-ma-boschtata-autocomp-5050-jv-e-axlestr",
+    "title": "Quick Hits — M&A**: Bosch+Tata Autocomp (50:50 JV, e-axles/traction motors); Rajasthan Royals sold to Kal Somani (US) for $1.63bn (replacing Manoj Badale); RCB sold for **$1.78bn (₹16,660 crore)** — USL to Aditya Birla Group/Times of India Group/Blackstone/Bolt Ventures consortium.",
+    "section": "SEC5",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC5",
+    "file": "content/corpus/ca-2026-q4-sec5-quick-hits-ma-boschtata-autocomp-5050-jv-e-axlestr.json"
+  },
+  "301": {
+    "noteNumber": 301,
+    "id": "ca-2026-q4-sec5-conferences",
+    "title": "Conferences",
+    "section": "SEC5",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC5",
+    "file": "content/corpus/ca-2026-q4-sec5-conferences.json"
+  },
+  "302": {
+    "noteNumber": 302,
+    "id": "ca-2026-q4-sec5-9th-ions-conclave-of-chiefs-visakhapatnam-feb-indi",
+    "title": "9th IONS Conclave of Chiefs** (Visakhapatnam) — [Feb] — India assumes IONS chairmanship 2026-28 *(🔄 see Section 6 defence entry for the formal takeover at IMEX TTX 2026)*.",
+    "section": "SEC5",
+    "date": "2026-02-20",
+    "period": "2026-Q4",
+    "category": "SEC5",
+    "file": "content/corpus/ca-2026-q4-sec5-9th-ions-conclave-of-chiefs-visakhapatnam-feb-indi.json"
+  },
+  "303": {
+    "noteNumber": 303,
+    "id": "ca-2026-q4-sec5-mar-quick-hits-conferences-mobile-world-congress-2",
+    "title": "[Mar] Quick Hits — Conferences**: Mobile World Congress 2026 (Barcelona, 2-5 March, theme \"The IQ Era\", India rep Jyotiraditya Scindia); 11th Raisina Dialogue (New Delhi, 5-7 March, Chief Guest Finland's President Alexander Stubb, theme \"Saṁskāra\"); BRICS CCI Women Empowerment Summit (6th edn, New Delhi, 21-23 March, theme WISE, Shabana Azmi honoured); Global Conference on Women in Agri-Food Systems 2026 (inaugurated by President Murmu; UN's 2026 = Intl Year of the Woman Farmer); 9th India Pharma Conference 2026 (13-14 April, theme \"Discover in India\"); Prakriti 2026 Carbon Markets Conference (3 pillars: Credibility, Capital, Collaboration — Paris Agreement Article 6); Bharat Tex 2026 (3rd edn, 14-17 July, \"5F Vision\").",
+    "section": "SEC5",
+    "date": "2026-03-20",
+    "period": "2026-Q4",
+    "category": "SEC5",
+    "file": "content/corpus/ca-2026-q4-sec5-mar-quick-hits-conferences-mobile-world-congress-2.json"
+  },
+  "304": {
+    "noteNumber": 304,
+    "id": "ca-2026-q4-sec5-mar-committee-nbas-expert-committee-on-invasive-al",
+    "title": "[Mar] Committee**: NBA's Expert Committee on Invasive Alien Species — Chair Dhananjai Mohan (IFS Retd), 2-year tenure.",
+    "section": "SEC5",
+    "date": "2026-03-20",
+    "period": "2026-Q4",
+    "category": "SEC5",
+    "file": "content/corpus/ca-2026-q4-sec5-mar-committee-nbas-expert-committee-on-invasive-al.json"
+  },
+  "305": {
+    "noteNumber": 305,
+    "id": "ca-2026-q4-sec5-appointments",
+    "title": "Appointments",
+    "section": "SEC5",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC5",
+    "file": "content/corpus/ca-2026-q4-sec5-appointments.json"
+  },
+  "306": {
+    "noteNumber": 306,
+    "id": "ca-2026-q4-sec5-key-appointments-tier-a-rbisebipsu-bankmajor-regul",
+    "title": "Key Appointments (Tier A — RBI/SEBI/PSU-Bank/major regulator), consolidated Jan-Mar",
+    "section": "SEC5",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC5",
+    "file": "content/corpus/ca-2026-q4-sec5-key-appointments-tier-a-rbisebipsu-bankmajor-regul.json"
+  },
+  "307": {
+    "noteNumber": 307,
+    "id": "ca-2026-q4-sec6-science-technology",
+    "title": "Science & Technology",
+    "section": "SEC6",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC6",
+    "file": "content/corpus/ca-2026-q4-sec6-science-technology.json"
+  },
+  "308": {
+    "noteNumber": 308,
+    "id": "ca-2026-q4-sec6-defence-highlights-janfeb-merged-drdos-lr-ashm-hyp",
+    "title": "Defence highlights — [Jan]+[Feb] merged**: DRDO's LR-AShM hypersonic glide missile (Republic Day debut); Indian Army's 'Bhairav' drone-warfare force (over 1 lakh trained operatives); Agni-III IRBM test (ITR Chandipur, ~3,000-3,500 km range); India's nuclear stockpile ranks **6th globally, 180 warheads** (FAS report; Russia leads 4,309); President Murmu flies LCH 'Prachand' (first Indian President to fly India's indigenous combat helicopter); **PRAHAAR** — MHA's new national counter-terrorism policy.",
+    "section": "SEC6",
+    "date": "2026-01-20",
+    "period": "2026-Q4",
+    "category": "SEC6",
+    "file": "content/corpus/ca-2026-q4-sec6-defence-highlights-janfeb-merged-drdos-lr-ashm-hyp.json"
+  },
+  "309": {
+    "noteNumber": 309,
+    "id": "ca-2026-q4-sec6-sci-tech-highlights-janfeb-merged-indias-first-sat",
+    "title": "Sci-Tech highlights — [Jan]+[Feb] merged**: India's first satellite from NE India (Lachit-1); Pixxel-led group wins first private national EO satellite project; ISRO identifies Chandrayaan-4 landing site — **MM-4** (Mons Mouton region), mission ~2028; **Bharat GenAI** sovereign AI text-model initiative (IIT Bombay, 15/22 scheduled languages so far).",
+    "section": "SEC6",
+    "date": "2026-01-20",
+    "period": "2026-Q4",
+    "category": "SEC6",
+    "file": "content/corpus/ca-2026-q4-sec6-sci-tech-highlights-janfeb-merged-indias-first-sat.json"
+  },
+  "310": {
+    "noteNumber": 310,
+    "id": "ca-2026-q4-sec6-mar-quick-hits-sci-tech-isros-ce20-cryogenic-engin",
+    "title": "[Mar] Quick Hits — Sci-Tech**: ISRO's CE20 cryogenic engine ground test — 165 sec, **22 tonnes thrust**, Mahendragiri (TN), powers LVM3 upper stage; IVRI produces India's first Sahiwal calves via combined OPU-IVF-ET (ICAR, Izatnagar).",
+    "section": "SEC6",
+    "date": "2026-03-20",
+    "period": "2026-Q4",
+    "category": "SEC6",
+    "file": "content/corpus/ca-2026-q4-sec6-mar-quick-hits-sci-tech-isros-ce20-cryogenic-engin.json"
+  },
+  "311": {
+    "noteNumber": 311,
+    "id": "ca-2026-q4-sec6-defence",
+    "title": "Defence",
+    "section": "SEC6",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC6",
+    "file": "content/corpus/ca-2026-q4-sec6-defence.json"
+  },
+  "312": {
+    "noteNumber": 312,
+    "id": "ca-2026-q4-sec6-mar-quick-hits-defence-exercisesplatforms-lamitiye",
+    "title": "[Mar] Quick Hits — Defence exercises/platforms**: LAMITIYE-2026 (11th edn, India-Seychelles, biennial since 2001); NATO's Cold Response (Arctic, Norway/Finland, Arctic Sentry); INS Trikand (Mauritius 58th National Day, Talwar-class, Russia-built); P-8I/ADC-150 (DRDO-Navy indigenous 150kg Air Droppable Container trials); Exercise Sea Dragon 2026 (US-led, Guam; India/Japan/Australia/NZ); SAGAR 2nd edition (India's IOR maritime-security framework, 16 IONS nations, under MAHASAGAR vision); Exercise Amogh Jwala (Indian Army Southern Command, Babina); Exercise KAKADU 2026 (17th edn, Australia-led, India won Kakadu Shield Trophy); Prahar LMGs — Adani Defense delivered first batch of 2,000 to Army; Expedition Lokayan-26 (INS Sudarshini reached Sète, France).",
+    "section": "SEC6",
+    "date": "2026-03-20",
+    "period": "2026-Q4",
+    "category": "SEC6",
+    "file": "content/corpus/ca-2026-q4-sec6-mar-quick-hits-defence-exercisesplatforms-lamitiye.json"
+  },
+  "313": {
+    "noteNumber": 313,
+    "id": "ca-2026-q4-sec6-sports",
+    "title": "Sports",
+    "section": "SEC6",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC6",
+    "file": "content/corpus/ca-2026-q4-sec6-sports.json"
+  },
+  "314": {
+    "noteNumber": 314,
+    "id": "ca-2026-q4-sec6-sports-top-results-janfeb-merged-u19-cricket-world",
+    "title": "Sports — top results, Jan+Feb merged**: **U19 Cricket World Cup** — India won 6th title (Feb); Vaibhav Suryavanshi, Player of Match & Series. **WPL 2026** — RCB won 4th title. **Winter Olympics 2026** (Milan-Cortina) — Norway topped medal table. **Vijay Hazare Trophy** — Vidarbha won maiden title (Jan). **6th Khelo India Winter Games** (Ladakh) / **2nd Khelo India Beach Games** (Dadra & Nagar Haveli) (Jan) — same brand, different editions/locations.",
+    "section": "SEC6",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC6",
+    "file": "content/corpus/ca-2026-q4-sec6-sports-top-results-janfeb-merged-u19-cricket-world.json"
+  },
+  "315": {
+    "noteNumber": 315,
+    "id": "ca-2026-q4-sec6-mar-india-wins-icc-mens-t20-world-cup-2026-3rd-tit",
+    "title": "[Mar] India wins ICC Men's T20 World Cup 2026 (3rd title) *(standing high-value sports item)*",
+    "section": "SEC6",
+    "date": "2026-03-20",
+    "period": "2026-Q4",
+    "category": "SEC6",
+    "file": "content/corpus/ca-2026-q4-sec6-mar-india-wins-icc-mens-t20-world-cup-2026-3rd-tit.json"
+  },
+  "316": {
+    "noteNumber": 316,
+    "id": "ca-2026-q4-sec6-jk-wins-its-first-ever-ranji-trophy-2026-beat-karn",
+    "title": "J&K wins its first-ever Ranji Trophy (2026)** — beat Karnataka at Hubballi; 10th team in 92 years; 67 years since debut (1959-60); most titles: Mumbai (42) > Karnataka (8) > Delhi (7).",
+    "section": "SEC6",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC6",
+    "file": "content/corpus/ca-2026-q4-sec6-jk-wins-its-first-ever-ranji-trophy-2026-beat-karn.json"
+  },
+  "317": {
+    "noteNumber": 317,
+    "id": "ca-2026-q4-sec6-mar-quick-hits-sports-indias-93rd-94th-grandmaster",
+    "title": "[Mar] Quick Hits — Sports**: India's 93rd & 94th Grandmasters (Aarav Dengla-Mumbai; Mayank Chakraborty-Assam, first-ever GM from NE); Anand = India's 1st GM (1988), Vijayalakshmi = first WGM (2001); Asian Games 2026 (20th edn, Aichi-Nagoya, Japan, Sept 19-Oct 4, mascot HONOHON); Khelo India Tribal Games 2026 (host Chhattisgarh, mascot 'Morveer'); All England Open 2026 (Lakshya Sen lost final to Lin Chun-Yi); Asia Cup Archery (New Delhi to host 2027, India's first hosting in 22 yrs); FIH Hockey Women's WC 2026 (India's 9th appearance, Belgium/Netherlands); World Boxing Futures Cup 2026 (Chandrika Pujari gold, women's 51kg); World Indoor Athletics Championships **2028 awarded to India** (Kalinga Stadium, Bhubaneswar); IPL 2026 (19th edn, opens 27 March, Chinnaswamy Stadium; most expensive player Cameron Green ₹25.20 cr; most expensive uncapped/Indian Prashant Veer/Kartik Sharma ₹14.20 cr); IOC's new \"Protection of the Female Category\" policy (SRY-gene screening, effective LA28/2028).",
+    "section": "SEC6",
+    "date": "2026-03-20",
+    "period": "2026-Q4",
+    "category": "SEC6",
+    "file": "content/corpus/ca-2026-q4-sec6-mar-quick-hits-sports-indias-93rd-94th-grandmaster.json"
+  },
+  "318": {
+    "noteNumber": 318,
+    "id": "ca-2026-q4-sec7-indices-rankings-standing-tier-a-always-included",
+    "title": "Indices & Rankings *(standing Tier A — always included)*",
+    "section": "SEC7",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC7",
+    "file": "content/corpus/ca-2026-q4-sec7-indices-rankings-standing-tier-a-always-included.json"
+  },
+  "319": {
+    "noteNumber": 319,
+    "id": "ca-2026-q4-sec7--consolidated-global-indices-table-indias-rank-jan",
+    "title": "📊 Consolidated Global Indices Table — India's rank, Jan-Mar 2026",
+    "section": "SEC7",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC7",
+    "file": "content/corpus/ca-2026-q4-sec7--consolidated-global-indices-table-indias-rank-jan.json"
+  },
+  "320": {
+    "noteNumber": 320,
+    "id": "ca-2026-q4-sec7-mar-indias-billionaire-counts-hurun-vs-forbes-2026",
+    "title": "[Mar] India's billionaire counts — Hurun vs Forbes 2026 (don't confuse the two)",
+    "section": "SEC7",
+    "date": "2026-03-20",
+    "period": "2026-Q4",
+    "category": "SEC7",
+    "file": "content/corpus/ca-2026-q4-sec7-mar-indias-billionaire-counts-hurun-vs-forbes-2026.json"
+  },
+  "321": {
+    "noteNumber": 321,
+    "id": "ca-2026-q4-sec7-reports",
+    "title": "Reports",
+    "section": "SEC7",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC7",
+    "file": "content/corpus/ca-2026-q4-sec7-reports.json"
+  },
+  "322": {
+    "noteNumber": 322,
+    "id": "ca-2026-q4-sec7-janfeb-india-relevant-reports-fdi-inflows-jumped-7",
+    "title": "[Jan/Feb] India-relevant reports**: FDI inflows jumped **73% to $47 billion in 2025** (UNCTAD); India nuclear stockpile 6th globally, 180 warheads (cross-ref Section 6); India 3rd-largest wind+solar capacity globally (>163 GW); India 2nd-largest active smartphone base (740mn+); Economic Survey cites Power Gap Index for first time — India score -4.0 (lowest in Asia excl. Russia/N. Korea).",
+    "section": "SEC7",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC7",
+    "file": "content/corpus/ca-2026-q4-sec7-janfeb-india-relevant-reports-fdi-inflows-jumped-7.json"
+  },
+  "323": {
+    "noteNumber": 323,
+    "id": "ca-2026-q4-sec7-mar-india-ranks-2nd-largest-global-arms-importer-2",
+    "title": "[Mar] India ranks 2nd-largest global arms importer 2021-25 (SIPRI)** — Trends in International Arms Transfers report; largest chunk from Russia; Ukraine 1st; top 5 importers: Ukraine, India, Saudi Arabia, Qatar, Pakistan; top 5 suppliers: USA, France, Russia, Germany, China.",
+    "section": "SEC7",
+    "date": "2026-03-20",
+    "period": "2026-Q4",
+    "category": "SEC7",
+    "file": "content/corpus/ca-2026-q4-sec7-mar-india-ranks-2nd-largest-global-arms-importer-2.json"
+  },
+  "324": {
+    "noteNumber": 324,
+    "id": "ca-2026-q4-sec7-mar-microfinance-pulse-report-equifax-india-sidbi-",
+    "title": "[Mar] Microfinance Pulse Report** (Equifax India + SIDBI) — loans >₹75,000 now 38% of disbursement value (up from 25% YoY); loans <₹50,000 down to 17% (from 33%); Bihar largest MFI portfolio (despite 23% YoY drop); Karnataka sharpest contraction (34%); Tamil Nadu lowest 30+ delinquency.",
+    "section": "SEC7",
+    "date": "2026-03-20",
+    "period": "2026-Q4",
+    "category": "SEC7",
+    "file": "content/corpus/ca-2026-q4-sec7-mar-microfinance-pulse-report-equifax-india-sidbi-.json"
+  },
+  "325": {
+    "noteNumber": 325,
+    "id": "ca-2026-q4-sec7-mar-indias-maternal-child-mortality-major-declines",
+    "title": "[Mar] India's maternal & child mortality — major declines**: Maternal mortality (Lancet) fell ~80% since 1990 — 508→**116**/lakh live births (2023); SRS 2021-23 puts current MMR at 88. Child mortality (UN IGME): Neonatal Mortality Rate down ~70% — 57→**17**/1,000 (1990→2024); Under-5 Mortality Rate down 79% — 127→**27**. SDG targets: U5MR <25, NMR <12/1,000.",
+    "section": "SEC7",
+    "date": "2026-03-20",
+    "period": "2026-Q4",
+    "category": "SEC7",
+    "file": "content/corpus/ca-2026-q4-sec7-mar-indias-maternal-child-mortality-major-declines.json"
+  },
+  "326": {
+    "noteNumber": 326,
+    "id": "ca-2026-q4-sec7-mar-quick-hits-reports-world-obesity-atlas-2026-in",
+    "title": "[Mar] Quick Hits — Reports**: World Obesity Atlas 2026 — India ranks 2nd globally for child overweight/obesity (after China; 14.9mn age 5-9 + 26.4mn 10-19, 2025); World Happiness Report 2026 (14th edn, Oxford/Gallup) — top 5 Finland/Iceland/Denmark/Costa Rica/Sweden; IIED Food Security Index — India among most vulnerable large economies to climate-driven food insecurity; IQAir Global Air Quality — world's 25 most polluted cities all in India/Pakistan/China; Textile Waste Value Chain report — India generates ~70.73 lakh tonnes/year, recycling market could hit $3.5bn by 2030; NITI Aayog Sports Equipment export report — exports could grow $275mn(2024)→$8.1bn(2036).",
+    "section": "SEC7",
+    "date": "2026-03-20",
+    "period": "2026-Q4",
+    "category": "SEC7",
+    "file": "content/corpus/ca-2026-q4-sec7-mar-quick-hits-reports-world-obesity-atlas-2026-in.json"
+  },
+  "327": {
+    "noteNumber": 327,
+    "id": "ca-2026-q4-sec7-awards",
+    "title": "Awards",
+    "section": "SEC7",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC7",
+    "file": "content/corpus/ca-2026-q4-sec7-awards.json"
+  },
+  "328": {
+    "noteNumber": 328,
+    "id": "ca-2026-q4-sec7-janfeb-awards-padma-awards-2026-131-total-5-vibhus",
+    "title": "[Jan/Feb] Awards**: Padma Awards 2026 — 131 total (5 Vibhushan + 13 Bhushan + 113 Shri); Crafoord Prize 2026 (\"Nobel of Geosciences\") — Veerabhadran Ramanathan (Indian-origin); Global Teacher Prize 2026 — Rouble Nagi (India).",
+    "section": "SEC7",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC7",
+    "file": "content/corpus/ca-2026-q4-sec7-janfeb-awards-padma-awards-2026-131-total-5-vibhus.json"
+  },
+  "329": {
+    "noteNumber": 329,
+    "id": "ca-2026-q4-sec7-mar-quick-hits-awards-stockholm-water-prize-2026-p",
+    "title": "[Mar] Quick Hits — Awards**: Stockholm Water Prize 2026 — Prof. Kaveh Madani, youngest-ever laureate (\"water bankruptcy\" concept); Sheetal Devi (J&K, 19) — World Archery's Para Archer of the Year 2025; Saraswati Samman 2025 — Ramkumar Mukhopadhyay (₹15 lakh); Ramnath Goenka Awards 2026 (20th edn); Sunil Bharti Mittal — GSMA Lifetime Achievement (MWC Barcelona); India women's cricket team — 1st women's team nominated for Laureus World Team of the Year.",
+    "section": "SEC7",
+    "date": "2026-03-20",
+    "period": "2026-Q4",
+    "category": "SEC7",
+    "file": "content/corpus/ca-2026-q4-sec7-mar-quick-hits-awards-stockholm-water-prize-2026-p.json"
+  },
+  "330": {
+    "noteNumber": 330,
+    "id": "ca-2026-q4-sec7-books",
+    "title": "Books",
+    "section": "SEC7",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC7",
+    "file": "content/corpus/ca-2026-q4-sec7-books.json"
+  },
+  "331": {
+    "noteNumber": 331,
+    "id": "ca-2026-q4-sec7-mar-quick-hits-books-mahatma-a-great-communicator-",
+    "title": "[Mar] Quick Hits — Books**: *Mahatma: A Great Communicator* (Dr Dhiraj Kakadia, released by Mansukh Mandaviya); *Quantum Physics: One Hundred Magical Years* (V.P.N. Nampoori); *Karuna: The Power of Compassion* (Kailash Satyarthi).",
+    "section": "SEC7",
+    "date": "2026-03-20",
+    "period": "2026-Q4",
+    "category": "SEC7",
+    "file": "content/corpus/ca-2026-q4-sec7-mar-quick-hits-books-mahatma-a-great-communicator-.json"
+  },
+  "332": {
+    "noteNumber": 332,
+    "id": "ca-2026-q4-sec7-festivals-state-pairings-mar",
+    "title": "Festivals — state pairings (Mar)",
+    "section": "SEC7",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC7",
+    "file": "content/corpus/ca-2026-q4-sec7-festivals-state-pairings-mar.json"
+  },
+  "333": {
+    "noteNumber": 333,
+    "id": "ca-2026-q4-sec8--consolidated-important-days-jan-mar-2026",
+    "title": "📅 Consolidated Important Days — Jan-Mar 2026",
+    "section": "SEC8",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC8",
+    "file": "content/corpus/ca-2026-q4-sec8--consolidated-important-days-jan-mar-2026.json"
+  },
+  "334": {
+    "noteNumber": 334,
+    "id": "ca-2026-q4-sec8--persons-in-news-jan-mar-2026",
+    "title": "👤 Persons in News — Jan-Mar 2026",
+    "section": "SEC8",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "category": "SEC8",
+    "file": "content/corpus/ca-2026-q4-sec8--persons-in-news-jan-mar-2026.json"
+  },
+  "335": {
+    "noteNumber": 335,
+    "id": "ca-2026-q4-sec9-feb-rare-earth-minerals-push-scheme-to-promote-man",
+    "title": "[Feb] Rare-earth minerals push** — Scheme to Promote Manufacturing of Sintered Rare Earth Permanent Magnets: ₹7,280 crore outlay, target **6,000 MTPA** REPM capacity; 🔄 ties to Budget's Rare Earth Corridors (Section 1) and National Critical Mineral Mission (approved 29 Jan 2025).",
+    "section": "SEC9",
+    "date": "2026-02-20",
+    "period": "2026-Q4",
+    "category": "SEC9",
+    "file": "content/corpus/ca-2026-q4-sec9-feb-rare-earth-minerals-push-scheme-to-promote-man.json"
+  },
+  "336": {
+    "noteNumber": 336,
+    "id": "ca-2026-q4-sec9-feb-hpv-vaccination-drive-nationwide-for-14-year-o",
+    "title": "[Feb] HPV Vaccination Drive** — nationwide, for 14-year-old girls, launched from Ajmer, Rajasthan; uses Gardasil; vision \"Swastha Nari.\"",
+    "section": "SEC9",
+    "date": "2026-02-20",
+    "period": "2026-Q4",
+    "category": "SEC9",
+    "file": "content/corpus/ca-2026-q4-sec9-feb-hpv-vaccination-drive-nationwide-for-14-year-o.json"
+  },
+  "337": {
+    "noteNumber": 337,
+    "id": "ca-2026-q4-sec10-feb-pm-setu-iti-upgrade-60000-crore-outlay-upgrade",
+    "title": "[Feb] PM-SETU (ITI upgrade)** — ₹60,000 crore outlay, upgrades 1,000 ITIs; World Bank $830 million loan approved.",
+    "section": "SEC10",
+    "date": "2026-02-20",
+    "period": "2026-Q4",
+    "category": "SEC10",
+    "file": "content/corpus/ca-2026-q4-sec10-feb-pm-setu-iti-upgrade-60000-crore-outlay-upgrade.json"
+  },
+  "338": {
+    "noteNumber": 338,
+    "id": "ca-2026-q4-sec10-feb-vibrant-village-programme-phase-ii-covers-1954",
+    "title": "[Feb] Vibrant Village Programme Phase II** — covers 1,954 strategic border villages, 15 states + 2 UTs (Pakistan/Nepal/Bangladesh/Bhutan/Myanmar borders).",
+    "section": "SEC10",
+    "date": "2026-02-20",
+    "period": "2026-Q4",
+    "category": "SEC10",
+    "file": "content/corpus/ca-2026-q4-sec10-feb-vibrant-village-programme-phase-ii-covers-1954.json"
+  },
+  "339": {
+    "noteNumber": 339,
+    "id": "ca-2026-q4-sec10-feb-april-1-2026-non-rbi-mandates-20-ethanol-blend",
+    "title": "[Feb] April 1, 2026 non-RBI mandates** — 20% ethanol-blended petrol mandatory nationwide; cash payments end at all NH toll plazas (FASTag/UPI only) — 🔄 pairs with the RBI/SEBI/tax April-1 mega-cluster (see Section 2 running thread).",
+    "section": "SEC10",
+    "date": "2026-02-20",
+    "period": "2026-Q4",
+    "category": "SEC10",
+    "file": "content/corpus/ca-2026-q4-sec10-feb-april-1-2026-non-rbi-mandates-20-ethanol-blend.json"
+  },
+  "340": {
+    "noteNumber": 340,
+    "id": "ca-2026-q4-sec10-jan-static-scheme-facts-sukanya-samriddhi-yojana-l",
+    "title": "[Jan] Static scheme facts** — Sukanya Samriddhi Yojana (launched 22 Jan 2015, current interest rate 8.2%); Atal Pension Yojana (continuation approved up to FY 2030-31).",
+    "section": "SEC10",
+    "date": "2026-01-20",
+    "period": "2026-Q4",
+    "category": "SEC10",
+    "file": "content/corpus/ca-2026-q4-sec10-jan-static-scheme-facts-sukanya-samriddhi-yojana-l.json"
+  },
+  "341": {
+    "noteNumber": 341,
+    "id": "ca-2026-q4-sec10-mar-key-economic-data-one-liners-hsbc-india-manufa",
+    "title": "[Mar] Key economic data one-liners** — HSBC India Manufacturing PMI (S&P Global) **56.9** in Feb 2026 (up from 55.4 Jan) — highest since Oct 2025; **GST collections, Feb 2026: ₹1.83 lakh crore**, up 8.1% YoY; **WPI inflation, Feb 2026: 2.13%** (provisional, base 2011-12) — 🔄 cross-refs the Section 1 GDP/CPI/IIP saga.",
+    "section": "SEC10",
+    "date": "2026-03-20",
+    "period": "2026-Q4",
+    "category": "SEC10",
+    "file": "content/corpus/ca-2026-q4-sec10-mar-key-economic-data-one-liners-hsbc-india-manufa.json"
+  },
+  "342": {
+    "noteNumber": 342,
+    "id": "ca-2026-q4-sec10-mar-banking-finance-one-liners-icici-bank-board-ap",
+    "title": "[Mar] Banking & finance one-liners** — ICICI Bank Board approved buying up to 2% additional stake in ICICI Prudential Life Insurance; **Cred** received final RBI payment aggregator licence; RBI fined Manappuram Finance ₹2.70 lakh (KMP compensation non-compliance); Motilal Oswal Home Finance — $100mn ADB debt-financing (NCD) for affordable housing; DEG (Germany)+Citi — $76mn co-financing to Shriram Finance; India INX Global Access IFSC + HSBC IBU (GIFT City) partnership; Doha Bank exiting India (closing Mumbai & Kochi branches after 10+ years); SEBI examining Calcutta Stock Exchange's voluntary-exit application; **Trump announced $300 billion partnership with Reliance Industries** (\"America First Refining\" — first major new US oil refinery in 50 years); Amrit Bharat Station Scheme — redevelopment of 1,338 railway stations.",
+    "section": "SEC10",
+    "date": "2026-03-20",
+    "period": "2026-Q4",
+    "category": "SEC10",
+    "file": "content/corpus/ca-2026-q4-sec10-mar-banking-finance-one-liners-icici-bank-board-ap.json"
   }
 }

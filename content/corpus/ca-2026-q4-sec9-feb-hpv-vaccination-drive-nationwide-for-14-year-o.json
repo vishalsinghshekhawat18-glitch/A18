@@ -1,0 +1,49 @@
+{
+  "id": "ca-2026-q4-sec9-feb-hpv-vaccination-drive-nationwide-for-14-year-o",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "[Feb] HPV Vaccination Drive** — nationwide, for 14-year-old girls, launched from Ajmer, Rajasthan; uses Gardasil; vision \"Swastha Nari.\"",
+  "summary": "**[Jan]**: No standalone PIB/circular items separate from subject-matter news — Jan's PIB-tagged releases (PANKHUDI portal, wage revisions, ECMS approvals, Padm...",
+  "blocks": [
+    {
+      "id": "blk-q4-135-p",
+      "type": "paragraph",
+      "content": "**[Jan]**: No standalone PIB/circular items separate from subject-matter news — Jan's PIB-tagged releases (PANKHUDI portal, wage revisions, ECMS approvals, Padma Awards, ECINET) filed under their respective subject sections.\n\n**[Mar]**: No separate PIB/Circulars sub-PDF was processed for March (consistent with the existing backlog note — CGB's dedicated PIB/Circulars PDFs for Jan-Mar remain unprocessed; see Content Gaps below). March's regulatory-notification-type items are filed under Sections 1, 2, and 4 (Income Tax Rules, SWM Rules, FSSAI reforms, etc.) rather than duplicated here."
+    },
+    {
+      "id": "blk-q4-135-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Complete self-contained fact cluster."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-q4",
+      "jan-mar-2026",
+      "sec9",
+      "claude-consolidated"
+    ],
+    "category": "SEC9",
+    "sectionCode": "SEC9",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-02-20",
+    "period": "2026-Q4",
+    "monthLabel": "JANUARY – MARCH 2026",
+    "monthGroup": "2026-01-03",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "Q4 FY26_Jan to March.md",
+      "sourceTitle": "[Feb] HPV Vaccination Drive** — nationwide, for 14-year-old girls, launched from Ajmer, Rajasthan; uses Gardasil; vision \"Swastha Nari.\""
+    },
+    "noteNumber": 336
+  },
+  "relationships": []
+}

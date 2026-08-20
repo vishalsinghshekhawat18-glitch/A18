@@ -170,7 +170,10 @@ export function groupCAItemsByMonth(caItems: KnowledgeItem[]): CAMonthGroup[] {
     let monthKey = '9999-99';
     let monthLabel = 'OTHER BRIEFINGS';
 
-    if (dateStr && dateStr.match(/^\d{4}-\d{2}-\d{2}$/)) {
+    if (item.metadata?.monthGroup === '2026-01-03' || item.metadata?.period === '2026-Q4' || (item.id.includes('2026-q4') && !item.id.includes('sec11'))) {
+      monthKey = '2026-01-03';
+      monthLabel = 'JANUARY – MARCH 2026 (Q4)';
+    } else if (dateStr && dateStr.match(/^\d{4}-\d{2}-\d{2}$/)) {
       const [y, m] = dateStr.split('-');
       monthKey = `${y}-${m}`;
       const dObj = new Date(parseInt(y, 10), parseInt(m, 10) - 1, 1);

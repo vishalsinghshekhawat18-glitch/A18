@@ -1,0 +1,62 @@
+{
+  "id": "ca-2026-q4-sec2-rbis-digital-payment-safety-cluster-mar-standing-e",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI's digital-payment safety cluster — [Mar] *(standing exception — links to Feb's digital-fraud-comp item above)*",
+  "summary": "**A) 2FA mandatory from April 1, 2026** for digital payments (cards/UPI/wallets); cross-border card-not-present transactions get same rule from **October 1, 202...",
+  "blocks": [
+    {
+      "id": "blk-q4-34-p",
+      "type": "paragraph",
+      "content": "⏰ *Status note: the digital-fraud compensation framework (Feb item + this March directions cluster) — finalised, but implementation has been **deferred twice**, now targeted 1 January 2027 (not April 2026 as originally drafted). See consolidated Status Check.*"
+    },
+    {
+      "id": "blk-q4-34-bullets",
+      "type": "bullet_list",
+      "items": [
+        "**A) 2FA mandatory from April 1, 2026** for digital payments (cards/UPI/wallets); cross-border card-not-present transactions get same rule from **October 1, 2026**",
+        "**B) DigiLocker verification** for high-risk transactions, mandatory for banks from April 1, 2026",
+        "**C) 🔄 Draft customer-protection rules** (RBI Commercial Banks – Responsible Business Conduct Third Amendment Directions, 2026), applicable from **July 1, 2026**: small-value fraud (≤₹25,000 loss) gets 85% compensation or ₹25,000 (whichever less) — this is the *implementing directions* for the Feb fraud-compensation framework",
+        "**D) IDPIC** (Indian Digital Payment Intelligence Corporation) — Section 8 company, incorporated 16/10/2025, real-time AI/ML fraud detection",
+        "**E) MuleHunter.AI** — mule-account detection, live in 26 banks",
+        "**F) Digital Payment Awareness Week (6th edn)**, 9-13 March 2026, theme \"Har Payment Digital\"; campaign \"Thoda Dhyan Se\"",
+        "**G) RBI won 'Initiative of the Year'** (13th Central Banking Awards, London) for **.bank.in** domain — India 1st country to mandate a dedicated banking internet domain; IDRBT sole registrar"
+      ]
+    },
+    {
+      "id": "blk-q4-34-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — 2FA deadline (Apr 1) vs cross-border CNP deadline (Oct 1) date-trap; \".bank.in — world's 1st\" standalone fact."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-q4",
+      "jan-mar-2026",
+      "sec2",
+      "claude-consolidated"
+    ],
+    "category": "SEC2",
+    "sectionCode": "SEC2",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-03-20",
+    "period": "2026-Q4",
+    "monthLabel": "JANUARY – MARCH 2026",
+    "monthGroup": "2026-01-03",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "Q4 FY26_Jan to March.md",
+      "sourceTitle": "RBI's digital-payment safety cluster — [Mar] *(standing exception — links to Feb's digital-fraud-comp item above)*"
+    },
+    "noteNumber": 235
+  },
+  "relationships": []
+}

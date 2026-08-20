@@ -1,0 +1,56 @@
+{
+  "id": "ca-2026-q4-sec1-wto-global-trade-outlook-march-2026",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "WTO Global Trade Outlook (March 2026)",
+  "summary": "Global merchandise trade growth to slow to **1.9%** in 2026 (from 4.6% in 2025), recovering to 2.6% in 2027; global GDP growth 2.9%(2025)→2.8%(2026&2027); DG Ng...",
+  "blocks": [
+    {
+      "id": "blk-q4-14-p",
+      "type": "paragraph",
+      "content": "🚫 Also cited by other agencies for related global-growth context — not repeating; WTO figure is primary."
+    },
+    {
+      "id": "blk-q4-14-bullets",
+      "type": "bullet_list",
+      "items": [
+        "Global merchandise trade growth to slow to **1.9%** in 2026 (from 4.6% in 2025), recovering to 2.6% in 2027; global GDP growth 2.9%(2025)→2.8%(2026&2027); DG Ngozi Okonjo-Iweala, HQ Geneva"
+      ]
+    },
+    {
+      "id": "blk-q4-14-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → WTO 2026 trade-growth forecast = 1.9% (down from 4.6%)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-q4",
+      "jan-mar-2026",
+      "sec1",
+      "claude-consolidated"
+    ],
+    "category": "SEC1",
+    "sectionCode": "SEC1",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "monthLabel": "JANUARY – MARCH 2026",
+    "monthGroup": "2026-01-03",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "Q4 FY26_Jan to March.md",
+      "sourceTitle": "WTO Global Trade Outlook (March 2026)"
+    },
+    "noteNumber": 215
+  },
+  "relationships": []
+}

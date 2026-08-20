@@ -1,0 +1,52 @@
+{
+  "id": "ca-2026-q4-sec1-export-promotion-mission-e-commerce-msme-credit",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Export Promotion Mission — e-commerce MSME credit",
+  "summary": "₹25,060 crore outlay; credit = 20% of avg 2-yr export sales (direct) / up to 50% inventory cost (overseas-warehouse); subvention cap ₹15 lakh/beneficiary/year; ...",
+  "blocks": [
+    {
+      "id": "blk-q4-12-bullets",
+      "type": "bullet_list",
+      "items": [
+        "₹25,060 crore outlay; credit = 20% of avg 2-yr export sales (direct) / up to 50% inventory cost (overseas-warehouse); subvention cap ₹15 lakh/beneficiary/year; via Exim Bank + NCGTC (pilot)",
+        "Related: **MSE-GIFT Scheme** (Green Investment and Financing for Transformation) — 2% interest subvention for green/energy-efficient tech"
+      ]
+    },
+    {
+      "id": "blk-q4-12-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → Export Promotion Mission outlay = ₹25,060 crore."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-q4",
+      "jan-mar-2026",
+      "sec1",
+      "claude-consolidated"
+    ],
+    "category": "SEC1",
+    "sectionCode": "SEC1",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "monthLabel": "JANUARY – MARCH 2026",
+    "monthGroup": "2026-01-03",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "Q4 FY26_Jan to March.md",
+      "sourceTitle": "Export Promotion Mission — e-commerce MSME credit"
+    },
+    "noteNumber": 213
+  },
+  "relationships": []
+}

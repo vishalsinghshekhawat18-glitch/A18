@@ -1,0 +1,44 @@
+{
+  "id": "ca-2026-q4-sec1-rodtep-restored-50-restriction-withdrawn-full-rate",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RoDTEP restored** — 50% restriction withdrawn, full rates (as on 22 Feb 2026) restored effective **23 March 2026**; administered by Dept of Revenue; replaced earlier **MEIS**.",
+  "summary": "RoDTEP restored** — 50% restriction withdrawn, full rates (as on 22 Feb 2026) restored effective **23 March 2026**; administered by Dept of Revenue; replaced ea...",
+  "blocks": [
+    {
+      "id": "blk-q4-15-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → RoDTEP replaced MEIS."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-q4",
+      "jan-mar-2026",
+      "sec1",
+      "claude-consolidated"
+    ],
+    "category": "SEC1",
+    "sectionCode": "SEC1",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "monthLabel": "JANUARY – MARCH 2026",
+    "monthGroup": "2026-01-03",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "Q4 FY26_Jan to March.md",
+      "sourceTitle": "RoDTEP restored** — 50% restriction withdrawn, full rates (as on 22 Feb 2026) restored effective **23 March 2026**; administered by Dept of Revenue; replaced earlier **MEIS**."
+    },
+    "noteNumber": 216
+  },
+  "relationships": []
+}

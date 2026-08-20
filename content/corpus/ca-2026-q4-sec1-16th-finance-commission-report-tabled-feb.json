@@ -1,0 +1,52 @@
+{
+  "id": "ca-2026-q4-sec1-16th-finance-commission-report-tabled-feb",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "16th Finance Commission report tabled — [Feb]",
+  "summary": "Covers Centre-State tax devolution, **2026-2031**; Centre retains **41%** share (unchanged since 2021)",
+  "blocks": [
+    {
+      "id": "blk-q4-1-bullets",
+      "type": "bullet_list",
+      "items": [
+        "Covers Centre-State tax devolution, **2026-2031**; Centre retains **41%** share (unchanged since 2021)",
+        "Constituted 31 Dec 2023; Chairman **Arvind Panagariya**; constitutional basis **Article 280**"
+      ]
+    },
+    {
+      "id": "blk-q4-1-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — \"41%, Panagariya, Article 280\" trio."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-q4",
+      "jan-mar-2026",
+      "sec1",
+      "claude-consolidated"
+    ],
+    "category": "SEC1",
+    "sectionCode": "SEC1",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-02-20",
+    "period": "2026-Q4",
+    "monthLabel": "JANUARY – MARCH 2026",
+    "monthGroup": "2026-01-03",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "Q4 FY26_Jan to March.md",
+      "sourceTitle": "16th Finance Commission report tabled — [Feb]"
+    },
+    "noteNumber": 202
+  },
+  "relationships": []
+}

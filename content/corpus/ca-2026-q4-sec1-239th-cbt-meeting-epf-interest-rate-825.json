@@ -1,0 +1,51 @@
+{
+  "id": "ca-2026-q4-sec1-239th-cbt-meeting-epf-interest-rate-825",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "239th CBT meeting — EPF interest rate 8.25%",
+  "summary": "Chaired by Labour Minister Dr Mansukh Mandaviya; new EPF/EPS/EDLI Scheme 2026 approved; Amnesty Scheme + auto-settlement pilot for inoperative accounts ≤₹1,000",
+  "blocks": [
+    {
+      "id": "blk-q4-11-bullets",
+      "type": "bullet_list",
+      "items": [
+        "Chaired by Labour Minister Dr Mansukh Mandaviya; new EPF/EPS/EDLI Scheme 2026 approved; Amnesty Scheme + auto-settlement pilot for inoperative accounts ≤₹1,000"
+      ]
+    },
+    {
+      "id": "blk-q4-11-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → EPF interest FY2025-26 = **8.25%**."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-q4",
+      "jan-mar-2026",
+      "sec1",
+      "claude-consolidated"
+    ],
+    "category": "SEC1",
+    "sectionCode": "SEC1",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "monthLabel": "JANUARY – MARCH 2026",
+    "monthGroup": "2026-01-03",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "Q4 FY26_Jan to March.md",
+      "sourceTitle": "239th CBT meeting — EPF interest rate 8.25%"
+    },
+    "noteNumber": 212
+  },
+  "relationships": []
+}

@@ -1,0 +1,52 @@
+{
+  "id": "ca-2026-q4-sec3-epfo-upi-withdrawal-auto-settlement-cap-jan-standi",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "EPFO UPI withdrawal & auto-settlement cap — [Jan] *(standing exception)*",
+  "summary": "EPF withdrawal via UPI from 1 April 2026; auto-settlement limit ₹1 lakh → **₹5 lakh**, settled within 3 days",
+  "blocks": [
+    {
+      "id": "blk-q4-47-bullets",
+      "type": "bullet_list",
+      "items": [
+        "EPF withdrawal via UPI from 1 April 2026; auto-settlement limit ₹1 lakh → **₹5 lakh**, settled within 3 days",
+        "Up to 75% of eligible PF balance withdrawable in many cases; 100% in specified situations (retirement 55, disability, retrenchment, VRS)"
+      ]
+    },
+    {
+      "id": "blk-q4-47-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-q4",
+      "jan-mar-2026",
+      "sec3",
+      "claude-consolidated"
+    ],
+    "category": "SEC3",
+    "sectionCode": "SEC3",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-01-20",
+    "period": "2026-Q4",
+    "monthLabel": "JANUARY – MARCH 2026",
+    "monthGroup": "2026-01-03",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "Q4 FY26_Jan to March.md",
+      "sourceTitle": "EPFO UPI withdrawal & auto-settlement cap — [Jan] *(standing exception)*"
+    },
+    "noteNumber": 248
+  },
+  "relationships": []
+}

@@ -218,6 +218,9 @@ export interface Metadata {
   lastUpdated?: string;
   part?: string;
   section?: string;
+  period?: string;
+  monthGroup?: string;
+  monthLabel?: string;
   provenance?: MigrationProvenance;
 }
 
