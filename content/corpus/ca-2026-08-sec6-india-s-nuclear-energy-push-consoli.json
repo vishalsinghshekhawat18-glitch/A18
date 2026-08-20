@@ -1,0 +1,53 @@
+{
+  "id": "ca-2026-08-sec6-india-s-nuclear-energy-push-consoli",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India's nuclear energy push (consolidated — target restated 3× this month)",
+  "summary": "India reaffirmed its target of **100 GW nuclear capacity by 2047**, with sub-targets of 5 indigenous SMRs by 2033 and 5 new reactors operationalised this decade.",
+  "blocks": [
+    {
+      "id": "blk-54-hook",
+      "type": "paragraph",
+      "content": "India reaffirmed its target of **100 GW nuclear capacity by 2047**, with sub-targets of 5 indigenous SMRs by 2033 and 5 new reactors operationalised this decade."
+    },
+    {
+      "id": "blk-54-bullets",
+      "type": "bullet_list",
+      "items": [
+        "**ANUGYAN** (IIT Hyderabad + Crimson Energy Experts) — India's 1st industry-academia Nuclear Technology Orientation Programme; supports growth from ~8.8 GW to 100 GW by 2047",
+        "Three-Stage Nuclear Programme: Stage I — natural uranium in PHWRs (→ plutonium); Stage II — Fast Breeder Reactors (use plutonium); Stage III — large-scale thorium utilisation (U-233 from thorium)",
+        "Reaffirmed again in PM Modi's Independence Day address (Section 4)"
+      ]
+    },
+    {
+      "id": "blk-54-focus",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — 100 GW by 2047 + 5 SMRs by 2033 + 5 new reactors this decade — single consolidated fact set, appears across 3 separate news items this fortnight."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-08",
+      "sec6",
+      "claude-v3"
+    ],
+    "category": "SEC6",
+    "sectionCode": "SEC6",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-03",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
+      "sourceTitle": "India's nuclear energy push (consolidated — target restated 3× this month)"
+    }
+  },
+  "relationships": []
+}

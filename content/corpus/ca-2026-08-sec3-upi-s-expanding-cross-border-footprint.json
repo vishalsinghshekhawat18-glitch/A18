@@ -1,0 +1,52 @@
+{
+  "id": "ca-2026-08-sec3-upi-s-expanding-cross-border-footprint",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "UPI's expanding cross-border footprint",
+  "summary": "UPI is now live in **10+ countries** — Singapore, UAE, Bhutan, Nepal, Sri Lanka, France, Mauritius, Qatar, Cambodia, Greece (P2P-only) — with two new corridors added this fortnight: Maldives and Qatar.",
+  "blocks": [
+    {
+      "id": "blk-31-hook",
+      "type": "paragraph",
+      "content": "UPI is now live in **10+ countries** — Singapore, UAE, Bhutan, Nepal, Sri Lanka, France, Mauritius, Qatar, Cambodia, Greece (P2P-only) — with two new corridors added this fortnight: Maldives and Qatar."
+    },
+    {
+      "id": "blk-31-bullets",
+      "type": "bullet_list",
+      "items": [
+        "**Favara-UPI (India–Maldives)**: Maldives' Favara instant-payment system linked with UPI; real-time transfers Maldives→India (Rufiyaa→INR); Phase 1 banks: Bank of Maldives Plc & Maldives Islamic Bank Plc; built with Maldives Monetary Authority + RBI + NPCI International (NIPL)",
+        "**PosTransfer (Qatar–India)**: Qatar Post customers can send money directly to UPI-enabled Indian accounts; built by Qatar Post + India Post + Universal Postal Union's Interconnection Platform (UPU-IP) + NIPL"
+      ]
+    },
+    {
+      "id": "blk-31-focus",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Growing UPI cross-border list; this fortnight added Maldives (Favara) + Qatar (PosTransfer) — consolidate as one \"UPI international expansion 2026\" revision point. Greece is P2P-only — don't conflate with full-UPI-live countries."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-08",
+      "sec3",
+      "claude-core-v3"
+    ],
+    "category": "SEC3",
+    "sectionCode": "SEC3",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-02",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
+      "sourceTitle": "UPI's expanding cross-border footprint"
+    }
+  },
+  "relationships": []
+}

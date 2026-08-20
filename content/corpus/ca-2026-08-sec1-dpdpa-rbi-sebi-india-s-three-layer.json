@@ -1,0 +1,49 @@
+{
+  "id": "ca-2026-08-sec1-dpdpa-rbi-sebi-india-s-three-layer",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "DPDPA, RBI & SEBI — India's three-layer digital compliance stack",
+  "summary": "**DPDPA** (2023) — India's first comprehensive data protection law; penalties up to ₹250 cr (security failure) + ₹200 cr (breach notification failure)...",
+  "blocks": [
+    {
+      "id": "blk-7-bullets",
+      "type": "bullet_list",
+      "items": [
+        "**DPDPA** (2023) — India's first comprehensive data protection law; penalties up to ₹250 cr (security failure) + ₹200 cr (breach notification failure)",
+        "RBI Master Directions on IT Governance (2023, eff. Apr 2024) — 2FA mandatory for digital payments",
+        "**SEBI CSCRF** (2024) — 22 types of regulated entities, five-tier model",
+        "FY25: RBI imposed ₹54.78 cr penalties across 353 cases for governance/cybersecurity lapses"
+      ]
+    },
+    {
+      "id": "blk-7-focus",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → Three-regulator stack — don't confuse jurisdictions (DPDPA=all entities / RBI IT Directions=BFSI / SEBI CSCRF=market intermediaries)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-08",
+      "sec1",
+      "claude-v3"
+    ],
+    "category": "SEC1",
+    "sectionCode": "SEC1",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-07",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
+      "sourceTitle": "DPDPA, RBI & SEBI — India's three-layer digital compliance stack"
+    }
+  },
+  "relationships": []
+}

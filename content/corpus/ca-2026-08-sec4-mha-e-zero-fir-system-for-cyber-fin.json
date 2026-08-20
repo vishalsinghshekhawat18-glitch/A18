@@ -1,0 +1,46 @@
+{
+  "id": "ca-2026-08-sec4-mha-e-zero-fir-system-for-cyber-fin",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "MHA — e-Zero FIR system for cyber financial fraud",
+  "summary": "12,000+ e-Zero FIRs registered (18 states/UTs); Delhi topped (6,115); system live since May 2025...",
+  "blocks": [
+    {
+      "id": "blk-51-bullets",
+      "type": "bullet_list",
+      "items": [
+        "12,000+ e-Zero FIRs registered (18 states/UTs); Delhi topped (6,115); system live since May 2025"
+      ]
+    },
+    {
+      "id": "blk-51-focus",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → Delhi tops e-Zero FIR count."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-08",
+      "sec4",
+      "claude-v3"
+    ],
+    "category": "SEC4",
+    "sectionCode": "SEC4",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-11",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
+      "sourceTitle": "MHA — e-Zero FIR system for cyber financial fraud"
+    }
+  },
+  "relationships": []
+}

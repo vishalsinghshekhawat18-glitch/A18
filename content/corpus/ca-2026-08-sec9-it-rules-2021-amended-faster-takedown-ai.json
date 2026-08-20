@@ -1,0 +1,44 @@
+{
+  "id": "ca-2026-08-sec9-it-rules-2021-amended-faster-takedown-ai",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "IT Rules 2021 amended — faster takedown & AI-content labelling",
+  "summary": "Unlawful-content removal deadline slashed from 36 hours to 3 hours; 1st formal legal definition of AI-generated content.",
+  "blocks": [
+    {
+      "id": "blk-89-hook",
+      "type": "paragraph",
+      "content": "Unlawful-content removal deadline slashed from 36 hours to 3 hours; 1st formal legal definition of AI-generated content."
+    },
+    {
+      "id": "blk-89-focus",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — 36h→3h takedown timeline."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-08",
+      "sec9",
+      "claude-core-v3"
+    ],
+    "category": "SEC9",
+    "sectionCode": "SEC9",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-02",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
+      "sourceTitle": "IT Rules 2021 amended — faster takedown & AI-content labelling"
+    }
+  },
+  "relationships": []
+}

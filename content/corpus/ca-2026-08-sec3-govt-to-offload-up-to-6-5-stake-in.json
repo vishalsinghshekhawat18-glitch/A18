@@ -1,0 +1,46 @@
+{
+  "id": "ca-2026-08-sec3-govt-to-offload-up-to-6-5-stake-in",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Govt to offload up to 6.5% stake in LIC via OFS",
+  "summary": "2.5% equity + 4% greenshoe option (total up to 6.5%); floor price ₹382/share; Centre currently holds 96.5% stake...",
+  "blocks": [
+    {
+      "id": "blk-31-bullets",
+      "type": "bullet_list",
+      "items": [
+        "2.5% equity + 4% greenshoe option (total up to 6.5%); floor price ₹382/share; Centre currently holds 96.5% stake"
+      ]
+    },
+    {
+      "id": "blk-31-focus",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — LIC OFS structure (2.5%+4% greenshoe, ₹382 floor price)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-08",
+      "sec3",
+      "claude-v3"
+    ],
+    "category": "SEC3",
+    "sectionCode": "SEC3",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-03",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
+      "sourceTitle": "Govt to offload up to 6.5% stake in LIC via OFS"
+    }
+  },
+  "relationships": []
+}

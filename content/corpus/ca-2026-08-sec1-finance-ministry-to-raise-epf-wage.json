@@ -1,0 +1,47 @@
+{
+  "id": "ca-2026-08-sec1-finance-ministry-to-raise-epf-wage",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Finance Ministry to raise EPF wage ceiling to ₹25,000/month",
+  "summary": "Ceiling rise: ₹15,000 → ₹25,000/month, pending Cabinet approval; implementation anticipated **1 April 2027**...",
+  "blocks": [
+    {
+      "id": "blk-5-bullets",
+      "type": "bullet_list",
+      "items": [
+        "Ceiling rise: ₹15,000 → ₹25,000/month, pending Cabinet approval; implementation anticipated **1 April 2027**",
+        "Related: EPF account turns inoperative 3 yrs after retirement/migration/death; member retiring before 55 earns interest till 58; EPF number = 22-digit, UAN = permanent 12-digit"
+      ]
+    },
+    {
+      "id": "blk-5-focus",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → EPF wage ceiling change (₹15,000→₹25,000); don't confuse EPF# (22-digit) with UAN (12-digit)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-08",
+      "sec1",
+      "claude-v3"
+    ],
+    "category": "SEC1",
+    "sectionCode": "SEC1",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-05",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
+      "sourceTitle": "Finance Ministry to raise EPF wage ceiling to ₹25,000/month"
+    }
+  },
+  "relationships": []
+}

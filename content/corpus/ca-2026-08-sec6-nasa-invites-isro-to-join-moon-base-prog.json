@@ -1,0 +1,47 @@
+{
+  "id": "ca-2026-08-sec6-nasa-invites-isro-to-join-moon-base-prog",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "NASA invites ISRO to join Moon Base programme under Artemis Accords",
+  "summary": "India joined Artemis Accords as the **27th country**, in 2023; current membership: **70 countries**...",
+  "blocks": [
+    {
+      "id": "blk-68-bullets",
+      "type": "bullet_list",
+      "items": [
+        "India joined Artemis Accords as the **27th country**, in 2023; current membership: **70 countries**",
+        "ISRO: Formed 15 Aug 1969, HQ Bengaluru, Chairman Dr V. Narayanan"
+      ]
+    },
+    {
+      "id": "blk-68-focus",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — India = 27th Artemis Accords signatory (2023); current strength 70 countries."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-08",
+      "sec6",
+      "claude-core-v3"
+    ],
+    "category": "SEC6",
+    "sectionCode": "SEC6",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-15",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
+      "sourceTitle": "NASA invites ISRO to join Moon Base programme under Artemis Accords"
+    }
+  },
+  "relationships": []
+}

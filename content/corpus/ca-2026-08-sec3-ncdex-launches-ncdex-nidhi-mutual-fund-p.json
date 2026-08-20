@@ -1,0 +1,46 @@
+{
+  "id": "ca-2026-08-sec3-ncdex-launches-ncdex-nidhi-mutual-fund-p",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "NCDEX launches \"NCDEX Nidhi\" — mutual fund platform",
+  "summary": "Targets rural/semi-urban India via 800+ FPO network; onboarded 6 AMCs; AMFI cut ARN fee to ₹10,000 (from ₹40,000)...",
+  "blocks": [
+    {
+      "id": "blk-40-bullets",
+      "type": "bullet_list",
+      "items": [
+        "Targets rural/semi-urban India via 800+ FPO network; onboarded 6 AMCs; AMFI cut ARN fee to ₹10,000 (from ₹40,000)"
+      ]
+    },
+    {
+      "id": "blk-40-focus",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → HQ NCDEX: Mumbai | MD & CEO: Arun Raste."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-08",
+      "sec3",
+      "claude-core-v3"
+    ],
+    "category": "SEC3",
+    "sectionCode": "SEC3",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-11",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
+      "sourceTitle": "NCDEX launches \"NCDEX Nidhi\" — mutual fund platform"
+    }
+  },
+  "relationships": []
+}

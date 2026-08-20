@@ -1,0 +1,47 @@
+{
+  "id": "ca-2026-08-sec6-private-space-launch-cluster",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Private space-launch cluster",
+  "summary": "Skyroot Aerospace + HEX20 — Multi-Launch Agreement; **Skyroot's Vikram-1 = India's 1st privately-developed orbital-class rocket** (Jul 2026)...",
+  "blocks": [
+    {
+      "id": "blk-69-bullets",
+      "type": "bullet_list",
+      "items": [
+        "Skyroot Aerospace + HEX20 — Multi-Launch Agreement; **Skyroot's Vikram-1 = India's 1st privately-developed orbital-class rocket** (Jul 2026)",
+        "VinSpace (Vietnam) + SpaceX — Vietnam's 1st privately-funded commercial satellite mission"
+      ]
+    },
+    {
+      "id": "blk-69-focus",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — \"Vikram-1 = India's 1st private orbital-class rocket.\""
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-08",
+      "sec6",
+      "claude-core-v3"
+    ],
+    "category": "SEC6",
+    "sectionCode": "SEC6",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-07",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
+      "sourceTitle": "Private space-launch cluster"
+    }
+  },
+  "relationships": []
+}

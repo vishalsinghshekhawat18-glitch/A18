@@ -1,0 +1,48 @@
+{
+  "id": "ca-2026-08-sec6-commonwealth-games-2026-glasgow-23r",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Commonwealth Games 2026, Glasgow (23rd edition) — Final Medal Tally",
+  "summary": "India 4th (39 medals); best-ever remains Delhi 2010 (101 medals, 2nd)...",
+  "blocks": [
+    {
+      "id": "blk-64-bullets",
+      "type": "bullet_list",
+      "items": [
+        "India 4th (39 medals); best-ever remains Delhi 2010 (101 medals, 2nd)",
+        "Dilip Mahadu Gavit = 1st Indian male para athletics CWG gold",
+        "Anahat Singh — 1st Indian to win World Junior Squash Girls' Singles, ending Egypt's 16-yr hold"
+      ]
+    },
+    {
+      "id": "blk-64-focus",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Don't confuse 2026 rank (4th) with best-ever (Delhi 2010, 2nd)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-08",
+      "sec6",
+      "claude-v3"
+    ],
+    "category": "SEC6",
+    "sectionCode": "SEC6",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-13",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
+      "sourceTitle": "Commonwealth Games 2026, Glasgow (23rd edition) — Final Medal Tally"
+    }
+  },
+  "relationships": []
+}

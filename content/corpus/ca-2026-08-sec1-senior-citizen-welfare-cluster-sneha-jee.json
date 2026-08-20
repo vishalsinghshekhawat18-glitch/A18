@@ -1,0 +1,48 @@
+{
+  "id": "ca-2026-08-sec1-senior-citizen-welfare-cluster-sneha-jee",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Senior-citizen welfare cluster — SNEHA / JEEVAN / SHATAYU",
+  "summary": "Dr Virendra Kumar chaired 5th National Council for Senior Citizens meeting; launched e-book **'SNEHA'** (Stories of Nurturing, Engagement, Happiness and Active Ageing)...",
+  "blocks": [
+    {
+      "id": "blk-17-bullets",
+      "type": "bullet_list",
+      "items": [
+        "Dr Virendra Kumar chaired 5th National Council for Senior Citizens meeting; launched e-book **'SNEHA'** (Stories of Nurturing, Engagement, Happiness and Active Ageing)",
+        "**JEEVAN App** (Joint Elderly Empowerment & Virtual Assistance Network) — unified access to welfare schemes",
+        "**SHATAYU** (Senior Holistic Care Assistance & Training for Your Utility) — digital platform for trained geriatric caregivers (\"Ageing at Place\" principle)"
+      ]
+    },
+    {
+      "id": "blk-17-focus",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → JEEVAN (scheme access) vs SHATAYU (caregiver services) — easy to mix up."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-08",
+      "sec1",
+      "claude-core-v3"
+    ],
+    "category": "SEC1",
+    "sectionCode": "SEC1",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-17",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
+      "sourceTitle": "Senior-citizen welfare cluster — SNEHA / JEEVAN / SHATAYU"
+    }
+  },
+  "relationships": []
+}

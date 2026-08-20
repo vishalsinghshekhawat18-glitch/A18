@@ -1,0 +1,46 @@
+{
+  "id": "ca-2026-08-sec2-rbi-streamlines-supervisory-framework-64",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI streamlines supervisory framework — 64 Master Directions",
+  "summary": "Consolidates **628 existing circulars** into **64 Master Directions** across 11 categories of regulated entities (Dept of Supervision)...",
+  "blocks": [
+    {
+      "id": "blk-23-bullets",
+      "type": "bullet_list",
+      "items": [
+        "Consolidates **628 existing circulars** into **64 Master Directions** across 11 categories of regulated entities (Dept of Supervision)"
+      ]
+    },
+    {
+      "id": "blk-23-focus",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 628 circulars → 64 Master Directions (11 categories) — before/after numeric trap."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-08",
+      "sec2",
+      "claude-core-v3"
+    ],
+    "category": "SEC2",
+    "sectionCode": "SEC2",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-03",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
+      "sourceTitle": "RBI streamlines supervisory framework — 64 Master Directions"
+    }
+  },
+  "relationships": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": "ca-2026-08-sec1-india-s-gi-ecosystem-gathers-momentum",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India's GI ecosystem gathers momentum",
+  "summary": "GI tags can lift rural artisan incomes up to 30%, as India races toward 10,000 registrations by 2030.",
+  "blocks": [
+    {
+      "id": "blk-4-hook",
+      "type": "paragraph",
+      "content": "GI tags can lift rural artisan incomes up to 30%, as India races toward 10,000 registrations by 2030."
+    },
+    {
+      "id": "blk-4-bullets",
+      "type": "bullet_list",
+      "items": [
+        "Rural artisan income lift: 20–30% | 800+ registered GI products; 607 granted since 2014",
+        "**Darjeeling Tea = India's first GI-registered product**",
+        "State-wise: **UP (81) > Tamil Nadu (76) > Maharashtra (55)**",
+        "Legal basis: GI of Goods (Registration and Protection) Act, 1999 | PM Ekta Malls promote ODOP + GI items",
+        "Target: **10,000 GI registrations by 2030**",
+        "Related: **GI-tagged Mithila Makhana first exported to Australia** (from Darbhanga, Bihar; via APEDA, Est. 1985, HQ New Delhi, Chairman Abhishek Dev)"
+      ]
+    },
+    {
+      "id": "blk-4-focus",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — UP tops GI tags (81); Darjeeling Tea = first GI; 10,000-by-2030 target."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-08",
+      "sec1",
+      "claude-core-v3"
+    ],
+    "category": "SEC1",
+    "sectionCode": "SEC1",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-04",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
+      "sourceTitle": "India's GI ecosystem gathers momentum"
+    }
+  },
+  "relationships": []
+}

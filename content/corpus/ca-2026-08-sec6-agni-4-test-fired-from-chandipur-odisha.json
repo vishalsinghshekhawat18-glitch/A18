@@ -1,0 +1,46 @@
+{
+  "id": "ca-2026-08-sec6-agni-4-test-fired-from-chandipur-odisha",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Agni-4 test-fired from Chandipur (Odisha)",
+  "summary": "Medium-range, nuclear-capable, surface-to-surface, solid-fuel; range up to **4,000 km**...",
+  "blocks": [
+    {
+      "id": "blk-66-bullets",
+      "type": "bullet_list",
+      "items": [
+        "Medium-range, nuclear-capable, surface-to-surface, solid-fuel; range up to **4,000 km**"
+      ]
+    },
+    {
+      "id": "blk-66-focus",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Missile name + range (4,000 km)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-08",
+      "sec6",
+      "claude-core-v3"
+    ],
+    "category": "SEC6",
+    "sectionCode": "SEC6",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-04",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
+      "sourceTitle": "Agni-4 test-fired from Chandipur (Odisha)"
+    }
+  },
+  "relationships": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "ca-2026-08-sec2-tata-sons-designated-upper-layer-nb",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Tata Sons designated Upper-Layer NBFC (NBFC-UL) by RBI",
+  "summary": "Tata Sons joins RBI's NBFC-UL list, taking the count to 17 — with 4 govt-owned PSU firms entering for the first time.",
+  "blocks": [
+    {
+      "id": "blk-23-hook",
+      "type": "paragraph",
+      "content": "Tata Sons joins RBI's NBFC-UL list, taking the count to 17 — with 4 govt-owned PSU firms entering for the first time."
+    },
+    {
+      "id": "blk-23-bullets",
+      "type": "bullet_list",
+      "items": [
+        "**17 NBFCs** now in Upper Layer (up from 15); once classified, enhanced regulation applies ≥5 years even if criteria later unmet",
+        "4 PSU firms joined for 1st time: **REC, PFC, IRFC, HUDCO**",
+        "PNB Housing Finance & Sammaan Capital: sources conflict — File A states they \"dropped out\"; File B states they \"remain in UL under the 5-year rule.\" Flagging as a genuine cross-source discrepancy — verify against RBI's official list before the exam if this becomes testable.",
+        "Revised norms (Jun 2026): NBFCs with assets >₹1 trillion → Upper Layer, must list within 3 years; Tata Sons standalone assets >₹2 trillion (Mar 2026)",
+        "NBFC layers: Base (<₹1,000 cr) → Middle (≥₹1,000 cr) → Upper (≥₹1 lakh cr) → Top (no fixed limit)"
+      ]
+    },
+    {
+      "id": "blk-23-focus",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Tata Sons as NBFC-UL + 17-count + mandatory 3-yr listing window — headline \"first.\""
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-08",
+      "sec2",
+      "claude-v3"
+    ],
+    "category": "SEC2",
+    "sectionCode": "SEC2",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-04",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
+      "sourceTitle": "Tata Sons designated Upper-Layer NBFC (NBFC-UL) by RBI"
+    }
+  },
+  "relationships": []
+}

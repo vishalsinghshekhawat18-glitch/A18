@@ -1,0 +1,54 @@
+{
+  "id": "ca-2026-08-sec1-govt-tweaks-mfi-credit-guarantee-rules-c",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Govt tweaks MFI credit guarantee rules — CGSMFI 2.0",
+  "summary": "Banks must now push 3x more credit to small MFIs under tightened microfinance lending norms.",
+  "blocks": [
+    {
+      "id": "blk-2-hook",
+      "type": "paragraph",
+      "content": "Banks must now push 3x more credit to small MFIs under tightened microfinance lending norms."
+    },
+    {
+      "id": "blk-2-bullets",
+      "type": "bullet_list",
+      "items": [
+        "Run by **NCGTC** (National Credit Guarantee Trustee Company, wholly govt-owned); guarantees bank loans to NBFC-MFIs",
+        "Small/mid-MFI lending floor: **15%** of ₹20,000 crore corpus (up from 5%/10%)",
+        "Max loan sanctionable: 20% of AUM, capped at ₹100 cr (small) / ₹200 cr (medium) / ₹1,000 cr (large)",
+        "MFI classes by AUM: Small <₹500 cr | Medium ₹500 cr–<₹2,000 cr | Large >₹2,000 cr"
+      ]
+    },
+    {
+      "id": "blk-2-focus",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → Lending floor raised to 15%; AUM slabs for classification."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-08",
+      "sec1",
+      "claude-core-v3"
+    ],
+    "category": "SEC1",
+    "sectionCode": "SEC1",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-02",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
+      "sourceTitle": "Govt tweaks MFI credit guarantee rules — CGSMFI 2.0"
+    }
+  },
+  "relationships": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": "ca-2026-08-sec4-fssai-proposes-new-hfss-food-limits-for",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "FSSAI proposes new HFSS food limits for schools",
+  "summary": "Solid foods (per 100g): added fat >4.2g, added sugar >3g, salt >0.625g...",
+  "blocks": [
+    {
+      "id": "blk-55-bullets",
+      "type": "bullet_list",
+      "items": [
+        "Solid foods (per 100g): added fat >4.2g, added sugar >3g, salt >0.625g",
+        "Liquid foods (per 100ml): added fat >1.5g, added sugar >2g, salt >0.175g"
+      ]
+    },
+    {
+      "id": "blk-55-focus",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → Solid-food thresholds (4.2g/3g/0.625g)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-08",
+      "sec4",
+      "claude-core-v3"
+    ],
+    "category": "SEC4",
+    "sectionCode": "SEC4",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-13",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
+      "sourceTitle": "FSSAI proposes new HFSS food limits for schools"
+    }
+  },
+  "relationships": []
+}

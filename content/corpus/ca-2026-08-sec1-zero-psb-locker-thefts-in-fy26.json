@@ -1,0 +1,54 @@
+{
+  "id": "ca-2026-08-sec1-zero-psb-locker-thefts-in-fy26",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Zero PSB locker thefts in FY26",
+  "summary": "For the first time, all PSBs reported zero locker theft cases in FY26, after 40 cases over the previous 4 years.",
+  "blocks": [
+    {
+      "id": "blk-3-hook",
+      "type": "paragraph",
+      "content": "For the first time, all PSBs reported zero locker theft cases in FY26, after 40 cases over the previous 4 years."
+    },
+    {
+      "id": "blk-3-bullets",
+      "type": "bullet_list",
+      "items": [
+        "40 theft cases across 12 PSBs (FY22–FY25); 1,11,11,077 PSB lockers operational (31 Mar 2026)",
+        "Highest theft (bank): Bank of India & Central Bank of India — 14 each | Highest (state): UP (18), Jharkhand (12)",
+        "RBI mandate: CCTV at strong-room entry/exit, footage kept ≥180 days",
+        "Compensation cap (fire/theft/negligence): **100× annual locker rent**"
+      ]
+    },
+    {
+      "id": "blk-3-focus",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — \"Zero locker thefts FY26\" + 100× annual rent cap — trap pairing."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-08",
+      "sec1",
+      "claude-core-v3"
+    ],
+    "category": "SEC1",
+    "sectionCode": "SEC1",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-03",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
+      "sourceTitle": "Zero PSB locker thefts in FY26"
+    }
+  },
+  "relationships": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ca-2026-08-sec1-india-world-s-6th-largest-economy-at-3-9",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India — world's 6th-largest economy at $3.92 trillion nominal GDP (FY26)",
+  "summary": "India held the world's 6th spot in nominal GDP for 2025-26, per IMF's April 2026 WEO (source: MoS Finance Pankaj Chaudhary; ranking sensitive to exchange-rate/revision effects).",
+  "blocks": [
+    {
+      "id": "blk-14-hook",
+      "type": "paragraph",
+      "content": "India held the world's 6th spot in nominal GDP for 2025-26, per IMF's April 2026 WEO (source: MoS Finance Pankaj Chaudhary; ranking sensitive to exchange-rate/revision effects)."
+    },
+    {
+      "id": "blk-14-focus",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — India's global GDP rank (6th) + $3.92 trillion figure."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-08",
+      "sec1",
+      "claude-core-v3"
+    ],
+    "category": "SEC1",
+    "sectionCode": "SEC1",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-14",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
+      "sourceTitle": "India — world's 6th-largest economy at $3.92 trillion nominal GDP (FY26)"
+    }
+  },
+  "relationships": []
+}

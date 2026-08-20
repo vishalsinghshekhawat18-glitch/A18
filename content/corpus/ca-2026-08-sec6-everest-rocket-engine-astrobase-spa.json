@@ -1,0 +1,46 @@
+{
+  "id": "ca-2026-08-sec6-everest-rocket-engine-astrobase-spa",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "EVEREST rocket engine — Astrobase Space Technologies",
+  "summary": "India's 1st privately developed **800 kN Full-Flow Staged Combustion (FFSC) LOX-Methane engine**; 4th commercial company globally with high-thrust FFSC (after SpaceX); supported under IN-SPACe's Techn...",
+  "blocks": [
+    {
+      "id": "blk-58-bullets",
+      "type": "bullet_list",
+      "items": [
+        "India's 1st privately developed **800 kN Full-Flow Staged Combustion (FFSC) LOX-Methane engine**; 4th commercial company globally with high-thrust FFSC (after SpaceX); supported under IN-SPACe's Technology Adoption Fund; Bengaluru-based"
+      ]
+    },
+    {
+      "id": "blk-58-focus",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — \"1st privately developed FFSC engine in India.\""
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-08",
+      "sec6",
+      "claude-v3"
+    ],
+    "category": "SEC6",
+    "sectionCode": "SEC6",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-05",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
+      "sourceTitle": "EVEREST rocket engine — Astrobase Space Technologies"
+    }
+  },
+  "relationships": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "ca-2026-08-sec4-india-s-organ-transplant-donation-c",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India's organ-transplant/donation cluster",
+  "summary": "16th Indian Organ Donation Day (Aug 3) — moved from Nov 27 (in 2023); marks India's 1st heart transplant (1994)...",
+  "blocks": [
+    {
+      "id": "blk-47-bullets",
+      "type": "bullet_list",
+      "items": [
+        "16th Indian Organ Donation Day (Aug 3) — moved from Nov 27 (in 2023); marks India's 1st heart transplant (1994)",
+        "NOTTO Annual Report 2025-26: India performed record 20,138 organ transplants in 2025 — **ranks 3rd globally** (behind US, China); Tamil Nadu tops deceased-donor list (266) and \"Best State\" for organ donation, also #1 in heart/lung transplants nationally",
+        "India crosses **5 lakh** Aadhaar-verified organ donation pledges (in 3 yrs since 2023 portal launch); Min. Anupriya Patel launched year-long 'Jug Jug Jiyo' campaign",
+        "**e-Pratyaropan Portal** launched by NOTTO (under MoHFW) — unified digital ecosystem for organ donation/transplant",
+        "Indian Railways — 1st live donor heart transported by train (Surat→Ahmedabad via Vande Bharat Express, dedicated Green Corridor)"
+      ]
+    },
+    {
+      "id": "blk-47-focus",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — India ranks 3rd globally in organ transplants (20,138 in 2025)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-08",
+      "sec4",
+      "claude-v3"
+    ],
+    "category": "SEC4",
+    "sectionCode": "SEC4",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-07",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
+      "sourceTitle": "India's organ-transplant/donation cluster"
+    }
+  },
+  "relationships": []
+}
