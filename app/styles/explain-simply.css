@@ -104,6 +104,183 @@
   margin-right: 0.35rem;
 }
 
+/* Header Right Actions Group */
+.header-actions-right {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  text-transform: none;
+  letter-spacing: normal;
+}
+
+/* Scheme Deep-Dive Container & Badge */
+.scheme-deepdive-container {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-end;
+  position: relative;
+  text-transform: none;
+  letter-spacing: normal;
+}
+
+.btn-scheme-badge {
+  font-family: inherit;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.28rem;
+  background: transparent;
+  border: 1px solid var(--border-strong, #bfae8e);
+  border-radius: 16px;
+  padding: 0.12rem 0.52rem;
+  font-size: 0.7rem;
+  font-weight: 700;
+  color: var(--text-accent, #6b4d24);
+  cursor: pointer;
+  text-transform: none;
+  letter-spacing: normal;
+  transition: all 0.15s ease;
+  user-select: none;
+}
+
+.btn-scheme-badge:hover {
+  background: var(--text-accent, #6b4d24);
+  color: var(--bg-card, #eee2ce);
+  border-color: var(--text-accent, #6b4d24);
+}
+
+.btn-scheme-badge.active {
+  background: var(--text-accent, #6b4d24);
+  color: var(--bg-reading-paper, #f7f1e3);
+  border-color: var(--text-accent, #6b4d24);
+}
+
+.scheme-btn-text {
+  font-size: 0.7rem;
+  font-weight: 700;
+}
+
+/* Scheme Deep-Dive Expanded Drawer */
+.scheme-deepdive-drawer {
+  margin-top: 0.75rem;
+  width: 100%;
+  text-align: left;
+  padding: 1.15rem 1.25rem;
+  background: var(--bg-subcard, #dfcfb2);
+  border: 1px solid var(--border-strong, #bfae8e);
+  border-radius: 8px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.05);
+  animation: fadeInDown 0.2s ease-out;
+  text-transform: none !important;
+  letter-spacing: normal !important;
+}
+
+.scheme-drawer-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 0.85rem;
+  border-bottom: 1px solid var(--border-subtle, #d2c19e);
+  padding-bottom: 0.5rem;
+}
+
+.scheme-drawer-title-group {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.scheme-drawer-name {
+  font-size: 1.02rem;
+  font-weight: 700;
+  color: var(--text-primary, #2c221a);
+}
+
+.scheme-type-tag {
+  font-size: 0.65rem;
+  font-weight: 700;
+  padding: 0.1rem 0.4rem;
+  border-radius: 3px;
+  background: var(--bg-card, #eee2ce);
+  color: var(--text-accent, #6b4d24);
+  border: 1px solid var(--border-strong, #bfae8e);
+}
+
+.btn-close-drawer {
+  background: transparent;
+  border: 1px solid var(--border-subtle, #d2c19e);
+  border-radius: 4px;
+  padding: 0.1rem 0.35rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: var(--text-muted, #7d6d5c);
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.btn-close-drawer:hover {
+  background: var(--bg-card, #eee2ce);
+  color: var(--text-primary, #2c221a);
+}
+
+/* Scheme 2-Column Parameter Grid */
+.scheme-params-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 0.65rem 1rem;
+  margin-bottom: 0.85rem;
+}
+
+.scheme-param-box {
+  font-size: 0.84rem;
+  line-height: 1.45;
+}
+
+.scheme-param-label {
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--text-muted, #7d6d5c);
+  display: block;
+  margin-bottom: 0.1rem;
+}
+
+.scheme-param-value {
+  font-weight: 600;
+  color: var(--text-primary, #2c221a);
+}
+
+/* Scheme Evolution & Past/Present Block */
+.scheme-lineage-box {
+  background: var(--bg-card, #eee2ce);
+  border: 1px solid var(--border-subtle, #d2c19e);
+  border-radius: 6px;
+  padding: 0.75rem 0.9rem;
+  margin-bottom: 0.75rem;
+  font-size: 0.84rem;
+  line-height: 1.48;
+  color: var(--text-primary, #2c221a);
+}
+
+.lineage-title {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--text-accent, #6b4d24);
+  margin-bottom: 0.25rem;
+}
+
+/* Scheme Exam Trap in Drawer */
+.scheme-trap-box {
+  background: rgba(185, 28, 28, 0.07);
+  border-left: 3px solid #b91c1c;
+  border-radius: 4px;
+  padding: 0.45rem 0.65rem;
+  font-size: 0.8rem;
+  line-height: 1.38;
+  color: #991b1b;
+}
+
 /* Quiet Top-Right Hint Bulb */
 .explain-simply-container {
   display: inline-flex;

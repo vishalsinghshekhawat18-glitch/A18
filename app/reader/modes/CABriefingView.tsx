@@ -3,6 +3,7 @@ import { KnowledgeItem, SemanticBlock } from '../../../schema/knowledge-item';
 import { BlockRenderer } from '../../components/renderers/BlockRenderer';
 import { RelationshipLinks } from '../RelationshipLinks';
 import { ExplainSimplyCard } from '../components/ExplainSimplyCard';
+import { SchemeDeepDiveCard } from '../components/SchemeDeepDiveCard';
 import { MentorDeconstruct } from '../components/MentorDeconstruct';
 import { PrerequisiteBridge } from '../components/PrerequisiteBridge';
 
@@ -40,8 +41,11 @@ export const CABriefingView: React.FC<Props> = ({
               {item.metadata?.date && ` · ${item.metadata.date}`}
               {item.metadata?.category && ` · ${item.metadata.category}`}
             </div>
-            {/* 💡 Top-right Hint Bulb */}
-            <ExplainSimplyCard item={item} />
+            {/* Header Right Actions: Scheme Deep-Dive + Explain Bulb */}
+            <div className="header-actions-right">
+              <SchemeDeepDiveCard item={item} />
+              <ExplainSimplyCard item={item} />
+            </div>
           </div>
 
           <h1 className="news-title-locked">{item.title}</h1>

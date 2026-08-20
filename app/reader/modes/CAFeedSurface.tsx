@@ -5,6 +5,7 @@ import { RelationshipLinks } from '../RelationshipLinks';
 import { isItemInSubject, groupCAItemsByMonth } from '../../navigation/subjectMapper';
 import { loadAllCorpusItemsForSearch } from '../../contentLoader';
 import { ExplainSimplyCard } from '../components/ExplainSimplyCard';
+import { SchemeDeepDiveCard } from '../components/SchemeDeepDiveCard';
 
 interface Props {
   activeItemId: string;
@@ -238,8 +239,11 @@ export const CAFeedSurface: React.FC<Props> = ({
                                   {item.metadata?.date && ` · ${item.metadata.date}`}
                                   {item.metadata?.category && ` · ${item.metadata.category}`}
                                 </div>
-                                {/* 💡 Feature 1 & 2: Top-right Hint Bulb */}
-                                <ExplainSimplyCard item={item} />
+                                {/* Header Right Actions: Scheme Deep-Dive + Explain Bulb */}
+                                <div className="header-actions-right">
+                                  <SchemeDeepDiveCard item={item} />
+                                  <ExplainSimplyCard item={item} />
+                                </div>
                               </div>
 
                               <h2 className="news-title-locked">{item.title}</h2>
