@@ -1,0 +1,52 @@
+{
+  "id": "ca-2026-07-sec7-indias-renewable-energy-cost-leadership-irena",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India's Renewable Energy Cost Leadership (IRENA)",
+  "summary": "India's solar LCOE: $35/MWh (2025) — lower than China ($36) and Brazil ($37).",
+  "blocks": [
+    {
+      "id": "blk-58-bullets",
+      "type": "bullet_list",
+      "items": [
+        "India's solar LCOE: $35/MWh (2025) — lower than China ($36) and Brazil ($37).",
+        "India's renewable capacity: +22.5% to 250.498 GW (2025), 2nd after China (+24.2%).",
+        "Renewables saved India $18bn in fossil fuel costs (2025); global savings $480bn; China saved most ($177bn)."
+      ]
+    },
+    {
+      "id": "blk-58-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — India beats China on solar LCOE despite China's larger capacity — genuine trap."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-07",
+      "sec7",
+      "claude-core-v3"
+    ],
+    "category": "SEC7",
+    "sectionCode": "SEC7",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "monthLabel": "JULY 2026",
+    "monthGroup": "2026-07",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_July2026_core.md",
+      "sourceTitle": "India's Renewable Energy Cost Leadership (IRENA)"
+    },
+    "noteNumber": 159
+  },
+  "relationships": []
+}

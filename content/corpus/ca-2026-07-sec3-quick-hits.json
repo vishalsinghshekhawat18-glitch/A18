@@ -1,0 +1,60 @@
+{
+  "id": "ca-2026-07-sec3-quick-hits",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Quick Hits",
+  "summary": "**GIFT City banking-unit approvals:** HiWiPay (IFSCA in-principle, PSP), CAMS Investor Services (KYC agency), Artha Bharat (first physical gold fund), Punjab & ...",
+  "blocks": [
+    {
+      "id": "blk-29-bullets",
+      "type": "bullet_list",
+      "items": [
+        "**GIFT City banking-unit approvals:** HiWiPay (IFSCA in-principle, PSP), CAMS Investor Services (KYC agency), Artha Bharat (first physical gold fund), Punjab & Sind Bank (IBU licence).",
+        "**Paytm Europe:** payment institution licence in Luxembourg (eff. 2 July 2026).",
+        "**Federal Bank:** inaugural international issuer rating BBB-/Stable from S&P (first for the bank).",
+        "**EbixCash:** first AD-II entity with RBI perpetual licence; can process ₹25 lakh/transaction trade remittances.",
+        "**Delhivery Financial Services:** RBI Type-II NBFC-ND licence.",
+        "**Moody's affirms SBI & HDFC Bank:** Baa3 deposit rating (lowest investment grade tier).",
+        "**NPCI's UPI Meta (proposed):** faster checkout, saved UPI ID; PhonePe ~45% & GPay ~33% of UPI volumes.",
+        "**BoB data breach:** ~1TB leaked (employee email compromise, core banking unaffected); CERT-In is India's cyber regulator.",
+        "**Income-tax meal benefit:** tax-free limit ₹50→₹200/meal (effective 1 Apr 2026, CBDT), up to ₹1,05,600/year.",
+        "**NSE launches India's first domestic-benchmark Natural Gas Futures** (symbol NATGASIND, IGX Gujarat/Dahej benchmark).",
+        "**Axis Finance 'Drishti':** digital credit-decisioning platform (Axis Finance = Axis Bank subsidiary, est. 1995)."
+      ]
+    },
+    {
+      "id": "blk-29-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → Key regulatory thresholds, statutory dates, and institutional mandates in Quick Hits are critical for SBI PO Mains & RBI Grade B."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-07",
+      "sec3",
+      "claude-core-v3"
+    ],
+    "category": "SEC3",
+    "sectionCode": "SEC3",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-07-30",
+    "period": "2026-07",
+    "monthLabel": "JULY 2026",
+    "monthGroup": "2026-07",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_July2026_core.md",
+      "sourceTitle": "Quick Hits"
+    },
+    "noteNumber": 130
+  },
+  "relationships": []
+}

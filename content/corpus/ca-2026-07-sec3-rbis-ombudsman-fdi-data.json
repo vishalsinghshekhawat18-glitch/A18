@@ -1,0 +1,51 @@
+{
+  "id": "ca-2026-07-sec3-rbis-ombudsman-fdi-data",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI's Ombudsman & FDI Data",
+  "summary": "Chandigarh tops RBI Ombudsman complaint rate FY25 (4.5x national average); loans/advances = top complaint category.",
+  "blocks": [
+    {
+      "id": "blk-23-bullets",
+      "type": "bullet_list",
+      "items": [
+        "Chandigarh tops RBI Ombudsman complaint rate FY25 (4.5x national average); loans/advances = top complaint category.",
+        "Net FDI declined: $27.99bn (FY23) → $10.13bn (FY24) → $960mn (FY25) → $6.95bn (FY26)."
+      ]
+    },
+    {
+      "id": "blk-23-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — FDI decline trajectory across 4 years."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-07",
+      "sec3",
+      "claude-core-v3"
+    ],
+    "category": "SEC3",
+    "sectionCode": "SEC3",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-07-24",
+    "period": "2026-07",
+    "monthLabel": "JULY 2026",
+    "monthGroup": "2026-07",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_July2026_core.md",
+      "sourceTitle": "RBI's Ombudsman & FDI Data"
+    },
+    "noteNumber": 124
+  },
+  "relationships": []
+}

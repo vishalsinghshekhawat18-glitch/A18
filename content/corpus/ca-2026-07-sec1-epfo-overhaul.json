@@ -1,0 +1,65 @@
+{
+  "id": "ca-2026-07-sec1-epfo-overhaul",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "EPFO Overhaul",
+  "summary": "EPFO rewrote its rulebook this month: a new 2026 scheme, faster settlements, and a modernised IT backbone.",
+  "blocks": [
+    {
+      "id": "blk-2-hook",
+      "type": "paragraph",
+      "content": "EPFO rewrote its rulebook this month: a new 2026 scheme, faster settlements, and a modernised IT backbone."
+    },
+    {
+      "id": "blk-2-bullets",
+      "type": "bullet_list",
+      "items": [
+        "**A. EPF Scheme 2026** (replaces 1952 scheme): \"principal employer\" concept introduced for contract workers for the first time.",
+        "employer contribution due within 15 days of month-end.",
+        "contribution linked to ₹15,000 wage ceiling.",
+        "rate unchanged at 12% (10% for notified establishments).",
+        "**B. 3-day settlement mandate:** PF claims settle in **3 days**; pension/EDLI claims in **20 days**; 12% penal interest on delays beyond 20 days; full-withdrawal age lowered to **55 years**.",
+        "**C. CITES 2.01 platform:** migrates ~340 million accounts to one national system; auto-settlement limit ₹1 lakh → **₹5 lakh** for KYC-compliant members; FY26 interest credited by July 15 (vs usual Oct–Nov)."
+      ]
+    },
+    {
+      "id": "blk-2-interview",
+      "type": "paragraph",
+      "content": "💼 Interview Q → *\"What changed for contract workers under EPF 2026?\"* → Introduces \"principal employer\" liability for the first time, closing a compliance gap that let contract labour fall outside EPF coverage."
+    },
+    {
+      "id": "blk-2-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Multi-fact trap: 3 days vs 20 days vs 55 years vs ₹15,000 vs ₹5 lakh."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-07",
+      "sec1",
+      "claude-core-v3"
+    ],
+    "category": "SEC1",
+    "sectionCode": "SEC1",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-07-03",
+    "period": "2026-07",
+    "monthLabel": "JULY 2026",
+    "monthGroup": "2026-07",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_July2026_core.md",
+      "sourceTitle": "EPFO Overhaul"
+    },
+    "noteNumber": 103
+  },
+  "relationships": []
+}

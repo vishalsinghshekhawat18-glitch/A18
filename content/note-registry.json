@@ -929,6 +929,656 @@
     "category": "SEC10",
     "file": "content/corpus/ca-2026-08-sec11-rapid-revision-and-master-tables.json"
   },
+  "101": {
+    "noteNumber": 101,
+    "id": "ca-2026-07-sec1-adbs-july-lending-spree-in-india",
+    "title": "ADB's July Lending Spree in India",
+    "section": "SEC1",
+    "date": "2026-07-01",
+    "period": "2026-07",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-07-sec1-adbs-july-lending-spree-in-india.json"
+  },
+  "102": {
+    "noteNumber": 102,
+    "id": "ca-2026-07-sec1-adb-imf-july-growth-forecasts-for-india",
+    "title": "ADB & IMF July Growth Forecasts for India",
+    "section": "SEC1",
+    "date": "2026-07-02",
+    "period": "2026-07",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-07-sec1-adb-imf-july-growth-forecasts-for-india.json"
+  },
+  "103": {
+    "noteNumber": 103,
+    "id": "ca-2026-07-sec1-epfo-overhaul",
+    "title": "EPFO Overhaul",
+    "section": "SEC1",
+    "date": "2026-07-03",
+    "period": "2026-07",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-07-sec1-epfo-overhaul.json"
+  },
+  "104": {
+    "noteNumber": 104,
+    "id": "ca-2026-07-sec1-small-savings-pf-interest-rates-julsep-2026",
+    "title": "Small Savings & PF Interest Rates (Jul–Sep 2026)",
+    "section": "SEC1",
+    "date": "2026-07-04",
+    "period": "2026-07",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-07-sec1-small-savings-pf-interest-rates-julsep-2026.json"
+  },
+  "105": {
+    "noteNumber": 105,
+    "id": "ca-2026-07-sec1-world-banks-july-india-moves",
+    "title": "World Bank's July India Moves",
+    "section": "SEC1",
+    "date": "2026-07-05",
+    "period": "2026-07",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-07-sec1-world-banks-july-india-moves.json"
+  },
+  "106": {
+    "noteNumber": 106,
+    "id": "ca-2026-07-sec1-cbdt-cost-inflation-index-cii-fy-2026-27-384",
+    "title": "CBDT Cost Inflation Index (CII) FY 2026-27 = 384",
+    "section": "SEC1",
+    "date": "2026-07-06",
+    "period": "2026-07",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-07-sec1-cbdt-cost-inflation-index-cii-fy-2026-27-384.json"
+  },
+  "107": {
+    "noteNumber": 107,
+    "id": "ca-2026-07-sec1-india-overtakes-us-in-ppp-global-savings",
+    "title": "India Overtakes US in PPP Global Savings",
+    "section": "SEC1",
+    "date": "2026-07-07",
+    "period": "2026-07",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-07-sec1-india-overtakes-us-in-ppp-global-savings.json"
+  },
+  "108": {
+    "noteNumber": 108,
+    "id": "ca-2026-07-sec1-tax-depts-sft-reporting-thresholds",
+    "title": "Tax Dept's SFT Reporting Thresholds",
+    "section": "SEC1",
+    "date": "2026-07-08",
+    "period": "2026-07",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-07-sec1-tax-depts-sft-reporting-thresholds.json"
+  },
+  "109": {
+    "noteNumber": 109,
+    "id": "ca-2026-07-sec1-indias-record-exports-fy2025-26-8631-billion",
+    "title": "India's Record Exports FY2025-26 = $863.1 billion",
+    "section": "SEC1",
+    "date": "2026-07-09",
+    "period": "2026-07",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-07-sec1-indias-record-exports-fy2025-26-8631-billion.json"
+  },
+  "110": {
+    "noteNumber": 110,
+    "id": "ca-2026-07-sec1-cochin-shipyard-ofs",
+    "title": "Cochin Shipyard OFS",
+    "section": "SEC1",
+    "date": "2026-07-10",
+    "period": "2026-07",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-07-sec1-cochin-shipyard-ofs.json"
+  },
+  "111": {
+    "noteNumber": 111,
+    "id": "ca-2026-07-sec1-ap-ranks-2nd-in-mangrove-restoration-mishti",
+    "title": "AP Ranks 2nd in Mangrove Restoration (MISHTI)",
+    "section": "SEC1",
+    "date": "2026-07-11",
+    "period": "2026-07",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-07-sec1-ap-ranks-2nd-in-mangrove-restoration-mishti.json"
+  },
+  "112": {
+    "noteNumber": 112,
+    "id": "ca-2026-07-sec1-indias-high-income-taxpayer-surge-gini-coeffi",
+    "title": "India's High-Income Taxpayer Surge & Gini Coefficient",
+    "section": "SEC1",
+    "date": "2026-07-12",
+    "period": "2026-07",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-07-sec1-indias-high-income-taxpayer-surge-gini-coeffi.json"
+  },
+  "113": {
+    "noteNumber": 113,
+    "id": "ca-2026-07-sec1-quick-hits",
+    "title": "Quick Hits",
+    "section": "SEC1",
+    "date": "2026-07-13",
+    "period": "2026-07",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-07-sec1-quick-hits.json"
+  },
+  "114": {
+    "noteNumber": 114,
+    "id": "ca-2026-07-sec2-rbis-revamped-integrated-ombudsman-scheme",
+    "title": "RBI's Revamped Integrated Ombudsman Scheme",
+    "section": "SEC2",
+    "date": "2026-07-14",
+    "period": "2026-07",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-07-sec2-rbis-revamped-integrated-ombudsman-scheme.json"
+  },
+  "115": {
+    "noteNumber": 115,
+    "id": "ca-2026-07-sec2-rbis-3-new-monetary-policy-surveys",
+    "title": "RBI's 3 New Monetary-Policy Surveys",
+    "section": "SEC2",
+    "date": "2026-07-15",
+    "period": "2026-07",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-07-sec2-rbis-3-new-monetary-policy-surveys.json"
+  },
+  "116": {
+    "noteNumber": 116,
+    "id": "ca-2026-07-sec2-rbi-financial-inclusion-index",
+    "title": "RBI Financial Inclusion Index",
+    "section": "SEC2",
+    "date": "2026-07-16",
+    "period": "2026-07",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-07-sec2-rbi-financial-inclusion-index.json"
+  },
+  "117": {
+    "noteNumber": 117,
+    "id": "ca-2026-07-sec2-sebis-july-reform-bundle",
+    "title": "Sebi's July Reform Bundle",
+    "section": "SEC2",
+    "date": "2026-07-17",
+    "period": "2026-07",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-07-sec2-sebis-july-reform-bundle.json"
+  },
+  "118": {
+    "noteNumber": 118,
+    "id": "ca-2026-07-sec2-pfrdas-july-moves",
+    "title": "PFRDA's July Moves",
+    "section": "SEC2",
+    "date": "2026-07-18",
+    "period": "2026-07",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-07-sec2-pfrdas-july-moves.json"
+  },
+  "119": {
+    "noteNumber": 119,
+    "id": "ca-2026-07-sec2-rbi-stressed-assets-governance-reforms",
+    "title": "RBI Stressed Assets & Governance Reforms",
+    "section": "SEC2",
+    "date": "2026-07-19",
+    "period": "2026-07",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-07-sec2-rbi-stressed-assets-governance-reforms.json"
+  },
+  "120": {
+    "noteNumber": 120,
+    "id": "ca-2026-07-sec2-rbis-femafdi-reform-package",
+    "title": "RBI's FEMA/FDI Reform Package",
+    "section": "SEC2",
+    "date": "2026-07-20",
+    "period": "2026-07",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-07-sec2-rbis-femafdi-reform-package.json"
+  },
+  "121": {
+    "noteNumber": 121,
+    "id": "ca-2026-07-sec2-nabards-july-moves",
+    "title": "NABARD's July Moves",
+    "section": "SEC2",
+    "date": "2026-07-21",
+    "period": "2026-07",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-07-sec2-nabards-july-moves.json"
+  },
+  "122": {
+    "noteNumber": 122,
+    "id": "ca-2026-07-sec2-quick-hits",
+    "title": "Quick Hits",
+    "section": "SEC2",
+    "date": "2026-07-22",
+    "period": "2026-07",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-07-sec2-quick-hits.json"
+  },
+  "123": {
+    "noteNumber": 123,
+    "id": "ca-2026-07-sec3-banks-collect-7086-crore-in-minimum-balance-p",
+    "title": "Banks Collect ₹7,086 crore in Minimum Balance Penalties, FY26",
+    "section": "SEC3",
+    "date": "2026-07-23",
+    "period": "2026-07",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-07-sec3-banks-collect-7086-crore-in-minimum-balance-p.json"
+  },
+  "124": {
+    "noteNumber": 124,
+    "id": "ca-2026-07-sec3-rbis-ombudsman-fdi-data",
+    "title": "RBI's Ombudsman & FDI Data",
+    "section": "SEC3",
+    "date": "2026-07-24",
+    "period": "2026-07",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-07-sec3-rbis-ombudsman-fdi-data.json"
+  },
+  "125": {
+    "noteNumber": 125,
+    "id": "ca-2026-07-sec3-ucb-tier-classification",
+    "title": "UCB Tier Classification",
+    "section": "SEC3",
+    "date": "2026-07-25",
+    "period": "2026-07",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-07-sec3-ucb-tier-classification.json"
+  },
+  "126": {
+    "noteNumber": 126,
+    "id": "ca-2026-07-sec3-sbis-july-milestones",
+    "title": "SBI's July Milestones",
+    "section": "SEC3",
+    "date": "2026-07-26",
+    "period": "2026-07",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-07-sec3-sbis-july-milestones.json"
+  },
+  "127": {
+    "noteNumber": 127,
+    "id": "ca-2026-07-sec3-rbi-penalties-this-month",
+    "title": "RBI Penalties This Month",
+    "section": "SEC3",
+    "date": "2026-07-27",
+    "period": "2026-07",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-07-sec3-rbi-penalties-this-month.json"
+  },
+  "128": {
+    "noteNumber": 128,
+    "id": "ca-2026-07-sec3-ckyc-what-to-know",
+    "title": "CKYC — What to Know",
+    "section": "SEC3",
+    "date": "2026-07-28",
+    "period": "2026-07",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-07-sec3-ckyc-what-to-know.json"
+  },
+  "129": {
+    "noteNumber": 129,
+    "id": "ca-2026-07-sec3-worlds-best-bank-awards-2026-global-finance",
+    "title": "World's Best Bank Awards 2026 (Global Finance)",
+    "section": "SEC3",
+    "date": "2026-07-29",
+    "period": "2026-07",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-07-sec3-worlds-best-bank-awards-2026-global-finance.json"
+  },
+  "130": {
+    "noteNumber": 130,
+    "id": "ca-2026-07-sec3-quick-hits",
+    "title": "Quick Hits",
+    "section": "SEC3",
+    "date": "2026-07-30",
+    "period": "2026-07",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-07-sec3-quick-hits.json"
+  },
+  "131": {
+    "noteNumber": 131,
+    "id": "ca-2026-07-sec3-irdaiinsurance-reforms",
+    "title": "IRDAI/Insurance Reforms",
+    "section": "SEC3",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-07-sec3-irdaiinsurance-reforms.json"
+  },
+  "132": {
+    "noteNumber": 132,
+    "id": "ca-2026-07-sec3-insurance-consolidation-wave",
+    "title": "Insurance Consolidation Wave",
+    "section": "SEC3",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-07-sec3-insurance-consolidation-wave.json"
+  },
+  "133": {
+    "noteNumber": 133,
+    "id": "ca-2026-07-sec3-quick-hits-insurance",
+    "title": "Quick Hits — Insurance",
+    "section": "SEC3",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-07-sec3-quick-hits-insurance.json"
+  },
+  "134": {
+    "noteNumber": 134,
+    "id": "ca-2026-07-sec4-sikkim-tops-per-capita-income-bihar-poorest-e",
+    "title": "Sikkim Tops Per Capita Income; Bihar Poorest (EAC-PM working paper)",
+    "section": "SEC4",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC4",
+    "file": "content/corpus/ca-2026-07-sec4-sikkim-tops-per-capita-income-bihar-poorest-e.json"
+  },
+  "135": {
+    "noteNumber": 135,
+    "id": "ca-2026-07-sec4-sarnath-indias-45th-unesco-world-heritage-sit",
+    "title": "Sarnath — India's 45th UNESCO World Heritage Site",
+    "section": "SEC4",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC4",
+    "file": "content/corpus/ca-2026-07-sec4-sarnath-indias-45th-unesco-world-heritage-sit.json"
+  },
+  "136": {
+    "noteNumber": 136,
+    "id": "ca-2026-07-sec4-indias-fertility-nuclear-power",
+    "title": "India's Fertility & Nuclear Power",
+    "section": "SEC4",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC4",
+    "file": "content/corpus/ca-2026-07-sec4-indias-fertility-nuclear-power.json"
+  },
+  "137": {
+    "noteNumber": 137,
+    "id": "ca-2026-07-sec4-indias-stem-olympiad-sweep-july-2026",
+    "title": "India's STEM Olympiad Sweep, July 2026",
+    "section": "SEC4",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC4",
+    "file": "content/corpus/ca-2026-07-sec4-indias-stem-olympiad-sweep-july-2026.json"
+  },
+  "138": {
+    "noteNumber": 138,
+    "id": "ca-2026-07-sec4-quick-hits-national",
+    "title": "Quick Hits — National",
+    "section": "SEC4",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC4",
+    "file": "content/corpus/ca-2026-07-sec4-quick-hits-national.json"
+  },
+  "139": {
+    "noteNumber": 139,
+    "id": "ca-2026-07-sec4-quick-hits-state",
+    "title": "Quick Hits — State",
+    "section": "SEC4",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC4",
+    "file": "content/corpus/ca-2026-07-sec4-quick-hits-state.json"
+  },
+  "140": {
+    "noteNumber": 140,
+    "id": "ca-2026-07-sec4-quick-hits-international",
+    "title": "Quick Hits — International",
+    "section": "SEC4",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC4",
+    "file": "content/corpus/ca-2026-07-sec4-quick-hits-international.json"
+  },
+  "141": {
+    "noteNumber": 141,
+    "id": "ca-2026-07-sec5-key-mous-this-month",
+    "title": "Key MoUs This Month",
+    "section": "SEC5",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC5",
+    "file": "content/corpus/ca-2026-07-sec5-key-mous-this-month.json"
+  },
+  "142": {
+    "noteNumber": 142,
+    "id": "ca-2026-07-sec5-mergers-acquisitions",
+    "title": "Mergers & Acquisitions",
+    "section": "SEC5",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC5",
+    "file": "content/corpus/ca-2026-07-sec5-mergers-acquisitions.json"
+  },
+  "143": {
+    "noteNumber": 143,
+    "id": "ca-2026-07-sec5-key-appointments",
+    "title": "Key Appointments",
+    "section": "SEC5",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC5",
+    "file": "content/corpus/ca-2026-07-sec5-key-appointments.json"
+  },
+  "144": {
+    "noteNumber": 144,
+    "id": "ca-2026-07-sec5-quick-hits-other-appointments",
+    "title": "Quick Hits — Other Appointments",
+    "section": "SEC5",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC5",
+    "file": "content/corpus/ca-2026-07-sec5-quick-hits-other-appointments.json"
+  },
+  "145": {
+    "noteNumber": 145,
+    "id": "ca-2026-07-sec5-conferences",
+    "title": "Conferences",
+    "section": "SEC5",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC5",
+    "file": "content/corpus/ca-2026-07-sec5-conferences.json"
+  },
+  "146": {
+    "noteNumber": 146,
+    "id": "ca-2026-07-sec6-gaganyaan-mission-progress-july-2026",
+    "title": "Gaganyaan Mission Progress, July 2026",
+    "section": "SEC6",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC6",
+    "file": "content/corpus/ca-2026-07-sec6-gaganyaan-mission-progress-july-2026.json"
+  },
+  "147": {
+    "noteNumber": 147,
+    "id": "ca-2026-07-sec6-indias-first-private-orbital-launch-skyroots-",
+    "title": "India's First Private Orbital Launch — Skyroot's Vikram-1",
+    "section": "SEC6",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC6",
+    "file": "content/corpus/ca-2026-07-sec6-indias-first-private-orbital-launch-skyroots-.json"
+  },
+  "148": {
+    "noteNumber": 148,
+    "id": "ca-2026-07-sec6-drdos-july-weapons-tests",
+    "title": "DRDO's July Weapons Tests",
+    "section": "SEC6",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC6",
+    "file": "content/corpus/ca-2026-07-sec6-drdos-july-weapons-tests.json"
+  },
+  "149": {
+    "noteNumber": 149,
+    "id": "ca-2026-07-sec6-indias-first-dengue-vaccine-qdenga",
+    "title": "India's First Dengue Vaccine — QDENGA",
+    "section": "SEC6",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC6",
+    "file": "content/corpus/ca-2026-07-sec6-indias-first-dengue-vaccine-qdenga.json"
+  },
+  "150": {
+    "noteNumber": 150,
+    "id": "ca-2026-07-sec6-quick-hits-science-tech",
+    "title": "Quick Hits — Science & Tech",
+    "section": "SEC6",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC6",
+    "file": "content/corpus/ca-2026-07-sec6-quick-hits-science-tech.json"
+  },
+  "151": {
+    "noteNumber": 151,
+    "id": "ca-2026-07-sec6-defence-key-milestones",
+    "title": "Defence — Key Milestones",
+    "section": "SEC6",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC6",
+    "file": "content/corpus/ca-2026-07-sec6-defence-key-milestones.json"
+  },
+  "152": {
+    "noteNumber": 152,
+    "id": "ca-2026-07-sec6-quick-hits-defence",
+    "title": "Quick Hits — Defence",
+    "section": "SEC6",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC6",
+    "file": "content/corpus/ca-2026-07-sec6-quick-hits-defence.json"
+  },
+  "153": {
+    "noteNumber": 153,
+    "id": "ca-2026-07-sec6-sports-july-2026-highlights",
+    "title": "Sports — July 2026 Highlights",
+    "section": "SEC6",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC6",
+    "file": "content/corpus/ca-2026-07-sec6-sports-july-2026-highlights.json"
+  },
+  "154": {
+    "noteNumber": 154,
+    "id": "ca-2026-07-sec6-quick-hits-sports",
+    "title": "Quick Hits — Sports",
+    "section": "SEC6",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC6",
+    "file": "content/corpus/ca-2026-07-sec6-quick-hits-sports.json"
+  },
+  "155": {
+    "noteNumber": 155,
+    "id": "ca-2026-07-sec7-global-passport-wealth-indices-indias-july-ra",
+    "title": "Global Passport & Wealth Indices — India's July Rankings",
+    "section": "SEC7",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC7",
+    "file": "content/corpus/ca-2026-07-sec7-global-passport-wealth-indices-indias-july-ra.json"
+  },
+  "156": {
+    "noteNumber": 156,
+    "id": "ca-2026-07-sec7-indias-brand-trade-rankings",
+    "title": "India's Brand & Trade Rankings",
+    "section": "SEC7",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC7",
+    "file": "content/corpus/ca-2026-07-sec7-indias-brand-trade-rankings.json"
+  },
+  "157": {
+    "noteNumber": 157,
+    "id": "ca-2026-07-sec7-indias-global-fdi-investment-standing-2025",
+    "title": "India's Global FDI & Investment Standing 2025",
+    "section": "SEC7",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC7",
+    "file": "content/corpus/ca-2026-07-sec7-indias-global-fdi-investment-standing-2025.json"
+  },
+  "158": {
+    "noteNumber": 158,
+    "id": "ca-2026-07-sec7-indias-nutrition-progress-un-sofi-report-2026",
+    "title": "India's Nutrition Progress (UN SOFI Report 2026)",
+    "section": "SEC7",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC7",
+    "file": "content/corpus/ca-2026-07-sec7-indias-nutrition-progress-un-sofi-report-2026.json"
+  },
+  "159": {
+    "noteNumber": 159,
+    "id": "ca-2026-07-sec7-indias-renewable-energy-cost-leadership-irena",
+    "title": "India's Renewable Energy Cost Leadership (IRENA)",
+    "section": "SEC7",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC7",
+    "file": "content/corpus/ca-2026-07-sec7-indias-renewable-energy-cost-leadership-irena.json"
+  },
+  "160": {
+    "noteNumber": 160,
+    "id": "ca-2026-07-sec7-quick-hits-reports",
+    "title": "Quick Hits — Reports",
+    "section": "SEC7",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC7",
+    "file": "content/corpus/ca-2026-07-sec7-quick-hits-reports.json"
+  },
+  "161": {
+    "noteNumber": 161,
+    "id": "ca-2026-07-sec7-quick-hits-awards",
+    "title": "Quick Hits — Awards",
+    "section": "SEC7",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC7",
+    "file": "content/corpus/ca-2026-07-sec7-quick-hits-awards.json"
+  },
+  "162": {
+    "noteNumber": 162,
+    "id": "ca-2026-07-sec8-key-important-days-july-2026",
+    "title": "Key Important Days, July 2026",
+    "section": "SEC8",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC8",
+    "file": "content/corpus/ca-2026-07-sec8-key-important-days-july-2026.json"
+  },
+  "163": {
+    "noteNumber": 163,
+    "id": "ca-2026-07-sec8-person-in-news-high-yield-items",
+    "title": "Person in News — High-Yield Items",
+    "section": "SEC8",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC8",
+    "file": "content/corpus/ca-2026-07-sec8-person-in-news-high-yield-items.json"
+  },
+  "164": {
+    "noteNumber": 164,
+    "id": "ca-2026-07-sec10-quick-hits-staticgk",
+    "title": "Quick Hits — Static/GK",
+    "section": "SEC10",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC10",
+    "file": "content/corpus/ca-2026-07-sec10-quick-hits-staticgk.json"
+  },
+  "165": {
+    "noteNumber": 165,
+    "id": "ca-2026-07-sec11-rapid-revision-and-master-tables",
+    "title": "⚡ Rapid Revision Master Sheet & High-Yield Top 10 (July 1–31, 2026)",
+    "section": "SEC10",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "category": "SEC10",
+    "file": "content/corpus/ca-2026-07-sec11-rapid-revision-and-master-tables.json"
+  },
   "201": {
     "noteNumber": 201,
     "id": "ca-2026-q4-sec1-union-budget-2026-27-related-fiscal-announcem",

@@ -1,0 +1,54 @@
+{
+  "id": "ca-2026-07-sec6-quick-hits-science-tech",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Quick Hits — Science & Tech",
+  "summary": "**India's first Engineering Biology graduation course** — bioeconomy target $300bn by 2030 (from ~$10bn in 2014, currently ~$95bn).",
+  "blocks": [
+    {
+      "id": "blk-49-bullets",
+      "type": "bullet_list",
+      "items": [
+        "**India's first Engineering Biology graduation course** — bioeconomy target $300bn by 2030 (from ~$10bn in 2014, currently ~$95bn).",
+        "**Biomedical Research Career Programme Phase III:** ₹1,500cr (₹1,000cr DBT + ₹500cr Wellcome Trust).",
+        "**Reliance Jio:** IN-SPACe approval for 1,600-satellite LEO network.",
+        "**India's first Air Taxi prototype** (ePlane Company, IIT Madras-incubated) — eVTOL, commercial by 2028.",
+        "**AI for Good Global Commission** launched (Geneva Summit, 7-10 July) — Kagame co-chair, Bogdan-Martin vice-chair; 4 Indian business leaders among founding members."
+      ]
+    },
+    {
+      "id": "blk-49-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → Key regulatory thresholds, statutory dates, and institutional mandates in Quick Hits — Science & Tech are critical for SBI PO Mains & RBI Grade B."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-07",
+      "sec6",
+      "claude-core-v3"
+    ],
+    "category": "SEC6",
+    "sectionCode": "SEC6",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "monthLabel": "JULY 2026",
+    "monthGroup": "2026-07",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_July2026_core.md",
+      "sourceTitle": "Quick Hits — Science & Tech"
+    },
+    "noteNumber": 150
+  },
+  "relationships": []
+}

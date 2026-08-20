@@ -1,0 +1,52 @@
+{
+  "id": "ca-2026-07-sec2-pfrdas-july-moves",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "PFRDA's July Moves",
+  "summary": "**A.** ASCEND committee (Accelerated Scaling of Global Capital Ecosystem & NPS Development) to attract global pension capital; chaired by Dinesh Khara.",
+  "blocks": [
+    {
+      "id": "blk-17-bullets",
+      "type": "bullet_list",
+      "items": [
+        "**A.** ASCEND committee (Accelerated Scaling of Global Capital Ecosystem & NPS Development) to attract global pension capital; chaired by Dinesh Khara.",
+        "**B.** NPS PRIDE-Disha launched — XIRR-based fund comparison tool.",
+        "**C.** Pension Sahayak — AI grievance platform for NPS/UPS/APY; 30-day intermediary window → 21-day NPS Trust escalation; 22 languages via Bhashini (planned)."
+      ]
+    },
+    {
+      "id": "blk-17-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → PRIDE-Disha uses XIRR methodology (not simple point-to-point returns)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-07",
+      "sec2",
+      "claude-core-v3"
+    ],
+    "category": "SEC2",
+    "sectionCode": "SEC2",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-07-18",
+    "period": "2026-07",
+    "monthLabel": "JULY 2026",
+    "monthGroup": "2026-07",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_July2026_core.md",
+      "sourceTitle": "PFRDA's July Moves"
+    },
+    "noteNumber": 118
+  },
+  "relationships": []
+}

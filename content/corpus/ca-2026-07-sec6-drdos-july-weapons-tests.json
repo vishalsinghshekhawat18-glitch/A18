@@ -1,0 +1,52 @@
+{
+  "id": "ca-2026-07-sec6-drdos-july-weapons-tests",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "DRDO's July Weapons Tests",
+  "summary": "Pinaka Long Range Guided Rocket (LRGR) — Chandipur, Odisha.",
+  "blocks": [
+    {
+      "id": "blk-47-bullets",
+      "type": "bullet_list",
+      "items": [
+        "Pinaka Long Range Guided Rocket (LRGR) — Chandipur, Odisha.",
+        "Kusha long-range surface-to-air missile — Dr APJ Abdul Kalam Island, Odisha (maiden flight test).",
+        "India's first indigenous 350kg-thrust-class expendable turbojet engine (DRDO-GTRE, delivered by Azad Engineering)."
+      ]
+    },
+    {
+      "id": "blk-47-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → Match missile/rocket name to test location."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-07",
+      "sec6",
+      "claude-core-v3"
+    ],
+    "category": "SEC6",
+    "sectionCode": "SEC6",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "monthLabel": "JULY 2026",
+    "monthGroup": "2026-07",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_July2026_core.md",
+      "sourceTitle": "DRDO's July Weapons Tests"
+    },
+    "noteNumber": 148
+  },
+  "relationships": []
+}

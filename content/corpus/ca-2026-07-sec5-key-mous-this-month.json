@@ -1,0 +1,48 @@
+{
+  "id": "ca-2026-07-sec5-key-mous-this-month",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Key MoUs This Month",
+  "summary": "Key MoUs This Month",
+  "blocks": [
+    {
+      "id": "blk-40-table",
+      "type": "paragraph",
+      "content": "| Parties | Purpose |\n|---|---|\n| Bank of Baroda + Mizuho Bank (Japan) | M&A financing collaboration |\n| India–Israel | Bilateral Investment Agreement (BIA), in force 4 July |\n| India–Indonesia (Modi visit) | BrahMos + ASTRA missile cooperation; SAIL-Krakatau Steel JV; UPI-Indonesia payment integration; ONDC-based \"Indonesia Open Network\" |\n| GIFT City + Da Nang (Vietnam) IFSC | Knowledge-exchange on international financial centres |\n| PNB + Digital India BHASHINI | Multilingual AI banking |\n| Andhra Pradesh + Punjab National Bank | India's first bank-led Quantum Finance Hub, Amaravati |\n| NABARD + MAHAPREIT | Green/climate-resilient rural infrastructure financing, Maharashtra |"
+    },
+    {
+      "id": "blk-40-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — India-Indonesia defence pacts (BrahMos, ASTRA) are high-yield."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-07",
+      "sec5",
+      "claude-core-v3"
+    ],
+    "category": "SEC5",
+    "sectionCode": "SEC5",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "monthLabel": "JULY 2026",
+    "monthGroup": "2026-07",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_July2026_core.md",
+      "sourceTitle": "Key MoUs This Month"
+    },
+    "noteNumber": 141
+  },
+  "relationships": []
+}

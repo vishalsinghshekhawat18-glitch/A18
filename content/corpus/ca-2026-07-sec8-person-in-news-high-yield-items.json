@@ -1,0 +1,53 @@
+{
+  "id": "ca-2026-07-sec8-person-in-news-high-yield-items",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Person in News — High-Yield Items",
+  "summary": "**Vaibhav Sooryavanshi:** youngest-ever India international debutant (15y99d), surpassing Sachin Tendulkar (16y205d); also youngest to score a T20I fifty (15y11...",
+  "blocks": [
+    {
+      "id": "blk-62-bullets",
+      "type": "bullet_list",
+      "items": [
+        "**Vaibhav Sooryavanshi:** youngest-ever India international debutant (15y99d), surpassing Sachin Tendulkar (16y205d); also youngest to score a T20I fifty (15y118d).",
+        "**Rohit Sharma:** first Indian men's ODI century at Lord's; oldest Indian international centurion (39y80d, surpassed Tendulkar's 38y327d).",
+        "**Anjum Chopra:** inducted into ICC Cricket Hall of Fame; first Indian woman to play 100 ODIs.",
+        "**Anil Menon:** first astronaut of Malayali origin, 8-month ISS mission via Soyuz MS-29."
+      ]
+    },
+    {
+      "id": "blk-62-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Sooryavanshi/Tendulkar age-record trap is very MCQ-friendly."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-07",
+      "sec8",
+      "claude-core-v3"
+    ],
+    "category": "SEC8",
+    "sectionCode": "SEC8",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "monthLabel": "JULY 2026",
+    "monthGroup": "2026-07",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_July2026_core.md",
+      "sourceTitle": "Person in News — High-Yield Items"
+    },
+    "noteNumber": 163
+  },
+  "relationships": []
+}

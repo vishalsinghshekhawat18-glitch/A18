@@ -1,0 +1,48 @@
+{
+  "id": "ca-2026-07-sec7-global-passport-wealth-indices-indias-july-ra",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Global Passport & Wealth Indices — India's July Rankings",
+  "summary": "Global Passport & Wealth Indices — India's July Rankings",
+  "blocks": [
+    {
+      "id": "blk-54-table",
+      "type": "paragraph",
+      "content": "| Index | India's Rank | Note |\n|---|---|---|\n| Global Passport Index 2026 (GCS) | 125th/197 | Score 45.1 (5-yr high); Sweden #1 |\n| Henley Passport Index (July 2026, 20th ed.) | 81st (55 destinations) | Down from 75th (Feb 2026); Singapore #1 (192 destinations) |\n| Most Influential Countries 2026 (US News) | 16th | US #1, UK #2, Germany #3 |\n| Global Liveability Index 2026 (EIU) | New Delhi 120, Mumbai 121, Chennai 123, Bengaluru 127 | Copenhagen #1 |\n| Happy City Index 2026 | Jaipur 6th (only Indian city in global top 10) | London #1 |"
+    },
+    {
+      "id": "blk-54-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — GPI (125th) vs Henley (81st) are two different passport indices — classic confusion trap."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-07",
+      "sec7",
+      "claude-core-v3"
+    ],
+    "category": "SEC7",
+    "sectionCode": "SEC7",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "monthLabel": "JULY 2026",
+    "monthGroup": "2026-07",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_July2026_core.md",
+      "sourceTitle": "Global Passport & Wealth Indices — India's July Rankings"
+    },
+    "noteNumber": 155
+  },
+  "relationships": []
+}

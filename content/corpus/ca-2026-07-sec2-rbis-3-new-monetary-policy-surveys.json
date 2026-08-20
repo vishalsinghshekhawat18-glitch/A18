@@ -1,0 +1,43 @@
+{
+  "id": "ca-2026-07-sec2-rbis-3-new-monetary-policy-surveys",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "RBI's 3 New Monetary-Policy Surveys",
+  "summary": "RBI's 3 New Monetary-Policy Surveys",
+  "blocks": [
+    {
+      "id": "blk-14-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Match survey name to coverage."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-07",
+      "sec2",
+      "claude-core-v3"
+    ],
+    "category": "SEC2",
+    "sectionCode": "SEC2",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-07-15",
+    "period": "2026-07",
+    "monthLabel": "JULY 2026",
+    "monthGroup": "2026-07",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_July2026_core.md",
+      "sourceTitle": "RBI's 3 New Monetary-Policy Surveys"
+    },
+    "noteNumber": 115
+  },
+  "relationships": []
+}

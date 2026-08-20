@@ -1,0 +1,53 @@
+{
+  "id": "ca-2026-07-sec6-defence-key-milestones",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Defence — Key Milestones",
+  "summary": "**INS Mahendragiri (F38):** 6th Project 17A stealth frigate commissioned, Visakhapatnam; 75% indigenous; built by Mazagon Dock.",
+  "blocks": [
+    {
+      "id": "blk-50-bullets",
+      "type": "bullet_list",
+      "items": [
+        "**INS Mahendragiri (F38):** 6th Project 17A stealth frigate commissioned, Visakhapatnam; 75% indigenous; built by Mazagon Dock.",
+        "**General Dhiraj Seth:** 31st Chief of Army Staff, unveiled \"VIJAY\" vision.",
+        "**Malvan:** 2nd Mahe-class anti-submarine craft, 80% indigenous, built at Cochin Shipyard.",
+        "**GAGAN (GPS Aided GEO Augmented Navigation):** India's SBAS, operational since 2015; DGCA conducted first satellite-based commercial jet landing using it."
+      ]
+    },
+    {
+      "id": "blk-50-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Indigenous-content percentages (Mahendragiri 75% vs Malvan 80%) are a trap pair."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-07",
+      "sec6",
+      "claude-core-v3"
+    ],
+    "category": "SEC6",
+    "sectionCode": "SEC6",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-07-31",
+    "period": "2026-07",
+    "monthLabel": "JULY 2026",
+    "monthGroup": "2026-07",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_July2026_core.md",
+      "sourceTitle": "Defence — Key Milestones"
+    },
+    "noteNumber": 151
+  },
+  "relationships": []
+}
