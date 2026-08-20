@@ -200,6 +200,81 @@ export const SCHEMES_MASTER_REGISTRY: Record<string, SchemeEntry> = {
     current2026Update: 'Commenced 3D seismic mapping of 14 ultra-deepwater blocks in the Andaman Sea.',
     examTrap: 'Administered by Directorate General of Hydrocarbons (DGH) under MoPNG; Andaman deepwater blocks carry special fiscal concessions.',
     aliases: ['samudra manthan', 'offshore exploration', 'deepwater exploration']
+  },
+
+  'lakhpati-didi': {
+    id: 'lakhpati-didi',
+    shortName: 'Lakhpati Didi',
+    fullName: 'Lakhpati Didi Initiative (DAY-NRLM)',
+    schemeType: 'Centrally Sponsored Sub-Mission',
+    nodalMinistry: 'Ministry of Rural Development (MoRD)',
+    launchDate: 'Announced 15 August 2023 by PM Modi',
+    totalOutlay: 'Part of Deendayal Antyodaya Yojana - National Rural Livelihoods Mission (DAY-NRLM)',
+    targets: 'Enable rural Self-Help Group (SHG) women to earn a sustainable minimum income of ₹1 Lakh per year (₹10,000/month)',
+    predecessorAndLineage: 'Evolved under the Deendayal Antyodaya Yojana – National Rural Livelihoods Mission (DAY-NRLM). Combines SHG micro-credit, Community Resource Persons (CRPs), Drone Didis, and digital banking Krishi Sakhis.',
+    current2026Update: 'Initial target of 3 Crore Lakhpati Didis achieved ahead of March 2027 deadline; Government doubled the national target to 6 Crore Lakhpati Didis by March 2029.',
+    examTrap: 'Eligibility criterion: Net income of at least ₹1,00,000 per annum per household; target was doubled from 3 Crore to 6 Crore by March 2029 (not 2027).',
+    aliases: ['lakhpati didi', 'lakhpati didis', 'lakhpati didi initiative', '6 crore by march 2029']
+  },
+
+  'aif-agri-infra': {
+    id: 'aif-agri-infra',
+    shortName: 'AIF (Agri Infra)',
+    fullName: 'Agriculture Infrastructure Fund',
+    schemeType: 'Central Sector Scheme',
+    nodalMinistry: 'Ministry of Agriculture and Farmers Welfare',
+    launchDate: 'Launched July 2020 (Operational 2020-21 to 2032-33, 13 years)',
+    totalOutlay: '₹2 Lakh Crore Medium-Long Term Debt Financing Facility',
+    targets: 'Post-harvest management infrastructure, cold storages, silos, primary processing units for PACS, FPOs, and Agri-entrepreneurs',
+    predecessorAndLineage: 'Launched under the Atmanirbhar Bharat Economic Package. Provides 3% per annum interest subvention on bank loans up to ₹2 Crore for a maximum tenure of 7 years, backed by CGTMSE and NABSanrakshan credit guarantees.',
+    current2026Update: 'Loan target officially doubled from ₹1 Lakh Crore to ₹2 Lakh Crore; Punjab tops the national state leaderboard in sanctioned projects, followed by Madhya Pradesh and Maharashtra.',
+    examTrap: 'Interest subvention is 3% p.a. capped at ₹2 Crore loan amount for maximum 7 years; overall scheme runs for 13 years till 2032-33; Punjab leads all states.',
+    aliases: ['agriculture infrastructure fund', 'aif scheme', 'aif', 'agri infra fund']
+  },
+
+  '16th-finance-commission': {
+    id: '16th-finance-commission',
+    shortName: '16th Finance Commission',
+    fullName: '16th Finance Commission of India (Article 280)',
+    schemeType: 'Constitutional Body / Devolution Framework',
+    nodalMinistry: 'Ministry of Finance (Constituted by President of India under Article 280)',
+    launchDate: 'Constituted 31 December 2023 · Award Period: 1 April 2026 to 31 March 2031 (5 Years)',
+    totalOutlay: '41% Vertical Devolution of Divisible Central Tax Pool to States (Unchanged)',
+    targets: 'Vertical & Horizontal Tax Devolution, Revenue Deficit Grants, Disaster Management Grants (SDRF/NDRF 80:20), Local Body Grants',
+    predecessorAndLineage: 'Succeeds the 15th Finance Commission (Chaired by N.K. Singh, which also recommended 41% devolution after Jammu & Kashmir reorganisation). Chairman of 16th FC is Dr. Arvind Panagariya (former Vice-Chairman of NITI Aayog); Secretary is Ritvik Ranjanam Pandey; Full-time Members include A.N. Jha, Annie George Mathew, Niranjan Rajadhyaksha, and Dr. Soumya Kanti Ghosh.',
+    current2026Update: 'Comprehensive report tabled in Parliament in February 2026; retains 41% state share in the divisible central tax pool for the 2026-2031 award period.',
+    examTrap: 'Constitutional basis: Article 280; Chairman: Dr. Arvind Panagariya; Vertical devolution rate: 41% (not 42%); 1% adjustment retained for UTs of J&K and Ladakh.',
+    aliases: ['16th finance commission', 'finance commission', 'arvind panagariya', 'article 280', 'centre-state tax devolution']
+  },
+
+  'pm-internship': {
+    id: 'pm-internship',
+    shortName: 'PM Internship (PMIS)',
+    fullName: 'Prime Minister’s Internship Scheme in Top 500 Companies',
+    schemeType: 'Central Sector Scheme',
+    nodalMinistry: 'Ministry of Corporate Affairs (MCA)',
+    launchDate: 'Announced Budget 2024-25 / Pilot Launched October 2024',
+    totalOutlay: 'Funded via Corporate Social Responsibility (CSR) + Central Grant Support',
+    targets: '1 Crore youth aged 18–25 trained over 5 years across top 500 CSR-spending companies in India',
+    predecessorAndLineage: 'Part of the Prime Minister’s 5-scheme Employment & Skilling Package (₹2 Lakh Cr outlay). Overhauled in March 2026: revised duration to 6–9 months, relaxed eligibility to age 18–25, and increased monthly stipend to ₹9,000.',
+    current2026Update: 'Monthly financial assistance revised from ₹5,000 to ₹9,000; internship duration adapted to 6–9 months based on industry demand.',
+    examTrap: 'Age bracket: 18–25 years; revised monthly stipend: ₹9,000; top 500 companies selected based on average CSR spend over the past 3 years.',
+    aliases: ['pm internship scheme', 'pmis', 'pm internship', 'top 500 companies']
+  },
+
+  'pm-ebus-sewa': {
+    id: 'pm-ebus-sewa',
+    shortName: 'PM-eBus Sewa',
+    fullName: 'PM-eBus Sewa Scheme',
+    schemeType: 'Centrally Sponsored Scheme (PPP Model)',
+    nodalMinistry: 'Ministry of Housing and Urban Affairs (MoHUA)',
+    launchDate: 'Approved August 2023 (Operational till 2037, 10-year support)',
+    totalOutlay: '₹57,613 Crore (Central Support: ₹20,000 Crore; Balance via PPP & State Share)',
+    targets: 'Deployment of 10,000 Electric Buses across 116 Tier-2 and Tier-3 cities lacking organized public transit',
+    predecessorAndLineage: 'Complements PM E-DRIVE and Smart Cities Mission. Operates on Public-Private Partnership (PPP) model where private operators run the buses and the government pays per-kilometer operational viability support.',
+    current2026Update: 'Over 6,500 e-buses contracted across 26 States/UTs with automated fare collection and depot charging infrastructure.',
+    examTrap: 'Total project cost: ₹57,613 Crore; Central share: ₹20,000 Crore; targets cities with population between 3 Lakh to 40 Lakh (not mega-metros).',
+    aliases: ['pm-ebus sewa', 'pm-ebus', 'pm ebus sewa', '10,000 ac e-buses']
   }
 };
 

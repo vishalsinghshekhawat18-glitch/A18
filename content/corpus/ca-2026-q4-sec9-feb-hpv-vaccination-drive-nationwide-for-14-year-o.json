@@ -6,9 +6,12 @@
   "summary": "**[Jan]**: No standalone PIB/circular items separate from subject-matter news — Jan's PIB-tagged releases (PANKHUDI portal, wage revisions, ECMS approvals, Padm...",
   "blocks": [
     {
-      "id": "blk-q4-135-p",
-      "type": "paragraph",
-      "content": "**[Jan]**: No standalone PIB/circular items separate from subject-matter news — Jan's PIB-tagged releases (PANKHUDI portal, wage revisions, ECMS approvals, Padma Awards, ECINET) filed under their respective subject sections.\n\n**[Mar]**: No separate PIB/Circulars sub-PDF was processed for March (consistent with the existing backlog note — CGB's dedicated PIB/Circulars PDFs for Jan-Mar remain unprocessed; see Content Gaps below). March's regulatory-notification-type items are filed under Sections 1, 2, and 4 (Income Tax Rules, SWM Rules, FSSAI reforms, etc.) rather than duplicated here."
+      "id": "blk-q4-135-bullets",
+      "type": "bullet_list",
+      "items": [
+        "**[Jan]**: No standalone PIB/circular items separate from subject-matter news — Jan's PIB-tagged releases (PANKHUDI portal, wage revisions, ECMS approvals, Padma Awards, ECINET) filed under their respective subject sections.",
+        "**[Mar]**: No separate PIB/Circulars sub-PDF was processed for March (consistent with the existing backlog note — CGB's dedicated PIB/Circulars PDFs for Jan-Mar remain unprocessed; see Content Gaps below). March's regulatory-notification-type items are filed under Sections 1, 2, and 4 (Income Tax Rules, SWM Rules, FSSAI reforms, etc.) rather than duplicated here."
+      ]
     },
     {
       "id": "blk-q4-135-trap",
