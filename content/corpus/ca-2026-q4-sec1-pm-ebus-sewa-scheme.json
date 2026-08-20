@@ -3,19 +3,21 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "PM-eBus Sewa Scheme",
-  "summary": "10,000 AC e-buses, 116 cities, 26 states/UTs, PPP, by end-2027; total cost ₹57,613 crore, central support ₹20,000 crore.",
+  "summary": "**National Fleet Deployment:** Approved for deploying **10,000 Electric AC Buses** across 116 Tier-2 and Tier-3 cities in 26 States/UTs by end-2027 under the Mi...",
   "blocks": [
     {
-      "id": "blk-q4-22-bullets",
+      "id": "blk-ca-2026-q4-sec1-pm-ebus-sewa-scheme-bullets",
       "type": "bullet_list",
       "items": [
-        "10,000 AC e-buses, 116 cities, 26 states/UTs, PPP, by end-2027; total cost ₹57,613 crore, central support ₹20,000 crore."
+        "**National Fleet Deployment:** Approved for deploying **10,000 Electric AC Buses** across 116 Tier-2 and Tier-3 cities in 26 States/UTs by end-2027 under the Ministry of Housing and Urban Affairs (MoHUA).",
+        "**Financial Outlay Architecture:** Total estimated project cost is **₹57,613 Crore**, backed by **₹20,000 Crore in direct Central Government support** with remaining financing mobilized via Public-Private Partnerships (PPP).",
+        "**Operational Viability Backing:** Operates on a 10-year operational concession model where private bus operators receive per-kilometer viability gap funding."
       ]
     },
     {
-      "id": "blk-q4-22-trap",
+      "id": "blk-ca-2026-q4-sec1-pm-ebus-sewa-scheme-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → Key data points, dates, and provisions in PM-eBus Sewa Scheme are critical for SBI PO Mains & RBI Grade B."
+      "content": "🎯 Exam Angle → Total project cost ₹57,613 Crore vs Central support ₹20,000 Crore; targets cities with population between 3 Lakh to 40 Lakh."
     }
   ],
   "metadata": {

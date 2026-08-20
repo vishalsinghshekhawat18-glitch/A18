@@ -3,19 +3,21 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "WTO Global Trade Outlook (March 2026)",
-  "summary": "Global merchandise trade growth to slow to **1.9%** in 2026 (from 4.6% in 2025), recovering to 2.6% in 2027; global GDP growth 2.9%(2025)→2.8%(2026&2027); DG Ng...",
+  "summary": "**Global Merchandise Trade Projections:** World Trade Organization (WTO) projected global merchandise trade growth to decelerate to **1.9% in 2026** (down from ...",
   "blocks": [
     {
-      "id": "blk-q4-13-bullets",
+      "id": "blk-ca-2026-q4-sec1-wto-global-trade-outlook-march-2026-bullets",
       "type": "bullet_list",
       "items": [
-        "Global merchandise trade growth to slow to **1.9%** in 2026 (from 4.6% in 2025), recovering to 2.6% in 2027; global GDP growth 2.9%(2025)→2.8%(2026&2027); DG Ngozi Okonjo-Iweala, HQ Geneva."
+        "**Global Merchandise Trade Projections:** World Trade Organization (WTO) projected global merchandise trade growth to decelerate to **1.9% in 2026** (down from 4.6% in 2025), before staging a recovery to **2.6% in 2027**.",
+        "**Global GDP Estimates:** Global GDP growth estimated at **2.8% in both 2026 and 2027** (compared to 2.9% in 2025).",
+        "**Institutional Static GK:** WTO established on **1 January 1995** (Marrakesh Agreement); Headquarters located in **Geneva, Switzerland**; Director-General is **Dr. Ngozi Okonjo-Iweala**."
       ]
     },
     {
-      "id": "blk-q4-13-trap",
+      "id": "blk-ca-2026-q4-sec1-wto-global-trade-outlook-march-2026-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → WTO 2026 trade-growth forecast = 1.9% (down from 4.6%)."
+      "content": "🎯 Exam Angle → WTO 2026 merchandise trade growth forecast is 1.9% (down from 4.6%); DG Dr. Ngozi Okonjo-Iweala."
     }
   ],
   "metadata": {

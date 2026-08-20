@@ -2,20 +2,22 @@
   "id": "ca-2026-q4-sec1-finance-ministry-restructures-mps-norms",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "Finance Ministry restructures MPS norms",
-  "summary": "Amended Securities Contracts (Regulation) Rules, 1957; post-issue-capital slabs for 25% MPS norm: **3→6**; timeframe 3–10 years; min equity/debenture offer cut ...",
+  "title": "Finance Ministry Restructures MPS Norms",
+  "summary": "**Statutory Rule Amendment:** Ministry of Finance amended the Securities Contracts (Regulation) Rules, 1957 to restructure Minimum Public Shareholding (MPS) com...",
   "blocks": [
     {
-      "id": "blk-q4-12-bullets",
+      "id": "blk-ca-2026-q4-sec1-finance-ministry-restructures-mps-norms-bullets",
       "type": "bullet_list",
       "items": [
-        "Amended Securities Contracts (Regulation) Rules, 1957; post-issue-capital slabs for 25% MPS norm: **3→6**; timeframe 3–10 years; min equity/debenture offer cut 5%→2.5%."
+        "**Statutory Rule Amendment:** Ministry of Finance amended the Securities Contracts (Regulation) Rules, 1957 to restructure Minimum Public Shareholding (MPS) compliance criteria.",
+        "**Post-Issue Capital Slabs Doubled:** Expanded post-issue market capitalisation compliance slabs from **3 ➔ 6 slabs**, providing staggered compliance glide paths ranging from **3 to 10 years**.",
+        "**Minimum Public Offer Sizing:** Minimum public equity/debenture dilution threshold reduced from **5% ➔ 2.5%** for mega-cap public listings."
       ]
     },
     {
-      "id": "blk-q4-12-trap",
+      "id": "blk-ca-2026-q4-sec1-finance-ministry-restructures-mps-norms-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → MPS category count 3→6 slabs."
+      "content": "🎯 Exam Angle → Minimum Public Shareholding (MPS) post-issue slabs expanded from 3 to 6 slabs; minimum offer threshold lowered from 5% to 2.5%."
     }
   ],
   "metadata": {

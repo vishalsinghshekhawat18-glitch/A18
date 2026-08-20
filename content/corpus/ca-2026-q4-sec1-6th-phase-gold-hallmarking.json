@@ -2,20 +2,21 @@
   "id": "ca-2026-q4-sec1-6th-phase-gold-hallmarking",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "6th phase gold hallmarking",
-  "summary": "7 new districts (Rupnagar, Banda, Beed, Gomati, Katihar, Beawar, Neemuch); 9-karat stays voluntary; HUID (6-digit code) via BIS CARE app.",
+  "title": "6th Phase Mandatory Gold Hallmarking",
+  "summary": "**Phase VI Geographic Expansion:** Bureau of Indian Standards (BIS) implemented the 6th phase of mandatory gold hallmarking across **7 newly notified districts*...",
   "blocks": [
     {
-      "id": "blk-q4-17-bullets",
+      "id": "blk-ca-2026-q4-sec1-6th-phase-gold-hallmarking-bullets",
       "type": "bullet_list",
       "items": [
-        "7 new districts (Rupnagar, Banda, Beed, Gomati, Katihar, Beawar, Neemuch); 9-karat stays voluntary; HUID (6-digit code) via BIS CARE app."
+        "**Phase VI Geographic Expansion:** Bureau of Indian Standards (BIS) implemented the 6th phase of mandatory gold hallmarking across **7 newly notified districts** (Rupnagar in Punjab, Banda in UP, Beed in Maharashtra, Gomati in Tripura, Katihar in Bihar, Beawar in Rajasthan, and Neemuch in MP).",
+        "**Purity Standards & Traceability:** 9-karat gold jewellery retains voluntary hallmarking status; all certified gold jewellery must carry a unique **6-digit alphanumeric HUID** (Hallmark Unique Identification) verifiable through the BIS CARE mobile application."
       ]
     },
     {
-      "id": "blk-q4-17-trap",
+      "id": "blk-ca-2026-q4-sec1-6th-phase-gold-hallmarking-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → Regulator = BIS; HUID = 6-digit code."
+      "content": "🎯 Exam Angle → Gold hallmarking is regulated by the Bureau of Indian Standards (BIS); HUID is a 6-digit alphanumeric code."
     }
   ],
   "metadata": {
