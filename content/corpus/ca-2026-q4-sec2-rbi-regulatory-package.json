@@ -2,32 +2,25 @@
   "id": "ca-2026-q4-sec2-rbi-regulatory-package",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "RBI Regulatory Package",
-  "summary": "April 1, 2026 cluster.",
+  "title": "RBI Comprehensive Regulatory Package (Effective 1 April 2026)",
+  "summary": "**Digital Fraud Compensation:** Financial institutions liable to compensate small-value digital fraud victims up to **₹25,000 or 85% of net loss** (whichever is...",
   "blocks": [
     {
-      "id": "blk-q4-27-bullets",
+      "id": "blk-ca-2026-q4-sec2-rbi-regulatory-package-bullets",
       "type": "bullet_list",
       "items": [
-        "April 1, 2026 cluster.",
-        "**A. Digital-fraud compensation**: up to ₹25,000 or 85% of net loss (whichever lower).",
-        "**B. Acquisition-financing norms**: overseas syndicated exposure capped 20%; total bank financing ≤75% deal value; debt-equity ≤3:1.",
-        "**C. MSME lending**: collateral-free loan limit raised to ₹20 lakh (bank discretion to ₹25 lakh).",
-        "**D. Broker funding**: 100% collateral mandate for bank credit to SEBI-regulated brokers.",
-        "**E. ECB framework**: cap raised to higher of $1 billion or 300% of net worth (from $750mn).",
-        "**F. UTI framework for OTC derivatives**: deferred to 1 Jan 2027.",
-        "**G. VRR**: subsumed into general FPI investment-limit route."
+        "**Digital Fraud Compensation:** Financial institutions liable to compensate small-value digital fraud victims up to **₹25,000 or 85% of net loss** (whichever is lower).",
+        "**Acquisition Financing Norms:** Overseas syndicated bank credit capped at **20% of exposure**; total bank financing restricted to **≤75% of deal value** with a maximum debt-to-equity ratio of **3:1**.",
+        "**MSME Collateral-Free Lending:** Mandatory collateral-free loan ceiling raised to **₹20 Lakh** (with bank board discretion up to **₹25 Lakh**).",
+        "**Broker Funding Safeguards:** Mandates **100% cash or sovereign collateral** for bank credit extended to SEBI-regulated stockbrokers.",
+        "**ECB Borrowing Limits:** External Commercial Borrowing (ECB) annual limit raised to the higher of **$1 Billion or 300% of net worth** (up from $750 Million).",
+        "**OTC Derivatives & VRR:** Unique Transaction Identifier (UTI) framework deferred to **1 Jan 2027**; Voluntary Retention Route (VRR) subsumed into the general FPI investment window."
       ]
     },
     {
-      "id": "blk-q4-27-mnemonic",
-      "type": "paragraph",
-      "content": "🧠 Mnemonic → \"April 1 club: Fraud comp, Acquisition (20%), MSME (₹20L), Broker (100%), ECB ($1bn/300%)\" — UTI alone deferred to Jan 2027."
-    },
-    {
-      "id": "blk-q4-27-trap",
+      "id": "blk-ca-2026-q4-sec2-rbi-regulatory-package-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → 🔥 HIGH — Highest multi-fact trap density; which provision has which cap/date."
+      "content": "🎯 Exam Angle → 🔥 HIGH — Fraud compensation (₹25,000/85%), MSME collateral-free (₹20L/₹25L), Broker collateral (100%), ECB ($1bn/300%); UTI alone deferred to Jan 2027."
     }
   ],
   "metadata": {

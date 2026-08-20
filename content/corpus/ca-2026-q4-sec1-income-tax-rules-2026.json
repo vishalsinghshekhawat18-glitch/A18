@@ -2,40 +2,23 @@
   "id": "ca-2026-q4-sec1-income-tax-rules-2026",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "Income Tax Rules 2026",
-  "summary": "Effective **April 1, 2026**; implements Income-tax Act 2025; Sections **819→536**; Chapters 47→23; Words 5.12 lakh→2.6 lakh.",
+  "title": "Income Tax Rules 2026 — Comprehensive Direct Tax Overhaul",
+  "summary": "**Statutory Enactment & Scope:** Effective from **1 April 2026**; operationalises the simplified Income-tax Act 2025, cutting total sections from **819 ➔ 536**,...",
   "blocks": [
     {
-      "id": "blk-q4-7-bullets",
+      "id": "blk-ca-2026-q4-sec1-income-tax-rules-2026-bullets",
       "type": "bullet_list",
       "items": [
-        "Effective **April 1, 2026**; implements Income-tax Act 2025; Sections **819→536**; Chapters 47→23; Words 5.12 lakh→2.6 lakh.",
-        "**A) Compliance:** dividends payable only within India; 7-year audit-trail retention for exchanges; zero-coupon bond pre-approval (3 months, 2-agency investment-grade rating).",
-        "**B) Digital/cross-border tax:** significant-economic-presence threshold = ₹2 crore transaction OR 3 lakh users.",
-        "**C) HRA:** metro-city 50% exemption expanded **4→8 cities** (Mumbai, Kolkata, Delhi, Chennai, Hyderabad, Pune, Ahmedabad, Bengaluru).",
-        "**D) PAN thresholds:** cash deposit/withdrawal ₹50,000/day → **₹10 lakh/year**; vehicle >₹5 lakh; hotel/event >₹1 lakh (was ₹50,000); property >₹20 lakh (was ₹10 lakh).",
-        "**E) Credit cards:** annual spend >₹10 lakh reportable; PAN linkage mandatory to issue."
+        "**Statutory Enactment & Scope:** Effective from **1 April 2026**; operationalises the simplified Income-tax Act 2025, cutting total sections from **819 ➔ 536**, chapters from **47 ➔ 23**, and word count by ~50% (5.12 Lakh ➔ 2.6 Lakh words).",
+        "**Metro HRA Cities Expansion:** Expands 50% House Rent Allowance (HRA) deduction coverage from 4 traditional metros (Delhi, Mumbai, Kolkata, Chennai) ➔ **8 Metro Cities** (adding Bengaluru, Hyderabad, Pune, and Ahmedabad).",
+        "**PAN Reporting & Cash Transactions:** Daily ₹50,000 cash transaction reporting replaced with an annual aggregate threshold of **₹10 Lakh/year** linked to PAN for banking, real estate, and high-value transactions.",
+        "**Corporate Compliance Reforms:** Dividends payable only within domestic banking channels; 7-year audit-trail retention mandated for stock exchanges; Zero-Coupon Bonds require 3-month pre-approval backed by two investment-grade rating agencies."
       ]
     },
     {
-      "id": "blk-q4-7-mnemonic",
-      "type": "paragraph",
-      "content": "🧠 Mnemonic → \"819→536, 47→23, 4 metros→8 metros\""
-    },
-    {
-      "id": "blk-q4-7-interview",
-      "type": "paragraph",
-      "content": "💼 Interview Q → *Significance of Income Tax Rules 2026?* → Operationalise the Income-tax Act 2025 — simpler, shorter law with tighter PAN-linked compliance on high-value transactions."
-    },
-    {
-      "id": "blk-q4-7-status",
-      "type": "paragraph",
-      "content": "⏰ Status: implemented as scheduled April 1, 2026 — no reversal found."
-    },
-    {
-      "id": "blk-q4-7-trap",
+      "id": "blk-ca-2026-q4-sec1-income-tax-rules-2026-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → 🔥 HIGH — Don't confuse HRA city count (4→8) with PAN cash threshold (₹50,000/day→₹10 lakh/year)."
+      "content": "🎯 Exam Angle → 🔥 HIGH — 819➔536 sections; 8 Metro HRA cities (added Bengaluru, Hyderabad, Pune, Ahmedabad); PAN cash reporting threshold shifted to ₹10 Lakh annual aggregate."
     }
   ],
   "metadata": {

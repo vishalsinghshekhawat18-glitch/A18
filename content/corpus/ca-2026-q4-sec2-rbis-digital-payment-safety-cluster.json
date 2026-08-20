@@ -2,26 +2,23 @@
   "id": "ca-2026-q4-sec2-rbis-digital-payment-safety-cluster",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "RBI's digital-payment safety cluster",
-  "summary": "**A) 2FA mandatory from April 1, 2026** for digital payments (cards/UPI/wallets); cross-border card-not-present transactions get same rule from **October 1, 202...",
+  "title": "RBI Digital Payment Safety, 2FA & Fraud Deterrence Cluster",
+  "summary": "**Mandatory Two-Factor Authentication (2FA):** 2FA made compulsory from **1 April 2026** for all domestic card, UPI, and digital wallet payments; extends to cro...",
   "blocks": [
     {
-      "id": "blk-q4-33-bullets",
+      "id": "blk-ca-2026-q4-sec2-rbis-digital-payment-safety-cluster-bullets",
       "type": "bullet_list",
       "items": [
-        "**A) 2FA mandatory from April 1, 2026** for digital payments (cards/UPI/wallets); cross-border card-not-present transactions get same rule from **October 1, 2026**.",
-        "**B) DigiLocker verification** for high-risk transactions, mandatory for banks from April 1, 2026.",
-        "**C) 🔄 Draft customer-protection rules** (RBI Commercial Banks – Responsible Business Conduct Third Amendment Directions, 2026), applicable from **July 1, 2026**: small-value fraud (≤₹25,000 loss) gets 85% compensation or ₹25,000 (whichever less) — this is the *implementing directions* for the Feb fraud-compensation framework.",
-        "**D) IDPIC** (Indian Digital Payment Intelligence Corporation) — Section 8 company, incorporated 16/10/2025, real-time AI/ML fraud detection.",
-        "**E) MuleHunter.AI** — mule-account detection, live in 26 banks.",
-        "**F) Digital Payment Awareness Week (6th edn)**, 9-13 March 2026, theme \"Har Payment Digital\"; campaign \"Thoda Dhyan Se\".",
-        "**G) RBI won 'Initiative of the Year'** (13th Central Banking Awards, London) for **.bank.in** domain — India 1st country to mandate a dedicated banking internet domain; IDRBT sole registrar ⏰ *Status note: the digital-fraud compensation framework (Feb item + this March directions cluster) — finalised, but implementation has been **deferred twice**, now targeted 1 January 2027 (not April 2026 as originally drafted). See consolidated Status Check.*."
+        "**Mandatory Two-Factor Authentication (2FA):** 2FA made compulsory from **1 April 2026** for all domestic card, UPI, and digital wallet payments; extends to cross-border card-not-present (CNP) transactions from **1 October 2026**.",
+        "**DigiLocker High-Risk Verification:** Mandatory bank integration with DigiLocker for real-time customer identity verification on flagged high-risk digital transactions from 1 April 2026.",
+        "**Institutional Fraud Detection Units:** Indian Digital Payment Intelligence Corporation (IDPIC) incorporated under Section 8 of Companies Act for AI/ML fraud intelligence; **MuleHunter.AI** deployed across 26 major commercial banks.",
+        "**Dedicated Banking Internet Domain:** RBI awarded *Initiative of the Year* at the 13th Central Banking Awards in London for mandating the secure **.bank.in** domain for all regulated Indian banks (IDRBT appointed sole registrar)."
       ]
     },
     {
-      "id": "blk-q4-33-trap",
+      "id": "blk-ca-2026-q4-sec2-rbis-digital-payment-safety-cluster-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → 🔥 HIGH — 2FA deadline (Apr 1) vs cross-border CNP deadline (Oct 1) date-trap; \".bank.in — world's 1st\" standalone fact."
+      "content": "🎯 Exam Angle → 2FA domestic deadline (1 April 2026) vs Cross-Border CNP deadline (1 October 2026); IDRBT is sole registrar for .bank.in domain."
     }
   ],
   "metadata": {

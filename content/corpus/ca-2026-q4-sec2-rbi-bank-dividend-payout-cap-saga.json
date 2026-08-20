@@ -2,22 +2,23 @@
   "id": "ca-2026-q4-sec2-rbi-bank-dividend-payout-cap-saga",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "RBI bank-dividend-payout cap saga",
-  "summary": "**** RBI raises bank dividend payout cap to **75% of net profit** (from 40%), CET1-linked, 10-bucket structure by capital buffer.",
+  "title": "RBI Bank Dividend Payout Cap Framework (75% Cap & CET1 Linkage)",
+  "summary": "**Dividend Payout Ceiling:** Reserve Bank of India raised the maximum dividend payout ceiling for commercial banks from 40% ➔ **75% of Profit After Tax (PAT)**,...",
   "blocks": [
     {
-      "id": "blk-q4-24-bullets",
+      "id": "blk-ca-2026-q4-sec2-rbi-bank-dividend-payout-cap-saga-bullets",
       "type": "bullet_list",
       "items": [
-        "**** RBI raises bank dividend payout cap to **75% of net profit** (from 40%), CET1-linked, 10-bucket structure by capital buffer.",
-        "** 🔄 Full mechanism confirmed:** payout capped at 75% of **Profit After Tax (PAT)**.",
-        "quantum linked to CET1 ratio; banks with CET1 just above regulatory minimum get **no dividend**; stronger banks may pay up to **100% of Adjusted PAT** (subject to the overall 75%-of-PAT cap); Adjusted PAT = PAT − 50% of net NPAs (as of 31 March). **Effective FY27.**."
+        "**Dividend Payout Ceiling:** Reserve Bank of India raised the maximum dividend payout ceiling for commercial banks from 40% ➔ **75% of Profit After Tax (PAT)**, effective from **FY 2026-27 (FY27)**.",
+        "**CET1 Capital Linkage:** Dividend quantum is strictly linked to the bank's Common Equity Tier 1 (CET1) capital buffer; banks operating just above regulatory minimums are barred from paying dividends.",
+        "**Adjusted PAT Formula:** Eligible stronger banks can distribute up to 100% of **Adjusted PAT** (subject to the overall 75% PAT cap), where Adjusted PAT is calculated as `PAT − 50% of Net NPAs` as of March 31.",
+        "**Prudential Objective:** Incentivises banks to accelerate NPA provisioning and maintain robust internal capital generation while offering fair returns to shareholders."
       ]
     },
     {
-      "id": "blk-q4-24-trap",
+      "id": "blk-ca-2026-q4-sec2-rbi-bank-dividend-payout-cap-saga-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → 🔥 HIGH — 75% dividend cap is RBI's marquee reform of the quarter; the CET1-linkage + Adjusted-PAT formula is the testable mechanism."
+      "content": "🎯 Exam Angle → 🔥 HIGH — Dividend payout cap is 75% of PAT (effective FY27); Adjusted PAT formula deducts 50% of Net NPAs from PAT."
     }
   ],
   "metadata": {

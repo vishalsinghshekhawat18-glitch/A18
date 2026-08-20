@@ -2,21 +2,22 @@
   "id": "ca-2026-q4-sec1-disinvestment-pfc-rec-merger-trade-index-reba",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "Disinvestment, PFC-REC merger, trade-index rebasing",
-  "summary": "**PFC board clears merger** with subsidiary REC Ltd (PFC holds 52.63% of REC, acquired ₹14,500 crore, March 2019).",
+  "title": "PFC-REC Merger & Trade Index Rebasing",
+  "summary": "**PFC-REC Amalgamation:** The Board of Directors of Power Finance Corporation (PFC) cleared the merger proposal with its subsidiary REC Limited (PFC currently h...",
   "blocks": [
     {
-      "id": "blk-q4-4-bullets",
+      "id": "blk-ca-2026-q4-sec1-disinvestment-pfc-rec-merger-trade-index-reba-bullets",
       "type": "bullet_list",
       "items": [
-        "**PFC board clears merger** with subsidiary REC Ltd (PFC holds 52.63% of REC, acquired ₹14,500 crore, March 2019).",
-        "**DGCI&S revises India's merchandise-trade-index base year**: 2012-13 → **2022-23** (committee headed by Prof. Nachiketa Chattopadhyay, ISI Kolkata)."
+        "**PFC-REC Amalgamation:** The Board of Directors of Power Finance Corporation (PFC) cleared the merger proposal with its subsidiary REC Limited (PFC currently holds a 52.63% controlling stake in REC, acquired for ₹14,500 Crore in March 2019).",
+        "**Merchandise Trade Index Rebasing:** Directorate General of Commercial Intelligence and Statistics (DGCI&S) revised India’s merchandise trade index base year from **2012-13 ➔ 2022-23**.",
+        "**Committee Leadership:** The trade index revision was conducted based on recommendations of an expert committee chaired by Prof. Nachiketa Chattopadhyay of the Indian Statistical Institute (ISI) Kolkata."
       ]
     },
     {
-      "id": "blk-q4-4-trap",
+      "id": "blk-ca-2026-q4-sec1-disinvestment-pfc-rec-merger-trade-index-reba-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → No marker — recognition-level."
+      "content": "🎯 Exam Angle → PFC-REC stake holding is 52.63%; DGCI&S trade index new base year is 2022-23 (Prof. Nachiketa Chattopadhyay Committee)."
     }
   ],
   "metadata": {
