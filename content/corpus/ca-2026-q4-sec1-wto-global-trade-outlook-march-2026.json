@@ -6,19 +6,15 @@
   "summary": "Global merchandise trade growth to slow to **1.9%** in 2026 (from 4.6% in 2025), recovering to 2.6% in 2027; global GDP growth 2.9%(2025)→2.8%(2026&2027); DG Ng...",
   "blocks": [
     {
-      "id": "blk-q4-14-p",
-      "type": "paragraph",
-      "content": "🚫 Also cited by other agencies for related global-growth context — not repeating; WTO figure is primary."
-    },
-    {
-      "id": "blk-q4-14-bullets",
+      "id": "blk-q4-13-bullets",
       "type": "bullet_list",
       "items": [
-        "Global merchandise trade growth to slow to **1.9%** in 2026 (from 4.6% in 2025), recovering to 2.6% in 2027; global GDP growth 2.9%(2025)→2.8%(2026&2027); DG Ngozi Okonjo-Iweala, HQ Geneva"
+        "Global merchandise trade growth to slow to **1.9%** in 2026 (from 4.6% in 2025), recovering to 2.6% in 2027; global GDP growth 2.9%(2025)→2.8%(2026&2027); DG Ngozi Okonjo-Iweala, HQ Geneva",
+        "🚫 Also cited by other agencies for related global-growth context — not repeating; WTO figure is primary."
       ]
     },
     {
-      "id": "blk-q4-14-trap",
+      "id": "blk-q4-13-trap",
       "type": "exam_trap",
       "content": "🎯 Exam Angle → WTO 2026 trade-growth forecast = 1.9% (down from 4.6%)."
     }
@@ -50,7 +46,7 @@
       "sourceFile": "Q4 FY26_Jan to March.md",
       "sourceTitle": "WTO Global Trade Outlook (March 2026)"
     },
-    "noteNumber": 215
+    "noteNumber": 214
   },
   "relationships": []
 }

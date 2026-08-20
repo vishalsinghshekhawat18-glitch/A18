@@ -1,0 +1,57 @@
+{
+  "id": "ca-2026-q4-sec1-india-eu-fta-concluded-26-jan-mfn-status-conf",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "India-EU FTA concluded (26 Jan) → MFN status confirmed (Mar)",
+  "summary": "**[Jan]** EU becomes India's **22nd FTA partner**",
+  "blocks": [
+    {
+      "id": "blk-q4-3-bullets",
+      "type": "bullet_list",
+      "items": [
+        "**[Jan]** EU becomes India's **22nd FTA partner**",
+        "concluded after 18 years of on-off talks. EU FDI in India >€132 billion (2024)",
+        "goods trade >€120 billion",
+        "EU is 2nd-largest goods trading partner. India to allow EU banks **15 branches over 4 years** (up from 12)",
+        "insurance FDI bound at **100%**. 13 agreements signed during Costa/von der Leyen visit (16th India-EU Summit, 27 Jan)",
+        "RBI-ESMA MoU on CCIL recognition.",
+        "**[Mar] 🔄 Update:** India-EU to grant each other **Most Favoured Nation (MFN) status for 5 years**, effective from FTA entry into force; 4th-year Joint Committee review; auto-terminates unless mutually extended."
+      ]
+    },
+    {
+      "id": "blk-q4-3-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — \"22nd FTA partner\" + \"15 EU bank branches/4 yrs\" + \"MFN 5 years\" is the testable core; don't confuse the 100% insurance-FDI **bound commitment** here with the separate domestic 100% FDI-in-insurance reform (Section 3, Feb)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-q4",
+      "jan-mar-2026",
+      "sec1",
+      "claude-consolidated"
+    ],
+    "category": "SEC1",
+    "sectionCode": "SEC1",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-01-20",
+    "period": "2026-Q4",
+    "monthLabel": "JANUARY – MARCH 2026",
+    "monthGroup": "2026-01-03",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "Q4 FY26_Jan to March.md",
+      "sourceTitle": "India-EU FTA concluded (26 Jan) → MFN status confirmed (Mar)"
+    },
+    "noteNumber": 204
+  },
+  "relationships": []
+}

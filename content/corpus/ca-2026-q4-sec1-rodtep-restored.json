@@ -1,21 +1,23 @@
 {
-  "id": "ca-2026-q4-sec1-239th-cbt-meeting-epf-interest-rate-825",
+  "id": "ca-2026-q4-sec1-rodtep-restored",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "239th CBT meeting — EPF interest rate 8.25%",
-  "summary": "Chaired by Labour Minister Dr Mansukh Mandaviya; new EPF/EPS/EDLI Scheme 2026 approved; Amnesty Scheme + auto-settlement pilot for inoperative accounts ≤₹1,000",
+  "title": "RoDTEP restored",
+  "summary": "50% restriction withdrawn, full rates (as on 22 Feb 2026) restored effective **23 March 2026**",
   "blocks": [
     {
-      "id": "blk-q4-10-bullets",
+      "id": "blk-q4-14-bullets",
       "type": "bullet_list",
       "items": [
-        "Chaired by Labour Minister Dr Mansukh Mandaviya; new EPF/EPS/EDLI Scheme 2026 approved; Amnesty Scheme + auto-settlement pilot for inoperative accounts ≤₹1,000"
+        "50% restriction withdrawn, full rates (as on 22 Feb 2026) restored effective **23 March 2026**",
+        "administered by Dept of Revenue",
+        "replaced earlier **MEIS**."
       ]
     },
     {
-      "id": "blk-q4-10-trap",
+      "id": "blk-q4-14-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → EPF interest FY2025-26 = **8.25%**."
+      "content": "🎯 Exam Angle → RoDTEP replaced MEIS."
     }
   ],
   "metadata": {
@@ -43,9 +45,9 @@
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "Q4 FY26_Jan to March.md",
-      "sourceTitle": "239th CBT meeting — EPF interest rate 8.25%"
+      "sourceTitle": "RoDTEP restored"
     },
-    "noteNumber": 211
+    "noteNumber": 215
   },
   "relationships": []
 }

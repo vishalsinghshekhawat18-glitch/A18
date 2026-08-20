@@ -1,0 +1,54 @@
+{
+  "id": "ca-2026-q4-sec2--running-thread-what-changes-on-april-1-2026-",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "\udd01 Running thread: \"What changes on April 1, 2026\" (cross-month mega-cluster)",
+  "summary": "**[Jan]** RBI RPT rules realign; NBFC infra-lending risk-weight easing",
+  "blocks": [
+    {
+      "id": "blk-q4-43-bullets",
+      "type": "bullet_list",
+      "items": [
+        "**[Jan]** RBI RPT rules realign; NBFC infra-lending risk-weight easing",
+        "**[Feb]** Fraud-comp (₹25k/85%, later deferred — see Status Check); acquisition-financing (20% cap); MSME collateral-free limit ₹20 lakh; broker 100% collateral; ECB cap $1bn/300%; RBP deposit-insurance framework; 4%±2% RBI inflation mandate begins",
+        "**[Mar]** Income Tax Rules 2026; 2FA mandate; DigiLocker verification; ECB filing 7-day window; SEBI intra-day MF borrowing; Ind AS 117 for insurers; FSSAI perpetual licences; SWM Rules 2026; PM E-DRIVE-linked norms",
+        "This single date accumulated the most trap-dense list of the quarter. Consolidated for one-shot revision:"
+      ]
+    },
+    {
+      "id": "blk-q4-43-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — This is the highest-density recurring trap theme of the quarter — examiners are likely to test \"which regulator/which reform took effect April 1, 2026\" as a mix-and-match."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-q4",
+      "jan-mar-2026",
+      "sec2",
+      "claude-consolidated"
+    ],
+    "category": "SEC2",
+    "sectionCode": "SEC2",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "monthLabel": "JANUARY – MARCH 2026",
+    "monthGroup": "2026-01-03",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "Q4 FY26_Jan to March.md",
+      "sourceTitle": "\udd01 Running thread: \"What changes on April 1, 2026\" (cross-month mega-cluster)"
+    },
+    "noteNumber": 244
+  },
+  "relationships": []
+}

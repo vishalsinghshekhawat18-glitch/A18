@@ -1,0 +1,53 @@
+{
+  "id": "ca-2026-q4-sec5-quick-hits-ma",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Quick Hits — M&A",
+  "summary": ": Bosch+Tata Autocomp (50:50 JV, e-axles/traction motors)",
+  "blocks": [
+    {
+      "id": "blk-q4-98-bullets",
+      "type": "bullet_list",
+      "items": [
+        ": Bosch+Tata Autocomp (50:50 JV, e-axles/traction motors)",
+        "Rajasthan Royals sold to Kal Somani (US) for $1.63bn (replacing Manoj Badale)",
+        "RCB sold for **$1.78bn (₹16,660 crore)** — USL to Aditya Birla Group/Times of India Group/Blackstone/Bolt Ventures consortium."
+      ]
+    },
+    {
+      "id": "blk-q4-98-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → RCB ($1.78bn/₹16,660 cr) vs Rajasthan Royals ($1.63bn) — IPL valuation trap pair."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-q4",
+      "jan-mar-2026",
+      "sec5",
+      "claude-consolidated"
+    ],
+    "category": "SEC5",
+    "sectionCode": "SEC5",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "monthLabel": "JANUARY – MARCH 2026",
+    "monthGroup": "2026-01-03",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "Q4 FY26_Jan to March.md",
+      "sourceTitle": "Quick Hits — M&A"
+    },
+    "noteNumber": 299
+  },
+  "relationships": []
+}

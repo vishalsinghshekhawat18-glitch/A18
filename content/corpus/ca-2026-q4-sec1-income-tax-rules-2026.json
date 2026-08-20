@@ -1,0 +1,72 @@
+{
+  "id": "ca-2026-q4-sec1-income-tax-rules-2026",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Income Tax Rules 2026",
+  "summary": "*(standing exception — major reform)*",
+  "blocks": [
+    {
+      "id": "blk-q4-7-bullets",
+      "type": "bullet_list",
+      "items": [
+        "*(standing exception — major reform)*",
+        "Effective **April 1, 2026**; implements Income-tax Act 2025; Sections **819→536**; Chapters 47→23; Words 5.12 lakh→2.6 lakh",
+        "**A) Compliance:** dividends payable only within India; 7-year audit-trail retention for exchanges; zero-coupon bond pre-approval (3 months, 2-agency investment-grade rating)",
+        "**B) Digital/cross-border tax:** significant-economic-presence threshold = ₹2 crore transaction OR 3 lakh users",
+        "**C) HRA:** metro-city 50% exemption expanded **4→8 cities** (Mumbai, Kolkata, Delhi, Chennai, Hyderabad, Pune, Ahmedabad, Bengaluru)",
+        "**D) PAN thresholds:** cash deposit/withdrawal ₹50,000/day → **₹10 lakh/year**; vehicle >₹5 lakh; hotel/event >₹1 lakh (was ₹50,000); property >₹20 lakh (was ₹10 lakh)",
+        "**E) Credit cards:** annual spend >₹10 lakh reportable; PAN linkage mandatory to issue"
+      ]
+    },
+    {
+      "id": "blk-q4-7-mnemonic",
+      "type": "paragraph",
+      "content": "🧠 Mnemonic → \"819→536, 47→23, 4 metros→8 metros\""
+    },
+    {
+      "id": "blk-q4-7-interview",
+      "type": "paragraph",
+      "content": "💼 Interview Q → *Significance of Income Tax Rules 2026?* → Operationalise the Income-tax Act 2025 — simpler, shorter law with tighter PAN-linked compliance on high-value transactions."
+    },
+    {
+      "id": "blk-q4-7-status",
+      "type": "paragraph",
+      "content": "⏰ Status: implemented as scheduled April 1, 2026 — no reversal found."
+    },
+    {
+      "id": "blk-q4-7-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Don't confuse HRA city count (4→8) with PAN cash threshold (₹50,000/day→₹10 lakh/year)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-q4",
+      "jan-mar-2026",
+      "sec1",
+      "claude-consolidated"
+    ],
+    "category": "SEC1",
+    "sectionCode": "SEC1",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "monthLabel": "JANUARY – MARCH 2026",
+    "monthGroup": "2026-01-03",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "Q4 FY26_Jan to March.md",
+      "sourceTitle": "Income Tax Rules 2026"
+    },
+    "noteNumber": 208
+  },
+  "relationships": []
+}

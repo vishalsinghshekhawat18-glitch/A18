@@ -1,0 +1,52 @@
+{
+  "id": "ca-2026-q4-sec4-union-cabinet-approvals",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Union Cabinet approvals",
+  "summary": "[Feb] — Kerala→**Keralam** renaming approved (Bill to State Assembly under Article 3 — 🔄 status not yet finalised, see Status Check)",
+  "blocks": [
+    {
+      "id": "blk-q4-71-bullets",
+      "type": "bullet_list",
+      "items": [
+        "[Feb] — Kerala→**Keralam** renaming approved (Bill to State Assembly under Article 3 — 🔄 status not yet finalised, see Status Check)",
+        "Brahmaputra road-rail tunnel (Assam), ₹18,662 crore, 33.7 km, Gohpur-Numaligarh — world's 2nd such underwater tunnel (after Germany-Denmark)."
+      ]
+    },
+    {
+      "id": "blk-q4-71-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Both clean standalone facts."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-q4",
+      "jan-mar-2026",
+      "sec4",
+      "claude-consolidated"
+    ],
+    "category": "SEC4",
+    "sectionCode": "SEC4",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-02-20",
+    "period": "2026-Q4",
+    "monthLabel": "JANUARY – MARCH 2026",
+    "monthGroup": "2026-01-03",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "Q4 FY26_Jan to March.md",
+      "sourceTitle": "Union Cabinet approvals"
+    },
+    "noteNumber": 272
+  },
+  "relationships": []
+}

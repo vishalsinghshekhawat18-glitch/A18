@@ -1,0 +1,55 @@
+{
+  "id": "ca-2026-q4-sec3-govts-health-insurance-push",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Govt's health-insurance push",
+  "summary": "coverage-for-all target **2033** (govt) vs IRDAI's \"Insurance for All by **2047**\" vision",
+  "blocks": [
+    {
+      "id": "blk-q4-67-bullets",
+      "type": "bullet_list",
+      "items": [
+        "coverage-for-all target **2033** (govt) vs IRDAI's \"Insurance for All by **2047**\" vision",
+        "25,000 gram panchayats for rural outreach",
+        "per-capita premium **$97** vs global average **$943**",
+        "health insurance premiums ₹1,17,505 crore FY25, 58 crore lives covered",
+        "**PMJJBY**: ₹2 lakh cover for ₹436 annual premium."
+      ]
+    },
+    {
+      "id": "blk-q4-67-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — $97 vs $943 per-capita comparison; 2033 (govt) vs 2047 (IRDAI) target trap."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-q4",
+      "jan-mar-2026",
+      "sec3",
+      "claude-consolidated"
+    ],
+    "category": "SEC3",
+    "sectionCode": "SEC3",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "monthLabel": "JANUARY – MARCH 2026",
+    "monthGroup": "2026-01-03",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "Q4 FY26_Jan to March.md",
+      "sourceTitle": "Govt's health-insurance push"
+    },
+    "noteNumber": 268
+  },
+  "relationships": []
+}

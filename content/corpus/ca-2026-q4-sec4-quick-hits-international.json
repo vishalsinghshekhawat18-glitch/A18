@@ -1,0 +1,53 @@
+{
+  "id": "ca-2026-q4-sec4-quick-hits-international",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Quick Hits — International",
+  "summary": ": Strait of Hormuz carries ~20% of global oil supply (20mn+ barrels/day), 2nd-busiest chokepoint after Malacca — West Asia-crisis context relevant across this n...",
+  "blocks": [
+    {
+      "id": "blk-q4-92-bullets",
+      "type": "bullet_list",
+      "items": [
+        ": Strait of Hormuz carries ~20% of global oil supply (20mn+ barrels/day), 2nd-busiest chokepoint after Malacca — West Asia-crisis context relevant across this note's fiscal items",
+        "India-Uzbekistan Pharma-Nutraceutical Corridor ($7-10bn CIS/Eurasian market target)",
+        "Asia-Africa Agri Alliance (AAAA) — maize & millets focus, Africa's agri sector projected $1 trillion by 2030."
+      ]
+    },
+    {
+      "id": "blk-q4-92-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → Strait of Hormuz = ~20% of global oil supply."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-q4",
+      "jan-mar-2026",
+      "sec4",
+      "claude-consolidated"
+    ],
+    "category": "SEC4",
+    "sectionCode": "SEC4",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "monthLabel": "JANUARY – MARCH 2026",
+    "monthGroup": "2026-01-03",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "Q4 FY26_Jan to March.md",
+      "sourceTitle": "Quick Hits — International"
+    },
+    "noteNumber": 293
+  },
+  "relationships": []
+}

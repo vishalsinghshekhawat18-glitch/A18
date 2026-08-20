@@ -1,0 +1,54 @@
+{
+  "id": "ca-2026-q4-sec4-international-news",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "International News",
+  "summary": "**[Feb]** New START Treaty (US-Russia nuclear arms control) **expired 5 February 2026** — last major US-Russia nuclear arms treaty",
+  "blocks": [
+    {
+      "id": "blk-q4-75-bullets",
+      "type": "bullet_list",
+      "items": [
+        "**[Feb]** New START Treaty (US-Russia nuclear arms control) **expired 5 February 2026** — last major US-Russia nuclear arms treaty",
+        "India-GCC FTA Terms of Reference signed (GCC = India's largest trading-partner bloc, $178.56bn FY25)",
+        "WHO prequalifies nOPV2 vaccine (Biological E Ltd, Hyderabad)",
+        "**[Jan]** India assumes **BRICS Chairmanship 2026**, to host 18th BRICS Summit; Bulgaria adopts the Euro; EU CBAM comes into force"
+      ]
+    },
+    {
+      "id": "blk-q4-75-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH (New START expiry, India's BRICS chairmanship)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-q4",
+      "jan-mar-2026",
+      "sec4",
+      "claude-consolidated"
+    ],
+    "category": "SEC4",
+    "sectionCode": "SEC4",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-01-20",
+    "period": "2026-Q4",
+    "monthLabel": "JANUARY – MARCH 2026",
+    "monthGroup": "2026-01-03",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "Q4 FY26_Jan to March.md",
+      "sourceTitle": "International News"
+    },
+    "noteNumber": 276
+  },
+  "relationships": []
+}

@@ -1,0 +1,70 @@
+{
+  "id": "ca-2026-q4-sec7-janfeb-awards",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "[Jan/Feb] Awards",
+  "summary": ": Padma Awards 2026 — 131 total (5 Vibhushan + 13 Bhushan + 113 Shri)",
+  "blocks": [
+    {
+      "id": "blk-q4-111-table",
+      "type": "paragraph",
+      "content": "|---|---|"
+    },
+    {
+      "id": "blk-q4-111-bullets",
+      "type": "bullet_list",
+      "items": [
+        ": Padma Awards 2026 — 131 total (5 Vibhushan + 13 Bhushan + 113 Shri)",
+        "Crafoord Prize 2026 (\"Nobel of Geosciences\") — Veerabhadran Ramanathan (Indian-origin)",
+        "Global Teacher Prize 2026 — Rouble Nagi (India).",
+        "| Attukal Pongala | Kerala |",
+        "| Hatti Risala (138th year) | Jalna, Maharashtra |",
+        "| Dol Jatra | West Bengal |",
+        "| Hola Mohalla (est. 1701) | Takht Sachkhand Sri Abchalnagar Sahib |",
+        "| Indian Orchid Festival | Pakyong, Sikkim |",
+        "| Phool Dei | Uttarakhand |",
+        "| Gudi Padwa / Ugadi | Deccan region |",
+        "| Sajibu Cheiraoba | Manipur (Meitei) |",
+        "| Chapchar Kut | Mizoram |",
+        "| Sarhul | Jharkhand (Adivasi) |",
+        "| Navroz | Parsi New Year |",
+        "*(Obituaries never logged, per standing framework rule — none carried in any of the three months.)*"
+      ]
+    },
+    {
+      "id": "blk-q4-111-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → Sarhul (Jharkhand) and Chapchar Kut (Mizoram) most distinctive pairs."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-q4",
+      "jan-mar-2026",
+      "sec7",
+      "claude-consolidated"
+    ],
+    "category": "SEC7",
+    "sectionCode": "SEC7",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "monthLabel": "JANUARY – MARCH 2026",
+    "monthGroup": "2026-01-03",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "Q4 FY26_Jan to March.md",
+      "sourceTitle": "[Jan/Feb] Awards"
+    },
+    "noteNumber": 312
+  },
+  "relationships": []
+}

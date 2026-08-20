@@ -1,21 +1,22 @@
 {
-  "id": "ca-2026-q4-sec1-239th-cbt-meeting-epf-interest-rate-825",
+  "id": "ca-2026-q4-sec1-census-2027",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "239th CBT meeting — EPF interest rate 8.25%",
-  "summary": "Chaired by Labour Minister Dr Mansukh Mandaviya; new EPF/EPS/EDLI Scheme 2026 approved; Amnesty Scheme + auto-settlement pilot for inoperative accounts ≤₹1,000",
+  "title": "Census 2027",
+  "summary": "to recognise all **21** disability categories (Ministry of Social Justice & Empowerment",
   "blocks": [
     {
-      "id": "blk-q4-10-bullets",
+      "id": "blk-q4-18-bullets",
       "type": "bullet_list",
       "items": [
-        "Chaired by Labour Minister Dr Mansukh Mandaviya; new EPF/EPS/EDLI Scheme 2026 approved; Amnesty Scheme + auto-settlement pilot for inoperative accounts ≤₹1,000"
+        "to recognise all **21** disability categories (Ministry of Social Justice & Empowerment",
+        "MoS Ramdas Athawale)."
       ]
     },
     {
-      "id": "blk-q4-10-trap",
+      "id": "blk-q4-18-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → EPF interest FY2025-26 = **8.25%**."
+      "content": "🎯 Exam Angle → Key data points, statutory provisions, and figures in Census 2027 are tested in SBI PO Mains & RBI Grade B."
     }
   ],
   "metadata": {
@@ -43,9 +44,9 @@
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "Q4 FY26_Jan to March.md",
-      "sourceTitle": "239th CBT meeting — EPF interest rate 8.25%"
+      "sourceTitle": "Census 2027"
     },
-    "noteNumber": 211
+    "noteNumber": 219
   },
   "relationships": []
 }

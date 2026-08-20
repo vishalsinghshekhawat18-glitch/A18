@@ -1,0 +1,62 @@
+{
+  "id": "ca-2026-q4-sec1-insolvency-and-bankruptcy-code-amendment-bill",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Insolvency and Bankruptcy Code (Amendment) Bill/Act, 2025-26",
+  "summary": "Passed **Lok Sabha 30 March 2026**; Select Committee (Chair: Baijayant Panda), report 17 Dec 2025",
+  "blocks": [
+    {
+      "id": "blk-q4-8-bullets",
+      "type": "bullet_list",
+      "items": [
+        "Passed **Lok Sabha 30 March 2026**; Select Committee (Chair: Baijayant Panda), report 17 Dec 2025",
+        "**A) CIIRP** (new Chapter IV-A): creditor-led route, ≥51% financial-creditor approval, timeline **150 days + 45-day extension**, promoters stay under RP oversight",
+        "**B) Faster timelines:** 14 days to admit/reject (Sec 7/9/10); 30 days to approve resolution plans",
+        "**C) CIRP revival:** once, within 120 days, before liquidation (previously none)",
+        "**D) CoC:** can replace liquidator with 66% vote",
+        "**E) Liquidation:** must complete in **180 days (+90-day extension)**; secured creditors act within 14 days or lose rights",
+        "**F) Penalties:** frivolous cases ₹1 lakh–₹2 crore; non-compliance up to ₹5 crore or 3× gains/loss"
+      ]
+    },
+    {
+      "id": "blk-q4-8-status",
+      "type": "paragraph",
+      "content": "⏰ Status: implemented — passed Rajya Sabha 1 April 2026, Presidential assent 6 April 2026 → **IBC (Amendment) Act, 2026 (Act No. 6 of 2026)**; provisions notified separately."
+    },
+    {
+      "id": "blk-q4-8-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — CIIRP (150+45 days) vs Liquidation (180+90 days) confusion pair."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-q4",
+      "jan-mar-2026",
+      "sec1",
+      "claude-consolidated"
+    ],
+    "category": "SEC1",
+    "sectionCode": "SEC1",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "monthLabel": "JANUARY – MARCH 2026",
+    "monthGroup": "2026-01-03",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "Q4 FY26_Jan to March.md",
+      "sourceTitle": "Insolvency and Bankruptcy Code (Amendment) Bill/Act, 2025-26"
+    },
+    "noteNumber": 209
+  },
+  "relationships": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": "ca-2026-q4-sec6-sports-top-results-janfeb-merged",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Sports — top results, Jan+Feb merged",
+  "summary": ": **U19 Cricket World Cup** — India won 6th title (Feb)",
+  "blocks": [
+    {
+      "id": "blk-q4-106-bullets",
+      "type": "bullet_list",
+      "items": [
+        ": **U19 Cricket World Cup** — India won 6th title (Feb)",
+        "Vaibhav Suryavanshi, Player of Match & Series. **WPL 2026** — RCB won 4th title. **Winter Olympics 2026** (Milan-Cortina) — Norway topped medal table. **Vijay Hazare Trophy** — Vidarbha won maiden title (Jan). **6th Khelo India Winter Games** (Ladakh) / **2nd Khelo India Beach Games** (Dadra & Nagar Haveli) (Jan) — same brand, different editions/locations.",
+        "Final **8 March 2026** (International Women's Day), Narendra Modi Stadium, Ahmedabad; 10th edition",
+        "India beat New Zealand by 96 runs; Captain Suryakumar Yadav; Player of the Match Jasprit Bumrah; Player of the Tournament Sanju Samson",
+        "Milestones: **1st team to win back-to-back T20 WC titles**; **1st team to win on home soil**",
+        "Previous India wins: 2007 (Dhoni, hosted South Africa), 2024 (Rohit Sharma, hosted West Indies/USA)"
+      ]
+    },
+    {
+      "id": "blk-q4-106-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Double-first (home-soil + back-to-back), very high recall value."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-q4",
+      "jan-mar-2026",
+      "sec6",
+      "claude-consolidated"
+    ],
+    "category": "SEC6",
+    "sectionCode": "SEC6",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "monthLabel": "JANUARY – MARCH 2026",
+    "monthGroup": "2026-01-03",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "Q4 FY26_Jan to March.md",
+      "sourceTitle": "Sports — top results, Jan+Feb merged"
+    },
+    "noteNumber": 307
+  },
+  "relationships": []
+}

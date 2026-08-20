@@ -1,0 +1,74 @@
+{
+  "id": "ca-2026-q4-sec8--consolidated-important-days",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "\udcc5 Consolidated Important Days",
+  "summary": "Jan-Mar 2026",
+  "blocks": [
+    {
+      "id": "blk-q4-112-table",
+      "type": "paragraph",
+      "content": "|---|---|---|"
+    },
+    {
+      "id": "blk-q4-112-bullets",
+      "type": "bullet_list",
+      "items": [
+        "Jan-Mar 2026",
+        "| Day | Date | Note |",
+        "| 78th Army Day | 15 Jan | Jaipur — 4th time outside Delhi cantonment |",
+        "| NDA's 77th Raising Day | 16 Jan | Consecutive to Army Day — high mix-up risk |",
+        "| 16th National Voters Day | 25 Jan | Theme: \"My India, My Vote\" |",
+        "| National Women's Day | 13 Feb | Sarojini Naidu's birth anniversary |",
+        "| Arunachal Pradesh Statehood Day (40th) | 20 Feb | 24th state, 1987 |",
+        "| National Science Day | 28 Feb | Raman Effect (Nobel 1930); theme: Women in Science |",
+        "| ESIC Foundation Day (75th year) | 24 Feb | Act 1948, scheme launched 24 Feb 1952 |",
+        "| Civil Accounts Day (50th edn) | 1 Mar | — |",
+        "| World Wildlife Day | 3 Mar | Medicinal & Aromatic Plants |",
+        "| 8th Janaushadhi Diwas (+Saptah 1-7 Mar) | 7 Mar | — |",
+        "| International Women's Day | 8 Mar | Rights. Justice. Action. |",
+        "| World Kidney Day | 12 Mar | Kidney Health for All |",
+        "| International Day of Forests | 21 Mar | Forests and economies |",
+        "| World Water Day | 22 Mar | Water and Gender |",
+        "| Shaheed Diwas | 23 Mar | Bhagat Singh, Rajguru, Sukhdev (hanged 1931) |",
+        "| World Tuberculosis Day | 24 Mar | Yes! We can end TB! |",
+        "| Earth Hour (20th edn) | 28 Mar | 8:30-9:30 PM, WWF, since 2007 |"
+      ]
+    },
+    {
+      "id": "blk-q4-112-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Army Day/NDA Day pair (Jan); National Science Day/ESIC 75th (Feb); 8th Janaushadhi Diwas + Civil Accounts Day's 50th edition (Mar) — milestone editions are frequently tested."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-q4",
+      "jan-mar-2026",
+      "sec8",
+      "claude-consolidated"
+    ],
+    "category": "SEC8",
+    "sectionCode": "SEC8",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "monthLabel": "JANUARY – MARCH 2026",
+    "monthGroup": "2026-01-03",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "Q4 FY26_Jan to March.md",
+      "sourceTitle": "\udcc5 Consolidated Important Days"
+    },
+    "noteNumber": 313
+  },
+  "relationships": []
+}

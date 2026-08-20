@@ -1,0 +1,55 @@
+{
+  "id": "ca-2026-q4-sec7-janfeb-india-relevant-reports",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "[Jan/Feb] India-relevant reports",
+  "summary": ": FDI inflows jumped **73% to $47 billion in 2025** (UNCTAD)",
+  "blocks": [
+    {
+      "id": "blk-q4-110-bullets",
+      "type": "bullet_list",
+      "items": [
+        ": FDI inflows jumped **73% to $47 billion in 2025** (UNCTAD)",
+        "India nuclear stockpile 6th globally, 180 warheads (cross-ref Section 6)",
+        "India 3rd-largest wind+solar capacity globally (>163 GW)",
+        "India 2nd-largest active smartphone base (740mn+)",
+        "Economic Survey cites Power Gap Index for first time — India score -4.0 (lowest in Asia excl. Russia/N. Korea)."
+      ]
+    },
+    {
+      "id": "blk-q4-110-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → World Obesity Atlas: India ranks 2nd for child obesity (China 1st)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-q4",
+      "jan-mar-2026",
+      "sec7",
+      "claude-consolidated"
+    ],
+    "category": "SEC7",
+    "sectionCode": "SEC7",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "monthLabel": "JANUARY – MARCH 2026",
+    "monthGroup": "2026-01-03",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "Q4 FY26_Jan to March.md",
+      "sourceTitle": "[Jan/Feb] India-relevant reports"
+    },
+    "noteNumber": 311
+  },
+  "relationships": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": "ca-2026-q4-sec2-sebi-market-structure-reforms",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SEBI market-structure reforms",
+  "summary": "New Closing Auction Session (CAS): effective 3 Aug 2026",
+  "blocks": [
+    {
+      "id": "blk-q4-26-bullets",
+      "type": "bullet_list",
+      "items": [
+        "New Closing Auction Session (CAS): effective 3 Aug 2026",
+        "SWAGAT-FI (unified FPI/FVCI registration): effective 1 June 2026",
+        "Demat simplification (removes LoC, cuts transfer time 150→30 days): effective 2 April 2026",
+        "Legacy physical-share dematerialisation window: 5 Feb 2026 – 4 Feb 2027"
+      ]
+    },
+    {
+      "id": "blk-q4-26-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Three SEBI dates (2 Apr / 1 June / 3 Aug 2026) trap cluster."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-q4",
+      "jan-mar-2026",
+      "sec2",
+      "claude-consolidated"
+    ],
+    "category": "SEC2",
+    "sectionCode": "SEC2",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-01-20",
+    "period": "2026-Q4",
+    "monthLabel": "JANUARY – MARCH 2026",
+    "monthGroup": "2026-01-03",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "Q4 FY26_Jan to March.md",
+      "sourceTitle": "SEBI market-structure reforms"
+    },
+    "noteNumber": 227
+  },
+  "relationships": []
+}

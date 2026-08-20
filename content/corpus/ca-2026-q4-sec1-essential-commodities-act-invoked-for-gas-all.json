@@ -1,21 +1,27 @@
 {
-  "id": "ca-2026-q4-sec1-239th-cbt-meeting-epf-interest-rate-825",
+  "id": "ca-2026-q4-sec1-essential-commodities-act-invoked-for-gas-all",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "239th CBT meeting — EPF interest rate 8.25%",
-  "summary": "Chaired by Labour Minister Dr Mansukh Mandaviya; new EPF/EPS/EDLI Scheme 2026 approved; Amnesty Scheme + auto-settlement pilot for inoperative accounts ≤₹1,000",
+  "title": "Essential Commodities Act invoked for gas allocation",
+  "summary": "West Asia crisis response",
   "blocks": [
     {
-      "id": "blk-q4-10-bullets",
+      "id": "blk-q4-16-bullets",
       "type": "bullet_list",
       "items": [
-        "Chaired by Labour Minister Dr Mansukh Mandaviya; new EPF/EPS/EDLI Scheme 2026 approved; Amnesty Scheme + auto-settlement pilot for inoperative accounts ≤₹1,000"
+        "West Asia crisis response",
+        "4-tier priority system (domestic PNG/CNG/LPG full",
+        "fertiliser 70%",
+        "national gas grid 80% cap",
+        "industrial/commercial CGD 80% cap)",
+        "LPG refill wait raised **21→25 days**",
+        "Sec 5 delegation power."
       ]
     },
     {
-      "id": "blk-q4-10-trap",
+      "id": "blk-q4-16-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → EPF interest FY2025-26 = **8.25%**."
+      "content": "🎯 Exam Angle → LPG refill wait: 21→25 days."
     }
   ],
   "metadata": {
@@ -43,9 +49,9 @@
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "Q4 FY26_Jan to March.md",
-      "sourceTitle": "239th CBT meeting — EPF interest rate 8.25%"
+      "sourceTitle": "Essential Commodities Act invoked for gas allocation"
     },
-    "noteNumber": 211
+    "noteNumber": 217
   },
   "relationships": []
 }

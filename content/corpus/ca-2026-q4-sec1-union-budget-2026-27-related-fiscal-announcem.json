@@ -1,0 +1,62 @@
+{
+  "id": "ca-2026-q4-sec1-union-budget-2026-27-related-fiscal-announcem",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Union Budget 2026-27 & related fiscal announcements",
+  "summary": "**UPI/RuPay subsidy FY27**: ₹2,000 crore (down 8.9% from FY26's ₹2,196.21 crore; FY24 peak ₹3,631 crore)",
+  "blocks": [
+    {
+      "id": "blk-q4-0-bullets",
+      "type": "bullet_list",
+      "items": [
+        "**UPI/RuPay subsidy FY27**: ₹2,000 crore (down 8.9% from FY26's ₹2,196.21 crore; FY24 peak ₹3,631 crore)",
+        "**Disinvestment target FY27**: ₹80,000 crore (vs ₹33,837 crore RE for FY26) — banks on IDBI Bank, LIC stake sales",
+        "**PMAY-U 2.0 (BLC component)**: target raised 350% to 5,00,000 homes FY27 (from 1,10,000 FY26); outlay ₹18,625 crore (+148%)",
+        "**Khelo India Mission**: highest-ever allocation ₹4,479.88 crore; scheme itself gets ₹924.35 crore",
+        "**NICDIT**: ₹3,000 crore; new Integrated East Coast Industrial Corridor (Durgapur-anchored)",
+        "**Rare Earth Corridors**: Odisha, Kerala, AP, Tamil Nadu — 🔄 feeds into the [Feb] PIB rare-earth-magnets scheme (Section 9)",
+        "**Container Manufacturing Assistance Scheme (CMAS)** — 🔄 feeds into [Feb] Bharat Container Shipping Line MoU (Section 5)"
+      ]
+    },
+    {
+      "id": "blk-q4-0-mnemonic",
+      "type": "paragraph",
+      "content": "🧠 Mnemonic → \"UPI 2K, PMAY 350%, Disinvest 80K.\""
+    },
+    {
+      "id": "blk-q4-0-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Direct figure-recall near-certain; don't confuse FY26 RE vs FY27 BE."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-q4",
+      "jan-mar-2026",
+      "sec1",
+      "claude-consolidated"
+    ],
+    "category": "SEC1",
+    "sectionCode": "SEC1",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-02-20",
+    "period": "2026-Q4",
+    "monthLabel": "JANUARY – MARCH 2026",
+    "monthGroup": "2026-01-03",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "Q4 FY26_Jan to March.md",
+      "sourceTitle": "Union Budget 2026-27 & related fiscal announcements"
+    },
+    "noteNumber": 201
+  },
+  "relationships": []
+}

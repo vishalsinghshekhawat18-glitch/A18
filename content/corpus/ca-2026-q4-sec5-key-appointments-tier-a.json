@@ -1,0 +1,81 @@
+{
+  "id": "ca-2026-q4-sec5-key-appointments-tier-a",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Key Appointments (Tier A",
+  "summary": "RBI/SEBI/PSU-Bank/major regulator), consolidated Jan-Mar",
+  "blocks": [
+    {
+      "id": "blk-q4-103-table",
+      "type": "paragraph",
+      "content": "|---|---|---|"
+    },
+    {
+      "id": "blk-q4-103-bullets",
+      "type": "bullet_list",
+      "items": [
+        "RBI/SEBI/PSU-Bank/major regulator), consolidated Jan-Mar",
+        "| Sandeep Bakhshi | MD & CEO, ICICI Bank | Jan |",
+        "| Hardeep Singh Ahluwalia | MD & CEO, Canara Bank | Jan |",
+        "| Arijit Basu | Chairman, IndusInd Bank (replacing Sunil Mehta) | Jan |",
+        "| Vinay Muralidhar Tonse | MD & CEO, YES Bank | Feb |",
+        "| Sanjay Agarwal | MD & CEO, AU Small Finance Bank | Feb |",
+        "| Vijay Anandh | MD & CEO, City Union Bank | Feb |",
+        "| Ketan Merchant | MD & CEO, Fino Payments Bank | Feb |",
+        "| Uday Kotak | Chairman, GIFT City (succeeds Hasmukh Adhia) | Feb |",
+        "| Nidhi Chhibber | Interim CEO, NITI Aayog | Feb |",
+        "| CA Prasanna Kumar D | 74th President, ICAI (2026-27) | Feb |",
+        "| K.V. Ramana Murthy (+ Kamlesh Chandra Varshney, Sandip Pradhan, Amarjeet Singh) | SEBI Whole-Time Members | Mar |",
+        "| Keki Mistry | Interim Part-time Chairman, HDFC Bank | Mar |",
+        "| Phanindranath Kakarla | MD & CEO, ARCIL | Mar |",
+        "| Suraj Rajappan | MD & CEO, Kotak Mahindra Prime | Mar |",
+        "| Deepak Gupta | CMD, GAIL | Mar |",
+        "| Lt Gen Dheeraj Seth | Vice Chief of Army Staff | Mar |",
+        "| Rahul Bhatia | CEO, IndiGo | Mar |",
+        "| Vikram Doraiswami | India's next Ambassador to China | Mar |",
+        "| Periasamy Kumaran | High Commissioner of India to the UK | Mar |",
+        "| Sadhvi Niranjan Jyoti | Chairperson, National Commission for Backward Classes | Mar |",
+        "| Mojtaba Khamenei | New Supreme Leader of Iran | Mar |",
+        "| Balendra Shah | New Prime Minister of Nepal | Mar |",
+        "| Multiple Governors (Pratap Shukla-Telangana, Jishnu Dev Varma-Maharashtra, Nand Kishore Yadav-Nagaland, Lt Gen (Retd) Syed Ata Hasnain-Bihar, R.N. Ravi-West Bengal, Rajendra Vishwanath Arlekar-Tamil Nadu, Kavinder Gupta-Himachal Pradesh); Vinai Kumar Saxena (LG Ladakh), Taranjit Singh Sandhu (LG Delhi) | Governor reshuffle | Mar |",
+        "**Note:** Vinay Muralidhar Tonse's YES Bank MD&CEO appointment was reported in both the Feb and March source batches — listed once above (Feb, first reported month) to avoid duplication.",
+        "Brand ambassadors (Mar): Ravindra Jadeja (City Union Bank), Jasprit Bumrah (Uniqlo India), M.S. Dhoni (BHIM Payments App, NBSL/NPCI subsidiary)."
+      ]
+    },
+    {
+      "id": "blk-q4-103-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → 🔥 HIGH — Big-bank leadership cluster spans all three months (ICICI/Canara/IndusInd-Jan; YES/AU/City Union/Fino-Feb; SEBI WTMs/HDFC Bank interim Chair-Mar) — high cross-month confusion risk. Keki Mistry (HDFC Bank) and the SEBI WTM cluster are March's highest-yield picks."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-q4",
+      "jan-mar-2026",
+      "sec5",
+      "claude-consolidated"
+    ],
+    "category": "SEC5",
+    "sectionCode": "SEC5",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-03-31",
+    "period": "2026-Q4",
+    "monthLabel": "JANUARY – MARCH 2026",
+    "monthGroup": "2026-01-03",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "Q4 FY26_Jan to March.md",
+      "sourceTitle": "Key Appointments (Tier A"
+    },
+    "noteNumber": 304
+  },
+  "relationships": []
+}

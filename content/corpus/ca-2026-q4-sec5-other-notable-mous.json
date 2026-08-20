@@ -1,0 +1,55 @@
+{
+  "id": "ca-2026-q4-sec5-other-notable-mous",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Other notable MoUs",
+  "summary": "Bharat Container Shipping Line (BCSL: SCI+CONCOR+major ports, under MoPSW/CMAS, separate ₹15,000 crore Outer Harbour financing MoU)",
+  "blocks": [
+    {
+      "id": "blk-q4-96-bullets",
+      "type": "bullet_list",
+      "items": [
+        "Bharat Container Shipping Line (BCSL: SCI+CONCOR+major ports, under MoPSW/CMAS, separate ₹15,000 crore Outer Harbour financing MoU)",
+        "FCI-WFP (2,00,000 MT rice to WFP over 5 years)",
+        "India-Malaysia (11 pacts incl. NIPL-PayNet UPI link)",
+        "ONGC-Mitsui OSK Lines (ethane-shipping JV via GIFT City)",
+        "India-Namibia (election-management MoU, IICDEM 2026)."
+      ]
+    },
+    {
+      "id": "blk-q4-96-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → SCI-Mazagon Dock vessel = India's first methanol dual-fuel PSV."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-q4",
+      "jan-mar-2026",
+      "sec5",
+      "claude-consolidated"
+    ],
+    "category": "SEC5",
+    "sectionCode": "SEC5",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-01-20",
+    "period": "2026-Q4",
+    "monthLabel": "JANUARY – MARCH 2026",
+    "monthGroup": "2026-01-03",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "Q4 FY26_Jan to March.md",
+      "sourceTitle": "Other notable MoUs"
+    },
+    "noteNumber": 297
+  },
+  "relationships": []
+}

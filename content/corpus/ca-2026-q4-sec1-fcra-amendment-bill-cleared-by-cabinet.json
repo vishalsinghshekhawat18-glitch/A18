@@ -1,21 +1,22 @@
 {
-  "id": "ca-2026-q4-sec1-239th-cbt-meeting-epf-interest-rate-825",
+  "id": "ca-2026-q4-sec1-fcra-amendment-bill-cleared-by-cabinet",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "239th CBT meeting — EPF interest rate 8.25%",
-  "summary": "Chaired by Labour Minister Dr Mansukh Mandaviya; new EPF/EPS/EDLI Scheme 2026 approved; Amnesty Scheme + auto-settlement pilot for inoperative accounts ≤₹1,000",
+  "title": "FCRA amendment bill cleared by Cabinet",
+  "summary": "new **Section 14B** (deemed cessation on expiry/non-renewal/refusal)",
   "blocks": [
     {
-      "id": "blk-q4-10-bullets",
+      "id": "blk-q4-20-bullets",
       "type": "bullet_list",
       "items": [
-        "Chaired by Labour Minister Dr Mansukh Mandaviya; new EPF/EPS/EDLI Scheme 2026 approved; Amnesty Scheme + auto-settlement pilot for inoperative accounts ≤₹1,000"
+        "new **Section 14B** (deemed cessation on expiry/non-renewal/refusal)",
+        "max imprisonment for unauthorized foreign-fund receipt cut to 1 year."
       ]
     },
     {
-      "id": "blk-q4-10-trap",
+      "id": "blk-q4-20-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → EPF interest FY2025-26 = **8.25%**."
+      "content": "🎯 Exam Angle → Key data points, statutory provisions, and figures in FCRA amendment bill cleared by Cabinet are tested in SBI PO Mains & RBI Grade B."
     }
   ],
   "metadata": {
@@ -43,9 +44,9 @@
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "Q4 FY26_Jan to March.md",
-      "sourceTitle": "239th CBT meeting — EPF interest rate 8.25%"
+      "sourceTitle": "FCRA amendment bill cleared by Cabinet"
     },
-    "noteNumber": 211
+    "noteNumber": 221
   },
   "relationships": []
 }

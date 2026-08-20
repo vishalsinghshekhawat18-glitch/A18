@@ -1,21 +1,23 @@
 {
-  "id": "ca-2026-q4-sec1-239th-cbt-meeting-epf-interest-rate-825",
+  "id": "ca-2026-q4-sec1-pm-e-drive-revised",
   "type": "ca_note",
   "domain": "current-affairs",
-  "title": "239th CBT meeting — EPF interest rate 8.25%",
-  "summary": "Chaired by Labour Minister Dr Mansukh Mandaviya; new EPF/EPS/EDLI Scheme 2026 approved; Amnesty Scheme + auto-settlement pilot for inoperative accounts ≤₹1,000",
+  "title": "PM E-DRIVE revised",
+  "summary": "outlay ₹10,900 crore",
   "blocks": [
     {
-      "id": "blk-q4-10-bullets",
+      "id": "blk-q4-15-bullets",
       "type": "bullet_list",
       "items": [
-        "Chaired by Labour Minister Dr Mansukh Mandaviya; new EPF/EPS/EDLI Scheme 2026 approved; Amnesty Scheme + auto-settlement pilot for inoperative accounts ≤₹1,000"
+        "outlay ₹10,900 crore",
+        "e-2W registration till 31 July 2026, e-3W till 31 March 2028",
+        "incentive price caps ₹1.5 lakh (2W) / ₹2.5 lakh (3W)."
       ]
     },
     {
-      "id": "blk-q4-10-trap",
+      "id": "blk-q4-15-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → EPF interest FY2025-26 = **8.25%**."
+      "content": "🎯 Exam Angle → PM E-DRIVE outlay = ₹10,900 crore."
     }
   ],
   "metadata": {
@@ -43,9 +45,9 @@
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "Q4 FY26_Jan to March.md",
-      "sourceTitle": "239th CBT meeting — EPF interest rate 8.25%"
+      "sourceTitle": "PM E-DRIVE revised"
     },
-    "noteNumber": 211
+    "noteNumber": 216
   },
   "relationships": []
 }
