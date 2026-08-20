@@ -147,6 +147,60 @@ export const JARGON_DICTIONARY: Record<string, JargonEntry> = {
     laymanDefinition: 'A legal trademark given to a product that is unique to a specific town or region due to special soil, climate, or traditional artisan heritage (e.g. Darjeeling Tea, Mithila Makhana, Banarasi Silk).',
     analogy: 'A government certificate of regional authenticity preventing fake copycats in global markets.',
     examTrap: 'Darjeeling Tea was India’s 1st GI (2004-05); UP leads all states in total GI registrations (81+), followed by Tamil Nadu (76); National target is 10,000 GIs by 2030.'
+  },
+  'garuda': {
+    term: 'GARUDA',
+    aliases: ['garuda framework', 'aif green-channel'],
+    fullName: 'Green-Channel: AIF Rollout Upon Document Acknowledgement',
+    category: 'RBI/Regulatory',
+    laymanDefinition: 'A fast-track green channel by SEBI for private equity and venture capital funds (AIFs). Instead of waiting months for SEBI to approve their investment documents, funds can launch and start investing in just 10 working days.',
+    analogy: 'Like TSA PreCheck or DigiYatra at the airport: verified travelers walk through security in minutes instead of waiting in long lines.',
+    examTrap: 'AIF schemes can commence operations 10 working days after filing PPM via a merchant banker unless SEBI raises an objection; Angel Funds and Large Value Funds (LVFs) are exempted.'
+  },
+  'closing auction session': {
+    term: 'CAS',
+    aliases: ['closing auction session', 'cas session'],
+    fullName: 'Closing Auction Session (SEBI)',
+    category: 'RBI/Regulatory',
+    laymanDefinition: 'A special 3:15 PM to 3:35 PM auction session introduced by SEBI for major derivative (F&O) stocks to calculate the official closing price by pooling buy/sell orders, stopping big traders from manipulating closing prices in the final seconds.',
+    analogy: 'Instead of accepting a chaotic last-second bid, the auctioneer pauses the room at 3:15 PM and calculates the fair average price for everyone.',
+    examTrap: 'Applies to F&O-eligible (Category I) stocks only; Non-F&O stocks close at the standard 3:30 PM.'
+  },
+  'purpose-washing': {
+    term: 'Purpose-Washing',
+    aliases: ['greenwashing', 'esg washing', 'esg debt'],
+    fullName: 'ESG Anti-"Purpose-Washing" Safeguards',
+    category: 'RBI/Regulatory',
+    laymanDefinition: 'When companies issue "Green Bonds" pretending to use the money for solar or clean water, but secretly spend it on regular corporate expenses. SEBI now forces companies to track and report every single rupee spent.',
+    analogy: 'Like claiming money from parents for study books but spending it on a restaurant party — SEBI now demands the purchase receipt for every green claim.',
+    examTrap: 'BRSR is mandatory for the top 1,000 listed companies by market cap since FY23 based on 9 NGRBC principles; 19 ESG Rating Providers (ERPs) are registered with SEBI.'
+  },
+  'f&o retail safeguards': {
+    term: 'F&O Safeguards',
+    aliases: ['retail f&o losses', 'equity derivatives', 'index derivatives'],
+    fullName: 'SEBI Equity Derivatives Risk Measures',
+    category: 'RBI/Regulatory',
+    laymanDefinition: 'Rules introduced by SEBI to prevent retail investors from losing their life savings in high-risk stock options trading (where retail traders lost ₹91,685 crore in FY26) by increasing minimum trade lot sizes and requiring upfront cash margins.',
+    analogy: 'Like putting high guardrails and warning sirens on a dangerous cliff edge so casual tourists do not fall off.',
+    examTrap: 'Measures: Higher minimum contract size, mandatory upfront premium collection, intraday position monitoring, and higher tail-risk margin buffers.'
+  },
+  'reits / invits': {
+    term: 'REITs / InvITs',
+    aliases: ['reit', 'invit', 'reits', 'invits'],
+    fullName: 'Real Estate & Infrastructure Investment Trusts',
+    category: 'Banking',
+    laymanDefinition: 'Mutual fund-like vehicles that own income-generating real estate (shopping malls, tech parks) or infrastructure (highways, power grids). Investors can buy small shares and receive regular rental/toll dividends.',
+    analogy: 'Like pooling money with friends to buy a luxury commercial office building and splitting the monthly rent checks.',
+    examTrap: 'SEBI proposed allowing Depository Receipts (DRs) against listed REITs/InvITs to attract foreign global investors; privately listed InvITs are excluded.'
+  },
+  'aif': {
+    term: 'AIF',
+    aliases: ['alternative investment fund', 'aifs'],
+    fullName: 'Alternative Investment Fund',
+    category: 'RBI/Regulatory',
+    laymanDefinition: 'Privately pooled investment funds in India that collect money from wealthy individuals and institutions to invest in startups (Category I), private equity/debt (Category II), or hedge funds (Category III).',
+    analogy: 'An exclusive private investment club for high-net-worth investors looking for high-risk, high-return private deals.',
+    examTrap: 'Category I = Startups/SMEs/Social ventures; Category II = PE/Debt funds; Category III = Hedge funds (complex trading strategies).'
   }
 };
 
