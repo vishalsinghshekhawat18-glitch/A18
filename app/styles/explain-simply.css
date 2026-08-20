@@ -1,29 +1,40 @@
-/* 💡 Unified Scientific Study Card Styles (Lexend, Solid Header Rule, Dashed Headline Rule, Style 1 Track Bullets, Unboxed Italic Exam Angle) */
+/* 💡 Unified Scientific Study Card Styles (Density 2: Compact / Lexend / Solid Header Rule / Dashed Headline Rule / Style 1 Track Bullets / Unboxed Italic Exam Angle) */
+
+/* Card Containers: Density 2 Compact */
+.ca-feed-card-compact,
+.ca-briefing-container,
+.study-card {
+  background: var(--bg-card, #eee2ce);
+  border: 1px solid var(--border-subtle, #d2c19e);
+  border-radius: 10px;
+  padding: 1.35rem 1.65rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.02);
+}
 
 /* Locked Header Byline Bar */
 .card-header-locked {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding-bottom: 0.65rem;
-  margin-bottom: 1.15rem;
+  padding-bottom: 0.45rem;
+  margin-bottom: 0.75rem;
   border-bottom: 1px solid var(--border-subtle, #d2c19e);
   font-family: inherit;
-  font-size: 0.75rem;
+  font-size: 0.7rem;
   font-weight: 600;
   text-transform: uppercase;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.05em;
   color: var(--text-muted, #7d6d5c);
 }
 
 /* Locked Dashed Headline */
 .news-title-locked {
   font-family: inherit;
-  font-size: 1.45rem;
+  font-size: 1.25rem;
   font-weight: 700;
-  line-height: 1.35;
-  padding-bottom: 0.95rem;
-  margin-bottom: 1.25rem;
+  line-height: 1.28;
+  padding-bottom: 0.65rem;
+  margin-bottom: 0.85rem;
   border-bottom: 1px dashed var(--border-subtle, #d2c19e);
   color: var(--text-primary, #2c221a);
   letter-spacing: -0.01em;
@@ -31,63 +42,64 @@
 
 /* Executive Hook & Paragraph (Lead Story) */
 .block-paragraph, .exec-hook {
-  font-size: 1.02rem;
-  margin-bottom: 1.25rem;
-  line-height: 1.68;
+  font-size: 0.98rem;
+  margin-bottom: 0.85rem;
+  line-height: 1.55;
   color: var(--text-primary, #2c221a);
 }
 
-/* Style 1: Vertical Step-Track Bullets */
+/* Style 1: Vertical Step-Track Bullets (Density 2 Compact) */
 .bullets-track {
   position: relative;
   list-style-type: none;
-  padding-left: 1.5rem;
-  margin-bottom: 1.35rem;
+  padding-left: 1.35rem;
+  margin-bottom: 0.85rem;
 }
 
 .bullets-track::before {
   content: "";
   position: absolute;
-  left: 0.4rem;
-  top: 0.5rem;
-  bottom: 0.5rem;
+  left: 0.35rem;
+  top: 0.4rem;
+  bottom: 0.4rem;
   width: 1.5px;
   background: var(--border-subtle, #d2c19e);
 }
 
 .bullets-track li {
   position: relative;
-  margin-bottom: 1rem;
-  line-height: 1.68;
+  margin-bottom: 0.65rem;
+  line-height: 1.55;
+  font-size: 0.95rem;
   color: var(--text-primary, #2c221a);
 }
 
 .bullets-track li::before {
   content: "";
   position: absolute;
-  left: -1.35rem;
-  top: 0.55rem;
-  width: 7px;
-  height: 7px;
+  left: -1.2rem;
+  top: 0.48rem;
+  width: 6px;
+  height: 6px;
   border-radius: 50%;
   background: var(--text-secondary, #5a4c3e);
 }
 
 /* Unboxed Small Italic Exam Trap Footnote */
 .exam-trap-subtext {
-  margin-top: 1.25rem;
-  padding-top: 0.85rem;
+  margin-top: 0.85rem;
+  padding-top: 0.55rem;
   border-top: 1px dashed var(--border-subtle, #d2c19e);
-  font-size: 0.88rem;
+  font-size: 0.82rem;
   font-style: italic;
   color: var(--text-muted, #7d6d5c);
-  line-height: 1.6;
+  line-height: 1.48;
 }
 
 .exam-trap-subtext .trap-prefix {
   font-style: normal;
   font-weight: 700;
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   color: var(--text-primary, #2c221a);
   margin-right: 0.35rem;
 }
@@ -108,8 +120,8 @@
   background: transparent;
   border: 1px solid var(--border-subtle, #d2c19e);
   border-radius: 16px;
-  padding: 0.18rem 0.55rem;
-  font-size: 0.72rem;
+  padding: 0.12rem 0.48rem;
+  font-size: 0.7rem;
   font-weight: 600;
   color: var(--text-muted, #7d6d5c);
   cursor: pointer;
@@ -132,21 +144,21 @@
 }
 
 .hint-bulb-icon {
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   line-height: 1;
 }
 
 .hint-bulb-text {
-  font-size: 0.72rem;
+  font-size: 0.7rem;
   font-weight: 600;
 }
 
 .hint-bulb-badge {
   background: var(--border-warning, #c28928);
   color: #ffffff;
-  padding: 0.05rem 0.35rem;
+  padding: 0.04rem 0.3rem;
   border-radius: 9999px;
-  font-size: 0.65rem;
+  font-size: 0.62rem;
   font-weight: 800;
 }
 
@@ -156,10 +168,10 @@
 
 /* Expanded Explain Simply Card Drawer */
 .explain-simply-card {
-  margin-top: 0.75rem;
+  margin-top: 0.65rem;
   width: 100%;
   text-align: left;
-  padding: 1.15rem;
+  padding: 1rem;
   background: #fffbeb;
   border: 1.5px solid #fcd34d;
   border-radius: 10px;
@@ -179,14 +191,14 @@
 }
 
 .explain-card-header {
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.65rem;
 }
 
 .explain-badge-row {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
-  margin-bottom: 0.4rem;
+  gap: 0.45rem;
+  margin-bottom: 0.35rem;
 }
 
 .btn-close-explain {
@@ -209,7 +221,7 @@
   font-size: 0.65rem;
   font-weight: 800;
   letter-spacing: 0.05em;
-  padding: 0.15rem 0.45rem;
+  padding: 0.12rem 0.4rem;
   background: #fef08a;
   color: #854d0e;
   border-radius: 4px;
@@ -219,7 +231,7 @@
   font-size: 0.65rem;
   font-weight: 800;
   letter-spacing: 0.05em;
-  padding: 0.15rem 0.45rem;
+  padding: 0.12rem 0.4rem;
   background: #fed7aa;
   color: #9a3412;
   border-radius: 4px;
@@ -227,52 +239,52 @@
 
 .explain-headline {
   margin: 0;
-  font-size: 1rem;
+  font-size: 0.95rem;
   font-weight: 700;
   color: #78350f;
 }
 
 .explain-story-box {
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.65rem;
   background: #ffffff;
-  padding: 0.75rem 0.9rem;
+  padding: 0.65rem 0.8rem;
   border-radius: 6px;
-  border-left: 3.5px solid #f59e0b;
+  border-left: 3px solid #f59e0b;
 }
 
 .explain-story-text {
   margin: 0;
-  font-size: 0.92rem;
-  line-height: 1.5;
+  font-size: 0.9rem;
+  line-height: 1.48;
   color: #451a03;
 }
 
 .explain-analogy-box {
   display: flex;
-  gap: 0.65rem;
+  gap: 0.55rem;
   background: #fef3c7;
-  padding: 0.75rem 0.9rem;
+  padding: 0.65rem 0.8rem;
   border-radius: 6px;
-  margin-bottom: 0.85rem;
+  margin-bottom: 0.75rem;
 }
 
 .analogy-icon {
-  font-size: 1.15rem;
+  font-size: 1.05rem;
   line-height: 1;
 }
 
 .analogy-content {
-  font-size: 0.88rem;
-  line-height: 1.45;
+  font-size: 0.85rem;
+  line-height: 1.42;
   color: #78350f;
 }
 
 .analogy-content strong {
   display: block;
-  font-size: 0.72rem;
+  font-size: 0.7rem;
   text-transform: uppercase;
   letter-spacing: 0.04em;
-  margin-bottom: 0.15rem;
+  margin-bottom: 0.12rem;
 }
 
 .analogy-content p {
@@ -282,31 +294,31 @@
 /* Jargon Buster Chips */
 .explain-jargon-section {
   border-top: 1px dashed #fcd34d;
-  padding-top: 0.75rem;
+  padding-top: 0.65rem;
 }
 
 .jargon-section-title {
-  font-size: 0.8rem;
+  font-size: 0.76rem;
   color: #78350f;
-  margin-bottom: 0.45rem;
+  margin-bottom: 0.4rem;
 }
 
 .jargon-chips-grid {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.35rem;
-  margin-bottom: 0.65rem;
+  gap: 0.3rem;
+  margin-bottom: 0.55rem;
 }
 
 .jargon-chip {
   display: inline-flex;
   align-items: center;
-  gap: 0.3rem;
+  gap: 0.25rem;
   background: #ffffff;
   border: 1px solid #d97706;
-  border-radius: 5px;
-  padding: 0.18rem 0.5rem;
-  font-size: 0.75rem;
+  border-radius: 4px;
+  padding: 0.15rem 0.45rem;
+  font-size: 0.72rem;
   font-weight: 600;
   color: #92400e;
   cursor: pointer;
@@ -320,7 +332,7 @@
 }
 
 .jargon-chip-cat {
-  font-size: 0.62rem;
+  font-size: 0.6rem;
   opacity: 0.85;
   font-weight: 400;
 }
@@ -329,7 +341,7 @@
   background: #ffffff;
   border: 1.5px solid #d97706;
   border-radius: 6px;
-  padding: 0.75rem 0.9rem;
+  padding: 0.65rem 0.8rem;
   animation: fadeIn 0.18s ease-in;
 }
 
@@ -337,46 +349,46 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 0.4rem;
+  margin-bottom: 0.35rem;
 }
 
 .jargon-detail-header h4 {
   margin: 0;
-  font-size: 0.9rem;
+  font-size: 0.88rem;
   font-weight: 700;
   color: #92400e;
 }
 
 .jargon-cat-badge {
-  font-size: 0.62rem;
+  font-size: 0.6rem;
   font-weight: 700;
-  padding: 0.1rem 0.35rem;
+  padding: 0.08rem 0.3rem;
   background: #fef3c7;
   color: #b45309;
   border-radius: 4px;
 }
 
 .jargon-def, .jargon-analogy {
-  margin: 0 0 0.35rem 0;
-  font-size: 0.85rem;
-  line-height: 1.4;
+  margin: 0 0 0.3rem 0;
+  font-size: 0.82rem;
+  line-height: 1.38;
   color: #292524;
 }
 
 .jargon-trap-alert {
-  margin-top: 0.45rem;
-  padding: 0.35rem 0.55rem;
+  margin-top: 0.4rem;
+  padding: 0.3rem 0.5rem;
   background: #fee2e2;
   border-left: 3px solid #dc2626;
   border-radius: 4px;
-  font-size: 0.8rem;
+  font-size: 0.78rem;
   color: #991b1b;
-  line-height: 1.35;
+  line-height: 1.32;
 }
 
 /* 🧠 Mentor Deconstruct Styles */
 .mentor-deconstruct-card {
-  margin: 1.5rem 0;
+  margin: 1.25rem 0;
   background: #f8fafc;
   border: 1px solid #cbd5e1;
   border-radius: 10px;
@@ -385,23 +397,23 @@
 }
 
 .mentor-header {
-  padding: 0.75rem 1rem;
+  padding: 0.65rem 0.9rem;
   background: #0f172a;
   color: #ffffff;
 }
 
 .mentor-badge {
-  font-size: 0.68rem;
+  font-size: 0.65rem;
   font-weight: 800;
   letter-spacing: 0.05em;
   color: #38bdf8;
   display: block;
-  margin-bottom: 0.15rem;
+  margin-bottom: 0.12rem;
 }
 
 .mentor-title {
   margin: 0;
-  font-size: 0.95rem;
+  font-size: 0.9rem;
   font-weight: 600;
 }
 
@@ -413,10 +425,10 @@
 
 .mentor-tab {
   flex: 1;
-  padding: 0.6rem 0.5rem;
+  padding: 0.5rem 0.45rem;
   background: transparent;
   border: none;
-  font-size: 0.8rem;
+  font-size: 0.78rem;
   font-weight: 600;
   color: #475569;
   cursor: pointer;
@@ -436,13 +448,13 @@
 }
 
 .mentor-tab-content {
-  padding: 1rem;
+  padding: 0.85rem;
   background: #ffffff;
 }
 
 .mentor-pane {
-  font-size: 0.92rem;
-  line-height: 1.55;
+  font-size: 0.88rem;
+  line-height: 1.5;
   color: #1e293b;
 }
 
@@ -456,8 +468,8 @@
 
 /* 🔗 Prerequisite Knowledge Bridge Styles */
 .prerequisite-bridge-card {
-  margin: 1.5rem 0;
-  padding: 1rem;
+  margin: 1.25rem 0;
+  padding: 0.85rem;
   background: #f0fdf4;
   border: 1px solid #86efac;
   border-radius: 10px;
@@ -467,68 +479,68 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.65rem;
 }
 
 .bridge-badge {
-  font-size: 0.72rem;
+  font-size: 0.7rem;
   font-weight: 800;
   color: #166534;
   letter-spacing: 0.04em;
 }
 
 .bridge-hint {
-  font-size: 0.72rem;
+  font-size: 0.7rem;
   color: #15803d;
 }
 
 .bridge-links-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 0.75rem;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 0.65rem;
 }
 
 .bridge-item-card {
   background: #ffffff;
   border: 1px solid #bbf7d0;
   border-radius: 8px;
-  padding: 0.75rem 0.85rem;
+  padding: 0.65rem 0.75rem;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
 }
 
 .bridge-item-badge {
-  font-size: 0.65rem;
+  font-size: 0.62rem;
   font-weight: 700;
-  padding: 0.1rem 0.4rem;
+  padding: 0.08rem 0.35rem;
   background: #dcfce7;
   color: #166534;
   border-radius: 4px;
 }
 
 .bridge-item-title {
-  margin: 0.35rem 0 0.25rem 0;
-  font-size: 0.88rem;
+  margin: 0.3rem 0 0.2rem 0;
+  font-size: 0.85rem;
   font-weight: 700;
   color: #14532d;
 }
 
 .bridge-item-summary {
-  margin: 0 0 0.5rem 0;
-  font-size: 0.78rem;
+  margin: 0 0 0.45rem 0;
+  font-size: 0.76rem;
   color: #4b5563;
-  line-height: 1.35;
+  line-height: 1.32;
 }
 
 .btn-bridge-explore {
   align-self: flex-start;
-  padding: 0.25rem 0.6rem;
+  padding: 0.22rem 0.55rem;
   background: #166534;
   color: #ffffff;
   border: none;
   border-radius: 4px;
-  font-size: 0.72rem;
+  font-size: 0.7rem;
   font-weight: 600;
   cursor: pointer;
   transition: background 0.15s ease;
