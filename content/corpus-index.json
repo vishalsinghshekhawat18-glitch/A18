@@ -900,6 +900,43 @@
     "relationships": []
   },
   {
+    "id": "ca-2026-08-sec11-rapid-revision-and-master-tables",
+    "type": "ca_note",
+    "domain": "current-affairs",
+    "title": "⚡ Rapid Revision Master Sheet & High-Yield Top 10 (August 1–17, 2026)",
+    "summary": "Consolidated last-mile revision sheet featuring the Top 10 highest-yield exam items, statutory status tracker, and cross-topic confusion matrix...",
+    "metadata": {
+      "exam": [
+        "SBI PO Mains 2026",
+        "IBPS PO Mains 2026",
+        "RBI Grade B 2026"
+      ],
+      "tags": [
+        "current-affairs",
+        "2026-08",
+        "sec11",
+        "claude-core-v3",
+        "rapid-revision"
+      ],
+      "category": "SEC10",
+      "sectionCode": "SEC10",
+      "difficulty": "advanced",
+      "relevanceTier": "TIER_A",
+      "noteTier": "TIER_A",
+      "date": "2026-08-17",
+      "period": "2026-08",
+      "monthLabel": "AUGUST 2026",
+      "monthGroup": "2026-08",
+      "provenance": {
+        "sourceSystem": "Claude",
+        "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
+        "sourceTitle": "Rapid Revision Sheet"
+      },
+      "noteNumber": 93
+    },
+    "relationships": []
+  },
+  {
     "id": "ca-2026-08-sec2-irdai-insurance-regulatory-package",
     "type": "ca_note",
     "domain": "current-affairs",
