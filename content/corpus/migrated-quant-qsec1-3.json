@@ -2,28 +2,18 @@
   "id": "migrated-quant-qsec1-3",
   "type": "quant_topic",
   "domain": "quant",
-  "title": "3 Frustum & Combined Solids (Formulas & Method Worked Examples)",
-  "summary": "Quant — 1.3 Frustum & Combined Solids (Formulas & Method Worked Examples)",
+  "title": "Frustum of Cone, Pyramid & Combined 3D Solids (Advanced Mensuration)",
+  "summary": "Masterclass on truncated solids, Frustum slant heights, volume formulas, composite solids, and cavity drilling invariants with 3-tier solutions...",
   "blocks": [
     {
-      "type": "formula",
-      "latex": "V_{\\text{Frustum}} = \\frac{1}{3} \\pi h (R^2 + r^2 + Rr)",
-      "caption": "1.3 Frustum & Combined Solids (Formulas & Method Worked Examples)",
-      "explanation": "Volume formula for a cone frustum with radii R and r."
+      "id": "blk-qsec1-3-theory",
+      "type": "paragraph",
+      "content": "### 🔺 Frustum & Composite Solid Theorems\n\n1. **Frustum of a Right Circular Cone (radii (R, r); vertical height (h)):**\n   • **Slant Height ((l)):** (l = sqrt{h^2 + (R - r)^2})\n   • **Curved Surface Area (CSA):** (\text{CSA} = pi (R + r) l)\n   • **Total Surface Area (TSA):** (\text{TSA} = pi (R + r) l + pi R^2 + pi r^2)\n   • **Volume ((V)):** (V = \frac{1}{3} pi h (R^2 + r^2 + R cdot r))\n2. **Drilling Cavities vs Mounting Solids:**\n   • **Drilling a conical/cylindrical cavity from a solid:** Volume decreases ((V_{\text{remaining}} = V_{\text{solid}} - V_{\text{cavity}})), but **Total Surface Area increases** because the internal curved walls of the cavity are now exposed ((\text{TSA}_{\text{new}} = \text{TSA}_{\text{solid}} - \text{Base Area} + \text{CSA}_{\text{cavity}})).\n   • **Surmounting a hemisphere on a cylinder:** Total Volume (= V_{\text{cyl}} + V_{\text{hemi}}); Total Surface Area (= \text{CSA}_{\text{cyl}} + \text{Base}_{\text{cyl}} + \text{CSA}_{\text{hemi}})."
     },
     {
-      "type": "bullet_list",
-      "items": [
-        "**Frustum Volume Formula & Method:** $V = \\frac{\\pi h}{3}(R^2 + r^2 + R r)$ | Slant Height $l = \\sqrt{h^2 + (R-r)^2}$.",
-        "**Frustum Surface Area:** $\\text{CSA} = \\pi (R+r) l$ | $\\text{TSA} = \\pi (R+r) l + \\pi R^2 + \\pi r^2$.",
-        "**Sphere Inscribed in Cube Shortcut:** Sphere radius $r = a/2$ $\\rightarrow$ $\\frac{\\text{Volume of Sphere}}{\\text{Volume of Cube}} = \\frac{\\pi}{6} \\approx 0.524$.",
-        "📝 **Worked Example (Frustum Volume Method):** A frustum bucket has top radius $R = 20\\text{ cm}$, bottom radius $r = 10\\text{ cm}$, and height $h = 15\\text{ cm}$. Find its volume.\n*Method:* Recognize Frustum $\\rightarrow$ Substitute $R=20, r=10, h=15 \\implies V = \\frac{\\pi \\times 15}{3} (20^2 + 10^2 + 20\\times 10) = 5\\pi (400 + 100 + 200) = 3,500\\pi \\approx 10,995.5 \\text{ cm}^3$."
-      ]
-    },
-    {
-      "id": "blk-migrated-quant-qsec1-3-exam-trap",
+      "id": "blk-qsec1-3-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → ⚡ Calculation Trap — Watch for base-year shifts, percentage of vs percentage more than traps, and units conversion (km/h ➔ m/s) in time-speed-distance."
+      "content": "🎯 Exam Angle → ⚡ Frustum Volume Memory Anchor: Notice the term ((R^2 + r^2 + Rr)) in the Frustum volume formula — it is the algebraic expansion quotient from (\frac{R^3 - r^3}{R - r}). When (r = 0), it perfectly collapses to the standard Cone volume (\frac{1}{3}pi R^2 h)."
     }
   ],
   "metadata": {

@@ -2,28 +2,18 @@
   "id": "migrated-quant-qsec1-4",
   "type": "quant_topic",
   "domain": "quant",
-  "title": "4 Mensuration Percentage Scale Shortcuts & Traps",
-  "summary": "Quant — 1.4 Mensuration Percentage Scale Shortcuts & Traps",
+  "title": "Mensuration Percentage Scaling Shortcuts & Dimensional Multipliers",
+  "summary": "Algebraic scaling matrix, successive percentage variations in 2D and 3D dimensions, and 5-second mental multipliers for radius/height shifts...",
   "blocks": [
     {
-      "type": "formula",
-      "latex": "\\% \\Delta Area = x + y + \\frac{xy}{100}",
-      "caption": "1.4 Mensuration Percentage Scale Shortcuts & Traps",
-      "explanation": "Successive percentage change formula for 2D area scaling."
+      "id": "blk-qsec1-4-theory",
+      "type": "paragraph",
+      "content": "### 📈 Dimensional Scaling Theorems & Percentage Multipliers\n\n1. **Linear Scaling Invariant:** If all linear dimensions of any 2D or 3D geometric figure are multiplied by scale factor (k):\n   • All Linear parameters (Perimeter, Circumference, Diagonal, Height, Radius) scale by (k^1).\n   • All Area parameters (Base Area, CSA, LSA, TSA) scale by (k^2).\n   • All Volume parameters scale by (k^3).\n2. **Successive Percentage Changes in Formulas:**\n   • **Area of Circle ((A = pi r^2)):** If radius increases by (x%), Area increases by (2x + \frac{x^2}{100})%.\n   • **Volume of Cylinder ((V = pi r^2 h)):** If radius increases by (a%) and height changes by (b%), effective volume factor is (left(1 + \frac{a}{100}\right)^2 left(1 + \frac{b}{100}\right)).\n   • **Volume of Sphere ((V = \frac{4}{3}pi r^3)):** If radius increases by (10%), Volume increases by (1.1^3 - 1 = +33.1%)."
     },
     {
-      "type": "bullet_list",
-      "items": [
-        "**2D Area Percentage Change Shortcut:** If linear dimension increases by $+x\\%$, Area increases by **$\\left(2x + \\frac{x^2}{100}\\right)\\%$** (using successive percentage formula $x + y + \\frac{xy}{100}$).",
-        "**Melting & Recasting Law:** When solids are melted and recast, **Total Volume remains CONSTANT** ($V_{\\text{initial}} = V_{\\text{final}}$).",
-        "⚠️ **Common Trap Alert:** Increasing radius of a cylinder by 20% increases CSA by 20% (if height is constant), but increases Volume by **44%** ($1.2^2 = 1.44$).",
-        "📝 **Worked Example (Melting Spheres Method):** 3 metallic spheres of radii 3 cm, 4 cm, 5 cm are melted to form a single solid sphere. Find its radius.\n*Method:* Recognize Recasting $\\rightarrow$ Equalize volumes: $V = \\frac{4}{3}\\pi (3^3 + 4^3 + 5^3) = \\frac{4}{3}\\pi (27 + 64 + 125) = \\frac{4}{3}\\pi (216) \\implies R^3 = 216 \\implies R = 6\\text{ cm}$."
-      ]
-    },
-    {
-      "id": "blk-migrated-quant-qsec1-4-exam-trap",
+      "id": "blk-qsec1-4-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → ⚡ Calculation Trap — Watch for base-year shifts, percentage of vs percentage more than traps, and units conversion (km/h ➔ m/s) in time-speed-distance."
+      "content": "🎯 Exam Angle → ⚡ 5-Second Scaling Shortcut: When radius increases by (20%) ((\frac{6}{5})) and height decreases by (25%) ((\frac{3}{4})), the new Cylinder volume ratio is (left(\frac{6}{5}\right)^2 \times \frac{3}{4} = \frac{36}{25} \times \frac{3}{4} = \frac{27}{25} = +8%) increase directly."
     }
   ],
   "metadata": {

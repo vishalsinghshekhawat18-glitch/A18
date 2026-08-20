@@ -2,49 +2,72 @@
   "id": "migrated-quant-qsec1-2",
   "type": "quant_topic",
   "domain": "quant",
-  "title": "2 3D Solid Formulas & Worked Methods",
-  "summary": "Quant — 1.2 3D Solid Formulas & Worked Methods",
+  "title": "3D Solid Mensuration & Surface Topology (Cylinder, Cone, Sphere, Prism)",
+  "summary": "Exhaustive 3D solid geometry reference covering Curved Surface Area, Total Surface Area, Volume, melting and recasting invariants, and maximum cube in sphere...",
   "blocks": [
     {
-      "type": "comparison",
-      "title": "1.2 3D Solid Formulas & Worked Methods",
+      "id": "blk-qsec1-2-theory",
+      "type": "paragraph",
+      "content": "### 📦 3D Solid Mensuration Principles & Conservation of Volume\n\n1. **Melting & Recasting Invariant:** When one or more solid bodies are melted and recast into new shapes, the **Total Volume remains strictly invariant** ((sum V_{\text{initial}} = sum V_{\text{final}})), provided no material is lost. However, the **Total Surface Area (TSA) ALWAYS changes**.\n2. **Cutting Invariant:** When a solid is cut along a plane, Volume remains unchanged, but **Total Surface Area strictly increases** by twice the cross-sectional cut area ((Delta \text{TSA} = 2 \times A_{\text{cut}})).\n3. **Largest Inscribed Cube Theorems:**\n   • Inscribed in a Sphere of radius (R): Cube diagonal (asqrt{3} = 2R implies a = \frac{2R}{sqrt{3}}).\n   • Inscribed in a Right Circular Cone (base (R), height (H)): Cube side (x = \frac{R cdot H cdot sqrt{2}}{Rsqrt{2} + H})."
+    },
+    {
+      "id": "blk-qsec1-2-table",
+      "type": "table",
       "headers": [
-        "Solid Shape",
-        "Volume Formula",
-        "Curved Surface Area (CSA)",
-        "Total Surface Area (TSA) & Diagonal"
+        "3D Solid",
+        "Curved / Lateral Surface Area",
+        "Total Surface Area (TSA)",
+        "Volume (V)"
       ],
       "rows": [
         [
           "Cube (side a)",
-          "a³",
           "LSA = 4a²",
-          "TSA = 6a² | Diagonal = a√3"
+          "TSA = 6a²",
+          "V = a³ | Body Diagonal = a√3"
         ],
         [
-          "Cylinder (radius r, height h)",
-          "π r² h",
+          "Cuboid (l, b, h)",
+          "LSA = 2h(l + b) [Area of 4 walls]",
+          "TSA = 2(lb + bh + hl)",
+          "V = l × b × h | Diagonal = √(l² + b² + h²)"
+        ],
+        [
+          "Right Circular Cylinder (r, h)",
           "CSA = 2π r h",
-          "TSA = 2π r (h + r)"
+          "TSA = 2π r (h + r)",
+          "V = π r² h"
         ],
         [
-          "Right Cone (r, h, slant l)",
-          "⅓ π r² h",
-          "CSA = π r l  (where l = √(r²+h²))",
-          "TSA = π r (l + r)"
+          "Hollow Cylinder (R, r, h)",
+          "CSA = 2π h (R + r)",
+          "TSA = 2π h(R + r) + 2π(R² − r²)",
+          "V = π h (R² − r²)"
+        ],
+        [
+          "Right Circular Cone (r, h, l)",
+          "CSA = π r l [Slant height l = √(r² + h²)]",
+          "TSA = π r (l + r)",
+          "V = ⅓ π r² h"
         ],
         [
           "Sphere (radius r)",
-          "(4/3) π r³",
-          "Surface Area = 4π r²",
-          "TSA = 4π r²"
+          "CSA = 4π r²",
+          "TSA = 4π r²",
+          "V = ⁴⁄₃ π r³"
+        ],
+        [
+          "Hemisphere (radius r)",
+          "CSA = 2π r²",
+          "TSA = 3π r² [Solid]",
+          "V = ⅔ π r³"
         ]
       ]
     },
     {
-      "id": "blk-migrated-quant-qsec1-2-exam-trap",
+      "id": "blk-qsec1-2-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → ⚡ Calculation Trap — Watch for base-year shifts, percentage of vs percentage more than traps, and units conversion (km/h ➔ m/s) in time-speed-distance."
+      "content": "🎯 Exam Angle → ⚡ High-Frequency Examiner Traps:\n1. **Hemisphere TSA Trap:** Hollow hemisphere without lid (\text{TSA} = 2pi r^2); Solid hemisphere (\text{TSA} = 3pi r^2); Sphere cut into 2 halves increases total surface area by (50%) ((4pi r^2 \to 6pi r^2)).\n2. **Longest Rod in a Room:** The longest pole that can be placed in a room is always along the 3D space diagonal: (d = sqrt{l^2 + b^2 + h^2})."
     }
   ],
   "metadata": {

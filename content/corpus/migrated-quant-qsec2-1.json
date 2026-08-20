@@ -2,26 +2,23 @@
   "id": "migrated-quant-qsec2-1",
   "type": "quant_topic",
   "domain": "quant",
-  "title": "1 Core Formulas",
-  "summary": "Quant — 2.1 Core Formulas",
+  "title": "Arithmetic Mastery: Time & Work, Pipes, TSD, Boats, Alligation & Interest",
+  "summary": "Comprehensive arithmetic formulation guide covering Unitary LCM work models, relative speeds, circular tracks, compound interest shifts, and replacement formulas...",
   "blocks": [
     {
-      "type": "bullet_list",
-      "items": [
-        "**Simple Interest**: SI = (P×R×T)/100; Amount = P+SI; P = (SI×100)/(R×T).",
-        "**Compound Interest**: A = P(1+R/100)ⁿ; CI = A−P; half-yearly → rate/2, time×2; quarterly → rate/4, time×4.",
-        "**Profit & Loss**: Profit% = (SP−CP)/CP×100; Loss% = (CP−SP)/CP×100; SP = CP(1±P/100); MP(1−discount%) = SP.",
-        "**Time & Work**: Work = Rate×Time; 1 day's work = 1/n; combined rate = 1/A+1/B; efficiency ratio is inverse of time ratio.",
-        "**Time, Speed & Distance**: Distance = Speed×Time; km/h→m/s ×5/18; m/s→km/h ×18/5; avg speed (equal distance) = 2xy/(x+y).",
-        "**Averages**: Average = sum/count; new term added → new avg shifts by (new term−old avg)/new count; avg of consecutive n numbers = middle term.",
-        "**Mixture & Alligation**: Cheaper:Dearer = (Dearer−Mean):(Mean−Cheaper); replacement: final = P(1−x/n)ⁿ.",
-        "**Partnership**: profit share ∝ capital×time invested; A:B ratio = (Ca×Ta):(Cb×Tb)."
-      ]
+      "id": "blk-qsec2-1-theory",
+      "type": "paragraph",
+      "content": "### ⚡ Core Arithmetic Invariants & Ratio Frameworks\n\n1. **Work Invariant (LCM Method):** Total Work (W = \text{Efficiency } (E) \times \text{Time } (T)). Assume Total Work = (\text{LCM}(t_1, t_2, dots, t_n)). Efficiency is inversely proportional to time ((E propto \frac{1}{T})).\n2. **Chain Rule Formulation:** (\frac{M_1 \times D_1 \times H_1 \times E_1}{W_1} = \frac{M_2 \times D_2 \times H_2 \times E_2}{W_2}).\n3. **Relative Speed Dynamics:**\n   • **Same Direction:** Relative Speed (= |S_1 - S_2|); Time to cross (= \frac{L_1 + L_2}{S_1 - S_2}).\n   • **Opposite Direction:** Relative Speed (= S_1 + S_2); Time to cross (= \frac{L_1 + L_2}{S_1 + S_2}).\n   • **Boats & Streams:** Downstream (S_d = u + v); Upstream (S_u = u - v); Speed of Boat (u = \frac{S_d + S_u}{2}); Stream Speed (v = \frac{S_d - S_u}{2}).\n4. **Compound Interest Differences (P, R%):**\n   • **For 2 Years:** (\text{CI}_2 - \text{SI}_2 = P left(\frac{R}{100}\right)^2).\n   • **For 3 Years:** (\text{CI}_3 - \text{SI}_3 = P left(\frac{R}{100}\right)^2 left(\frac{300 + R}{100}\right)).\n5. **Successive Dilution & Replacement Rule:** If a vessel contains (V) litres of pure liquid and (x) litres are removed and replaced with water (n) times, the final quantity of pure liquid is (Q_{\text{final}} = V left(1 - \frac{x}{V}\right)^n)."
     },
     {
-      "id": "blk-migrated-quant-qsec2-1-exam-trap",
+      "id": "blk-qsec2-1-tier3",
+      "type": "paragraph",
+      "content": "### 🚀 3-Tier Worked Problem: Alternate Working Days in Time & Work\n\n**Problem:** A can complete a task in 12 days, and B can complete it in 18 days. If they work on alternate days starting with A, in how many days will the work be completed?\n\n* **Tier 1 (Fraction Method):** A’s daily work = (\frac{1}{12}), B’s daily work = (\frac{1}{18}). In a 2-day cycle, work done = (\frac{1}{12} + \frac{1}{18} = \frac{5}{36}). In 7 cycles (14 days), work done = (7 \times \frac{5}{36} = \frac{35}{36}). Remaining work = (\frac{1}{36}). On day 15, A works: Time taken = (\frac{1/36}{1/12} = \frac{1}{3}) day. Total = (14\frac{1}{3}) days.\n* **Tier 2 (LCM Units Method):** Total Work = (\text{LCM}(12, 18) = 36\text{ units}). Efficiency: (E_A = \frac{36}{12} = 3\text{ units/day}); (E_B = \frac{36}{18} = 2\text{ units/day}). In 2 days = (3 + 2 = 5\text{ units}). Multiply by 7: In 14 days = (35\text{ units}). Remaining = (1\text{ unit}). On Day 15, A needs (\frac{1}{3}) day. Total = (14\frac{1}{3}) days.\n* **Tier 3 (Mental Inspection Shortcut):** Recognize that the average rate is 2.5 units/day. (36 / 2.5 = 14.4) days. Since A starts first, cycle ends on Day 14 at 35 units; last unit requires exactly (\frac{1}{3}) day. Result: (14.33) days."
+    },
+    {
+      "id": "blk-qsec2-1-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → ⚡ Calculation Trap — Watch for base-year shifts, percentage of vs percentage more than traps, and units conversion (km/h ➔ m/s) in time-speed-distance."
+      "content": "🎯 Exam Angle → ⚡ Calculation Traps:\n1. **Average Speed Trap:** If a person travels from A to B at speed (x) and returns at speed (y), Average Speed is NOT (\frac{x+y}{2}). It is the harmonic mean: (\text{Avg Speed} = \frac{2xy}{x+y}).\n2. **Train Passing a Platform vs Man:** Passing a platform requires distance (D = L_{\text{train}} + L_{\text{platform}}); passing a pole or standing person requires distance (D = L_{\text{train}})."
     }
   ],
   "metadata": {

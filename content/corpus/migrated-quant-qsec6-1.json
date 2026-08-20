@@ -2,21 +2,18 @@
   "id": "migrated-quant-qsec6-1",
   "type": "quant_topic",
   "domain": "quant",
-  "title": "1 Core Evaluation Rules",
-  "summary": "Quant — 6.1 Core Evaluation Rules",
+  "title": "Data Sufficiency & Quantity Comparison (Q1 vs Q2 Decision Logic)",
+  "summary": "Decision-tree logic for Data Sufficiency statements, unique solution existence criteria, and Quantity 1 vs Quantity 2 algebraic comparisons...",
   "blocks": [
     {
-      "type": "bullet_list",
-      "items": [
-        "**Standard answer choices**: I alone sufficient (II not); II alone sufficient (I not); either alone sufficient; both together needed; neither alone nor together sufficient.",
-        "**Evaluation order**: test statement I alone first, then II alone independently — only combine if both fail alone.",
-        "**Meaning of 'Sufficient'**: gives exactly ONE definite answer; multiple possible values = not sufficient, even for yes/no questions."
-      ]
+      "id": "blk-qsec6-1-theory",
+      "type": "paragraph",
+      "content": "### ⚖️ Data Sufficiency Decision Heuristics\n\n1. **The 5 Canonical DS Outcomes:**\n   • Statement 1 alone is sufficient, but Statement 2 alone is not.\n   • Statement 2 alone is sufficient, but Statement 1 alone is not.\n   • Either Statement 1 alone or Statement 2 alone is sufficient.\n   • Neither Statement 1 nor Statement 2 is sufficient independently, but TOGETHER they are sufficient.\n   • Statements 1 and 2 together are STILL NOT sufficient.\n2. **The \"Unique Answer\" Invariant:** Data Sufficiency asks *\"Can a single, unique, unambiguous answer be determined?\"* A statement yielding two possible values for a variable (e.g. (x = pm 5)) is **INSUFFICIENT**, unless an inequality constraint excludes one root.\n3. **Do NOT Calculate to the End:** Once algebraic uniqueness is established (e.g., 2 independent linear equations with 2 unknowns), stop immediately. Full computation wastes precious exam time!"
     },
     {
-      "id": "blk-migrated-quant-qsec6-1-exam-trap",
+      "id": "blk-qsec6-1-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → ⚡ Calculation Trap — Watch for base-year shifts, percentage of vs percentage more than traps, and units conversion (km/h ➔ m/s) in time-speed-distance."
+      "content": "🎯 Exam Angle → ⚡ Definite \"NO\" is Sufficient! In a \"Yes/No\" question (e.g. *\"Is x > 0?\"*), if Statement 1 proves that (x) is definitively (-5) (answering \"Definite NO\"), Statement 1 is **100% SUFFICIENT**! Insufficiency occurs only when the answer could be sometimes Yes and sometimes No."
     }
   ],
   "metadata": {

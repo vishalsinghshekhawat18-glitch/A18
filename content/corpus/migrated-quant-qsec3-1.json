@@ -2,49 +2,18 @@
   "id": "migrated-quant-qsec3-1",
   "type": "quant_topic",
   "domain": "quant",
-  "title": "1 Core Concepts & Formats",
-  "summary": "Quant — 3.1 Core Concepts & Formats",
+  "title": "Data Interpretation Masterclass (Missing DI, Radar, Caselets, Funnel)",
+  "summary": "Comprehensive methodology for High-Level SBI PO Mains Data Interpretation, percentage base-shifts, tabular extraction, and caselet venn diagrams...",
   "blocks": [
     {
-      "type": "table",
-      "headers": [
-        "Concept / Metric",
-        "Format / Definition",
-        "Key Application"
-      ],
-      "rows": [
-        [
-          "Ratio & Proportion",
-          "a : b = c : d",
-          "Partnerships, Mixture & Alligation"
-        ],
-        [
-          "Percentage Scale",
-          "% Change = (Diff / Base) * 100",
-          "Profit-Loss, Interest & Data Interpretation"
-        ],
-        [
-          "Average / Mean",
-          "Sum of Values / Number of Values",
-          "Weighted Average, Age & Speed Questions"
-        ]
-      ],
-      "caption": "Core Quantitative Aptitude Concepts & Formats"
+      "id": "blk-qsec3-1-theory",
+      "type": "paragraph",
+      "content": "### 📊 Data Interpretation Core Pedagogical Framework\n\n1. **Taxonomy of High-Level Banking DI Sets:**\n   • **Missing Value Tables:** Exploit horizontal/vertical arithmetic identities ((\text{Total} = \text{Male} + \text{Female}); (\text{Expenditure} = \text{Income} - \text{Savings})) to reconstruct missing cells before answering.\n   • **Radar / Spider Charts:** Data points represent radial distance from origin. Always verify whether polygonal grids represent absolute values or percentage shares.\n   • **Arithmetic DI Caselets:** Paragraph scenarios embedding Time-Work, TSD, or Profit-Loss equations into interconnected multi-variable tables.\n2. **Rapid Calculation & Approximation Filters:**\n   • **Fraction-to-Percentage Equivalents:** Master (\frac{1}{7} = 14.28%), (\frac{1}{8} = 12.5%), (\frac{1}{9} = 11.11%), (\frac{1}{11} = 9.09%), (\frac{1}{13} = 7.69%), (\frac{1}{17} = 5.88%), (\frac{1}{19} = 5.26%).\n   • **Percentage Base-Shift Formula:** If (A) is (x%) more than (B), then (B) is (left(\frac{x}{100+x} \times 100\right)%) less than (A)."
     },
     {
-      "type": "bullet_list",
-      "items": [
-        "**Tabular DI**: read all headers first; missing values from given totals/ratios; cross-check row=column=grand total.",
-        "**Pie chart**: degree = (value/total)×360°; % = degree/3.6; 1% = 3.6°.",
-        "**Bar/line graph**: growth% = (new−old)/old×100; CAGR ≈ [(final/initial)^(1/n)−1]×100; watch dual-axis units.",
-        "**Caselet DI**: extract facts into a small table; track relations as equations; solve in the order revealed.",
-        "**Missing DI (interlinked sets)**: fill known values first, use total/ratio constraints for the rest."
-      ]
-    },
-    {
-      "id": "blk-migrated-quant-qsec3-1-exam-trap",
+      "id": "blk-qsec3-1-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → ⚡ Calculation Trap — Watch for base-year shifts, percentage of vs percentage more than traps, and units conversion (km/h ➔ m/s) in time-speed-distance."
+      "content": "🎯 Exam Angle → ⚡ Percentage Comparison Trap: Always distinguish between *\"A is what percent of B\"* ((\frac{A}{B} \times 100)) versus *\"A is what percent MORE than B\"* ((\frac{A - B}{B} \times 100)). The denominator is ALWAYS the reference base following the word \"than\" or \"of\"!"
     }
   ],
   "metadata": {

@@ -2,68 +2,54 @@
   "id": "migrated-quant-qsec4-2",
   "type": "quant_topic",
   "domain": "quant",
-  "title": "2 Quadratic Equation Sign Table & Root Tricks",
-  "summary": "Quant — 4.2 Quadratic Equation Sign Table & Root Tricks",
+  "title": "Algebra & Quadratic Equations Masterclass (Sign Table & Root Comparisons)",
+  "summary": "Masterclass on quadratic equation root determination, master sign table heuristics, discriminant analysis, and root comparison shortcuts for Bank PO Mains...",
   "blocks": [
     {
-      "type": "comparison",
-      "title": "4.2 Quadratic Equation Sign Table & Root Tricks",
+      "id": "blk-qsec4-2-theory",
+      "type": "paragraph",
+      "content": "### 🧮 Quadratic Root Determination & Master Sign Table\n\nFor a standard quadratic equation (ax^2 + bx + c = 0) with roots (alpha, \beta):\n• Sum of roots: (alpha + \beta = -\frac{b}{a})\n• Product of roots: (alpha cdot \beta = \frac{c}{a})\n• Discriminant (D = b^2 - 4ac): Real & distinct ((D > 0)), Real & equal ((D = 0)), Complex/imaginary ((D < 0))."
+    },
+    {
+      "id": "blk-qsec4-2-table",
+      "type": "table",
       "headers": [
-        "Equation Form",
-        "b Sign",
-        "c Sign",
-        "Root 1 Sign",
-        "Root 2 Sign",
-        "Quick Memory Rule"
+        "Equation Signs (b, c)",
+        "Root Signs (α, β)",
+        "Mental Shortcut Rule",
+        "Direct Relation (x vs y)"
       ],
       "rows": [
         [
-          "x² + bx + c = 0",
-          "+",
-          "+",
-          "−",
-          "−",
-          "Both roots Negative"
+          "+ , + (e.g. x² + 7x + 12 = 0)",
+          "− , − (Both Negative)",
+          "Both roots negative",
+          "If y has (− , +) roots (+, +), then x < y directly!"
         ],
         [
-          "x² − bx + c = 0",
-          "−",
-          "+",
-          "+",
-          "+",
-          "Both roots Positive"
+          "− , + (e.g. x² − 7x + 12 = 0)",
+          "+ , + (Both Positive)",
+          "Both roots positive",
+          "If y has (+ , +) roots (−, −), then x > y directly!"
         ],
         [
-          "x² + bx − c = 0",
-          "+",
-          "−",
-          "−",
-          "+",
-          "Larger root Negative"
+          "+ , − (e.g. x² + x − 12 = 0)",
+          "− , + (Larger is Negative)",
+          "Opposite signs; |Negative| > Positive",
+          "If both eqns have c < 0, answer is ALWAYS CND (No Relation)!"
         ],
         [
-          "x² − bx − c = 0",
-          "−",
-          "−",
-          "+",
-          "−",
-          "Larger root Positive"
+          "− , − (e.g. x² − x − 12 = 0)",
+          "+ , − (Larger is Positive)",
+          "Opposite signs; |Positive| > Negative",
+          "If both eqns have c < 0, answer is ALWAYS CND (No Relation)!"
         ]
       ]
     },
     {
-      "type": "bullet_list",
-      "items": [
-        "**Quadratic comparison (two equations)**: find roots of both, compare all pairs; mixed relations → 'cannot be determined'.",
-        "**Fast factoring by inspection**: for x²+bx+c, find two numbers multiplying to c, adding to b.",
-        "**a+1/a expressions**: a²+1/a²=k²−2; a³+1/a³=k³−3k.",
-        "**a−1/a expressions**: a²+1/a²=k²+2; (a+1/a)²=(a−1/a)²+4."
-      ]
-    },
-    {
-      "id": "blk-migrated-quant-qsec4-2-exam-trap",
+      "id": "blk-qsec4-2-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → ⚡ Calculation Trap — Watch for base-year shifts, percentage of vs percentage more than traps, and units conversion (km/h ➔ m/s) in time-speed-distance."
+      "content": "🎯 Exam Angle → ⚡ 5-Second Quadratic Elimination Rules:\n1. **The Double Negative Constant Rule:** If the constant term (c) is negative in BOTH equations ((ax^2 + bx - c_1 = 0) and (py^2 + qy - c_2 = 0)), the roots will always be ((-, +)) and ((-, +)). The relationship can NEVER be determined ((x = y) or CND). Solve 0 steps!\n2. **Coefficient Normalization:** Never forget to divide the factorized roots by the leading coefficient (a), or cross-multiply the roots by the other equation's leading coefficient before comparing!"
     }
   ],
   "metadata": {

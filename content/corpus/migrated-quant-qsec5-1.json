@@ -2,23 +2,18 @@
   "id": "migrated-quant-qsec5-1",
   "type": "quant_topic",
   "domain": "quant",
-  "title": "1 Core Pattern Types",
-  "summary": "Quant — 5.1 Core Pattern Types",
+  "title": "Number Series & Pattern Recognition (Missing, Wrong Series & Polynomials)",
+  "summary": "Algorithmic step-difference decomposition, triangular difference patterns, alternating operations, and Fibonacci / Prime series identification...",
   "blocks": [
     {
-      "type": "bullet_list",
-      "items": [
-        "**Simple difference series**: constant diff (+5); increasing diff (+3,+5,+7); multiplicative (×3).",
-        "**Square/cube based**: n² (1,4,9,16,25); n²±k; n³±k.",
-        "**Alternating/mixed series**: two interleaved patterns — split into sub-series before finding the rule.",
-        "**Fibonacci-type**: each term = sum of previous two, or ± a constant.",
-        "**Wrong number series**: find pattern from majority of terms, spot the deviation; check both difference and ratio."
-      ]
+      "id": "blk-qsec5-1-theory",
+      "type": "paragraph",
+      "content": "### 🔢 Number Series Algorithmic Decomposition\n\n1. **The Difference-Tree Algorithm:**\n   • **Level 1 Difference ((Delta_1)):** If sequence grows slowly/linearly, compute consecutive differences.\n   • **Level 2 Difference ((Delta_2)):** If (Delta_1) is not constant, compute second differences. Constant (Delta_2 implies) underlying quadratic pattern ((an^2 + bn + c)).\n   • **Level 3 Difference ((Delta_3)):** Constant (Delta_3 implies) cubic pattern ((n^3 pm k)).\n2. **Multiplication & Addition Patterns ((\times k pm m)):**\n   • Observe ratio between adjacent high-value terms: (\frac{T_n}{T_{n-1}}). If ratio is approximately 2.5, 3, 3.5, 4, the pattern is (T_n = T_{n-1} \times k + f(n)).\n3. **Wrong Number Series Diagnostic:**\n   • In a single-error sequence, one incorrect term creates **TWO consecutive anomalous differences** in (Delta_1) and **THREE anomalous values** in (Delta_2). The term at the intersection of the anomaly is the wrong number!"
     },
     {
-      "id": "blk-migrated-quant-qsec5-1-exam-trap",
+      "id": "blk-qsec5-1-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → ⚡ Calculation Trap — Watch for base-year shifts, percentage of vs percentage more than traps, and units conversion (km/h ➔ m/s) in time-speed-distance."
+      "content": "🎯 Exam Angle → ⚡ Decimal Series Identification: When terms decrease slightly then expand rapidly (e.g. (10, 6, 7, 12, 26, 67.5)), immediately check the (\times 0.5 + 1), (\times 1 + 1), (\times 1.5 + 1.5), (\times 2 + 2) multiplier pattern."
     }
   ],
   "metadata": {

@@ -2,23 +2,18 @@
   "id": "migrated-quant-qsec7-1",
   "type": "quant_topic",
   "domain": "quant",
-  "title": "1 Core Formulas",
-  "summary": "Quant — 7.1 Core Formulas",
+  "title": "Modern Mathematics: Permutations, Combinations & Probability Theory",
+  "summary": "Rigorous theoretical framework covering Fundamental Counting Principles, circular arrangements, derangements, conditional probability, and Bayes Theorem...",
   "blocks": [
     {
-      "type": "bullet_list",
-      "items": [
-        "**Permutation (order matters)**: ⁿPr = n!/(n−r)!; arrangements of n distinct items = n!; with repetition allowed: nʳ.",
-        "**Combination (order doesn't matter)**: ⁿCr = n!/[r!(n−r)!]; ⁿCr = ⁿC(n−r); ⁿC0 = ⁿCn = 1.",
-        "**Repeated items / circular**: arrangement with repeats = n!/(p!×q!×...); circular arrangement of n items = (n−1)!; circular where clockwise=anticlockwise = (n−1)!/2.",
-        "**Basic probability**: P(event) = favorable/total; 0≤P(event)≤1; P(not A) = 1−P(A).",
-        "**Combined events**: P(A or B) = P(A)+P(B)−P(A and B); mutually exclusive: P(A or B)=P(A)+P(B); independent: P(A and B)=P(A)×P(B)."
-      ]
+      "id": "blk-qsec7-1-theory",
+      "type": "paragraph",
+      "content": "### 🎲 Combinatorics & Probability Invariants\n\n1. **Permutation vs Combination:**\n   • **Permutation ((P)):** Order matters. ({}^n P_r = \frac{n!}{(n-r)!}).\n   • **Combination ((C)):** Selection only, order does not matter. ({}^n C_r = \frac{n!}{r!(n-r)!}).\n   • Relationship: ({}^n P_r = r! \times {}^n C_r); ({}^n C_r = {}^n C_{n-r}).\n2. **Arrangement Invariants:**\n   • Linear arrangement of (n) distinct items = (n!).\n   • Linear arrangement with repetitions ((p, q, r)) = (\frac{n!}{p! cdot q! cdot r!}).\n   • Circular arrangement of (n) distinct persons = ((n - 1)!).\n   • Circular necklace/garland (clockwise = counterclockwise) = (\frac{(n - 1)!}{2}).\n3. **Probability Fundamentals:**\n   • (P(E) = \frac{n(E)}{n(S)}) where (0 le P(E) le 1).\n   • Addition Theorem: (P(A cup B) = P(A) + P(B) - P(A cap B)).\n   • Mutually Exclusive Events: (P(A cap B) = 0 implies P(A cup B) = P(A) + P(B)).\n   • Independent Events: (P(A cap B) = P(A) \times P(B)).\n   • At Least One Rule: (P(\text{at least one}) = 1 - P(\text{none}))."
     },
     {
-      "id": "blk-migrated-quant-qsec7-1-exam-trap",
+      "id": "blk-qsec7-1-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → ⚡ Calculation Trap — Watch for base-year shifts, percentage of vs percentage more than traps, and units conversion (km/h ➔ m/s) in time-speed-distance."
+      "content": "🎯 Exam Angle → ⚡ High-Yield Traps:\n1. **\"Together\" vs \"Never Together\":** To find items \"never together\", calculate (\text{Total Arrangements} - \text{Arrangements where they are together}) (Grouping Method).\n2. **Card Pack Proportions:** Standard 52-card deck = 4 suits of 13 cards each (2 Red: Hearts, Diamonds; 2 Black: Spades, Clubs). Face cards = 12 (4 Kings, 4 Queens, 4 Jacks). Aces are NOT face cards!"
     }
   ],
   "metadata": {

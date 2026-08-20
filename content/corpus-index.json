@@ -16585,8 +16585,8 @@
     "id": "migrated-quant-qsec1-1",
     "type": "quant_topic",
     "domain": "quant",
-    "title": "1 2D Shape Formulas & Applications",
-    "summary": "Quant — 1.1 2D Shape Formulas & Applications",
+    "title": "2D Geometry & Mensuration Masterclass (Plane Figures & Inscribed Systems)",
+    "summary": "Comprehensive 2D geometry masterclass covering perimeter, area, inradius, circumradius, concentric paths, and maximum area theorems with 3-tier solutions...",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -16616,8 +16616,8 @@
     "id": "migrated-quant-qsec1-2",
     "type": "quant_topic",
     "domain": "quant",
-    "title": "2 3D Solid Formulas & Worked Methods",
-    "summary": "Quant — 1.2 3D Solid Formulas & Worked Methods",
+    "title": "3D Solid Mensuration & Surface Topology (Cylinder, Cone, Sphere, Prism)",
+    "summary": "Exhaustive 3D solid geometry reference covering Curved Surface Area, Total Surface Area, Volume, melting and recasting invariants, and maximum cube in sphere...",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -16647,8 +16647,8 @@
     "id": "migrated-quant-qsec1-3",
     "type": "quant_topic",
     "domain": "quant",
-    "title": "3 Frustum & Combined Solids (Formulas & Method Worked Examples)",
-    "summary": "Quant — 1.3 Frustum & Combined Solids (Formulas & Method Worked Examples)",
+    "title": "Frustum of Cone, Pyramid & Combined 3D Solids (Advanced Mensuration)",
+    "summary": "Masterclass on truncated solids, Frustum slant heights, volume formulas, composite solids, and cavity drilling invariants with 3-tier solutions...",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -16678,8 +16678,8 @@
     "id": "migrated-quant-qsec1-4",
     "type": "quant_topic",
     "domain": "quant",
-    "title": "4 Mensuration Percentage Scale Shortcuts & Traps",
-    "summary": "Quant — 1.4 Mensuration Percentage Scale Shortcuts & Traps",
+    "title": "Mensuration Percentage Scaling Shortcuts & Dimensional Multipliers",
+    "summary": "Algebraic scaling matrix, successive percentage variations in 2D and 3D dimensions, and 5-second mental multipliers for radius/height shifts...",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -16740,8 +16740,8 @@
     "id": "migrated-quant-qsec2-1",
     "type": "quant_topic",
     "domain": "quant",
-    "title": "1 Core Formulas",
-    "summary": "Quant — 2.1 Core Formulas",
+    "title": "Arithmetic Mastery: Time & Work, Pipes, TSD, Boats, Alligation & Interest",
+    "summary": "Comprehensive arithmetic formulation guide covering Unitary LCM work models, relative speeds, circular tracks, compound interest shifts, and replacement formulas...",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -16771,8 +16771,8 @@
     "id": "migrated-quant-qsec2-2",
     "type": "quant_topic",
     "domain": "quant",
-    "title": "2 Arithmetic Shortcuts & Time-Work Tricks",
-    "summary": "Quant — 2.2 Arithmetic Shortcuts & Time-Work Tricks",
+    "title": "Advanced Arithmetic Shortcuts: LCM Models, Alligation, Dynamic Rates",
+    "summary": "Advanced tricks for man-woman-boy equivalence, negative work (leaks), escalator speed problems, and multi-vessel repeated alligation...",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -16833,8 +16833,8 @@
     "id": "migrated-quant-qsec3-1",
     "type": "quant_topic",
     "domain": "quant",
-    "title": "1 Core Concepts & Formats",
-    "summary": "Quant — 3.1 Core Concepts & Formats",
+    "title": "Data Interpretation Masterclass (Missing DI, Radar, Caselets, Funnel)",
+    "summary": "Comprehensive methodology for High-Level SBI PO Mains Data Interpretation, percentage base-shifts, tabular extraction, and caselet venn diagrams...",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -16957,8 +16957,8 @@
     "id": "migrated-quant-qsec4-2",
     "type": "quant_topic",
     "domain": "quant",
-    "title": "2 Quadratic Equation Sign Table & Root Tricks",
-    "summary": "Quant — 4.2 Quadratic Equation Sign Table & Root Tricks",
+    "title": "Algebra & Quadratic Equations Masterclass (Sign Table & Root Comparisons)",
+    "summary": "Masterclass on quadratic equation root determination, master sign table heuristics, discriminant analysis, and root comparison shortcuts for Bank PO Mains...",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -17019,8 +17019,8 @@
     "id": "migrated-quant-qsec5-1",
     "type": "quant_topic",
     "domain": "quant",
-    "title": "1 Core Pattern Types",
-    "summary": "Quant — 5.1 Core Pattern Types",
+    "title": "Number Series & Pattern Recognition (Missing, Wrong Series & Polynomials)",
+    "summary": "Algorithmic step-difference decomposition, triangular difference patterns, alternating operations, and Fibonacci / Prime series identification...",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -17112,8 +17112,8 @@
     "id": "migrated-quant-qsec6-1",
     "type": "quant_topic",
     "domain": "quant",
-    "title": "1 Core Evaluation Rules",
-    "summary": "Quant — 6.1 Core Evaluation Rules",
+    "title": "Data Sufficiency & Quantity Comparison (Q1 vs Q2 Decision Logic)",
+    "summary": "Decision-tree logic for Data Sufficiency statements, unique solution existence criteria, and Quantity 1 vs Quantity 2 algebraic comparisons...",
     "metadata": {
       "exam": [
         "Bank PO",
@@ -17205,8 +17205,8 @@
     "id": "migrated-quant-qsec7-1",
     "type": "quant_topic",
     "domain": "quant",
-    "title": "1 Core Formulas",
-    "summary": "Quant — 7.1 Core Formulas",
+    "title": "Modern Mathematics: Permutations, Combinations & Probability Theory",
+    "summary": "Rigorous theoretical framework covering Fundamental Counting Principles, circular arrangements, derangements, conditional probability, and Bayes Theorem...",
     "metadata": {
       "exam": [
         "Bank PO",

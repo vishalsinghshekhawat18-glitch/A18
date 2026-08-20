@@ -2,28 +2,18 @@
   "id": "migrated-quant-qsec2-2",
   "type": "quant_topic",
   "domain": "quant",
-  "title": "2 Arithmetic Shortcuts & Time-Work Tricks",
-  "summary": "Quant — 2.2 Arithmetic Shortcuts & Time-Work Tricks",
+  "title": "Advanced Arithmetic Shortcuts: LCM Models, Alligation, Dynamic Rates",
+  "summary": "Advanced tricks for man-woman-boy equivalence, negative work (leaks), escalator speed problems, and multi-vessel repeated alligation...",
   "blocks": [
     {
-      "type": "formula",
-      "latex": "\\text{Combined Time } T = \\frac{A \\times B}{A + B}",
-      "caption": "2.2 Arithmetic Shortcuts & Time-Work Tricks",
-      "explanation": "Shortcut for 2 workers completing a job in A and B days."
+      "id": "blk-qsec2-2-theory",
+      "type": "paragraph",
+      "content": "### ⚡ Advanced Arithmetic Problem Topologies\n\n1. **Men-Women-Children Equivalence:** If (a\text{ Men} = b\text{ Women} = c\text{ Children}), equate total daily work units to (\text{LCM}(a, b, c)) to find individual daily efficiencies in integer units.\n2. **Pipes with Variable Emptying Leaks:** Inflow rate (+x), Leak rate (-y). If leak empties the tank in (T) hours, its efficiency is negative. Net filling rate (= x - y).\n3. **Moving Walkways & Escalators:** Person speed (v_p), Escalator speed (v_e). Number of steps seen (N = (v_p pm v_e) \times t). If person walks up a moving-up escalator: Total steps (S = N_{\text{person}} \times left(1 + \frac{v_e}{v_p}\right))."
     },
     {
-      "type": "bullet_list",
-      "items": [
-        "**2-Year CI − SI Difference Shortcut:** $D_2 = P \\left(\\frac{R}{100}\\right)^2$.",
-        "**3-Year CI − SI Difference Shortcut:** $D_3 = P \\left(\\frac{R}{100}\\right)^2 \\left(\\frac{300 + R}{100}\\right) = D_2 \\times \\frac{300+R}{100}$.",
-        "**Time-Work LCM Method:** Assume total work = LCM of given completion days; Efficiency = $\\frac{\\text{Total Work}}{\\text{Days Taken}}$.",
-        "📝 **Worked Example (Time-Work LCM Method):** A takes 10 days and B takes 15 days to complete a job. How long will they take working together?\n*Method:* Recognize Time-Work $\\rightarrow$ Total Work = $\\text{LCM}(10, 15) = 30\\text{ units}$. Efficiency: $A = 3\\text{ units/day}, B = 2\\text{ units/day}$. Combined efficiency = $5\\text{ units/day} \\implies \\text{Time} = \\frac{30}{5} = 6\\text{ days}$."
-      ]
-    },
-    {
-      "id": "blk-migrated-quant-qsec2-2-exam-trap",
+      "id": "blk-qsec2-2-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → ⚡ Calculation Trap — Watch for base-year shifts, percentage of vs percentage more than traps, and units conversion (km/h ➔ m/s) in time-speed-distance."
+      "content": "🎯 Exam Angle → ⚡ Negative Work Trap: When a leak operates only during alternate hours, calculate the filling progress up to ((\text{Total Capacity} - \text{Inflow Rate})) first, because the tank becomes full during the positive inflow cycle before the leak can act again!"
     }
   ],
   "metadata": {
