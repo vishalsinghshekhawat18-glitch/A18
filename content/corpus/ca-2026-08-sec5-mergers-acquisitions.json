@@ -3,15 +3,20 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "Mergers & Acquisitions",
-  "summary": "Shivalik SFB completed acquisition of Delhi-based ManiBhavnam Home Finance India Pvt (~₹109 crore)....",
+  "summary": "Shivalik SFB completed acquisition of Delhi-based ManiBhavnam Home Finance India Pvt (~₹109 crore).",
   "blocks": [
     {
-      "id": "blk-60-bullets",
+      "id": "blk-56-bullets",
       "type": "bullet_list",
       "items": [
         "Shivalik SFB completed acquisition of Delhi-based ManiBhavnam Home Finance India Pvt (~₹109 crore).",
         "BofA–Jio Credit deal (see Section 3 for full detail — ₹18,268.22 cr / 49.9% stake)."
       ]
+    },
+    {
+      "id": "blk-56-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → Key data points, dates, and statutory provisions in Mergers & Acquisitions are critical for SBI PO Mains & RBI Grade B."
     }
   ],
   "metadata": {
@@ -31,13 +36,16 @@
     "difficulty": "advanced",
     "relevanceTier": "TIER_A",
     "noteTier": "TIER_A",
-    "date": "2026-08-02",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "monthLabel": "AUGUST 2026",
+    "monthGroup": "2026-08",
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
       "sourceTitle": "Mergers & Acquisitions"
     },
-    "noteNumber": 60
+    "noteNumber": 57
   },
   "relationships": []
 }

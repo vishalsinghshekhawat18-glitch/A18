@@ -3,17 +3,17 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "K. Rajaraman — IFSCA Chairperson tenure extended",
-  "summary": "Extended 27 months (beyond Jul 31, 2026, till Oct 24, 2028 or further orders, or till age 65); 1989-batch IAS (TN cadre); 1st appointed Aug 1, 2023...",
+  "summary": "Extended 27 months (beyond Jul 31, 2026, till Oct 24, 2028 or further orders, or till age 65); 1989-batch IAS (TN cadre); 1st appointed Aug 1, 2023.",
   "blocks": [
     {
-      "id": "blk-28-bullets",
+      "id": "blk-26-bullets",
       "type": "bullet_list",
       "items": [
-        "Extended 27 months (beyond Jul 31, 2026, till Oct 24, 2028 or further orders, or till age 65); 1989-batch IAS (TN cadre); 1st appointed Aug 1, 2023"
+        "Extended 27 months (beyond Jul 31, 2026, till Oct 24, 2028 or further orders, or till age 65); 1989-batch IAS (TN cadre); 1st appointed Aug 1, 2023."
       ]
     },
     {
-      "id": "blk-28-focus",
+      "id": "blk-26-trap",
       "type": "exam_trap",
       "content": "🎯 Exam Angle → HQ IFSCA: Gandhinagar | Estd: Apr 2020."
     }
@@ -35,13 +35,16 @@
     "difficulty": "advanced",
     "relevanceTier": "TIER_A",
     "noteTier": "TIER_A",
-    "date": "2026-08-08",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "monthLabel": "AUGUST 2026",
+    "monthGroup": "2026-08",
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
       "sourceTitle": "K. Rajaraman — IFSCA Chairperson tenure extended"
     },
-    "noteNumber": 26
+    "noteNumber": 27
   },
   "relationships": []
 }

@@ -3,20 +3,20 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "Indian Navy — Shipbuilding Cluster",
-  "summary": "**'Machilipatnam' (BY 529)** — 7th of 8 ASW SWC, Cochin Shipyard...",
+  "summary": "**'Machilipatnam' (BY 529)** — 7th of 8 ASW SWC, Cochin Shipyard.",
   "blocks": [
     {
-      "id": "blk-71-bullets",
+      "id": "blk-66-bullets",
       "type": "bullet_list",
       "items": [
-        "**'Machilipatnam' (BY 529)** — 7th of 8 ASW SWC, Cochin Shipyard",
-        "**'Nipun'** — 2nd indigenous Diving Support Vessel (Hindustan Shipyard); sister ship of 'Nistar' (1st, Jul 2025)",
-        "**'DSC A24 (Yard 329)'** — 5th & final DSC vessel, Titagarh (1st private WB shipyard for such vessels)",
-        "**INS 'Shruti'** — Navy's 2nd NGOPV, GRSE Kolkata (after 'Sanghmitra')"
+        "**'Machilipatnam' (BY 529)** — 7th of 8 ASW SWC, Cochin Shipyard.",
+        "**'Nipun'** — 2nd indigenous Diving Support Vessel (Hindustan Shipyard); sister ship of 'Nistar' (1st, Jul 2025).",
+        "**'DSC A24 (Yard 329)'** — 5th & final DSC vessel, Titagarh (1st private WB shipyard for such vessels).",
+        "**INS 'Shruti'** — Navy's 2nd NGOPV, GRSE Kolkata (after 'Sanghmitra')."
       ]
     },
     {
-      "id": "blk-71-focus",
+      "id": "blk-66-trap",
       "type": "exam_trap",
       "content": "🎯 Exam Angle → 🔥 HIGH — 4 distinct Navy vessel series this fortnight — don't confuse Machilipatnam (ASW SWC) vs Nipun (DSV) vs DSC A24 (DSC) vs INS Shruti (NGOPV)."
     }
@@ -38,13 +38,16 @@
     "difficulty": "advanced",
     "relevanceTier": "TIER_A",
     "noteTier": "TIER_A",
-    "date": "2026-08-09",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "monthLabel": "AUGUST 2026",
+    "monthGroup": "2026-08",
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
       "sourceTitle": "Indian Navy — Shipbuilding Cluster"
     },
-    "noteNumber": 70
+    "noteNumber": 67
   },
   "relationships": []
 }

@@ -1,0 +1,51 @@
+{
+  "id": "ca-2026-08-sec6-icar-develops-indias-1st-t2t-reference-genome",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "ICAR develops India's 1st T2T reference genome of pigeonpea (Arhar/Tur)",
+  "summary": "Variety **'Asha'**; 752.65 million base pairs across 92 contigs; all 11 chromosomes (11 centromeres + 22 telomeres); builds on ICAR-NIPB's earlier work.",
+  "blocks": [
+    {
+      "id": "blk-60-bullets",
+      "type": "bullet_list",
+      "items": [
+        "Variety **'Asha'**; 752.65 million base pairs across 92 contigs; all 11 chromosomes (11 centromeres + 22 telomeres); builds on ICAR-NIPB's earlier work.",
+        "Part of Mission for Aatmanirbharta in Pulses (2025-26 to 2030-31) — target 35 MT pulse production by 2030-31."
+      ]
+    },
+    {
+      "id": "blk-60-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → Pigeonpea = India's 2nd most important pulse; genome variety 'Asha'; mission target 35 MT by 2030-31."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-08",
+      "sec6",
+      "claude-core-v3"
+    ],
+    "category": "SEC6",
+    "sectionCode": "SEC6",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "monthLabel": "AUGUST 2026",
+    "monthGroup": "2026-08",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
+      "sourceTitle": "ICAR develops India's 1st T2T reference genome of pigeonpea (Arhar/Tur)"
+    },
+    "noteNumber": 61
+  },
+  "relationships": []
+}

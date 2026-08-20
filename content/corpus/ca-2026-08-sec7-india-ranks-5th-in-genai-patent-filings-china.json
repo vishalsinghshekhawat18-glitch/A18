@@ -3,19 +3,19 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "India ranks 5th in GenAI patent filings; China tops — WIPO report",
-  "summary": "Report: **SPARK: Patent Trends Update in GenAI** (WIPO)...",
+  "summary": "Report: **SPARK: Patent Trends Update in GenAI** (WIPO).",
   "blocks": [
     {
-      "id": "blk-82-bullets",
+      "id": "blk-75-bullets",
       "type": "bullet_list",
       "items": [
-        "Report: **SPARK: Patent Trends Update in GenAI** (WIPO)",
-        "India: 5th globally; 64% CAGR (2024–2025); published 929 patents in 2024-25 alone (~70% of the 1,350 filed in the entire 2014-2023 decade)",
-        "Rankings: **China — 43,383 patents (#1)** → USA (10% share) → Japan (6.5%) → South Korea (3.7%); India's global share: 2%"
+        "Report: **SPARK: Patent Trends Update in GenAI** (WIPO).",
+        "India: 5th globally; 64% CAGR (2024–2025); published 929 patents in 2024-25 alone (~70% of the 1,350 filed in the entire 2014-2023 decade).",
+        "Rankings: **China — 43,383 patents (#1)** → USA (10% share) → Japan (6.5%) → South Korea (3.7%); India's global share: 2%."
       ]
     },
     {
-      "id": "blk-82-focus",
+      "id": "blk-75-trap",
       "type": "exam_trap",
       "content": "🎯 Exam Angle → 🔥 HIGH — India ranks 5th; China's 43,383-patent dominance; India's 2% global share."
     }
@@ -37,13 +37,16 @@
     "difficulty": "advanced",
     "relevanceTier": "TIER_A",
     "noteTier": "TIER_A",
-    "date": "2026-08-02",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "monthLabel": "AUGUST 2026",
+    "monthGroup": "2026-08",
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
       "sourceTitle": "India ranks 5th in GenAI patent filings; China tops — WIPO report"
     },
-    "noteNumber": 82
+    "noteNumber": 76
   },
   "relationships": []
 }

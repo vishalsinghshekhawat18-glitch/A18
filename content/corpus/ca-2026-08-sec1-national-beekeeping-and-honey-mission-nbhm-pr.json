@@ -3,19 +3,26 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "National Beekeeping and Honey Mission (NBHM) progress",
-  "summary": "Honey production: 1,51,690 MT (2025-26), up from 80,530 MT (2014-15)...",
+  "summary": "Honey production: 1,51,690 MT (2025-26), up from 80,530 MT (2014-15).",
   "blocks": [
     {
-      "id": "blk-19-bullets",
+      "id": "blk-18-bullets",
       "type": "bullet_list",
       "items": [
-        "Honey production: 1,51,690 MT (2025-26), up from 80,530 MT (2014-15)",
-        "India = **2nd-largest honey exporter globally** (from 9th in 2020); exported 1.07 lakh MT worth $177.55M (FY24)",
-        "NBHM outlay ₹500 Cr (FY21–FY26), via National Bee Board"
+        "Honey production: 1,51,690 MT (2025-26), up from 80,530 MT (2014-15).",
+        "India = **2nd-largest honey exporter globally** (from 9th in 2020); exported 1.07 lakh MT worth $177.55M (FY24).",
+        "NBHM outlay ₹500 Cr (FY21–FY26), via National Bee Board **Quick Hits (Tier B+):**.",
+        "Flipkart Minutes launches private label **'Pykd'** — piloted Bengaluru; rivals: Blinkit \"Gourmet,\" Zepto \"Select,\" Swiggy Instamart \"Noice.\" FirstClub raised $55M Series B (Jun 2026). 🎯 Which co. launched Pykd? (Flipkart Minutes).",
+        "V.O. Chidambaranar Port (VOCPA) — **1st Indian port with ISO 50001:2018**; awarded by IRQS under Harit Sagar Green Port Guidelines; earlier: 1st Major Port with IGBC Platinum + BEE Shunya + Scope-2 emission-free. 🎯 🔥 HIGH — VOCPA \"firsts\" cluster.",
+        "MoPSW approves ₹334.89 Cr internal flyover, Visakhapatnam Port (3.584-km elevated corridor). Minister: Sarbananda Sonowal; MoS: Shantanu Thakur.",
+        "Gujarat approves 4 Centres of Excellence for natural farming — ₹20 Cr (2026-27); Navsari, Morbi, Bhavnagar, Chhota Udepur; agency: Gujarat Prakrutik Krishi Vikas Board.",
+        "Gross GST collections grew 15.4% to over ₹2.11 trillion (July 2026).",
+        "India's WPI moderated to 9.78% in July 2026 (from 9.87% in June).",
+        "India's Manufacturing GVA: FY26 growth 10.7%; CAGR 10.88% (FY23–FY26); HSBC Manufacturing PMI 53.5 (Jul 2026)."
       ]
     },
     {
-      "id": "blk-19-focus",
+      "id": "blk-18-trap",
       "type": "exam_trap",
       "content": "🎯 Exam Angle → 🔥 HIGH — India's global rank in honey exports."
     }
@@ -38,12 +45,15 @@
     "relevanceTier": "TIER_A",
     "noteTier": "TIER_A",
     "date": "2026-08-17",
+    "period": "2026-08",
+    "monthLabel": "AUGUST 2026",
+    "monthGroup": "2026-08",
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
       "sourceTitle": "National Beekeeping and Honey Mission (NBHM) progress"
     },
-    "noteNumber": 18
+    "noteNumber": 19
   },
   "relationships": []
 }

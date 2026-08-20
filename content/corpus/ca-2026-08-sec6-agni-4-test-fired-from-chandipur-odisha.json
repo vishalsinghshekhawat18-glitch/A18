@@ -3,17 +3,17 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "Agni-4 test-fired from Chandipur (Odisha)",
-  "summary": "Medium-range, nuclear-capable, surface-to-surface, solid-fuel; range up to **4,000 km**...",
+  "summary": "Medium-range, nuclear-capable, surface-to-surface, solid-fuel; range up to **4,000 km**.",
   "blocks": [
     {
-      "id": "blk-66-bullets",
+      "id": "blk-62-bullets",
       "type": "bullet_list",
       "items": [
-        "Medium-range, nuclear-capable, surface-to-surface, solid-fuel; range up to **4,000 km**"
+        "Medium-range, nuclear-capable, surface-to-surface, solid-fuel; range up to **4,000 km**."
       ]
     },
     {
-      "id": "blk-66-focus",
+      "id": "blk-62-trap",
       "type": "exam_trap",
       "content": "🎯 Exam Angle → 🔥 HIGH — Missile name + range (4,000 km)."
     }
@@ -35,13 +35,16 @@
     "difficulty": "advanced",
     "relevanceTier": "TIER_A",
     "noteTier": "TIER_A",
-    "date": "2026-08-04",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "monthLabel": "AUGUST 2026",
+    "monthGroup": "2026-08",
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
       "sourceTitle": "Agni-4 test-fired from Chandipur (Odisha)"
     },
-    "noteNumber": 66
+    "noteNumber": 63
   },
   "relationships": []
 }

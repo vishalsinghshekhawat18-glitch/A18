@@ -3,17 +3,17 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "Pradhan Mantri Surya Sarovar Yojana (PM-SSY)",
-  "summary": "Outlay ₹5,070 Cr; target 5,000 MW floating solar (>7x current 700 MW)...",
+  "summary": "Outlay ₹5,070 Cr; target 5,000 MW floating solar (>7x current 700 MW).",
   "blocks": [
     {
-      "id": "blk-92-bullets",
+      "id": "blk-87-bullets",
       "type": "bullet_list",
       "items": [
-        "Outlay ₹5,070 Cr; target 5,000 MW floating solar (>7x current 700 MW)"
+        "Outlay ₹5,070 Cr; target 5,000 MW floating solar (>7x current 700 MW)."
       ]
     },
     {
-      "id": "blk-92-focus",
+      "id": "blk-87-trap",
       "type": "exam_trap",
       "content": "🎯 Exam Angle → 🔥 HIGH."
     }
@@ -35,13 +35,16 @@
     "difficulty": "advanced",
     "relevanceTier": "TIER_A",
     "noteTier": "TIER_A",
-    "date": "2026-08-02",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "monthLabel": "AUGUST 2026",
+    "monthGroup": "2026-08",
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
-      "sourceTitle": "\"Pradhan Mantri Surya Sarovar Yojana (PM-SSY)\""
+      "sourceTitle": "Pradhan Mantri Surya Sarovar Yojana (PM-SSY)"
     },
-    "noteNumber": 93
+    "noteNumber": 88
   },
   "relationships": []
 }

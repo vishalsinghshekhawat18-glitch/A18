@@ -3,23 +3,23 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "IRDAI — Insurance regulatory package",
-  "summary": "Approved licence for **ProTec General Insurance** (JV: M. Pallonji Group + True North's Divya Sehgal) — IRDAI's **4th** insurance licence approval in CY2026...",
+  "summary": "Approved licence for **ProTec General Insurance** (JV: M. Pallonji Group + True North's Divya Sehgal) — IRDAI's **4th** insurance licence approval in CY2026.",
   "blocks": [
     {
-      "id": "blk-27-bullets",
+      "id": "blk-25-bullets",
       "type": "bullet_list",
       "items": [
-        "Approved licence for **ProTec General Insurance** (JV: M. Pallonji Group + True North's Divya Sehgal) — IRDAI's **4th** insurance licence approval in CY2026",
-        "Operationalised **Policyholders' Education & Protection Fund (PEPF)** under Sec 16A, IRDA Act 1999",
-        "Mandated tagging of authorised salespersons to every policy; replaced periodic intermediary licence renewal with perpetual registration + annual fee (non-refundable, higher of ₹10,000 or 0.04% of commission/receipts)",
-        "Marketing-firm principal officers/salespersons: ≥25 hrs training every 3 yrs",
-        "Insurers allowed to invest up to 20% in AA-rated+ operational infra SPVs; AIF/VCF/private-co cap: 3% (life) / 5% (general); promoter-group exposure capped at 5%; repo/G-sec lending capped at 25% or ₹10,000 cr (lower)",
-        "Amended regulations aligned with Sabka Bima Sabki Raksha Act, 2025 (100% FDI in insurers); approved new Penalties Regulations, 2026",
-        "HQ IRDAI: Hyderabad | Chairman: Ajay Seth | Estd: 1999"
+        "Approved licence for **ProTec General Insurance** (JV: M. Pallonji Group + True North's Divya Sehgal) — IRDAI's **4th** insurance licence approval in CY2026.",
+        "Operationalised **Policyholders' Education & Protection Fund (PEPF)** under Sec 16A, IRDA Act 1999.",
+        "Mandated tagging of authorised salespersons to every policy; replaced periodic intermediary licence renewal with perpetual registration + annual fee (non-refundable, higher of ₹10,000 or 0.04% of commission/receipts).",
+        "Marketing-firm principal officers/salespersons: ≥25 hrs training every 3 yrs.",
+        "Insurers allowed to invest up to 20% in AA-rated+ operational infra SPVs; AIF/VCF/private-co cap: 3% (life) / 5% (general); promoter-group exposure capped at 5%; repo/G-sec lending capped at 25% or ₹10,000 cr (lower).",
+        "Amended regulations aligned with Sabka Bima Sabki Raksha Act, 2025 (100% FDI in insurers); approved new Penalties Regulations, 2026.",
+        "HQ IRDAI: Hyderabad | Chairman: Ajay Seth | Estd: 1999."
       ]
     },
     {
-      "id": "blk-27-focus",
+      "id": "blk-25-trap",
       "type": "exam_trap",
       "content": "🎯 Exam Angle → ProTec = IRDAI's 4th 2026 licence; PEPF under Sec 16A IRDA Act 1999; training reqt (25 hrs/3 yrs); life vs general AIF/VCF caps (3% vs 5%)."
     }
@@ -41,13 +41,16 @@
     "difficulty": "advanced",
     "relevanceTier": "TIER_A",
     "noteTier": "TIER_A",
-    "date": "2026-08-07",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "monthLabel": "AUGUST 2026",
+    "monthGroup": "2026-08",
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
       "sourceTitle": "IRDAI — Insurance regulatory package"
     },
-    "noteNumber": 25
+    "noteNumber": 26
   },
   "relationships": []
 }

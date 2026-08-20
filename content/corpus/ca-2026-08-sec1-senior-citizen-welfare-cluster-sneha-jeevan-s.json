@@ -3,19 +3,19 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "Senior-citizen welfare cluster — SNEHA / JEEVAN / SHATAYU",
-  "summary": "Dr Virendra Kumar chaired 5th National Council for Senior Citizens meeting; launched e-book **'SNEHA'** (Stories of Nurturing, Engagement, Happiness and Active Ageing)...",
+  "summary": "Dr Virendra Kumar chaired 5th National Council for Senior Citizens meeting; launched e-book **'SNEHA'** (Stories of Nurturing, Engagement, Happiness and Active ...",
   "blocks": [
     {
-      "id": "blk-17-bullets",
+      "id": "blk-16-bullets",
       "type": "bullet_list",
       "items": [
-        "Dr Virendra Kumar chaired 5th National Council for Senior Citizens meeting; launched e-book **'SNEHA'** (Stories of Nurturing, Engagement, Happiness and Active Ageing)",
-        "**JEEVAN App** (Joint Elderly Empowerment & Virtual Assistance Network) — unified access to welfare schemes",
-        "**SHATAYU** (Senior Holistic Care Assistance & Training for Your Utility) — digital platform for trained geriatric caregivers (\"Ageing at Place\" principle)"
+        "Dr Virendra Kumar chaired 5th National Council for Senior Citizens meeting; launched e-book **'SNEHA'** (Stories of Nurturing, Engagement, Happiness and Active Ageing).",
+        "**JEEVAN App** (Joint Elderly Empowerment & Virtual Assistance Network) — unified access to welfare schemes.",
+        "**SHATAYU** (Senior Holistic Care Assistance & Training for Your Utility) — digital platform for trained geriatric caregivers (\"Ageing at Place\" principle)."
       ]
     },
     {
-      "id": "blk-17-focus",
+      "id": "blk-16-trap",
       "type": "exam_trap",
       "content": "🎯 Exam Angle → JEEVAN (scheme access) vs SHATAYU (caregiver services) — easy to mix up."
     }
@@ -38,12 +38,15 @@
     "relevanceTier": "TIER_A",
     "noteTier": "TIER_A",
     "date": "2026-08-17",
+    "period": "2026-08",
+    "monthLabel": "AUGUST 2026",
+    "monthGroup": "2026-08",
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
       "sourceTitle": "Senior-citizen welfare cluster — SNEHA / JEEVAN / SHATAYU"
     },
-    "noteNumber": 20
+    "noteNumber": 17
   },
   "relationships": []
 }

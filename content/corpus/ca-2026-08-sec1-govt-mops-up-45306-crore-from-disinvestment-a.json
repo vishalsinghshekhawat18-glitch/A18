@@ -1,0 +1,50 @@
+{
+  "id": "ca-2026-08-sec1-govt-mops-up-45306-crore-from-disinvestment-a",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Govt mops up ₹45,306 crore from disinvestment + asset monetisation (FY26)",
+  "summary": "FY26 actual ₹45,306 cr, beat FY26 RE of ₹33,837 cr; current FY budgeted target (Misc. Capital Receipts): ₹80,000 cr.",
+  "blocks": [
+    {
+      "id": "blk-14-bullets",
+      "type": "bullet_list",
+      "items": [
+        "FY26 actual ₹45,306 cr, beat FY26 RE of ₹33,837 cr; current FY budgeted target (Misc. Capital Receipts): ₹80,000 cr."
+      ]
+    },
+    {
+      "id": "blk-14-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → Actual vs RE before/after trap."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-08",
+      "sec1",
+      "claude-core-v3"
+    ],
+    "category": "SEC1",
+    "sectionCode": "SEC1",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-15",
+    "period": "2026-08",
+    "monthLabel": "AUGUST 2026",
+    "monthGroup": "2026-08",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
+      "sourceTitle": "Govt mops up ₹45,306 crore from disinvestment + asset monetisation (FY26)"
+    },
+    "noteNumber": 15
+  },
+  "relationships": []
+}

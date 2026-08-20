@@ -3,19 +3,19 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "Govt introduces MMDR Amendment Bill, 2026",
-  "summary": "Amends Mines and Minerals (Development & Regulation) Act, 1957...",
+  "summary": "Amends Mines and Minerals (Development & Regulation) Act, 1957.",
   "blocks": [
     {
-      "id": "blk-47-bullets",
+      "id": "blk-44-bullets",
       "type": "bullet_list",
       "items": [
-        "Amends Mines and Minerals (Development & Regulation) Act, 1957",
-        "**NMET** to be expanded/renamed National Mineral Exploration **and Development** Trust — will now fund mine/mineral development too",
-        "Captive mines' 50% annual sale cap proposed to be removed; deep-seated minerals (>200m) — one-time lease extension proposed (Composite licence up to 30%; Mining lease up to 10%)"
+        "Amends Mines and Minerals (Development & Regulation) Act, 1957.",
+        "**NMET** to be expanded/renamed National Mineral Exploration **and Development** Trust — will now fund mine/mineral development too.",
+        "Captive mines' 50% annual sale cap proposed to be removed; deep-seated minerals (>200m) — one-time lease extension proposed (Composite licence up to 30%; Mining lease up to 10%)."
       ]
     },
     {
-      "id": "blk-47-focus",
+      "id": "blk-44-trap",
       "type": "exam_trap",
       "content": "🎯 Exam Angle → Captive mine 50% cap removal; NMET renaming."
     }
@@ -37,13 +37,16 @@
     "difficulty": "advanced",
     "relevanceTier": "TIER_A",
     "noteTier": "TIER_A",
-    "date": "2026-08-05",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "monthLabel": "AUGUST 2026",
+    "monthGroup": "2026-08",
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
       "sourceTitle": "Govt introduces MMDR Amendment Bill, 2026"
     },
-    "noteNumber": 47
+    "noteNumber": 45
   },
   "relationships": []
 }

@@ -6,121 +6,12 @@
   "summary": "MoUs (table format)",
   "blocks": [
     {
-      "id": "blk-59-tbl1",
-      "type": "table",
-      "headers": [
-        "MoU Between",
-        "Purpose"
-      ],
-      "rows": [
-        [
-          "IIT Gandhinagar + IAIRO",
-          "AI research (IAIRO at GIFT City)"
-        ],
-        [
-          "FSID + C-DOT",
-          "New CoE at IISc Bengaluru — C-DOT's 5th CoE (after IIT Kanpur, Gandhinagar, Roorkee, Hyderabad)"
-        ],
-        [
-          "Ministry of Ayush + IndiaAI",
-          "AI-driven innovation across Ayush sector; AIKosh = India's national sovereign AI repository"
-        ],
-        [
-          "MoTA + CSIR-NBRI",
-          "Tribal bioresource conservation, 3-year partnership"
-        ],
-        [
-          "DAY-NRLM (MoRD) + PCI India",
-          "Women-led enterprise MoU (DAY-NRLM: 100.5 mn women, 9 mn SHGs)"
-        ],
-        [
-          "NSDC + AVPL International",
-          "Drone Technology skilling — 350 ASCs over 3 yrs (75 in Yr 1)"
-        ],
-        [
-          "C-DAC + Geological Survey of India",
-          "Geoscience/mineral exploration/disaster mgmt via AI+HPC"
-        ],
-        [
-          "Pawan Hans + Noemi Aerospace (Norway)",
-          "Electric seaplane tech"
-        ],
-        [
-          "Ministry of Culture+Tourism + Netflix",
-          "'As Seen on Netflix' section on Incredible India Portal"
-        ],
-        [
-          "Bajaj General Insurance + Swiss Re Corporate Solutions",
-          "Commercial insurance partnership"
-        ],
-        [
-          "DigiLocker (NeGD) + AAERI",
-          "Launch 'AAERI Verify'"
-        ],
-        [
-          "MoSPI + IDEAS Foundation + ISI Kolkata",
-          "GDP Nowcasting tool"
-        ],
-        [
-          "Lohia Aerospace + Massivit 3D (Israel)",
-          "India's 1st large-format 3D-printing composite tooling installation, Kanpur"
-        ],
-        [
-          "BEL + Esri India",
-          "GIS/GeoAI defence collaboration"
-        ],
-        [
-          "ASSOCHAM + Business France / IACCIA",
-          "Trade & investment MoUs"
-        ],
-        [
-          "GVMC + Government of Moscow",
-          "Smart city/urban transport MoC"
-        ],
-        [
-          "Jupiter Wagons + Lucchini RS (Italy)",
-          "India's 1st fully integrated private railwheel mfg platform — Odisha, ₹2,500 Cr"
-        ],
-        [
-          "DPIIT — 5 MoUs",
-          "Startup ecosystem: Cashfree, Darwin Dynamics, Vultr India, Cars24, Council for Startup India"
-        ],
-        [
-          "CCRAS + BIS",
-          "Ayush quality standards — BIS's 100th MoU overall, 1st with any Ayush body"
-        ],
-        [
-          "PMS Bazaar + NSDL Database Mgmt",
-          "SEBI Accredited Investor certification"
-        ],
-        [
-          "MSME Ministry + DPIIT",
-          "GI commercialisation/global access; strengthen ODOP"
-        ],
-        [
-          "DIBD + NITI Aayog",
-          "Multilingual voice-first AI (BHASHINI for Seva/Sanchalan) — 36 Indian text, 23 Indian voice, 35 international languages"
-        ],
-        [
-          "MakeMyTrip + Ministry of Tourism",
-          "Guided tours (heritage/culture/spirituality/cuisine)"
-        ],
-        [
-          "Paramotor Digital Technology + NSDL Payments Bank",
-          "Co-branded prepaid cards"
-        ],
-        [
-          "PNB + GYFTR Ltd",
-          "3-year rewards platform for PNB credit-card customers"
-        ],
-        [
-          "BSE + PHDCCI",
-          "MSME equity financing/capital-market access"
-        ]
-      ]
+      "id": "blk-55-table",
+      "type": "paragraph",
+      "content": "| MoU Between | Purpose |\n|---|---|\n| IIT Gandhinagar + IAIRO | AI research (IAIRO at GIFT City) |\n| FSID + C-DOT | New CoE at IISc Bengaluru — C-DOT's 5th CoE (after IIT Kanpur, Gandhinagar, Roorkee, Hyderabad) |\n| Ministry of Ayush + IndiaAI | AI-driven innovation across Ayush sector; AIKosh = India's national sovereign AI repository |\n| MoTA + CSIR-NBRI | Tribal bioresource conservation, 3-year partnership |\n| DAY-NRLM (MoRD) + PCI India | Women-led enterprise MoU (DAY-NRLM: 100.5 mn women, 9 mn SHGs) |\n| NSDC + AVPL International | Drone Technology skilling — 350 ASCs over 3 yrs (75 in Yr 1) |\n| C-DAC + Geological Survey of India | Geoscience/mineral exploration/disaster mgmt via AI+HPC |\n| Pawan Hans + Noemi Aerospace (Norway) | Electric seaplane tech |\n| Ministry of Culture+Tourism + Netflix | 'As Seen on Netflix' section on Incredible India Portal |\n| Bajaj General Insurance + Swiss Re Corporate Solutions | Commercial insurance partnership |\n| DigiLocker (NeGD) + AAERI | Launch 'AAERI Verify' |\n| MoSPI + IDEAS Foundation + ISI Kolkata | GDP Nowcasting tool |\n| Lohia Aerospace + Massivit 3D (Israel) | India's 1st large-format 3D-printing composite tooling installation, Kanpur |\n| BEL + Esri India | GIS/GeoAI defence collaboration |\n| ASSOCHAM + Business France / IACCIA | Trade & investment MoUs |\n| GVMC + Government of Moscow | Smart city/urban transport MoC |\n| Jupiter Wagons + Lucchini RS (Italy) | India's 1st fully integrated private railwheel mfg platform — Odisha, ₹2,500 Cr |\n| DPIIT — 5 MoUs | Startup ecosystem: Cashfree, Darwin Dynamics, Vultr India, Cars24, Council for Startup India |\n| CCRAS + BIS | Ayush quality standards — BIS's 100th MoU overall, 1st with any Ayush body |\n| PMS Bazaar + NSDL Database Mgmt | SEBI Accredited Investor certification |\n| MSME Ministry + DPIIT | GI commercialisation/global access; strengthen ODOP |\n| DIBD + NITI Aayog | Multilingual voice-first AI (BHASHINI for Seva/Sanchalan) — 36 Indian text, 23 Indian voice, 35 international languages |\n| MakeMyTrip + Ministry of Tourism | Guided tours (heritage/culture/spirituality/cuisine) |\n| Paramotor Digital Technology + NSDL Payments Bank | Co-branded prepaid cards |\n| PNB + GYFTR Ltd | 3-year rewards platform for PNB credit-card customers |\n| BSE + PHDCCI | MSME equity financing/capital-market access |"
     },
     {
-      "id": "blk-59-focus",
+      "id": "blk-55-trap",
       "type": "exam_trap",
       "content": "🎯 Exam Angle → 🔥 HIGH — India's 1st fully integrated private railwheel platform (Jupiter Wagons); BHASHINI's language trio (36/23/35); 'As Seen on Netflix' — frequent MCQ material."
     }
@@ -142,13 +33,16 @@
     "difficulty": "advanced",
     "relevanceTier": "TIER_A",
     "noteTier": "TIER_A",
-    "date": "2026-08-01",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "monthLabel": "AUGUST 2026",
+    "monthGroup": "2026-08",
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
       "sourceTitle": "MoUs (table format)"
     },
-    "noteNumber": 59
+    "noteNumber": 56
   },
   "relationships": []
 }

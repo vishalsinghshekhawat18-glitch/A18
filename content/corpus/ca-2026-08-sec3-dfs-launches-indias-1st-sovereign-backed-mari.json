@@ -1,0 +1,50 @@
+{
+  "id": "ca-2026-08-sec3-dfs-launches-indias-1st-sovereign-backed-mari",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "DFS launches India's 1st sovereign-backed maritime (P&I) insurance",
+  "summary": "Bharat Maritime Insurance Pool (BMIP), designed by New India Assurance; 1st policy to Shipping Corporation of India; indemnity up to $1.5 billion; operationalis...",
+  "blocks": [
+    {
+      "id": "blk-35-bullets",
+      "type": "bullet_list",
+      "items": [
+        "Bharat Maritime Insurance Pool (BMIP), designed by New India Assurance; 1st policy to Shipping Corporation of India; indemnity up to $1.5 billion; operationalised May 12, 2026."
+      ]
+    },
+    {
+      "id": "blk-35-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → BMIP = India's 1st sovereign-backed P&I product."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-08",
+      "sec3",
+      "claude-core-v3"
+    ],
+    "category": "SEC3",
+    "sectionCode": "SEC3",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "monthLabel": "AUGUST 2026",
+    "monthGroup": "2026-08",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
+      "sourceTitle": "DFS launches India's 1st sovereign-backed maritime (P&I) insurance"
+    },
+    "noteNumber": 36
+  },
+  "relationships": []
+}

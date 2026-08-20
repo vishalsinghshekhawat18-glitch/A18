@@ -3,18 +3,36 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "National Sports Awards 2025",
-  "summary": "Arjuna Award: 17 sportspersons + 1 Lifetime (I. Arumainayagam); Dronacharya: 3 regular + 2 lifetime; **Major Dhyan Chand Khel Ratna: No recipient this year**; Rashtriya Khel Protsahan Puruskar: Army Paralympic Node, Pune...",
+  "summary": "Arjuna Award: 17 sportspersons + 1 Lifetime (I. Arumainayagam); Dronacharya: 3 regular + 2 lifetime; **Major Dhyan Chand Khel Ratna: No recipient this year**; R...",
   "blocks": [
     {
-      "id": "blk-78-bullets",
+      "id": "blk-72-bullets",
       "type": "bullet_list",
       "items": [
-        "Arjuna Award: 17 sportspersons + 1 Lifetime (I. Arumainayagam); Dronacharya: 3 regular + 2 lifetime; **Major Dhyan Chand Khel Ratna: No recipient this year**; Rashtriya Khel Protsahan Puruskar: Army Paralympic Node, Pune",
-        "Arjuna Award instituted 1961; cash prize **₹15 lakh**"
+        "Arjuna Award: 17 sportspersons + 1 Lifetime (I. Arumainayagam); Dronacharya: 3 regular + 2 lifetime; **Major Dhyan Chand Khel Ratna: No recipient this year**; Rashtriya Khel Protsahan Puruskar: Army Paralympic Node, Pune.",
+        "Arjuna Award instituted 1961; cash prize **₹15 lakhQuick Hits — Sports:**.",
+        "Khelo India Scheme (expanded) + enhanced ANSF — Cabinet approval; combined outlay ₹36,441 Cr (~8x previous). 🎯 🔥 HIGH.",
+        "2026 ISSF World Cup, Hangzhou — India 3rd overall (1G-1S-2B).",
+        "Ajinkya Rahane — retirement (5,077 Test runs, 12 centuries).",
+        "2026 Fields Medals — Hong Wang = 3rd woman ever to win.",
+        "R. Praggnanandhaa wins Grand Chess Tour St. Louis Rapid & Blitz — 2nd in GCT standings (runner-up: Javokhir Sindarov).",
+        "Commonwealth Fencing Championships 2026, Lagos — India's historic overall win, 35 medals (13G-8S-14B); won Wilkinson Sword Trophy (awarded since 1982).",
+        "Harshita Jakhar (19) — 1st Indian woman to compete in Tour de France Femmes. 🎯 🔥 HIGH.",
+        "Ariha Pangambam (Manipur) — India's first-ever individual gold, Asian Aerobic Gymnastics Championships.",
+        "Biri Takar (Arunachal) — BWF Para World Circuit, Brazil (Gold Men's Doubles + Bronze Men's Singles).",
+        "Bonn Open 2026 — doubles title, Ramkumar Ramanathan & Vijay Sundar Prashanth.",
+        "Suraj Kumar Chand — first Indian gold in men's individual category, FISU World University Squash 2026.",
+        "India women's chess — top seed, FIDE Olympiad; India fencing — 29 medals, Commonwealth Fencing C'ship (cross-ref above).",
+        "FIH Hockey World Cup 2026 — new no-QF format.",
+        "Tomchou Meetei — Gold, Asian Junior Weightlifting C'ships (Men's Jr 60kg, 266kg).",
+        "World Athletics U-20 Championships — Basant Kumar Meghwal (Silver, High Jump), Ashish Yadav (Silver, Javelin), Shahnavaz Khan (Bronze, Long Jump).",
+        "Canadian Open Tennis 2026 — Iga Swiatek (W), Ben Shelton (M).",
+        "Esports World Cup Chess title 2026 — Magnus Carlsen, 2nd consecutive year.",
+        "Sports Ministry suspends recognition of Table Tennis Federation of India (TTFI) — governance issues."
       ]
     },
     {
-      "id": "blk-78-focus",
+      "id": "blk-72-trap",
       "type": "exam_trap",
       "content": "🎯 Exam Angle → 🔥 HIGH — No Khel Ratna recipient in 2025 — unusual, testable fact."
     }
@@ -36,13 +54,16 @@
     "difficulty": "advanced",
     "relevanceTier": "TIER_A",
     "noteTier": "TIER_A",
-    "date": "2026-08-16",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "monthLabel": "AUGUST 2026",
+    "monthGroup": "2026-08",
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
       "sourceTitle": "National Sports Awards 2025"
     },
-    "noteNumber": 78
+    "noteNumber": 73
   },
   "relationships": []
 }

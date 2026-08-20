@@ -3,23 +3,23 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "PM Modi — Andhra Pradesh visit: airport + South India's first chip plant",
-  "summary": "Inaugurated Alluri Sitarama Raju International Airport, Bhogapuram (₹5,000–5,640 Cr PPP — sources vary slightly) and laid foundation of AP's/South India's first semiconductor manufacturing facility.",
+  "summary": "Inaugurated Alluri Sitarama Raju International Airport, Bhogapuram (₹5,000–5,640 Cr PPP — sources vary slightly) and laid foundation of AP's/South India's first...",
   "blocks": [
     {
-      "id": "blk-45-hook",
+      "id": "blk-42-hook",
       "type": "paragraph",
       "content": "Inaugurated Alluri Sitarama Raju International Airport, Bhogapuram (₹5,000–5,640 Cr PPP — sources vary slightly) and laid foundation of AP's/South India's first semiconductor manufacturing facility."
     },
     {
-      "id": "blk-45-bullets",
+      "id": "blk-42-bullets",
       "type": "bullet_list",
       "items": [
-        "**ASIP Technologies'** ₹2,500 crore (one source cites ₹460 Cr) OSAT facility, Visakhapatnam, AP — first semiconductor plant in South India under India Semiconductor Mission (ISM 1.0); tech partner: South Korea's APACT Co",
-        "(Cost figures for both the airport and the chip plant differ slightly between source PDFs — flagging for verification; core \"firsts\" are consistent across both)"
+        "**ASIP Technologies'** ₹2,500 crore (one source cites ₹460 Cr) OSAT facility, Visakhapatnam, AP — first semiconductor plant in South India under India Semiconductor Mission (ISM 1.0); tech partner: South Korea's APACT Co.",
+        "(Cost figures for both the airport and the chip plant differ slightly between source PDFs — flagging for verification; core \"firsts\" are consistent across both)."
       ]
     },
     {
-      "id": "blk-45-focus",
+      "id": "blk-42-trap",
       "type": "exam_trap",
       "content": "🎯 Exam Angle → 🔥 HIGH — Bhogapuram airport + AP's 1st semiconductor facility — multi-fact cluster; verify exact cost figures closer to exam."
     }
@@ -41,13 +41,16 @@
     "difficulty": "advanced",
     "relevanceTier": "TIER_A",
     "noteTier": "TIER_A",
-    "date": "2026-08-03",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "monthLabel": "AUGUST 2026",
+    "monthGroup": "2026-08",
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
       "sourceTitle": "PM Modi — Andhra Pradesh visit: airport + South India's first chip plant"
     },
-    "noteNumber": 45
+    "noteNumber": 43
   },
   "relationships": []
 }

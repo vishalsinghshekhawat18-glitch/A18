@@ -6,21 +6,26 @@
   "summary": "**₹2,719.80 Cr** approved for 6 urban projects in Ahmedabad — part of Gujarat's ₹6,475 Cr UCF allocation.",
   "blocks": [
     {
-      "id": "blk-51-hook",
+      "id": "blk-48-hook",
       "type": "paragraph",
       "content": "**₹2,719.80 Cr** approved for 6 urban projects in Ahmedabad — part of Gujarat's ₹6,475 Cr UCF allocation."
     },
     {
-      "id": "blk-51-bullets",
+      "id": "blk-48-bullets",
       "type": "bullet_list",
       "items": [
-        "UCF: Central Assistance ₹1 lakh Cr, total investment target ₹4 lakh Cr (FY26-FY31)"
+        "UCF: Central Assistance ₹1 lakh Cr, total investment target ₹4 lakh Cr (FY26-FY31)."
       ]
     },
     {
-      "id": "blk-51-focus",
+      "id": "blk-48-interview",
+      "type": "paragraph",
+      "content": "💼 Interview Q → What is the Urban Challenge Fund? *A: A Centrally Sponsored Scheme (₹1 lakh Cr central assistance) approved Feb 2026 to drive ₹4 lakh Cr urban investment over FY26-31, with Centre funding up to 25% of project cost.*"
+    },
+    {
+      "id": "blk-48-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → 🔥 HIGH — UCF central assistance ₹1 lakh Cr; total investment target ₹4 lakh Cr.\n\n💼 Interview Q → What is the Urban Challenge Fund? *A: A Centrally Sponsored Scheme (₹1 lakh Cr central assistance) approved Feb 2026 to drive ₹4 lakh Cr urban investment over FY26-31, with Centre funding up to 25% of project cost.*"
+      "content": "🎯 Exam Angle → 🔥 HIGH — UCF central assistance ₹1 lakh Cr; total investment target ₹4 lakh Cr."
     }
   ],
   "metadata": {
@@ -40,13 +45,16 @@
     "difficulty": "advanced",
     "relevanceTier": "TIER_A",
     "noteTier": "TIER_A",
-    "date": "2026-08-09",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "monthLabel": "AUGUST 2026",
+    "monthGroup": "2026-08",
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
       "sourceTitle": "MoHUA — Urban Challenge Fund (UCF) projects for Ahmedabad"
     },
-    "noteNumber": 51
+    "noteNumber": 49
   },
   "relationships": []
 }

@@ -3,20 +3,20 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "World Bank reports — heat & AI",
-  "summary": "**\"A Livable Future\"** report: heat exposure cost India ~247 billion labour hours and $194 billion in potential income (2024); agriculture = 66% of lost hours; India = $1.6 trillion sustainable-cooling investment opportunity by 2040...",
+  "summary": "**\"A Livable Future\"** report: heat exposure cost India ~247 billion labour hours and $194 billion in potential income (2024); agriculture = 66% of lost hours; ...",
   "blocks": [
     {
-      "id": "blk-84-bullets",
+      "id": "blk-77-bullets",
       "type": "bullet_list",
       "items": [
-        "**\"A Livable Future\"** report: heat exposure cost India ~247 billion labour hours and $194 billion in potential income (2024); agriculture = 66% of lost hours; India = $1.6 trillion sustainable-cooling investment opportunity by 2040",
+        "**\"A Livable Future\"** report: heat exposure cost India ~247 billion labour hours and $194 billion in potential income (2024); agriculture = 66% of lost hours; India = $1.6 trillion sustainable-cooling investment opportunity by 2040.",
         "**World Development Report 2026 — \"The Promise of AI\"**: only 4.5% of jobs in LMICs at automation risk (vs 14.2% high-income).",
         "AI could raise productivity in 16.2% of developing-country jobs (vs 18.7% high-income).",
         "India: AI weather forecasts saved Telangana farmers up to $560 each."
       ]
     },
     {
-      "id": "blk-84-focus",
+      "id": "blk-77-trap",
       "type": "exam_trap",
       "content": "🎯 Exam Angle → 🔥 HIGH — $194 bn income loss + 247 bn labour hours; 4.5% vs 14.2% automation-risk pair — genuine confusion trap vs the 16.2%/18.7% productivity-gain figures."
     }
@@ -38,13 +38,16 @@
     "difficulty": "advanced",
     "relevanceTier": "TIER_A",
     "noteTier": "TIER_A",
-    "date": "2026-08-04",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "monthLabel": "AUGUST 2026",
+    "monthGroup": "2026-08",
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
       "sourceTitle": "World Bank reports — heat & AI"
     },
-    "noteNumber": 84
+    "noteNumber": 78
   },
   "relationships": []
 }

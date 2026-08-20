@@ -3,17 +3,17 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "Standard Chartered gets IFSCA in-principle approval at GIFT City",
-  "summary": "For distribution of capital market products (wealth management); **1st foreign bank at GIFT City** (2020); joins HSBC in retail wealth from IFSC...",
+  "summary": "For distribution of capital market products (wealth management); **1st foreign bank at GIFT City** (2020); joins HSBC in retail wealth from IFSC.",
   "blocks": [
     {
-      "id": "blk-29-bullets",
+      "id": "blk-27-bullets",
       "type": "bullet_list",
       "items": [
-        "For distribution of capital market products (wealth management); **1st foreign bank at GIFT City** (2020); joins HSBC in retail wealth from IFSC"
+        "For distribution of capital market products (wealth management); **1st foreign bank at GIFT City** (2020); joins HSBC in retail wealth from IFSC."
       ]
     },
     {
-      "id": "blk-29-focus",
+      "id": "blk-27-trap",
       "type": "exam_trap",
       "content": "🎯 Exam Angle → \"1st foreign bank at GIFT City\" — Standard Chartered."
     }
@@ -35,13 +35,16 @@
     "difficulty": "advanced",
     "relevanceTier": "TIER_A",
     "noteTier": "TIER_A",
-    "date": "2026-08-09",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "monthLabel": "AUGUST 2026",
+    "monthGroup": "2026-08",
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
       "sourceTitle": "Standard Chartered gets IFSCA in-principle approval at GIFT City"
     },
-    "noteNumber": 27
+    "noteNumber": 28
   },
   "relationships": []
 }

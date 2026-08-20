@@ -3,10 +3,10 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "State News",
-  "summary": "**Maharashtra** — Eco-Nature Park at Thane Creek Flamingo Sanctuary, ₹45 Cr — India's 1st AI-powered bird detection & monitoring centre. 🎯 CM: Devendra Fadnavis....",
+  "summary": "**Maharashtra** — Eco-Nature Park at Thane Creek Flamingo Sanctuary, ₹45 Cr — India's 1st AI-powered bird detection & monitoring centre. 🎯 CM: Devendra Fadnavi...",
   "blocks": [
     {
-      "id": "blk-57-bullets",
+      "id": "blk-53-bullets",
       "type": "bullet_list",
       "items": [
         "**Maharashtra** — Eco-Nature Park at Thane Creek Flamingo Sanctuary, ₹45 Cr — India's 1st AI-powered bird detection & monitoring centre. 🎯 CM: Devendra Fadnavis.",
@@ -16,6 +16,11 @@
         "Largest Dhimsa dance — Guinness World Record: 13,000+ tribal women/girls at Bhogapuram Airport, AP (dance originates Koraput, Odisha).",
         "India's first virtual zoo — Indore, MP."
       ]
+    },
+    {
+      "id": "blk-53-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → Key data points, dates, and statutory provisions in State News are critical for SBI PO Mains & RBI Grade B."
     }
   ],
   "metadata": {
@@ -35,13 +40,16 @@
     "difficulty": "advanced",
     "relevanceTier": "TIER_A",
     "noteTier": "TIER_A",
-    "date": "2026-08-15",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "monthLabel": "AUGUST 2026",
+    "monthGroup": "2026-08",
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
       "sourceTitle": "State News"
     },
-    "noteNumber": 58
+    "noteNumber": 54
   },
   "relationships": []
 }

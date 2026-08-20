@@ -3,21 +3,21 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "MHA — border security & administrative measures cluster",
-  "summary": "MHA border security guidelines: bans renewable energy projects within **1 km** of LoC/LAC/IB; 50-km \"sensitive area\"...",
+  "summary": "MHA border security guidelines: bans renewable energy projects within **1 km** of LoC/LAC/IB; 50-km \"sensitive area\".",
   "blocks": [
     {
-      "id": "blk-54-bullets",
+      "id": "blk-51-bullets",
       "type": "bullet_list",
       "items": [
-        "MHA border security guidelines: bans renewable energy projects within **1 km** of LoC/LAC/IB; 50-km \"sensitive area\"",
-        "MHA fugitive-criminal repatriation: 274 fugitives from 36 countries (2019-2026); BHARATPOL (Jan 2025) cut info-sharing time to 3-10 days",
-        "MHA notifies 11 more e-visa international ports — total now **88** ports (37 airports incl. Bhopal & Tirupati, 38 seaports, 13 land ports)",
-        "\"One Officer, One Official Car\" policy (Dept of Expenditure) — personal travel capped at 500 km/month for ₹3,000/month",
-        "Census 2027 — Union Home Ministry notified the **40 questions** enumerators will ask in the population enumeration phase"
+        "MHA border security guidelines: bans renewable energy projects within **1 km** of LoC/LAC/IB; 50-km \"sensitive area\".",
+        "MHA fugitive-criminal repatriation: 274 fugitives from 36 countries (2019-2026); BHARATPOL (Jan 2025) cut info-sharing time to 3-10 days.",
+        "MHA notifies 11 more e-visa international ports — total now **88** ports (37 airports incl. Bhopal & Tirupati, 38 seaports, 13 land ports).",
+        "\"One Officer, One Official Car\" policy (Dept of Expenditure) — personal travel capped at 500 km/month for ₹3,000/month.",
+        "Census 2027 — Union Home Ministry notified the **40 questions** enumerators will ask in the population enumeration phase."
       ]
     },
     {
-      "id": "blk-54-focus",
+      "id": "blk-51-trap",
       "type": "exam_trap",
       "content": "🎯 Exam Angle → 🔥 HIGH — Census 2027's 40-question set; e-visa ports total 88."
     }
@@ -39,13 +39,16 @@
     "difficulty": "advanced",
     "relevanceTier": "TIER_A",
     "noteTier": "TIER_A",
-    "date": "2026-08-12",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "monthLabel": "AUGUST 2026",
+    "monthGroup": "2026-08",
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
       "sourceTitle": "MHA — border security & administrative measures cluster"
     },
-    "noteNumber": 55
+    "noteNumber": 52
   },
   "relationships": []
 }

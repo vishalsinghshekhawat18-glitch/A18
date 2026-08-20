@@ -3,18 +3,28 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "Private space-launch cluster",
-  "summary": "Skyroot Aerospace + HEX20 — Multi-Launch Agreement; **Skyroot's Vikram-1 = India's 1st privately-developed orbital-class rocket** (Jul 2026)...",
+  "summary": "Skyroot Aerospace + HEX20 — Multi-Launch Agreement; **Skyroot's Vikram-1 = India's 1st privately-developed orbital-class rocket** (Jul 2026).",
   "blocks": [
     {
-      "id": "blk-69-bullets",
+      "id": "blk-65-bullets",
       "type": "bullet_list",
       "items": [
-        "Skyroot Aerospace + HEX20 — Multi-Launch Agreement; **Skyroot's Vikram-1 = India's 1st privately-developed orbital-class rocket** (Jul 2026)",
-        "VinSpace (Vietnam) + SpaceX — Vietnam's 1st privately-funded commercial satellite mission"
+        "Skyroot Aerospace + HEX20 — Multi-Launch Agreement; **Skyroot's Vikram-1 = India's 1st privately-developed orbital-class rocket** (Jul 2026).",
+        "VinSpace (Vietnam) + SpaceX — Vietnam's 1st privately-funded commercial satellite mission **Quick Hits — Sci-Tech (Tier B/C):**.",
+        "PM Modi inaugurates \"Param Pragya\" supercomputer — IIT Delhi's Sonipat campus, Haryana. 🎯 Don't confuse with Param Shakti (IIT Madras, earlier 2026).",
+        "Prakriti Gyan Dham — CSIR-NBRI's 1st Eco-Educational Hub, Banthra, Lucknow.",
+        "Himalayan Chandra Telescope (Hanle, Ladakh) marks 25 years — operated by IIA, named after Subrahmanyan Chandrasekhar, under DST.",
+        "INST Mohali + BARC — nanobots for breast cancer therapy.",
+        "I4C advisory — \"Boss Scam\"/CEO Impersonation Fraud (WhatsApp Web hijack via Trojan) — I4C helpline \"1930,\" handle \"CyberDost.\".",
+        "IBM partners with MIT Bengaluru & CHRIST University — 2 AI centres.",
+        "NVIDIA + 35 firms — \"Open Secure AI Alliance\" — notably absent: OpenAI, Anthropic, Google, Meta.",
+        "IN-SPACe — India's 1st mandatory space object re-entry framework — casualty risk cap 1 in 10,000.",
+        "LegRAA & Digital Courts 2.1 — AI tools for judiciary; LegRAA trained on 36,000+ SC judgments; both in pilot phase (₹53.57 Cr earmarked).",
+        "World's largest electric aircraft completes first flight — Heart Aerospace X1 (Sweden-founded), maiden flight New York."
       ]
     },
     {
-      "id": "blk-69-focus",
+      "id": "blk-65-trap",
       "type": "exam_trap",
       "content": "🎯 Exam Angle → 🔥 HIGH — \"Vikram-1 = India's 1st private orbital-class rocket.\""
     }
@@ -36,13 +46,16 @@
     "difficulty": "advanced",
     "relevanceTier": "TIER_A",
     "noteTier": "TIER_A",
-    "date": "2026-08-07",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "monthLabel": "AUGUST 2026",
+    "monthGroup": "2026-08",
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
       "sourceTitle": "Private space-launch cluster"
     },
-    "noteNumber": 68
+    "noteNumber": 66
   },
   "relationships": []
 }

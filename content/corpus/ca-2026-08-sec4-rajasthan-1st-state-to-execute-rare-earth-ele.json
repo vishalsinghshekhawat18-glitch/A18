@@ -3,17 +3,17 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "Rajasthan — 1st state to execute Rare Earth Elements (REE) Exploration Licence",
-  "summary": "207.63 sq km (Balotra & Jodhpur districts) to CMPDI; REEs: Lanthanum, Cerium, Praseodymium, Neodymium...",
+  "summary": "207.63 sq km (Balotra & Jodhpur districts) to CMPDI; REEs: Lanthanum, Cerium, Praseodymium, Neodymium.",
   "blocks": [
     {
-      "id": "blk-48-bullets",
+      "id": "blk-45-bullets",
       "type": "bullet_list",
       "items": [
-        "207.63 sq km (Balotra & Jodhpur districts) to CMPDI; REEs: Lanthanum, Cerium, Praseodymium, Neodymium"
+        "207.63 sq km (Balotra & Jodhpur districts) to CMPDI; REEs: Lanthanum, Cerium, Praseodymium, Neodymium."
       ]
     },
     {
-      "id": "blk-48-focus",
+      "id": "blk-45-trap",
       "type": "exam_trap",
       "content": "🎯 Exam Angle → 🔥 HIGH — Rajasthan = 1st state to operationalise auctioned REE exploration licence."
     }
@@ -35,13 +35,16 @@
     "difficulty": "advanced",
     "relevanceTier": "TIER_A",
     "noteTier": "TIER_A",
-    "date": "2026-08-06",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "monthLabel": "AUGUST 2026",
+    "monthGroup": "2026-08",
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
       "sourceTitle": "Rajasthan — 1st state to execute Rare Earth Elements (REE) Exploration Licence"
     },
-    "noteNumber": 48
+    "noteNumber": 46
   },
   "relationships": []
 }

@@ -3,17 +3,17 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "BIMCO-ICS Seafarer Workforce Report 2026",
-  "summary": "India: 5th (2015) → **2nd-largest seafarer supplier globally** (2026), behind Philippines...",
+  "summary": "India: 5th (2015) → **2nd-largest seafarer supplier globally** (2026), behind Philippines.",
   "blocks": [
     {
-      "id": "blk-81-bullets",
+      "id": "blk-74-bullets",
       "type": "bullet_list",
       "items": [
-        "India: 5th (2015) → **2nd-largest seafarer supplier globally** (2026), behind Philippines"
+        "India: 5th (2015) → **2nd-largest seafarer supplier globally** (2026), behind Philippines."
       ]
     },
     {
-      "id": "blk-81-focus",
+      "id": "blk-74-trap",
       "type": "exam_trap",
       "content": "🎯 Exam Angle → 🔥 HIGH — India's global seafarer-supply rank."
     }
@@ -35,13 +35,16 @@
     "difficulty": "advanced",
     "relevanceTier": "TIER_A",
     "noteTier": "TIER_A",
-    "date": "2026-08-01",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "monthLabel": "AUGUST 2026",
+    "monthGroup": "2026-08",
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
       "sourceTitle": "BIMCO-ICS Seafarer Workforce Report 2026"
     },
-    "noteNumber": 81
+    "noteNumber": 75
   },
   "relationships": []
 }

@@ -1,0 +1,56 @@
+{
+  "id": "ca-2026-08-sec5-conferences",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "Conferences",
+  "summary": "GI and Beyond 2.0 Summit, New Delhi — Ministry of Textiles + HEPC.",
+  "blocks": [
+    {
+      "id": "blk-57-bullets",
+      "type": "bullet_list",
+      "items": [
+        "GI and Beyond 2.0 Summit, New Delhi — Ministry of Textiles + HEPC.",
+        "Global AI & Digital Summit, Seoul — World Bank + South Korea govt; Haryana's AI Sandbox to be showcased (19-22 Oct 2026).",
+        "9th India Medical Device 2026, New Delhi — Dept of Pharmaceuticals + FICCI.",
+        "2nd National Port Security Conference 2026 — highlighted e-Samudra, Maritime Single Window, One Nation One Port Process (three distinct port-digitalisation platforms — don't confuse).",
+        "UNCCD COP17, Ulaanbaatar, Mongolia — theme \"Restoring Land. Restoring Hope.\".",
+        "3rd India International FinTech Festival — India crossed 1,000 km of secure quantum communication; NQM's 4 verticals: Computing, Communication, Sensing, Materials.",
+        "PSB Conclave (2-day), 17–18 Aug 2026, New Delhi — DFS, Ministry of Finance."
+      ]
+    },
+    {
+      "id": "blk-57-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → Key data points, dates, and statutory provisions in Conferences are critical for SBI PO Mains & RBI Grade B."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-08",
+      "sec5",
+      "claude-core-v3"
+    ],
+    "category": "SEC5",
+    "sectionCode": "SEC5",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "monthLabel": "AUGUST 2026",
+    "monthGroup": "2026-08",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
+      "sourceTitle": "Conferences"
+    },
+    "noteNumber": 58
+  },
+  "relationships": []
+}

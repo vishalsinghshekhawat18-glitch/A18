@@ -3,19 +3,19 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "Sqn Ldr Bhawana Kanth — 1st Woman IAF Fighter Combat Leader",
-  "summary": "At TACDE, Gwalior, after 20-week training; also 1st woman fighter pilot for day-combat missions (2019) & 1st in IAF RD contingent (2021)...",
+  "summary": "At TACDE, Gwalior, after 20-week training; also 1st woman fighter pilot for day-combat missions (2019) & 1st in IAF RD contingent (2021).",
   "blocks": [
     {
-      "id": "blk-80-bullets",
+      "id": "blk-73-bullets",
       "type": "bullet_list",
       "items": [
-        "At TACDE, Gwalior, after 20-week training; also 1st woman fighter pilot for day-combat missions (2019) & 1st in IAF RD contingent (2021)",
+        "At TACDE, Gwalior, after 20-week training; also 1st woman fighter pilot for day-combat missions (2019) & 1st in IAF RD contingent (2021).",
         "Tarun Chugh (MD & CEO, Bajaj Life Insurance) — highest-paid life-insurer CEO in FY26, remuneration ₹33.66 crore.",
         "D.Y. Chandrachud (former CJI) appointed by Russia as arbitrator in Ukraine's Oschadbank investment-treaty dispute."
       ]
     },
     {
-      "id": "blk-80-focus",
+      "id": "blk-73-trap",
       "type": "exam_trap",
       "content": "🎯 Exam Angle → 🔥 HIGH — Layered \"firsts\" for a single named person."
     }
@@ -38,12 +38,15 @@
     "relevanceTier": "TIER_A",
     "noteTier": "TIER_A",
     "date": "2026-08-17",
+    "period": "2026-08",
+    "monthLabel": "AUGUST 2026",
+    "monthGroup": "2026-08",
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
-      "sourceTitle": "Sqn Ldr Bhawana Kanth — 1st woman IAF officer to complete Fighter Combat Leader (FCL)/\"Top Gun\" course"
+      "sourceTitle": "Sqn Ldr Bhawana Kanth — 1st woman IAF officer to complete Fighter Combat Leader (FCL)/Top Gun course"
     },
-    "noteNumber": 80
+    "noteNumber": 74
   },
   "relationships": []
 }

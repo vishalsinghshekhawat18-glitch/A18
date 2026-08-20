@@ -3,17 +3,17 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "International Affairs",
-  "summary": "**Nauru renamed \"Republic of Naoero\"** — world's 3rd-smallest country by area (after Tuvalu, Vatican City); currency remains Australian Dollar....",
+  "summary": "**Nauru renamed \"Republic of Naoero\"** — world's 3rd-smallest country by area (after Tuvalu, Vatican City); currency remains Australian Dollar.",
   "blocks": [
     {
-      "id": "blk-58-bullets",
+      "id": "blk-54-bullets",
       "type": "bullet_list",
       "items": [
         "**Nauru renamed \"Republic of Naoero\"** — world's 3rd-smallest country by area (after Tuvalu, Vatican City); currency remains Australian Dollar.",
         "**Venezuela withdraws from Rome Statute (ICC)** — effective 1 yr after UN notification.",
         "**Typhoon Dolphin hits China** (Zhejiang/Hubei — sources vary) — winds >150 km/h; named after Hong Kong's Chinese white dolphin.",
         "**Lebanon abolishes death penalty** — first Arab-world country to do so; replaced with life imprisonment + hard labour.",
-        "**Fitch Ratings affirms India's sovereign rating at 'BBB-', stable outlook.**",
+        "**Fitch Ratings affirms India's sovereign rating at 'BBB-', stable outlook.**.",
         "FAO Food Price Index hits 3-year high — 131.1 points, July 2026 (FAO: Est. 1945, HQ Rome, DG Qu Dongyu).",
         "IEA: Critical mineral demand to surge through 2040 — needs >$750 billion investment by 2040.",
         "US-India AI collaboration for soybean breeding — $528,137 NSF funding + MeitY, runs Oct 2026–Sep 2029.",
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "id": "blk-58-focus",
+      "id": "blk-54-trap",
       "type": "exam_trap",
       "content": "🎯 Exam Angle → 🔥 HIGH — Fitch's 'BBB-' stable rating for India — cross-check against other agencies' ratings."
     }
@@ -43,13 +43,16 @@
     "difficulty": "advanced",
     "relevanceTier": "TIER_A",
     "noteTier": "TIER_A",
-    "date": "2026-08-11",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "monthLabel": "AUGUST 2026",
+    "monthGroup": "2026-08",
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
       "sourceTitle": "International Affairs"
     },
-    "noteNumber": 53
+    "noteNumber": 55
   },
   "relationships": []
 }

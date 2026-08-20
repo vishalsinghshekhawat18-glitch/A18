@@ -3,17 +3,17 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "Prof. Annapurni Subramaniam wins COSPAR Vikram Sarabhai Medal 2026",
-  "summary": "**1st Indian woman & 4th Indian overall** to win (past: U.R. Rao 1996, Gurbax Singh Lakhina 2014, Anil Bharadwaj 2024); 3rd woman globally; awarded at 46th COSPAR Assembly, Florence, Italy...",
+  "summary": "**1st Indian woman & 4th Indian overall** to win (past: U.R. Rao 1996, Gurbax Singh Lakhina 2014, Anil Bharadwaj 2024); 3rd woman globally; awarded at 46th COSP...",
   "blocks": [
     {
-      "id": "blk-83-bullets",
+      "id": "blk-76-bullets",
       "type": "bullet_list",
       "items": [
-        "**1st Indian woman & 4th Indian overall** to win (past: U.R. Rao 1996, Gurbax Singh Lakhina 2014, Anil Bharadwaj 2024); 3rd woman globally; awarded at 46th COSPAR Assembly, Florence, Italy"
+        "**1st Indian woman & 4th Indian overall** to win (past: U.R. Rao 1996, Gurbax Singh Lakhina 2014, Anil Bharadwaj 2024); 3rd woman globally; awarded at 46th COSPAR Assembly, Florence, Italy."
       ]
     },
     {
-      "id": "blk-83-focus",
+      "id": "blk-76-trap",
       "type": "exam_trap",
       "content": "🎯 Exam Angle → 🔥 HIGH — Strong \"first.\""
     }
@@ -35,13 +35,16 @@
     "difficulty": "advanced",
     "relevanceTier": "TIER_A",
     "noteTier": "TIER_A",
-    "date": "2026-08-03",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "monthLabel": "AUGUST 2026",
+    "monthGroup": "2026-08",
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
       "sourceTitle": "Prof. Annapurni Subramaniam wins COSPAR Vikram Sarabhai Medal 2026"
     },
-    "noteNumber": 83
+    "noteNumber": 77
   },
   "relationships": []
 }

@@ -1,0 +1,51 @@
+{
+  "id": "ca-2026-08-sec1-sc-directs-rbiirdai-on-mule-accounts-fuel-ins",
+  "type": "ca_note",
+  "domain": "current-affairs",
+  "title": "SC directs RBI/IRDAI on mule accounts & fuel-insurance linkage",
+  "summary": "SC directed RBI to prepare SOP for mule accounts; RBI's existing tool: **MuleHunter.AI** (with I4C).",
+  "blocks": [
+    {
+      "id": "blk-5-bullets",
+      "type": "bullet_list",
+      "items": [
+        "SC directed RBI to prepare SOP for mule accounts; RBI's existing tool: **MuleHunter.AI** (with I4C).",
+        "SC also directed a pilot linking fuel sales to valid third-party motor insurance — uninsured vehicles may be denied fuel; IRDAI + Centre to pilot **ANPR**-based insurance verification."
+      ]
+    },
+    {
+      "id": "blk-5-trap",
+      "type": "exam_trap",
+      "content": "🎯 Exam Angle → MuleHunter.AI (RBI+I4C); ANPR pilot for fuel-insurance linkage."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "SBI PO Mains 2026",
+      "IBPS PO Mains 2026",
+      "RBI Grade B 2026"
+    ],
+    "tags": [
+      "current-affairs",
+      "2026-08",
+      "sec1",
+      "claude-core-v3"
+    ],
+    "category": "SEC1",
+    "sectionCode": "SEC1",
+    "difficulty": "advanced",
+    "relevanceTier": "TIER_A",
+    "noteTier": "TIER_A",
+    "date": "2026-08-06",
+    "period": "2026-08",
+    "monthLabel": "AUGUST 2026",
+    "monthGroup": "2026-08",
+    "provenance": {
+      "sourceSystem": "Claude",
+      "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
+      "sourceTitle": "SC directs RBI/IRDAI on mule accounts & fuel-insurance linkage"
+    },
+    "noteNumber": 6
+  },
+  "relationships": []
+}

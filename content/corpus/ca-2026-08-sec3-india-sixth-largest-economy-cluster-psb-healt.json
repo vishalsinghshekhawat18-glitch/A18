@@ -3,18 +3,18 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "India — sixth-largest economy cluster: PSB health + unclaimed deposits",
-  "summary": "PSB Gross NPAs fell to ₹2,45,634 cr (31 Mar 2026); **GNPA ratio down to 1.93%**...",
+  "summary": "PSB Gross NPAs fell to ₹2,45,634 cr (31 Mar 2026); **GNPA ratio down to 1.93%**.",
   "blocks": [
     {
-      "id": "blk-34-bullets",
+      "id": "blk-32-bullets",
       "type": "bullet_list",
       "items": [
-        "PSB Gross NPAs fell to ₹2,45,634 cr (31 Mar 2026); **GNPA ratio down to 1.93%**",
-        "Unclaimed deposits with DEA Fund: ₹86,917.08 cr (30 Jun 2026); highest PSB: SBI (₹20,040 cr), then PNB, Canara; highest private bank: ICICI (₹2,278 cr), then HDFC, Axis. (Unclaimed = inoperative 10 yrs / term deposits unclaimed 10 yrs past maturity.)"
+        "PSB Gross NPAs fell to ₹2,45,634 cr (31 Mar 2026); **GNPA ratio down to 1.93%**.",
+        "Unclaimed deposits with DEA Fund: ₹86,917.08 cr (30 Jun 2026); highest PSB: SBI (₹20,040 cr), then PNB, Canara; highest private bank: ICICI (₹2,278 cr), then HDFC, Axis. (Unclaimed = inoperative 10 yrs / term deposits unclaimed 10 yrs past maturity.)."
       ]
     },
     {
-      "id": "blk-34-focus",
+      "id": "blk-32-trap",
       "type": "exam_trap",
       "content": "🎯 Exam Angle → 🔥 HIGH — GNPA ratio 1.93% is a sharp standalone number."
     }
@@ -36,13 +36,16 @@
     "difficulty": "advanced",
     "relevanceTier": "TIER_A",
     "noteTier": "TIER_A",
-    "date": "2026-08-30",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "monthLabel": "AUGUST 2026",
+    "monthGroup": "2026-08",
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
       "sourceTitle": "India — sixth-largest economy cluster: PSB health + unclaimed deposits"
     },
-    "noteNumber": 42
+    "noteNumber": 33
   },
   "relationships": []
 }

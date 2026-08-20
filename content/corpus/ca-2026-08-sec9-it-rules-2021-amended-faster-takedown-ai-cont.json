@@ -6,12 +6,12 @@
   "summary": "Unlawful-content removal deadline slashed from 36 hours to 3 hours; 1st formal legal definition of AI-generated content.",
   "blocks": [
     {
-      "id": "blk-89-hook",
+      "id": "blk-80-hook",
       "type": "paragraph",
       "content": "Unlawful-content removal deadline slashed from 36 hours to 3 hours; 1st formal legal definition of AI-generated content."
     },
     {
-      "id": "blk-89-focus",
+      "id": "blk-80-trap",
       "type": "exam_trap",
       "content": "🎯 Exam Angle → 🔥 HIGH — 36h→3h takedown timeline."
     }
@@ -33,13 +33,16 @@
     "difficulty": "advanced",
     "relevanceTier": "TIER_A",
     "noteTier": "TIER_A",
-    "date": "2026-08-02",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "monthLabel": "AUGUST 2026",
+    "monthGroup": "2026-08",
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
       "sourceTitle": "IT Rules 2021 amended — faster takedown & AI-content labelling"
     },
-    "noteNumber": 89
+    "noteNumber": 81
   },
   "relationships": []
 }

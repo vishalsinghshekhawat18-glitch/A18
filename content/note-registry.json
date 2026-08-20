@@ -5,6 +5,7 @@
     "title": "India crosses 300 GW non-fossil fuel capacity; renewables push continues",
     "section": "SEC1",
     "date": "2026-08-01",
+    "period": "2026-08",
     "category": "SEC1",
     "file": "content/corpus/ca-2026-08-sec1-india-crosses-300-gw-non-fossil-fuel-capacity.json"
   },
@@ -14,6 +15,7 @@
     "title": "Govt tweaks MFI credit guarantee rules — CGSMFI 2.0",
     "section": "SEC1",
     "date": "2026-08-02",
+    "period": "2026-08",
     "category": "SEC1",
     "file": "content/corpus/ca-2026-08-sec1-govt-tweaks-mfi-credit-guarantee-rules-cgsmfi.json"
   },
@@ -23,17 +25,19 @@
     "title": "Zero PSB locker thefts in FY26",
     "section": "SEC1",
     "date": "2026-08-03",
+    "period": "2026-08",
     "category": "SEC1",
     "file": "content/corpus/ca-2026-08-sec1-zero-psb-locker-thefts-in-fy26.json"
   },
   "4": {
     "noteNumber": 4,
-    "id": "ca-2026-08-sec1-india-s-gi-ecosystem-gathers-momentum",
+    "id": "ca-2026-08-sec1-indias-gi-ecosystem-gathers-momentum",
     "title": "India's GI ecosystem gathers momentum",
     "section": "SEC1",
     "date": "2026-08-04",
+    "period": "2026-08",
     "category": "SEC1",
-    "file": "content/corpus/ca-2026-08-sec1-india-s-gi-ecosystem-gathers-momentum.json"
+    "file": "content/corpus/ca-2026-08-sec1-indias-gi-ecosystem-gathers-momentum.json"
   },
   "5": {
     "noteNumber": 5,
@@ -41,26 +45,29 @@
     "title": "Finance Ministry to raise EPF wage ceiling to ₹25,000/month",
     "section": "SEC1",
     "date": "2026-08-05",
+    "period": "2026-08",
     "category": "SEC1",
     "file": "content/corpus/ca-2026-08-sec1-finance-ministry-to-raise-epf-wage-ceiling-to.json"
   },
   "6": {
     "noteNumber": 6,
-    "id": "ca-2026-08-sec1-sc-directs-rbi-irdai-on-mule-accounts-fuel-in",
+    "id": "ca-2026-08-sec1-sc-directs-rbiirdai-on-mule-accounts-fuel-ins",
     "title": "SC directs RBI/IRDAI on mule accounts & fuel-insurance linkage",
     "section": "SEC1",
     "date": "2026-08-06",
+    "period": "2026-08",
     "category": "SEC1",
-    "file": "content/corpus/ca-2026-08-sec1-sc-directs-rbi-irdai-on-mule-accounts-fuel-in.json"
+    "file": "content/corpus/ca-2026-08-sec1-sc-directs-rbiirdai-on-mule-accounts-fuel-ins.json"
   },
   "7": {
     "noteNumber": 7,
-    "id": "ca-2026-08-sec1-dpdpa-rbi-sebi-india-s-three-layer-digital-co",
+    "id": "ca-2026-08-sec1-dpdpa-rbi-sebi-indias-three-layer-digital-com",
     "title": "DPDPA, RBI & SEBI — India's three-layer digital compliance stack",
     "section": "SEC1",
     "date": "2026-08-07",
+    "period": "2026-08",
     "category": "SEC1",
-    "file": "content/corpus/ca-2026-08-sec1-dpdpa-rbi-sebi-india-s-three-layer-digital-co.json"
+    "file": "content/corpus/ca-2026-08-sec1-dpdpa-rbi-sebi-indias-three-layer-digital-com.json"
   },
   "8": {
     "noteNumber": 8,
@@ -68,17 +75,19 @@
     "title": "Taxation and Other Laws (Amendment) Bill, 2026",
     "section": "SEC1",
     "date": "2026-08-08",
+    "period": "2026-08",
     "category": "SEC1",
     "file": "content/corpus/ca-2026-08-sec1-taxation-and-other-laws-amendment-bill-2026.json"
   },
   "9": {
     "noteNumber": 9,
-    "id": "ca-2026-08-sec1-union-govt-approves-4-687-crore-interest-subs",
+    "id": "ca-2026-08-sec1-union-govt-approves-4687-crore-interest-subsi",
     "title": "Union govt approves ₹4,687 crore interest subsidy for ethanol projects",
     "section": "SEC1",
     "date": "2026-08-09",
+    "period": "2026-08",
     "category": "SEC1",
-    "file": "content/corpus/ca-2026-08-sec1-union-govt-approves-4-687-crore-interest-subs.json"
+    "file": "content/corpus/ca-2026-08-sec1-union-govt-approves-4687-crore-interest-subsi.json"
   },
   "10": {
     "noteNumber": 10,
@@ -86,6 +95,7 @@
     "title": "Rajya Sabha clears Appropriation Bill, 2026 (₹54,067 crore)",
     "section": "SEC1",
     "date": "2026-08-10",
+    "period": "2026-08",
     "category": "SEC1",
     "file": "content/corpus/ca-2026-08-sec1-rajya-sabha-clears-appropriation-bill-2026-54.json"
   },
@@ -95,6 +105,7 @@
     "title": "EXIM Bank named implementing agency for exporter interest subvention",
     "section": "SEC1",
     "date": "2026-08-11",
+    "period": "2026-08",
     "category": "SEC1",
     "file": "content/corpus/ca-2026-08-sec1-exim-bank-named-implementing-agency-for-expor.json"
   },
@@ -104,35 +115,39 @@
     "title": "Govt halves e2W subsidy, extends PM E-DRIVE to March 2028",
     "section": "SEC1",
     "date": "2026-08-12",
+    "period": "2026-08",
     "category": "SEC1",
     "file": "content/corpus/ca-2026-08-sec1-govt-halves-e2w-subsidy-extends-pm-e-drive-to.json"
   },
   "13": {
     "noteNumber": 13,
-    "id": "ca-2026-08-sec1-govt-s-debt-to-gdp-ratio-at-58-2-in-fy26",
+    "id": "ca-2026-08-sec1-govts-debt-to-gdp-ratio-at-582-in-fy26",
     "title": "Govt's debt-to-GDP ratio at 58.2% in FY26",
     "section": "SEC1",
     "date": "2026-08-13",
+    "period": "2026-08",
     "category": "SEC1",
-    "file": "content/corpus/ca-2026-08-sec1-govt-s-debt-to-gdp-ratio-at-58-2-in-fy26.json"
+    "file": "content/corpus/ca-2026-08-sec1-govts-debt-to-gdp-ratio-at-582-in-fy26.json"
   },
   "14": {
     "noteNumber": 14,
-    "id": "ca-2026-08-sec1-india-world-s-6th-largest-economy-at-3-92-tri",
+    "id": "ca-2026-08-sec1-india-worlds-6th-largest-economy-at-392-trill",
     "title": "India — world's 6th-largest economy at $3.92 trillion nominal GDP (FY26)",
     "section": "SEC1",
     "date": "2026-08-14",
+    "period": "2026-08",
     "category": "SEC1",
-    "file": "content/corpus/ca-2026-08-sec1-india-world-s-6th-largest-economy-at-3-92-tri.json"
+    "file": "content/corpus/ca-2026-08-sec1-india-worlds-6th-largest-economy-at-392-trill.json"
   },
   "15": {
     "noteNumber": 15,
-    "id": "ca-2026-08-sec1-govt-mops-up-45-306-crore-from-disinvestment",
+    "id": "ca-2026-08-sec1-govt-mops-up-45306-crore-from-disinvestment-a",
     "title": "Govt mops up ₹45,306 crore from disinvestment + asset monetisation (FY26)",
     "section": "SEC1",
     "date": "2026-08-15",
+    "period": "2026-08",
     "category": "SEC1",
-    "file": "content/corpus/ca-2026-08-sec1-govt-mops-up-45-306-crore-from-disinvestment.json"
+    "file": "content/corpus/ca-2026-08-sec1-govt-mops-up-45306-crore-from-disinvestment-a.json"
   },
   "16": {
     "noteNumber": 16,
@@ -140,737 +155,769 @@
     "title": "Chandigarh, Dadra & Nagar Haveli launch CBDC-based food subsidy transfers",
     "section": "SEC1",
     "date": "2026-08-16",
+    "period": "2026-08",
     "category": "SEC1",
     "file": "content/corpus/ca-2026-08-sec1-chandigarh-dadra-nagar-haveli-launch-cbdc-bas.json"
   },
   "17": {
     "noteNumber": 17,
-    "id": "ca-2026-08-sec1-india-s-edible-oil-self-reliance-push-nmeo-os",
-    "title": "India's edible oil self-reliance push (NMEO-OS & NMEO-OP)",
-    "section": "SEC1",
-    "date": "2026-08-17",
-    "category": "SEC1",
-    "file": "content/corpus/ca-2026-08-sec1-india-s-edible-oil-self-reliance-push-nmeo-os.json"
-  },
-  "18": {
-    "noteNumber": 18,
-    "id": "ca-2026-08-sec1-national-beekeeping-and-honey-mission-nbhm-pr",
-    "title": "National Beekeeping and Honey Mission (NBHM) progress",
-    "section": "SEC1",
-    "date": "2026-08-17",
-    "category": "SEC1",
-    "file": "content/corpus/ca-2026-08-sec1-national-beekeeping-and-honey-mission-nbhm-pr.json"
-  },
-  "19": {
-    "noteNumber": 19,
-    "id": "ca-2026-08-sec1-quick-hits-tier-b",
-    "title": "Quick Hits (Tier B+):",
-    "section": "SEC1",
-    "date": "2026-08-17",
-    "category": "SEC1",
-    "file": "content/corpus/ca-2026-08-sec1-quick-hits-tier-b.json"
-  },
-  "20": {
-    "noteNumber": 20,
     "id": "ca-2026-08-sec1-senior-citizen-welfare-cluster-sneha-jeevan-s",
     "title": "Senior-citizen welfare cluster — SNEHA / JEEVAN / SHATAYU",
     "section": "SEC1",
     "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC1",
     "file": "content/corpus/ca-2026-08-sec1-senior-citizen-welfare-cluster-sneha-jeevan-s.json"
   },
+  "18": {
+    "noteNumber": 18,
+    "id": "ca-2026-08-sec1-indias-edible-oil-self-reliance-push-nmeo-os-",
+    "title": "India's edible oil self-reliance push (NMEO-OS & NMEO-OP)",
+    "section": "SEC1",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-08-sec1-indias-edible-oil-self-reliance-push-nmeo-os-.json"
+  },
+  "19": {
+    "noteNumber": 19,
+    "id": "ca-2026-08-sec1-national-beekeeping-and-honey-mission-nbhm-pr",
+    "title": "National Beekeeping and Honey Mission (NBHM) progress",
+    "section": "SEC1",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "category": "SEC1",
+    "file": "content/corpus/ca-2026-08-sec1-national-beekeeping-and-honey-mission-nbhm-pr.json"
+  },
+  "20": {
+    "noteNumber": 20,
+    "id": "ca-2026-08-sec2-rbi-monetary-policy-statement-2026-27-3rd-bi-",
+    "title": "RBI Monetary Policy Statement 2026-27 — 3rd Bi-monthly / 62nd MPC Meeting",
+    "section": "SEC2",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-08-sec2-rbi-monetary-policy-statement-2026-27-3rd-bi-.json"
+  },
   "21": {
     "noteNumber": 21,
-    "id": "ca-2026-08-sec2-rbi-streamlines-supervisory-framework-64-mast",
-    "title": "RBI streamlines supervisory framework — 64 Master Directions",
+    "id": "ca-2026-08-sec2-rbi-basel-iii-pillar-3-disclosure-deferral",
+    "title": "RBI — Basel III Pillar 3 disclosure deferral",
     "section": "SEC2",
-    "date": "2026-08-03",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC2",
-    "file": "content/corpus/ca-2026-08-sec2-rbi-streamlines-supervisory-framework-64-mast.json"
+    "file": "content/corpus/ca-2026-08-sec2-rbi-basel-iii-pillar-3-disclosure-deferral.json"
   },
   "22": {
     "noteNumber": 22,
-    "id": "ca-2026-08-sec2-sebi-cluster-of-regulatory-actions",
-    "title": "SEBI — Cluster of Regulatory Actions",
+    "id": "ca-2026-08-sec2-rbi-streamlines-supervisory-framework-64-mast",
+    "title": "RBI streamlines supervisory framework — 64 Master Directions",
     "section": "SEC2",
-    "date": "2026-08-03",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC2",
-    "file": "content/corpus/ca-2026-08-sec2-sebi-cluster-of-regulatory-actions.json"
+    "file": "content/corpus/ca-2026-08-sec2-rbi-streamlines-supervisory-framework-64-mast.json"
   },
   "23": {
     "noteNumber": 23,
     "id": "ca-2026-08-sec2-tata-sons-designated-upper-layer-nbfc-nbfc-ul",
     "title": "Tata Sons designated Upper-Layer NBFC (NBFC-UL) by RBI",
     "section": "SEC2",
-    "date": "2026-08-04",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC2",
     "file": "content/corpus/ca-2026-08-sec2-tata-sons-designated-upper-layer-nbfc-nbfc-ul.json"
   },
   "24": {
     "noteNumber": 24,
-    "id": "ca-2026-08-sec2-rbi-monetary-policy-statement-2026-27-3rd-bi",
-    "title": "RBI Monetary Policy Statement 2026-27 — 3rd Bi-monthly / 62nd MPC Meeting",
-    "section": "SEC2",
-    "date": "2026-08-05",
-    "category": "SEC2",
-    "file": "content/corpus/ca-2026-08-sec2-rbi-monetary-policy-statement-2026-27-3rd-bi.json"
-  },
-  "25": {
-    "noteNumber": 25,
-    "id": "ca-2026-08-sec2-irdai-insurance-regulatory-package",
-    "title": "IRDAI — Insurance regulatory package",
-    "section": "SEC2",
-    "date": "2026-08-07",
-    "category": "SEC2",
-    "file": "content/corpus/ca-2026-08-sec2-irdai-insurance-regulatory-package.json"
-  },
-  "26": {
-    "noteNumber": 26,
-    "id": "ca-2026-08-sec2-k-rajaraman-ifsca-chairperson-tenure-extended",
-    "title": "K. Rajaraman — IFSCA Chairperson tenure extended",
-    "section": "SEC2",
-    "date": "2026-08-08",
-    "category": "SEC2",
-    "file": "content/corpus/ca-2026-08-sec2-k-rajaraman-ifsca-chairperson-tenure-extended.json"
-  },
-  "27": {
-    "noteNumber": 27,
-    "id": "ca-2026-08-sec2-standard-chartered-gets-ifsca-in-principle-ap",
-    "title": "Standard Chartered gets IFSCA in-principle approval at GIFT City",
-    "section": "SEC2",
-    "date": "2026-08-09",
-    "category": "SEC2",
-    "file": "content/corpus/ca-2026-08-sec2-standard-chartered-gets-ifsca-in-principle-ap.json"
-  },
-  "28": {
-    "noteNumber": 28,
     "id": "ca-2026-08-sec2-rbi-regulatory-cluster-merged",
     "title": "RBI — Regulatory Cluster (merged)",
     "section": "SEC2",
-    "date": "2026-08-22",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC2",
     "file": "content/corpus/ca-2026-08-sec2-rbi-regulatory-cluster-merged.json"
   },
+  "25": {
+    "noteNumber": 25,
+    "id": "ca-2026-08-sec2-sebi-cluster-of-regulatory-actions",
+    "title": "SEBI — Cluster of Regulatory Actions",
+    "section": "SEC2",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-08-sec2-sebi-cluster-of-regulatory-actions.json"
+  },
+  "26": {
+    "noteNumber": 26,
+    "id": "ca-2026-08-sec2-irdai-insurance-regulatory-package",
+    "title": "IRDAI — Insurance regulatory package",
+    "section": "SEC2",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-08-sec2-irdai-insurance-regulatory-package.json"
+  },
+  "27": {
+    "noteNumber": 27,
+    "id": "ca-2026-08-sec2-k-rajaraman-ifsca-chairperson-tenure-extended",
+    "title": "K. Rajaraman — IFSCA Chairperson tenure extended",
+    "section": "SEC2",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-08-sec2-k-rajaraman-ifsca-chairperson-tenure-extended.json"
+  },
+  "28": {
+    "noteNumber": 28,
+    "id": "ca-2026-08-sec2-standard-chartered-gets-ifsca-in-principle-ap",
+    "title": "Standard Chartered gets IFSCA in-principle approval at GIFT City",
+    "section": "SEC2",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "category": "SEC2",
+    "file": "content/corpus/ca-2026-08-sec2-standard-chartered-gets-ifsca-in-principle-ap.json"
+  },
   "29": {
     "noteNumber": 29,
-    "id": "ca-2026-08-sec2-rbi-basel-iii-pillar-3-disclosure-deferral",
-    "title": "RBI — Basel III Pillar 3 disclosure deferral",
-    "section": "SEC2",
-    "date": "2026-08-30",
-    "category": "SEC2",
-    "file": "content/corpus/ca-2026-08-sec2-rbi-basel-iii-pillar-3-disclosure-deferral.json"
-  },
-  "30": {
-    "noteNumber": 30,
     "id": "ca-2026-08-sec3-upi-hits-record-monthly-volume-july-2026",
     "title": "UPI hits record monthly volume — July 2026",
     "section": "SEC3",
-    "date": "2026-08-01",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC3",
     "file": "content/corpus/ca-2026-08-sec3-upi-hits-record-monthly-volume-july-2026.json"
   },
-  "31": {
-    "noteNumber": 31,
-    "id": "ca-2026-08-sec3-upi-s-expanding-cross-border-footprint",
+  "30": {
+    "noteNumber": 30,
+    "id": "ca-2026-08-sec3-upis-expanding-cross-border-footprint",
     "title": "UPI's expanding cross-border footprint",
     "section": "SEC3",
-    "date": "2026-08-02",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC3",
-    "file": "content/corpus/ca-2026-08-sec3-upi-s-expanding-cross-border-footprint.json"
+    "file": "content/corpus/ca-2026-08-sec3-upis-expanding-cross-border-footprint.json"
+  },
+  "31": {
+    "noteNumber": 31,
+    "id": "ca-2026-08-sec3-govt-to-offload-up-to-65-stake-in-lic-via-ofs",
+    "title": "Govt to offload up to 6.5% stake in LIC via OFS",
+    "section": "SEC3",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-08-sec3-govt-to-offload-up-to-65-stake-in-lic-via-ofs.json"
   },
   "32": {
     "noteNumber": 32,
-    "id": "ca-2026-08-sec3-govt-to-offload-up-to-6-5-stake-in-lic-via-of",
-    "title": "Govt to offload up to 6.5% stake in LIC via OFS",
+    "id": "ca-2026-08-sec3-bofajio-credit-deal",
+    "title": "BofA–Jio Credit deal",
     "section": "SEC3",
-    "date": "2026-08-03",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC3",
-    "file": "content/corpus/ca-2026-08-sec3-govt-to-offload-up-to-6-5-stake-in-lic-via-of.json"
+    "file": "content/corpus/ca-2026-08-sec3-bofajio-credit-deal.json"
   },
   "33": {
     "noteNumber": 33,
-    "id": "ca-2026-08-sec3-bofa-jio-credit-deal",
-    "title": "BofA–Jio Credit deal",
-    "section": "SEC3",
-    "date": "2026-08-04",
-    "category": "SEC3",
-    "file": "content/corpus/ca-2026-08-sec3-bofa-jio-credit-deal.json"
-  },
-  "34": {
-    "noteNumber": 34,
-    "id": "ca-2026-08-sec3-quick-hits-bank-nbfc-insurance-product-regula",
-    "title": "Quick Hits — Bank/NBFC/Insurance product & regulatory approvals (Tier B+):",
-    "section": "SEC3",
-    "date": "2026-08-05",
-    "category": "SEC3",
-    "file": "content/corpus/ca-2026-08-sec3-quick-hits-bank-nbfc-insurance-product-regula.json"
-  },
-  "35": {
-    "noteNumber": 35,
-    "id": "ca-2026-08-sec3-sebi-bars-zee-s-punit-goenka-subhash-chandra",
-    "title": "SEBI bars Zee's Punit Goenka & Subhash Chandra for one year",
-    "section": "SEC3",
-    "date": "2026-08-06",
-    "category": "SEC3",
-    "file": "content/corpus/ca-2026-08-sec3-sebi-bars-zee-s-punit-goenka-subhash-chandra.json"
-  },
-  "36": {
-    "noteNumber": 36,
-    "id": "ca-2026-08-sec3-govt-introduces-bankers-books-evidence-act-20",
-    "title": "Govt introduces Bankers' Books Evidence Act, 2026",
-    "section": "SEC3",
-    "date": "2026-08-07",
-    "category": "SEC3",
-    "file": "content/corpus/ca-2026-08-sec3-govt-introduces-bankers-books-evidence-act-20.json"
-  },
-  "37": {
-    "noteNumber": 37,
-    "id": "ca-2026-08-sec3-dfs-launches-india-s-1st-sovereign-backed-mar",
-    "title": "DFS launches India's 1st sovereign-backed maritime (P&I) insurance",
-    "section": "SEC3",
-    "date": "2026-08-08",
-    "category": "SEC3",
-    "file": "content/corpus/ca-2026-08-sec3-dfs-launches-india-s-1st-sovereign-backed-mar.json"
-  },
-  "38": {
-    "noteNumber": 38,
-    "id": "ca-2026-08-sec3-rec-ltd-pfc-ltd-loan-for-meja-thermal-power-p",
-    "title": "REC Ltd + PFC Ltd — loan for Meja Thermal Power Project Stage-II",
-    "section": "SEC3",
-    "date": "2026-08-09",
-    "category": "SEC3",
-    "file": "content/corpus/ca-2026-08-sec3-rec-ltd-pfc-ltd-loan-for-meja-thermal-power-p.json"
-  },
-  "39": {
-    "noteNumber": 39,
-    "id": "ca-2026-08-sec3-nepal-eases-indian-currency-carrying-restrict",
-    "title": "Nepal eases Indian currency-carrying restrictions",
-    "section": "SEC3",
-    "date": "2026-08-10",
-    "category": "SEC3",
-    "file": "content/corpus/ca-2026-08-sec3-nepal-eases-indian-currency-carrying-restrict.json"
-  },
-  "40": {
-    "noteNumber": 40,
-    "id": "ca-2026-08-sec3-ncdex-launches-ncdex-nidhi-mutual-fund-platfo",
-    "title": "NCDEX launches \"NCDEX Nidhi\" — mutual fund platform",
-    "section": "SEC3",
-    "date": "2026-08-11",
-    "category": "SEC3",
-    "file": "content/corpus/ca-2026-08-sec3-ncdex-launches-ncdex-nidhi-mutual-fund-platfo.json"
-  },
-  "41": {
-    "noteNumber": 41,
-    "id": "ca-2026-08-sec3-1-billion-polymer-banknotes-of-10-and-20-appr",
-    "title": "1 billion polymer banknotes of ₹10 and ₹20 approved for field trials",
-    "section": "SEC3",
-    "date": "2026-08-12",
-    "category": "SEC3",
-    "file": "content/corpus/ca-2026-08-sec3-1-billion-polymer-banknotes-of-10-and-20-appr.json"
-  },
-  "42": {
-    "noteNumber": 42,
     "id": "ca-2026-08-sec3-india-sixth-largest-economy-cluster-psb-healt",
     "title": "India — sixth-largest economy cluster: PSB health + unclaimed deposits",
     "section": "SEC3",
-    "date": "2026-08-30",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC3",
     "file": "content/corpus/ca-2026-08-sec3-india-sixth-largest-economy-cluster-psb-healt.json"
   },
-  "43": {
-    "noteNumber": 43,
-    "id": "ca-2026-08-sec4-glaw-lake-arunachal-pradesh-india-s-101st-ram",
+  "34": {
+    "noteNumber": 34,
+    "id": "ca-2026-08-sec3-sebi-bars-zees-punit-goenka-subhash-chandra-f",
+    "title": "SEBI bars Zee's Punit Goenka & Subhash Chandra for one year",
+    "section": "SEC3",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-08-sec3-sebi-bars-zees-punit-goenka-subhash-chandra-f.json"
+  },
+  "35": {
+    "noteNumber": 35,
+    "id": "ca-2026-08-sec3-govt-introduces-bankers-books-evidence-act-20",
+    "title": "Govt introduces Bankers' Books Evidence Act, 2026",
+    "section": "SEC3",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-08-sec3-govt-introduces-bankers-books-evidence-act-20.json"
+  },
+  "36": {
+    "noteNumber": 36,
+    "id": "ca-2026-08-sec3-dfs-launches-indias-1st-sovereign-backed-mari",
+    "title": "DFS launches India's 1st sovereign-backed maritime (P&I) insurance",
+    "section": "SEC3",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-08-sec3-dfs-launches-indias-1st-sovereign-backed-mari.json"
+  },
+  "37": {
+    "noteNumber": 37,
+    "id": "ca-2026-08-sec3-rec-ltd-pfc-ltd-loan-for-meja-thermal-power-p",
+    "title": "REC Ltd + PFC Ltd — loan for Meja Thermal Power Project Stage-II",
+    "section": "SEC3",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-08-sec3-rec-ltd-pfc-ltd-loan-for-meja-thermal-power-p.json"
+  },
+  "38": {
+    "noteNumber": 38,
+    "id": "ca-2026-08-sec3-nepal-eases-indian-currency-carrying-restrict",
+    "title": "Nepal eases Indian currency-carrying restrictions",
+    "section": "SEC3",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-08-sec3-nepal-eases-indian-currency-carrying-restrict.json"
+  },
+  "39": {
+    "noteNumber": 39,
+    "id": "ca-2026-08-sec3-ncdex-launches-ncdex-nidhi-mutual-fund-platfo",
+    "title": "NCDEX launches NCDEX Nidhi — mutual fund platform",
+    "section": "SEC3",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-08-sec3-ncdex-launches-ncdex-nidhi-mutual-fund-platfo.json"
+  },
+  "40": {
+    "noteNumber": 40,
+    "id": "ca-2026-08-sec3-1-billion-polymer-banknotes-of-10-and-20-appr",
+    "title": "1 billion polymer banknotes of ₹10 and ₹20 approved for field trials",
+    "section": "SEC3",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "category": "SEC3",
+    "file": "content/corpus/ca-2026-08-sec3-1-billion-polymer-banknotes-of-10-and-20-appr.json"
+  },
+  "41": {
+    "noteNumber": 41,
+    "id": "ca-2026-08-sec4-glaw-lake-arunachal-pradesh-indias-101st-rams",
     "title": "Glaw Lake (Arunachal Pradesh) — India's 101st Ramsar Site",
     "section": "SEC4",
-    "date": "2026-08-01",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC4",
-    "file": "content/corpus/ca-2026-08-sec4-glaw-lake-arunachal-pradesh-india-s-101st-ram.json"
+    "file": "content/corpus/ca-2026-08-sec4-glaw-lake-arunachal-pradesh-indias-101st-rams.json"
   },
-  "44": {
-    "noteNumber": 44,
-    "id": "ca-2026-08-sec4-pm-modi-s-80th-independence-day-address-key-a",
+  "42": {
+    "noteNumber": 42,
+    "id": "ca-2026-08-sec4-pm-modis-80th-independence-day-address-key-an",
     "title": "PM Modi's 80th Independence Day address — key announcements",
     "section": "SEC4",
-    "date": "2026-08-02",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC4",
-    "file": "content/corpus/ca-2026-08-sec4-pm-modi-s-80th-independence-day-address-key-a.json"
+    "file": "content/corpus/ca-2026-08-sec4-pm-modis-80th-independence-day-address-key-an.json"
   },
-  "45": {
-    "noteNumber": 45,
+  "43": {
+    "noteNumber": 43,
     "id": "ca-2026-08-sec4-pm-modi-andhra-pradesh-visit-airport-south-in",
     "title": "PM Modi — Andhra Pradesh visit: airport + South India's first chip plant",
     "section": "SEC4",
-    "date": "2026-08-03",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC4",
     "file": "content/corpus/ca-2026-08-sec4-pm-modi-andhra-pradesh-visit-airport-south-in.json"
   },
-  "46": {
-    "noteNumber": 46,
+  "44": {
+    "noteNumber": 44,
     "id": "ca-2026-08-sec4-lok-sabha-passes-bill-to-raise-sc-judge-stren",
     "title": "Lok Sabha passes Bill to raise SC judge strength from 33 to 37",
     "section": "SEC4",
-    "date": "2026-08-04",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC4",
     "file": "content/corpus/ca-2026-08-sec4-lok-sabha-passes-bill-to-raise-sc-judge-stren.json"
   },
-  "47": {
-    "noteNumber": 47,
+  "45": {
+    "noteNumber": 45,
     "id": "ca-2026-08-sec4-govt-introduces-mmdr-amendment-bill-2026",
     "title": "Govt introduces MMDR Amendment Bill, 2026",
     "section": "SEC4",
-    "date": "2026-08-05",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC4",
     "file": "content/corpus/ca-2026-08-sec4-govt-introduces-mmdr-amendment-bill-2026.json"
   },
-  "48": {
-    "noteNumber": 48,
+  "46": {
+    "noteNumber": 46,
     "id": "ca-2026-08-sec4-rajasthan-1st-state-to-execute-rare-earth-ele",
     "title": "Rajasthan — 1st state to execute Rare Earth Elements (REE) Exploration Licence",
     "section": "SEC4",
-    "date": "2026-08-06",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC4",
     "file": "content/corpus/ca-2026-08-sec4-rajasthan-1st-state-to-execute-rare-earth-ele.json"
   },
-  "49": {
-    "noteNumber": 49,
-    "id": "ca-2026-08-sec4-india-s-organ-transplant-donation-cluster",
+  "47": {
+    "noteNumber": 47,
+    "id": "ca-2026-08-sec4-indias-organ-transplantdonation-cluster",
     "title": "India's organ-transplant/donation cluster",
     "section": "SEC4",
-    "date": "2026-08-07",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC4",
-    "file": "content/corpus/ca-2026-08-sec4-india-s-organ-transplant-donation-cluster.json"
+    "file": "content/corpus/ca-2026-08-sec4-indias-organ-transplantdonation-cluster.json"
   },
-  "50": {
-    "noteNumber": 50,
-    "id": "ca-2026-08-sec4-mha-notifies-heatwave-lightning-as-disasters",
+  "48": {
+    "noteNumber": 48,
+    "id": "ca-2026-08-sec4-mha-notifies-heatwave-lightning-as-disasters-",
     "title": "MHA notifies heatwave & lightning as disasters (SDRF/NDRF, 2026-31)",
     "section": "SEC4",
-    "date": "2026-08-08",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC4",
-    "file": "content/corpus/ca-2026-08-sec4-mha-notifies-heatwave-lightning-as-disasters.json"
+    "file": "content/corpus/ca-2026-08-sec4-mha-notifies-heatwave-lightning-as-disasters-.json"
   },
-  "51": {
-    "noteNumber": 51,
+  "49": {
+    "noteNumber": 49,
     "id": "ca-2026-08-sec4-mohua-urban-challenge-fund-ucf-projects-for-a",
     "title": "MoHUA — Urban Challenge Fund (UCF) projects for Ahmedabad",
     "section": "SEC4",
-    "date": "2026-08-09",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC4",
     "file": "content/corpus/ca-2026-08-sec4-mohua-urban-challenge-fund-ucf-projects-for-a.json"
   },
-  "52": {
-    "noteNumber": 52,
+  "50": {
+    "noteNumber": 50,
     "id": "ca-2026-08-sec4-president-murmu-4-years-in-office-new-initiat",
     "title": "President Murmu — 4 years in office; new initiatives",
     "section": "SEC4",
-    "date": "2026-08-10",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC4",
     "file": "content/corpus/ca-2026-08-sec4-president-murmu-4-years-in-office-new-initiat.json"
   },
-  "53": {
-    "noteNumber": 53,
-    "id": "ca-2026-08-sec4-international-affairs",
-    "title": "International Affairs",
-    "section": "SEC4",
-    "date": "2026-08-11",
-    "category": "SEC4",
-    "file": "content/corpus/ca-2026-08-sec4-international-affairs.json"
-  },
-  "54": {
-    "noteNumber": 54,
+  "51": {
+    "noteNumber": 51,
     "id": "ca-2026-08-sec4-mha-e-zero-fir-system-for-cyber-financial-fra",
     "title": "MHA — e-Zero FIR system for cyber financial fraud",
     "section": "SEC4",
-    "date": "2026-08-11",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC4",
     "file": "content/corpus/ca-2026-08-sec4-mha-e-zero-fir-system-for-cyber-financial-fra.json"
   },
-  "55": {
-    "noteNumber": 55,
+  "52": {
+    "noteNumber": 52,
     "id": "ca-2026-08-sec4-mha-border-security-administrative-measures-c",
     "title": "MHA — border security & administrative measures cluster",
     "section": "SEC4",
-    "date": "2026-08-12",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC4",
     "file": "content/corpus/ca-2026-08-sec4-mha-border-security-administrative-measures-c.json"
   },
-  "56": {
-    "noteNumber": 56,
-    "id": "ca-2026-08-sec4-quick-hits-national-tier-b",
-    "title": "Quick Hits — National (Tier B+):",
-    "section": "SEC4",
-    "date": "2026-08-12",
-    "category": "SEC4",
-    "file": "content/corpus/ca-2026-08-sec4-quick-hits-national-tier-b.json"
-  },
-  "57": {
-    "noteNumber": 57,
+  "53": {
+    "noteNumber": 53,
     "id": "ca-2026-08-sec4-fssai-proposes-new-hfss-food-limits-for-schoo",
     "title": "FSSAI proposes new HFSS food limits for schools",
     "section": "SEC4",
-    "date": "2026-08-13",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC4",
     "file": "content/corpus/ca-2026-08-sec4-fssai-proposes-new-hfss-food-limits-for-schoo.json"
   },
-  "58": {
-    "noteNumber": 58,
+  "54": {
+    "noteNumber": 54,
     "id": "ca-2026-08-sec4-state-news",
     "title": "State News",
     "section": "SEC4",
-    "date": "2026-08-15",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC4",
     "file": "content/corpus/ca-2026-08-sec4-state-news.json"
   },
-  "59": {
-    "noteNumber": 59,
+  "55": {
+    "noteNumber": 55,
+    "id": "ca-2026-08-sec4-international-affairs",
+    "title": "International Affairs",
+    "section": "SEC4",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "category": "SEC4",
+    "file": "content/corpus/ca-2026-08-sec4-international-affairs.json"
+  },
+  "56": {
+    "noteNumber": 56,
     "id": "ca-2026-08-sec5-mous-table-format",
     "title": "MoUs (table format)",
     "section": "SEC5",
-    "date": "2026-08-01",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC5",
     "file": "content/corpus/ca-2026-08-sec5-mous-table-format.json"
   },
-  "60": {
-    "noteNumber": 60,
+  "57": {
+    "noteNumber": 57,
     "id": "ca-2026-08-sec5-mergers-acquisitions",
     "title": "Mergers & Acquisitions",
     "section": "SEC5",
-    "date": "2026-08-02",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC5",
     "file": "content/corpus/ca-2026-08-sec5-mergers-acquisitions.json"
   },
-  "61": {
-    "noteNumber": 61,
+  "58": {
+    "noteNumber": 58,
+    "id": "ca-2026-08-sec5-conferences",
+    "title": "Conferences",
+    "section": "SEC5",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "category": "SEC5",
+    "file": "content/corpus/ca-2026-08-sec5-conferences.json"
+  },
+  "59": {
+    "noteNumber": 59,
     "id": "ca-2026-08-sec5-appointments-cluster",
     "title": "Appointments Cluster",
     "section": "SEC5",
-    "date": "2026-08-04",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC5",
     "file": "content/corpus/ca-2026-08-sec5-appointments-cluster.json"
   },
+  "60": {
+    "noteNumber": 60,
+    "id": "ca-2026-08-sec6-indias-nuclear-energy-push-consolidated-targe",
+    "title": "India's nuclear energy push (consolidated — target restated 3× this month)",
+    "section": "SEC6",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "category": "SEC6",
+    "file": "content/corpus/ca-2026-08-sec6-indias-nuclear-energy-push-consolidated-targe.json"
+  },
+  "61": {
+    "noteNumber": 61,
+    "id": "ca-2026-08-sec6-icar-develops-indias-1st-t2t-reference-genome",
+    "title": "ICAR develops India's 1st T2T reference genome of pigeonpea (Arhar/Tur)",
+    "section": "SEC6",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "category": "SEC6",
+    "file": "content/corpus/ca-2026-08-sec6-icar-develops-indias-1st-t2t-reference-genome.json"
+  },
   "62": {
     "noteNumber": 62,
-    "id": "ca-2026-08-sec5-conferences-tier-b",
-    "title": "Conferences (Tier B+)",
-    "section": "SEC5",
-    "date": "2026-08-18",
-    "category": "SEC5",
-    "file": "content/corpus/ca-2026-08-sec5-conferences-tier-b.json"
+    "id": "ca-2026-08-sec6-indias-1st-indigenous-asf-vaccine-for-pigs",
+    "title": "India's 1st indigenous ASF vaccine for pigs",
+    "section": "SEC6",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "category": "SEC6",
+    "file": "content/corpus/ca-2026-08-sec6-indias-1st-indigenous-asf-vaccine-for-pigs.json"
   },
   "63": {
     "noteNumber": 63,
-    "id": "ca-2026-08-sec6-icar-develops-india-s-1st-t2t-reference-genom",
-    "title": "ICAR develops India's 1st T2T reference genome of pigeonpea (Arhar/Tur)",
-    "section": "SEC6",
-    "date": "2026-08-02",
-    "category": "SEC6",
-    "file": "content/corpus/ca-2026-08-sec6-icar-develops-india-s-1st-t2t-reference-genom.json"
-  },
-  "64": {
-    "noteNumber": 64,
-    "id": "ca-2026-08-sec6-india-s-1st-indigenous-asf-vaccine-for-pigs",
-    "title": "India's 1st indigenous ASF vaccine for pigs",
-    "section": "SEC6",
-    "date": "2026-08-03",
-    "category": "SEC6",
-    "file": "content/corpus/ca-2026-08-sec6-india-s-1st-indigenous-asf-vaccine-for-pigs.json"
-  },
-  "65": {
-    "noteNumber": 65,
-    "id": "ca-2026-08-sec6-india-s-nuclear-energy-push-consolidated-targ",
-    "title": "India's nuclear energy push (consolidated — target restated 3× this month)",
-    "section": "SEC6",
-    "date": "2026-08-03",
-    "category": "SEC6",
-    "file": "content/corpus/ca-2026-08-sec6-india-s-nuclear-energy-push-consolidated-targ.json"
-  },
-  "66": {
-    "noteNumber": 66,
     "id": "ca-2026-08-sec6-agni-4-test-fired-from-chandipur-odisha",
     "title": "Agni-4 test-fired from Chandipur (Odisha)",
     "section": "SEC6",
-    "date": "2026-08-04",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC6",
     "file": "content/corpus/ca-2026-08-sec6-agni-4-test-fired-from-chandipur-odisha.json"
   },
-  "67": {
-    "noteNumber": 67,
+  "64": {
+    "noteNumber": 64,
     "id": "ca-2026-08-sec6-everest-rocket-engine-astrobase-space-technol",
     "title": "EVEREST rocket engine — Astrobase Space Technologies",
     "section": "SEC6",
-    "date": "2026-08-05",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC6",
     "file": "content/corpus/ca-2026-08-sec6-everest-rocket-engine-astrobase-space-technol.json"
   },
-  "68": {
-    "noteNumber": 68,
-    "id": "ca-2026-08-sec6-private-space-launch-cluster",
-    "title": "Private space-launch cluster",
-    "section": "SEC6",
-    "date": "2026-08-07",
-    "category": "SEC6",
-    "file": "content/corpus/ca-2026-08-sec6-private-space-launch-cluster.json"
-  },
-  "69": {
-    "noteNumber": 69,
-    "id": "ca-2026-08-sec6-quick-hits-sci-tech-tier-b-c",
-    "title": "Quick Hits — Sci-Tech (Tier B/C):",
-    "section": "SEC6",
-    "date": "2026-08-08",
-    "category": "SEC6",
-    "file": "content/corpus/ca-2026-08-sec6-quick-hits-sci-tech-tier-b-c.json"
-  },
-  "70": {
-    "noteNumber": 70,
-    "id": "ca-2026-08-sec6-indian-navy-shipbuilding-cluster",
-    "title": "Indian Navy — Shipbuilding Cluster",
-    "section": "SEC6",
-    "date": "2026-08-09",
-    "category": "SEC6",
-    "file": "content/corpus/ca-2026-08-sec6-indian-navy-shipbuilding-cluster.json"
-  },
-  "71": {
-    "noteNumber": 71,
-    "id": "ca-2026-08-sec6-hal-partners-with-adani-defence-beml-to-produ",
-    "title": "HAL partners with Adani Defence & BEML to produce LCH Prachand",
-    "section": "SEC6",
-    "date": "2026-08-10",
-    "category": "SEC6",
-    "file": "content/corpus/ca-2026-08-sec6-hal-partners-with-adani-defence-beml-to-produ.json"
-  },
-  "72": {
-    "noteNumber": 72,
-    "id": "ca-2026-08-sec6-defence-ministry-signs-1-577-crore-contracts",
-    "title": "Defence Ministry signs ₹1,577 crore contracts for Loiter Munition Systems",
-    "section": "SEC6",
-    "date": "2026-08-11",
-    "category": "SEC6",
-    "file": "content/corpus/ca-2026-08-sec6-defence-ministry-signs-1-577-crore-contracts.json"
-  },
-  "73": {
-    "noteNumber": 73,
-    "id": "ca-2026-08-sec6-quick-hits-defence",
-    "title": "Quick Hits — Defence:",
-    "section": "SEC6",
-    "date": "2026-08-12",
-    "category": "SEC6",
-    "file": "content/corpus/ca-2026-08-sec6-quick-hits-defence.json"
-  },
-  "74": {
-    "noteNumber": 74,
-    "id": "ca-2026-08-sec6-commonwealth-games-2026-glasgow-23rd-edition",
-    "title": "Commonwealth Games 2026, Glasgow (23rd edition) — Final Medal Tally",
-    "section": "SEC6",
-    "date": "2026-08-13",
-    "category": "SEC6",
-    "file": "content/corpus/ca-2026-08-sec6-commonwealth-games-2026-glasgow-23rd-edition.json"
-  },
-  "75": {
-    "noteNumber": 75,
-    "id": "ca-2026-08-sec6-rishabh-pant-fastest-batter-to-100-test-sixes",
-    "title": "Rishabh Pant — fastest batter to 100 Test sixes",
-    "section": "SEC6",
-    "date": "2026-08-14",
-    "category": "SEC6",
-    "file": "content/corpus/ca-2026-08-sec6-rishabh-pant-fastest-batter-to-100-test-sixes.json"
-  },
-  "76": {
-    "noteNumber": 76,
-    "id": "ca-2026-08-sec6-badminton-multiple-indian-firsts-this-fortnig",
-    "title": "Badminton — multiple Indian \"firsts\" this fortnight",
-    "section": "SEC6",
-    "date": "2026-08-15",
-    "category": "SEC6",
-    "file": "content/corpus/ca-2026-08-sec6-badminton-multiple-indian-firsts-this-fortnig.json"
-  },
-  "77": {
-    "noteNumber": 77,
+  "65": {
+    "noteNumber": 65,
     "id": "ca-2026-08-sec6-nasa-invites-isro-to-join-moon-base-programme",
     "title": "NASA invites ISRO to join Moon Base programme under Artemis Accords",
     "section": "SEC6",
-    "date": "2026-08-15",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC6",
     "file": "content/corpus/ca-2026-08-sec6-nasa-invites-isro-to-join-moon-base-programme.json"
   },
-  "78": {
-    "noteNumber": 78,
+  "66": {
+    "noteNumber": 66,
+    "id": "ca-2026-08-sec6-private-space-launch-cluster",
+    "title": "Private space-launch cluster",
+    "section": "SEC6",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "category": "SEC6",
+    "file": "content/corpus/ca-2026-08-sec6-private-space-launch-cluster.json"
+  },
+  "67": {
+    "noteNumber": 67,
+    "id": "ca-2026-08-sec6-indian-navy-shipbuilding-cluster",
+    "title": "Indian Navy — Shipbuilding Cluster",
+    "section": "SEC6",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "category": "SEC6",
+    "file": "content/corpus/ca-2026-08-sec6-indian-navy-shipbuilding-cluster.json"
+  },
+  "68": {
+    "noteNumber": 68,
+    "id": "ca-2026-08-sec6-hal-partners-with-adani-defence-beml-to-produ",
+    "title": "HAL partners with Adani Defence & BEML to produce LCH Prachand",
+    "section": "SEC6",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "category": "SEC6",
+    "file": "content/corpus/ca-2026-08-sec6-hal-partners-with-adani-defence-beml-to-produ.json"
+  },
+  "69": {
+    "noteNumber": 69,
+    "id": "ca-2026-08-sec6-defence-ministry-signs-1577-crore-contracts-f",
+    "title": "Defence Ministry signs ₹1,577 crore contracts for Loiter Munition Systems",
+    "section": "SEC6",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "category": "SEC6",
+    "file": "content/corpus/ca-2026-08-sec6-defence-ministry-signs-1577-crore-contracts-f.json"
+  },
+  "70": {
+    "noteNumber": 70,
+    "id": "ca-2026-08-sec6-commonwealth-games-2026-glasgow-23rd-edition-",
+    "title": "Commonwealth Games 2026, Glasgow (23rd edition) — Final Medal Tally",
+    "section": "SEC6",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "category": "SEC6",
+    "file": "content/corpus/ca-2026-08-sec6-commonwealth-games-2026-glasgow-23rd-edition-.json"
+  },
+  "71": {
+    "noteNumber": 71,
+    "id": "ca-2026-08-sec6-rishabh-pant-fastest-batter-to-100-test-sixes",
+    "title": "Rishabh Pant — fastest batter to 100 Test sixes",
+    "section": "SEC6",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "category": "SEC6",
+    "file": "content/corpus/ca-2026-08-sec6-rishabh-pant-fastest-batter-to-100-test-sixes.json"
+  },
+  "72": {
+    "noteNumber": 72,
+    "id": "ca-2026-08-sec6-badminton-multiple-indian-firsts-this-fortnig",
+    "title": "Badminton — multiple Indian firsts this fortnight",
+    "section": "SEC6",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "category": "SEC6",
+    "file": "content/corpus/ca-2026-08-sec6-badminton-multiple-indian-firsts-this-fortnig.json"
+  },
+  "73": {
+    "noteNumber": 73,
     "id": "ca-2026-08-sec6-national-sports-awards-2025",
     "title": "National Sports Awards 2025",
     "section": "SEC6",
-    "date": "2026-08-16",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC6",
     "file": "content/corpus/ca-2026-08-sec6-national-sports-awards-2025.json"
   },
-  "79": {
-    "noteNumber": 79,
-    "id": "ca-2026-08-sec6-quick-hits-sports",
-    "title": "Quick Hits — Sports:",
-    "section": "SEC6",
-    "date": "2026-08-17",
-    "category": "SEC6",
-    "file": "content/corpus/ca-2026-08-sec6-quick-hits-sports.json"
-  },
-  "80": {
-    "noteNumber": 80,
+  "74": {
+    "noteNumber": 74,
     "id": "ca-2026-08-sec6-sqn-ldr-bhawana-kanth-1st-woman-iaf-officer-t",
-    "title": "Sqn Ldr Bhawana Kanth — 1st woman IAF officer to complete Fighter Combat Leader (FCL)/\"Top Gun\" course",
+    "title": "Sqn Ldr Bhawana Kanth — 1st woman IAF officer to complete Fighter Combat Leader (FCL)/Top Gun course",
     "section": "SEC6",
     "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC6",
     "file": "content/corpus/ca-2026-08-sec6-sqn-ldr-bhawana-kanth-1st-woman-iaf-officer-t.json"
   },
-  "81": {
-    "noteNumber": 81,
+  "75": {
+    "noteNumber": 75,
     "id": "ca-2026-08-sec7-bimco-ics-seafarer-workforce-report-2026",
     "title": "BIMCO-ICS Seafarer Workforce Report 2026",
     "section": "SEC7",
-    "date": "2026-08-01",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC7",
     "file": "content/corpus/ca-2026-08-sec7-bimco-ics-seafarer-workforce-report-2026.json"
   },
-  "82": {
-    "noteNumber": 82,
+  "76": {
+    "noteNumber": 76,
     "id": "ca-2026-08-sec7-india-ranks-5th-in-genai-patent-filings-china",
     "title": "India ranks 5th in GenAI patent filings; China tops — WIPO report",
     "section": "SEC7",
-    "date": "2026-08-02",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC7",
     "file": "content/corpus/ca-2026-08-sec7-india-ranks-5th-in-genai-patent-filings-china.json"
   },
-  "83": {
-    "noteNumber": 83,
+  "77": {
+    "noteNumber": 77,
     "id": "ca-2026-08-sec7-prof-annapurni-subramaniam-wins-cospar-vikram",
     "title": "Prof. Annapurni Subramaniam wins COSPAR Vikram Sarabhai Medal 2026",
     "section": "SEC7",
-    "date": "2026-08-03",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC7",
     "file": "content/corpus/ca-2026-08-sec7-prof-annapurni-subramaniam-wins-cospar-vikram.json"
   },
-  "84": {
-    "noteNumber": 84,
+  "78": {
+    "noteNumber": 78,
     "id": "ca-2026-08-sec7-world-bank-reports-heat-ai",
     "title": "World Bank reports — heat & AI",
     "section": "SEC7",
-    "date": "2026-08-04",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC7",
     "file": "content/corpus/ca-2026-08-sec7-world-bank-reports-heat-ai.json"
   },
-  "85": {
-    "noteNumber": 85,
+  "79": {
+    "noteNumber": 79,
     "id": "ca-2026-08-sec7-environmental-performance-index-epi-2026",
     "title": "Environmental Performance Index (EPI) 2026",
     "section": "SEC7",
-    "date": "2026-08-05",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC7",
     "file": "content/corpus/ca-2026-08-sec7-environmental-performance-index-epi-2026.json"
   },
-  "86": {
-    "noteNumber": 86,
-    "id": "ca-2026-08-sec7-quick-hits-awards-reports-rankings",
-    "title": "Quick Hits — Awards/Reports/Rankings:",
-    "section": "SEC7",
-    "date": "2026-08-08",
-    "category": "SEC7",
-    "file": "content/corpus/ca-2026-08-sec7-quick-hits-awards-reports-rankings.json"
-  },
-  "87": {
-    "noteNumber": 87,
-    "id": "ca-2026-08-sec8-day-date-note",
-    "title": "Day | Date | Note",
-    "section": "SEC8",
-    "date": "2026-08-31",
-    "category": "SEC8",
-    "file": "content/corpus/ca-2026-08-sec8-day-date-note.json"
-  },
-  "88": {
-    "noteNumber": 88,
-    "id": "ca-2026-08-sec9-prevention-of-insults-to-national-honour-ame",
-    "title": "\"Prevention of Insults to National Honour (Amendment) Bill, 2026\" — Vande Mataram",
+  "80": {
+    "noteNumber": 80,
+    "id": "ca-2026-08-sec9-prevention-of-insults-to-national-honour-amen",
+    "title": "Prevention of Insults to National Honour (Amendment) Bill, 2026 — Vande Mataram",
     "section": "SEC9",
-    "date": "2026-08-01",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC9",
-    "file": "content/corpus/ca-2026-08-sec9-prevention-of-insults-to-national-honour-ame.json"
+    "file": "content/corpus/ca-2026-08-sec9-prevention-of-insults-to-national-honour-amen.json"
   },
-  "89": {
-    "noteNumber": 89,
+  "81": {
+    "noteNumber": 81,
     "id": "ca-2026-08-sec9-it-rules-2021-amended-faster-takedown-ai-cont",
     "title": "IT Rules 2021 amended — faster takedown & AI-content labelling",
     "section": "SEC9",
-    "date": "2026-08-02",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC9",
     "file": "content/corpus/ca-2026-08-sec9-it-rules-2021-amended-faster-takedown-ai-cont.json"
   },
-  "90": {
-    "noteNumber": 90,
-    "id": "ca-2026-08-sec9-public-examinations-prevention-of-unfair-mea",
-    "title": "\"Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026\"",
+  "82": {
+    "noteNumber": 82,
+    "id": "ca-2026-08-sec9-public-examinations-prevention-of-unfair-mean",
+    "title": "Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026",
     "section": "SEC9",
-    "date": "2026-08-03",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC9",
-    "file": "content/corpus/ca-2026-08-sec9-public-examinations-prevention-of-unfair-mea.json"
+    "file": "content/corpus/ca-2026-08-sec9-public-examinations-prevention-of-unfair-mean.json"
   },
-  "91": {
-    "noteNumber": 91,
-    "id": "ca-2026-08-sec10-pm-vbry-pradhan-mantri-viksit-bharat-rozgar-y",
-    "title": "PM-VBRY (Pradhan Mantri Viksit Bharat Rozgar Yojana) — 1 year completed",
+  "83": {
+    "noteNumber": 83,
+    "id": "ca-2026-08-sec9-assam-land-and-revenue-regulation-amendment-b",
+    "title": "Assam Land and Revenue Regulation (Amendment) Bill, 2026",
+    "section": "SEC9",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "category": "SEC9",
+    "file": "content/corpus/ca-2026-08-sec9-assam-land-and-revenue-regulation-amendment-b.json"
+  },
+  "84": {
+    "noteNumber": 84,
+    "id": "ca-2026-08-sec9-registration-of-births-deaths-amendment-bill-",
+    "title": "Registration of Births & Deaths (Amendment) Bill, 2026 passed",
+    "section": "SEC9",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "category": "SEC9",
+    "file": "content/corpus/ca-2026-08-sec9-registration-of-births-deaths-amendment-bill-.json"
+  },
+  "85": {
+    "noteNumber": 85,
+    "id": "ca-2026-08-sec9-msme-development-amendment-bill-2026-passed",
+    "title": "MSME Development (Amendment) Bill, 2026 passed",
+    "section": "SEC9",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "category": "SEC9",
+    "file": "content/corpus/ca-2026-08-sec9-msme-development-amendment-bill-2026-passed.json"
+  },
+  "86": {
+    "noteNumber": 86,
+    "id": "ca-2026-08-sec9-draft-central-motor-vehicles-rules-amendment-",
+    "title": "Draft Central Motor Vehicles Rules amendment — mandatory V2V communication",
+    "section": "SEC9",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "category": "SEC9",
+    "file": "content/corpus/ca-2026-08-sec9-draft-central-motor-vehicles-rules-amendment-.json"
+  },
+  "87": {
+    "noteNumber": 87,
+    "id": "ca-2026-08-sec10-samudra-manthan-national-offshore-exploration",
+    "title": "Samudra Manthan — National Offshore Exploration Scheme",
     "section": "SEC10",
-    "date": "2026-08-01",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC10",
-    "file": "content/corpus/ca-2026-08-sec10-pm-vbry-pradhan-mantri-viksit-bharat-rozgar-y.json"
+    "file": "content/corpus/ca-2026-08-sec10-samudra-manthan-national-offshore-exploration.json"
   },
-  "92": {
-    "noteNumber": 92,
-    "id": "ca-2026-08-sec10-samudra-manthan-national-offshore-exploratio",
-    "title": "\"Samudra Manthan\" — National Offshore Exploration Scheme",
-    "section": "SEC10",
-    "date": "2026-08-01",
-    "category": "SEC10",
-    "file": "content/corpus/ca-2026-08-sec10-samudra-manthan-national-offshore-exploratio.json"
-  },
-  "93": {
-    "noteNumber": 93,
+  "88": {
+    "noteNumber": 88,
     "id": "ca-2026-08-sec10-pradhan-mantri-surya-sarovar-yojana-pm-ssy",
-    "title": "\"Pradhan Mantri Surya Sarovar Yojana (PM-SSY)\"",
+    "title": "Pradhan Mantri Surya Sarovar Yojana (PM-SSY)",
     "section": "SEC10",
-    "date": "2026-08-02",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC10",
     "file": "content/corpus/ca-2026-08-sec10-pradhan-mantri-surya-sarovar-yojana-pm-ssy.json"
   },
-  "94": {
-    "noteNumber": 94,
-    "id": "ca-2026-08-sec10-pradhan-mantri-kisan-samman-nidhi-pm-kisan-5",
-    "title": "\"Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)\" — 5-yr continuation",
+  "89": {
+    "noteNumber": 89,
+    "id": "ca-2026-08-sec10-pradhan-mantri-kisan-samman-nidhi-pm-kisan-5-",
+    "title": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) — 5-yr continuation",
     "section": "SEC10",
-    "date": "2026-08-03",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC10",
-    "file": "content/corpus/ca-2026-08-sec10-pradhan-mantri-kisan-samman-nidhi-pm-kisan-5.json"
+    "file": "content/corpus/ca-2026-08-sec10-pradhan-mantri-kisan-samman-nidhi-pm-kisan-5-.json"
   },
-  "95": {
-    "noteNumber": 95,
+  "90": {
+    "noteNumber": 90,
     "id": "ca-2026-08-sec10-union-cabinet-approves-gobardhan-national-cir",
-    "title": "Union Cabinet approves \"GOBARdhan\" National Circular Bioenergy Scheme",
+    "title": "Union Cabinet approves GOBARdhan National Circular Bioenergy Scheme",
     "section": "SEC10",
-    "date": "2026-08-04",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC10",
     "file": "content/corpus/ca-2026-08-sec10-union-cabinet-approves-gobardhan-national-cir.json"
   },
-  "96": {
-    "noteNumber": 96,
-    "id": "ca-2026-08-sec10-pm-surya-ghar-muft-bijli-yojana-crosses-50-06",
+  "91": {
+    "noteNumber": 91,
+    "id": "ca-2026-08-sec10-pm-surya-ghar-muft-bijli-yojana-crosses-5006-",
     "title": "PM Surya Ghar: Muft Bijli Yojana crosses 50.06 lakh households",
     "section": "SEC10",
-    "date": "2026-08-05",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC10",
-    "file": "content/corpus/ca-2026-08-sec10-pm-surya-ghar-muft-bijli-yojana-crosses-50-06.json"
+    "file": "content/corpus/ca-2026-08-sec10-pm-surya-ghar-muft-bijli-yojana-crosses-5006-.json"
   },
-  "97": {
-    "noteNumber": 97,
-    "id": "ca-2026-08-sec10-quick-hits-schemes-tier-a",
-    "title": "Quick Hits — Schemes (Tier A):",
+  "92": {
+    "noteNumber": 92,
+    "id": "ca-2026-08-sec10-pm-vbry-pradhan-mantri-viksit-bharat-rozgar-y",
+    "title": "PM-VBRY (Pradhan Mantri Viksit Bharat Rozgar Yojana) — 1 year completed",
     "section": "SEC10",
-    "date": "2026-08-07",
+    "date": "2026-08-17",
+    "period": "2026-08",
     "category": "SEC10",
-    "file": "content/corpus/ca-2026-08-sec10-quick-hits-schemes-tier-a.json"
+    "file": "content/corpus/ca-2026-08-sec10-pm-vbry-pradhan-mantri-viksit-bharat-rozgar-y.json"
   },
   "201": {
     "noteNumber": 201,

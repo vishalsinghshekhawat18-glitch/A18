@@ -3,17 +3,17 @@
   "type": "ca_note",
   "domain": "current-affairs",
   "title": "RBI streamlines supervisory framework — 64 Master Directions",
-  "summary": "Consolidates **628 existing circulars** into **64 Master Directions** across 11 categories of regulated entities (Dept of Supervision)...",
+  "summary": "Consolidates **628 existing circulars** into **64 Master Directions** across 11 categories of regulated entities (Dept of Supervision).",
   "blocks": [
     {
-      "id": "blk-23-bullets",
+      "id": "blk-21-bullets",
       "type": "bullet_list",
       "items": [
-        "Consolidates **628 existing circulars** into **64 Master Directions** across 11 categories of regulated entities (Dept of Supervision)"
+        "Consolidates **628 existing circulars** into **64 Master Directions** across 11 categories of regulated entities (Dept of Supervision)."
       ]
     },
     {
-      "id": "blk-23-focus",
+      "id": "blk-21-trap",
       "type": "exam_trap",
       "content": "🎯 Exam Angle → 628 circulars → 64 Master Directions (11 categories) — before/after numeric trap."
     }
@@ -35,13 +35,16 @@
     "difficulty": "advanced",
     "relevanceTier": "TIER_A",
     "noteTier": "TIER_A",
-    "date": "2026-08-03",
+    "date": "2026-08-17",
+    "period": "2026-08",
+    "monthLabel": "AUGUST 2026",
+    "monthGroup": "2026-08",
     "provenance": {
       "sourceSystem": "Claude",
       "sourceFile": "current_affairs_Aug1-17_2026_CORE.md",
       "sourceTitle": "RBI streamlines supervisory framework — 64 Master Directions"
     },
-    "noteNumber": 21
+    "noteNumber": 22
   },
   "relationships": []
 }
