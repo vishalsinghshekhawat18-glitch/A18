@@ -2,8 +2,8 @@
   "id": "migrated-eng-ch-4",
   "type": "chapter",
   "domain": "english",
-  "title": "120 Master Grammar Rules & Error Spotting",
-  "summary": "Complete 120 Grammar Rules for Error Spotting & Sentence Improvement (from Nimisha Bansal PDF). Formatted neatly with dedicated rule headings, clear explanations, and formatted correct/incorrect examples.",
+  "title": "120 Master Grammar Rules & Error Spotting Diagnostic Guide",
+  "summary": "Comprehensive breakdown of 120 core grammar rules covering Subject-Verb Agreement, Inversion, Subjunctive Mood, Parallelism, and Conditional clauses for Bank PO Mains...",
   "metadata": {
     "provenance": {
       "sourceSystem": "Core"
@@ -1260,7 +1260,7 @@
     {
       "id": "blk-migrated-eng-ch-4-exam-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → ✍️ Scoring Rubric — Ensure strict adherence to word limits (250 words ± 10%), eliminate informal contractions, and maintain parallel grammatical structure throughout."
+      "content": "🎯 Exam Angle → ⚡ High-Frequency Error Spotting Traps:\n1. **Hardly / Scarcely Inversion:** *\"Hardly had he entered the branch WHEN (not than) the siren sounded\"*; *\"No sooner did he arrive THAN (not when) the manager called\"*.\n2. **Lest + Should:** *\"Lest\"* is always followed by *\"should\"* (or bare infinitive), and NEVER takes a negative *\"not\"* (e.g. *\"Work hard lest you should fail\"*)."
     }
   ]
 }

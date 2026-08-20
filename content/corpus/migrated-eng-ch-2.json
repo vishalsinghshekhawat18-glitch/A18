@@ -2,8 +2,8 @@
   "id": "migrated-eng-ch-2",
   "type": "chapter",
   "domain": "english",
-  "title": "Introductions",
-  "summary": "Masterclass on writing high-scoring Essay Introductions using the 3-Sentence Formula (Hook, Definition, Thesis). Features exact model introductions for Digital Banking, UPI, Payments Banks, and Digital Rupee (e-Rupee).",
+  "title": "Introduction Hooks, Thesis Statements & Circular Callbacks",
+  "summary": "Comprehensive methodology for crafting high-impact opening hooks, definitive thesis statements, and circular conclusion callbacks for competitive examinations...",
   "metadata": {
     "provenance": {
       "sourceSystem": "Core"
@@ -63,7 +63,7 @@
     {
       "id": "blk-migrated-eng-ch-2-exam-trap",
       "type": "exam_trap",
-      "content": "🎯 Exam Angle → ✍️ Scoring Rubric — Ensure strict adherence to word limits (250 words ± 10%), eliminate informal contractions, and maintain parallel grammatical structure throughout."
+      "content": "🎯 Exam Angle → ✍️ Introduction Pitfalls:\n1. **The Circular Thesis Trap:** Never start with generic filler like *\"In today's modern world, technology is very important\"*. Open with a striking macroeconomic or statutory fact.\n2. **Conclusion Alignment:** The conclusion must provide a forward-looking mitigation roadmap, not just repeat the introduction word-for-word."
     }
   ]
 }
