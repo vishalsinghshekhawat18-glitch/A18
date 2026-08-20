@@ -5,7 +5,7 @@
   "pendingCount": 0,
   "reviewRequiredCount": 0,
   "failedCount": 0,
-  "lastUpdated": "2026-08-20T02:51:02.569Z",
+  "lastUpdated": "2026-08-20T03:25:30.194Z",
   "entries": [
     {
       "sourceSystem": "Schemes",
@@ -15235,5 +15235,6 @@
     }
   ],
   "caFrameworkVersion": "v5.5.0-r5-production",
-  "totalRecords": 361
+  "totalRecords": 361,
+  "totalNotesNumbered": 97
 }

@@ -36,6 +36,9 @@ export const CABriefingView: React.FC<Props> = ({
         <header className="ca-header-card">
           <div className="ca-metadata-bar">
             <div className="ca-meta-left">
+              {item.metadata?.noteNumber && (
+                <span className="ca-note-num-chip">NOTE #{item.metadata.noteNumber}</span>
+              )}
               {item.metadata?.date && <span className="ca-date-chip">📅 {item.metadata.date}</span>}
               {item.metadata?.category && <span className="ca-category-chip">{item.metadata.category}</span>}
               <span className="ca-domain-chip">CURRENT AFFAIRS BRIEFING</span>

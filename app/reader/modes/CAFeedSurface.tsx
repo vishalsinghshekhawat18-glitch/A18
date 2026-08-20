@@ -235,7 +235,9 @@ export const CAFeedSurface: React.FC<Props> = ({
                             <div className="ca-card-header-compact">
                               <div className="ca-card-meta-bar">
                                 <div className="ca-meta-left">
-                                  <span className="ca-card-num">NOTE #{noteNumber}</span>
+                                  <span className="ca-card-num">
+                                    {item.metadata?.noteNumber ? `NOTE #${item.metadata.noteNumber}` : (item.metadata?.sectionCode === 'SEC11' ? 'REVISION VAULT' : `ITEM #${noteNumber}`)}
+                                  </span>
                                   {item.metadata?.date && <span className="ca-date-chip">📅 {item.metadata.date}</span>}
                                   {item.metadata?.category && <span className="ca-category-chip">{item.metadata.category}</span>}
                                 </div>

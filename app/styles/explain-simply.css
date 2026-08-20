@@ -77,6 +77,18 @@
   flex-wrap: wrap;
 }
 
+.ca-note-num-chip {
+  background: #1e293b;
+  color: #f8fafc;
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+  padding: 0.15rem 0.55rem;
+  border-radius: 4px;
+  border: 1px solid #334155;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
 /* Expanded Details Card */
 .explain-simply-card {
   margin-top: 0.75rem;

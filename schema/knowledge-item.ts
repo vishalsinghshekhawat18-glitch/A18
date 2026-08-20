@@ -208,6 +208,7 @@ export interface MigrationProvenance {
 export interface Metadata {
   exam?: string[];
   tags?: string[];
+  noteNumber?: number;
   date?: string;
   category?: string;
   sectionCode?: string;
