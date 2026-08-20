@@ -3,16 +3,15 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Smart Bullet Points Presentation Sandbox | Banking Command Center</title>
+  <title>Card Density & Spacing Sandbox | Banking Command Center</title>
   
-  <!-- Import Locked Font: Lexend -->
+  <!-- Locked Font: Lexend -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
   <style>
     :root {
-      /* Palette Tokens */
       --bg-canvas: #fbf0d9;
       --bg-card: #f5ebce;
       --text-main: #2b2216;
@@ -21,8 +20,6 @@
       --border-line: #dfcca0;
       --bullet-color: #9c8466;
       --track-line: #dfcca0;
-      --chip-bg: rgba(0, 0, 0, 0.035);
-      --highlight-num: #854d0e;
     }
 
     body.theme-warm {
@@ -34,7 +31,6 @@
       --border-line: #d4c7ad;
       --bullet-color: #8c7e6c;
       --track-line: #d4c7ad;
-      --chip-bg: rgba(0, 0, 0, 0.03);
     }
 
     body.theme-night {
@@ -46,8 +42,6 @@
       --border-line: #2d3848;
       --bullet-color: #55667d;
       --track-line: #2d3848;
-      --chip-bg: rgba(255, 255, 255, 0.04);
-      --highlight-num: #38bdf8;
     }
 
     body.theme-white {
@@ -59,8 +53,6 @@
       --border-line: #e2e8f0;
       --bullet-color: #94a3b8;
       --track-line: #e2e8f0;
-      --chip-bg: #f1f5f9;
-      --highlight-num: #0369a1;
     }
 
     * {
@@ -73,8 +65,8 @@
       background-color: var(--bg-canvas);
       color: var(--text-main);
       font-family: 'Lexend', -apple-system, BlinkMacSystemFont, sans-serif;
-      font-size: 16px;
-      line-height: 1.72;
+      font-size: 15px; /* Default opening size */
+      line-height: 1.68;
       padding: 2.5rem 1.5rem;
       transition: background-color 0.2s ease, color 0.2s ease;
     }
@@ -139,7 +131,7 @@
     .variant-label-row {
       display: flex;
       align-items: baseline;
-      gap: 0.75rem;
+      justify-content: space-between;
       margin-bottom: 0.5rem;
     }
 
@@ -158,34 +150,19 @@
       font-weight: 700;
     }
 
+    .height-tag {
+      font-size: 0.76rem;
+      font-weight: 700;
+      padding: 0.15rem 0.45rem;
+      border-radius: 4px;
+      background: rgba(0,0,0,0.06);
+      color: var(--text-muted);
+    }
+
     .variant-desc {
       font-size: 0.84rem;
       color: var(--text-muted);
       margin-bottom: 1.25rem;
-    }
-
-    /* Common Card Styling */
-    .study-card {
-      background: var(--bg-card);
-      border: 1px solid var(--border-subtle);
-      border-radius: 12px;
-      padding: 2rem 2.25rem;
-      box-shadow: 0 1px 4px rgba(0, 0, 0, 0.02);
-    }
-
-    /* Locked Header: Variation 3 Byline + Solid Rule */
-    .card-header-locked {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      padding-bottom: 0.65rem;
-      margin-bottom: 1.15rem;
-      border-bottom: 1px solid var(--border-line);
-      font-size: 0.72rem;
-      font-weight: 600;
-      text-transform: uppercase;
-      letter-spacing: 0.06em;
-      color: var(--text-muted);
     }
 
     .btn-quiet-bulb {
@@ -196,8 +173,8 @@
       background: transparent;
       border: 1px solid var(--border-subtle);
       border-radius: 16px;
-      padding: 0.15rem 0.55rem;
-      font-size: 0.72rem;
+      padding: 0.12rem 0.48rem;
+      font-size: 0.7rem;
       font-weight: 600;
       color: var(--text-muted);
       cursor: pointer;
@@ -212,8 +189,35 @@
       background: rgba(0, 0, 0, 0.03);
     }
 
-    /* Locked Dashed Headline */
-    .news-title-locked {
+    /* =========================================================
+       DENSITY OPTION 1: COMFORTABLE (Current Standard)
+       - Card padding: 2rem 2.25rem
+       - Line height: 1.68
+       - Bullet spacing: 1rem
+       ========================================================= */
+    .card-comfortable {
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-radius: 12px;
+      padding: 2rem 2.25rem;
+      box-shadow: 0 1px 4px rgba(0, 0, 0, 0.02);
+    }
+
+    .card-comfortable .header-locked {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding-bottom: 0.65rem;
+      margin-bottom: 1.15rem;
+      border-bottom: 1px solid var(--border-line);
+      font-size: 0.72rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--text-muted);
+    }
+
+    .card-comfortable .title-locked {
       font-size: 1.45rem;
       font-weight: 700;
       line-height: 1.35;
@@ -224,44 +228,20 @@
       letter-spacing: -0.01em;
     }
 
-    .exec-hook {
+    .card-comfortable .exec-hook {
       font-size: 1.02rem;
-      margin-bottom: 1.35rem;
+      margin-bottom: 1.25rem;
       line-height: 1.68;
     }
 
-    /* Locked Exam Trap Subtext */
-    .exam-trap-subtext {
-      margin-top: 1.25rem;
-      padding-top: 0.85rem;
-      border-top: 1px dashed var(--border-subtle);
-      font-size: 0.86rem;
-      font-style: italic;
-      color: var(--text-muted);
-      line-height: 1.6;
-    }
-
-    .exam-trap-subtext .trap-prefix {
-      font-style: normal;
-      font-weight: 700;
-      font-size: 0.78rem;
-      color: var(--text-main);
-      margin-right: 0.35rem;
-    }
-
-    /* =========================================================
-       SMART BULLET STYLE 1: VERTICAL TIMELINE / STEP-TRACK
-       - Clean subtle vertical track line on the left
-       - Minimal bullet nodes for structured visual pacing
-       ========================================================= */
-    .bullets-track {
+    .card-comfortable .bullets-track {
       position: relative;
       list-style-type: none;
       padding-left: 1.5rem;
       margin-bottom: 1.35rem;
     }
 
-    .bullets-track::before {
+    .card-comfortable .bullets-track::before {
       content: "";
       position: absolute;
       left: 0.4rem;
@@ -271,13 +251,13 @@
       background: var(--track-line);
     }
 
-    .bullets-track li {
+    .card-comfortable .bullets-track li {
       position: relative;
       margin-bottom: 1rem;
       line-height: 1.68;
     }
 
-    .bullets-track li::before {
+    .card-comfortable .bullets-track li::before {
       content: "";
       position: absolute;
       left: -1.35rem;
@@ -288,91 +268,216 @@
       background: var(--bullet-color);
     }
 
+    .card-comfortable .exam-trap-subtext {
+      margin-top: 1.25rem;
+      padding-top: 0.85rem;
+      border-top: 1px dashed var(--border-subtle);
+      font-size: 0.86rem;
+      font-style: italic;
+      color: var(--text-muted);
+      line-height: 1.6;
+    }
+
+    .card-comfortable .exam-trap-subtext .trap-prefix {
+      font-style: normal;
+      font-weight: 700;
+      font-size: 0.78rem;
+      color: var(--text-main);
+      margin-right: 0.35rem;
+    }
+
     /* =========================================================
-       SMART BULLET STYLE 2: SUBTLE SEPARATED STRIPS
-       - Delicate hairline divider between each bullet point
-       - Extra breathing room with zero visual clutter
+       DENSITY OPTION 2: COMPACT (Optimal Single Viewport)
+       - Card padding: 1.35rem 1.65rem (~30% space reduction)
+       - Title size: 1.25rem, line-height 1.28
+       - Bullet spacing: 0.65rem, line-height 1.55
        ========================================================= */
-    .bullets-strips {
-      list-style-type: none;
-      padding-left: 0;
-      margin-bottom: 1.35rem;
+    .card-compact {
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-radius: 10px;
+      padding: 1.35rem 1.65rem;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.02);
     }
 
-    .bullets-strips li {
-      position: relative;
-      padding: 0.75rem 0 0.75rem 1.35rem;
-      border-bottom: 1px solid rgba(0, 0, 0, 0.04);
-      line-height: 1.68;
+    .card-compact .header-locked {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding-bottom: 0.45rem;
+      margin-bottom: 0.75rem;
+      border-bottom: 1px solid var(--border-line);
+      font-size: 0.7rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--text-muted);
     }
 
-    .bullets-strips li:last-child {
-      border-bottom: none;
-    }
-
-    .bullets-strips li::before {
-      content: "•";
-      position: absolute;
-      left: 0.15rem;
-      top: 0.75rem;
-      color: var(--bullet-color);
+    .card-compact .title-locked {
       font-size: 1.25rem;
-      font-weight: bold;
-    }
-
-    /* =========================================================
-       SMART BULLET STYLE 3: MINIMAL EN-DASH (Speed-Reading Cadence)
-       - Typographic en-dash markers ('–')
-       - Optimal hanging indent
-       ========================================================= */
-    .bullets-endash {
-      list-style-type: none;
-      padding-left: 0;
-      margin-bottom: 1.35rem;
-    }
-
-    .bullets-endash li {
-      position: relative;
-      padding-left: 1.45rem;
-      margin-bottom: 0.95rem;
-      line-height: 1.68;
-    }
-
-    .bullets-endash li::before {
-      content: "–";
-      position: absolute;
-      left: 0.15rem;
-      top: 0;
-      color: var(--bullet-color);
       font-weight: 700;
-      font-size: 1.1rem;
+      line-height: 1.28;
+      padding-bottom: 0.65rem;
+      margin-bottom: 0.85rem;
+      border-bottom: 1px dashed var(--border-line);
+      color: var(--text-main);
     }
 
-    /* =========================================================
-       SMART BULLET STYLE 4: SUBTLE CHEVRON ARROW ('›')
-       - Modern reader directional chevron marker
-       ========================================================= */
-    .bullets-chevron {
-      list-style-type: none;
-      padding-left: 0;
-      margin-bottom: 1.35rem;
+    .card-compact .exec-hook {
+      font-size: 0.98rem;
+      margin-bottom: 0.85rem;
+      line-height: 1.55;
     }
 
-    .bullets-chevron li {
+    .card-compact .bullets-track {
       position: relative;
+      list-style-type: none;
       padding-left: 1.35rem;
-      margin-bottom: 0.95rem;
-      line-height: 1.68;
+      margin-bottom: 0.85rem;
     }
 
-    .bullets-chevron li::before {
-      content: "›";
+    .card-compact .bullets-track::before {
+      content: "";
       position: absolute;
-      left: 0.15rem;
-      top: -0.1rem;
-      color: var(--bullet-color);
-      font-size: 1.35rem;
+      left: 0.35rem;
+      top: 0.4rem;
+      bottom: 0.4rem;
+      width: 1.5px;
+      background: var(--track-line);
+    }
+
+    .card-compact .bullets-track li {
+      position: relative;
+      margin-bottom: 0.65rem;
+      line-height: 1.55;
+      font-size: 0.95rem;
+    }
+
+    .card-compact .bullets-track li::before {
+      content: "";
+      position: absolute;
+      left: -1.2rem;
+      top: 0.48rem;
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: var(--bullet-color);
+    }
+
+    .card-compact .exam-trap-subtext {
+      margin-top: 0.85rem;
+      padding-top: 0.55rem;
+      border-top: 1px dashed var(--border-subtle);
+      font-size: 0.82rem;
+      font-style: italic;
+      color: var(--text-muted);
+      line-height: 1.48;
+    }
+
+    .card-compact .exam-trap-subtext .trap-prefix {
+      font-style: normal;
       font-weight: 700;
+      font-size: 0.75rem;
+      color: var(--text-main);
+      margin-right: 0.35rem;
+    }
+
+    /* =========================================================
+       DENSITY OPTION 3: ULTRA-COMPACT (High-Speed Scanning & Memorization)
+       - Card padding: 1rem 1.25rem (~45% space reduction)
+       - Title size: 1.15rem, line-height 1.24
+       - Bullet spacing: 0.45rem, line-height 1.46
+       ========================================================= */
+    .card-ultra-compact {
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-radius: 8px;
+      padding: 1rem 1.35rem;
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.02);
+    }
+
+    .card-ultra-compact .header-locked {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding-bottom: 0.35rem;
+      margin-bottom: 0.55rem;
+      border-bottom: 1px solid var(--border-line);
+      font-size: 0.68rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: var(--text-muted);
+    }
+
+    .card-ultra-compact .title-locked {
+      font-size: 1.15rem;
+      font-weight: 700;
+      line-height: 1.24;
+      padding-bottom: 0.45rem;
+      margin-bottom: 0.65rem;
+      border-bottom: 1px dashed var(--border-line);
+      color: var(--text-main);
+    }
+
+    .card-ultra-compact .exec-hook {
+      font-size: 0.94rem;
+      margin-bottom: 0.65rem;
+      line-height: 1.48;
+    }
+
+    .card-ultra-compact .bullets-track {
+      position: relative;
+      list-style-type: none;
+      padding-left: 1.2rem;
+      margin-bottom: 0.65rem;
+    }
+
+    .card-ultra-compact .bullets-track::before {
+      content: "";
+      position: absolute;
+      left: 0.3rem;
+      top: 0.35rem;
+      bottom: 0.35rem;
+      width: 1px;
+      background: var(--track-line);
+    }
+
+    .card-ultra-compact .bullets-track li {
+      position: relative;
+      margin-bottom: 0.45rem;
+      line-height: 1.46;
+      font-size: 0.92rem;
+    }
+
+    .card-ultra-compact .bullets-track li::before {
+      content: "";
+      position: absolute;
+      left: -1.05rem;
+      top: 0.42rem;
+      width: 5px;
+      height: 5px;
+      border-radius: 50%;
+      background: var(--bullet-color);
+    }
+
+    .card-ultra-compact .exam-trap-subtext {
+      margin-top: 0.65rem;
+      padding-top: 0.45rem;
+      border-top: 1px dashed var(--border-subtle);
+      font-size: 0.8rem;
+      font-style: italic;
+      color: var(--text-muted);
+      line-height: 1.42;
+    }
+
+    .card-ultra-compact .exam-trap-subtext .trap-prefix {
+      font-style: normal;
+      font-weight: 700;
+      font-size: 0.72rem;
+      color: var(--text-main);
+      margin-right: 0.3rem;
     }
   </style>
 </head>
@@ -382,7 +487,7 @@
 
     <!-- Sticky Controller -->
     <div class="sandbox-controls">
-      <div class="controls-title">💡 Smart Bullet Presentation Sandbox</div>
+      <div class="controls-title">📐 Card Density &amp; Spacing Comparison (Lexend 15px)</div>
       
       <div class="btn-group">
         <span style="font-size:0.76rem; color:var(--text-muted);">Theme:</span>
@@ -394,39 +499,39 @@
 
       <div class="btn-group">
         <span style="font-size:0.76rem; color:var(--text-muted);">Font Size:</span>
-        <button class="ctrl-btn" onclick="setFontSize(15)">15px</button>
-        <button class="ctrl-btn active" onclick="setFontSize(16)">16px</button>
-        <button class="ctrl-btn" onclick="setFontSize(17.5)">17.5px</button>
+        <button class="ctrl-btn" onclick="setFontSize(14)">14px</button>
+        <button class="ctrl-btn active" onclick="setFontSize(15)">15px</button>
+        <button class="ctrl-btn" onclick="setFontSize(16.5)">16.5px</button>
       </div>
     </div>
 
     <!-- =========================================================
-         SMART STYLE 1: VERTICAL STEP-TRACK
+         DENSITY 1: COMFORTABLE
          ========================================================= -->
     <div class="variant-wrapper">
       <div class="variant-label-row">
-        <span class="badge-opt">STYLE 1</span>
-        <h2 class="variant-heading">Vertical Step-Track (Structured Mental Journey)</h2>
+        <div style="display:flex; align-items:baseline; gap:0.6rem;">
+          <span class="badge-opt">DENSITY 1</span>
+          <h2 class="variant-heading">Comfortable (Relaxed Reading)</h2>
+        </div>
+        <span class="height-tag">Vertical Height: ~530px</span>
       </div>
       <p class="variant-desc">
-        A subtle vertical guide track connects the nodes on the left. Gives the brain a clear structured path from data point to data point without visual weight.
+        Generous margins (<code>2rem 2.25rem</code> padding, <code>1.68</code> line-height, <code>1rem</code> bullet gap). Great for long reading sessions without fatigue.
       </p>
 
-      <article class="study-card">
-        <header class="card-header-locked">
+      <article class="card-comfortable">
+        <header class="header-locked">
           <div>NOTE 01 &nbsp;·&nbsp; 01 AUG 2026 &nbsp;·&nbsp; SECTION 1 (ESI &amp; FINANCE)</div>
           <button class="btn-quiet-bulb" title="Tap to explain in plain English">
             <span>💡</span> <span>Explain</span>
           </button>
         </header>
 
-        <h1 class="news-title-locked">India crosses 300 GW non-fossil fuel capacity; renewables push continues</h1>
-
-        <p class="exec-hook">
-          India hit <strong>300.50 GW</strong> of installed non-fossil fuel electricity capacity (as of Jul 31, 2026) — 60%+ of its 500 GW-by-2030 target, already 54%+ of total installed capacity (552 GW).
-        </p>
+        <h1 class="title-locked">India crosses 300 GW non-fossil fuel capacity; renewables push continues</h1>
 
         <ul class="bullets-track">
+          <li>India hit <strong>300.50 GW</strong> of installed non-fossil fuel electricity capacity (as of Jul 31, 2026) — 60%+ of its 500 GW-by-2030 target, already 54%+ of total installed capacity (552 GW).</li>
           <li><strong>Break-up:</strong> Solar 164.59 GW | Wind 58.14 GW | Hydro 57.24 GW | Bio-power 11.75 GW | Nuclear 8.78 GW</li>
           <li><strong>2025-26 addition:</strong> 55.29 GW (Solar 44.6 + Wind 6) | <strong>Renewable generation:</strong> 477.79 BU (2025-26), up from 190.96 BU (2014-15)</li>
           <li><strong>Brookfield launches "Lumara"</strong> — dedicated India renewable platform, <strong>~$600 mn</strong> deployment (solar/wind/BESS, 6+ GW initial); funded via Brookfield's Catalytic Transition Fund (anchor: UAE's ALTÉRRA, up to $5 bn corpus). Brookfield's total India wind+solar portfolio: ~45 GW; total India investment &gt;$32 bn. Nawal Saini — Managing Partner & Head of Energy (South Asia & ME). HQ Brookfield: New York/Toronto; CEO Bruce Flatt.</li>
@@ -439,32 +544,32 @@
     </div>
 
     <!-- =========================================================
-         SMART STYLE 2: SEPARATED SUBTLE STRIPS
+         DENSITY 2: COMPACT
          ========================================================= -->
     <div class="variant-wrapper">
       <div class="variant-label-row">
-        <span class="badge-opt" style="background:#8b5cf6;">STYLE 2</span>
-        <h2 class="variant-heading">Subtle Separated Strips (Delicate Row Dividers)</h2>
+        <div style="display:flex; align-items:baseline; gap:0.6rem;">
+          <span class="badge-opt" style="background:#059669;">DENSITY 2</span>
+          <h2 class="variant-heading">Compact (Single Viewport Fit — Recommended)</h2>
+        </div>
+        <span class="height-tag" style="color:#059669; font-weight:800;">Vertical Height: ~390px (26% smaller)</span>
       </div>
       <p class="variant-desc">
-        Each bullet is separated by a delicate hairline strip with comfortable top/bottom padding, turning multi-sentence points into distinct mental capsules.
+        Balanced tightness (<code>1.35rem 1.65rem</code> padding, <code>1.55</code> line-height, <code>0.65rem</code> bullet gap). Fits entirely in the visible viewport with zero scrolling while keeping text 100% legible.
       </p>
 
-      <article class="study-card">
-        <header class="card-header-locked">
+      <article class="card-compact">
+        <header class="header-locked">
           <div>NOTE 01 &nbsp;·&nbsp; 01 AUG 2026 &nbsp;·&nbsp; SECTION 1 (ESI &amp; FINANCE)</div>
           <button class="btn-quiet-bulb">
             <span>💡</span> <span>Explain</span>
           </button>
         </header>
 
-        <h1 class="news-title-locked">India crosses 300 GW non-fossil fuel capacity; renewables push continues</h1>
+        <h1 class="title-locked">India crosses 300 GW non-fossil fuel capacity; renewables push continues</h1>
 
-        <p class="exec-hook">
-          India hit <strong>300.50 GW</strong> of installed non-fossil fuel electricity capacity (as of Jul 31, 2026) — 60%+ of its 500 GW-by-2030 target, already 54%+ of total installed capacity (552 GW).
-        </p>
-
-        <ul class="bullets-strips">
+        <ul class="bullets-track">
+          <li>India hit <strong>300.50 GW</strong> of installed non-fossil fuel electricity capacity (as of Jul 31, 2026) — 60%+ of its 500 GW-by-2030 target, already 54%+ of total installed capacity (552 GW).</li>
           <li><strong>Break-up:</strong> Solar 164.59 GW | Wind 58.14 GW | Hydro 57.24 GW | Bio-power 11.75 GW | Nuclear 8.78 GW</li>
           <li><strong>2025-26 addition:</strong> 55.29 GW (Solar 44.6 + Wind 6) | <strong>Renewable generation:</strong> 477.79 BU (2025-26), up from 190.96 BU (2014-15)</li>
           <li><strong>Brookfield launches "Lumara"</strong> — dedicated India renewable platform, <strong>~$600 mn</strong> deployment (solar/wind/BESS, 6+ GW initial); funded via Brookfield's Catalytic Transition Fund (anchor: UAE's ALTÉRRA, up to $5 bn corpus). Brookfield's total India wind+solar portfolio: ~45 GW; total India investment &gt;$32 bn. Nawal Saini — Managing Partner & Head of Energy (South Asia & ME). HQ Brookfield: New York/Toronto; CEO Bruce Flatt.</li>
@@ -477,70 +582,32 @@
     </div>
 
     <!-- =========================================================
-         SMART STYLE 3: MINIMAL EN-DASH (HIGH-SPEED SCANNING)
+         DENSITY 3: ULTRA-COMPACT
          ========================================================= -->
     <div class="variant-wrapper">
       <div class="variant-label-row">
-        <span class="badge-opt" style="background:#059669;">STYLE 3</span>
-        <h2 class="variant-heading">Minimal En-Dash ('–') (Clean Typographic Cadence)</h2>
-      </div>
-      <p class="variant-desc">
-        Replaces harsh circular dots with elegant typographic en-dashes (<code>–</code>). Matches classic book typography and flows naturally with Lexend.
-      </p>
-
-      <article class="study-card">
-        <header class="card-header-locked">
-          <div>NOTE 01 &nbsp;·&nbsp; 01 AUG 2026 &nbsp;·&nbsp; SECTION 1 (ESI &amp; FINANCE)</div>
-          <button class="btn-quiet-bulb">
-            <span>💡</span> <span>Explain</span>
-          </button>
-        </header>
-
-        <h1 class="news-title-locked">India crosses 300 GW non-fossil fuel capacity; renewables push continues</h1>
-
-        <p class="exec-hook">
-          India hit <strong>300.50 GW</strong> of installed non-fossil fuel electricity capacity (as of Jul 31, 2026) — 60%+ of its 500 GW-by-2030 target, already 54%+ of total installed capacity (552 GW).
-        </p>
-
-        <ul class="bullets-endash">
-          <li><strong>Break-up:</strong> Solar 164.59 GW | Wind 58.14 GW | Hydro 57.24 GW | Bio-power 11.75 GW | Nuclear 8.78 GW</li>
-          <li><strong>2025-26 addition:</strong> 55.29 GW (Solar 44.6 + Wind 6) | <strong>Renewable generation:</strong> 477.79 BU (2025-26), up from 190.96 BU (2014-15)</li>
-          <li><strong>Brookfield launches "Lumara"</strong> — dedicated India renewable platform, <strong>~$600 mn</strong> deployment (solar/wind/BESS, 6+ GW initial); funded via Brookfield's Catalytic Transition Fund (anchor: UAE's ALTÉRRA, up to $5 bn corpus). Brookfield's total India wind+solar portfolio: ~45 GW; total India investment &gt;$32 bn. Nawal Saini — Managing Partner & Head of Energy (South Asia & ME). HQ Brookfield: New York/Toronto; CEO Bruce Flatt.</li>
-        </ul>
-
-        <div class="exam-trap-subtext">
-          <span class="trap-prefix">🎯 Exam Angle:</span> Don't confuse: 300.50 GW (national non-fossil capacity) vs Brookfield's $600 mn Lumara deployment vs Brookfield's $32 bn total India investment — three different numbers, same theme.
+        <div style="display:flex; align-items:baseline; gap:0.6rem;">
+          <span class="badge-opt" style="background:#ea580c;">DENSITY 3</span>
+          <h2 class="variant-heading">Ultra-Compact (High-Speed Rapid Memorization)</h2>
         </div>
-      </article>
-    </div>
-
-    <!-- =========================================================
-         SMART STYLE 4: DIRECTIONAL CHEVRON ('›')
-         ========================================================= -->
-    <div class="variant-wrapper">
-      <div class="variant-label-row">
-        <span class="badge-opt" style="background:#ea580c;">STYLE 4</span>
-        <h2 class="variant-heading">Directional Chevron ('›') (Modern Reader Flow)</h2>
+        <span class="height-tag" style="color:#ea580c; font-weight:800;">Vertical Height: ~330px (38% smaller)</span>
       </div>
       <p class="variant-desc">
-        Uses subtle chevron arrows (<code>›</code>) that gently guide the eye forward into the data content.
+        Maximum vertical density (<code>1rem 1.35rem</code> padding, <code>1.46</code> line-height, <code>0.45rem</code> bullet gap). Allows seeing 2+ full news notes side-by-side or stacked on a single screen for quick revision before exams.
       </p>
 
-      <article class="study-card">
-        <header class="card-header-locked">
+      <article class="card-ultra-compact">
+        <header class="header-locked">
           <div>NOTE 01 &nbsp;·&nbsp; 01 AUG 2026 &nbsp;·&nbsp; SECTION 1 (ESI &amp; FINANCE)</div>
           <button class="btn-quiet-bulb">
             <span>💡</span> <span>Explain</span>
           </button>
         </header>
 
-        <h1 class="news-title-locked">India crosses 300 GW non-fossil fuel capacity; renewables push continues</h1>
+        <h1 class="title-locked">India crosses 300 GW non-fossil fuel capacity; renewables push continues</h1>
 
-        <p class="exec-hook">
-          India hit <strong>300.50 GW</strong> of installed non-fossil fuel electricity capacity (as of Jul 31, 2026) — 60%+ of its 500 GW-by-2030 target, already 54%+ of total installed capacity (552 GW).
-        </p>
-
-        <ul class="bullets-chevron">
+        <ul class="bullets-track">
+          <li>India hit <strong>300.50 GW</strong> of installed non-fossil fuel electricity capacity (as of Jul 31, 2026) — 60%+ of its 500 GW-by-2030 target, already 54%+ of total installed capacity (552 GW).</li>
           <li><strong>Break-up:</strong> Solar 164.59 GW | Wind 58.14 GW | Hydro 57.24 GW | Bio-power 11.75 GW | Nuclear 8.78 GW</li>
           <li><strong>2025-26 addition:</strong> 55.29 GW (Solar 44.6 + Wind 6) | <strong>Renewable generation:</strong> 477.79 BU (2025-26), up from 190.96 BU (2014-15)</li>
           <li><strong>Brookfield launches "Lumara"</strong> — dedicated India renewable platform, <strong>~$600 mn</strong> deployment (solar/wind/BESS, 6+ GW initial); funded via Brookfield's Catalytic Transition Fund (anchor: UAE's ALTÉRRA, up to $5 bn corpus). Brookfield's total India wind+solar portfolio: ~45 GW; total India investment &gt;$32 bn. Nawal Saini — Managing Partner & Head of Energy (South Asia & ME). HQ Brookfield: New York/Toronto; CEO Bruce Flatt.</li>

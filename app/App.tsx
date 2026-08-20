@@ -21,7 +21,7 @@ export const App: React.FC = () => {
 
   // Routing State & Reading Controls State
   const [routeState, setRouteState] = useState<RouteState>(() => parseHash(window.location.hash));
-  const [fontSize, setFontSize] = useState<number>(18);
+  const [fontSize, setFontSize] = useState<number>(15);
   const [theme, setTheme] = useState<ReadingTheme>('sepia');
   const [isSearchOpen, setIsSearchOpen] = useState<boolean>(false);
   const [isOpenMobile, setIsOpenMobile] = useState<boolean>(false);
