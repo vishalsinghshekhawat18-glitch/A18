@@ -102,6 +102,21 @@ export const SubjectHubView: React.FC<Props> = ({
     }
   }
 
+  // IIBF Module Grouping
+  const isIIBF = subjectId === 'iibf-regulations';
+  const iibfModulesMap: Record<string, KnowledgeItem[]> = {};
+
+  if (isIIBF) {
+    subjectItems.forEach(item => {
+      let modName = item.metadata?.category || 'Banking Regulations Compendiums';
+      if (!iibfModulesMap[modName]) iibfModulesMap[modName] = [];
+      iibfModulesMap[modName].push(item);
+    });
+    for (const k of Object.keys(iibfModulesMap)) {
+      iibfModulesMap[k].sort(naturalChapterSort);
+    }
+  }
+
   const displayedCAGroups = useMemo(() => {
     if (selectedCAMonth === 'all') return caMonthGroups;
     return caMonthGroups.filter(g => g.monthKey === selectedCAMonth);
@@ -154,8 +169,69 @@ export const SubjectHubView: React.FC<Props> = ({
           )}
         </header>
 
-        {/* Economics Book Accordion Structure */}
-        {isEconomics ? (
+        {/* IIBF Module Accordion Structure */}
+        {isIIBF ? (
+          <div className="iibf-nested-hub" style={{ display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>
+            {Object.entries(iibfModulesMap).map(([modName, modItems]) => {
+              const isModCollapsed = !!collapsedParts[modName];
+              return (
+                <div key={modName} className="iibf-mod-accordion" style={{ background: 'var(--bg-surface, #ffffff)', borderRadius: '10px', border: '1px solid var(--border-color, #e2e8f0)', overflow: 'hidden' }}>
+                  <div
+                    className="iibf-mod-header collapsible-header"
+                    onClick={() => togglePart(modName)}
+                    style={{ padding: '1rem 1.2rem', background: 'var(--card-bg, #f8fafc)', borderBottom: isModCollapsed ? 'none' : '1px solid var(--border-color, #e2e8f0)', cursor: 'pointer', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}
+                  >
+                    <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
+                      <span style={{ fontSize: '1.1rem' }}>🏛️</span>
+                      <h2 style={{ fontSize: '1.05rem', fontWeight: 800, margin: 0, color: 'var(--text-primary, #0f172a)' }}>
+                        {modName}
+                      </h2>
+                    </div>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: '0.8rem' }}>
+                      <span className="tag-pill" style={{ fontWeight: 700 }}>{modItems.length} Units</span>
+                      <span style={{ fontSize: '1.1rem', color: '#64748b' }}>{isModCollapsed ? '▸' : '▾'}</span>
+                    </div>
+                  </div>
+
+                  {!isModCollapsed && (
+                    <div className="hub-items-list" style={{ padding: '1.2rem', display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(320px, 1fr))', gap: '1rem' }}>
+                      {modItems.map((item, idx) => (
+                        <div
+                          key={item.id}
+                          className="hub-item-card"
+                          onClick={() => onSelectItem(item.id)}
+                          style={{ cursor: 'pointer', display: 'flex', flexDirection: 'column', justifyContent: 'space-between', padding: '1rem', background: 'var(--bg-primary, #ffffff)', borderRadius: '8px', border: '1px solid var(--border-color, #e2e8f0)' }}
+                        >
+                          <div>
+                            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.4rem' }}>
+                              <span style={{ fontSize: '0.75rem', fontWeight: 700, color: '#64748b' }}>Unit {idx + 1}</span>
+                              <span className="tag-pill" style={{ fontSize: '0.7rem' }}>ID: {item.id}</span>
+                            </div>
+                            <h3 style={{ fontSize: '0.95rem', fontWeight: 700, margin: '0 0 0.4rem 0', lineHeight: 1.4, color: 'var(--text-primary)' }}>
+                              {item.title}
+                            </h3>
+                            {item.summary && (
+                              <p style={{ fontSize: '0.82rem', color: '#64748b', margin: 0, lineHeight: 1.4, display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>
+                                {item.summary}
+                              </p>
+                            )}
+                          </div>
+                          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: '1rem', paddingTop: '0.6rem', borderTop: '1px solid #f1f5f9', fontSize: '0.75rem' }}>
+                            {isCompleted(item.id) ? (
+                              <span style={{ color: '#16a34a', fontWeight: 700 }}>✓ Completed</span>
+                            ) : (
+                              <span style={{ color: '#2563eb', fontWeight: 600 }}>Study Unit →</span>
+                            )}
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  )}
+                </div>
+              );
+            })}
+          </div>
+        ) : isEconomics ? (
           <div className="economics-nested-hub" style={{ display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>
             {Object.entries(economicsBooksMap).map(([bookName, bookItems]) => {
               const isBookCollapsed = !!collapsedParts[bookName];

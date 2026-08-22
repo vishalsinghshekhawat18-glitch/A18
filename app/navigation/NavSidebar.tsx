@@ -17,8 +17,8 @@ interface Props {
 }
 
 const SUBJECT_LIST = [
-  { id: 'economics', title: 'Indian Economy & Macro', icon: '📚' },
   { id: 'iibf-regulations', title: 'IIBF & Banking Regulations', icon: '🏛️' },
+  { id: 'economics', title: 'Indian Economy & Macro', icon: '📚' },
   { id: 'english', title: 'English Language', icon: '✍️' },
   { id: 'polity', title: 'Polity & Governance', icon: '⚖️' },
   { id: 'history', title: 'History & Culture', icon: '📜' },
@@ -124,11 +124,26 @@ export const NavSidebar: React.FC<Props> = ({
         if (!booksMap[bookName]) booksMap[bookName] = [];
         booksMap[bookName].push(item);
       });
-      // Sort items within each book
       for (const k of Object.keys(booksMap)) {
         booksMap[k].sort(naturalChapterSort);
       }
       return booksMap;
+    }
+    return null;
+  }, [targetSubject, contextItems]);
+
+  const iibfSidebarGroups = useMemo(() => {
+    if (targetSubject === 'iibf-regulations') {
+      const modMap: Record<string, KnowledgeItem[]> = {};
+      contextItems.forEach(item => {
+        let modName = item.metadata?.category || 'Banking Regulations Compendiums';
+        if (!modMap[modName]) modMap[modName] = [];
+        modMap[modName].push(item);
+      });
+      for (const k of Object.keys(modMap)) {
+        modMap[k].sort(naturalChapterSort);
+      }
+      return modMap;
     }
     return null;
   }, [targetSubject, contextItems]);
@@ -201,8 +216,30 @@ export const NavSidebar: React.FC<Props> = ({
                 {targetSubject?.toUpperCase() || 'SUBJECT'} INDEX ({contextItems.length})
               </div>
 
-              {/* Special Hierarchy for Economics */}
-              {targetSubject === 'economics' && economicsSidebarGroups ? (
+              {/* Special Hierarchy for IIBF & Banking Regulations */}
+              {targetSubject === 'iibf-regulations' && iibfSidebarGroups ? (
+                <div className="iibf-sidebar-groups" style={{ display: 'flex', flexDirection: 'column', gap: '0.8rem' }}>
+                  {Object.entries(iibfSidebarGroups).map(([modName, modItems]) => (
+                    <div key={modName} className="iibf-sidebar-mod-block">
+                      <div className="iibf-sidebar-mod-title" style={{ fontFamily: 'var(--font-ui)', fontSize: '0.8rem', fontWeight: 800, color: 'var(--text-accent, #1e3a8a)', letterSpacing: '0.03em', textTransform: 'uppercase', marginBottom: '0.3rem' }}>
+                        🏛️ {modName} ({modItems.length})
+                      </div>
+                      <div className="iibf-sidebar-items-list" style={{ marginLeft: '0.4rem', display: 'flex', flexDirection: 'column', gap: '0.15rem' }}>
+                        {modItems.map(item => (
+                          <button
+                            key={item.id}
+                            className={`nav-item ${activeItemId === item.id ? 'active' : ''}`}
+                            onClick={() => handleSelectItem(item.id)}
+                          >
+                            {item.title}
+                          </button>
+                        ))}
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              ) : targetSubject === 'economics' && economicsSidebarGroups ? (
+                /* Special Hierarchy for Economics */
                 <div className="economics-sidebar-groups" style={{ display: 'flex', flexDirection: 'column', gap: '0.8rem' }}>
                   {Object.entries(economicsSidebarGroups).map(([bookName, bookItems]) => (
                     <div key={bookName} className="eco-sidebar-book-block">
