@@ -1,6 +1,6 @@
 import React, { useMemo, useState } from 'react';
 import { KnowledgeItem } from '../../schema/knowledge-item';
-import { isItemInSubject, groupCAItemsByMonth } from './subjectMapper';
+import { isItemInSubject, groupCAItemsByMonth, naturalChapterSort } from './subjectMapper';
 
 interface Props {
   items: KnowledgeItem[];
@@ -17,7 +17,8 @@ interface Props {
 }
 
 const SUBJECT_LIST = [
-  { id: 'economics', title: 'Economics', icon: '📚' },
+  { id: 'economics', title: 'Indian Economy & Macro', icon: '📚' },
+  { id: 'iibf-regulations', title: 'IIBF & Banking Regulations', icon: '🏛️' },
   { id: 'english', title: 'English Language', icon: '✍️' },
   { id: 'polity', title: 'Polity & Governance', icon: '⚖️' },
   { id: 'history', title: 'History & Culture', icon: '📜' },
@@ -44,7 +45,6 @@ export const NavSidebar: React.FC<Props> = ({
   onCloseMobile,
   onCloseSidebar
 }) => {
-  // State for collapsible month accordions in Current Affairs sidebar
   const [expandedMonths, setExpandedMonths] = useState<Record<string, boolean>>({});
 
   const handleSelectSub = (id: string) => {
@@ -65,13 +65,11 @@ export const NavSidebar: React.FC<Props> = ({
   };
 
   const handleScrollToSection = (monthKey: string, secId: string) => {
-    // 1. Activate month filter pill if present
     const monthPillBtn = document.querySelector(`.ca-month-pill-btn[data-month="${monthKey}"]`) as HTMLButtonElement;
     if (monthPillBtn && !monthPillBtn.classList.contains('active')) {
       monthPillBtn.click();
     }
 
-    // 2. Smooth-scroll to target section header
     setTimeout(() => {
       const secEl = document.getElementById(`sec-${monthKey}-${secId}`);
       if (secEl) {
@@ -85,11 +83,12 @@ export const NavSidebar: React.FC<Props> = ({
     if (onCloseMobile) onCloseMobile();
   };
 
-  // Filter items if inside a subject or reader
   const targetSubject = activeSubjectId || (activeItemId ? items.find(i => i.id === activeItemId)?.domain : undefined);
 
   const contextItems = useMemo(() => {
-    return targetSubject ? items.filter(i => isItemInSubject(i, targetSubject)) : [];
+    if (!targetSubject) return [];
+    const matched = items.filter(i => isItemInSubject(i, targetSubject));
+    return matched.sort(naturalChapterSort);
   }, [items, targetSubject]);
 
   const caMonthGroups = useMemo(() => {
@@ -114,6 +113,26 @@ export const NavSidebar: React.FC<Props> = ({
     return null;
   }, [targetSubject, contextItems]);
 
+  const economicsSidebarGroups = useMemo(() => {
+    if (targetSubject === 'economics') {
+      const booksMap: Record<string, KnowledgeItem[]> = {};
+      contextItems.forEach(item => {
+        let bookName = item.metadata?.category || 'General';
+        if (item.id.startsWith('ras-eco')) {
+          bookName = 'Book VI: State Economic Review & Flagship Schemes';
+        }
+        if (!booksMap[bookName]) booksMap[bookName] = [];
+        booksMap[bookName].push(item);
+      });
+      // Sort items within each book
+      for (const k of Object.keys(booksMap)) {
+        booksMap[k].sort(naturalChapterSort);
+      }
+      return booksMap;
+    }
+    return null;
+  }, [targetSubject, contextItems]);
+
   const handleManualClose = () => {
     if (onCloseSidebar) {
       onCloseSidebar();
@@ -124,7 +143,6 @@ export const NavSidebar: React.FC<Props> = ({
 
   return (
     <>
-      {/* Mobile Overlay Backdrop */}
       {isOpenMobile && (
         <div className="sidebar-overlay" onClick={onCloseMobile} />
       )}
@@ -138,16 +156,14 @@ export const NavSidebar: React.FC<Props> = ({
             <button
               className="btn-close-sidebar"
               onClick={handleManualClose}
-              title="Close Sidebar"
-              aria-label="Close Sidebar"
+              title="Collapse Sidebar"
+              aria-label="Close sidebar"
             >
               ✕
             </button>
           </div>
-          <div className="sidebar-subtitle">Exam Study System</div>
         </div>
 
-        {/* Contextual Breadcrumb Header */}
         <div className="sidebar-context-bar">
           <button className="nav-breadcrumb-btn" onClick={onGoHome}>
             🏠 Command Center Home
@@ -164,7 +180,6 @@ export const NavSidebar: React.FC<Props> = ({
         </div>
 
         <nav className="sidebar-nav">
-          {/* DEPTH 1: Home View -> Show Subjects Only */}
           {currentNavDepth === 'home' && (
             <div className="nav-folder-group">
               <div className="nav-section-title">SUBJECT DIRECTORY</div>
@@ -180,15 +195,36 @@ export const NavSidebar: React.FC<Props> = ({
             </div>
           )}
 
-          {/* DEPTH 2 & 3: Inside Subject Hub or Reader */}
           {currentNavDepth !== 'home' && (
             <div className="nav-folder-group">
               <div className="nav-section-title">
                 {targetSubject?.toUpperCase() || 'SUBJECT'} INDEX ({contextItems.length})
               </div>
 
-              {/* Special Hierarchy for English Language */}
-              {targetSubject === 'english' && englishSidebarGroups ? (
+              {/* Special Hierarchy for Economics */}
+              {targetSubject === 'economics' && economicsSidebarGroups ? (
+                <div className="economics-sidebar-groups" style={{ display: 'flex', flexDirection: 'column', gap: '0.8rem' }}>
+                  {Object.entries(economicsSidebarGroups).map(([bookName, bookItems]) => (
+                    <div key={bookName} className="eco-sidebar-book-block">
+                      <div className="eco-sidebar-book-title" style={{ fontFamily: 'var(--font-ui)', fontSize: '0.8rem', fontWeight: 800, color: 'var(--text-accent, #1e3a8a)', letterSpacing: '0.03em', textTransform: 'uppercase', marginBottom: '0.3rem' }}>
+                        📘 {bookName} ({bookItems.length})
+                      </div>
+                      <div className="eco-sidebar-items-list" style={{ marginLeft: '0.4rem', display: 'flex', flexDirection: 'column', gap: '0.15rem' }}>
+                        {bookItems.map(item => (
+                          <button
+                            key={item.id}
+                            className={`nav-item ${activeItemId === item.id ? 'active' : ''}`}
+                            onClick={() => handleSelectItem(item.id)}
+                          >
+                            {item.title}
+                          </button>
+                        ))}
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              ) : targetSubject === 'english' && englishSidebarGroups ? (
+                /* Special Hierarchy for English Language */
                 <div className="english-sidebar-groups" style={{ display: 'flex', flexDirection: 'column', gap: '0.8rem' }}>
                   {Object.entries(englishSidebarGroups).map(([partName, secMap]) => (
                     <div key={partName} className="english-sidebar-part-block">
@@ -261,7 +297,7 @@ export const NavSidebar: React.FC<Props> = ({
                   })}
                 </div>
               ) : (
-                /* Standard Subject Index for Non-CA Subjects */
+                /* Standard Subject Index with natural sorting */
                 contextItems.map(item => (
                   <button
                     key={item.id}

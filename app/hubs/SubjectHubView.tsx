@@ -2,7 +2,7 @@ import React, { useMemo, useState } from 'react';
 import { KnowledgeItem } from '../../schema/knowledge-item';
 import { useUserStudyState } from '../intelligence/userStateStore';
 import { computeSubjectCoverage } from '../intelligence/deriveCoverage';
-import { groupCAItemsByMonth } from '../navigation/subjectMapper';
+import { isItemInSubject, groupCAItemsByMonth, naturalChapterSort } from '../navigation/subjectMapper';
 
 interface Props {
   subjectId: string;
@@ -13,8 +13,8 @@ interface Props {
 
 // Subject display metadata mapping
 const SUBJECT_METADATA: Record<string, { title: string; icon: string; badge: string; desc: string }> = {
+  'economics': { title: 'Indian Economy & Macro', icon: '📚', badge: 'Book Chapter Reader', desc: '45+ Comprehensive Chapters: National Income, Monetary Policy, Inflation, Agriculture, Budget & NITI Aayog.' },
   'iibf-regulations': { title: 'IIBF & Banking Regulations', icon: '🏛️', badge: 'Master Compendium', desc: 'Deposit Operations, Credit Risk & ECL, Liquidity LMF, Digital Banking, ESG & Capital Markets.' },
-  'economics': { title: 'Economics', icon: '📚', badge: 'Book Chapter Reader', desc: 'Core Economics Chapters & Financial System Notes.' },
   'english': { title: 'English Language', icon: '✍️', badge: 'Book Chapter Reader', desc: 'Descriptive Essay Writing, Letter Drafting Formats & Grammar.' },
   'polity': { title: 'Polity & Governance', icon: '⚖️', badge: 'Book Chapter Reader', desc: 'Constitutional Acts, Statutory Bodies & ECI.' },
   'history': { title: 'History & Culture', icon: '📜', badge: 'Book Chapter Reader', desc: 'Freedom Struggle, Regional Movements & Culture.' },
@@ -43,7 +43,6 @@ export const SubjectHubView: React.FC<Props> = ({
     desc: 'Available migrated items for this subject.'
   };
 
-  // State for nested English toggles
   const [collapsedParts, setCollapsedParts] = useState<Record<string, boolean>>({});
   const [collapsedSections, setCollapsedSections] = useState<Record<string, boolean>>({});
   const [selectedCAMonth, setSelectedCAMonth] = useState<string>('all');
@@ -56,23 +55,9 @@ export const SubjectHubView: React.FC<Props> = ({
     setCollapsedSections(prev => ({ ...prev, [secKey]: !prev[secKey] }));
   };
 
-  // Filter items matching this subject
+  // Filter items matching this subject cleanly
   const subjectItems = useMemo(() => {
-    return items.filter(i => {
-      if (subjectId === 'economics') return i.domain === 'economics' || i.id.includes('eco-ch');
-      if (subjectId === 'english') return i.domain === 'english' || i.id.includes('eng-ch') || i.id.includes('english');
-      if (subjectId === 'polity') return i.domain === 'polity' || i.id.includes('pol-ch');
-      if (subjectId === 'history') return i.domain === 'history' || i.id.includes('his-ch');
-      if (subjectId === 'geography') return i.domain === 'geography' || i.id.includes('geo-ch');
-      if (subjectId === 'science') return i.domain === 'science' || i.id.includes('sci-ch');
-      if (subjectId === 'revision') return i.domain === 'revision' || i.id.includes('rev-ch');
-      if (subjectId === 'current-affairs') return i.domain === 'current-affairs' && !i.id.includes('scheme');
-      if (subjectId === 'schemes') return i.id.includes('scheme');
-      if (subjectId === 'static-ga') return i.domain === 'static-ga' || i.id.includes('static');
-      if (subjectId === 'quant') return i.domain === 'quant' && !i.id.includes('pyq');
-      if (subjectId === 'pyqs') return i.domain === 'pyqs' || i.id.includes('pyq');
-      return i.domain === subjectId;
-    });
+    return items.filter(i => isItemInSubject(i, subjectId)).sort(naturalChapterSort);
   }, [items, subjectId]);
 
   // Calculate genuine subject coverage
@@ -99,7 +84,24 @@ export const SubjectHubView: React.FC<Props> = ({
     });
   }
 
-  // Filtered CA groups based on selected month
+  // Economics Book Grouping
+  const isEconomics = subjectId === 'economics';
+  const economicsBooksMap: Record<string, KnowledgeItem[]> = {};
+
+  if (isEconomics) {
+    subjectItems.forEach(item => {
+      let bookName = item.metadata?.category || 'General';
+      if (item.id.startsWith('ras-eco')) {
+        bookName = 'Book VI: State Economic Review & Flagship Schemes';
+      }
+      if (!economicsBooksMap[bookName]) economicsBooksMap[bookName] = [];
+      economicsBooksMap[bookName].push(item);
+    });
+    for (const k of Object.keys(economicsBooksMap)) {
+      economicsBooksMap[k].sort(naturalChapterSort);
+    }
+  }
+
   const displayedCAGroups = useMemo(() => {
     if (selectedCAMonth === 'all') return caMonthGroups;
     return caMonthGroups.filter(g => g.monthKey === selectedCAMonth);
@@ -152,8 +154,70 @@ export const SubjectHubView: React.FC<Props> = ({
           )}
         </header>
 
-        {/* English Part > Section > Chapter Accordion Structure */}
-        {isEnglish ? (
+        {/* Economics Book Accordion Structure */}
+        {isEconomics ? (
+          <div className="economics-nested-hub" style={{ display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>
+            {Object.entries(economicsBooksMap).map(([bookName, bookItems]) => {
+              const isBookCollapsed = !!collapsedParts[bookName];
+              return (
+                <div key={bookName} className="eco-book-accordion" style={{ background: 'var(--bg-surface, #ffffff)', borderRadius: '10px', border: '1px solid var(--border-color, #e2e8f0)', overflow: 'hidden' }}>
+                  <div
+                    className="eco-book-header collapsible-header"
+                    onClick={() => togglePart(bookName)}
+                    style={{ padding: '1rem 1.2rem', background: 'var(--card-bg, #f8fafc)', borderBottom: isBookCollapsed ? 'none' : '1px solid var(--border-color, #e2e8f0)', cursor: 'pointer', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}
+                  >
+                    <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem' }}>
+                      <span style={{ fontSize: '1.1rem' }}>📘</span>
+                      <h2 style={{ fontSize: '1.05rem', fontWeight: 800, margin: 0, color: 'var(--text-primary, #0f172a)' }}>
+                        {bookName}
+                      </h2>
+                    </div>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: '0.8rem' }}>
+                      <span className="tag-pill" style={{ fontWeight: 700 }}>{bookItems.length} Chapters</span>
+                      <span style={{ fontSize: '1.1rem', color: '#64748b' }}>{isBookCollapsed ? '▸' : '▾'}</span>
+                    </div>
+                  </div>
+
+                  {!isBookCollapsed && (
+                    <div className="hub-items-list" style={{ padding: '1.2rem', display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(320px, 1fr))', gap: '1rem' }}>
+                      {bookItems.map((item, idx) => (
+                        <div
+                          key={item.id}
+                          className="hub-item-card"
+                          onClick={() => onSelectItem(item.id)}
+                          style={{ cursor: 'pointer', display: 'flex', flexDirection: 'column', justifyContent: 'space-between', padding: '1rem', background: 'var(--bg-primary, #ffffff)', borderRadius: '8px', border: '1px solid var(--border-color, #e2e8f0)' }}
+                        >
+                          <div>
+                            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.4rem' }}>
+                              <span style={{ fontSize: '0.75rem', fontWeight: 700, color: '#64748b' }}>Chapter {idx + 1}</span>
+                              <span className="tag-pill" style={{ fontSize: '0.7rem' }}>ID: {item.id}</span>
+                            </div>
+                            <h3 style={{ fontSize: '0.95rem', fontWeight: 700, margin: '0 0 0.4rem 0', lineHeight: 1.4, color: 'var(--text-primary)' }}>
+                              {item.title}
+                            </h3>
+                            {item.summary && (
+                              <p style={{ fontSize: '0.82rem', color: '#64748b', margin: 0, lineHeight: 1.4, display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>
+                                {item.summary}
+                              </p>
+                            )}
+                          </div>
+                          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: '1rem', paddingTop: '0.6rem', borderTop: '1px solid #f1f5f9', fontSize: '0.75rem' }}>
+                            {isCompleted(item.id) ? (
+                              <span style={{ color: '#16a34a', fontWeight: 700 }}>✓ Completed</span>
+                            ) : (
+                              <span style={{ color: '#2563eb', fontWeight: 600 }}>Study Chapter →</span>
+                            )}
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  )}
+                </div>
+              );
+            })}
+          </div>
+        ) : isEnglish ? (
+          /* English Part > Section > Chapter Accordion Structure */
           <div className="english-nested-hub">
             {Object.entries(englishPartsMap).map(([partName, sectionsMap]) => {
               const isPartCollapsed = !!collapsedParts[partName];
@@ -240,7 +304,6 @@ export const SubjectHubView: React.FC<Props> = ({
                   </span>
                 </div>
 
-                {/* Section-wise render inside Month */}
                 <div className="ca-month-sections" style={{ display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>
                   {group.sections.map(secGroup => (
                     <div key={secGroup.secId} id={`sec-${group.monthKey}-${secGroup.secId}`} className="ca-section-block">

@@ -11,6 +11,7 @@ export type Domain =
   | 'quant' 
   | 'pyqs'
   | 'schemes'
+  | 'agriculture'
   | 'iibf-regulations';
 
 export type ItemType = 'chapter' | 'ca_note' | 'static_note' | 'quant_topic' | 'pyq_item';

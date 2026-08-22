@@ -2,7 +2,7 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import { KnowledgeItem } from '../schema/knowledge-item';
 import { parseHash, buildHash, RouteState } from './navigation/router';
-import { isItemInSubject } from './navigation/subjectMapper';
+import { isItemInSubject, naturalChapterSort } from './navigation/subjectMapper';
 import { NavSidebar } from './navigation/NavSidebar';
 import { CommandCenterHome } from './hubs/CommandCenterHome';
 import { ReaderShell } from './reader/ReaderShell';
@@ -68,7 +68,42 @@ export const App: React.FC = () => {
   // Active Item Resolution
   const resolveItemForSubject = (subId: string): KnowledgeItem => {
     const matched = allCorpusMap.filter(i => isItemInSubject(i, subId));
-    return matched[0] || allCorpusMap[0];
+    if (matched.length === 0) return allCorpusMap[0];
+
+    if (subId === 'economics') {
+      const eco1 = matched.find(i => i.id === 'migrated-core-eco-ch-1');
+      if (eco1) return eco1;
+    }
+    if (subId === 'iibf-regulations') {
+      const iibf1 = matched.find(i => i.id === 'iibf-reg-mod1');
+      if (iibf1) return iibf1;
+    }
+    if (subId === 'english') {
+      const eng1 = matched.find(i => i.id === 'migrated-eng-ch-1' || i.id === 'eng-precis-writing-masterclass');
+      if (eng1) return eng1;
+    }
+    if (subId === 'polity') {
+      const pol1 = matched.find(i => i.id === 'migrated-core-pol-ch-1');
+      if (pol1) return pol1;
+    }
+    if (subId === 'history') {
+      const his1 = matched.find(i => i.id === 'migrated-core-his-ch-1');
+      if (his1) return his1;
+    }
+    if (subId === 'geography') {
+      const geo1 = matched.find(i => i.id === 'migrated-core-geo-ch-1');
+      if (geo1) return geo1;
+    }
+    if (subId === 'science') {
+      const sci1 = matched.find(i => i.id === 'migrated-core-sci-ch-1');
+      if (sci1) return sci1;
+    }
+    if (subId === 'quant') {
+      const q1 = matched.find(i => i.id === 'migrated-quant-qsec1-1');
+      if (q1) return q1;
+    }
+
+    return matched.sort(naturalChapterSort)[0] || allCorpusMap[0];
   };
 
   const activeItemId = useMemo(() => {

@@ -10,18 +10,18 @@ export interface SubjectDef {
 
 export const SUBJECT_DEFS: SubjectDef[] = [
   {
+    id: 'economics',
+    title: 'Indian Economy & Macro',
+    icon: '📚',
+    surfaceBadge: 'Book Chapter Reader',
+    description: '45+ Comprehensive Chapters: National Income, Monetary Policy, Inflation, Agriculture, Budget & NITI Aayog.'
+  },
+  {
     id: 'iibf-regulations',
     title: 'IIBF & Banking Regulations',
     icon: '🏛️',
     surfaceBadge: 'Master Compendium',
     description: 'Deposit Operations, Credit Risk & ECL, Liquidity LMF, Digital Banking, ESG & Capital Markets.'
-  },
-  {
-    id: 'economics',
-    title: 'Economics',
-    icon: '📚',
-    surfaceBadge: 'Book Chapter Reader',
-    description: 'Core Macroeconomics, Banking System, Monetary Policy & Fiscal Trajectories.'
   },
   {
     id: 'english',
@@ -107,25 +107,71 @@ export function isItemInSubject(item: KnowledgeItem, subjectId: string): boolean
   const tags = item.metadata?.tags || [];
 
   if (subjectId === 'iibf-regulations') {
-    return item.domain === 'iibf-regulations' || item.id.startsWith('iibf-') || tags.includes('iibf');
+    return item.domain === 'iibf-regulations' || item.id.startsWith('iibf-');
   }
   if (subjectId === 'economics') {
-    return (sys === 'Core' && (item.domain === 'economics' || item.id.includes('eco-ch'))) || tags.includes('economics');
+    if (item.id.startsWith('iibf-')) return false;
+    return (
+      item.domain === 'economics' ||
+      (item.domain as string) === 'economy' ||
+      item.id.includes('eco-ch') ||
+      tags.includes('economics') ||
+      tags.includes('macroeconomics')
+    );
   }
-  if (subjectId === 'english') return item.domain === 'english' || item.id.includes('eng-ch') || item.id.includes('english');
-  if (subjectId === 'polity') return sys === 'Core' && (item.domain === 'polity' || item.id.includes('pol-ch'));
-  if (subjectId === 'history') return sys === 'Core' && (item.domain === 'history' || item.id.includes('his-ch'));
-  if (subjectId === 'geography') return sys === 'Core' && (item.domain === 'geography' || item.id.includes('geo-ch'));
-  if (subjectId === 'science') return sys === 'Core' && (item.domain === 'science' || item.id.includes('sci-ch'));
+  if (subjectId === 'english') {
+    return (
+      item.domain === 'english' ||
+      item.id.includes('eng-ch') ||
+      item.id.includes('english') ||
+      item.id.includes('precis') ||
+      item.id.includes('report') ||
+      item.id.includes('essay')
+    );
+  }
+  if (subjectId === 'polity') {
+    return item.domain === 'polity' || item.id.includes('pol-ch');
+  }
+  if (subjectId === 'history') {
+    return item.domain === 'history' || item.id.includes('his-ch');
+  }
+  if (subjectId === 'geography') {
+    return item.domain === 'geography' || item.id.includes('geo-ch');
+  }
+  if (subjectId === 'science') {
+    return item.domain === 'science' || item.id.includes('sci-ch');
+  }
+  if (subjectId === 'agriculture') {
+    return item.domain === 'agriculture' || item.id.startsWith('ard-ch');
+  }
   if (subjectId === 'revision') {
-    return (sys === 'Core' && (item.domain === 'revision' || item.id.includes('rev-ch'))) || tags.includes('revision');
+    return item.domain === 'revision' || item.id.includes('rev-ch') || tags.includes('revision');
   }
-  if (subjectId === 'current-affairs') return sys === 'CA' || (item.domain === 'current-affairs' && sys !== 'Schemes' && !item.id.includes('schemes-scheme'));
-  if (subjectId === 'schemes') return sys === 'Schemes' || item.id.includes('schemes-scheme') || tags.includes('schemes');
-  if (subjectId === 'static-ga') return sys === 'StaticGA' || item.domain === 'static-ga' || tags.includes('static-ga');
-  if (subjectId === 'quant') return sys === 'Quant' || (item.domain === 'quant' && sys !== 'PYQs');
-  if (subjectId === 'pyqs') return sys === 'PYQs' || item.domain === 'pyqs';
+  if (subjectId === 'current-affairs') {
+    return (item.domain === 'current-affairs' || sys === 'CA') && sys !== 'Schemes' && !item.id.includes('schemes-scheme');
+  }
+  if (subjectId === 'schemes') {
+    return sys === 'Schemes' || item.id.includes('schemes-scheme') || tags.includes('schemes');
+  }
+  if (subjectId === 'static-ga') {
+    return sys === 'StaticGA' || item.domain === 'static-ga' || item.id.includes('staticga') || tags.includes('static-ga');
+  }
+  if (subjectId === 'quant') {
+    return (item.domain === 'quant' || sys === 'Quant') && sys !== 'PYQs' && !item.id.includes('pyq');
+  }
+  if (subjectId === 'pyqs') {
+    return sys === 'PYQs' || item.domain === 'pyqs' || item.id.includes('pyq');
+  }
   return false;
+}
+
+export function naturalChapterSort(a: KnowledgeItem, b: KnowledgeItem): number {
+  const numA = parseInt(a.id.match(/\d+$/)?.[0] || '0', 10);
+  const numB = parseInt(b.id.match(/\d+$/)?.[0] || '0', 10);
+  if (numA !== 0 && numB !== 0 && numA !== numB) {
+    return numA - numB;
+  }
+  return a.id.localeCompare(b.id, undefined, { numeric: true });
 }
 
 export interface CASectionDef {
@@ -187,13 +233,11 @@ export function groupCAItemsByMonth(caItems: KnowledgeItem[]): CAMonthGroup[] {
     groupsMap.get(monthKey)!.items.push(item);
   }
 
-  // Sort keys descending (newest month first: 2026-08, 2026-07, 2026-06...)
   const sortedKeys = Array.from(groupsMap.keys()).sort((a, b) => b.localeCompare(a));
 
   return sortedKeys.map(key => {
     const group = groupsMap.get(key)!;
 
-    // Group items inside this month by Section (SEC1 .. SEC11)
     const secMap = new Map<string, KnowledgeItem[]>();
     for (const item of group.items) {
       const cat = (item.metadata?.sectionCode || item.metadata?.category || 'SEC10').toUpperCase();
@@ -203,14 +247,13 @@ export function groupCAItemsByMonth(caItems: KnowledgeItem[]): CAMonthGroup[] {
       secMap.get(cat)!.push(item);
     }
 
-    // Always include all 11 locked sections in order
     const sections: CASectionGroup[] = [];
     for (const secDef of CA_SECTION_DEFS) {
       const secItems = secMap.get(secDef.secId.toUpperCase()) || [];
       const sortedSecItems = [...secItems].sort((a, b) => {
         const dA = a.metadata?.date || '';
         const dB = b.metadata?.date || '';
-        if (dA !== dB) return dA.localeCompare(dB); // Month start to end (ascending)
+        if (dA !== dB) return dA.localeCompare(dB);
         return a.id.localeCompare(b.id, undefined, { numeric: true });
       });
       sections.push({
@@ -221,7 +264,6 @@ export function groupCAItemsByMonth(caItems: KnowledgeItem[]): CAMonthGroup[] {
       });
     }
 
-    // Map any rogue categories into SEC10
     const knownSecIds = new Set(CA_SECTION_DEFS.map(s => s.secId.toUpperCase()));
     const unmappedItems: KnowledgeItem[] = [];
     for (const [catKey, itemsList] of secMap.entries()) {

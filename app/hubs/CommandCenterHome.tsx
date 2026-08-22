@@ -108,7 +108,7 @@ export const CommandCenterHome: React.FC<Props> = ({
   }, [items]);
 
   // Separate subjects into Core Knowledge & Preparation Tools
-  const coreSubjectIds = ['economics', 'english', 'polity', 'history', 'geography', 'science', 'revision'];
+  const coreSubjectIds = ['economics', 'iibf-regulations', 'english', 'polity', 'history', 'geography', 'science', 'revision'];
   const prepSubjectIds = ['current-affairs', 'schemes', 'static-ga', 'quant', 'pyqs'];
 
   const coreSubjects = SUBJECT_DEFS.filter(s => coreSubjectIds.includes(s.id));
