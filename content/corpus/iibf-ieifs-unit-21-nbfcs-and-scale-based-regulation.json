@@ -1,0 +1,133 @@
+{
+  "id": "iibf-ieifs-unit-21-nbfcs-and-scale-based-regulation",
+  "type": "chapter",
+  "domain": "iibf-regulations",
+  "title": "IIBF IE&IFS Unit 21: NBFCs, Scale-Based Regulation (SBR) & Housing Finance Companies",
+  "summary": "Complete synthesis of Section 45-IA of RBI Act, SBR 4-Layer framework (Base, Middle, Upper, Top), NBFC vs Bank distinctions, HFC regulatory transition, and Co-Lending Model (CLM 80:20).",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "IIBF Core Foundation: Non-Banking Financial Companies",
+      "summary": "NBFCs are entities registered under the Companies Act engaged in lending, investments, hire-purchase, and leasing. They must pass the 50-50 Principal Business Test (Financial assets > 50% of total assets AND Financial income > 50% of gross income)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "⚖️ 1. NBFCs vs. Commercial Banks Core Differences"
+    },
+    {
+      "type": "table",
+      "caption": "Key Legal & Operational Distinctions",
+      "headers": [
+        "Parameter",
+        "Commercial Banks",
+        "Non-Banking Financial Companies (NBFCs)"
+      ],
+      "rows": [
+        [
+          "Incorporation / Registration",
+          "Banking Regulation Act, 1949 (Sec 22)",
+          "Companies Act, 2013 + RBI Act, 1934 (Sec 45-IA)"
+        ],
+        [
+          "Demand Deposits (CASA)",
+          "**Permitted** (Can accept savings & current deposits)",
+          "**Strictly PROHIBITED** (Cannot accept demand deposits)"
+        ],
+        [
+          "Payment & Settlement System",
+          "Part of clearing system (Cheque issuance on self)",
+          "**Cannot issue cheques drawn on themselves**; not part of payment clearing system"
+        ],
+        [
+          "Deposit Insurance (DICGC)",
+          "**Covered up to ₹5 Lakh per depositor**",
+          "**Zero deposit insurance cover** (Deposits with NBFCs are NOT insured by DICGC)"
+        ],
+        [
+          "Statutory Reserves",
+          "Mandatory CRR & SLR",
+          "No CRR; Deposit-taking NBFCs maintain SLR (15% of public deposits in liquid assets)"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🏗️ 2. RBI Scale-Based Regulation (SBR) 4-Layer Pyramid"
+    },
+    {
+      "type": "table",
+      "caption": "Scale-Based Regulation (SBR Framework effective October 2022)",
+      "headers": [
+        "SBR Layer",
+        "Qualifying Criteria & Scale",
+        "Regulatory Stringency"
+      ],
+      "rows": [
+        [
+          "Top Layer",
+          "Systemically extreme risk entities (Currently empty; populated only if RBI identifies extreme spillover risk).",
+          "Highest possible supervisory scrutiny."
+        ],
+        [
+          "Upper Layer (NBFC-UL)",
+          "Top 50 non-deposit taking NBFCs ranked by asset size + systemic interconnectedness.",
+          "**Bank-like regulations**: Mandatory listing within 3 yrs, Common Equity Tier 1 (CET1) 9%, Board composition rules, Leeway limits."
+        ],
+        [
+          "Middle Layer (NBFC-ML)",
+          "All Deposit-taking NBFCs (NBFC-D) + Non-deposit taking NBFCs with **Asset size ≥ ₹1,000 Crore** + Standalone Primary Dealers (SPDs), HFCs, CICs.",
+          "Standard capital adequacy, NPA classification (90-day norm), Chief Risk Officer (CRO) appointment."
+        ],
+        [
+          "Base Layer (NBFC-BL)",
+          "Non-deposit taking NBFCs with **Asset size < ₹1,000 Crore** + Peer-to-Peer (P2P), Account Aggregators (AA), NOFHC.",
+          "Light-touch regulation; Net Owned Funds (NOF) raised to ₹10 Crore (phased)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🤝 3. Co-Lending Model (CLM 80:20)"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Regulatory Basis:** RBI Master Circular on Co-Lending by Banks and NBFCs to Priority Sector.",
+        "**Mandatory Minimum Retention:** The NBFC must retain a **minimum 20% share of the individual loans** on its own books; the Bank takes up to **80%**.",
+        "**Single Blended Interest Rate:** Borrower is charged an all-inclusive blended interest rate agreed between the bank and NBFC.",
+        "**Customer Service:** NBFC acts as the single point of contact for customer onboarding and recovery."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "content": "🎯 Top IIBF Traps for Unit 21:\n1. **Demand Deposits:** NBFCs **cannot accept demand deposits (CASA)**.\n2. **DICGC Insurance:** NBFC deposits are **NOT insured by DICGC**.\n3. **Co-Lending Share:** NBFC must retain a **minimum 20% risk share** on its balance sheet.\n4. **Principal Business Test:** At least **50% financial assets and 50% financial income**."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "IIBF JAIIB IE&IFS",
+      "RBI Grade B Phase 2",
+      "Bank Promotions"
+    ],
+    "tags": [
+      "iibf",
+      "ieifs",
+      "unit21",
+      "nbfcs",
+      "scale-based-regulation",
+      "sbr",
+      "co-lending",
+      "dicgc",
+      "hfcs"
+    ],
+    "provenance": {
+      "sourceSystem": "IIBF-IEIFS",
+      "importedAt": "2026-08-22",
+      "verified": true
+    },
+    "category": "IIBF Paper 1: IE&IFS (Module C - Indian Financial Architecture)"
+  }
+}

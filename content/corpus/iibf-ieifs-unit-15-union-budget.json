@@ -1,0 +1,130 @@
+{
+  "id": "iibf-ieifs-unit-15-union-budget",
+  "type": "chapter",
+  "domain": "iibf-regulations",
+  "title": "IIBF IE&IFS Unit 15: Union Budget Architecture, Constitutional Funds & Budgeting Techniques",
+  "summary": "Complete breakdown of Article 112 Annual Financial Statement, Consolidated Fund (Art 266), Contingency Fund (Art 267), Appropriation Bill, Finance Bill, Zero-Based Budgeting, and Gender Budgeting.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "IIBF Core Foundation: Constitutional Budgetary Mandates",
+      "summary": "The Constitution of India does not use the word 'Budget'; it refers to it as the 'Annual Financial Statement' under Article 112. No money can be withdrawn from the Consolidated Fund of India without parliamentary enactment of an Appropriation Act under Article 114."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🏛️ 1. Constitutional Funds of India"
+    },
+    {
+      "type": "table",
+      "caption": "The 3 Constitutional Accounts of Government of India",
+      "headers": [
+        "Fund Name",
+        "Constitutional Article",
+        "Sources of Inflow",
+        "Withdrawal Authorization Rule"
+      ],
+      "rows": [
+        [
+          "Consolidated Fund of India",
+          "Article 266(1)",
+          "All revenues received by Govt (taxes, duties), loans raised, and loan recovery repayments.",
+          "**Requires prior Parliamentary law (Appropriation Act under Art 114)**. Zero withdrawal permitted without parliamentary vote."
+        ],
+        [
+          "Public Account of India",
+          "Article 266(2)",
+          "Monies held by Govt in trust/custody (Provident funds, Small savings, Postal insurance, Judicial deposits).",
+          "**Executive Action** (Parliamentary approval not required; government acts as banker/trustee)."
+        ],
+        [
+          "Contingency Fund of India",
+          "Article 267",
+          "Corpus of **₹30,000 Crore** (enhanced from ₹500 Cr in Finance Act 2021).",
+          "Held by the **President of India** (administered by Finance Secretary) for meeting unforeseen emergency expenditures pending parliamentary recoupment."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "📜 2. The Budget Enactment Process in Parliament (6 Stages)"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Stage 1: Presentation of Budget:** Finance Minister presents budget on **February 1** (advanced from end of Feb in 2017) with the Budget Speech.",
+        "**Stage 2: General Discussion:** Broad discussion on budget principles across both Houses without voting.",
+        "**Stage 3: Scrutiny by Departmental Standing Committees:** Parliament adjourns for 3–4 weeks; 24 committees examine Demands for Grants of various ministries.",
+        "**Stage 4: Voting on Demands for Grants:** Exclusively in the **Lok Sabha** (Rajya Sabha has zero voting power on grants). Guillotine applied on remaining demands on last day.",
+        "**Stage 5: Passing of Appropriation Bill (Article 114):** Authorizes withdrawal of funds from the Consolidated Fund of India to meet approved grants and charged expenditure.",
+        "**Stage 6: Passing of Finance Bill (Article 110):** Legalizes the government's taxation proposals (must be passed within **75 days** of introduction as per Provisional Collection of Taxes Act)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "💡 3. Modern Budgeting Techniques"
+    },
+    {
+      "type": "table",
+      "caption": "Modern Budgeting Methodologies",
+      "headers": [
+        "Budgeting Technique",
+        "Core Philosophy",
+        "Key Operational Feature"
+      ],
+      "rows": [
+        [
+          "Zero-Based Budgeting (ZBB)",
+          "Peter Pyhrr (1970)",
+          "**Every line item must be justified from scratch (Zero base)** in every budget cycle as if the program were entirely new. Eliminates incremental budget padding."
+        ],
+        [
+          "Performance Budgeting",
+          "Hoover Commission (USA)",
+          "Focuses on outputs and physical achievements rather than mere financial inputs/outlays."
+        ],
+        [
+          "Outcome Budgeting",
+          "Introduced in India in 2005",
+          "Measures the tangible, qualitative end-results (outcomes) delivered to beneficiaries from financial outlays."
+        ],
+        [
+          "Gender Budgeting",
+          "Introduced in India in 2005-06",
+          "Dissects budget outlays to assess impact on women and girls (Part A: 100% women-specific schemes; Part B: ≥30% women-specific outlays)."
+        ]
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "content": "🎯 Top IIBF Traps for Unit 15:\n1. **Contingency Fund Corpus:** Enhanced to **₹30,000 Crore** (held on behalf of President by Finance Secretary).\n2. **Expenditure Authorization:** **Appropriation Bill (Article 114)** authorizes expenditure; **Finance Bill (Article 110)** authorizes taxation.\n3. **Railway Budget Merger:** Railway Budget was merged with Union Budget in **2017** based on the **Bibek Debroy Committee** (ending the 1924 Acworth Committee separation)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "IIBF JAIIB IE&IFS",
+      "RBI Grade B Phase 2 ESI",
+      "Bank Promotions"
+    ],
+    "tags": [
+      "iibf",
+      "ieifs",
+      "unit15",
+      "union-budget",
+      "article112",
+      "consolidated-fund",
+      "contingency-fund",
+      "appropriation-bill",
+      "finance-bill",
+      "zero-based-budgeting"
+    ],
+    "provenance": {
+      "sourceSystem": "IIBF-IEIFS",
+      "importedAt": "2026-08-22",
+      "verified": true
+    },
+    "category": "IIBF Paper 1: IE&IFS (Module B - Economic Concepts Related to Banking)"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "id": "iibf-ieifs-unit-31-insurance-and-pension-products",
+  "type": "chapter",
+  "domain": "iibf-regulations",
+  "title": "IIBF IE&IFS Unit 31: Insurance Principles, IRDAI Bima Trinity & Pension Systems (NPS)",
+  "summary": "Doctoral study unit on Fundamental Insurance Principles (Indemnity, Uberrima Fides, Subrogation), Life vs General Insurance, IRDAI Bima Trinity (Sugam, Vistar, Vahak), and the National Pension System (NPS Tier 1 & 2).",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "IIBF Core Foundation: Risk Transfer & Indemnity",
+      "summary": "Insurance is a cooperative risk-pooling contract whereby the insurer agrees to indemnify the insured against specified contingent financial losses in exchange for premium payments, governed by statutory principles under the Insurance Act, 1938 and IRDA Act, 1999."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "📜 1. Fundamental Legal Principles of Insurance"
+    },
+    {
+      "type": "table",
+      "caption": "Core Insurance Contractual Doctrines",
+      "headers": [
+        "Principle",
+        "Legal Maxim",
+        "Operational Meaning & Exception"
+      ],
+      "rows": [
+        [
+          "1. Utmost Good Faith",
+          "*Uberrima Fides*",
+          "Both parties must fully disclose all material facts. Non-disclosure or concealment renders the contract voidable."
+        ],
+        [
+          "2. Insurable Interest",
+          "Financial stake in subject matter",
+          "The insured must suffer a direct financial loss if the insured event occurs. **Life insurance:** Must exist at policy inception. **Marine insurance:** Must exist at time of loss. **Fire insurance:** Must exist at BOTH inception and loss."
+        ],
+        [
+          "3. Principle of Indemnity",
+          "Restoration to exact financial state",
+          "The insured cannot make a profit from insurance; compensation is limited to the exact financial loss. **Strictly APPLIES to General Insurance; DOES NOT apply to Life Insurance** (Human life cannot be measured in cash)."
+        ],
+        [
+          "4. Principle of Subrogation",
+          "Transfer of rights to recovery",
+          "Upon paying the total claim, the insurer steps into the shoes of the insured to recover damages from third-party wrongdoers."
+        ],
+        [
+          "5. Proximate Cause",
+          "*Causa Proxima*",
+          "The active, efficient cause that sets in motion a train of events leading to loss; insurer is liable only if the proximate cause is an insured peril."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🏛️ 2. IRDAI 'Insurance for All by 2047' & The Bima Trinity"
+    },
+    {
+      "type": "table",
+      "caption": "The Bima Trinity Architectural Pillars",
+      "headers": [
+        "Pillar",
+        "Component Platform",
+        "Core Function & Public Value"
+      ],
+      "rows": [
+        [
+          "Pillar 1: Bima Sugam",
+          "Digital public infrastructure marketplace (UPI for Insurance)",
+          "One-stop electronic platform for buying, servicing, policy portability, and instant claims settlement across all insurers."
+        ],
+        [
+          "Pillar 2: Bima Vistar",
+          "All-in-one comprehensive micro-insurance product",
+          "Affordable bundled cover providing basic Life, Health, Accident, and Property protection with predefined parametric payouts."
+        ],
+        [
+          "Pillar 3: Bima Vahak",
+          "Women-centric grassroots distribution force",
+          "Gram Panchayat-level women distribution agents dedicated to expanding insurance literacy and onboarding rural households."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "👴 3. National Pension System (NPS Architecture under PFRDA)"
+    },
+    {
+      "type": "table",
+      "caption": "NPS Tier 1 vs Tier 2 Account Comparison",
+      "headers": [
+        "Parameter",
+        "NPS Tier 1 (Pension Account)",
+        "NPS Tier 2 (Savings Account)"
+      ],
+      "rows": [
+        [
+          "Account Nature",
+          "**Mandatory Primary Retirement Account**",
+          "**Voluntary Withdrawable Investment Account** (Requires active Tier 1)"
+        ],
+        [
+          "Withdrawal Rules",
+          "**Strictly Locked-in until age 60**. At age 60: Minimum **40% must be annuitized** for monthly pension; up to **60% can be withdrawn as tax-free lump sum**.",
+          "**Completely Free / Unrestricted Withdrawals** anytime."
+        ],
+        [
+          "Tax Benefits",
+          "**Eligible for Income Tax deductions** under Section 80CCD(1), 80CCD(1B) (additional ₹50,000), and 80CCD(2).",
+          "**Zero tax deduction** for private citizens (except for Central Govt employees with 3-year lock-in under Sec 80C)."
+        ]
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "content": "🎯 Top IIBF Traps for Unit 31:\n1. **Indemnity in Life Insurance:** The Principle of Indemnity **DOES NOT apply to Life Insurance** (a person can hold multiple life policies and all will pay full sum assured).\n2. **Insurable Interest Timing:** In Fire Insurance, insurable interest must exist **both at inception and at the time of loss**.\n3. **NPS Annuitization at Age 60:** Minimum **40% of accumulated corpus must be converted into an Annuity**; remaining 60% can be withdrawn lump-sum tax-free."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "IIBF JAIIB IE&IFS",
+      "RBI Grade B Phase 2",
+      "Bank Promotions"
+    ],
+    "tags": [
+      "iibf",
+      "ieifs",
+      "unit31",
+      "insurance",
+      "indemnity",
+      "insurable-interest",
+      "bima-trinity",
+      "nps",
+      "pfrda",
+      "annuity"
+    ],
+    "provenance": {
+      "sourceSystem": "IIBF-IEIFS",
+      "importedAt": "2026-08-22",
+      "verified": true
+    },
+    "category": "IIBF Paper 1: IE&IFS (Module D - Financial Products and Services)"
+  }
+}

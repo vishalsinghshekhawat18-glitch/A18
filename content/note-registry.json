@@ -2886,5 +2886,269 @@
     "domain": "iibf-regulations",
     "category": "IIBF Paper 1: IE&IFS",
     "file": "content/corpus/iibf-ieifs-unit-1-overview-population-planning.json"
+  },
+  "556": {
+    "noteNumber": 556,
+    "id": "iibf-ieifs-unit-2-sectors-of-economy",
+    "title": "IIBF IE&IFS Unit 2: Sectors of the Indian Economy (Primary, Secondary, Tertiary & Sunrise)",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS (Module A - Indian Economic Architecture)",
+    "file": "content/corpus/iibf-ieifs-unit-2-sectors-of-economy.json"
+  },
+  "557": {
+    "noteNumber": 557,
+    "id": "iibf-ieifs-unit-3-economic-planning-niti",
+    "title": "IIBF IE&IFS Unit 3: Economic Planning Architecture & NITI Aayog Strategy",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS (Module A - Indian Economic Architecture)",
+    "file": "content/corpus/iibf-ieifs-unit-3-economic-planning-niti.json"
+  },
+  "558": {
+    "noteNumber": 558,
+    "id": "iibf-ieifs-unit-4-priority-sector-msme",
+    "title": "IIBF IE&IFS Unit 4: Role of Priority Sector Lending (PSL) and MSME in the Economy",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS (Module A - Indian Economic Architecture)",
+    "file": "content/corpus/iibf-ieifs-unit-4-priority-sector-msme.json"
+  },
+  "559": {
+    "noteNumber": 559,
+    "id": "iibf-ieifs-unit-5-infrastructure-social-infra",
+    "title": "IIBF IE&IFS Unit 5: Infrastructure Architecture, Logistics & Social Infrastructure",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS (Module A - Indian Economic Architecture)",
+    "file": "content/corpus/iibf-ieifs-unit-5-infrastructure-social-infra.json"
+  },
+  "560": {
+    "noteNumber": 560,
+    "id": "iibf-ieifs-unit-6-globalization-trade-policy",
+    "title": "IIBF IE&IFS Unit 6: Globalization, Foreign Trade Policy & Rupee Internationalization",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS (Module A - Indian Economic Architecture)",
+    "file": "content/corpus/iibf-ieifs-unit-6-globalization-trade-policy.json"
+  },
+  "561": {
+    "noteNumber": 561,
+    "id": "iibf-ieifs-unit-7-international-economic-organizations",
+    "title": "IIBF IE&IFS Unit 7: International Economic Organizations (World Bank, IMF, WTO & MDBs)",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS (Module A - Indian Economic Architecture)",
+    "file": "content/corpus/iibf-ieifs-unit-7-international-economic-organizations.json"
+  },
+  "562": {
+    "noteNumber": 562,
+    "id": "iibf-ieifs-unit-8-fundamentals-micro-macro-markets",
+    "title": "IIBF IE&IFS Unit 8: Fundamentals of Economics, Micro & Macro, and Market Structures",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS (Module B - Economic Concepts Related to Banking)",
+    "file": "content/corpus/iibf-ieifs-unit-8-fundamentals-micro-macro-markets.json"
+  },
+  "563": {
+    "noteNumber": 563,
+    "id": "iibf-ieifs-unit-9-supply-and-demand-elasticity",
+    "title": "IIBF IE&IFS Unit 9: Law of Demand, Supply & Elasticity Formulas",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS (Module B - Economic Concepts Related to Banking)",
+    "file": "content/corpus/iibf-ieifs-unit-9-supply-and-demand-elasticity.json"
+  },
+  "564": {
+    "noteNumber": 564,
+    "id": "iibf-ieifs-unit-10-money-supply-and-inflation",
+    "title": "IIBF IE&IFS Unit 10: Money Supply Measures (M0-M4, L1-L3) & Inflation Mechanics",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS (Module B - Economic Concepts Related to Banking)",
+    "file": "content/corpus/iibf-ieifs-unit-10-money-supply-and-inflation.json"
+  },
+  "565": {
+    "noteNumber": 565,
+    "id": "iibf-ieifs-unit-11-theories-of-interest",
+    "title": "IIBF IE&IFS Unit 11: Theories of Interest (Classical, Keynesian & IS-LM Curve)",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS (Module B - Economic Concepts Related to Banking)",
+    "file": "content/corpus/iibf-ieifs-unit-11-theories-of-interest.json"
+  },
+  "566": {
+    "noteNumber": 566,
+    "id": "iibf-ieifs-unit-12-business-cycles",
+    "title": "IIBF IE&IFS Unit 12: Business Cycles, Economic Indicators & Theoretical Models",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS (Module B - Economic Concepts Related to Banking)",
+    "file": "content/corpus/iibf-ieifs-unit-12-business-cycles.json"
+  },
+  "567": {
+    "noteNumber": 567,
+    "id": "iibf-ieifs-unit-13-monetary-policy-and-fiscal-policy",
+    "title": "IIBF IE&IFS Unit 13: Monetary & Fiscal Policy Frameworks, Deficit Metrics & FRBM",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS (Module B - Economic Concepts Related to Banking)",
+    "file": "content/corpus/iibf-ieifs-unit-13-monetary-policy-and-fiscal-policy.json"
+  },
+  "568": {
+    "noteNumber": 568,
+    "id": "iibf-ieifs-unit-14-national-income-and-gdp",
+    "title": "IIBF IE&IFS Unit 14: National Income Accounting, GDP Concepts & Deflator",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS (Module B - Economic Concepts Related to Banking)",
+    "file": "content/corpus/iibf-ieifs-unit-14-national-income-and-gdp.json"
+  },
+  "569": {
+    "noteNumber": 569,
+    "id": "iibf-ieifs-unit-15-union-budget",
+    "title": "IIBF IE&IFS Unit 15: Union Budget Architecture, Constitutional Funds & Budgeting Techniques",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS (Module B - Economic Concepts Related to Banking)",
+    "file": "content/corpus/iibf-ieifs-unit-15-union-budget.json"
+  },
+  "570": {
+    "noteNumber": 570,
+    "id": "iibf-ieifs-unit-16-overview-financial-system",
+    "title": "IIBF IE&IFS Unit 16: Overview of Indian Financial System & Institutional Pillars",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS (Module C - Indian Financial Architecture)",
+    "file": "content/corpus/iibf-ieifs-unit-16-overview-financial-system.json"
+  },
+  "571": {
+    "noteNumber": 571,
+    "id": "iibf-ieifs-unit-17-banking-regulatory-framework",
+    "title": "IIBF IE&IFS Unit 17: Regulatory Hierarchy (RBI, SEBI, IRDAI, PFRDA, IFSCA & FSDC)",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS (Module C - Indian Financial Architecture)",
+    "file": "content/corpus/iibf-ieifs-unit-17-banking-regulatory-framework.json"
+  },
+  "572": {
+    "noteNumber": 572,
+    "id": "iibf-ieifs-unit-18-commercial-banks-and-basel",
+    "title": "IIBF IE&IFS Unit 18: Commercial Banking Operations, Basel III & PCA Framework",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS (Module C - Indian Financial Architecture)",
+    "file": "content/corpus/iibf-ieifs-unit-18-commercial-banks-and-basel.json"
+  },
+  "573": {
+    "noteNumber": 573,
+    "id": "iibf-ieifs-unit-19-regional-rural-banks",
+    "title": "IIBF IE&IFS Unit 19: Regional Rural Banks (RRBs) Structure, Equity & PSL Mandates",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS (Module C - Indian Financial Architecture)",
+    "file": "content/corpus/iibf-ieifs-unit-19-regional-rural-banks.json"
+  },
+  "574": {
+    "noteNumber": 574,
+    "id": "iibf-ieifs-unit-20-cooperative-banking-system",
+    "title": "IIBF IE&IFS Unit 20: Cooperative Banking System, BR Amendment 2020 & 4-Tier UCBs",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS (Module C - Indian Financial Architecture)",
+    "file": "content/corpus/iibf-ieifs-unit-20-cooperative-banking-system.json"
+  },
+  "575": {
+    "noteNumber": 575,
+    "id": "iibf-ieifs-unit-21-nbfcs-and-scale-based-regulation",
+    "title": "IIBF IE&IFS Unit 21: NBFCs, Scale-Based Regulation (SBR) & Housing Finance Companies",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS (Module C - Indian Financial Architecture)",
+    "file": "content/corpus/iibf-ieifs-unit-21-nbfcs-and-scale-based-regulation.json"
+  },
+  "576": {
+    "noteNumber": 576,
+    "id": "iibf-ieifs-unit-22-development-financial-institutions",
+    "title": "IIBF IE&IFS Unit 22: Development Financial Institutions (NABARD, SIDBI, EXIM, NHB & NaBFID)",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS (Module C - Indian Financial Architecture)",
+    "file": "content/corpus/iibf-ieifs-unit-22-development-financial-institutions.json"
+  },
+  "577": {
+    "noteNumber": 577,
+    "id": "iibf-ieifs-unit-23-financial-inclusion-and-literacy",
+    "title": "IIBF IE&IFS Unit 23: Financial Inclusion Schemes, PMJDY Pillars & RBI FI-Index",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS (Module C - Indian Financial Architecture)",
+    "file": "content/corpus/iibf-ieifs-unit-23-financial-inclusion-and-literacy.json"
+  },
+  "578": {
+    "noteNumber": 578,
+    "id": "iibf-ieifs-unit-24-digital-banking-and-fintech",
+    "title": "IIBF IE&IFS Unit 24: Digital Banking, NPCI Payment Systems & CBDC (e-Rupee)",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS (Module C - Indian Financial Architecture)",
+    "file": "content/corpus/iibf-ieifs-unit-24-digital-banking-and-fintech.json"
+  },
+  "579": {
+    "noteNumber": 579,
+    "id": "iibf-ieifs-unit-25-financial-markets-overview",
+    "title": "IIBF IE&IFS Unit 25: Financial Markets Structure (Money vs Capital, Primary vs Secondary)",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS (Module D - Financial Products and Services)",
+    "file": "content/corpus/iibf-ieifs-unit-25-financial-markets-overview.json"
+  },
+  "580": {
+    "noteNumber": 580,
+    "id": "iibf-ieifs-unit-26-money-market-instruments",
+    "title": "IIBF IE&IFS Unit 26: Money Market Instruments (Call Money, T-Bills, CP, CD & TREPS)",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS (Module D - Financial Products and Services)",
+    "file": "content/corpus/iibf-ieifs-unit-26-money-market-instruments.json"
+  },
+  "581": {
+    "noteNumber": 581,
+    "id": "iibf-ieifs-unit-27-capital-markets-and-stock-exchanges",
+    "title": "IIBF IE&IFS Unit 27: Capital Markets, Stock Exchanges & Depository Architecture",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS (Module D - Financial Products and Services)",
+    "file": "content/corpus/iibf-ieifs-unit-27-capital-markets-and-stock-exchanges.json"
+  },
+  "582": {
+    "noteNumber": 582,
+    "id": "iibf-ieifs-unit-28-fixed-income-and-debt-securities",
+    "title": "IIBF IE&IFS Unit 28: Fixed Income Securities, G-Secs, Yield Curves & Duration",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS (Module D - Financial Products and Services)",
+    "file": "content/corpus/iibf-ieifs-unit-28-fixed-income-and-debt-securities.json"
+  },
+  "583": {
+    "noteNumber": 583,
+    "id": "iibf-ieifs-unit-29-derivatives-market",
+    "title": "IIBF IE&IFS Unit 29: Derivatives Market (Forwards, Futures, Options & Swaps)",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS (Module D - Financial Products and Services)",
+    "file": "content/corpus/iibf-ieifs-unit-29-derivatives-market.json"
+  },
+  "584": {
+    "noteNumber": 584,
+    "id": "iibf-ieifs-unit-30-mutual-funds-and-aif",
+    "title": "IIBF IE&IFS Unit 30: Mutual Funds, Alternate Investment Funds (AIF) & REITs/InvITs",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS (Module D - Financial Products and Services)",
+    "file": "content/corpus/iibf-ieifs-unit-30-mutual-funds-and-aif.json"
+  },
+  "585": {
+    "noteNumber": 585,
+    "id": "iibf-ieifs-unit-31-insurance-and-pension-products",
+    "title": "IIBF IE&IFS Unit 31: Insurance Principles, IRDAI Bima Trinity & Pension Systems (NPS)",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS (Module D - Financial Products and Services)",
+    "file": "content/corpus/iibf-ieifs-unit-31-insurance-and-pension-products.json"
+  },
+  "586": {
+    "noteNumber": 586,
+    "id": "iibf-ieifs-unit-32-factoring-forfaiting-and-treds",
+    "title": "IIBF IE&IFS Unit 32: Factoring, Forfaiting and TReDS Architecture",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS (Module D - Financial Products and Services)",
+    "file": "content/corpus/iibf-ieifs-unit-32-factoring-forfaiting-and-treds.json"
+  },
+  "587": {
+    "noteNumber": 587,
+    "id": "iibf-ieifs-unit-33-foreign-exchange-market",
+    "title": "IIBF IE&IFS Unit 33: Foreign Exchange Market, Quotes, FEMA 1999 & NRI Accounts",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS (Module D - Financial Products and Services)",
+    "file": "content/corpus/iibf-ieifs-unit-33-foreign-exchange-market.json"
+  },
+  "588": {
+    "noteNumber": 588,
+    "id": "iibf-ieifs-unit-34-core-banking-green-finance",
+    "title": "IIBF IE&IFS Unit 34: Core Banking Solutions, ESG Risk, Green Bonds & BRSR Framework",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS (Module D - Financial Products and Services)",
+    "file": "content/corpus/iibf-ieifs-unit-34-core-banking-green-finance.json"
   }
 }

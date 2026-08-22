@@ -1,0 +1,89 @@
+{
+  "id": "iibf-ieifs-unit-16-overview-financial-system",
+  "type": "chapter",
+  "domain": "iibf-regulations",
+  "title": "IIBF IE&IFS Unit 16: Overview of Indian Financial System & Institutional Pillars",
+  "summary": "Doctoral study unit on the 4 pillars of the Indian Financial System: Financial Intermediaries, Financial Markets, Financial Assets/Instruments, and Financial Services; capital formation and credit flow.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "IIBF Core Foundation: The Financial Intermediation Mechanism",
+      "summary": "The financial system mobilizes household savings (surplus units) and channels them into productive industrial, commercial, and infrastructure investments (deficit units), facilitating capital formation and economic growth."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🏛️ 1. The Four Core Pillars of the Indian Financial Architecture"
+    },
+    {
+      "type": "table",
+      "caption": "4 Pillars of Financial System",
+      "headers": [
+        "Pillar",
+        "Component Categories",
+        "Key Functions in Indian Economy"
+      ],
+      "rows": [
+        [
+          "1. Financial Institutions / Intermediaries",
+          "Commercial Banks, RRBs, Cooperative Banks, NBFCs, DFIs (NABARD, SIDBI, NaBFID), Insurance Companies, Mutual Funds.",
+          "Credit creation, maturity transformation, risk pooling, and payment clearing."
+        ],
+        [
+          "2. Financial Markets",
+          "Money Market (Short-term debt < 1 yr), Capital Market (Long-term debt & equity > 1 yr), Forex Market, Derivatives Market.",
+          "Price discovery, liquidity provision, and resource allocation across sectors."
+        ],
+        [
+          "3. Financial Instruments / Assets",
+          "Treasury Bills, Commercial Paper, Certificates of Deposit, G-Secs, Corporate Bonds, Equities, Mutual Fund Units, Insurance Policies.",
+          "Stores of value offering varied risk, return, and liquidity profiles."
+        ],
+        [
+          "4. Financial Services",
+          "Credit Rating, Merchant Banking, Underwriting, Asset Management, Factoring, Custodial Services, Payment Gateways.",
+          "Advisory and transaction-enabling infrastructure supporting asset issuance and trading."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "📈 2. Role in Capital Formation & Growth Indicators"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Gross Domestic Savings (GDS):** Accounts for approximately **30% of GDP** in India, with **Household Financial Savings** contributing the largest share.",
+        "**Gross Capital Formation (GCF / Investment Rate):** Hovering around **31–32% of GDP**, essential for sustaining a 7%+ GDP growth trajectory.",
+        "**Incremental Capital-Output Ratio (ICOR):** Measures the additional units of capital required to produce one extra unit of output (\\(\\text{ICOR} = \\frac{\\text{Investment Rate}}{\\text{GDP Growth Rate}}\\)). A **lower ICOR reflects higher capital productivity and efficiency**."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "content": "🎯 Top IIBF Traps for Unit 16:\n1. **ICOR Interpretation:** A **lower** ICOR signifies **higher** efficiency/productivity in capital utilization (fewer capital units needed per unit of GDP growth).\n2. **Money Market vs Capital Market Horizon:** Money market deals in instruments with maturity **up to 1 year**; Capital market deals in instruments with maturity **exceeding 1 year**."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "IIBF JAIIB IE&IFS",
+      "RBI Grade B Phase 2",
+      "Bank Promotions"
+    ],
+    "tags": [
+      "iibf",
+      "ieifs",
+      "unit16",
+      "financial-system",
+      "intermediation",
+      "icor",
+      "capital-formation"
+    ],
+    "provenance": {
+      "sourceSystem": "IIBF-IEIFS",
+      "importedAt": "2026-08-22",
+      "verified": true
+    },
+    "category": "IIBF Paper 1: IE&IFS (Module C - Indian Financial Architecture)"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "iibf-ieifs-unit-17-banking-regulatory-framework",
+  "type": "chapter",
+  "domain": "iibf-regulations",
+  "title": "IIBF IE&IFS Unit 17: Regulatory Hierarchy (RBI, SEBI, IRDAI, PFRDA, IFSCA & FSDC)",
+  "summary": "Exhaustive breakdown of apex regulatory statutory acts, mandates, supervisory perimeters (RBI, SEBI, IRDAI, PFRDA, IFSCA), and the Financial Stability and Development Council (FSDC).",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "IIBF Core Foundation: Apex Regulatory Jurisdiction",
+      "summary": "The Indian financial sector operates under sector-specific statutory regulators, coordinated at the apex level by the Financial Stability and Development Council (FSDC) chaired by the Union Finance Minister."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🏛️ 1. Master Regulatory Jurisdiction Matrix"
+    },
+    {
+      "type": "table",
+      "caption": "Apex Financial Regulators in India",
+      "headers": [
+        "Regulator",
+        "Governing Primary Acts",
+        "Establishment Year & HQ",
+        "Regulated Entities / Sector Perimeter"
+      ],
+      "rows": [
+        [
+          "Reserve Bank of India (RBI)",
+          "RBI Act, 1934 & Banking Regulation Act, 1949",
+          "Established **1 April 1935** (Hilton Young Commission); Nationalized **1 Jan 1949**; HQ: **Mumbai**",
+          "Commercial Banks, RRBs, UCBs, NBFCs, HFCs, Payment System Operators (NPCI), Primary Dealers, Money & Forex Markets."
+        ],
+        [
+          "Securities and Exchange Board of India (SEBI)",
+          "SEBI Act, 1992",
+          "Established 1988 (Statutory powers **30 Jan 1992**); HQ: **Mumbai**",
+          "Stock Exchanges (BSE, NSE), Depositories (NSDL, CDSL), Mutual Funds, Merchant Bankers, Stock Brokers, Credit Rating Agencies, AIFs, REITs/InvITs."
+        ],
+        [
+          "Insurance Regulatory and Development Authority of India (IRDAI)",
+          "IRDA Act, 1999 (Malhotra Committee)",
+          "Established 1999 (Statutory **April 2000**); HQ: **Hyderabad**",
+          "Life Insurance, General Insurance, Health Insurance, Reinsurers (GIC Re), Insurance Web Aggregators, Corporate Agents."
+        ],
+        [
+          "Pension Fund Regulatory and Development Authority (PFRDA)",
+          "PFRDA Act, 2013",
+          "Established 2003 (Statutory **Feb 2014**); HQ: **New Delhi**",
+          "National Pension System (NPS), Atal Pension Yojana (APY), Pension Fund Managers, Central Recordkeeping Agencies (CRAs)."
+        ],
+        [
+          "International Financial Services Centres Authority (IFSCA)",
+          "IFSCA Act, 2019",
+          "Established **27 April 2020**; HQ: **GIFT City, Gandhinagar**",
+          "**Unified regulator for all financial services, products, and institutions in IFSCs** (combining powers of RBI, SEBI, IRDAI, PFRDA in GIFT City)."
+        ],
+        [
+          "Financial Stability and Development Council (FSDC)",
+          "Executive Notification (Raghuram Rajan Comm recommendation)",
+          "Established **Dec 2010**; Apex Non-statutory Council",
+          "**Chairperson: Union Finance Minister**. Members: RBI Governor, SEBI/IRDAI/PFRDA/IFSCA Chairpersons, Finance Secretary, Chief Economic Adviser. Handles inter-regulatory coordination & systemic stability."
+        ]
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "content": "🎯 Top IIBF Traps for Unit 17:\n1. **FSDC Chairperson:** The **Union Finance Minister** (NOT the RBI Governor) chairs the FSDC. The FSDC Sub-Committee is chaired by the **RBI Governor**.\n2. **IRDAI Headquarters:** Located in **Hyderabad** (NOT Mumbai or New Delhi).\n3. **IFSCA Role:** Acts as a **single unified regulator** in GIFT City, superseding RBI, SEBI, IRDAI, and PFRDA powers inside the IFSC jurisdiction."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "IIBF JAIIB IE&IFS",
+      "RBI Grade B Phase 2",
+      "Bank Promotions"
+    ],
+    "tags": [
+      "iibf",
+      "ieifs",
+      "unit17",
+      "rbi",
+      "sebi",
+      "irdai",
+      "pfrda",
+      "ifsca",
+      "fsdc",
+      "regulators"
+    ],
+    "provenance": {
+      "sourceSystem": "IIBF-IEIFS",
+      "importedAt": "2026-08-22",
+      "verified": true
+    },
+    "category": "IIBF Paper 1: IE&IFS (Module C - Indian Financial Architecture)"
+  }
+}

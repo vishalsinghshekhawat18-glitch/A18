@@ -1,0 +1,162 @@
+{
+  "id": "iibf-ieifs-unit-26-money-market-instruments",
+  "type": "chapter",
+  "domain": "iibf-regulations",
+  "title": "IIBF IE&IFS Unit 26: Money Market Instruments (Call Money, T-Bills, CP, CD & TREPS)",
+  "summary": "Exhaustive mathematical and statutory breakdown of Call/Notice/Term Money limits, Treasury Bills (91/182/364 days), Commercial Paper (min ₹5L), Certificates of Deposit (min ₹1L), and Triparty Repos.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "IIBF Core Foundation: Money Market Instruments Suite",
+      "summary": "Money market instruments provide short-term liquidity management for banks, the central government, and creditworthy corporate borrowers, issued at a discount to face value or at market-linked floating rates."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "⏱️ 1. Call, Notice & Term Money Market Tenors"
+    },
+    {
+      "type": "table",
+      "caption": "Interbank Uncollateralized Money Market Slabs",
+      "headers": [
+        "Category",
+        "Tenor / Duration",
+        "Operational Purpose"
+      ],
+      "rows": [
+        [
+          "Call Money",
+          "**Overnight (1 Day)**",
+          "Managing immediate interbank reserve (CRR/SLR) mismatches."
+        ],
+        [
+          "Notice Money",
+          "**2 Days to 14 Days**",
+          "Short-term temporary liquidity balancing."
+        ],
+        [
+          "Term Money",
+          "**15 Days up to 1 Year**",
+          "Medium liquidity borrowing without collateral."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "📜 2. Treasury Bills (T-Bills) Master Structure"
+    },
+    {
+      "type": "table",
+      "caption": "Government of India Treasury Bills (Issued by RBI on behalf of GoI)",
+      "headers": [
+        "T-Bill Tenor",
+        "Auction Frequency",
+        "Minimum Denomination & Method"
+      ],
+      "rows": [
+        [
+          "91-Day T-Bill",
+          "Weekly (Every Wednesday)",
+          "Issued in multiples of **₹10,000**. **Issued at a discount to face value and redeemed at par (₹100)**. Zero default sovereign risk."
+        ],
+        [
+          "182-Day T-Bill",
+          "Weekly (Every Wednesday)",
+          "Yield is calculated based on discount: $$\\text{Yield} = \\frac{F - P}{P} \\times \\frac{365}{D} \\times 100$$"
+        ],
+        [
+          "364-Day T-Bill",
+          "Weekly (Every Wednesday)",
+          "Eligible for SLR maintenance by banks."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "📑 3. Commercial Paper (CP) vs. Certificates of Deposit (CD)"
+    },
+    {
+      "type": "table",
+      "caption": "CP vs CD Comparison Matrix",
+      "headers": [
+        "Parameter",
+        "Commercial Paper (CP)",
+        "Certificates of Deposit (CD)"
+      ],
+      "rows": [
+        [
+          "Issuer",
+          "Highly rated Corporates, Primary Dealers (PDs), AIFIs",
+          "Scheduled Commercial Banks and All-India Financial Institutions"
+        ],
+        [
+          "Instrument Nature",
+          "Unsecured promissory note",
+          "Negotiable, transferable promissory note against term deposits"
+        ],
+        [
+          "Minimum Denomination",
+          "**₹5 Lakh** (and in multiples of ₹5 Lakh thereafter)",
+          "**₹1 Lakh** (and in multiples of ₹1 Lakh thereafter)"
+        ],
+        [
+          "Maturity / Tenor Range",
+          "**Min 7 Days up to Max 1 Year**",
+          "**Banks:** Min 7 Days to Max 1 Year;\n**FIs:** Min 1 Year to Max 3 Years"
+        ],
+        [
+          "Eligible Rating Requirement",
+          "Credit rating of **A3** (or equivalent) minimum",
+          "Credit rating mandatory if issued by FIs (not strictly required for SCBs)"
+        ],
+        [
+          "Loans Against Instrument",
+          "**Strictly PROHIBITED** (Banks cannot grant loans against CP)",
+          "**Strictly PROHIBITED** (Banks cannot grant loans against CD)"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🤝 4. Triparty Repo (TREPS)"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Definition:** A repo contract where a **Third Party (Clearing Corporation of India Ltd - CCIL)** acts as an intermediary between borrowing and lending institutions to provide collateral selection, payment settlement, and management services.",
+        "**Advantage over Bilateral Repo:** Eliminates counterparty credit risk (CCIL acts as central counterparty and guarantees settlement)."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "content": "🎯 Top IIBF Traps for Unit 26:\n1. **CP vs CD Minimum Amount:** Commercial Paper is **₹5 Lakh**; Certificate of Deposit is **₹1 Lakh**.\n2. **Loans Against CP/CD:** Banks **CANNOT grant loans against their own CDs or CPs**.\n3. **Call vs Notice Money:** Call Money is **1 day**; Notice Money is **2 to 14 days**.\n4. **T-Bills Issuance:** T-Bills are **issued at a discount and redeemed at par (zero coupon)**."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "IIBF JAIIB IE&IFS",
+      "RBI Grade B Phase 2",
+      "Bank Promotions"
+    ],
+    "tags": [
+      "iibf",
+      "ieifs",
+      "unit26",
+      "money-market",
+      "call-money",
+      "t-bills",
+      "commercial-paper",
+      "certificates-of-deposit",
+      "treps"
+    ],
+    "provenance": {
+      "sourceSystem": "IIBF-IEIFS",
+      "importedAt": "2026-08-22",
+      "verified": true
+    },
+    "category": "IIBF Paper 1: IE&IFS (Module D - Financial Products and Services)"
+  }
+}

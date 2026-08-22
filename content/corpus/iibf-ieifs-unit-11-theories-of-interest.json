@@ -1,0 +1,156 @@
+{
+  "id": "iibf-ieifs-unit-11-theories-of-interest",
+  "type": "chapter",
+  "domain": "iibf-regulations",
+  "title": "IIBF IE&IFS Unit 11: Theories of Interest (Classical, Keynesian & IS-LM Curve)",
+  "summary": "Doctoral breakdown of Classical Thrift/Productivity Theory, Neo-Classical Loanable Funds, Keynesian Liquidity Preference (3 Motives & Liquidity Trap), and the Hicks-Hansen IS-LM Synthesis.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "IIBF Core Foundation: Determination of Interest Rates",
+      "summary": "Interest is the price paid for parting with liquidity or the rental price of capital. Theories evolve from real economic factors (Savings & Investment in Classical model) to monetary factors (Money Supply & Demand in Keynesian model), culminated by the IS-LM general equilibrium."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🏛️ 1. Classical vs. Neo-Classical Loanable Funds Theory"
+    },
+    {
+      "type": "table",
+      "caption": "Pre-Keynesian Interest Rate Theories",
+      "headers": [
+        "Theory Name",
+        "Key Economists",
+        "Determinants of Interest Rate",
+        "Equilibrium Condition"
+      ],
+      "rows": [
+        [
+          "Classical Theory",
+          "Adam Smith, David Ricardo, Alfred Marshall",
+          "Purely **Real Factors**: (1) **Thrift/Savings** (supply of capital, upward sloping) and (2) **Productivity of Capital/Investment** (demand for capital, downward sloping).",
+          "Equilibrium where **Savings = Investment (\\(S = I\\))**."
+        ],
+        [
+          "Loanable Funds Theory",
+          "Knut Wicksell, Bertil Ohlin, Gunnar Myrdal",
+          "Synthesizes real and monetary factors. **Supply of Loanable Funds (\\(S + \\Delta M + DH\\))** vs **Demand for Loanable Funds (\\(I + H + DS\\))**.",
+          "Equilibrium where **Total Supply of Loanable Funds = Total Demand for Loanable Funds**."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🧠 2. Keynesian Liquidity Preference Theory (3 Motives)"
+    },
+    {
+      "type": "paragraph",
+      "content": "John Maynard Keynes (*General Theory, 1936*) defined interest as a **purely monetary phenomenon** — the reward for parting with liquidity for a specified period. Demand for money (\\(L\\)) arises from **3 distinct motives**:"
+    },
+    {
+      "type": "table",
+      "caption": "Keynesian 3 Motives for Holding Cash",
+      "headers": [
+        "Liquidity Motive",
+        "Purpose & Driver",
+        "Relationship with Income (\\(Y\\)) vs Interest Rate (\\(r\\))"
+      ],
+      "rows": [
+        [
+          "1. Transactions Motive (\\(L_1\\))",
+          "Day-to-day purchases of goods and services by households and business operational expenses.",
+          "**Directly proportional to Income (\\(Y\\))**; completely interest-inelastic."
+        ],
+        [
+          "2. Precautionary Motive (\\(L_1\\))",
+          "Emergency buffer for unforeseen contingencies (medical crises, accidents, business downturns).",
+          "**Directly proportional to Income (\\(Y\\))**; interest-inelastic."
+        ],
+        [
+          "3. Speculative Motive (\\(L_2\\))",
+          "Holding cash to take advantage of future movements in bond prices and interest rates.",
+          "**Inversely related to Interest Rate (\\(r\\))** (When interest rates are high, speculative demand is low; when interest rates are low, demand is high)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🪤 3. The Liquidity Trap Phenomenon"
+    },
+    {
+      "type": "paragraph",
+      "content": "A **Liquidity Trap** occurs at an ultra-low rate of interest where the speculative demand for money becomes **infinitely elastic (horizontal)**:"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Investor Psychology:** Everyone expects interest rates to rise in the future (and bond prices to collapse). Thus, no one buys bonds; everyone holds 100% cash.",
+        "**Monetary Policy Impotence:** Central bank injections of liquidity are completely absorbed by the public without lowering interest rates or stimulating investment. **Monetary policy becomes totally ineffective; Fiscal Policy (Government spending) is required to revive demand**."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "⚖️ 4. Hicks-Hansen IS-LM Synthesis (General Equilibrium)"
+    },
+    {
+      "type": "table",
+      "caption": "IS-LM Curve Framework",
+      "headers": [
+        "Curve",
+        "Market Represented",
+        "Equilibrium Condition",
+        "Slope & Behavioral Rationale"
+      ],
+      "rows": [
+        [
+          "IS Curve (Investment-Saving)",
+          "**Goods / Real Market**",
+          "$$\\text{Investment} = \\text{Saving} \\quad (I = S)$$",
+          "**Downward Sloping**: Lower interest rate stimulates investment, requiring higher national income (\\(Y\\)) to generate matching savings."
+        ],
+        [
+          "LM Curve (Liquidity-Money)",
+          "**Money / Financial Market**",
+          "$$\\text{Money Demand} = \\text{Money Supply} \\quad (L = M)$$",
+          "**Upward Sloping**: Higher national income (\\(Y\\)) increases transactional demand for money, pushing up interest rate (\\(r\\)) for a given money supply."
+        ],
+        [
+          "IS-LM Intersection",
+          "**Simultaneous Equilibrium**",
+          "$$\\text{Both Goods and Money Markets in Equilibrium}$$",
+          "Determines unique combination of **Equilibrium National Income (\\(Y^*\\))** and **Equilibrium Interest Rate (\\(r^*\\))**."
+        ]
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "content": "🎯 Top IIBF Traps for Unit 11:\n1. **Transactions & Precautionary Motives:** Dependent on **Income (\\(Y\\))**, NOT on interest rates.\n2. **Speculative Motive:** Inversely related to **Interest Rate (\\(r\\))**.\n3. **Liquidity Trap:** Occurs when the speculative demand curve becomes **horizontal (infinitely elastic)**, rendering monetary policy completely ineffective.\n4. **IS Curve represents:** Equilibrium in the **Goods Market (\\(I = S\\))**; LM represents equilibrium in the **Money Market (\\(L = M\\))**."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "IIBF JAIIB IE&IFS",
+      "RBI Grade B ESI",
+      "Bank Promotions"
+    ],
+    "tags": [
+      "iibf",
+      "ieifs",
+      "unit11",
+      "theories-of-interest",
+      "keynes",
+      "liquidity-preference",
+      "liquidity-trap",
+      "is-lm"
+    ],
+    "provenance": {
+      "sourceSystem": "IIBF-IEIFS",
+      "importedAt": "2026-08-22",
+      "verified": true
+    },
+    "category": "IIBF Paper 1: IE&IFS (Module B - Economic Concepts Related to Banking)"
+  }
+}

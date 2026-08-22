@@ -1,0 +1,167 @@
+{
+  "id": "iibf-ieifs-unit-4-priority-sector-msme",
+  "type": "chapter",
+  "domain": "iibf-regulations",
+  "title": "IIBF IE&IFS Unit 4: Role of Priority Sector Lending (PSL) and MSME in the Economy",
+  "summary": "Exhaustive synthesis of RBI Master Directions on PSL targets, sub-targets for Domestic vs Foreign Banks/RRBs/SFBs, MSME composite classification criteria (July 2020), TReDS, CGTMSE, and Udyam registration.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "IIBF Core Foundation: Credit Delivery Mandates",
+      "summary": "Priority Sector Lending (PSL) institutionalizes credit flow to vulnerable, high-employment sectors (Agriculture, MSMEs, Education, Housing, Renewable Energy) that would otherwise face credit rationing by market-driven commercial banks."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🎯 1. Master Priority Sector Lending (PSL) Targets Matrix"
+    },
+    {
+      "type": "table",
+      "caption": "RBI PSL Mandated Targets (% of ANBC or CEOBE, whichever is higher)",
+      "headers": [
+        "Bank Category",
+        "Total PSL Target",
+        "Agriculture Sub-target",
+        "Small & Marginal Farmers (SMF)",
+        "Weaker Sections",
+        "Micro Enterprises"
+      ],
+      "rows": [
+        [
+          "Domestic Commercial Banks & Foreign Banks (≥20 branches)",
+          "40% of ANBC",
+          "18% of ANBC",
+          "10% of ANBC",
+          "12% of ANBC",
+          "7.5% of ANBC"
+        ],
+        [
+          "Foreign Banks (<20 branches)",
+          "40% of ANBC (max 32% in exports; min 8% to other sectors)",
+          "No specific sub-target",
+          "No specific sub-target",
+          "No specific sub-target",
+          "No specific sub-target"
+        ],
+        [
+          "Regional Rural Banks (RRBs)",
+          "75% of ANBC",
+          "18% of ANBC",
+          "10% of ANBC",
+          "15% of ANBC",
+          "7.5% of ANBC"
+        ],
+        [
+          "Small Finance Banks (SFBs)",
+          "75% of ANBC",
+          "18% of ANBC",
+          "10% of ANBC",
+          "12% of ANBC",
+          "7.5% of ANBC"
+        ],
+        [
+          "Primary Urban Cooperative Banks (UCBs)",
+          "Phased to 75% of ANBC by March 31, 2026",
+          "N/A (Urban focus)",
+          "N/A",
+          "12% of ANBC",
+          "7.5% of ANBC"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "📋 2. Eligible Priority Sector Categories (8 Broad Sectors)"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**1. Agriculture:** Farm Credit (crop loans, term loans), Agriculture Infrastructure (up to ₹100 Cr per borrower), Ancillary Activities (up to ₹5 Cr for Agri-clinics/Agri-business centres).",
+        "**2. Micro, Small and Medium Enterprises (MSMEs):** All bank loans to MSMEs as per official composite criteria.",
+        "**3. Export Credit:** For domestic banks, incremental export credit up to 2% of ANBC (subject to cap of ₹40 Cr per borrower). Foreign banks (<20 branches) up to 32% of ANBC.",
+        "**4. Education:** Loans to individuals for educational purposes up to **₹20 Lakh** (in India and abroad).",
+        "**5. Housing:** Loans up to **₹35 Lakh in Metropolitan centres** (population ≥10 Lakh) with overall dwelling cost ≤ ₹45 Lakh; loans up to **₹25 Lakh in other centres** with dwelling cost ≤ ₹30 Lakh.",
+        "**6. Social Infrastructure:** Bank loans up to **₹5 Cr per borrower** for building schools, drinking water facilities, sanitation/health facilities; loans up to **₹10 Cr for Ayushman Bharat hospitals** in Tier II to Tier VI centres.",
+        "**7. Renewable Energy:** Loans up to **₹30 Cr per borrower** for solar/biomass/wind plants; individual households up to **₹10 Lakh**.",
+        "**8. Others:** Loans up to ₹1 Lakh per borrower to distressed persons indebted to non-institutional lenders; SHGs/JLGs up to ₹20 Lakh."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🏭 3. MSME Composite Definition (Gazette Notification 1 July 2020)"
+    },
+    {
+      "type": "table",
+      "caption": "Revised Composite Criteria (Investment in P&M AND Annual Turnover)",
+      "headers": [
+        "Enterprise Class",
+        "Investment in Plant & Machinery / Equipment",
+        "Annual Turnover (Excluding Export Turnover!)",
+        "Composite Calculation Rule"
+      ],
+      "rows": [
+        [
+          "Micro Enterprise",
+          "≤ ₹1 Crore",
+          "≤ ₹5 Crore",
+          "Both criteria must be satisfied simultaneously; if an enterprise crosses either threshold, it shifts to higher class."
+        ],
+        [
+          "Small Enterprise",
+          "≤ ₹10 Crore",
+          "≤ ₹50 Crore",
+          "Turnover calculation **strictly EXCLUDES export turnover** to incentivize global exports."
+        ],
+        [
+          "Medium Enterprise",
+          "≤ ₹50 Crore",
+          "≤ ₹250 Crore",
+          "Investment is calculated based on Written Down Value (WDV) as per Income Tax return."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🛡️ 4. Institutional Support Frameworks for MSMEs"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE):** Set up jointly by **Govt of India and SIDBI**. Provides credit guarantee cover up to **₹5 Crore** per borrower without collateral/third-party guarantee. Guarantee cover ranges from **75% to 85%** (higher for women, SC/ST, aspirational districts).",
+        "**Trade Receivables Discounting System (TReDS):** Electronic factoring platform regulated by RBI under PSS Act 2007. Connects MSME sellers, corporate/PSU/Govt buyers, and financiers for invoice discounting without recourse to MSME.",
+        "**Delayed Payments Mandate (MSMED Act 2006):** Buyer must make payment within agreed period (maximum **45 days**). Errant buyers are liable to pay **compound interest with monthly rests at 3 times the Bank Rate** notified by RBI."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "content": "🎯 Top IIBF Traps for Unit 4:\n1. **Export Turnover in MSME:** Export turnover is **excluded** from the calculation of turnover for classifying an enterprise as Micro, Small, or Medium.\n2. **Delayed Payment Penalty:** Penalty interest is **3 times the RBI Bank Rate** (compounded monthly) under Section 16 of MSMED Act, 2006.\n3. **PSL Non-Achievement Penalty:** Banks failing to achieve PSL targets must invest the shortfall in **RIDF (Rural Infrastructure Development Fund administered by NABARD)** or other funds (SIDBI/NHB/MUDRA) at penal/sub-market interest rates."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "IIBF JAIIB IE&IFS",
+      "RBI Grade B Phase 2",
+      "Bank Promotions"
+    ],
+    "tags": [
+      "iibf",
+      "ieifs",
+      "unit4",
+      "psl",
+      "msme",
+      "cgtmse",
+      "treds",
+      "ridf",
+      "delayed-payments"
+    ],
+    "provenance": {
+      "sourceSystem": "IIBF-IEIFS",
+      "importedAt": "2026-08-22",
+      "verified": true
+    },
+    "category": "IIBF Paper 1: IE&IFS (Module A - Indian Economic Architecture)"
+  }
+}

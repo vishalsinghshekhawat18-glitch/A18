@@ -1,0 +1,139 @@
+{
+  "id": "iibf-ieifs-unit-14-national-income-and-gdp",
+  "type": "chapter",
+  "domain": "iibf-regulations",
+  "title": "IIBF IE&IFS Unit 14: National Income Accounting, GDP Concepts & Deflator",
+  "summary": "Exhaustive study unit on GDP, GNP, NNP at Factor Cost vs Market Price, Nominal vs Real GDP, GDP Deflator formula, 3 Methods of Computing National Income, and GVA methodology.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "IIBF Core Foundation: National Income Identities",
+      "summary": "National Income is the aggregate net monetary value of all final goods and services produced by the normal residents of a country during a financial year. The transition from Factor Cost to Market Price incorporates Net Indirect Taxes (Indirect Taxes - Subsidies)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🧮 1. Master National Income Aggregates Matrix"
+    },
+    {
+      "type": "table",
+      "caption": "National Income Relationships & Formulas",
+      "headers": [
+        "Aggregate",
+        "Formula / Definition",
+        "Key Distinction"
+      ],
+      "rows": [
+        [
+          "Gross Domestic Product (GDP)",
+          "$$\\text{Total market value of all final goods & services produced WITHIN domestic territory in 1 year}$$",
+          "Spatial/Territorial measure (includes foreign nationals working in India)."
+        ],
+        [
+          "Gross National Product (GNP)",
+          "$$GDP + \\text{NFIA}$$ (Net Factor Income from Abroad)",
+          "Citizenship/Resident measure. \\(\\text{NFIA} = \\text{Income earned by residents abroad} - \\text{Income earned by non-residents in India}\\)."
+        ],
+        [
+          "Net Domestic Product (NDP)",
+          "$$GDP - \\text{Depreciation (Consumption of Fixed Capital)}$$",
+          "Adjusts for capital equipment wear and tear."
+        ],
+        [
+          "Net National Product (NNP)",
+          "$$GNP - \\text{Depreciation}$$",
+          "Cleanest measure of aggregate national wealth output."
+        ],
+        [
+          "NNP at Factor Cost (\\(\\text{NNP}_{FC}\\))",
+          "$$\\text{NNP}_{MP} - \\text{Net Product Taxes} = \\text{National Income}$$",
+          "**Official definition of National Income**."
+        ],
+        [
+          "GVA at Basic Prices",
+          "$$\\text{GVA at Factor Cost} + (\\text{Production Taxes} - \\text{Production Subsidies})$$",
+          "Introduced in 2015 revision (Base Year 2011-12)."
+        ],
+        [
+          "GDP at Market Prices",
+          "$$\\text{GVA at Basic Prices} + (\\text{Product Taxes} - \\text{Product Subsidies})$$",
+          "Headline GDP metric published by MoSPI."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "📐 2. Nominal GDP vs. Real GDP & GDP Deflator"
+    },
+    {
+      "type": "formula",
+      "latex": "\\text{GDP Deflator} = \\frac{\\text{Nominal GDP}}{\\text{Real GDP}} \\times 100",
+      "explanation": "Comprehensive price index reflecting price changes across all goods and services produced domestically."
+    },
+    {
+      "type": "paragraph",
+      "content": "**Key Properties:**\n• **Nominal GDP:** Evaluated at current market prices (distorted by inflation).\n• **Real GDP:** Evaluated at constant base year prices (**Base Year 2011-12** in India).\n• Unlike CPI/WPI which use a fixed basket, the **GDP Deflator is a dynamic deflator** covering the entire spectrum of goods and services produced in the economy."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🏭 3. The Three Methods of Calculating National Income"
+    },
+    {
+      "type": "table",
+      "caption": "3 Measurement Approaches",
+      "headers": [
+        "Method",
+        "Calculation Formula",
+        "Special Precautions"
+      ],
+      "rows": [
+        [
+          "1. Product / Value Added Method",
+          "$$\\sum (\\text{Value of Output} - \\text{Intermediate Consumption})$$",
+          "**Avoid Double Counting** (count only value additions or final goods). Avoid second-hand sales."
+        ],
+        [
+          "2. Income Method",
+          "$$\\text{Compensation of Employees} + \\text{Operating Surplus (Rent, Interest, Profit)} + \\text{Mixed Income of Self-Employed}$$",
+          "**Exclude Transfer Payments** (old age pensions, scholarships, unemployment dole) as they generate zero output."
+        ],
+        [
+          "3. Expenditure Method",
+          "$$GDP = C + I + G + (X - M)$$",
+          "\\(C\\) = Private Consumption, \\(I\\) = Gross Capital Formation, \\(G\\) = Govt Consumption, \\(X - M\\) = Net Exports."
+        ]
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "content": "🎯 Top IIBF Traps for Unit 14:\n1. **Transfer Payments:** Transfer payments (scholarships, gifts, pensions) are **EXCLUDED from National Income** calculation because they do not reflect current production.\n2. **National Income Definition:** Statistically equals **Net National Product at Factor Cost (\\(\\text{NNP}_{FC}\\))**.\n3. **Base Year for Indian GDP:** Currently **2011-12**."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "IIBF JAIIB IE&IFS",
+      "RBI Grade B Phase 2 ESI",
+      "Bank Promotions"
+    ],
+    "tags": [
+      "iibf",
+      "ieifs",
+      "unit14",
+      "national-income",
+      "gdp",
+      "gnp",
+      "nnp",
+      "gdp-deflator",
+      "gva",
+      "value-added-method"
+    ],
+    "provenance": {
+      "sourceSystem": "IIBF-IEIFS",
+      "importedAt": "2026-08-22",
+      "verified": true
+    },
+    "category": "IIBF Paper 1: IE&IFS (Module B - Economic Concepts Related to Banking)"
+  }
+}

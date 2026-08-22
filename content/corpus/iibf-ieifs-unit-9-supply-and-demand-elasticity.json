@@ -1,0 +1,153 @@
+{
+  "id": "iibf-ieifs-unit-9-supply-and-demand-elasticity",
+  "type": "chapter",
+  "domain": "iibf-regulations",
+  "title": "IIBF IE&IFS Unit 9: Law of Demand, Supply & Elasticity Formulas",
+  "summary": "Exhaustive mathematical and conceptual analysis of Price, Income, and Cross Elasticity of Demand, Giffen vs Veblen Goods, Equilibrium Shifts, and Government Price Controls.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "IIBF Core Foundation: Elasticity of Demand",
+      "summary": "Price Elasticity of Demand (\\(E_p\\)) quantifies the percentage responsiveness of quantity demanded to a percentage change in price. It dictates pricing power and tax incidence in banking and industrial economics."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "📐 1. Price Elasticity Formulas & Degrees"
+    },
+    {
+      "type": "formula",
+      "latex": "E_p = -\\frac{\\% \\Delta Q_d}{\\% \\Delta P} = -\\left( \\frac{\\Delta Q}{\\Delta P} \\times \\frac{P}{Q} \\right)",
+      "explanation": "Point Price Elasticity of Demand formula."
+    },
+    {
+      "type": "table",
+      "caption": "5 Degrees of Price Elasticity of Demand",
+      "headers": [
+        "Degree / Value of \\(E_p\\)",
+        "Technical Classification",
+        "Curve Shape",
+        "Commodity Example"
+      ],
+      "rows": [
+        [
+          "\\(E_p = 0\\)",
+          "Perfectively Inelastic",
+          "Vertical straight line",
+          "Life-saving drugs (Insulin), Salt."
+        ],
+        [
+          "\\(0 < E_p < 1\\)",
+          "Inelastic (Less than unit elastic)",
+          "Steeply downward sloping",
+          "Necessities, electricity, water."
+        ],
+        [
+          "\\(E_p = 1\\)",
+          "Unitary Elastic",
+          "Rectangular Hyperbola",
+          "Standard consumer goods where total expenditure remains constant."
+        ],
+        [
+          "\\(1 < E_p < \\infty\\)",
+          "Elastic (More than unit elastic)",
+          "Flatter downward sloping",
+          "Luxury items, automobiles, air travel, electronics."
+        ],
+        [
+          "\\(E_p = \\infty\\)",
+          "Perfectively Elastic",
+          "Horizontal straight line",
+          "Firm demand in Perfect Competition."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🔄 2. Income Elasticity & Cross Elasticity Rules"
+    },
+    {
+      "type": "table",
+      "caption": "Income Elasticity (\\(E_y\\)) & Cross Elasticity (\\(E_{xy}\\)) Classification",
+      "headers": [
+        "Elasticity Type",
+        "Mathematical Value",
+        "Economic Relationship / Classification"
+      ],
+      "rows": [
+        [
+          "Income Elasticity (\\(E_y\\))",
+          "\\(E_y > 0\\) (Positive)",
+          "**Normal Goods** (Demand rises as consumer income rises)."
+        ],
+        [
+          "Income Elasticity (\\(E_y\\))",
+          "\\(E_y > 1\\) (Positive & >1)",
+          "**Luxury Goods / Superior Goods**."
+        ],
+        [
+          "Income Elasticity (\\(E_y\\))",
+          "\\(E_y < 0\\) (Negative)",
+          "**Inferior Goods** (Demand drops as income rises, e.g. coarse cereals)."
+        ],
+        [
+          "Cross Elasticity (\\(E_{xy}\\))",
+          "\\(E_{xy} > 0\\) (Positive)",
+          "**Substitute Goods** (Price rise in Tea increases demand for Coffee)."
+        ],
+        [
+          "Cross Elasticity (\\(E_{xy}\\))",
+          "\\(E_{xy} < 0\\) (Negative)",
+          "**Complementary Goods** (Price rise in Petrol decreases demand for Cars)."
+        ],
+        [
+          "Cross Elasticity (\\(E_{xy}\\))",
+          "\\(E_{xy} = 0\\) (Zero)",
+          "**Unrelated Goods** (Price of Shoes vs Demand for Apples)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "⚡ 3. Exceptions to the Law of Demand"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Giffen Goods (Sir Robert Giffen):** Highly inferior staple goods consumed by low-income households (e.g. potatoes, bread). A price rise forces poor consumers to abandon meat/vegetables and consume even more staple potatoes (**Upward sloping demand curve**). Negative income effect outweighs substitution effect.",
+        "**Veblen Goods / Conspicuous Consumption (Thorstein Veblen):** Luxury status symbols (diamonds, supercars, designer watches). Higher price enhances exclusivity and status appeal, increasing demand.",
+        "**Speculative Bubbles:** When prices of stocks, real estate, or gold rise, investors buy more expecting further future price gains."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "content": "🎯 Top IIBF Traps for Unit 9:\n1. **Cross Elasticity Signs:** Substitutes have **Positive (\\(+\\))** cross elasticity; Complements have **Negative (\\(-\\))** cross elasticity.\n2. **Giffen vs Inferior Goods:** All Giffen goods are inferior goods, but **NOT all inferior goods are Giffen goods**.\n3. **Unitary Elasticity Curve:** A demand curve with unitary elasticity throughout is shaped as a **Rectangular Hyperbola**."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "IIBF JAIIB IE&IFS",
+      "RBI Grade B ESI",
+      "Bank Promotions"
+    ],
+    "tags": [
+      "iibf",
+      "ieifs",
+      "unit9",
+      "demand",
+      "supply",
+      "elasticity",
+      "giffen-goods",
+      "veblen-goods",
+      "cross-elasticity"
+    ],
+    "provenance": {
+      "sourceSystem": "IIBF-IEIFS",
+      "importedAt": "2026-08-22",
+      "verified": true
+    },
+    "category": "IIBF Paper 1: IE&IFS (Module B - Economic Concepts Related to Banking)"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "id": "iibf-ieifs-unit-22-development-financial-institutions",
+  "type": "chapter",
+  "domain": "iibf-regulations",
+  "title": "IIBF IE&IFS Unit 22: Development Financial Institutions (NABARD, SIDBI, EXIM, NHB & NaBFID)",
+  "summary": "Comprehensive breakdown of apex developmental banks: NABARD, SIDBI, EXIM Bank, NHB, MUDRA loans (Shishu, Kishore, Tarun, Tarun Plus), and NaBFID Act 2021.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "IIBF Core Foundation: Specialized Term Lending Institutions",
+      "summary": "Development Financial Institutions (DFIs) provide long-term, patient, concessional project financing for high-risk, long-gestation sectors (Agriculture, MSMEs, Foreign Trade, Housing, Infrastructure) where commercial banks face asset-liability mismatch (ALM)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🏛️ 1. Master DFI Overview Matrix"
+    },
+    {
+      "type": "table",
+      "caption": "Apex All-India Financial Institutions (AIFIs)",
+      "headers": [
+        "Institution",
+        "Statutory Act & Establishment Date",
+        "Headquarters",
+        "Specialized Mandate"
+      ],
+      "rows": [
+        [
+          "NABARD",
+          "NABARD Act, 1981 (**12 July 1982**; B. Sivaraman Committee)",
+          "**Mumbai**",
+          "Apex institution for rural development, agriculture credit refinancing, supervision of RRBs/StCBs/DCCBs, and managing RIDF."
+        ],
+        [
+          "SIDBI",
+          "SIDBI Act, 1989 (**2 April 1990**)",
+          "**Lucknow**",
+          "Principal DFI for promotion, financing, and development of Micro, Small & Medium Enterprises (MSMEs)."
+        ],
+        [
+          "EXIM Bank",
+          "Export-Import Bank of India Act, 1981 (**1 January 1982**)",
+          "**Mumbai**",
+          "Financing, facilitating, and promoting India's international trade and cross-border project exports."
+        ],
+        [
+          "National Housing Bank (NHB)",
+          "NHB Act, 1987 (**9 July 1988**)",
+          "**New Delhi**",
+          "Apex financial institution for housing finance; 100% owned by Govt of India (RBI divested stake in 2019)."
+        ],
+        [
+          "NaBFID",
+          "National Bank for Financing Infrastructure and Development Act, 2021 (**2021**)",
+          "**Mumbai**",
+          "Principal DFI for infrastructure financing with ₹20,000 Cr central capital; targeted to catalyze ₹5 Lakh Cr infra loans."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "💰 2. Pradhan Mantri MUDRA Yojana (PMMY) Loan Categories"
+    },
+    {
+      "type": "table",
+      "caption": "MUDRA Loan Slabs (Refinanced via Micro Units Development & Refinance Agency)",
+      "headers": [
+        "Loan Category",
+        "Loan Limit Slabs",
+        "Target Beneficiary Stage"
+      ],
+      "rows": [
+        [
+          "Shishu",
+          "Loans **up to ₹50,000**",
+          "Early-stage micro-enterprises starting business."
+        ],
+        [
+          "Kishore",
+          "Loans **above ₹50,000 and up to ₹5 Lakh**",
+          "Enterprises expanding operations and buying equipment."
+        ],
+        [
+          "Tarun",
+          "Loans **above ₹5 Lakh and up to ₹10 Lakh**",
+          "Established small business units scaling commercial capacity."
+        ],
+        [
+          "Tarun Plus (Budget 2024-25)",
+          "Loans **above ₹10 Lakh and up to ₹20 Lakh**",
+          "Entrepreneurs who have successfully repaid previous Tarun loans."
+        ]
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "content": "🎯 Top IIBF Traps for Unit 22:\n1. **SIDBI Headquarters:** Located in **Lucknow** (NOT Mumbai).\n2. **MUDRA Loan Cap Enhancement:** Enhanced up to **₹20 Lakh** under the newly introduced **Tarun Plus** category.\n3. **NABARD Committee:** Formulated by **B. Sivaraman Committee (CRAFICARD)** in 1979 (Established 12 July 1982)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "IIBF JAIIB IE&IFS",
+      "RBI Grade B Phase 2",
+      "Bank Promotions"
+    ],
+    "tags": [
+      "iibf",
+      "ieifs",
+      "unit22",
+      "dfis",
+      "nabard",
+      "sidbi",
+      "exim-bank",
+      "nhb",
+      "nabfid",
+      "mudra"
+    ],
+    "provenance": {
+      "sourceSystem": "IIBF-IEIFS",
+      "importedAt": "2026-08-22",
+      "verified": true
+    },
+    "category": "IIBF Paper 1: IE&IFS (Module C - Indian Financial Architecture)"
+  }
+}

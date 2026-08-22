@@ -1,0 +1,170 @@
+{
+  "id": "iibf-ieifs-unit-33-foreign-exchange-market",
+  "type": "chapter",
+  "domain": "iibf-regulations",
+  "title": "IIBF IE&IFS Unit 33: Foreign Exchange Market, Quotes, FEMA 1999 & NRI Accounts",
+  "summary": "Doctoral study unit on Forex Market Structure (AD Cat I, II, III), Direct vs Indirect Quotes, Value Dates (Cash/TOM/Spot/Forward), LRS ($250,000), Nostro/Vostro/Loro accounts, and NRE/NRO/FCNR(B) deposits.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "IIBF Core Foundation: Foreign Exchange Operating Architecture",
+      "summary": "The Indian foreign exchange market operates under the Foreign Exchange Management Act (FEMA), 1999 and RBI regulations through Authorized Dealers, governed by FEDAI market conventions."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "💱 1. Settlement Value Dates in Forex Market"
+    },
+    {
+      "type": "table",
+      "caption": "Forex Settlement Tenor Types (FEDAI Conventions)",
+      "headers": [
+        "Transaction Type",
+        "Value Date / Settlement Day",
+        "Operational Definition"
+      ],
+      "rows": [
+        [
+          "Cash / Ready",
+          "**Same Day (T + 0)**",
+          "Settlement of funds occurs on the very day of the deal."
+        ],
+        [
+          "TOM (Tomorrow)",
+          "**Next Working Day (T + 1)**",
+          "Settlement occurs on the working day following the deal date."
+        ],
+        [
+          "Spot Rate",
+          "**Second Working Day (T + 2)**",
+          "**Standard international benchmark forex rate**. Settlement takes place two business days after transaction date."
+        ],
+        [
+          "Forward Rate",
+          "**Beyond Spot Date (T + 2 + n days)**",
+          "Settlement takes place on an agreed future date beyond the spot date at a predetermined forward rate."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🏦 2. Interbank Account Types: Nostro, Vostro, Loro"
+    },
+    {
+      "type": "table",
+      "caption": "Foreign Currency Accounts Nomenclature",
+      "headers": [
+        "Account Name",
+        "Latin / Literal Meaning",
+        "Operational Concept & Example"
+      ],
+      "rows": [
+        [
+          "Nostro Account",
+          "**'Our account with you'**",
+          "An account maintained by an **Indian bank with a foreign bank abroad in foreign currency** (e.g. SBI maintaining a USD account with Citibank, New York)."
+        ],
+        [
+          "Vostro Account",
+          "**'Your account with us'**",
+          "An account maintained by a **foreign bank in India with an Indian bank in Indian Rupees** (e.g. HSBC London maintaining an INR account with SBI, Mumbai)."
+        ],
+        [
+          "Loro Account",
+          "**'Their account'**",
+          "Referring to an account of a third-party bank (e.g. Bank of Baroda referring to SBI's account with Citibank New York)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "💰 3. Non-Resident Indian (NRI) Deposit Accounts Comparison"
+    },
+    {
+      "type": "table",
+      "caption": "NRE vs NRO vs FCNR(B) Accounts",
+      "headers": [
+        "Parameter",
+        "Non-Resident External (NRE) A/c",
+        "Non-Resident Ordinary (NRO) A/c",
+        "Foreign Currency Non-Resident (Bank) A/c - FCNR(B)"
+      ],
+      "rows": [
+        [
+          "Currency Maintained",
+          "**Indian Rupees (INR)**",
+          "**Indian Rupees (INR)**",
+          "**Designated Foreign Currencies** (USD, EUR, GBP, JPY, CAD, AUD)"
+        ],
+        [
+          "Type of Account",
+          "Savings, Current, Recurring, Fixed",
+          "Savings, Current, Recurring, Fixed",
+          "**Term Deposit (Fixed) ONLY** (1 to 5 years)"
+        ],
+        [
+          "Repatriability",
+          "**100% Freely Repatriable** (Principal and interest)",
+          "Restricted (Current income repatriable; principal up to **USD 1 Million per FY**) with CA cert.",
+          "**100% Freely Repatriable** (Principal and interest)"
+        ],
+        [
+          "Exchange Rate Risk",
+          "**Borne by Depositor** (Conversion into INR)",
+          "**Borne by Depositor**",
+          "**Zero Exchange Risk** (Maintained in foreign currency; risk borne by bank)"
+        ],
+        [
+          "Taxability in India",
+          "**100% Tax Exempt** (Zero income/wealth tax on interest)",
+          "**Taxable in India** (TDS applicable at 30% + surcharge)",
+          "**100% Tax Exempt** in India"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "✈️ 4. Liberalised Remittance Scheme (LRS)"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Permissible Limit:** Resident individuals (including minors) can freely remit up to **USD 250,000 per financial year (April–March)** for any permissible current or capital account transaction (education, medical treatment, travel, gifts, investment in overseas shares/property).",
+        "**Exclusions:** LRS is **NOT available to Corporates, Partnerships, HUF, Trusts, or Charitable bodies** (Individuals only)."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "content": "🎯 Top IIBF Traps for Unit 33:\n1. **Spot Date:** Settles on **T + 2 working days**.\n2. **NRE vs NRO Tax:** NRE interest is **Tax-Free**; NRO interest is **Taxable**.\n3. **LRS Annual Cap:** **USD 250,000 per Financial Year** (strictly for resident individuals).\n4. **FCNR(B) Account Type:** Available **ONLY as Term / Fixed Deposit** (1 to 5 years)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "IIBF JAIIB IE&IFS",
+      "RBI Grade B Phase 2",
+      "Bank Promotions"
+    ],
+    "tags": [
+      "iibf",
+      "ieifs",
+      "unit33",
+      "forex",
+      "spot-date",
+      "nostro",
+      "vostro",
+      "nre",
+      "nro",
+      "fcnr",
+      "lrs"
+    ],
+    "provenance": {
+      "sourceSystem": "IIBF-IEIFS",
+      "importedAt": "2026-08-22",
+      "verified": true
+    },
+    "category": "IIBF Paper 1: IE&IFS (Module D - Financial Products and Services)"
+  }
+}

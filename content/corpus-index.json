@@ -10295,6 +10295,1075 @@
     "relationships": []
   },
   {
+    "id": "iibf-ieifs-unit-10-money-supply-and-inflation",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 10: Money Supply Measures (M0-M4, L1-L3) & Inflation Mechanics",
+    "summary": "Complete mathematical and regulatory masterclass on RBI Money Aggregates, Money Multiplier, CPI vs WPI, Demand-Pull vs Cost-Push, Phillips Curve, and Section 45ZA Flexible Inflation Targeting.",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B Phase 2 ESI",
+        "Bank Promotions"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit10",
+        "money-supply",
+        "m0-m4",
+        "money-multiplier",
+        "cpi",
+        "wpi",
+        "phillips-curve",
+        "inflation-targeting"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module B - Economic Concepts Related to Banking)"
+    },
+    "relationships": []
+  },
+  {
+    "id": "iibf-ieifs-unit-11-theories-of-interest",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 11: Theories of Interest (Classical, Keynesian & IS-LM Curve)",
+    "summary": "Doctoral breakdown of Classical Thrift/Productivity Theory, Neo-Classical Loanable Funds, Keynesian Liquidity Preference (3 Motives & Liquidity Trap), and the Hicks-Hansen IS-LM Synthesis.",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B ESI",
+        "Bank Promotions"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit11",
+        "theories-of-interest",
+        "keynes",
+        "liquidity-preference",
+        "liquidity-trap",
+        "is-lm"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module B - Economic Concepts Related to Banking)"
+    },
+    "relationships": []
+  },
+  {
+    "id": "iibf-ieifs-unit-12-business-cycles",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 12: Business Cycles, Economic Indicators & Theoretical Models",
+    "summary": "Detailed analysis of the 4 Business Cycle phases (Prosperity, Boom, Recession, Depression), Leading/Lagging/Coincident indicators, Schumpeter's Innovation Theory, and Hawtrey's Monetary Theory.",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B ESI",
+        "Bank Promotions"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit12",
+        "business-cycles",
+        "leading-indicators",
+        "lagging-indicators",
+        "schumpeter",
+        "hawtrey"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module B - Economic Concepts Related to Banking)"
+    },
+    "relationships": []
+  },
+  {
+    "id": "iibf-ieifs-unit-13-monetary-policy-and-fiscal-policy",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 13: Monetary & Fiscal Policy Frameworks, Deficit Metrics & FRBM",
+    "summary": "Exhaustive synthesis of RBI Monetary Policy tools (Repo, SDF, MSF, CRR, SLR), MPC composition, Fiscal Deficit formulas, Primary Deficit, FRBM Act benchmarks, and counter-cyclical fiscal policy.",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B Phase 2 ESI",
+        "Bank Promotions"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit13",
+        "monetary-policy",
+        "fiscal-policy",
+        "mpc",
+        "repo",
+        "sdf",
+        "crr",
+        "slr",
+        "fiscal-deficit",
+        "primary-deficit"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module B - Economic Concepts Related to Banking)"
+    },
+    "relationships": []
+  },
+  {
+    "id": "iibf-ieifs-unit-14-national-income-and-gdp",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 14: National Income Accounting, GDP Concepts & Deflator",
+    "summary": "Exhaustive study unit on GDP, GNP, NNP at Factor Cost vs Market Price, Nominal vs Real GDP, GDP Deflator formula, 3 Methods of Computing National Income, and GVA methodology.",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B Phase 2 ESI",
+        "Bank Promotions"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit14",
+        "national-income",
+        "gdp",
+        "gnp",
+        "nnp",
+        "gdp-deflator",
+        "gva",
+        "value-added-method"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module B - Economic Concepts Related to Banking)"
+    },
+    "relationships": []
+  },
+  {
+    "id": "iibf-ieifs-unit-15-union-budget",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 15: Union Budget Architecture, Constitutional Funds & Budgeting Techniques",
+    "summary": "Complete breakdown of Article 112 Annual Financial Statement, Consolidated Fund (Art 266), Contingency Fund (Art 267), Appropriation Bill, Finance Bill, Zero-Based Budgeting, and Gender Budgeting.",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B Phase 2 ESI",
+        "Bank Promotions"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit15",
+        "union-budget",
+        "article112",
+        "consolidated-fund",
+        "contingency-fund",
+        "appropriation-bill",
+        "finance-bill",
+        "zero-based-budgeting"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module B - Economic Concepts Related to Banking)"
+    },
+    "relationships": []
+  },
+  {
+    "id": "iibf-ieifs-unit-16-overview-financial-system",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 16: Overview of Indian Financial System & Institutional Pillars",
+    "summary": "Doctoral study unit on the 4 pillars of the Indian Financial System: Financial Intermediaries, Financial Markets, Financial Assets/Instruments, and Financial Services; capital formation and credit flow.",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B Phase 2",
+        "Bank Promotions"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit16",
+        "financial-system",
+        "intermediation",
+        "icor",
+        "capital-formation"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module C - Indian Financial Architecture)"
+    },
+    "relationships": []
+  },
+  {
+    "id": "iibf-ieifs-unit-17-banking-regulatory-framework",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 17: Regulatory Hierarchy (RBI, SEBI, IRDAI, PFRDA, IFSCA & FSDC)",
+    "summary": "Exhaustive breakdown of apex regulatory statutory acts, mandates, supervisory perimeters (RBI, SEBI, IRDAI, PFRDA, IFSCA), and the Financial Stability and Development Council (FSDC).",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B Phase 2",
+        "Bank Promotions"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit17",
+        "rbi",
+        "sebi",
+        "irdai",
+        "pfrda",
+        "ifsca",
+        "fsdc",
+        "regulators"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module C - Indian Financial Architecture)"
+    },
+    "relationships": []
+  },
+  {
+    "id": "iibf-ieifs-unit-18-commercial-banks-and-basel",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 18: Commercial Banking Operations, Basel III & PCA Framework",
+    "summary": "Doctoral study unit on Section 22 Bank Licensing, Basel III Capital Adequacy (CRAR 9%, CCB 2.5%, Tier 1/2), LCR/NSFR norms, Prompt Corrective Action (PCA) triggers, and Corporate Governance.",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B Phase 2",
+        "Bank Promotions"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit18",
+        "commercial-banks",
+        "basel-iii",
+        "crar",
+        "lcr",
+        "nsfr",
+        "pca-framework",
+        "npa"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module C - Indian Financial Architecture)"
+    },
+    "relationships": []
+  },
+  {
+    "id": "iibf-ieifs-unit-19-regional-rural-banks",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 19: Regional Rural Banks (RRBs) Structure, Equity & PSL Mandates",
+    "summary": "Comprehensive synthesis of RRB Act 1976, Narasimham Working Group (1975), 50:35:15 Shareholding, 75% PSL target, recapitalization packages, and amalgamation trajectories.",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B Phase 2",
+        "Bank Promotions"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit19",
+        "rrbs",
+        "prathama-bank",
+        "shareholding",
+        "psl-75",
+        "narasimham-1975"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module C - Indian Financial Architecture)"
+    },
+    "relationships": []
+  },
+  {
+    "id": "iibf-ieifs-unit-2-sectors-of-economy",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 2: Sectors of the Indian Economy (Primary, Secondary, Tertiary & Sunrise)",
+    "summary": "Doctoral study unit covering Primary, Secondary, Tertiary, Quaternary and Quinary sectors; agricultural dependency, MSP mechanisms, Make in India, PLI schemes, and Services export engine.",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B ESI",
+        "Bank Promotions"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit2",
+        "sectors",
+        "agriculture",
+        "msp",
+        "iip",
+        "core-industries",
+        "pli"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module A - Indian Economic Architecture)"
+    },
+    "relationships": []
+  },
+  {
+    "id": "iibf-ieifs-unit-20-cooperative-banking-system",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 20: Cooperative Banking System, BR Amendment 2020 & 4-Tier UCBs",
+    "summary": "Doctoral study unit on Urban Cooperative Banks (UCBs), Rural Cooperatives (StCB, DCCB, PACS), Dual Regulation resolution under BR Amendment Act 2020, and the RBI 4-Tier Categorization of UCBs.",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B Phase 2",
+        "Bank Promotions"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit20",
+        "cooperative-banks",
+        "ucbs",
+        "pacs",
+        "dccb",
+        "br-amendment-2020",
+        "4-tier-ucb"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module C - Indian Financial Architecture)"
+    },
+    "relationships": []
+  },
+  {
+    "id": "iibf-ieifs-unit-21-nbfcs-and-scale-based-regulation",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 21: NBFCs, Scale-Based Regulation (SBR) & Housing Finance Companies",
+    "summary": "Complete synthesis of Section 45-IA of RBI Act, SBR 4-Layer framework (Base, Middle, Upper, Top), NBFC vs Bank distinctions, HFC regulatory transition, and Co-Lending Model (CLM 80:20).",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B Phase 2",
+        "Bank Promotions"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit21",
+        "nbfcs",
+        "scale-based-regulation",
+        "sbr",
+        "co-lending",
+        "dicgc",
+        "hfcs"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module C - Indian Financial Architecture)"
+    },
+    "relationships": []
+  },
+  {
+    "id": "iibf-ieifs-unit-22-development-financial-institutions",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 22: Development Financial Institutions (NABARD, SIDBI, EXIM, NHB & NaBFID)",
+    "summary": "Comprehensive breakdown of apex developmental banks: NABARD, SIDBI, EXIM Bank, NHB, MUDRA loans (Shishu, Kishore, Tarun, Tarun Plus), and NaBFID Act 2021.",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B Phase 2",
+        "Bank Promotions"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit22",
+        "dfis",
+        "nabard",
+        "sidbi",
+        "exim-bank",
+        "nhb",
+        "nabfid",
+        "mudra"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module C - Indian Financial Architecture)"
+    },
+    "relationships": []
+  },
+  {
+    "id": "iibf-ieifs-unit-23-financial-inclusion-and-literacy",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 23: Financial Inclusion Schemes, PMJDY Pillars & RBI FI-Index",
+    "summary": "Exhaustive synthesis of PMJDY (BSBD accounts, OD ₹10k, RuPay ₹2L), Social Security Jan Suraksha (PMJJBY, PMSBY, APY), BC/CSP banking model, and RBI Financial Inclusion Index (3 Dimensions).",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B Phase 2",
+        "Bank Promotions"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit23",
+        "financial-inclusion",
+        "pmjdy",
+        "pmjjby",
+        "pmsby",
+        "apy",
+        "fi-index"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module C - Indian Financial Architecture)"
+    },
+    "relationships": []
+  },
+  {
+    "id": "iibf-ieifs-unit-24-digital-banking-and-fintech",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 24: Digital Banking, NPCI Payment Systems & CBDC (e-Rupee)",
+    "summary": "Doctoral study unit on Payment and Settlement Systems Act 2007, NPCI products (UPI, IMPS, AePS, NACH, NETC), Central Bank Digital Currency (CBDC e₹), Account Aggregators, and DBUs.",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B Phase 2",
+        "Bank Promotions"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit24",
+        "digital-banking",
+        "npci",
+        "upi",
+        "imps",
+        "cbdc",
+        "e-rupee",
+        "account-aggregator"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module C - Indian Financial Architecture)"
+    },
+    "relationships": []
+  },
+  {
+    "id": "iibf-ieifs-unit-25-financial-markets-overview",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 25: Financial Markets Structure (Money vs Capital, Primary vs Secondary)",
+    "summary": "Doctoral study unit on Financial Market classification, Money Market vs Capital Market horizons, Primary Market issuance mechanisms, and Secondary Market trading liquidity.",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B Phase 2",
+        "Bank Promotions"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit25",
+        "financial-markets",
+        "money-market",
+        "capital-market",
+        "rbi",
+        "sebi"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module D - Financial Products and Services)"
+    },
+    "relationships": []
+  },
+  {
+    "id": "iibf-ieifs-unit-26-money-market-instruments",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 26: Money Market Instruments (Call Money, T-Bills, CP, CD & TREPS)",
+    "summary": "Exhaustive mathematical and statutory breakdown of Call/Notice/Term Money limits, Treasury Bills (91/182/364 days), Commercial Paper (min ₹5L), Certificates of Deposit (min ₹1L), and Triparty Repos.",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B Phase 2",
+        "Bank Promotions"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit26",
+        "money-market",
+        "call-money",
+        "t-bills",
+        "commercial-paper",
+        "certificates-of-deposit",
+        "treps"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module D - Financial Products and Services)"
+    },
+    "relationships": []
+  },
+  {
+    "id": "iibf-ieifs-unit-27-capital-markets-and-stock-exchanges",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 27: Capital Markets, Stock Exchanges & Depository Architecture",
+    "summary": "Doctoral study unit on BSE, NSE, NSDL, CDSL, Primary Market offerings (IPO, FPO, Rights, QIP, OFS), ASBA mechanism, T+1 settlement cycle, and SEBI ICDR regulations.",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B Phase 2",
+        "Bank Promotions"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit27",
+        "capital-markets",
+        "bse",
+        "nse",
+        "nsdl",
+        "cdsl",
+        "ipo",
+        "asba",
+        "t1-settlement"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module D - Financial Products and Services)"
+    },
+    "relationships": []
+  },
+  {
+    "id": "iibf-ieifs-unit-28-fixed-income-and-debt-securities",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 28: Fixed Income Securities, G-Secs, Yield Curves & Duration",
+    "summary": "Comprehensive mathematical breakdown of Government Securities (G-Secs), State Development Loans (SDLs), Sovereign Gold Bonds (SGBs), Clean vs Dirty Price, Yield to Maturity (YTM), and Macaulay/Modified Duration.",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B Phase 2",
+        "Bank Promotions"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit28",
+        "fixed-income",
+        "g-secs",
+        "sdls",
+        "sgb",
+        "dirty-price",
+        "duration",
+        "yield-curve"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module D - Financial Products and Services)"
+    },
+    "relationships": []
+  },
+  {
+    "id": "iibf-ieifs-unit-29-derivatives-market",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 29: Derivatives Market (Forwards, Futures, Options & Swaps)",
+    "summary": "Doctoral study unit on Forward Contracts vs Futures, Call & Put Options payoff profiles, Moneyness (ITM, ATM, OTM), Interest Rate Swaps (IRS), and Credit Default Swaps (CDS).",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B Phase 2",
+        "Bank Promotions"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit29",
+        "derivatives",
+        "forwards",
+        "futures",
+        "options",
+        "call-option",
+        "put-option",
+        "swaps",
+        "cds"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module D - Financial Products and Services)"
+    },
+    "relationships": []
+  },
+  {
+    "id": "iibf-ieifs-unit-3-economic-planning-niti",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 3: Economic Planning Architecture & NITI Aayog Strategy",
+    "summary": "Comprehensive masterclass on Indian Five Year Plans, Planning Commission dissolution, NITI Aayog composition, cooperative federalism, SDG India Index, and 15-Year Vision / 7-Year Strategy.",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B Phase 2 ESI",
+        "Bank Promotions"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit3",
+        "planning-commission",
+        "niti-aayog",
+        "fyps",
+        "sdg-index",
+        "mpi"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module A - Indian Economic Architecture)"
+    },
+    "relationships": []
+  },
+  {
+    "id": "iibf-ieifs-unit-30-mutual-funds-and-aif",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 30: Mutual Funds, Alternate Investment Funds (AIF) & REITs/InvITs",
+    "summary": "Doctoral study unit on Mutual Fund 3-Tier Trust Structure, NAV calculations, SEBI scheme categorization, AIF Categories (I, II, III), Real Estate Investment Trusts (REITs), and InvITs.",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B Phase 2",
+        "Bank Promotions"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit30",
+        "mutual-funds",
+        "nav",
+        "aif",
+        "reits",
+        "invits",
+        "sebi"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module D - Financial Products and Services)"
+    },
+    "relationships": []
+  },
+  {
+    "id": "iibf-ieifs-unit-31-insurance-and-pension-products",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 31: Insurance Principles, IRDAI Bima Trinity & Pension Systems (NPS)",
+    "summary": "Doctoral study unit on Fundamental Insurance Principles (Indemnity, Uberrima Fides, Subrogation), Life vs General Insurance, IRDAI Bima Trinity (Sugam, Vistar, Vahak), and the National Pension System (NPS Tier 1 & 2).",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B Phase 2",
+        "Bank Promotions"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit31",
+        "insurance",
+        "indemnity",
+        "insurable-interest",
+        "bima-trinity",
+        "nps",
+        "pfrda",
+        "annuity"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module D - Financial Products and Services)"
+    },
+    "relationships": []
+  },
+  {
+    "id": "iibf-ieifs-unit-32-factoring-forfaiting-and-treds",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 32: Factoring, Forfaiting and TReDS Architecture",
+    "summary": "Exhaustive synthesis of Factoring vs Forfaiting, Recourse vs Non-Recourse, Factoring Regulation (Amendment) Act 2021, and the Trade Receivables Discounting System (TReDS) mechanism.",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B Phase 2",
+        "Bank Promotions"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit32",
+        "factoring",
+        "forfaiting",
+        "treds",
+        "msme-receivables",
+        "without-recourse"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module D - Financial Products and Services)"
+    },
+    "relationships": []
+  },
+  {
+    "id": "iibf-ieifs-unit-33-foreign-exchange-market",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 33: Foreign Exchange Market, Quotes, FEMA 1999 & NRI Accounts",
+    "summary": "Doctoral study unit on Forex Market Structure (AD Cat I, II, III), Direct vs Indirect Quotes, Value Dates (Cash/TOM/Spot/Forward), LRS ($250,000), Nostro/Vostro/Loro accounts, and NRE/NRO/FCNR(B) deposits.",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B Phase 2",
+        "Bank Promotions"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit33",
+        "forex",
+        "spot-date",
+        "nostro",
+        "vostro",
+        "nre",
+        "nro",
+        "fcnr",
+        "lrs"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module D - Financial Products and Services)"
+    },
+    "relationships": []
+  },
+  {
+    "id": "iibf-ieifs-unit-34-core-banking-green-finance",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 34: Core Banking Solutions, ESG Risk, Green Bonds & BRSR Framework",
+    "summary": "Doctoral study unit on CBS 24x7 real-time centralized architecture, AI/ML in credit scoring, Cybersecurity framework, Sovereign Green Bonds (SGrBs), and SEBI BRSR Core disclosures.",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B Phase 2",
+        "Bank Promotions"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit34",
+        "cbs",
+        "finacle",
+        "bancs",
+        "green-bonds",
+        "sgrb",
+        "brsr",
+        "esg"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module D - Financial Products and Services)"
+    },
+    "relationships": []
+  },
+  {
+    "id": "iibf-ieifs-unit-4-priority-sector-msme",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 4: Role of Priority Sector Lending (PSL) and MSME in the Economy",
+    "summary": "Exhaustive synthesis of RBI Master Directions on PSL targets, sub-targets for Domestic vs Foreign Banks/RRBs/SFBs, MSME composite classification criteria (July 2020), TReDS, CGTMSE, and Udyam registration.",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B Phase 2",
+        "Bank Promotions"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit4",
+        "psl",
+        "msme",
+        "cgtmse",
+        "treds",
+        "ridf",
+        "delayed-payments"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module A - Indian Economic Architecture)"
+    },
+    "relationships": []
+  },
+  {
+    "id": "iibf-ieifs-unit-5-infrastructure-social-infra",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 5: Infrastructure Architecture, Logistics & Social Infrastructure",
+    "summary": "Detailed synthesis of National Infrastructure Pipeline (NIP ₹111 Lakh Cr), PM GatiShakti, National Logistics Policy, PPP models (BOT, BOOT, HAM), Education/NEP 2020, Ayushman Bharat, and HDI parameters.",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B Phase 2",
+        "Bank Promotions"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit5",
+        "infrastructure",
+        "nip",
+        "gati-shakti",
+        "nlp",
+        "ham",
+        "ayushman-bharat",
+        "nep2020"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module A - Indian Economic Architecture)"
+    },
+    "relationships": []
+  },
+  {
+    "id": "iibf-ieifs-unit-6-globalization-trade-policy",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 6: Globalization, Foreign Trade Policy & Rupee Internationalization",
+    "summary": "Exhaustive study unit on Globalization dynamics, GFC impact, Foreign Trade Policy (FTP 2023), Special Rupee Vostro Accounts (SRVA), Balance of Payments, Current Account vs Capital Account convertibility.",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B Phase 2",
+        "Bank Promotions"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit6",
+        "globalization",
+        "ftp2023",
+        "srva",
+        "bop",
+        "convertibility",
+        "tarapore"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module A - Indian Economic Architecture)"
+    },
+    "relationships": []
+  },
+  {
+    "id": "iibf-ieifs-unit-7-international-economic-organizations",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 7: International Economic Organizations (World Bank, IMF, WTO & MDBs)",
+    "summary": "Comprehensive breakdown of Bretton Woods twins (IBRD/IDA vs IMF), SDR valuation basket, WTO Agreements (AoA Box subsidies, TRIPS, TRIMS), ADB, NDB, and AIIB.",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B Phase 2",
+        "Bank Promotions"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit7",
+        "world-bank",
+        "imf",
+        "sdr",
+        "wto",
+        "aoa",
+        "amber-box",
+        "icsid",
+        "aiib"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module A - Indian Economic Architecture)"
+    },
+    "relationships": []
+  },
+  {
+    "id": "iibf-ieifs-unit-8-fundamentals-micro-macro-markets",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 8: Fundamentals of Economics, Micro & Macro, and Market Structures",
+    "summary": "Doctoral study unit on Scarcity, Choice, Positive vs Normative Economics, Consumer Surplus, and the 4 Primary Market Forms (Perfect Competition, Monopoly, Monopolistic, Oligopoly & Kinked Demand Curve).",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B ESI",
+        "Bank Promotions"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit8",
+        "microeconomics",
+        "market-structures",
+        "oligopoly",
+        "kinked-demand",
+        "price-discrimination"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module B - Economic Concepts Related to Banking)"
+    },
+    "relationships": []
+  },
+  {
+    "id": "iibf-ieifs-unit-9-supply-and-demand-elasticity",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 9: Law of Demand, Supply & Elasticity Formulas",
+    "summary": "Exhaustive mathematical and conceptual analysis of Price, Income, and Cross Elasticity of Demand, Giffen vs Veblen Goods, Equilibrium Shifts, and Government Price Controls.",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B ESI",
+        "Bank Promotions"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit9",
+        "demand",
+        "supply",
+        "elasticity",
+        "giffen-goods",
+        "veblen-goods",
+        "cross-elasticity"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module B - Economic Concepts Related to Banking)"
+    },
+    "relationships": []
+  },
+  {
     "id": "iibf-reg-mod1",
     "domain": "iibf-regulations",
     "title": "📌 Module 1: Deposit Operations, Customer Rights & Statutory Governance",

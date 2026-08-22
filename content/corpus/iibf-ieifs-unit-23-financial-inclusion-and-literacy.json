@@ -1,0 +1,144 @@
+{
+  "id": "iibf-ieifs-unit-23-financial-inclusion-and-literacy",
+  "type": "chapter",
+  "domain": "iibf-regulations",
+  "title": "IIBF IE&IFS Unit 23: Financial Inclusion Schemes, PMJDY Pillars & RBI FI-Index",
+  "summary": "Exhaustive synthesis of PMJDY (BSBD accounts, OD ₹10k, RuPay ₹2L), Social Security Jan Suraksha (PMJJBY, PMSBY, APY), BC/CSP banking model, and RBI Financial Inclusion Index (3 Dimensions).",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "IIBF Core Foundation: Universal Financial Inclusion",
+      "summary": "Financial Inclusion is the delivery of formal financial services (banking, credit, insurance, pension) at affordable costs to vulnerable and disadvantaged groups, measured systematically by the RBI FI-Index."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🏛️ 1. Pradhan Mantri Jan Dhan Yojana (PMJDY) Master Architecture"
+    },
+    {
+      "type": "table",
+      "caption": "PMJDY Key Statutory Parameters",
+      "headers": [
+        "Feature / Benefit",
+        "Statutory Rule / Outlay",
+        "Operational Condition"
+      ],
+      "rows": [
+        [
+          "Account Type",
+          "Basic Savings Bank Deposit (BSBD) Account",
+          "**Zero minimum balance requirement**; zero penalty for non-maintenance."
+        ],
+        [
+          "RuPay Debit Card",
+          "Free RuPay Debit Card with inbuilt **₹2 Lakh Accidental Insurance**",
+          "Active card condition: At least 1 successful financial/non-financial transaction on any channel within last 90 days."
+        ],
+        [
+          "Overdraft (OD) Facility",
+          "**Up to ₹10,000** per eligible household (preferably woman)",
+          "No conditions up to ₹2,000; age limit 18–65 years; operative account for min 6 months."
+        ],
+        [
+          "Deposit Balances",
+          "Over ₹2.3 Lakh Crore mobilized across 52+ Crore accounts",
+          "Women account holders constitute > 55% of all PMJDY accounts."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🛡️ 2. Jan Suraksha Social Security Triad Matrix"
+    },
+    {
+      "type": "table",
+      "caption": "PMJJBY, PMSBY and APY Comparison",
+      "headers": [
+        "Scheme Name",
+        "Eligible Age Bracket",
+        "Annual Premium",
+        "Risk / Benefit Coverage"
+      ],
+      "rows": [
+        [
+          "PM Jeevan Jyoti Bima Yojana (PMJJBY)",
+          "**18 to 50 Years** (Life cover up to 55 yrs)",
+          "**₹436 per annum** (auto-debited from bank a/c)",
+          "**₹2 Lakh Life Insurance cover** payable on death of insured due to ANY cause."
+        ],
+        [
+          "PM Suraksha Bima Yojana (PMSBY)",
+          "**18 to 70 Years**",
+          "**₹20 per annum** (auto-debited)",
+          "**₹2 Lakh for accidental death / total permanent disability**; ₹1 Lakh for partial permanent disability."
+        ],
+        [
+          "Atal Pension Yojana (APY)",
+          "**18 to 40 Years** (Accumulation period min 20 yrs)",
+          "Varies by age & chosen pension",
+          "**Guaranteed monthly pension of ₹1,000, ₹2,000, ₹3,000, ₹4,000, or ₹5,000** starting at age 60 for life."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "📊 3. Reserve Bank of India Financial Inclusion Index (FI-Index)"
+    },
+    {
+      "type": "table",
+      "caption": "RBI FI-Index 3 Dimensions (Published Annually in July; Range 0 to 100)",
+      "headers": [
+        "Dimension",
+        "Weightage (%)",
+        "Core Parameters Evaluated"
+      ],
+      "rows": [
+        [
+          "Access",
+          "**35%**",
+          "Banking outlets, Bank branches, ATMs, PoS terminals, BC outlets per 10,000 population."
+        ],
+        [
+          "Usage",
+          "**45% (Highest Weight)**",
+          "Active savings accounts, credit accounts, digital transactions, insurance policies, remittances."
+        ],
+        [
+          "Quality",
+          "**20%**",
+          "Financial literacy, consumer protection, grievances redressal, ease of onboarding, fraud mitigation."
+        ]
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "content": "🎯 Top IIBF Traps for Unit 23:\n1. **FI-Index Weights:** **Usage (45%) > Access (35%) > Quality (20%)**.\n2. **PMJJBY vs PMSBY Age:** PMJJBY is **18–50 yrs**; PMSBY is **18–70 yrs**; APY is **18–40 yrs**.\n3. **PMJDY OD Limit:** Up to **₹10,000** (no questions asked up to ₹2,000)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "IIBF JAIIB IE&IFS",
+      "RBI Grade B Phase 2",
+      "Bank Promotions"
+    ],
+    "tags": [
+      "iibf",
+      "ieifs",
+      "unit23",
+      "financial-inclusion",
+      "pmjdy",
+      "pmjjby",
+      "pmsby",
+      "apy",
+      "fi-index"
+    ],
+    "provenance": {
+      "sourceSystem": "IIBF-IEIFS",
+      "importedAt": "2026-08-22",
+      "verified": true
+    },
+    "category": "IIBF Paper 1: IE&IFS (Module C - Indian Financial Architecture)"
+  }
+}

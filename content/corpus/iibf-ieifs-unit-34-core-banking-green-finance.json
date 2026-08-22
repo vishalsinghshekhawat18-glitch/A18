@@ -1,0 +1,92 @@
+{
+  "id": "iibf-ieifs-unit-34-core-banking-green-finance",
+  "type": "chapter",
+  "domain": "iibf-regulations",
+  "title": "IIBF IE&IFS Unit 34: Core Banking Solutions, ESG Risk, Green Bonds & BRSR Framework",
+  "summary": "Doctoral study unit on CBS 24x7 real-time centralized architecture, AI/ML in credit scoring, Cybersecurity framework, Sovereign Green Bonds (SGrBs), and SEBI BRSR Core disclosures.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "IIBF Core Foundation: Modern Banking Tech & Sustainability",
+      "summary": "Modern banking integrates 24x7 centralized Core Banking Systems (CBS) with frontier technologies (AI, Blockchain, Open Banking APIs) while aligning asset portfolios with Environmental, Social, and Governance (ESG) criteria."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "💻 1. Core Banking Solutions (CBS) Architecture"
+    },
+    {
+      "type": "table",
+      "caption": "Core Banking Systems in India",
+      "headers": [
+        "Parameter",
+        "Traditional Branch Banking",
+        "Core Banking Solutions (CBS)"
+      ],
+      "rows": [
+        [
+          "Account Concept",
+          "Customer was a customer of a specific branch",
+          "**Customer of the entire bank** across all domestic and international branches"
+        ],
+        [
+          "Data Storage",
+          "Decentralized localized branch servers",
+          "**Centralized Datacenter** with Disaster Recovery (DR) and Near-DR sites"
+        ],
+        [
+          "Transaction Processing",
+          "End of day batch processing",
+          "**Real-time online processing 24x7x365**"
+        ],
+        [
+          "Major CBS Software",
+          "N/A",
+          "**Finacle (Infosys)**, **BaNCS (TCS)**, **Flexcube (Oracle)**"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🌱 2. Green Finance & Sovereign Green Bonds (SGrBs)"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Sovereign Green Bonds (SGrBs):** Issued by RBI on behalf of GoI to mobilize resources for green public sector projects (Renewable Energy, Clean Transportation, Water Management, Green Buildings).",
+        "**Greenium (Green Premium):** Green bonds often price at a slight yield discount (greenium) due to high ESG investor demand.",
+        "**Business Responsibility and Sustainability Reporting (BRSR):** Mandated by SEBI for the **Top 1,000 listed entities by market capitalization**. Includes **BRSR Core** with mandatory third-party reasonable assurance on 9 ESG attributes (GHG emissions, water footprint, gender diversity, supply chain transparency)."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "content": "🎯 Top IIBF Traps for Unit 34:\n1. **BRSR Mandatory Scope:** Top **1,000 listed entities** by market capitalization on Indian stock exchanges.\n2. **Core Banking Architecture:** CBS converts the customer into a **customer of the bank**, not just the branch.\n3. **Greenium Definition:** The yield difference between a regular bond and a green bond of identical maturity (green bond trading at lower yield due to ESG premium)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "IIBF JAIIB IE&IFS",
+      "RBI Grade B Phase 2",
+      "Bank Promotions"
+    ],
+    "tags": [
+      "iibf",
+      "ieifs",
+      "unit34",
+      "cbs",
+      "finacle",
+      "bancs",
+      "green-bonds",
+      "sgrb",
+      "brsr",
+      "esg"
+    ],
+    "provenance": {
+      "sourceSystem": "IIBF-IEIFS",
+      "importedAt": "2026-08-22",
+      "verified": true
+    },
+    "category": "IIBF Paper 1: IE&IFS (Module D - Financial Products and Services)"
+  }
+}

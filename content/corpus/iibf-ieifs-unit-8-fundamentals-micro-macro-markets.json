@@ -1,0 +1,123 @@
+{
+  "id": "iibf-ieifs-unit-8-fundamentals-micro-macro-markets",
+  "type": "chapter",
+  "domain": "iibf-regulations",
+  "title": "IIBF IE&IFS Unit 8: Fundamentals of Economics, Micro & Macro, and Market Structures",
+  "summary": "Doctoral study unit on Scarcity, Choice, Positive vs Normative Economics, Consumer Surplus, and the 4 Primary Market Forms (Perfect Competition, Monopoly, Monopolistic, Oligopoly & Kinked Demand Curve).",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "IIBF Core Foundation: Market Structure Classification",
+      "summary": "Market structures are classified by the number of buyers/sellers, product differentiation, barriers to entry, and pricing power: from Perfect Competition (Price Takers, Horizontal Demand Curve) to Pure Monopoly (Single Seller, High Barriers, Price Maker)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "📊 1. Comprehensive Market Structures Comparison Matrix"
+    },
+    {
+      "type": "table",
+      "caption": "The 4 Core Market Forms (IIBF Benchmark)",
+      "headers": [
+        "Market Form",
+        "Number of Sellers & Buyers",
+        "Nature of Product",
+        "Entry & Exit Barriers",
+        "Price Control Power",
+        "Demand Curve Shape Faced by Firm"
+      ],
+      "rows": [
+        [
+          "Perfect Competition",
+          "Very large number of buyers and sellers",
+          "Homogeneous (Identical goods)",
+          "Completely Free (Zero barriers)",
+          "**Zero Price Control** (Firm is a **Price Taker**; Price determined by industry)",
+          "**Perfectively Elastic (Horizontal Straight Line, \\(E_d = \\infty\\))** where \\(P = AR = MR\\)."
+        ],
+        [
+          "Monopoly",
+          "Single seller, vast number of buyers",
+          "Unique product (No close substitutes)",
+          "Extremely High / Absolute barriers (patents, natural monopoly)",
+          "**Full Price Control** (Firm is a **Price Maker**)",
+          "**Downward Sloping (Inelastic)**; \\(MR < AR\\)."
+        ],
+        [
+          "Monopolistic Competition",
+          "Large number of sellers",
+          "**Differentiated Products** (branding, packaging, advertising)",
+          "Free entry and exit in the long run",
+          "**Partial Price Control** (brand loyalty allows slight price discretion)",
+          "**Downward Sloping (Highly Elastic)** due to close substitutes."
+        ],
+        [
+          "Oligopoly",
+          "Few large dominant firms",
+          "Homogeneous (Pure) or Differentiated (Imperfect)",
+          "Substantial entry barriers (high capital scale)",
+          "**Mutual Interdependence & Strategic Pricing** (Cartels, Price Rigidity)",
+          "**Kinked Demand Curve (Paul Sweezy Model)**: Highly elastic above ruling price, highly inelastic below."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "📉 2. The Sweezy Kinked Demand Curve in Oligopoly"
+    },
+    {
+      "type": "paragraph",
+      "content": "Paul Sweezy formulated the **Kinked Demand Curve hypothesis** to explain **Price Rigidity** in oligopolistic markets (e.g. Telecom, Airline industry):"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Asymmetric Rival Reactions:** If an oligopolist raises its price, rivals will **not follow**, causing the firm to lose a large market share (**Elastic upper segment**).",
+        "**If an oligopolist lowers its price:** Rivals will **immediately match the price cut** to prevent losing customers, resulting in little gain in sales (**Inelastic lower segment**).",
+        "**Discontinuous Marginal Revenue (MR):** The kink in the demand curve creates a vertical gap in the \\(MR\\) curve, meaning costs can change without altering the equilibrium market price."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "💡 3. Consumer Surplus & Price Discrimination"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Consumer Surplus (Alfred Marshall):** The difference between what a consumer is **willing to pay** and what they **actually pay** (\\(\\text{Consumer Surplus} = \\text{Total Utility} - \\text{Total Expenditure}\\)).",
+        "**1st Degree Price Discrimination (Perfect):** Monopolist charges the maximum price each consumer is willing to pay; captures **100% of consumer surplus**.",
+        "**2nd Degree Price Discrimination:** Pricing varies according to the quantity consumed (e.g. bulk utility discounts, slab-based electricity tariffs).",
+        "**3rd Degree Price Discrimination:** Market segmentation based on consumer elasticity (e.g. railway ticket discounts for senior citizens vs commercial travelers; student discounts)."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "content": "🎯 Top IIBF Traps for Unit 8:\n1. **Perfect Competition Demand Curve:** The demand curve facing an individual competitive firm is **horizontally flat (perfectly elastic, \\(E_d = \\infty\\))** where \\(P = AR = MR\\).\n2. **Kinked Demand Curve Founder:** Formulated by **Paul Sweezy** to explain price rigidity in Oligopoly.\n3. **1st Degree Price Discrimination:** Results in **zero consumer surplus** remaining with consumers."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "IIBF JAIIB IE&IFS",
+      "RBI Grade B ESI",
+      "Bank Promotions"
+    ],
+    "tags": [
+      "iibf",
+      "ieifs",
+      "unit8",
+      "microeconomics",
+      "market-structures",
+      "oligopoly",
+      "kinked-demand",
+      "price-discrimination"
+    ],
+    "provenance": {
+      "sourceSystem": "IIBF-IEIFS",
+      "importedAt": "2026-08-22",
+      "verified": true
+    },
+    "category": "IIBF Paper 1: IE&IFS (Module B - Economic Concepts Related to Banking)"
+  }
+}

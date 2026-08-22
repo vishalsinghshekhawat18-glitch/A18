@@ -1,0 +1,160 @@
+{
+  "id": "iibf-ieifs-unit-10-money-supply-and-inflation",
+  "type": "chapter",
+  "domain": "iibf-regulations",
+  "title": "IIBF IE&IFS Unit 10: Money Supply Measures (M0-M4, L1-L3) & Inflation Mechanics",
+  "summary": "Complete mathematical and regulatory masterclass on RBI Money Aggregates, Money Multiplier, CPI vs WPI, Demand-Pull vs Cost-Push, Phillips Curve, and Section 45ZA Flexible Inflation Targeting.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "IIBF Core Foundation: Money Aggregates & Inflation Control",
+      "summary": "Reserve Money (\\(M_0\\)) is high-powered central bank money that multiplies through the commercial banking credit creation mechanism into Broad Money (\\(M_3\\)). RBI manages liquidity to anchor headline CPI inflation at 4% ± 2% under the statutory MPC mandate."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "💰 1. Reserve Bank of India Money Supply Measures (M0 to M4)"
+    },
+    {
+      "type": "table",
+      "caption": "RBI Monetary Aggregates Definitions",
+      "headers": [
+        "Aggregate",
+        "Official Technical Formula",
+        "Classification & Characteristics"
+      ],
+      "rows": [
+        [
+          "Reserve Money (\\(M_0\\))",
+          "$$\\text{Currency in Circulation} + \\text{Bankers' Deposits with RBI} + \\text{'Other' Deposits with RBI}$$",
+          "**High-Powered Money / Monetary Base**. Base on which commercial bank credit expands."
+        ],
+        [
+          "Narrow Money (\\(M_1\\))",
+          "$$\\text{Currency with the Public} + \\text{Demand Deposits with Banking System} + \\text{'Other' Deposits with RBI}$$",
+          "**Most Liquid Money Aggregate**. Instant transactional liquidity."
+        ],
+        [
+          "\\(M_2\\)",
+          "$$M_1 + \\text{Savings Deposits with Post Office Savings Banks}$$",
+          "Narrow Money + Post Office savings."
+        ],
+        [
+          "Broad Money (\\(M_3\\))",
+          "$$M_1 + \\text{Time Deposits with the Banking System}$$",
+          "**Most Widely Used Measure of Money Supply in India**. Primary intermediate target for monetary policy analysis."
+        ],
+        [
+          "\\(M_4\\)",
+          "$$M_3 + \\text{Total Deposits with Post Office (Excluding NSC)}$$",
+          "Broadest measure; includes all post office deposits except National Savings Certificates."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🧮 2. Money Multiplier Formula & Credit Creation"
+    },
+    {
+      "type": "formula",
+      "latex": "m = \\frac{M_3}{M_0} = \\frac{1 + c}{c + r}",
+      "explanation": "Where \\(c = \\frac{C}{D}\\) is the Currency-Deposit Ratio and \\(r = \\frac{R}{D}\\) is the Reserve-Deposit Ratio (CRR + excess cash reserves)."
+    },
+    {
+      "type": "paragraph",
+      "content": "**Key Multiplier Invariants:**\n• If **Cash Reserve Ratio (CRR)** increases ➔ Reserve ratio \\(r\\) increases ➔ Money Multiplier \\(m\\) **decreases** ➔ Total money supply in the economy contracts.\n• If the public holds more physical cash (higher \\(c\\)) ➔ Multiplier \\(m\\) decreases (cash leakage from banking system)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "📈 3. Inflation Measurement: CPI vs. WPI Comparison Matrix"
+    },
+    {
+      "type": "table",
+      "caption": "CPI-Combined vs. WPI in India",
+      "headers": [
+        "Parameter",
+        "Consumer Price Index (CPI-Combined)",
+        "Wholesale Price Index (WPI)"
+      ],
+      "rows": [
+        [
+          "Official Anchor",
+          "**Official Nominal Anchor for Monetary Policy (since 2014, Urjit Patel Comm)**",
+          "Used for wholesale/producer price tracking; no longer RBI monetary target."
+        ],
+        [
+          "Published By",
+          "National Statistical Office (NSO), MoSPI",
+          "Office of Economic Adviser, Ministry of Commerce & Industry"
+        ],
+        [
+          "Base Year",
+          "**2012 = 100**",
+          "**2011-12 = 100**"
+        ],
+        [
+          "Commodity Basket",
+          "Covers **Goods and Services** (448 rural / 460 urban items)",
+          "Covers **Goods Only (Services are 100% EXCLUDED)** (697 items)"
+        ],
+        [
+          "Major Weights",
+          "**Food & Beverages: 45.86%** > Misc/Services: 28.32% > Housing: 10.07% > Fuel: 6.84%",
+          "**Manufactured Products: 64.23%** > Primary Articles: 22.62% > Fuel & Power: 13.15%"
+        ],
+        [
+          "Inflation Target Mandate",
+          "**4.0% with a tolerance band of ± 2% (2.0% to 6.0%)** under Section 45ZA of RBI Act 1934",
+          "N/A"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "⚡ 4. Types of Inflation & The Phillips Curve"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Demand-Pull Inflation:** Occurs when Aggregate Demand exceeds Aggregate Supply (\\(AD > AS\\)) at full employment (*'Too much money chasing too few goods'*).",
+        "**Cost-Push Inflation:** Driven by sudden supply-side shocks (crude oil spikes, wage hikes, geopolitical supply chain bottlenecks).",
+        "**Headline Inflation:** Total unadjusted CPI inflation reflecting all items in the basket including volatile food and fuel.",
+        "**Core Inflation:** **Headline CPI minus volatile Food and Fuel components** (measures underlying persistent inflationary trends).",
+        "**The Phillips Curve (A.W. Phillips):** Shows an **inverse/negative trade-off between Inflation and Unemployment in the short run** (Lower unemployment is accompanied by higher inflation). However, in the long run (Milton Friedman), the Phillips curve is **vertical at the Natural Rate of Unemployment (NAIRU)**.",
+        "**Stagflation:** Lethal macroeconomic scenario featuring **Stagnant economic growth / high unemployment + High inflation** simultaneously."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "content": "🎯 Top IIBF Traps for Unit 10:\n1. **WPI vs CPI Services:** WPI **does NOT include services**; CPI includes both goods and services.\n2. **RBI Monetary Policy Target:** Headline **CPI-Combined (Base 2012=100)** is the target, NOT WPI or Core inflation.\n3. **Broad Money Aggregate:** \\(M_3\\) is **\\(M_1 + \\text{Time Deposits with Banks}\\)** (does NOT include Post Office time deposits).\n4. **Statutory Inflation Target:** **4% with ± 2% band (2% to 6%)** under Section 45ZA of the Reserve Bank of India Act, 1934."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "IIBF JAIIB IE&IFS",
+      "RBI Grade B Phase 2 ESI",
+      "Bank Promotions"
+    ],
+    "tags": [
+      "iibf",
+      "ieifs",
+      "unit10",
+      "money-supply",
+      "m0-m4",
+      "money-multiplier",
+      "cpi",
+      "wpi",
+      "phillips-curve",
+      "inflation-targeting"
+    ],
+    "provenance": {
+      "sourceSystem": "IIBF-IEIFS",
+      "importedAt": "2026-08-22",
+      "verified": true
+    },
+    "category": "IIBF Paper 1: IE&IFS (Module B - Economic Concepts Related to Banking)"
+  }
+}

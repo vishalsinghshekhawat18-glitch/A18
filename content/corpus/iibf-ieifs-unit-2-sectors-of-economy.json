@@ -1,0 +1,137 @@
+{
+  "id": "iibf-ieifs-unit-2-sectors-of-economy",
+  "type": "chapter",
+  "domain": "iibf-regulations",
+  "title": "IIBF IE&IFS Unit 2: Sectors of the Indian Economy (Primary, Secondary, Tertiary & Sunrise)",
+  "summary": "Doctoral study unit covering Primary, Secondary, Tertiary, Quaternary and Quinary sectors; agricultural dependency, MSP mechanisms, Make in India, PLI schemes, and Services export engine.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "IIBF Core Foundation: 5-Tier Sectoral Architecture",
+      "summary": "Modern economic taxonomy divides economic activities into 5 progressive tiers: Primary (Resource Extraction), Secondary (Value Addition/Manufacturing), Tertiary (Service Provision), Quaternary (Knowledge/IT/R&D), and Quinary (High-level Strategic Decision Making)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "📊 1. Detailed Sectoral Classification Matrix"
+    },
+    {
+      "type": "table",
+      "caption": "5-Tier Economic Activity Hierarchy",
+      "headers": [
+        "Sector Tier",
+        "Economic Definition",
+        "Key Component Industries",
+        "Indian Economic Footprint"
+      ],
+      "rows": [
+        [
+          "Primary Sector",
+          "Direct utilization/extraction of natural resources.",
+          "Agriculture, Forestry, Fishing, Mining & Quarrying.",
+          "Employs ~45% of workforce; generates ~16-18% of GVA."
+        ],
+        [
+          "Secondary Sector",
+          "Processing raw materials into finished industrial goods.",
+          "Manufacturing, Construction, Electricity, Gas & Water supply.",
+          "Generates ~28% of GVA; employs ~25% workforce. Target: 25% Mfg share."
+        ],
+        [
+          "Tertiary Sector",
+          "Provision of intangible services supporting production & consumption.",
+          "Trade, Hotels, Transport, Communication, Storage, Banking, Insurance, Real Estate.",
+          "Generates ~54% of GVA (India's growth locomotive); employs ~30% workforce."
+        ],
+        [
+          "Quaternary Sector",
+          "Knowledge-based, intellectual and information services.",
+          "IT/ITeS, Software development, Financial analytics, Big Data, R&D, Education consultancy.",
+          "Primary driver of India's services exports ($340B+ annually)."
+        ],
+        [
+          "Quinary Sector",
+          "Highest-level decision-making and policy formulation.",
+          "Top government executives, NGO heads, science think tanks, corporate boards, policy advisors.",
+          "Often referred to as 'Gold Collar' professionals directing national policy."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🌾 2. Primary Sector: Agricultural Policy, MSP & Credit Mechanisms"
+    },
+    {
+      "type": "paragraph",
+      "content": "Agriculture remains the bedrock of social stability in India. Key institutional parameters include:"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Minimum Support Price (MSP):** Recommended by the **Commission for Agricultural Costs and Prices (CACP)** and approved by the **Cabinet Committee on Economic Affairs (CCEA)**. Announced for **22 mandated crops + 1 fair & remunerative price (FRP) for sugarcane** (Total 23).",
+        "**MSP Formula Benchmark (Swaminathan Committee):** Set at **at least 1.5 times the cost of production (\\(A_2 + FL\\))**, where \\(A_2\\) covers direct paid-out costs (seeds, fertilizer, labor, fuel) and \\(FL\\) covers family labor value.",
+        "**Kisan Credit Card (KCC):** Introduced in 1998 (RV Gupta Committee / NABARD model). Provides short-term crop loans up to ₹3 Lakh at a subvention-subsidized effective interest rate of **4.0%** (7% nominal rate minus 3% prompt repayment incentive). Now extended to Animal Husbandry & Fisheries (up to ₹2 Lakh sub-limit).",
+        "**Priority Sector Lending (PSL) Mandate:** Domestic Commercial Banks and Foreign Banks (≥20 branches) must deploy **18% of ANBC / CEOBE to Agriculture**, of which **10% is earmarked exclusively for Small and Marginal Farmers (SMFs)**."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🏭 3. Secondary Sector: Industrial Initiatives, PLI & Capital Goods"
+    },
+    {
+      "type": "paragraph",
+      "content": "To overcome the historical manufacturing deficit, India instituted structural supply-side frameworks:"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Production Linked Incentive (PLI) Scheme:** Spanning **14 champion sectors** (Electronics/Mobiles, Pharmaceuticals, Automobiles, Advanced Chemistry Cells, Solar PV, Specialty Steel) with an aggregate financial outlay exceeding **₹1.97 Lakh Crore**.",
+        "**Index of Industrial Production (IIP):** Base Year **2011-12**; compiled monthly by National Statistical Office (NSO). Weights: **Manufacturing (77.63%) > Mining (14.37%) > Electricity (7.99%)**.",
+        "**Core Industries (Eight Core Sectors):** Account for **40.27% weight in IIP**. Weightage order: **Refinery Products (28.04%) > Electricity (19.85%) > Steel (17.92%) > Coal (10.33%) > Crude Oil (8.98%) > Natural Gas (6.88%) > Cement (5.37%) > Fertilizers (2.63%)**."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "content": "🎯 IIBF Exam Traps for Unit 2:\n1. **Eight Core Industries Highest & Lowest Weights:** Highest is **Refinery Products (28.04%)**; Lowest is **Fertilizers (2.63%)**.\n2. **MSP Approval Authority:** CACP only *recommends* MSP; the final approving authority is **CCEA (Cabinet Committee on Economic Affairs chaired by Prime Minister)**.\n3. **Crops under MSP:** Exactly **22 mandated crops + 1 for Sugarcane (FRP)** = Total 23."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ Solved IIBF Unit 2 Practice MCQs"
+    },
+    {
+      "type": "paragraph",
+      "content": "**Q1:** Which among the following eight core industries carries the highest weightage in the Index of Industrial Production (IIP)?\n• (A) Coal\n• (B) Steel\n• (C) Refinery Products\n• (D) Electricity\n**Correct Answer: (C) Refinery Products (28.04%)**"
+    },
+    {
+      "type": "paragraph",
+      "content": "**Q2:** Under the Swaminathan Committee recommendation implemented by the Government, MSP is fixed at a minimum of:\n• (A) 100% of \\(A_2\\) cost\n• (B) 1.5 times of \\(A_2 + FL\\) cost\n• (C) 2.0 times of \\(C_2\\) comprehensive cost\n• (D) Market equilibrium price\n**Correct Answer: (B) 1.5 times of \\(A_2 + FL\\) cost**"
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "IIBF JAIIB IE&IFS",
+      "RBI Grade B ESI",
+      "Bank Promotions"
+    ],
+    "tags": [
+      "iibf",
+      "ieifs",
+      "unit2",
+      "sectors",
+      "agriculture",
+      "msp",
+      "iip",
+      "core-industries",
+      "pli"
+    ],
+    "provenance": {
+      "sourceSystem": "IIBF-IEIFS",
+      "importedAt": "2026-08-22",
+      "verified": true
+    },
+    "category": "IIBF Paper 1: IE&IFS (Module A - Indian Economic Architecture)"
+  }
+}

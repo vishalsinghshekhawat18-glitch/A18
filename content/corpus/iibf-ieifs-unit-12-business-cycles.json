@@ -1,0 +1,127 @@
+{
+  "id": "iibf-ieifs-unit-12-business-cycles",
+  "type": "chapter",
+  "domain": "iibf-regulations",
+  "title": "IIBF IE&IFS Unit 12: Business Cycles, Economic Indicators & Theoretical Models",
+  "summary": "Detailed analysis of the 4 Business Cycle phases (Prosperity, Boom, Recession, Depression), Leading/Lagging/Coincident indicators, Schumpeter's Innovation Theory, and Hawtrey's Monetary Theory.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "IIBF Core Foundation: Cyclical Fluctuations",
+      "summary": "Business cycles represent recurring, non-periodic rhythmic expansions and contractions in aggregate economic activity (GDP, Employment, Output, Credit) across the entire economic system."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🔄 1. The Four Phases of a Business Cycle"
+    },
+    {
+      "type": "table",
+      "caption": "Business Cycle 4-Phase Progression",
+      "headers": [
+        "Phase",
+        "Macroeconomic Features",
+        "Credit & Banking Impact",
+        "Policy Stance Required"
+      ],
+      "rows": [
+        [
+          "1. Prosperity / Expansion",
+          "Rising output, employment, investment, wages, and consumer demand.",
+          "Accelerating credit growth; low NPAs; expanding bank balance sheets.",
+          "Neutral to watchful tightening."
+        ],
+        [
+          "2. Peak / Boom",
+          "Full employment capacity reached; bottleneck constraints; overheating; asset price inflation.",
+          "High credit demand; high interest rates; potential over-leveraging.",
+          "**Contractionary Monetary Policy** (Rate hikes, CRR hikes) to curb overheating."
+        ],
+        [
+          "3. Recession / Contraction",
+          "Decelerating growth; falling orders; unsold inventory; declining profits and business confidence.",
+          "Slowing credit demand; early signs of asset quality stress.",
+          "Rate cuts; liquidity infusion."
+        ],
+        [
+          "4. Trough / Depression",
+          "Widespread unemployment; idle industrial capacity; negative GDP growth; rock-bottom confidence.",
+          "Credit contraction; high NPAs; risk aversion among lenders.",
+          "**Expansionary Monetary & Counter-cyclical Fiscal Stimulus** (Infra spending)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "📊 2. Classification of Economic Indicators"
+    },
+    {
+      "type": "table",
+      "caption": "Economic Indicators Classification Matrix",
+      "headers": [
+        "Indicator Type",
+        "Behavior Relative to Cycle",
+        "Key Indian & Global Examples"
+      ],
+      "rows": [
+        [
+          "Leading Indicators",
+          "**Changes BEFORE the economy starts following a particular trend**; used to forecast turning points.",
+          "Stock market indices (Sensex/Nifty), Building permits / Housing starts, Yield Curve slope, Manufacturing PMI new orders."
+        ],
+        [
+          "Coincident Indicators",
+          "**Occurs AT THE SAME TIME as the economy shifts**; reflects current aggregate health.",
+          "Gross Domestic Product (GDP), Index of Industrial Production (IIP), Retail Sales, GST Collections, Current Employment levels."
+        ],
+        [
+          "Lagging Indicators",
+          "**Changes only AFTER the economy has already entered a phase**; confirms long-term trends.",
+          "Unemployment rate, Average prime lending rate, Consumer Price Index (CPI), Gross Non-Performing Assets (GNPA) ratio."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "📚 3. Major Business Cycle Theories"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Schumpeter's Innovation Theory (Joseph Schumpeter):** Business cycles are driven by waves of **innovations and technological breakthroughs** (Steam engine, Railways, Electricity, Internet, AI) introduced by entrepreneurs, creating periods of 'Creative Destruction'.",
+        "**Hawtrey's Monetary Theory (R.G. Hawtrey):** Business cycles are **purely monetary phenomena**. Changes in bank credit flow and interest rates dictate dealer inventory stocking and subsequent output swings.",
+        "**Hayek's Monetary Over-Investment Theory (Friedrich Hayek):** Artificial lowering of interest rates below natural rate by banks causes over-investment in capital goods, leading to inevitable crisis.",
+        "**Keynesian Psychological Theory:** Swings in **Marginal Efficiency of Capital (MEC)** and 'Animal Spirits' (optimism vs pessimism of investors) drive investment fluctuations."
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "content": "🎯 Top IIBF Traps for Unit 12:\n1. **Leading vs Lagging:** **Stock Market (Sensex)** is a **Leading Indicator**; **Unemployment rate and NPAs** are **Lagging Indicators**.\n2. **Schumpeter Theory:** Associated with **Innovation and Creative Destruction**.\n3. **Hawtrey Theory:** Asserts business cycles are **purely monetary phenomena**."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "IIBF JAIIB IE&IFS",
+      "RBI Grade B ESI",
+      "Bank Promotions"
+    ],
+    "tags": [
+      "iibf",
+      "ieifs",
+      "unit12",
+      "business-cycles",
+      "leading-indicators",
+      "lagging-indicators",
+      "schumpeter",
+      "hawtrey"
+    ],
+    "provenance": {
+      "sourceSystem": "IIBF-IEIFS",
+      "importedAt": "2026-08-22",
+      "verified": true
+    },
+    "category": "IIBF Paper 1: IE&IFS (Module B - Economic Concepts Related to Banking)"
+  }
+}
