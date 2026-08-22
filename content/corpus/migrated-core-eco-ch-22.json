@@ -38,22 +38,64 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Criteria for Maharatna Status Eligibility\nTo qualify for **Maharatna** status, a Central Public Sector Enterprise (CPSE) MUST fulfill:\n1. Hold **Navratna** status.\n2. Listed on Indian stock exchange under SEBI regulations.\n3. Average annual net profit $> mathbf{\text{₹}2,500\text{ Crore}}$ during last 3 years.\n4. Average annual Net Worth $> mathbf{\text{₹}15,000\text{ Crore}}$ during last 3 years.\n5. Average annual Turnover $> mathbf{\text{₹}25,000\text{ Crore}}$ during last 3 years.\n6. Significant global footprint/international operations."
+      "text": "⚡ 1. Criteria for Maharatna Status Eligibility"
+    },
+    {
+      "type": "paragraph",
+      "content": "To qualify for **Maharatna** status, a Central Public Sector Enterprise (CPSE) MUST fulfill:"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Hold **Navratna** status.",
+        "Listed on Indian stock exchange under SEBI regulations.",
+        "Average annual net profit $> mathbf{\text{₹}2,500\text{ Crore}}$ during last 3 years.",
+        "Average annual Net Worth $> mathbf{\text{₹}15,000\text{ Crore}}$ during last 3 years.",
+        "Average annual Turnover $> mathbf{\text{₹}25,000\text{ Crore}}$ during last 3 years.",
+        "Significant global footprint/international operations."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. Types of Disinvestment & NITI Aayog Role\n- **Minority Disinvestment:** Selling minority equity (e.g. IPO / OFS) while retaining $ge 51%$ shareholding and executive management control.\n- **Strategic Disinvestment:** Sale of 50% or more of government equity in a CPSE along with **transfer of management control** to a private strategic partner (e.g., Air India sale to Tata Group in 2022).\n- **NITI Aayog Role:** Recommends CPSEs for strategic disinvestment to the Cabinet Committee on Economic Affairs (CCEA)."
+      "text": "📖 2. Types of Disinvestment & NITI Aayog Role"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Minority Disinvestment:** Selling minority equity (e.g. IPO / OFS) while retaining $ge 51%$ shareholding and executive management control.",
+        "**Strategic Disinvestment:** Sale of 50% or more of government equity in a CPSE along with **transfer of management control** to a private strategic partner (e.g., Air India sale to Tata Group in 2022).",
+        "**NITI Aayog Role:** Recommends CPSEs for strategic disinvestment to the Cabinet Committee on Economic Affairs (CCEA)."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "🏛️ 3. New Public Sector Enterprise Policy (Budget 2021-22)\nClassifies CPSEs into two broad categories:\n1. **Strategic Sectors (4 Groups):** Atomic Energy/Space/Defense; Transport/Telecom; Power/Petroleum/Coal/Minerals; Banking/Insurance/Financial Services. *Bare minimum 1 CPSE will be retained; others merged or privatized.*\n2. **Non-Strategic Sectors:** CPSEs in all other sectors will be privatized or closed down."
+      "text": "🏛️ 3. New Public Sector Enterprise Policy (Budget 2021-22)"
+    },
+    {
+      "type": "paragraph",
+      "content": "Classifies CPSEs into two broad categories:"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Strategic Sectors (4 Groups):** Atomic Energy/Space/Defense; Transport/Telecom; Power/Petroleum/Coal/Minerals; Banking/Insurance/Financial Services. *Bare minimum 1 CPSE will be retained; others merged or privatized.*",
+        "**Non-Strategic Sectors:** CPSEs in all other sectors will be privatized or closed down."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 4. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** In Strategic Disinvestment, management control MUST be transferred to the private buyer along with equity sale. Selling 10% equity without transferring management is minority disinvestment!\n- ⚠️ **Exam Trap 2:** DIPAM is a department under the **Ministry of Finance** (formerly Department of Disinvestment; renamed DIPAM in 2016)."
+      "text": "⚖️ 4. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** In Strategic Disinvestment, management control MUST be transferred to the private buyer along with equity sale. Selling 10% equity without transferring management is minority disinvestment!"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** DIPAM is a department under the **Ministry of Finance** (formerly Department of Disinvestment; renamed DIPAM in 2016)."
     },
     {
       "type": "heading",

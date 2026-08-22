@@ -42,12 +42,61 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Beginner Jargon Unpack\n- **P-Waves (Primary/Compressional):** Longitudinal body waves; travel through solids, liquids, and gases (*fastest waves, push-pull motion*).\n- **S-Waves (Secondary/Transverse):** Shear body waves; travel through **SOLIDS ONLY** (*cannot pass through liquid outer core, crest-trough motion*).\n- **Shadow Zone:** Zone on Earth's surface where seismographs do NOT receive direct seismic waves (P-wave shadow: 103° to 142°; S-wave shadow: 103° to 180°!)."
+      "text": "⚡ 1. Beginner Jargon Unpack"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**P-Waves (Primary/Compressional):** Longitudinal body waves; travel through solids, liquids, and gases (*fastest waves, push-pull motion*).",
+        "**S-Waves (Secondary/Transverse):** Shear body waves; travel through **SOLIDS ONLY** (*cannot pass through liquid outer core, crest-trough motion*).",
+        "**Shadow Zone:** Zone on Earth's surface where seismographs do NOT receive direct seismic waves (P-wave shadow: 103° to 142°; S-wave shadow: 103° to 180°!)."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. Layer 1: Earth Discontinuities Master Matrix\n| Discontinuity | Boundary Position | Depth (Approx) | Seismic Velocity Change |\n|---|---|---|---|\n| **Conrad** | Upper Continental Crust vs Lower Crust | ~15 km | P-wave velocity jumps from 6.0 to 6.5 km/s |\n| **Mohorovičić (Moho)** | Crust vs Upper Mantle | ~35 km (70 km under Himalayas) | P-wave velocity jumps from 6.9 to 8.1 km/s |\n| **Repetti** | Upper Mantle vs Lower Mantle | ~660 km | Phase change in olivine/spinel crystal structure |\n| **Gutenberg** | Lower Mantle vs Liquid Outer Core | ~2900 km | S-waves disappear completely; P-waves drop from 13.7 to 8.1 km/s |\n| **Lehmann** | Liquid Outer Core vs Solid Inner Core | ~5150 km | P-wave velocity increases abruptly from 10.3 to 11.2 km/s |"
+      "text": "📖 2. Layer 1: Earth Discontinuities Master Matrix"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Discontinuity",
+        "Boundary Position",
+        "Depth (Approx)",
+        "Seismic Velocity Change"
+      ],
+      "rows": [
+        [
+          "**Conrad**",
+          "Upper Continental Crust vs Lower Crust",
+          "~15 km",
+          "P-wave velocity jumps from 6.0 to 6.5 km/s"
+        ],
+        [
+          "**Mohorovičić (Moho)**",
+          "Crust vs Upper Mantle",
+          "~35 km (70 km under Himalayas)",
+          "P-wave velocity jumps from 6.9 to 8.1 km/s"
+        ],
+        [
+          "**Repetti**",
+          "Upper Mantle vs Lower Mantle",
+          "~660 km",
+          "Phase change in olivine/spinel crystal structure"
+        ],
+        [
+          "**Gutenberg**",
+          "Lower Mantle vs Liquid Outer Core",
+          "~2900 km",
+          "S-waves disappear completely; P-waves drop from 13.7 to 8.1 km/s"
+        ],
+        [
+          "**Lehmann**",
+          "Liquid Outer Core vs Solid Inner Core",
+          "~5150 km",
+          "P-wave velocity increases abruptly from 10.3 to 11.2 km/s"
+        ]
+      ]
     },
     {
       "type": "paragraph",
@@ -56,31 +105,76 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "🧠 3. Layer 2: Underlying Reasoning (\"The Why\")\nWhy does the **Outer Core behave as a LIQUID**, while the deeper **Inner Core is SOLID**, despite higher temperature?\n1. **Outer Core:** Temperature exceeds iron melting point, while lithostatic pressure is insufficient to prevent melting $\rightarrow$ Liquid NIFE state.\n2. **Inner Core:** Extreme lithostatic pressure (~3.6 million atmospheres) squeezes iron atoms into a solid crystalline lattice, overriding thermal expansion!"
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "🧮 4. Layer 3: Worked Diagnostic Scenario (Seismograph Station Resolution)\n**Scenario:** A seismic recording station located 120° away from an earthquake epicenter records P-waves after refraction, but records ZERO S-waves."
+      "text": "🧠 3. Layer 2: Underlying Reasoning (\"The Why\")"
     },
     {
       "type": "paragraph",
-      "content": "**Step-by-Step Resolution:**\n1. At 120°, the station falls inside the **S-Wave Shadow Zone** (103° to 180°).\n2. S-waves cannot travel through liquid media. Their complete absence at 120° proves that the Earth possesses a **liquid Outer Core starting at ~2900 km depth**."
+      "content": "Why does the **Outer Core behave as a LIQUID**, while the deeper **Inner Core is SOLID**, despite higher temperature?"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Outer Core:** Temperature exceeds iron melting point, while lithostatic pressure is insufficient to prevent melting $\rightarrow$ Liquid NIFE state.",
+        "**Inner Core:** Extreme lithostatic pressure (~3.6 million atmospheres) squeezes iron atoms into a solid crystalline lattice, overriding thermal expansion!"
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "🏛️ 5. Concrete Anchor (Scientific Discovery)\n**Inge Lehmann Discovery (1936):** Danish seismologist Inge Lehmann analyzed P-wave arrival times inside the P-wave shadow zone (103°–142°) and proved the existence of a solid Inner Core!"
+      "text": "🧮 4. Layer 3: Worked Diagnostic Scenario (Seismograph Station Resolution)"
+    },
+    {
+      "type": "paragraph",
+      "content": "**Scenario:** A seismic recording station located 120° away from an earthquake epicenter records P-waves after refraction, but records ZERO S-waves."
+    },
+    {
+      "type": "paragraph",
+      "content": "**Step-by-Step Resolution:**"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "At 120°, the station falls inside the **S-Wave Shadow Zone** (103° to 180°).",
+        "S-waves cannot travel through liquid media. Their complete absence at 120° proves that the Earth possesses a **liquid Outer Core starting at ~2900 km depth**."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 6. Debates & Controversies\n**Earth's Magnetic Field Generation (Geodynamo Theory):**\n- *The Controversy:* Thermal vs Compositional convection in the liquid outer core driving magnetic reversal periods.\n- *Phase 2 Core Question:* \"Seismic wave behavior provides the sole empirical window into deep Earth dynamics.\" Discuss."
+      "text": "🏛️ 5. Concrete Anchor (Scientific Discovery)"
+    },
+    {
+      "type": "paragraph",
+      "content": "**Inge Lehmann Discovery (1936):** Danish seismologist Inge Lehmann analyzed P-wave arrival times inside the P-wave shadow zone (103°–142°) and proved the existence of a solid Inner Core!"
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "❓ 7. 3-Tier Practice & Retention Section\n- **Tier 1 (Recall MCQ):** S-waves disappear completely at which discontinuity boundary? (A: Moho, B: Repetti, **C: Gutenberg**, D: Lehmann) [Correct: C].\n- **Tier 2 (Applied Scenario):** Differentiate between P-wave shadow zone (103°–142°) and S-wave shadow zone (103°–180°).\n- **Tier 3 (Mains Prompt):** *'Explain how seismic wave velocity variations help reconstruct the density and physical state of Earth's interior layers.'*"
+      "text": "⚖️ 6. Debates & Controversies"
+    },
+    {
+      "type": "paragraph",
+      "content": "**Earth's Magnetic Field Generation (Geodynamo Theory):**"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "*The Controversy:* Thermal vs Compositional convection in the liquid outer core driving magnetic reversal periods.",
+        "*Phase 2 Core Question:* \"Seismic wave behavior provides the sole empirical window into deep Earth dynamics.\" Discuss."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 7. 3-Tier Practice & Retention Section"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Tier 1 (Recall MCQ):** S-waves disappear completely at which discontinuity boundary? (A: Moho, B: Repetti, **C: Gutenberg**, D: Lehmann) [Correct: C].",
+        "**Tier 2 (Applied Scenario):** Differentiate between P-wave shadow zone (103°–142°) and S-wave shadow zone (103°–180°).",
+        "**Tier 3 (Mains Prompt):** *'Explain how seismic wave velocity variations help reconstruct the density and physical state of Earth's interior layers.'*"
+      ]
     },
     {
       "id": "blk-migrated-core-geo-ch-2-exam-trap",

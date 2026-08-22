@@ -6,9 +6,19 @@
   "summary": "Exhaustive 3D solid geometry reference covering Curved Surface Area, Total Surface Area, Volume, melting and recasting invariants, and maximum cube in sphere...",
   "blocks": [
     {
-      "id": "blk-qsec1-2-theory",
-      "type": "paragraph",
-      "content": "### 📦 3D Solid Mensuration Principles & Conservation of Volume\n\n1. **Melting & Recasting Invariant:** When one or more solid bodies are melted and recast into new shapes, the **Total Volume remains strictly invariant** ((sum V_{\text{initial}} = sum V_{\text{final}})), provided no material is lost. However, the **Total Surface Area (TSA) ALWAYS changes**.\n2. **Cutting Invariant:** When a solid is cut along a plane, Volume remains unchanged, but **Total Surface Area strictly increases** by twice the cross-sectional cut area ((Delta \text{TSA} = 2 \times A_{\text{cut}})).\n3. **Largest Inscribed Cube Theorems:**\n   • Inscribed in a Sphere of radius (R): Cube diagonal (asqrt{3} = 2R implies a = \frac{2R}{sqrt{3}}).\n   • Inscribed in a Right Circular Cone (base (R), height (H)): Cube side (x = \frac{R cdot H cdot sqrt{2}}{Rsqrt{2} + H})."
+      "type": "heading",
+      "level": 3,
+      "text": "📦 3D Solid Mensuration Principles & Conservation of Volume"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Melting & Recasting Invariant:** When one or more solid bodies are melted and recast into new shapes, the **Total Volume remains strictly invariant** ((sum V_{\text{initial}} = sum V_{\text{final}})), provided no material is lost. However, the **Total Surface Area (TSA) ALWAYS changes**.",
+        "**Cutting Invariant:** When a solid is cut along a plane, Volume remains unchanged, but **Total Surface Area strictly increases** by twice the cross-sectional cut area ((Delta \text{TSA} = 2 \times A_{\text{cut}})).",
+        "**Largest Inscribed Cube Theorems:**",
+        "Inscribed in a Sphere of radius (R): Cube diagonal (asqrt{3} = 2R implies a = \frac{2R}{sqrt{3}}).",
+        "Inscribed in a Right Circular Cone (base (R), height (H)): Cube side (x = \frac{R cdot H cdot sqrt{2}}{Rsqrt{2} + H})."
+      ]
     },
     {
       "id": "blk-qsec1-2-table",

@@ -38,12 +38,62 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Beginner Jargon Unpack\n- **Monsoon Trough:** Low-pressure trough created over North India by the northward migration of the Inter-Tropical Convergence Zone (ITCZ) during summer.\n- **El Niño (ENSO):** Periodic warming of central/eastern equatorial Pacific Ocean surface waters; causes weak monsoons and droughts in India.\n- **Positive Indian Ocean Dipole (+IOD):** Western Indian Ocean becomes warmer than Eastern Indian Ocean (near Indonesia); neutralizes negative impact of El Niño!\n- **Madden-Julian Oscillation (MJO):** Eastward moving oceanic-atmospheric wave traversing the tropics every 30–60 days; enhances rainfall during its active phase over Indian Ocean."
+      "text": "⚡ 1. Beginner Jargon Unpack"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Monsoon Trough:** Low-pressure trough created over North India by the northward migration of the Inter-Tropical Convergence Zone (ITCZ) during summer.",
+        "**El Niño (ENSO):** Periodic warming of central/eastern equatorial Pacific Ocean surface waters; causes weak monsoons and droughts in India.",
+        "**Positive Indian Ocean Dipole (+IOD):** Western Indian Ocean becomes warmer than Eastern Indian Ocean (near Indonesia); neutralizes negative impact of El Niño!",
+        "**Madden-Julian Oscillation (MJO):** Eastward moving oceanic-atmospheric wave traversing the tropics every 30–60 days; enhances rainfall during its active phase over Indian Ocean."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. Layer 1: Ocean-Atmospheric Oscillation Comparison Matrix\n| Teleconnection Phenomenon | SST Anomaly Location | Impact on Indian SW Monsoon | Agricultural & Economic Effect |\n|---|---|---|---|\n| **El Niño** | Warm anomaly in Eastern Pacific (Peru Coast) | Suppresses rainfall $\rightarrow$ Drought risk | Low crop yields, food inflation |\n| **La Niña** | Cold anomaly in Eastern Pacific; Warm Western Pacific | Enhances rainfall $\rightarrow$ Above-normal monsoon | Bumper agricultural output |\n| **Positive IOD (+IOD)** | Warm Western Indian Ocean / Cold Eastern I.O. | Enhances rainfall over India | Offsets El Niño drought! |\n| **Negative IOD (-IOD)** | Cold Western Indian Ocean / Warm Eastern I.O. | Suppresses rainfall over India | Compounds El Niño drought |\n| **MJO (Active Phase)** | Traversing Indian Ocean (Phases 2, 3, 4) | Triggers monsoon onset & heavy spells | Sudden burst of monsoon rain |"
+      "text": "📖 2. Layer 1: Ocean-Atmospheric Oscillation Comparison Matrix"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Teleconnection Phenomenon",
+        "SST Anomaly Location",
+        "Impact on Indian SW Monsoon",
+        "Agricultural & Economic Effect"
+      ],
+      "rows": [
+        [
+          "**El Niño**",
+          "Warm anomaly in Eastern Pacific (Peru Coast)",
+          "Suppresses rainfall $\rightarrow$ Drought risk",
+          "Low crop yields, food inflation"
+        ],
+        [
+          "**La Niña**",
+          "Cold anomaly in Eastern Pacific; Warm Western Pacific",
+          "Enhances rainfall $\rightarrow$ Above-normal monsoon",
+          "Bumper agricultural output"
+        ],
+        [
+          "**Positive IOD (+IOD)**",
+          "Warm Western Indian Ocean / Cold Eastern I.O.",
+          "Enhances rainfall over India",
+          "Offsets El Niño drought!"
+        ],
+        [
+          "**Negative IOD (-IOD)**",
+          "Cold Western Indian Ocean / Warm Eastern I.O.",
+          "Suppresses rainfall over India",
+          "Compounds El Niño drought"
+        ],
+        [
+          "**MJO (Active Phase)**",
+          "Traversing Indian Ocean (Phases 2, 3, 4)",
+          "Triggers monsoon onset & heavy spells",
+          "Sudden burst of monsoon rain"
+        ]
+      ]
     },
     {
       "type": "paragraph",
@@ -52,31 +102,77 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "🧠 3. Layer 2: Underlying Reasoning (\"The Why\")\nWhy do **Tropical Cyclones NOT form at the Equator (0°–5° Latitude)**, despite sea surface temperature exceeding 28°C?\n1. Tropical cyclones require **Coriolis Force** to induce rotational vortex spinning ($f = 2omega sinphi$).\n2. At the Equator ($phi = 0^circ$), $sin(0) = 0$, meaning **Coriolis force is ZERO**. Air flows straight into low pressure without spinning, preventing cyclone formation!"
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "🧮 4. Layer 3: Worked Diagnostic Scenario (Monsoon Forecasting Analysis)\n**Scenario:** The Pacific Ocean develops a moderate El Niño event, but the Indian Ocean simultaneously exhibits a strong Positive IOD (+1.2°C anomaly). Predict monsoon outcome."
+      "text": "🧠 3. Layer 2: Underlying Reasoning (\"The Why\")"
     },
     {
       "type": "paragraph",
-      "content": "**Step-by-Step Resolution:**\n1. El Niño tends to suppress Indian monsoon via Walker circulation shift.\n2. Strong Positive IOD injects warm moist air into Arabian Sea, enhancing cross-equatorial flow.\n3. Historical data (e.g. 1997 Monsoon) shows Positive IOD **fully overrides El Niño**, resulting in **Normal to Above-Normal Monsoon Rainfall**!"
+      "content": "Why do **Tropical Cyclones NOT form at the Equator (0°–5° Latitude)**, despite sea surface temperature exceeding 28°C?"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Tropical cyclones require **Coriolis Force** to induce rotational vortex spinning ($f = 2omega sinphi$).",
+        "At the Equator ($phi = 0^circ$), $sin(0) = 0$, meaning **Coriolis force is ZERO**. Air flows straight into low pressure without spinning, preventing cyclone formation!"
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "🏛️ 5. Concrete Anchor (Extreme Weather Event)\n**1997 Super El Niño vs Normal Monsoon:** Despite 1997 having the strongest El Niño of the 20th century, India received 102% normal rainfall due to a record Positive Indian Ocean Dipole (+IOD)."
+      "text": "🧮 4. Layer 3: Worked Diagnostic Scenario (Monsoon Forecasting Analysis)"
+    },
+    {
+      "type": "paragraph",
+      "content": "**Scenario:** The Pacific Ocean develops a moderate El Niño event, but the Indian Ocean simultaneously exhibits a strong Positive IOD (+1.2°C anomaly). Predict monsoon outcome."
+    },
+    {
+      "type": "paragraph",
+      "content": "**Step-by-Step Resolution:**"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "El Niño tends to suppress Indian monsoon via Walker circulation shift.",
+        "Strong Positive IOD injects warm moist air into Arabian Sea, enhancing cross-equatorial flow.",
+        "Historical data (e.g. 1997 Monsoon) shows Positive IOD **fully overrides El Niño**, resulting in **Normal to Above-Normal Monsoon Rainfall**!"
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 6. Debates & Controversies\n**Impact of Climate Change on Monsoon Dynamics:**\n- *The Controversy:* Global warming is causing fewer total rainy days, but an increase in **extreme localized rain bursts** (cloudbursts) and longer dry breaks.\n- *Phase 2 Core Question:* \"The classical thermal concept of Halley is inadequate to explain the complexities of the Indian Monsoon.\" Discuss modern dynamic theories."
+      "text": "🏛️ 5. Concrete Anchor (Extreme Weather Event)"
+    },
+    {
+      "type": "paragraph",
+      "content": "**1997 Super El Niño vs Normal Monsoon:** Despite 1997 having the strongest El Niño of the 20th century, India received 102% normal rainfall due to a record Positive Indian Ocean Dipole (+IOD)."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "❓ 7. 3-Tier Practice & Retention Section\n- **Tier 1 (Recall MCQ):** Which jet stream over South India is directly responsible for the sudden burst of the SW Monsoon? (A: Subtropical Westerly Jet, **B: Tropical Easterly Jet**, C: Polar Front Jet, D: Somali Jet) [Correct: B].\n- **Tier 2 (Applied Scenario):** Explain how the Madden-Julian Oscillation (MJO) affects monsoon breaks and active spells.\n- **Tier 3 (Mains Prompt):** *'Examine the influence of Pacific and Indian Ocean teleconnections (ENSO, IOD, MJO) on the predictability and variability of the Indian Monsoon.'*"
+      "text": "⚖️ 6. Debates & Controversies"
+    },
+    {
+      "type": "paragraph",
+      "content": "**Impact of Climate Change on Monsoon Dynamics:**"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "*The Controversy:* Global warming is causing fewer total rainy days, but an increase in **extreme localized rain bursts** (cloudbursts) and longer dry breaks.",
+        "*Phase 2 Core Question:* \"The classical thermal concept of Halley is inadequate to explain the complexities of the Indian Monsoon.\" Discuss modern dynamic theories."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 7. 3-Tier Practice & Retention Section"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Tier 1 (Recall MCQ):** Which jet stream over South India is directly responsible for the sudden burst of the SW Monsoon? (A: Subtropical Westerly Jet, **B: Tropical Easterly Jet**, C: Polar Front Jet, D: Somali Jet) [Correct: B].",
+        "**Tier 2 (Applied Scenario):** Explain how the Madden-Julian Oscillation (MJO) affects monsoon breaks and active spells.",
+        "**Tier 3 (Mains Prompt):** *'Examine the influence of Pacific and Indian Ocean teleconnections (ENSO, IOD, MJO) on the predictability and variability of the Indian Monsoon.'*"
+      ]
     },
     {
       "id": "blk-migrated-core-geo-ch-8-exam-trap",

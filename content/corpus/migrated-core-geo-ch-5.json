@@ -46,12 +46,28 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Beginner Jargon Unpack\n- **Geomorphic Agent:** Mobile natural force (*running water, wind, glaciers, waves, groundwater*) that erodes, transports, and deposits materials.\n- **Isobar:** Line joining places of equal atmospheric pressure; close spacing indicates steep pressure gradient and high wind speeds.\n- **Albedo:** Reflectivity of a surface expressed as a fraction of solar radiation reflected back without heating the body (*fresh snow ~80%, oceans ~6%*)."
+      "text": "⚡ 1. Beginner Jargon Unpack"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Geomorphic Agent:** Mobile natural force (*running water, wind, glaciers, waves, groundwater*) that erodes, transports, and deposits materials.",
+        "**Isobar:** Line joining places of equal atmospheric pressure; close spacing indicates steep pressure gradient and high wind speeds.",
+        "**Albedo:** Reflectivity of a surface expressed as a fraction of solar radiation reflected back without heating the body (*fresh snow ~80%, oceans ~6%*)."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. Layer 1: Core Geophysical Matrix\n- **Geographic Scope:** Global latitudinal distribution and regional Indian physiography.\n- **Governing Laws:** Physical and thermodynamic principles (*Coriolis force, Adiabatic lapse rate, Darcy's law, Isostasy*).\n- **Landform Classification:** Erosional vs Depositional features."
+      "text": "📖 2. Layer 1: Core Geophysical Matrix"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Geographic Scope:** Global latitudinal distribution and regional Indian physiography.",
+        "**Governing Laws:** Physical and thermodynamic principles (*Coriolis force, Adiabatic lapse rate, Darcy's law, Isostasy*).",
+        "**Landform Classification:** Erosional vs Depositional features."
+      ]
     },
     {
       "type": "paragraph",
@@ -60,31 +76,77 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "🧠 3. Layer 2: Underlying Reasoning (\"The Why\")\nWhy does this geophysical phenomenon occur in specific patterns across Earth?\n1. Planetary rotation, solar radiation gradient, and differential heating of land vs sea.\n2. Plate tectonic interactions (*convergent, divergent, transform boundaries*)."
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "🧮 4. Layer 3: Worked Diagnostic Scenario (Geophysical Calculation / Landform Analysis)\n**Scenario:** Calculate atmospheric temperature change for air ascending a 3000m mountain peak at Dry Adiabatic Lapse Rate (DALR = 10°C per 1000m)."
+      "text": "🧠 3. Layer 2: Underlying Reasoning (\"The Why\")"
     },
     {
       "type": "paragraph",
-      "content": "**Step-by-Step Resolution:**\n1. Base temperature at sea level (0m) = 30°C.\n2. Height ascent = 3000m = 3 x 1000m.\n3. Temperature drop = 3 x 10°C = 30°C. Temperature at peak = 30°C - 30°C = **0°C (Freezing level reached!)**."
+      "content": "Why does this geophysical phenomenon occur in specific patterns across Earth?"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Planetary rotation, solar radiation gradient, and differential heating of land vs sea.",
+        "Plate tectonic interactions (*convergent, divergent, transform boundaries*)."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "🏛️ 5. Concrete Anchor (Geographic Field Example)\n**Landmark Physical Feature:** Benchmark Indian or global landform illustrating the active physical process of Composition & Structure of Atmosphere."
+      "text": "🧮 4. Layer 3: Worked Diagnostic Scenario (Geophysical Calculation / Landform Analysis)"
+    },
+    {
+      "type": "paragraph",
+      "content": "**Scenario:** Calculate atmospheric temperature change for air ascending a 3000m mountain peak at Dry Adiabatic Lapse Rate (DALR = 10°C per 1000m)."
+    },
+    {
+      "type": "paragraph",
+      "content": "**Step-by-Step Resolution:**"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Base temperature at sea level (0m) = 30°C.",
+        "Height ascent = 3000m = 3 x 1000m.",
+        "Temperature drop = 3 x 10°C = 30°C. Temperature at peak = 30°C - 30°C = **0°C (Freezing level reached!)**."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 6. Debates & Environmental Considerations\n**Anthropogenic Distortion vs Natural Cycles:**\n- *The Controversy:* Impact of human activities (*deforestation, urban heat islands, dam construction*) on natural physical cycles.\n- *Phase 2 Core Question:* \"Analyze the systemic linkages between Composition & Structure of Atmosphere and regional environmental sustainability in India.\""
+      "text": "🏛️ 5. Concrete Anchor (Geographic Field Example)"
+    },
+    {
+      "type": "paragraph",
+      "content": "**Landmark Physical Feature:** Benchmark Indian or global landform illustrating the active physical process of Composition & Structure of Atmosphere."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "❓ 7. 3-Tier Practice & Retention Section\n- **Tier 1 (Recall MCQ):** Which physical factor primarily drives Composition & Structure of Atmosphere? (A: Gravitational pull of moon, **B: Solar radiation & planetary dynamics**, C: Earth magnetic poles) [Correct: B].\n- **Tier 2 (Applied Scenario):** Analyze the spatial variation of Composition & Structure of Atmosphere across Indian physiographic zones.\n- **Tier 3 (Mains Prompt):** *'Critically evaluate the physical mechanisms of Composition & Structure of Atmosphere and their socio-economic significance for India.'*"
+      "text": "⚖️ 6. Debates & Environmental Considerations"
+    },
+    {
+      "type": "paragraph",
+      "content": "**Anthropogenic Distortion vs Natural Cycles:**"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "*The Controversy:* Impact of human activities (*deforestation, urban heat islands, dam construction*) on natural physical cycles.",
+        "*Phase 2 Core Question:* \"Analyze the systemic linkages between Composition & Structure of Atmosphere and regional environmental sustainability in India.\""
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 7. 3-Tier Practice & Retention Section"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Tier 1 (Recall MCQ):** Which physical factor primarily drives Composition & Structure of Atmosphere? (A: Gravitational pull of moon, **B: Solar radiation & planetary dynamics**, C: Earth magnetic poles) [Correct: B].",
+        "**Tier 2 (Applied Scenario):** Analyze the spatial variation of Composition & Structure of Atmosphere across Indian physiographic zones.",
+        "**Tier 3 (Mains Prompt):** *'Critically evaluate the physical mechanisms of Composition & Structure of Atmosphere and their socio-economic significance for India.'*"
+      ]
     },
     {
       "id": "blk-migrated-core-geo-ch-5-exam-trap",

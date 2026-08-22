@@ -6,9 +6,21 @@
   "summary": "Masterclass on quadratic equation root determination, master sign table heuristics, discriminant analysis, and root comparison shortcuts for Bank PO Mains...",
   "blocks": [
     {
-      "id": "blk-qsec4-2-theory",
+      "type": "heading",
+      "level": 3,
+      "text": "🧮 Quadratic Root Determination & Master Sign Table"
+    },
+    {
       "type": "paragraph",
-      "content": "### 🧮 Quadratic Root Determination & Master Sign Table\n\nFor a standard quadratic equation (ax^2 + bx + c = 0) with roots (alpha, \beta):\n• Sum of roots: (alpha + \beta = -\frac{b}{a})\n• Product of roots: (alpha cdot \beta = \frac{c}{a})\n• Discriminant (D = b^2 - 4ac): Real & distinct ((D > 0)), Real & equal ((D = 0)), Complex/imaginary ((D < 0))."
+      "content": "For a standard quadratic equation (ax^2 + bx + c = 0) with roots (alpha, \beta):"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Sum of roots: (alpha + \beta = -\frac{b}{a})",
+        "Product of roots: (alpha cdot \beta = \frac{c}{a})",
+        "Discriminant (D = b^2 - 4ac): Real & distinct ((D > 0)), Real & equal ((D = 0)), Complex/imaginary ((D < 0))."
+      ]
     },
     {
       "id": "blk-qsec4-2-table",

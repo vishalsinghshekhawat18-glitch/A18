@@ -44,7 +44,42 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Equity vs. Debt Securities Comparison Matrix\n| Parameter | Equity Shares | Debt Securities (Bonds / Debentures) |\n|---|---|---|\n| **Nature of Holding** | Ownership interest in company | Creditor loan to company |\n| **Return Mechanism** | Variable Dividends (dependent on profit) | Fixed Coupon Interest Rate |\n| **Voting Rights** | **YES** (Voting power in shareholder meetings) | **NO** voting rights |\n| **Liquidation Priority** | Lowest priority (Residual claimant) | Higher priority over equity holders |\n| **Tax Treatment** | Dividend tax under Income Tax Act | Coupon interest is tax-deductible expense for issuing firm |"
+      "text": "⚡ 1. Equity vs. Debt Securities Comparison Matrix"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Parameter",
+        "Equity Shares",
+        "Debt Securities (Bonds / Debentures)"
+      ],
+      "rows": [
+        [
+          "**Nature of Holding**",
+          "Ownership interest in company",
+          "Creditor loan to company"
+        ],
+        [
+          "**Return Mechanism**",
+          "Variable Dividends (dependent on profit)",
+          "Fixed Coupon Interest Rate"
+        ],
+        [
+          "**Voting Rights**",
+          "**YES** (Voting power in shareholder meetings)",
+          "**NO** voting rights"
+        ],
+        [
+          "**Liquidation Priority**",
+          "Lowest priority (Residual claimant)",
+          "Higher priority over equity holders"
+        ],
+        [
+          "**Tax Treatment**",
+          "Dividend tax under Income Tax Act",
+          "Coupon interest is tax-deductible expense for issuing firm"
+        ]
+      ]
     },
     {
       "type": "heading",
@@ -56,18 +91,37 @@
       "content": "$$\\mathbf{\\text{Bond Price} \\propto \\frac{1}{\\text{Bond Yield (YTM)}}}$$"
     },
     {
-      "type": "paragraph",
-      "content": "- When market interest rates rise, existing fixed-coupon bond prices **FALL**.\n- When market interest rates drop, existing fixed-coupon bond prices **RISE**."
+      "type": "bullet_list",
+      "items": [
+        "When market interest rates rise, existing fixed-coupon bond prices **FALL**.",
+        "When market interest rates drop, existing fixed-coupon bond prices **RISE**."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "🏛️ 3. Financial Derivatives Spectrum\n- **Forwards:** Custom OTC (Over-The-Counter) bilateral agreement to buy/sell asset at future date.\n- **Futures:** Standardized, exchange-traded contract to buy/sell asset at predetermined price on specified future date.\n- **Options:** Contract giving holder the **RIGHT, but not the obligation**, to buy (**Call Option**) or sell (**Put Option**) an asset at Strike Price."
+      "text": "🏛️ 3. Financial Derivatives Spectrum"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Forwards:** Custom OTC (Over-The-Counter) bilateral agreement to buy/sell asset at future date.",
+        "**Futures:** Standardized, exchange-traded contract to buy/sell asset at predetermined price on specified future date.",
+        "**Options:** Contract giving holder the **RIGHT, but not the obligation**, to buy (**Call Option**) or sell (**Put Option**) an asset at Strike Price."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 4. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Bond Price and Bond Yield move in **OPPOSITE directions**. If bond yields spike, it means bond market prices are crashing!\n- ⚠️ **Exam Trap 2:** An Option buyer acquires a *right without obligation*, whereas a Future contract creates a *binding obligation* on both buyer and seller."
+      "text": "⚖️ 4. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** Bond Price and Bond Yield move in **OPPOSITE directions**. If bond yields spike, it means bond market prices are crashing!"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** An Option buyer acquires a *right without obligation*, whereas a Future contract creates a *binding obligation* on both buyer and seller."
     },
     {
       "type": "heading",

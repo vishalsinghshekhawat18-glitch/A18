@@ -38,22 +38,57 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Historical Timeline of Indian Poverty Committees\n- **Dadabhai Naoroji (1867–70):** Used Jail Cost of Living for adults ($\frac{2}{3}$ of population needing full diet, children $\frac{1}{3}$ needing half diet $implies \frac{3}{4}$ average adult jail diet).\n- **National Planning Committee (1938):** Chaired by Jawaharlal Nehru (initiated by Subhash Chandra Bose). Set poverty line at ₹15 to ₹20 per capita per month.\n- **Bombay Plan (1944):** Proposed a poverty line of ₹75 per capita per year.\n- **Planning Commission Working Group (1962):** Recommended national minimum consumption of ₹20/month (Rural) and ₹25/month (Urban)."
+      "text": "⚡ 1. Historical Timeline of Indian Poverty Committees"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Dadabhai Naoroji (1867–70):** Used Jail Cost of Living for adults ($\frac{2}{3}$ of population needing full diet, children $\frac{1}{3}$ needing half diet $implies \frac{3}{4}$ average adult jail diet).",
+        "**National Planning Committee (1938):** Chaired by Jawaharlal Nehru (initiated by Subhash Chandra Bose). Set poverty line at ₹15 to ₹20 per capita per month.",
+        "**Bombay Plan (1944):** Proposed a poverty line of ₹75 per capita per year.",
+        "**Planning Commission Working Group (1962):** Recommended national minimum consumption of ₹20/month (Rural) and ₹25/month (Urban)."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. Post-Independence Official Committees Matrix\n| Committee & Year | Primary Benchmark Criteria | Inflation Index Used | Key Innovation / Policy Feature |\n|---|---|---|---|\n| **Y.K. Alagh Task Force (1979)** | **Calorie Intake:**\nRural = **2400 kcal/day**\nUrban = **2100 kcal/day** | Fixed monetary equivalent based on 1973-74 prices | First official quantitative calorie-based national poverty line |\n| **D.T. Lakdawala Committee (1993)** | Retained Alagh 2400/2100 kcal calorie benchmarks | **CPI-AL** (Consumer Price Index for Agricultural Laborers) for Rural;\n**CPI-IW** (Industrial Workers) for Urban | **Created State-Specific Poverty Lines** to account for interstate price variation; eliminated uniform national line |"
+      "text": "📖 2. Post-Independence Official Committees Matrix"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Committee & Year",
+        "Primary Benchmark Criteria",
+        "Inflation Index Used",
+        "Key Innovation / Policy Feature"
+      ],
+      "rows": []
+    },
+    {
+      "type": "paragraph",
+      "content": "| **Y.K. Alagh Task Force (1979)** | **Calorie Intake:**\nRural = **2400 kcal/day**\nUrban = **2100 kcal/day** | Fixed monetary equivalent based on 1973-74 prices | First official quantitative calorie-based national poverty line |\n| **D.T. Lakdawala Committee (1993)** | Retained Alagh 2400/2100 kcal calorie benchmarks | **CPI-AL** (Consumer Price Index for Agricultural Laborers) for Rural;\n**CPI-IW** (Industrial Workers) for Urban | **Created State-Specific Poverty Lines** to account for interstate price variation; eliminated uniform national line |"
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "🏛️ 3. Why Rural Calorie Requirement (2400 kcal) > Urban (2100 kcal)\nRural population engages in heavier manual agricultural physical labor, requiring higher daily caloric expenditure than urban service/industrial workers."
+      "text": "🏛️ 3. Why Rural Calorie Requirement (2400 kcal) > Urban (2100 kcal)"
+    },
+    {
+      "type": "paragraph",
+      "content": "Rural population engages in heavier manual agricultural physical labor, requiring higher daily caloric expenditure than urban service/industrial workers."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 4. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Lakdawala Committee did NOT abandon the Alagh calorie criteria; it retained 2400/2100 kcal, but updated price indexation using **CPI-AL and CPI-IW**.\n- ⚠️ **Exam Trap 2:** Dadabhai Naoroji's Jail Cost of Living estimate applied a $\frac{3}{4}$ multiplier to adult jail diet to adjust for child demographic proportions in society."
+      "text": "⚖️ 4. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** Lakdawala Committee did NOT abandon the Alagh calorie criteria; it retained 2400/2100 kcal, but updated price indexation using **CPI-AL and CPI-IW**."
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** Dadabhai Naoroji's Jail Cost of Living estimate applied a $\frac{3}{4}$ multiplier to adult jail diet to adjust for child demographic proportions in society."
     },
     {
       "type": "heading",

@@ -38,17 +38,59 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Carbon Pricing Instruments Comparison\n| Instrument | Mechanism | Primary Characteristic |\n|---|---|---|\n| **Carbon Tax** | Direct tax rate set per tonne of $CO_2$ equivalent emitted | Price is fixed by Govt; Quantity of emission reduction is uncertain |\n| **Cap-and-Trade (ETS)** | Govt sets total emission cap & issues tradable allowances | Quantity of emissions is fixed by Cap; Allowance price fluctuates in market |\n| **Carbon Credit Mechanism** | Credits issued for verified emission reduction/removal projects | 1 Carbon Credit = **1 Metric Tonne of $CO_2$ equivalent reduced/sequestered** |"
+      "text": "⚡ 1. Carbon Pricing Instruments Comparison"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Instrument",
+        "Mechanism",
+        "Primary Characteristic"
+      ],
+      "rows": [
+        [
+          "**Carbon Tax**",
+          "Direct tax rate set per tonne of $CO_2$ equivalent emitted",
+          "Price is fixed by Govt; Quantity of emission reduction is uncertain"
+        ],
+        [
+          "**Cap-and-Trade (ETS)**",
+          "Govt sets total emission cap & issues tradable allowances",
+          "Quantity of emissions is fixed by Cap; Allowance price fluctuates in market"
+        ],
+        [
+          "**Carbon Credit Mechanism**",
+          "Credits issued for verified emission reduction/removal projects",
+          "1 Carbon Credit = **1 Metric Tonne of $CO_2$ equivalent reduced/sequestered**"
+        ]
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. India's CCTS 2023 Institutional Roles\n- **Administrator:** Bureau of Energy Efficiency (BEE).\n- **Registry:** Grid Controller of India Limited (Grid-India).\n- **Trading Platform:** Indian Energy Exchange (IEX) / Power exchanges approved by CERC.\n- **Regulator:** Central Electricity Regulatory Commission (CERC)."
+      "text": "📖 2. India's CCTS 2023 Institutional Roles"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Administrator:** Bureau of Energy Efficiency (BEE).",
+        "**Registry:** Grid Controller of India Limited (Grid-India).",
+        "**Trading Platform:** Indian Energy Exchange (IEX) / Power exchanges approved by CERC.",
+        "**Regulator:** Central Electricity Regulatory Commission (CERC)."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** 1 Carbon Credit equals **1 metric tonne of $CO_2$ equivalent** reduced or avoided, NOT 1 kilogram!\n- ⚠️ **Exam Trap 2:** India's COP26 Net-Zero target year is **2070** (China is 2060; US/EU is 2050)."
+      "text": "⚖️ 3. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** 1 Carbon Credit equals **1 metric tonne of $CO_2$ equivalent** reduced or avoided, NOT 1 kilogram!"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** India's COP26 Net-Zero target year is **2070** (China is 2060; US/EU is 2050)."
     },
     {
       "type": "heading",

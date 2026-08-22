@@ -38,17 +38,70 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. IPR 1956 vs. New Industrial Policy 1991 Matrix\n| Feature | IPR 1956 (State-Led Command Model) | New Industrial Policy 1991 (LPG Model) |\n|---|---|---|\n| **Core Philosophy** | State commanding heights of economy | Market-led efficiency & global integration |\n| **Public Sector Reservation** | 17 Exclusive Industries (Schedule A) | Reduced to 8 in 1991 $\rightarrow$ **Currently ONLY 2** (Atomic Energy, Railways) |\n| **Industrial Licensing** | Mandatory license for expanding/setting up firms | **Abolished** for all except 5 hazardous/security industries |\n| **Monopoly Control** | MRTP Act 1969 (Asset cap of ₹20 Cr / ₹100 Cr) | MRTP limits removed; replaced by **Competition Act 2002** |\n| **Foreign Direct Investment** | Restricted; strict tech transfer rules | Automatic approval up to 51% FDI in priority sectors |"
+      "text": "⚡ 1. IPR 1956 vs. New Industrial Policy 1991 Matrix"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Feature",
+        "IPR 1956 (State-Led Command Model)",
+        "New Industrial Policy 1991 (LPG Model)"
+      ],
+      "rows": [
+        [
+          "**Core Philosophy**",
+          "State commanding heights of economy",
+          "Market-led efficiency & global integration"
+        ],
+        [
+          "**Public Sector Reservation**",
+          "17 Exclusive Industries (Schedule A)",
+          "Reduced to 8 in 1991 $\rightarrow$ **Currently ONLY 2** (Atomic Energy, Railways)"
+        ],
+        [
+          "**Industrial Licensing**",
+          "Mandatory license for expanding/setting up firms",
+          "**Abolished** for all except 5 hazardous/security industries"
+        ],
+        [
+          "**Monopoly Control**",
+          "MRTP Act 1969 (Asset cap of ₹20 Cr / ₹100 Cr)",
+          "MRTP limits removed; replaced by **Competition Act 2002**"
+        ],
+        [
+          "**Foreign Direct Investment**",
+          "Restricted; strict tech transfer rules",
+          "Automatic approval up to 51% FDI in priority sectors"
+        ]
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. Current 5 Industries Requiring Mandatory Industrial Licensing\n1. Distillations and brewing of alcoholic drinks.\n2. Cigars and cigarettes of tobacco & manufactured tobacco substitutes.\n3. Electronic aerospace and defence equipment.\n4. Industrial explosives.\n5. Specified hazardous chemicals."
+      "text": "📖 2. Current 5 Industries Requiring Mandatory Industrial Licensing"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Distillations and brewing of alcoholic drinks.",
+        "Cigars and cigarettes of tobacco & manufactured tobacco substitutes.",
+        "Electronic aerospace and defence equipment.",
+        "Industrial explosives.",
+        "Specified hazardous chemicals."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Currently, only **TWO** industries are reserved exclusively for the public sector: **Atomic Energy** and **Railway Operations** (passenger train operations are being opened up, but core track infrastructure/operations remain reserved).\n- ⚠️ **Exam Trap 2:** The 1991 Industrial Policy abolished the MRTP asset limit threshold, leading to the enactment of the **Competition Act 2002** and setting up of CCI (Competition Commission of India)."
+      "text": "⚖️ 3. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** Currently, only **TWO** industries are reserved exclusively for the public sector: **Atomic Energy** and **Railway Operations** (passenger train operations are being opened up, but core track infrastructure/operations remain reserved)."
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** The 1991 Industrial Policy abolished the MRTP asset limit threshold, leading to the enactment of the **Competition Act 2002** and setting up of CCI (Competition Commission of India)."
     },
     {
       "type": "heading",

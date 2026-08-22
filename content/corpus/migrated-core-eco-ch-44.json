@@ -38,17 +38,72 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. N.K. Singh Committee (2017) Fiscal Framework Target Matrix\n| Fiscal Metric | Recommended Target Benchmark | Current Policy Status / Benchmark |\n|---|---|---|\n| **Combined Debt-to-GDP Ratio** | **60% of GDP** | Debt anchor replacing pure deficit target |\n| **Central Govt Debt-to-GDP** | **40% of GDP** | Target ceiling for Union Government |\n| **State Govts Debt-to-GDP** | **20% of GDP** | Target ceiling for all State Governments |\n| **Central Fiscal Deficit** | **3.0% of GDP** | Post-pandemic glide path aiming for $<4.5%$ by FY26 |\n| **Escape Clause Limit** | Max **0.5% of GDP** relaxation | Invoked during 2020 COVID pandemic shock |"
+      "text": "⚡ 1. N.K. Singh Committee (2017) Fiscal Framework Target Matrix"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Fiscal Metric",
+        "Recommended Target Benchmark",
+        "Current Policy Status / Benchmark"
+      ],
+      "rows": [
+        [
+          "**Combined Debt-to-GDP Ratio**",
+          "**60% of GDP**",
+          "Debt anchor replacing pure deficit target"
+        ],
+        [
+          "**Central Govt Debt-to-GDP**",
+          "**40% of GDP**",
+          "Target ceiling for Union Government"
+        ],
+        [
+          "**State Govts Debt-to-GDP**",
+          "**20% of GDP**",
+          "Target ceiling for all State Governments"
+        ],
+        [
+          "**Central Fiscal Deficit**",
+          "**3.0% of GDP**",
+          "Post-pandemic glide path aiming for $<4.5%$ by FY26"
+        ],
+        [
+          "**Escape Clause Limit**",
+          "Max **0.5% of GDP** relaxation",
+          "Invoked during 2020 COVID pandemic shock"
+        ]
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. Mandatory Statements Laid Under FRBM Act\nEvery year along with the Budget, the Government MUST present **3 FRBM Statements** to Parliament:\n1. **Macroeconomic Framework Statement:** Evaluates GDP growth, inflation, external balance.\n2. **Medium-Term Fiscal Policy Statement:** Sets 3-year rolling targets for fiscal indicators.\n3. **Fiscal Policy Strategy Statement:** Outlines tax policy and expenditure priorities."
+      "text": "📖 2. Mandatory Statements Laid Under FRBM Act"
+    },
+    {
+      "type": "paragraph",
+      "content": "Every year along with the Budget, the Government MUST present **3 FRBM Statements** to Parliament:"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Macroeconomic Framework Statement:** Evaluates GDP growth, inflation, external balance.",
+        "**Medium-Term Fiscal Policy Statement:** Sets 3-year rolling targets for fiscal indicators.",
+        "**Fiscal Policy Strategy Statement:** Outlines tax policy and expenditure priorities."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** The FRBM Escape Clause permits a maximum deviation of **0.5% of GDP** in the fiscal deficit target, and can be triggered ONLY on specified grounds (war, agricultural failure, national calamity, structural reform).\n- ⚠️ **Exam Trap 2:** N.K. Singh Committee recommended using **Debt-to-GDP ratio** as the primary fiscal operational target rather than fiscal deficit alone."
+      "text": "⚖️ 3. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** The FRBM Escape Clause permits a maximum deviation of **0.5% of GDP** in the fiscal deficit target, and can be triggered ONLY on specified grounds (war, agricultural failure, national calamity, structural reform)."
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** N.K. Singh Committee recommended using **Debt-to-GDP ratio** as the primary fiscal operational target rather than fiscal deficit alone."
     },
     {
       "type": "heading",

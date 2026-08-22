@@ -6,9 +6,22 @@
   "summary": "Decision-tree logic for Data Sufficiency statements, unique solution existence criteria, and Quantity 1 vs Quantity 2 algebraic comparisons...",
   "blocks": [
     {
-      "id": "blk-qsec6-1-theory",
-      "type": "paragraph",
-      "content": "### ⚖️ Data Sufficiency Decision Heuristics\n\n1. **The 5 Canonical DS Outcomes:**\n   • Statement 1 alone is sufficient, but Statement 2 alone is not.\n   • Statement 2 alone is sufficient, but Statement 1 alone is not.\n   • Either Statement 1 alone or Statement 2 alone is sufficient.\n   • Neither Statement 1 nor Statement 2 is sufficient independently, but TOGETHER they are sufficient.\n   • Statements 1 and 2 together are STILL NOT sufficient.\n2. **The \"Unique Answer\" Invariant:** Data Sufficiency asks *\"Can a single, unique, unambiguous answer be determined?\"* A statement yielding two possible values for a variable (e.g. (x = pm 5)) is **INSUFFICIENT**, unless an inequality constraint excludes one root.\n3. **Do NOT Calculate to the End:** Once algebraic uniqueness is established (e.g., 2 independent linear equations with 2 unknowns), stop immediately. Full computation wastes precious exam time!"
+      "type": "heading",
+      "level": 3,
+      "text": "⚖️ Data Sufficiency Decision Heuristics"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**The 5 Canonical DS Outcomes:**",
+        "Statement 1 alone is sufficient, but Statement 2 alone is not.",
+        "Statement 2 alone is sufficient, but Statement 1 alone is not.",
+        "Either Statement 1 alone or Statement 2 alone is sufficient.",
+        "Neither Statement 1 nor Statement 2 is sufficient independently, but TOGETHER they are sufficient.",
+        "Statements 1 and 2 together are STILL NOT sufficient.",
+        "**The \"Unique Answer\" Invariant:** Data Sufficiency asks *\"Can a single, unique, unambiguous answer be determined?\"* A statement yielding two possible values for a variable (e.g. (x = pm 5)) is **INSUFFICIENT**, unless an inequality constraint excludes one root.",
+        "**Do NOT Calculate to the End:** Once algebraic uniqueness is established (e.g., 2 independent linear equations with 2 unknowns), stop immediately. Full computation wastes precious exam time!"
+      ]
     },
     {
       "id": "blk-qsec6-1-trap",

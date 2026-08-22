@@ -44,7 +44,20 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Revenue Account vs. Capital Account Matrix\n| Budget Account | Receipts Sub-Category | Expenditure Sub-Category |\n|---|---|---|\n| **Revenue Account** | **Tax Revenue:** Income Tax, GST, Corp Tax\n**Non-Tax Revenue:** Dividends from PSUs/RBI, Interest, User fees | Salaries, Pensions, Interest Payments, Subsidies, Defense operational maintenance |\n| **Capital Account** | **Non-Debt Receipts:** Disinvestment proceeds, Loan recoveries\n**Debt Receipts:** Market borrowings (T-Bills/Bonds), Small Savings | Construction of Highways, Railways, Hospitals, Capital equipment, Loans to States |"
+      "text": "⚡ 1. Revenue Account vs. Capital Account Matrix"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Budget Account",
+        "Receipts Sub-Category",
+        "Expenditure Sub-Category"
+      ],
+      "rows": []
+    },
+    {
+      "type": "paragraph",
+      "content": "| **Revenue Account** | **Tax Revenue:** Income Tax, GST, Corp Tax\n**Non-Tax Revenue:** Dividends from PSUs/RBI, Interest, User fees | Salaries, Pensions, Interest Payments, Subsidies, Defense operational maintenance |\n| **Capital Account** | **Non-Debt Receipts:** Disinvestment proceeds, Loan recoveries\n**Debt Receipts:** Market borrowings (T-Bills/Bonds), Small Savings | Construction of Highways, Railways, Hospitals, Capital equipment, Loans to States |"
     },
     {
       "type": "heading",
@@ -66,7 +79,15 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Fiscal Deficit equals total **Government Borrowing Requirement** for the year!\n- ⚠️ **Exam Trap 2:** Disinvestment proceeds are **Capital Receipts**, but they are **NON-DEBT Capital Receipts** (they reduce assets, but do NOT create future debt liability)."
+      "text": "⚖️ 3. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** Fiscal Deficit equals total **Government Borrowing Requirement** for the year!"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** Disinvestment proceeds are **Capital Receipts**, but they are **NON-DEBT Capital Receipts** (they reduce assets, but do NOT create future debt liability)."
     },
     {
       "type": "heading",
@@ -79,7 +100,15 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** In a budget year, Total Government Expenditure is ₹40 Lakh Crore. Revenue Receipts are ₹22 Lakh Crore, Disinvestment proceeds are ₹1 Lakh Crore, and Interest Payments are ₹9 Lakh Crore. Calculate Fiscal Deficit and Primary Deficit.  \n**Resolution:**  \n1. Non-Debt Capital Receipts $= 1\text{ Lakh Cr}$.  \n2. $\text{Fiscal Deficit} = 40 - (22 + 1) = 40 - 23 = \\mathbf{₹17\text{ Lakh Crore}}$.  \n3. $\text{Primary Deficit} = \text{Fiscal Deficit} - \text{Interest Payments} = 17 - 9 = \\mathbf{₹8\text{ Lakh Crore}}$."
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** In a budget year, Total Government Expenditure is ₹40 Lakh Crore. Revenue Receipts are ₹22 Lakh Crore, Disinvestment proceeds are ₹1 Lakh Crore, and Interest Payments are ₹9 Lakh Crore. Calculate Fiscal Deficit and Primary Deficit.  \n**Resolution:**"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Non-Debt Capital Receipts $= 1\text{ Lakh Cr}$.",
+        "$\text{Fiscal Deficit} = 40 - (22 + 1) = 40 - 23 = \\mathbf{₹17\text{ Lakh Crore}}$.",
+        "$\text{Primary Deficit} = \text{Fiscal Deficit} - \text{Interest Payments} = 17 - 9 = \\mathbf{₹8\text{ Lakh Crore}}$."
+      ]
     },
     {
       "type": "paragraph",

@@ -38,22 +38,78 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Core Functions of Money Matrix\n| Function Category | Specific Function | Economic Significance |\n|---|---|---|\n| **Primary Functions** | **Medium of Exchange** | Solves the Barter system's problem of **Double Coincidence of Wants** |\n| | **Unit of Account** | Provides a common numeraire price tag for comparing diverse goods/services |\n| **Secondary Functions** | **Store of Value** | Enables liquid purchasing power storage across time |\n| | **Standard of Deferred Payment** | Facilitates credit, loans, future contracts, and EMI payments |"
+      "text": "⚡ 1. Core Functions of Money Matrix"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Function Category",
+        "Specific Function",
+        "Economic Significance"
+      ],
+      "rows": [
+        [
+          "**Primary Functions**",
+          "**Medium of Exchange**",
+          "Solves the Barter system's problem of **Double Coincidence of Wants**"
+        ],
+        [
+          "",
+          "**Unit of Account**",
+          "Provides a common numeraire price tag for comparing diverse goods/services"
+        ],
+        [
+          "**Secondary Functions**",
+          "**Store of Value**",
+          "Enables liquid purchasing power storage across time"
+        ],
+        [
+          "",
+          "**Standard of Deferred Payment**",
+          "Facilitates credit, loans, future contracts, and EMI payments"
+        ]
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. Fiat Money, Legal Tender & Seigniorage\n- **Fiat Money:** Currency issued by government decree without physical backing by gold or silver reserves. Its value derives from public trust in the issuing sovereign.\n- **Legal Tender:** Currency that debtors are legally entitled to offer, and creditors are **legally bound to accept**, in discharge of debt.\n  - *Coins:* **Limited Legal Tender** under Coinage Act 2011 (₹1 coins legal up to ₹1,000).\n  - *Bank Notes:* **Unlimited Legal Tender** under RBI Act 1934 Section 26.\n- **Seigniorage:** Profit made by the central bank from issuing currency = $\text{Face Value of Currency} - \text{Cost of Printing/Production}$."
+      "text": "📖 2. Fiat Money, Legal Tender & Seigniorage"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Fiat Money:** Currency issued by government decree without physical backing by gold or silver reserves. Its value derives from public trust in the issuing sovereign.",
+        "**Legal Tender:** Currency that debtors are legally entitled to offer, and creditors are **legally bound to accept**, in discharge of debt.",
+        "*Coins:* **Limited Legal Tender** under Coinage Act 2011 (₹1 coins legal up to ₹1,000).",
+        "*Bank Notes:* **Unlimited Legal Tender** under RBI Act 1934 Section 26.",
+        "**Seigniorage:** Profit made by the central bank from issuing currency = $\text{Face Value of Currency} - \text{Cost of Printing/Production}$."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "🏛️ 3. Central Bank Digital Currency (CBDC / e-Rupee)\n- **Concept:** Sovereign digital token issued by RBI in accordance with RBI Act amendment (2022).\n- **Two Variants:** **e₹-R (Retail)** for public transactions and **e₹-W (Wholesale)** for interbank settlement of secondary market government securities.\n- **Key Feature:** CBDC is a **direct liability of RBI** (unlike bank deposits which are liabilities of commercial banks)."
+      "text": "🏛️ 3. Central Bank Digital Currency (CBDC / e-Rupee)"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Concept:** Sovereign digital token issued by RBI in accordance with RBI Act amendment (2022).",
+        "**Two Variants:** **e₹-R (Retail)** for public transactions and **e₹-W (Wholesale)** for interbank settlement of secondary market government securities.",
+        "**Key Feature:** CBDC is a **direct liability of RBI** (unlike bank deposits which are liabilities of commercial banks)."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 4. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Cheques and Demand Drafts are **Fiduciary Money**, NOT Legal Tender! A seller can legally refuse to accept a cheque.\n- ⚠️ **Exam Trap 2:** Coins in India are issued by the **Government of India** (Ministry of Finance), while Currency Notes (₹2 and above) are issued by the **Reserve Bank of India (RBI)**."
+      "text": "⚖️ 4. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** Cheques and Demand Drafts are **Fiduciary Money**, NOT Legal Tender! A seller can legally refuse to accept a cheque."
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** Coins in India are issued by the **Government of India** (Ministry of Finance), while Currency Notes (₹2 and above) are issued by the **Reserve Bank of India (RBI)**."
     },
     {
       "type": "heading",

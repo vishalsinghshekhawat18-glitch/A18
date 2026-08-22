@@ -6,9 +6,29 @@
   "summary": "Rigorous theoretical framework covering Fundamental Counting Principles, circular arrangements, derangements, conditional probability, and Bayes Theorem...",
   "blocks": [
     {
-      "id": "blk-qsec7-1-theory",
-      "type": "paragraph",
-      "content": "### 🎲 Combinatorics & Probability Invariants\n\n1. **Permutation vs Combination:**\n   • **Permutation ((P)):** Order matters. ({}^n P_r = \frac{n!}{(n-r)!}).\n   • **Combination ((C)):** Selection only, order does not matter. ({}^n C_r = \frac{n!}{r!(n-r)!}).\n   • Relationship: ({}^n P_r = r! \times {}^n C_r); ({}^n C_r = {}^n C_{n-r}).\n2. **Arrangement Invariants:**\n   • Linear arrangement of (n) distinct items = (n!).\n   • Linear arrangement with repetitions ((p, q, r)) = (\frac{n!}{p! cdot q! cdot r!}).\n   • Circular arrangement of (n) distinct persons = ((n - 1)!).\n   • Circular necklace/garland (clockwise = counterclockwise) = (\frac{(n - 1)!}{2}).\n3. **Probability Fundamentals:**\n   • (P(E) = \frac{n(E)}{n(S)}) where (0 le P(E) le 1).\n   • Addition Theorem: (P(A cup B) = P(A) + P(B) - P(A cap B)).\n   • Mutually Exclusive Events: (P(A cap B) = 0 implies P(A cup B) = P(A) + P(B)).\n   • Independent Events: (P(A cap B) = P(A) \times P(B)).\n   • At Least One Rule: (P(\text{at least one}) = 1 - P(\text{none}))."
+      "type": "heading",
+      "level": 3,
+      "text": "🎲 Combinatorics & Probability Invariants"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Permutation vs Combination:**",
+        "**Permutation ((P)):** Order matters. ({}^n P_r = \frac{n!}{(n-r)!}).",
+        "**Combination ((C)):** Selection only, order does not matter. ({}^n C_r = \frac{n!}{r!(n-r)!}).",
+        "Relationship: ({}^n P_r = r! \times {}^n C_r); ({}^n C_r = {}^n C_{n-r}).",
+        "**Arrangement Invariants:**",
+        "Linear arrangement of (n) distinct items = (n!).",
+        "Linear arrangement with repetitions ((p, q, r)) = (\frac{n!}{p! cdot q! cdot r!}).",
+        "Circular arrangement of (n) distinct persons = ((n - 1)!).",
+        "Circular necklace/garland (clockwise = counterclockwise) = (\frac{(n - 1)!}{2}).",
+        "**Probability Fundamentals:**",
+        "(P(E) = \frac{n(E)}{n(S)}) where (0 le P(E) le 1).",
+        "Addition Theorem: (P(A cup B) = P(A) + P(B) - P(A cap B)).",
+        "Mutually Exclusive Events: (P(A cap B) = 0 implies P(A cup B) = P(A) + P(B)).",
+        "Independent Events: (P(A cap B) = P(A) \times P(B)).",
+        "At Least One Rule: (P(\text{at least one}) = 1 - P(\text{none}))."
+      ]
     },
     {
       "id": "blk-qsec7-1-trap",

@@ -38,7 +38,54 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Master PSL Targets Comparison Table\n| Bank Category | Overall PSL Target (% of ANBC) | Agriculture Sub-Target | Micro Enterprises Sub-Target | Weaker Sections Sub-Target |\n|---|---|---|---|---|\n| **Domestic Commercial Banks** | **40%** | **18%** (10% for SMFs) | **7.5%** | **12%** |\n| **Foreign Banks ($ge 20$ branches)** | **40%** | 18% | 7.5% | 12% |\n| **Foreign Banks ($<20$ branches)** | **40%** | Flexible allocation | Flexible allocation | Flexible allocation |\n| **Regional Rural Banks (RRBs)** | **75%** | 18% (10% for SMFs) | 7.5% | 15% |\n| **Small Finance Banks (SFBs)** | **75%** | 18% (10% for SMFs) | 7.5% | 12% |"
+      "text": "⚡ 1. Master PSL Targets Comparison Table"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Bank Category",
+        "Overall PSL Target (% of ANBC)",
+        "Agriculture Sub-Target",
+        "Micro Enterprises Sub-Target",
+        "Weaker Sections Sub-Target"
+      ],
+      "rows": [
+        [
+          "**Domestic Commercial Banks**",
+          "**40%**",
+          "**18%** (10% for SMFs)",
+          "**7.5%**",
+          "**12%**"
+        ],
+        [
+          "**Foreign Banks ($ge 20$ branches)**",
+          "**40%**",
+          "18%",
+          "7.5%",
+          "12%"
+        ],
+        [
+          "**Foreign Banks ($<20$ branches)**",
+          "**40%**",
+          "Flexible allocation",
+          "Flexible allocation",
+          "Flexible allocation"
+        ],
+        [
+          "**Regional Rural Banks (RRBs)**",
+          "**75%**",
+          "18% (10% for SMFs)",
+          "7.5%",
+          "15%"
+        ],
+        [
+          "**Small Finance Banks (SFBs)**",
+          "**75%**",
+          "18% (10% for SMFs)",
+          "7.5%",
+          "12%"
+        ]
+      ]
     },
     {
       "type": "paragraph",
@@ -47,12 +94,33 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. Eligible Priority Sectors (8 Categories)\n1. Agriculture\n2. Micro, Small and Medium Enterprises (MSMEs)\n3. Export Credit\n4. Education\n5. Housing\n6. Social Infrastructure (schools, drinking water, sanitation)\n7. Renewable Energy (solar, wind biomass up to ₹30 Cr)\n8. Weaker Sections"
+      "text": "📖 2. Eligible Priority Sectors (8 Categories)"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Agriculture",
+        "Micro, Small and Medium Enterprises (MSMEs)",
+        "Export Credit",
+        "Education",
+        "Housing",
+        "Social Infrastructure (schools, drinking water, sanitation)",
+        "Renewable Energy (solar, wind biomass up to ₹30 Cr)",
+        "Weaker Sections"
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** RRBs and Small Finance Banks (SFBs) must allocate **75% of ANBC** to priority sectors, compared to 40% for regular commercial banks.\n- ⚠️ **Exam Trap 2:** Trading of PSLCs (Priority Sector Lending Certificates) does NOT transfer the underlying loan assets or risk; it transfers **only the PSL compliance credit**!"
+      "text": "⚖️ 3. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** RRBs and Small Finance Banks (SFBs) must allocate **75% of ANBC** to priority sectors, compared to 40% for regular commercial banks."
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** Trading of PSLCs (Priority Sector Lending Certificates) does NOT transfer the underlying loan assets or risk; it transfers **only the PSL compliance credit**!"
     },
     {
       "type": "heading",

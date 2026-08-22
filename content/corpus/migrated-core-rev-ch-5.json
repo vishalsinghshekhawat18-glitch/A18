@@ -38,17 +38,68 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. ISRO Launch Vehicles Comparison Matrix\n| Launch Vehicle | Number of Stages | Fuel Configuration | Orbit Target & Max Payload | Key Mission Examples |\n|---|---|---|---|---|\n| **PSLV** | 4 Stages | Alternate Solid ($S$) & Liquid ($L$) (S-L-S-L) | Sun-Synchronous Polar Orbit (~1.75 tonnes) | Chandrayaan-1, Mangalyaan (MOM), Aditya-L1 |\n| **GSLV Mk II** | 3 Stages | Solid (S139) + Liquid (L40) + **Cryogenic (C12)** | Geo-synchronous Transfer Orbit (~2.2 tonnes) | INSAT / GSAT communication satellites |\n| **LVM3 (GSLV Mk III)** | 3 Stages | 2 Solid boosters (S200) + Liquid core (L110) + **Cryogenic (C25)** | Heavy GTO (~4 tonnes) & Low Earth Orbit (~8 tonnes) | Chandrayaan-2, Chandrayaan-3, Gaganyaan |"
+      "text": "⚡ 1. ISRO Launch Vehicles Comparison Matrix"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Launch Vehicle",
+        "Number of Stages",
+        "Fuel Configuration",
+        "Orbit Target & Max Payload",
+        "Key Mission Examples"
+      ],
+      "rows": [
+        [
+          "**PSLV**",
+          "4 Stages",
+          "Alternate Solid ($S$) & Liquid ($L$) (S-L-S-L)",
+          "Sun-Synchronous Polar Orbit (~1.75 tonnes)",
+          "Chandrayaan-1, Mangalyaan (MOM), Aditya-L1"
+        ],
+        [
+          "**GSLV Mk II**",
+          "3 Stages",
+          "Solid (S139) + Liquid (L40) + **Cryogenic (C12)**",
+          "Geo-synchronous Transfer Orbit (~2.2 tonnes)",
+          "INSAT / GSAT communication satellites"
+        ],
+        [
+          "**LVM3 (GSLV Mk III)**",
+          "3 Stages",
+          "2 Solid boosters (S200) + Liquid core (L110) + **Cryogenic (C25)**",
+          "Heavy GTO (~4 tonnes) & Low Earth Orbit (~8 tonnes)",
+          "Chandrayaan-2, Chandrayaan-3, Gaganyaan"
+        ]
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. Vaccine Technology Platforms\n1. **Whole Virus (Inactivated):** Uses killed virus (e.g. **Covaxin** by Bharat Biotech).\n2. **Viral Vector:** Uses modified harmless adenovirus carrying spike protein gene (e.g. **Covishield** by Serum Institute / Oxford-AstraZeneca).\n3. **mRNA Vaccine:** Delivers synthetic mRNA encoding spike protein wrapped in lipid nanoparticles (e.g. **Pfizer-BioNTech, Moderna**).\n4. **DNA Plasmid Vaccine:** World's 1st needle-free DNA vaccine for humans: **ZyCoV-D** (Zydus Cadila).\n5. **Protein Subunit:** Uses purified viral spike protein (e.g. **Corbevax**)."
+      "text": "📖 2. Vaccine Technology Platforms"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Whole Virus (Inactivated):** Uses killed virus (e.g. **Covaxin** by Bharat Biotech).",
+        "**Viral Vector:** Uses modified harmless adenovirus carrying spike protein gene (e.g. **Covishield** by Serum Institute / Oxford-AstraZeneca).",
+        "**mRNA Vaccine:** Delivers synthetic mRNA encoding spike protein wrapped in lipid nanoparticles (e.g. **Pfizer-BioNTech, Moderna**).",
+        "**DNA Plasmid Vaccine:** World's 1st needle-free DNA vaccine for humans: **ZyCoV-D** (Zydus Cadila).",
+        "**Protein Subunit:** Uses purified viral spike protein (e.g. **Corbevax**)."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** PSLV is a **4-stage** launch vehicle with alternating solid and liquid propulsion. GSLV Mk III (LVM3) is a **3-stage** launch vehicle!\n- ⚠️ **Exam Trap 2:** Human activities (grazing, private land ownership, forestry) are **STRICTLY PROHIBITED** inside a **National Park**, but may be permitted inside a **Wildlife Sanctuary** under Chief Wildlife Warden permission."
+      "text": "⚖️ 3. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** PSLV is a **4-stage** launch vehicle with alternating solid and liquid propulsion. GSLV Mk III (LVM3) is a **3-stage** launch vehicle!"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** Human activities (grazing, private land ownership, forestry) are **STRICTLY PROHIBITED** inside a **National Park**, but may be permitted inside a **Wildlife Sanctuary** under Chief Wildlife Warden permission."
     },
     {
       "type": "heading",

@@ -1,0 +1,385 @@
+{
+  "id": "iibf-ieifs-unit-1-overview-population-planning",
+  "type": "chapter",
+  "domain": "iibf-regulations",
+  "title": "IIBF IE&IFS Unit 1: Overview of Indian Economy, Demographic Transition & Economic Planning",
+  "summary": "Comprehensive IIBF JAIIB Paper 1 Masterclass covering India's macroeconomic evolution, UN/MoSPI population data, 4-Stage Demographic Transition, sectoral shift, and Planning history to NITI Aayog.",
+  "blocks": [
+    {
+      "type": "key_concept",
+      "title": "IIBF Core Foundation: Indian Economic Trajectory",
+      "summary": "India transitioned from a low-growth colonial agrarian economy (1947) to a mixed economy governed by Five Year Plans, and finally to a post-1991 market-driven globalized system currently operating in Stage 3 of Demographic Transition with a burgeoning Services sector."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "📊 1. India's Macroeconomic Profile & Population Dynamics"
+    },
+    {
+      "type": "paragraph",
+      "content": "As per the **Ministry of Statistics and Programme Implementation (MoSPI)** and **United Nations Population Division** benchmarks, India's demographic and spatial parameters represent a unique economic equation:"
+    },
+    {
+      "type": "table",
+      "caption": "India Demographic & Geographical Vital Statistics (MoSPI / UN)",
+      "headers": [
+        "Parameter",
+        "Statistical Benchmark",
+        "Economic / Policy Significance"
+      ],
+      "rows": [
+        [
+          "Total Population",
+          "1,428+ Million (Surpassed China as World's #1)",
+          "World's largest consumer base and labor supply"
+        ],
+        [
+          "Share of Global Population",
+          "17.76% of World Population",
+          "1 in every 6 human beings resides in India"
+        ],
+        [
+          "Share of Global Surface Area",
+          "2.4% of World Landmass",
+          "High population density (approx 435 persons/km²)"
+        ],
+        [
+          "Total Fertility Rate (TFR)",
+          "2.0 (NFHS-5) vs 2.1 Replacement Rate",
+          "Below replacement level; population will stabilize by ~2060"
+        ],
+        [
+          "Median Age",
+          "approx 28.7 Years",
+          "Youngest large economy in the world (Demographic Dividend)"
+        ],
+        [
+          "Dependency Ratio",
+          "Declining (Working age population 15–64 yrs is > 67%)",
+          "Golden demographic window extending up to 2047"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🔄 2. The Four-Stage Demographic Transition Model (India's Position)"
+    },
+    {
+      "type": "paragraph",
+      "content": "The **Demographic Transition Model (DTM)** explains how an economy's fertility and mortality rates evolve during economic modernization and industrialization:"
+    },
+    {
+      "type": "table",
+      "caption": "The 4-Stage Demographic Transition Matrix",
+      "headers": [
+        "Stage",
+        "Phase Name",
+        "Birth Rate (BR) & Death Rate (DR)",
+        "Population Growth Rate",
+        "Economic Characteristics"
+      ],
+      "rows": [
+        [
+          "Stage 1",
+          "High Stationary",
+          "High BR & High DR (Fluctuating)",
+          "Near Zero / Very Low Growth",
+          "Pre-industrial, agrarian, primitive healthcare (India before 1921)."
+        ],
+        [
+          "Stage 2",
+          "Early Expanding",
+          "High BR & Rapidly Falling DR",
+          "Population Explosion (Very High Growth)",
+          "Improved sanitation, antibiotics, famines controlled (India 1921–1971)."
+        ],
+        [
+          "Stage 3",
+          "Late Expanding (India's Current Stage)",
+          "Rapidly Falling BR & Low Stable DR",
+          "Declining Growth Rate (Moderate)",
+          "Urbanization, female literacy, family planning, industrial growth."
+        ],
+        [
+          "Stage 4",
+          "Low Stationary",
+          "Low BR & Low DR",
+          "Stable / Zero Growth / Aging",
+          "Advanced post-industrial economies (Japan, Western Europe)."
+        ]
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "content": "🎯 IIBF Exam Trap → Year of the Great Divide:\n• The Census Year **1921** is officially designated as the **'Year of the Great Divide'** in Indian demography because prior to 1921, population growth was erratic and occasionally negative (due to 1918 Spanish Flu and famines). Post-1921, India entered Stage 2 with unceasing, rapid demographic expansion.\n• **India's Current Stage:** India is firmly in **Stage 3** (Late Expanding) with declining birth rates and stable low death rates."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🏭 3. Sectoral Transformation of the Indian Economy"
+    },
+    {
+      "type": "paragraph",
+      "content": "Classical economic development (Fisher-Clark model) dictates a transition from **Agriculture (Primary) ➔ Manufacturing (Secondary) ➔ Services (Tertiary)**. However, India exhibited a structural anomaly known as **'Leapfrogging'**, jumping directly from agriculture to a services-dominated output structure:"
+    },
+    {
+      "type": "table",
+      "caption": "Sectoral Contribution: GSVA / GDP vs. Employment Distribution",
+      "headers": [
+        "Economic Sector",
+        "Contribution to GDP / GVA (approx %)",
+        "Share in Total Employment (approx %)",
+        "Structural Imbalance Diagnosis"
+      ],
+      "rows": [
+        [
+          "Primary Sector (Agri & Allied)",
+          "approx 16% – 18%",
+          "approx 45% – 46%",
+          "Severe disguised unemployment; 45% workforce generates only ~17% GDP."
+        ],
+        [
+          "Secondary Sector (Industry & Mfg)",
+          "approx 26% – 28%",
+          "approx 24% – 25%",
+          "Missing 'manufacturing engine' compared to China/East Asia (Target: 25% Mfg under NMP)."
+        ],
+        [
+          "Tertiary Sector (Services)",
+          "approx 54% – 56%",
+          "approx 30% – 31%",
+          "High productivity engine (IT, Banking, Telecom), but capital/skill-intensive."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "📜 4. Evolution of Economic Planning in India (Pre-Independence to FYPs)"
+    },
+    {
+      "type": "table",
+      "caption": "Pre-Independence Planning Milestones",
+      "headers": [
+        "Year & Milestone",
+        "Proponent / Architect",
+        "Core Philosophy & Target"
+      ],
+      "rows": [
+        [
+          "1934: Visvesvaraya Plan",
+          "Sir M. Visvesvaraya (*Planned Economy for India*)",
+          "10-year plan to double national income; heavy industrialization focus."
+        ],
+        [
+          "1938: National Planning Committee (NPC)",
+          "Set up by Subhash Chandra Bose (INC President); Chaired by Jawaharlal Nehru",
+          "Pioneered state-led heavy industries and mixed economy framework."
+        ],
+        [
+          "1944: Bombay Plan",
+          "8 Leading Industrialists (J.R.D. Tata, G.D. Birla, Purshotamdas Thakurdas, etc.)",
+          "15-year plan (₹10,000 Cr outlay); advocated active state intervention in infrastructure."
+        ],
+        [
+          "1944: Gandhian Plan",
+          "Shriman Narayan Agarwal",
+          "Emphasized decentralized cottage industries, village self-sufficiency, agriculture."
+        ],
+        [
+          "1945: People's Plan",
+          "M.N. Roy (Post-War Reconstruction Committee)",
+          "Marxist/Socialist orientation; nationalization of agriculture and consumer goods production."
+        ],
+        [
+          "1950: Sarvodaya Plan",
+          "Jaiprakash Narayan (inspired by Vinoba Bhave)",
+          "Decentralized planning, agrarian reforms, Khadi and village small industries."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "🏛️ 5. Landmarks of Five Year Plans (1951 – 2017)"
+    },
+    {
+      "type": "table",
+      "caption": "Five Year Plans Summary Matrix",
+      "headers": [
+        "Plan & Period",
+        "Guiding Model / Architect",
+        "Core Priority & Major Achievements"
+      ],
+      "rows": [
+        [
+          "1st FYP (1951–56)",
+          "Harrod-Domar Growth Model",
+          "Agriculture, price stability, major dams (Bhakra Nangal, Hirakud, Damodar Valley). Target: 2.1%, Achieved: 3.6%."
+        ],
+        [
+          "2nd FYP (1956–61)",
+          "P.C. Mahalanobis Model",
+          "Rapid industrialization & heavy capital goods; 1956 Industrial Policy Resolution (IPR); Bhilai, Rourkela, Durgapur steel plants."
+        ],
+        [
+          "3rd FYP (1961–66)",
+          "John Sandy & Sukhamoy Chakravarty (Gadgil Yojana)",
+          "Self-reliant & self-generating economy. Severe failure due to 1962 China War, 1965 Pak War, and 1965-66 severe drought."
+        ],
+        [
+          "Plan Holidays (1966–69)",
+          "Annual Plans (3 One-Year Plans)",
+          "Green Revolution initiated (HYV seeds, Norman Borlaug / M.S. Swaminathan); Devaluation of Rupee (1966)."
+        ],
+        [
+          "4th FYP (1969–74)",
+          "D.R. Gadgil Formula",
+          "Growth with stability and progressive self-reliance; 14 Major Banks Nationalized (1969); 1971 Bangladesh War & Pokhran-I (1974)."
+        ],
+        [
+          "5th FYP (1974–79)",
+          "D.D. Dhar Model",
+          "'Garibi Hatao' (Poverty Eradication) & Self-Reliance; 20-Point Programme; Terminated 1 yr early (1978) by Janata Govt."
+        ],
+        [
+          "Rolling Plan (1978–80)",
+          "Gunnar Myrdal Concept (Janata Party)",
+          "Annual assessments with continuous rolling targets."
+        ],
+        [
+          "6th FYP (1980–85)",
+          "Investment Model",
+          "Direct attack on poverty; NABARD established (12 July 1982); EXIM Bank (1982); 6 more banks nationalized (1980)."
+        ],
+        [
+          "7th FYP (1985–90)",
+          "Pranab Mukherjee Model",
+          "Food, Work, and Productivity; SEBI formed (1988); Speed Post (1986). Hindu Rate of Growth broken."
+        ],
+        [
+          "Annual Plans (1990–92)",
+          "BoP Crisis & Structural Reforms",
+          "LPG Reforms (Liberalization, Privatization, Globalization) launched in July 1991 under Narasimha Rao & Manmohan Singh."
+        ],
+        [
+          "8th FYP (1992–97)",
+          "John W. Miller Model",
+          "Human resource development, employment, trade opening; India joined WTO (1 Jan 1995). Target: 5.6%, Achieved: 6.8%."
+        ],
+        [
+          "9th FYP (1997–2002)",
+          "Growth with Social Justice & Equity",
+          "East Asian Crisis (1997), Kargil War (1999); Pokhran-II (1998)."
+        ],
+        [
+          "10th FYP (2002–07)",
+          "Targeting 8% GDP Growth",
+          "Governance reforms, reduction of gender gaps, Sarva Shiksha Abhiyan."
+        ],
+        [
+          "11th FYP (2007–12)",
+          "C. Rangarajan / Montek S. Ahluwalia",
+          "'Faster and More Inclusive Growth'; Achieved 8.0% growth despite 2008 Global Financial Crisis."
+        ],
+        [
+          "12th FYP (2012–17)",
+          "Final FYP in Indian History",
+          "'Faster, Sustainable, and More Inclusive Growth'; Discontinued post-2014 with Planning Commission dissolution."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "💡 6. Paradigm Shift: Planning Commission vs. NITI Aayog"
+    },
+    {
+      "type": "table",
+      "caption": "Planning Commission vs. NITI Aayog Comparison Matrix",
+      "headers": [
+        "Parameter",
+        "Planning Commission (1950 – 2014)",
+        "NITI Aayog (1 Jan 2015 – Present)"
+      ],
+      "rows": [
+        [
+          "Establishment",
+          "Cabinet Resolution (15 March 1950), Non-constitutional, Non-statutory",
+          "Cabinet Resolution (1 Jan 2015), Non-constitutional, Non-statutory"
+        ],
+        [
+          "Approach",
+          "Top-down approach (Centralized planning, 'One size fits all')",
+          "Bottom-up approach (Cooperative & Competitive Federalism)"
+        ],
+        [
+          "State Representation",
+          "States were spectators in NDC (National Development Council)",
+          "Governing Council comprises all State CMs, UT Lt. Governors"
+        ],
+        [
+          "Fund Allocation Power",
+          "Allocated central plan funds to States and Ministries",
+          "Pure Policy Think Tank; zero fund allocation powers (handled by FinMin)"
+        ],
+        [
+          "Structure & Hubs",
+          "Static bureaucratic commission",
+          "Two Specialized Hubs: (1) Team India Hub, (2) Knowledge & Innovation Hub"
+        ],
+        [
+          "Key Indices & Frameworks",
+          "Five-Year Plan documents",
+          "SDG India Index, Multidimensional Poverty Index, Aspirational Districts/Blocks Programme, Export Preparedness Index"
+        ]
+      ]
+    },
+    {
+      "type": "exam_trap",
+      "content": "🎯 Top IIBF Exam Traps for Unit 1:\n1. **Planning Commission vs NITI Aayog Power:** NITI Aayog has **NO financial allocation powers** — it is purely an advisory think tank.\n2. **Mahalanobis vs Harrod-Domar:** 1st Plan used Harrod-Domar (Agriculture); 2nd Plan used Mahalanobis 2-sector/4-sector model (Capital goods & heavy industry).\n3. **Demographic Stage:** India is in **Stage 3** (Late Expanding) where both birth rate and death rate are declining, resulting in a stabilizing growth trajectory."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ Practice Questions & Solved Numerical Drills (IIBF Pattern)"
+    },
+    {
+      "type": "paragraph",
+      "content": "**Q1 (Recall):** Which census year is termed the 'Year of the Great Divide' in Indian demographic history?\n• (A) 1951\n• (B) 1921\n• (C) 1947\n• (D) 1991\n**Correct Answer: (B) 1921** — Because population growth turned permanently positive and accelerated thereafter."
+    },
+    {
+      "type": "paragraph",
+      "content": "**Q2 (Conceptual):** India is currently categorized under which stage of the Demographic Transition Model?\n• (A) Stage 1: High birth rate, high death rate\n• (B) Stage 2: High birth rate, rapidly falling death rate\n• (C) Stage 3: Declining birth rate, low death rate\n• (D) Stage 4: Low birth rate, low death rate\n**Correct Answer: (C) Stage 3** — Characterized by declining fertility rates and stable low mortality rates."
+    },
+    {
+      "type": "paragraph",
+      "content": "**Q3 (Planning History):** The concept of 'Rolling Plan' was introduced in India after the termination of which Five Year Plan?\n• (A) 4th Five Year Plan\n• (B) 5th Five Year Plan\n• (C) 6th Five Year Plan\n• (D) 7th Five Year Plan\n**Correct Answer: (B) 5th Five Year Plan** — The Janata Government terminated the 5th Plan in 1978 (1 year early) and introduced the Rolling Plan (1978–80)."
+    }
+  ],
+  "metadata": {
+    "exam": [
+      "IIBF JAIIB IE&IFS",
+      "RBI Grade B Phase 2 ESI",
+      "NABARD Grade A ESI",
+      "Bank Promotion Exams"
+    ],
+    "tags": [
+      "iibf",
+      "ieifs",
+      "unit1",
+      "demographics",
+      "planning-commission",
+      "niti-aayog",
+      "five-year-plans",
+      "sectoral-growth"
+    ],
+    "provenance": {
+      "sourceSystem": "IIBF-IEIFS",
+      "importedAt": "2026-08-22",
+      "verified": true
+    },
+    "category": "IIBF Paper 1: IE&IFS (Module A - Indian Economic Architecture)"
+  }
+}

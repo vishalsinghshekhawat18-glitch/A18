@@ -6,9 +6,22 @@
   "summary": "Masterclass on truncated solids, Frustum slant heights, volume formulas, composite solids, and cavity drilling invariants with 3-tier solutions...",
   "blocks": [
     {
-      "id": "blk-qsec1-3-theory",
-      "type": "paragraph",
-      "content": "### 🔺 Frustum & Composite Solid Theorems\n\n1. **Frustum of a Right Circular Cone (radii (R, r); vertical height (h)):**\n   • **Slant Height ((l)):** (l = sqrt{h^2 + (R - r)^2})\n   • **Curved Surface Area (CSA):** (\text{CSA} = pi (R + r) l)\n   • **Total Surface Area (TSA):** (\text{TSA} = pi (R + r) l + pi R^2 + pi r^2)\n   • **Volume ((V)):** (V = \frac{1}{3} pi h (R^2 + r^2 + R cdot r))\n2. **Drilling Cavities vs Mounting Solids:**\n   • **Drilling a conical/cylindrical cavity from a solid:** Volume decreases ((V_{\text{remaining}} = V_{\text{solid}} - V_{\text{cavity}})), but **Total Surface Area increases** because the internal curved walls of the cavity are now exposed ((\text{TSA}_{\text{new}} = \text{TSA}_{\text{solid}} - \text{Base Area} + \text{CSA}_{\text{cavity}})).\n   • **Surmounting a hemisphere on a cylinder:** Total Volume (= V_{\text{cyl}} + V_{\text{hemi}}); Total Surface Area (= \text{CSA}_{\text{cyl}} + \text{Base}_{\text{cyl}} + \text{CSA}_{\text{hemi}})."
+      "type": "heading",
+      "level": 3,
+      "text": "🔺 Frustum & Composite Solid Theorems"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Frustum of a Right Circular Cone (radii (R, r); vertical height (h)):**",
+        "**Slant Height ((l)):** (l = sqrt{h^2 + (R - r)^2})",
+        "**Curved Surface Area (CSA):** (\text{CSA} = pi (R + r) l)",
+        "**Total Surface Area (TSA):** (\text{TSA} = pi (R + r) l + pi R^2 + pi r^2)",
+        "**Volume ((V)):** (V = \frac{1}{3} pi h (R^2 + r^2 + R cdot r))",
+        "**Drilling Cavities vs Mounting Solids:**",
+        "**Drilling a conical/cylindrical cavity from a solid:** Volume decreases ((V_{\text{remaining}} = V_{\text{solid}} - V_{\text{cavity}})), but **Total Surface Area increases** because the internal curved walls of the cavity are now exposed ((\text{TSA}_{\text{new}} = \text{TSA}_{\text{solid}} - \text{Base Area} + \text{CSA}_{\text{cavity}})).",
+        "**Surmounting a hemisphere on a cylinder:** Total Volume (= V_{\text{cyl}} + V_{\text{hemi}}); Total Surface Area (= \text{CSA}_{\text{cyl}} + \text{Base}_{\text{cyl}} + \text{CSA}_{\text{hemi}})."
+      ]
     },
     {
       "id": "blk-qsec1-3-trap",

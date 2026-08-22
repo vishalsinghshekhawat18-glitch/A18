@@ -44,7 +44,32 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Real Flow vs. Money Flow Matrix\n| Parameter | Real Flow (Physical Flow) | Money Flow (Nominal Flow) |\n|---|---|---|\n| **Definition** | Flow of factor services from households to firms, and final goods/services from firms to households | Flow of factor payments from firms to households, and consumption expenditure from households to firms |\n| **Medium of Exchange** | Physical goods, services, and labor hours | Currency notes, bank deposits, and monetary assets |\n| **Alternative Name** | Product / Factor Flow | Income / Expenditure Flow |"
+      "text": "⚡ 1. Real Flow vs. Money Flow Matrix"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Parameter",
+        "Real Flow (Physical Flow)",
+        "Money Flow (Nominal Flow)"
+      ],
+      "rows": [
+        [
+          "**Definition**",
+          "Flow of factor services from households to firms, and final goods/services from firms to households",
+          "Flow of factor payments from firms to households, and consumption expenditure from households to firms"
+        ],
+        [
+          "**Medium of Exchange**",
+          "Physical goods, services, and labor hours",
+          "Currency notes, bank deposits, and monetary assets"
+        ],
+        [
+          "**Alternative Name**",
+          "Product / Factor Flow",
+          "Income / Expenditure Flow"
+        ]
+      ]
     },
     {
       "type": "heading",
@@ -53,25 +78,54 @@
     },
     {
       "type": "paragraph",
-      "content": "#### A. Three-Sector Model (Households, Firms, Government)\n- Government collects Taxes ($T$) from households/firms (Leakage).\n- Government makes Transfer Payments & purchases goods/services ($G$) (Injection)."
+      "content": "#### A. Three-Sector Model (Households, Firms, Government)"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Government collects Taxes ($T$) from households/firms (Leakage).",
+        "Government makes Transfer Payments & purchases goods/services ($G$) (Injection)."
+      ]
     },
     {
       "type": "paragraph",
-      "content": "#### B. Four-Sector Model (Open Economy)\n- Rest of World section adds Exports ($X$ - Injection) and Imports ($M$ - Leakage)."
+      "content": "#### B. Four-Sector Model (Open Economy)"
     },
     {
-      "type": "paragraph",
-      "content": "$$\\text{Macroeconomic Equilibrium Condition: } \\mathbf{\\text{Total Leakages} = \\text{Total Injections}}$$\n$$\\mathbf{S + T + M = I + G + X}$$"
+      "type": "bullet_list",
+      "items": [
+        "Rest of World section adds Exports ($X$ - Injection) and Imports ($M$ - Leakage)."
+      ]
+    },
+    {
+      "type": "formula",
+      "latex": "\\text{Macroeconomic Equilibrium Condition: } \\mathbf{\\text{Total Leakages} = \\text{Total Injections}}$$\n$$\\mathbf{S + T + M = I + G + X}",
+      "explanation": ""
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "🏛️ 3. Factor Income vs. Transfer Income\n- **Factor Income:** Earnings received for rendering productive factor services (Rent, Wages, Interest, Profit). **INCLUDED in National Income!**\n- **Transfer Income:** Money received without rendering any productive service in return (Unemployment allowance, Old-age pensions, Gifts, Pocket money). **EXCLUDED from National Income!**"
+      "text": "🏛️ 3. Factor Income vs. Transfer Income"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Factor Income:** Earnings received for rendering productive factor services (Rent, Wages, Interest, Profit). **INCLUDED in National Income!**",
+        "**Transfer Income:** Money received without rendering any productive service in return (Unemployment allowance, Old-age pensions, Gifts, Pocket money). **EXCLUDED from National Income!**"
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 4. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Old-age pensions are Transfer Income (EXCLUDED from National Income), but **Retirement Pensions** paid to retired employees are deferred factor payments for past services (INCLUDED in National Income!).\n- ⚠️ **Exam Trap 2:** If Leakages exceed Injections ($S+T+M > I+G+X$), National Income ($GDP$) will **contract** in the next cycle until equilibrium is restored."
+      "text": "⚖️ 4. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** Old-age pensions are Transfer Income (EXCLUDED from National Income), but **Retirement Pensions** paid to retired employees are deferred factor payments for past services (INCLUDED in National Income!)."
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** If Leakages exceed Injections ($S+T+M > I+G+X$), National Income ($GDP$) will **contract** in the next cycle until equilibrium is restored."
     },
     {
       "type": "heading",

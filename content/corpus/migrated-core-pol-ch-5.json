@@ -38,12 +38,50 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Beginner Jargon Unpack\n- **Positive Secularism:** Indian model where State gives equal respect and equal protection to all religions (*Sarva Dharma Sambhava*), unlike Western negative secularism (strict separation).\n- **Democratic Socialism:** Indian model aiming to end poverty and inequality through a mixed economy where public and private sectors coexist.\n- **Distributive Justice:** Social Justice + Economic Justice combined."
+      "text": "⚡ 1. Beginner Jargon Unpack"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Positive Secularism:** Indian model where State gives equal respect and equal protection to all religions (*Sarva Dharma Sambhava*), unlike Western negative secularism (strict separation).",
+        "**Democratic Socialism:** Indian model aiming to end poverty and inequality through a mixed economy where public and private sectors coexist.",
+        "**Distributive Justice:** Social Justice + Economic Justice combined."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. Layer 1: Adjectives Challenge & Defense Matrix\n| Adjective | Alleged Challenge | Constitutional Defense |\n|---|---|---|\n| **Sovereign** | International orgs (UNO, WTO) & ICJ decisions | Membership by free choice; India retains right to withdraw. |\n| **Socialist** | 1991 LPG reforms & Oxfam inequality (Top 10% own 70% wealth) | SC held Indian socialism means equality of opportunity & welfare state. |\n| **Secular** | Absence of UCC & communal riots | State neutrality & equal distance towards all religions. |\n| **Republic** | Indirect election of President | Head of State is elected, not hereditary monarch. |"
+      "text": "📖 2. Layer 1: Adjectives Challenge & Defense Matrix"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Adjective",
+        "Alleged Challenge",
+        "Constitutional Defense"
+      ],
+      "rows": [
+        [
+          "**Sovereign**",
+          "International orgs (UNO, WTO) & ICJ decisions",
+          "Membership by free choice; India retains right to withdraw."
+        ],
+        [
+          "**Socialist**",
+          "1991 LPG reforms & Oxfam inequality (Top 10% own 70% wealth)",
+          "SC held Indian socialism means equality of opportunity & welfare state."
+        ],
+        [
+          "**Secular**",
+          "Absence of UCC & communal riots",
+          "State neutrality & equal distance towards all religions."
+        ],
+        [
+          "**Republic**",
+          "Indirect election of President",
+          "Head of State is elected, not hereditary monarch."
+        ]
+      ]
     },
     {
       "type": "paragraph",
@@ -52,31 +90,76 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "🧠 3. Layer 2: Underlying Reasoning ('The Why')\nWhy did the Supreme Court reverse its position in **Kesavananda Bharati (1973)** regarding the Preamble?\n1. In *Berubari (1960)*, SC thought Preamble was merely decorative.\n2. By 1973, SC realized Preamble embodies the core values and intention of the framers, essential for defining the **Basic Structure**."
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "🧮 4. Layer 3: Worked Application (Practical Governance Scenario)\n**Scenario:** Parliament passes a law attempting to delete 'Secular' from the Preamble."
+      "text": "🧠 3. Layer 2: Underlying Reasoning ('The Why')"
     },
     {
       "type": "paragraph",
-      "content": "**Step-by-Step Resolution:**\n1. Preamble is amendable under Article 368 (*Kesavananda Bharati*).\n2. However, Secularism is part of the **Basic Structure** (*S.R. Bommai 1994*). Deleting it violates Basic Structure ⟶ SC strikes down law as unconstitutional!"
+      "content": "Why did the Supreme Court reverse its position in **Kesavananda Bharati (1973)** regarding the Preamble?"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "In *Berubari (1960)*, SC thought Preamble was merely decorative.",
+        "By 1973, SC realized Preamble embodies the core values and intention of the framers, essential for defining the **Basic Structure**."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "🏛️ 5. Concrete Anchor (Case Study)\n**S.R. Bommai v. Union of India (1994):** 9-judge bench upheld dismissal of state governments that acted against secular principles, affirming Secularism as a basic feature."
+      "text": "🧮 4. Layer 3: Worked Application (Practical Governance Scenario)"
+    },
+    {
+      "type": "paragraph",
+      "content": "**Scenario:** Parliament passes a law attempting to delete 'Secular' from the Preamble."
+    },
+    {
+      "type": "paragraph",
+      "content": "**Step-by-Step Resolution:**"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Preamble is amendable under Article 368 (*Kesavananda Bharati*).",
+        "However, Secularism is part of the **Basic Structure** (*S.R. Bommai 1994*). Deleting it violates Basic Structure ⟶ SC strikes down law as unconstitutional!"
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 6. Debates & Controversies\n**Is the Preamble Enforceable in Court?**\n- *The Controversy:* Preamble is **Non-Justiciable**—it cannot be enforced independently without a specific Fundamental Right (Art 14/19/21). However, it serves as an interpretive key for ambiguous laws.\n- *Phase 2 Core Question:* 'The Preamble is the identity card of the Constitution.' Discuss its legal status."
+      "text": "🏛️ 5. Concrete Anchor (Case Study)"
+    },
+    {
+      "type": "paragraph",
+      "content": "**S.R. Bommai v. Union of India (1994):** 9-judge bench upheld dismissal of state governments that acted against secular principles, affirming Secularism as a basic feature."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "❓ 7. 3-Tier Practice & Retention Section\n- **Tier 1 (Recall MCQ):** Which 3 words were added by 42nd CAA 1976? (A: Sovereign/Secular/Republic, **B: Socialist/Secular/Integrity**, C: Justice/Liberty/Equality) [Correct: B].\n- **Tier 2 (Applied Scenario):** Differentiate between Western Secularism and Indian Positive Secularism.\n- **Tier 3 (Mains Prompt):** *'Indian Secularism means equal respect for all religions.'* Discuss in light of judicial rulings."
+      "text": "⚖️ 6. Debates & Controversies"
+    },
+    {
+      "type": "paragraph",
+      "content": "**Is the Preamble Enforceable in Court?**"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "*The Controversy:* Preamble is **Non-Justiciable**—it cannot be enforced independently without a specific Fundamental Right (Art 14/19/21). However, it serves as an interpretive key for ambiguous laws.",
+        "*Phase 2 Core Question:* 'The Preamble is the identity card of the Constitution.' Discuss its legal status."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 7. 3-Tier Practice & Retention Section"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Tier 1 (Recall MCQ):** Which 3 words were added by 42nd CAA 1976? (A: Sovereign/Secular/Republic, **B: Socialist/Secular/Integrity**, C: Justice/Liberty/Equality) [Correct: B].",
+        "**Tier 2 (Applied Scenario):** Differentiate between Western Secularism and Indian Positive Secularism.",
+        "**Tier 3 (Mains Prompt):** *'Indian Secularism means equal respect for all religions.'* Discuss in light of judicial rulings."
+      ]
     },
     {
       "id": "blk-migrated-core-pol-ch-5-exam-trap",

@@ -38,17 +38,79 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. CPI vs. WPI Comprehensive Feature Matrix\n| Parameter | Consumer Price Index (CPI Combined) | Wholesale Price Index (WPI) |\n|---|---|---|\n| **Level of Measurement** | Retail consumer price level | Wholesale / First point of bulk sale |\n| **Publishing Agency** | National Sample Survey Office (NSO), MoSPI | Office of Economic Adviser, DPIIT (Min of Commerce) |\n| **Current Base Year** | **2012 = 100** | **2011-12 = 100** |\n| **Food Basket Weight** | **45.86%** (High sensitivity to food prices) | **24.38%** (Combined Food Index) |\n| **Manufactured Goods Weight**| 23.80% | **64.23%** (Dominant sector in WPI) |\n| **Services Sector** | **INCLUDED** (Housing 10.07%, Health, Transport) | **EXCLUDED** (Measures goods only) |\n| **RBI Monetary Anchor** | **Primary Anchor** for Flexible Inflation Targeting (4%±2%) | Secondary indicator for producer margins |"
+      "text": "⚡ 1. CPI vs. WPI Comprehensive Feature Matrix"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Parameter",
+        "Consumer Price Index (CPI Combined)",
+        "Wholesale Price Index (WPI)"
+      ],
+      "rows": [
+        [
+          "**Level of Measurement**",
+          "Retail consumer price level",
+          "Wholesale / First point of bulk sale"
+        ],
+        [
+          "**Publishing Agency**",
+          "National Sample Survey Office (NSO), MoSPI",
+          "Office of Economic Adviser, DPIIT (Min of Commerce)"
+        ],
+        [
+          "**Current Base Year**",
+          "**2012 = 100**",
+          "**2011-12 = 100**"
+        ],
+        [
+          "**Food Basket Weight**",
+          "**45.86%** (High sensitivity to food prices)",
+          "**24.38%** (Combined Food Index)"
+        ],
+        [
+          "**Manufactured Goods Weight**",
+          "23.80%",
+          "**64.23%** (Dominant sector in WPI)"
+        ],
+        [
+          "**Services Sector**",
+          "**INCLUDED** (Housing 10.07%, Health, Transport)",
+          "**EXCLUDED** (Measures goods only)"
+        ],
+        [
+          "**RBI Monetary Anchor**",
+          "**Primary Anchor** for Flexible Inflation Targeting (4%±2%)",
+          "Secondary indicator for producer margins"
+        ]
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. 4 Sub-Types of Consumer Price Index (CPI) in India\n1. **CPI (Rural, Urban, Combined):** Base 2012=100, published by NSO (MoSPI).\n2. **CPI for Agricultural Laborers (CPI-AL):** Base 1986-87=100, published by **Labour Bureau (Ministry of Labour & Employment)**. Used for updating minimum wages in farming.\n3. **CPI for Rural Laborers (CPI-RL):** Base 1986-87=100, published by Labour Bureau.\n4. **CPI for Industrial Workers (CPI-IW):** Base **2016=100**, published by Labour Bureau. Used for calculating **Dearness Allowance (DA)** of central government employees!"
+      "text": "📖 2. 4 Sub-Types of Consumer Price Index (CPI) in India"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**CPI (Rural, Urban, Combined):** Base 2012=100, published by NSO (MoSPI).",
+        "**CPI for Agricultural Laborers (CPI-AL):** Base 1986-87=100, published by **Labour Bureau (Ministry of Labour & Employment)**. Used for updating minimum wages in farming.",
+        "**CPI for Rural Laborers (CPI-RL):** Base 1986-87=100, published by Labour Bureau.",
+        "**CPI for Industrial Workers (CPI-IW):** Base **2016=100**, published by Labour Bureau. Used for calculating **Dearness Allowance (DA)** of central government employees!"
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** WPI does NOT measure price changes for Services (banking, software, health)! Only CPI includes Services.\n- ⚠️ **Exam Trap 2:** RBI switched its monetary anchor from WPI to **CPI Combined** in 2014 based on Urjit Patel Committee recommendations."
+      "text": "⚖️ 3. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** WPI does NOT measure price changes for Services (banking, software, health)! Only CPI includes Services."
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** RBI switched its monetary anchor from WPI to **CPI Combined** in 2014 based on Urjit Patel Committee recommendations."
     },
     {
       "type": "heading",

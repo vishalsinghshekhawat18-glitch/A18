@@ -38,27 +38,127 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Primary Source Inscriptions Flash Table\n| Inscription / Edict | Author / King | Script & Language | Key Historical Fact / Distinction |\n|---|---|---|---|\n| **Asokan Major Rock Edict XIII** | Emperor Ashoka | Brahmi / Prakrit (Kharosthi in NW) | Mentions Kalinga War (261 BCE) & names 5 Hellenistic Kings (Antiochus, Ptolemy, Antigonus, Magas, Alexander) |\n| **Rummindei Pillar Edict** | Emperor Ashoka | Brahmi / Prakrit | Commemorates birth of Buddha at Lumbini; tax reduced from $1/6$ to $1/8$ |\n| **Allahabad Pillar Prashasti** | Harishena / Samudragupta | Sanskrit (Champu style) | Describes Samudragupta's conquests (*Digvijaya*); inscribed on an original Asokan pillar |\n| **Aihole Inscription** | Ravikirti / Pulakeshin II | Sanskrit | Details victory of Chalukya King Pulakeshin II over Harshavardhana on Narmada banks |\n| **Hathigumpha Inscription** | King Kharavela (Kalinga) | Prakrit | Details 13-year reign of Jain King Kharavela; mentions canal constructed by Nanda King |"
+      "text": "⚡ 1. Primary Source Inscriptions Flash Table"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Inscription / Edict",
+        "Author / King",
+        "Script & Language",
+        "Key Historical Fact / Distinction"
+      ],
+      "rows": [
+        [
+          "**Asokan Major Rock Edict XIII**",
+          "Emperor Ashoka",
+          "Brahmi / Prakrit (Kharosthi in NW)",
+          "Mentions Kalinga War (261 BCE) & names 5 Hellenistic Kings (Antiochus, Ptolemy, Antigonus, Magas, Alexander)"
+        ],
+        [
+          "**Rummindei Pillar Edict**",
+          "Emperor Ashoka",
+          "Brahmi / Prakrit",
+          "Commemorates birth of Buddha at Lumbini; tax reduced from $1/6$ to $1/8$"
+        ],
+        [
+          "**Allahabad Pillar Prashasti**",
+          "Harishena / Samudragupta",
+          "Sanskrit (Champu style)",
+          "Describes Samudragupta's conquests (*Digvijaya*); inscribed on an original Asokan pillar"
+        ],
+        [
+          "**Aihole Inscription**",
+          "Ravikirti / Pulakeshin II",
+          "Sanskrit",
+          "Details victory of Chalukya King Pulakeshin II over Harshavardhana on Narmada banks"
+        ],
+        [
+          "**Hathigumpha Inscription**",
+          "King Kharavela (Kalinga)",
+          "Prakrit",
+          "Details 13-year reign of Jain King Kharavela; mentions canal constructed by Nanda King"
+        ]
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. Medieval Administrative & Land Tenure Trap Matrix\n| System | Period / Empire | Nature of Grant | Key Prelims Trap / Distinction |\n|---|---|---|---|\n| **Iqta System** | Delhi Sultanate (Iltutmish) | Revenue assignment to *Iqtadar / Muqti* for maintaining troops | **NOT private land ownership!** Non-hereditary revenue collection right (*Fawazil* = excess revenue transferred to treasury). |\n| **Mansabdari & Jagirdari** | Mughal Empire (Akbar) | Dual rank (*Zat* = personal rank/salary, *Sawar* = cavalry troops required) | **Mansab was NOT hereditary!** A Jagir was a revenue assignment, NOT land ownership. |\n| **Nayakattana / Amaram** | Vijayanagara Empire | Land grant (*Amaram*) given to Military Chiefs (*Nayakas*) | Nayakas maintained troops and paid annual tribute + military service to Raya. |\n| **Watan Jagir** | Mughal Empire | Jagir granted to local autonomous rajas in their ancestral lands | **ONLY type of Jagir that WAS hereditary and non-transferable!** |"
+      "text": "📖 2. Medieval Administrative & Land Tenure Trap Matrix"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "System",
+        "Period / Empire",
+        "Nature of Grant",
+        "Key Prelims Trap / Distinction"
+      ],
+      "rows": [
+        [
+          "**Iqta System**",
+          "Delhi Sultanate (Iltutmish)",
+          "Revenue assignment to *Iqtadar / Muqti* for maintaining troops",
+          "**NOT private land ownership!** Non-hereditary revenue collection right (*Fawazil* = excess revenue transferred to treasury)."
+        ],
+        [
+          "**Mansabdari & Jagirdari**",
+          "Mughal Empire (Akbar)",
+          "Dual rank (*Zat* = personal rank/salary, *Sawar* = cavalry troops required)",
+          "**Mansab was NOT hereditary!** A Jagir was a revenue assignment, NOT land ownership."
+        ],
+        [
+          "**Nayakattana / Amaram**",
+          "Vijayanagara Empire",
+          "Land grant (*Amaram*) given to Military Chiefs (*Nayakas*)",
+          "Nayakas maintained troops and paid annual tribute + military service to Raya."
+        ],
+        [
+          "**Watan Jagir**",
+          "Mughal Empire",
+          "Jagir granted to local autonomous rajas in their ancestral lands",
+          "**ONLY type of Jagir that WAS hereditary and non-transferable!**"
+        ]
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "🧮 3. Maratha Taxation & Economic Terms Flash Matrix\n- **Chauth:** $1/4$th ($25\\%$) of land revenue claimed by Marathas from neighboring non-Maratha territories in exchange for protection against external plunder.\n- **Sardeshmukhi:** Additional $10\\%$ tax levied on top of Chauth based on Shivaji's legal claim as the *Sardeshmukh* (hereditary head deshmukh) of Maharashtra.\n- **Mokasa:** Jagir/land grant given to Maratha commanders out of Chauth collections."
+      "text": "🧮 3. Maratha Taxation & Economic Terms Flash Matrix"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Chauth:** $1/4$th ($25\\%$) of land revenue claimed by Marathas from neighboring non-Maratha territories in exchange for protection against external plunder.",
+        "**Sardeshmukhi:** Additional $10\\%$ tax levied on top of Chauth based on Shivaji's legal claim as the *Sardeshmukh* (hereditary head deshmukh) of Maharashtra.",
+        "**Mokasa:** Jagir/land grant given to Maratha commanders out of Chauth collections."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "🏛️ 4. Temple Architecture Distinction Grid\n- **Nagara Style (North India):** Built on raised platform (*Jagati*); Curvilinear tower (*Shikhara*) topped by *Amalaka* & *Kalasha*; **NO elaborate boundary walls or Gopurams**; No water tank inside complex.\n- **Dravida Style (South India):** Enclosed within high compound walls; Majestic entrance gateway (*Gopuram*); Pyramidal step-tower (*Vimana*) topped by *Shikhara* (octagonal/dome structure); **Mandatory water tank inside complex**.\n- **Vesara Style (Deccan):** Hybrid style developed under Chalukya & Hoysala dynasties (Star-shaped *Stellate* ground plan, e.g. Chennakesava Temple Belur)."
+      "text": "🏛️ 4. Temple Architecture Distinction Grid"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Nagara Style (North India):** Built on raised platform (*Jagati*); Curvilinear tower (*Shikhara*) topped by *Amalaka* & *Kalasha*; **NO elaborate boundary walls or Gopurams**; No water tank inside complex.",
+        "**Dravida Style (South India):** Enclosed within high compound walls; Majestic entrance gateway (*Gopuram*); Pyramidal step-tower (*Vimana*) topped by *Shikhara* (octagonal/dome structure); **Mandatory water tank inside complex**.",
+        "**Vesara Style (Deccan):** Hybrid style developed under Chalukya & Hoysala dynasties (Star-shaped *Stellate* ground plan, e.g. Chennakesava Temple Belur)."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 5. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Asokan Edicts in the North-West (Mansehra & Shahbazgarhi) were written in **Kharosthi script** (right to left), NOT Brahmi! Kandahar inscription was bilingual (**Greek & Aramaic**).\n- ⚠️ **Exam Trap 2:** The *Iqta* system in Delhi Sultanate was NOT hereditary under Iltutmish or Alauddin Khalji; Firoz Shah Tughlaq later made Iqtas hereditary (a major cause of Sultanate decline!)."
+      "text": "⚖️ 5. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** Asokan Edicts in the North-West (Mansehra & Shahbazgarhi) were written in **Kharosthi script** (right to left), NOT Brahmi! Kandahar inscription was bilingual (**Greek & Aramaic**)."
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** The *Iqta* system in Delhi Sultanate was NOT hereditary under Iltutmish or Alauddin Khalji; Firoz Shah Tughlaq later made Iqtas hereditary (a major cause of Sultanate decline!)."
     },
     {
       "type": "heading",

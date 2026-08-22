@@ -6,9 +6,22 @@
   "summary": "Algorithmic step-difference decomposition, triangular difference patterns, alternating operations, and Fibonacci / Prime series identification...",
   "blocks": [
     {
-      "id": "blk-qsec5-1-theory",
-      "type": "paragraph",
-      "content": "### 🔢 Number Series Algorithmic Decomposition\n\n1. **The Difference-Tree Algorithm:**\n   • **Level 1 Difference ((Delta_1)):** If sequence grows slowly/linearly, compute consecutive differences.\n   • **Level 2 Difference ((Delta_2)):** If (Delta_1) is not constant, compute second differences. Constant (Delta_2 implies) underlying quadratic pattern ((an^2 + bn + c)).\n   • **Level 3 Difference ((Delta_3)):** Constant (Delta_3 implies) cubic pattern ((n^3 pm k)).\n2. **Multiplication & Addition Patterns ((\times k pm m)):**\n   • Observe ratio between adjacent high-value terms: (\frac{T_n}{T_{n-1}}). If ratio is approximately 2.5, 3, 3.5, 4, the pattern is (T_n = T_{n-1} \times k + f(n)).\n3. **Wrong Number Series Diagnostic:**\n   • In a single-error sequence, one incorrect term creates **TWO consecutive anomalous differences** in (Delta_1) and **THREE anomalous values** in (Delta_2). The term at the intersection of the anomaly is the wrong number!"
+      "type": "heading",
+      "level": 3,
+      "text": "🔢 Number Series Algorithmic Decomposition"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**The Difference-Tree Algorithm:**",
+        "**Level 1 Difference ((Delta_1)):** If sequence grows slowly/linearly, compute consecutive differences.",
+        "**Level 2 Difference ((Delta_2)):** If (Delta_1) is not constant, compute second differences. Constant (Delta_2 implies) underlying quadratic pattern ((an^2 + bn + c)).",
+        "**Level 3 Difference ((Delta_3)):** Constant (Delta_3 implies) cubic pattern ((n^3 pm k)).",
+        "**Multiplication & Addition Patterns ((\times k pm m)):**",
+        "Observe ratio between adjacent high-value terms: (\frac{T_n}{T_{n-1}}). If ratio is approximately 2.5, 3, 3.5, 4, the pattern is (T_n = T_{n-1} \times k + f(n)).",
+        "**Wrong Number Series Diagnostic:**",
+        "In a single-error sequence, one incorrect term creates **TWO consecutive anomalous differences** in (Delta_1) and **THREE anomalous values** in (Delta_2). The term at the intersection of the anomaly is the wrong number!"
+      ]
     },
     {
       "id": "blk-qsec5-1-trap",

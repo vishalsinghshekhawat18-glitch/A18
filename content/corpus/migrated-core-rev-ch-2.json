@@ -38,17 +38,80 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. British Charter & Government of India Acts Flash Table\n| Act | Key Constitutional Innovation | Major Historical Trap |\n|---|---|---|\n| **Regulating Act 1773** | Created Supreme Court at Calcutta; Gov-Gen of Bengal | Warren Hastings was 1st Gov-Gen of **Bengal** (NOT India!) |\n| **Charter Act 1813** | Ended EIC trade monopoly EXCEPT in **Tea and China trade** | Allowed Christian missionaries to enter India legally |\n| **Charter Act 1833** | **Total end of EIC commercial trade monopoly**; Gov-Gen of India | Lord William Bentinck became 1st Governor-General of **India** |\n| **Govt of India Act 1858** | Transfer of power to British Crown; Secretary of State | Lord Canning became 1st **Viceroy of India** |\n| **Indian Councils Act 1909** | **Morley-Minto Reforms:** Separate electorates for Muslims | Introduced communal representation into Indian legislature |\n| **Govt of India Act 1919** | **Montagu-Chelmsford Reforms:** Dyarchy in **Provinces** | Divided provincial subjects into Transferred & Reserved |\n| **Govt of India Act 1935** | **Provincial Autonomy**; proposed All-India Federation | Dyarchy shifted from Provinces to **Center** |"
+      "text": "⚡ 1. British Charter & Government of India Acts Flash Table"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Act",
+        "Key Constitutional Innovation",
+        "Major Historical Trap"
+      ],
+      "rows": [
+        [
+          "**Regulating Act 1773**",
+          "Created Supreme Court at Calcutta; Gov-Gen of Bengal",
+          "Warren Hastings was 1st Gov-Gen of **Bengal** (NOT India!)"
+        ],
+        [
+          "**Charter Act 1813**",
+          "Ended EIC trade monopoly EXCEPT in **Tea and China trade**",
+          "Allowed Christian missionaries to enter India legally"
+        ],
+        [
+          "**Charter Act 1833**",
+          "**Total end of EIC commercial trade monopoly**; Gov-Gen of India",
+          "Lord William Bentinck became 1st Governor-General of **India**"
+        ],
+        [
+          "**Govt of India Act 1858**",
+          "Transfer of power to British Crown; Secretary of State",
+          "Lord Canning became 1st **Viceroy of India**"
+        ],
+        [
+          "**Indian Councils Act 1909**",
+          "**Morley-Minto Reforms:** Separate electorates for Muslims",
+          "Introduced communal representation into Indian legislature"
+        ],
+        [
+          "**Govt of India Act 1919**",
+          "**Montagu-Chelmsford Reforms:** Dyarchy in **Provinces**",
+          "Divided provincial subjects into Transferred & Reserved"
+        ],
+        [
+          "**Govt of India Act 1935**",
+          "**Provincial Autonomy**; proposed All-India Federation",
+          "Dyarchy shifted from Provinces to **Center**"
+        ]
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. High-Yield INC Sessions & Resolutions Matrix\n- **1917 Calcutta Session:** **Annie Besant** became the 1st Woman President of INC.\n- **1924 Belgaum Session:** **Mahatma Gandhi** presided over his ONLY INC session!\n- **1925 Kanpur Session:** **Sarojini Naidu** became the 1st **Indian** Woman President of INC.\n- **1929 Lahore Session:** Jawaharlal Nehru presided; passed **Purna Swaraj** (Complete Independence) resolution; unfurled tricolor on Ravi bank (Jan 26 declared Independence Day).\n- **1931 Karachi Session:** Vallabhbhai Patel presided; adopted resolutions on **Fundamental Rights** and **National Economic Programme** (drafted by Nehru)."
+      "text": "📖 2. High-Yield INC Sessions & Resolutions Matrix"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**1917 Calcutta Session:** **Annie Besant** became the 1st Woman President of INC.",
+        "**1924 Belgaum Session:** **Mahatma Gandhi** presided over his ONLY INC session!",
+        "**1925 Kanpur Session:** **Sarojini Naidu** became the 1st **Indian** Woman President of INC.",
+        "**1929 Lahore Session:** Jawaharlal Nehru presided; passed **Purna Swaraj** (Complete Independence) resolution; unfurled tricolor on Ravi bank (Jan 26 declared Independence Day).",
+        "**1931 Karachi Session:** Vallabhbhai Patel presided; adopted resolutions on **Fundamental Rights** and **National Economic Programme** (drafted by Nehru)."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** 1st Woman INC President was **Annie Besant** (1917), but 1st **INDIAN** Woman INC President was **Sarojini Naidu** (1925)!\n- ⚠️ **Exam Trap 2:** Dyarchy was introduced in **PROVINCES** by the 1919 Act, and abolished in provinces (shifted to Center) by the **1935 Act**."
+      "text": "⚖3. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** 1st Woman INC President was **Annie Besant** (1917), but 1st **INDIAN** Woman INC President was **Sarojini Naidu** (1925)!"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** Dyarchy was introduced in **PROVINCES** by the 1919 Act, and abolished in provinces (shifted to Center) by the **1935 Act**."
     },
     {
       "type": "heading",

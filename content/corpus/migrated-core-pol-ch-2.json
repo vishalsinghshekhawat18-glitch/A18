@@ -46,12 +46,73 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Beginner Jargon Unpack\n- **Dyarchy:** Dual government system introduced by 1919 Act where provincial subjects were split into **Transferred** (administered by ministers) and **Reserved** (administered by Governor/Executive Council).\n- **Provincial Autonomy:** System under 1935 Act abolishing provincial dyarchy and granting independent executive/legislative authority to provinces.\n- **Communal Electorate:** System where voters of a specific religion elect representatives of their own religion only (introduced 1909 for Muslims, expanded 1919 & 1935)."
+      "text": "⚡ 1. Beginner Jargon Unpack"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Dyarchy:** Dual government system introduced by 1919 Act where provincial subjects were split into **Transferred** (administered by ministers) and **Reserved** (administered by Governor/Executive Council).",
+        "**Provincial Autonomy:** System under 1935 Act abolishing provincial dyarchy and granting independent executive/legislative authority to provinces.",
+        "**Communal Electorate:** System where voters of a specific religion elect representatives of their own religion only (introduced 1909 for Muslims, expanded 1919 & 1935)."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. Layer 1: Comprehensive Act Comparison Matrix\n| Act | Executive Change | Legislative Change | Judicial / Service Change |\n|---|---|---|---|\n| **1773 Regulating Act** | Governor-General of Bengal + 4 Councilors | Bengal Council ordinance power | Supreme Court at Fort William (Calcutta 1774) |\n| **1833 Charter Act** | Governor-General of India | Legislative Member added (Macaulay) | Law Commission established |\n| **1853 Charter Act** | Separation of Exec & Leg functions | 6 Legislative Councilors added | Open Civil Services Exam (Macaulay 1854) |\n| **1858 Crown Rule** | Viceroy + Secretary of State (15 members) | Imperial Legislative Council | Direct British Crown Administration |\n| **1909 Morley-Minto** | Indian in Viceroy Council (S.P. Sinha) | Non-official majority in provinces | Separate Muslim Electorates |\n| **1919 Mont-Ford** | Dyarchy in Provinces | Central Bicameralism (Council of State + Assembly) | Public Service Commission established (1926) |\n| **1935 GOI Act** | All-India Federation proposed | Provincial Autonomy + 3 Lists | Federal Court established at Delhi (1937) |"
+      "text": "📖 2. Layer 1: Comprehensive Act Comparison Matrix"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Act",
+        "Executive Change",
+        "Legislative Change",
+        "Judicial / Service Change"
+      ],
+      "rows": [
+        [
+          "**1773 Regulating Act**",
+          "Governor-General of Bengal + 4 Councilors",
+          "Bengal Council ordinance power",
+          "Supreme Court at Fort William (Calcutta 1774)"
+        ],
+        [
+          "**1833 Charter Act**",
+          "Governor-General of India",
+          "Legislative Member added (Macaulay)",
+          "Law Commission established"
+        ],
+        [
+          "**1853 Charter Act**",
+          "Separation of Exec & Leg functions",
+          "6 Legislative Councilors added",
+          "Open Civil Services Exam (Macaulay 1854)"
+        ],
+        [
+          "**1858 Crown Rule**",
+          "Viceroy + Secretary of State (15 members)",
+          "Imperial Legislative Council",
+          "Direct British Crown Administration"
+        ],
+        [
+          "**1909 Morley-Minto**",
+          "Indian in Viceroy Council (S.P. Sinha)",
+          "Non-official majority in provinces",
+          "Separate Muslim Electorates"
+        ],
+        [
+          "**1919 Mont-Ford**",
+          "Dyarchy in Provinces",
+          "Central Bicameralism (Council of State + Assembly)",
+          "Public Service Commission established (1926)"
+        ],
+        [
+          "**1935 GOI Act**",
+          "All-India Federation proposed",
+          "Provincial Autonomy + 3 Lists",
+          "Federal Court established at Delhi (1937)"
+        ]
+      ]
     },
     {
       "type": "paragraph",
@@ -60,31 +121,77 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "🧠 3. Layer 2: Underlying Reasoning (\"The Why\")\nWhy did the British introduce **Dyarchy in 1919**, but replace it with **Provincial Autonomy in 1935**?\n1. Dyarchy failed because Governors retained control over key revenue subjects (\"Reserved\"), starving popular ministers of funds (\"Transferred\").\n2. The Simon Commission (1927) and Round Table Conferences (1930–32) recommended abolishing provincial dyarchy to appease nationalist demands, leading to Provincial Autonomy in 1935."
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "🧮 4. Layer 3: Worked Application (Practical Governance Scenario)\n**Scenario:** A legal scholar examines where the 1950 Indian Constitution derived its 3 Legislative Lists (Union, State, Concurrent)."
+      "text": "🧠 3. Layer 2: Underlying Reasoning (\"The Why\")"
     },
     {
       "type": "paragraph",
-      "content": "**Step-by-Step Resolution:**\n1. Under GOI Act 1935, List I = Federal List (59 items), List II = Provincial List (54 items), List III = Concurrent List (36 items).\n2. Under 1950 Constitution: Union List (originally 97, now 100), State List (originally 66, now 61), Concurrent List (originally 47, now 52).\n3. Residual powers shifted from Governor-General (1935) to Union Parliament under Article 248 (1950)."
+      "content": "Why did the British introduce **Dyarchy in 1919**, but replace it with **Provincial Autonomy in 1935**?"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Dyarchy failed because Governors retained control over key revenue subjects (\"Reserved\"), starving popular ministers of funds (\"Transferred\").",
+        "The Simon Commission (1927) and Round Table Conferences (1930–32) recommended abolishing provincial dyarchy to appease nationalist demands, leading to Provincial Autonomy in 1935."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "🏛️ 5. Concrete Anchor (Case Study)\n**The Federal Court of India (1937–1950):** Established under the 1935 Act, chaired by Sir Maurice Gwyer as first Chief Justice, functioned in Delhi until succeeded by the Supreme Court of India on Jan 28, 1950."
+      "text": "🧮 4. Layer 3: Worked Application (Practical Governance Scenario)"
+    },
+    {
+      "type": "paragraph",
+      "content": "**Scenario:** A legal scholar examines where the 1950 Indian Constitution derived its 3 Legislative Lists (Union, State, Concurrent)."
+    },
+    {
+      "type": "paragraph",
+      "content": "**Step-by-Step Resolution:**"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Under GOI Act 1935, List I = Federal List (59 items), List II = Provincial List (54 items), List III = Concurrent List (36 items).",
+        "Under 1950 Constitution: Union List (originally 97, now 100), State List (originally 66, now 61), Concurrent List (originally 47, now 52).",
+        "Residual powers shifted from Governor-General (1935) to Union Parliament under Article 248 (1950)."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 6. Debates & Controversies\n**\"A Machine with All Brakes and No Engine\":**\n- *The Controversy:* Jawaharlal Nehru criticized the 1935 Act as \"a machine with strong brakes but no engine\" due to Governor veto powers.\n- *Phase 2 Core Question:* \"The 1950 Constitution is essentially a refined edition of the 1935 Act.\" Critically evaluate."
+      "text": "🏛️ 5. Concrete Anchor (Case Study)"
+    },
+    {
+      "type": "paragraph",
+      "content": "**The Federal Court of India (1937–1950):** Established under the 1935 Act, chaired by Sir Maurice Gwyer as first Chief Justice, functioned in Delhi until succeeded by the Supreme Court of India on Jan 28, 1950."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "❓ 7. 3-Tier Practice & Retention Section\n- **Tier 1 (Recall MCQ):** Under the GOI Act 1935, Residual Powers were assigned to: (A: Federal Assembly, B: Provincial Assembly, **C: Governor-General**, D: Federal Court) [Correct: C].\n- **Tier 2 (Applied Scenario):** Trace the evolution of civil services recruitment from Charter Act 1853 to Article 315.\n- **Tier 3 (Mains Prompt):** *'Analyze how colonial legislative acts incrementally shaped modern Indian parliamentary democracy.'*"
+      "text": "⚖️ 6. Debates & Controversies"
+    },
+    {
+      "type": "paragraph",
+      "content": "**\"A Machine with All Brakes and No Engine\":**"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "*The Controversy:* Jawaharlal Nehru criticized the 1935 Act as \"a machine with strong brakes but no engine\" due to Governor veto powers.",
+        "*Phase 2 Core Question:* \"The 1950 Constitution is essentially a refined edition of the 1935 Act.\" Critically evaluate."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 7. 3-Tier Practice & Retention Section"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Tier 1 (Recall MCQ):** Under the GOI Act 1935, Residual Powers were assigned to: (A: Federal Assembly, B: Provincial Assembly, **C: Governor-General**, D: Federal Court) [Correct: C].",
+        "**Tier 2 (Applied Scenario):** Trace the evolution of civil services recruitment from Charter Act 1853 to Article 315.",
+        "**Tier 3 (Mains Prompt):** *'Analyze how colonial legislative acts incrementally shaped modern Indian parliamentary democracy.'*"
+      ]
     },
     {
       "id": "blk-migrated-core-pol-ch-2-exam-trap",

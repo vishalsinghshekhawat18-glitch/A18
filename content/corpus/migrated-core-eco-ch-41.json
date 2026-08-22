@@ -38,17 +38,75 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Primary Financial Regulators Summary Table\n| Regulator | Statutory Act & Year | Primary Sectoral Jurisdiction | Headquarters |\n|---|---|---|---|\n| **RBI** | RBI Act 1934 | Monetary Policy, Banking System, Payment Systems, Forex | Mumbai |\n| **SEBI** | SEBI Act 1992 | Capital Markets, Stock Exchanges, Mutual Funds, Commodities | Mumbai |\n| **IRDAI** | IRDAI Act 1999 | Insurance and Reinsurance companies | **Hyderabad** |\n| **PFRDA** | PFRDA Act 2013 | Pension Sector, National Pension System (NPS) | New Delhi |\n| **IFSCA** | IFSCA Act 2019 | Offshore International Financial Services Centres (GIFT City) | **GIFT City, Gandhinagar** |"
+      "text": "⚡ 1. Primary Financial Regulators Summary Table"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Regulator",
+        "Statutory Act & Year",
+        "Primary Sectoral Jurisdiction",
+        "Headquarters"
+      ],
+      "rows": [
+        [
+          "**RBI**",
+          "RBI Act 1934",
+          "Monetary Policy, Banking System, Payment Systems, Forex",
+          "Mumbai"
+        ],
+        [
+          "**SEBI**",
+          "SEBI Act 1992",
+          "Capital Markets, Stock Exchanges, Mutual Funds, Commodities",
+          "Mumbai"
+        ],
+        [
+          "**IRDAI**",
+          "IRDAI Act 1999",
+          "Insurance and Reinsurance companies",
+          "**Hyderabad**"
+        ],
+        [
+          "**PFRDA**",
+          "PFRDA Act 2013",
+          "Pension Sector, National Pension System (NPS)",
+          "New Delhi"
+        ],
+        [
+          "**IFSCA**",
+          "IFSCA Act 2019",
+          "Offshore International Financial Services Centres (GIFT City)",
+          "**GIFT City, Gandhinagar**"
+        ]
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. Financial Stability and Development Council (FSDC)\n- **Establishment:** Set up in December 2010 based on **Raghuram Rajan Committee** recommendations.\n- **Chairperson:** **Union Finance Minister**.\n- **Members:** RBI Governor, SEBI Chairman, IRDAI Chairman, PFRDA Chairman, IFSCA Chairman, Finance Secretary, Chief Economic Adviser.\n- **Sub-Committee of FSDC:** Chaired by **RBI Governor**."
+      "text": "📖 2. Financial Stability and Development Council (FSDC)"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Establishment:** Set up in December 2010 based on **Raghuram Rajan Committee** recommendations.",
+        "**Chairperson:** **Union Finance Minister**.",
+        "**Members:** RBI Governor, SEBI Chairman, IRDAI Chairman, PFRDA Chairman, IFSCA Chairman, Finance Secretary, Chief Economic Adviser.",
+        "**Sub-Committee of FSDC:** Chaired by **RBI Governor**."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** The Financial Stability and Development Council (FSDC) is chaired by the **Union Finance Minister**, but its Sub-Committee is chaired by the **RBI Governor**!\n- ⚠️ **Exam Trap 2:** IRDAI headquarters is located in **Hyderabad** (not Mumbai or Delhi!). IFSCA headquarters is in **GIFT City, Gandhinagar**."
+      "text": "⚖️ 3. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** The Financial Stability and Development Council (FSDC) is chaired by the **Union Finance Minister**, but its Sub-Committee is chaired by the **RBI Governor**!"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** IRDAI headquarters is located in **Hyderabad** (not Mumbai or Delhi!). IFSCA headquarters is in **GIFT City, Gandhinagar**."
     },
     {
       "type": "heading",

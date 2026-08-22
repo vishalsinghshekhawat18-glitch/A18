@@ -44,26 +44,98 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Nominal GDP vs. Real GDP Matrix\n| Feature | Nominal GDP | Real GDP |\n|---|---|---|\n| **Price Valuation** | Current year market prices ($P_t$) | Constant base year prices ($P_0$, currently 2011-12 in India) |\n| **Inflation Influence** | High (can increase even if physical output falls!) | Zero (reflects purely physical volume changes $\\Delta Q$) |\n| **Comparison Utility** | Useful for current debt-to-GDP ratios | Standard for comparing true economic growth over time |\n| **Formula** | $\\sum (P_{\\text{current}} \\times Q_{\\text{current}})$ | $\\sum (P_{\\text{base}} \\times Q_{\\text{current}})$ |"
+      "text": "⚡ 1. Nominal GDP vs. Real GDP Matrix"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Feature",
+        "Nominal GDP",
+        "Real GDP"
+      ],
+      "rows": [
+        [
+          "**Price Valuation**",
+          "Current year market prices ($P_t$)",
+          "Constant base year prices ($P_0$, currently 2011-12 in India)"
+        ],
+        [
+          "**Inflation Influence**",
+          "High (can increase even if physical output falls!)",
+          "Zero (reflects purely physical volume changes $\\Delta Q$)"
+        ],
+        [
+          "**Comparison Utility**",
+          "Useful for current debt-to-GDP ratios",
+          "Standard for comparing true economic growth over time"
+        ],
+        [
+          "**Formula**",
+          "$\\sum (P_{\\text{current}} \\times Q_{\\text{current}})$",
+          "$\\sum (P_{\\text{base}} \\times Q_{\\text{current}})$"
+        ]
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. GDP Deflator vs. Consumer Price Index (CPI)\n$$\\mathbf{\\text{GDP Deflator} = \\left( \\frac{\\text{Nominal GDP}}{\\text{Real GDP}} \\right) \\times 100}$$"
+      "text": "📖 2. GDP Deflator vs. Consumer Price Index (CPI)"
     },
     {
-      "type": "paragraph",
-      "content": "| Parameter | GDP Deflator | Consumer Price Index (CPI) |\n|---|---|---|\n| **Goods Covered** | ALL domestically produced goods and services | Fixed basket of consumer goods and services |\n| **Imported Goods** | **EXCLUDED** (only domestic output included) | **INCLUDED** if consumed by households (e.g. imported edible oil) |\n| **Weighting System** | Dynamic / Paasche index (weights change with output composition) | Fixed basket weights / Laspeyres index |"
+      "type": "formula",
+      "latex": "\\mathbf{\\text{GDP Deflator} = \\left( \\frac{\\text{Nominal GDP}}{\\text{Real GDP}} \\right) \\times 100}",
+      "explanation": ""
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Parameter",
+        "GDP Deflator",
+        "Consumer Price Index (CPI)"
+      ],
+      "rows": [
+        [
+          "**Goods Covered**",
+          "ALL domestically produced goods and services",
+          "Fixed basket of consumer goods and services"
+        ],
+        [
+          "**Imported Goods**",
+          "**EXCLUDED** (only domestic output included)",
+          "**INCLUDED** if consumed by households (e.g. imported edible oil)"
+        ],
+        [
+          "**Weighting System**",
+          "Dynamic / Paasche index (weights change with output composition)",
+          "Fixed basket weights / Laspeyres index"
+        ]
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "🏛️ 3. Green GDP & Environmental Economic Accounting\n- **Concept:** Standard GDP treats natural resource depletion as income rather than capital loss. Green GDP adjusts standard GDP for environmental externalities.\n- **Formula:** $\\text{Green GDP} = \\text{GDP} - \\text{Natural Resource Depletion} - \\text{Environmental Damage Costs}$.\n- **Global Framework:** UN **System of Environmental-Economic Accounting (SEEA)** framework."
+      "text": "🏛️ 3. Green GDP & Environmental Economic Accounting"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Concept:** Standard GDP treats natural resource depletion as income rather than capital loss. Green GDP adjusts standard GDP for environmental externalities.",
+        "**Formula:** $\\text{Green GDP} = \\text{GDP} - \\text{Natural Resource Depletion} - \\text{Environmental Damage Costs}$.",
+        "**Global Framework:** UN **System of Environmental-Economic Accounting (SEEA)** framework."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 4. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** If Nominal GDP grows by 10% and Inflation is 4%, Real GDP growth is approximately **6%** ($10% - 4%$). Nominal growth alone does NOT mean physical output expanded by 10%!\n- ⚠️ **Exam Trap 2:** GDP Deflator includes capital goods (machinery) and government services, whereas CPI includes only consumer goods."
+      "text": "⚖️ 4. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** If Nominal GDP grows by 10% and Inflation is 4%, Real GDP growth is approximately **6%** ($10% - 4%$). Nominal growth alone does NOT mean physical output expanded by 10%!"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** GDP Deflator includes capital goods (machinery) and government services, whereas CPI includes only consumer goods."
     },
     {
       "type": "heading",

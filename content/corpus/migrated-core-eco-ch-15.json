@@ -38,31 +38,95 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Speed Classification of Inflation\n- **Creeping Inflation:** Mild and predictable price rise ($1\\% \\text{ to } 3\\%$ per annum). Considered beneficial for economic growth as it encourages investment.\n- **Walking / Trotting Inflation:** Moderate price rise ($3\\% \\text{ to } 7\\%$ per annum). Warning signal for central bank intervention.\n- **Galloping Inflation:** Dual/triple-digit rapid price rise ($20\\% \\text{ to } 100\\%$ per annum). Severely erodes currency purchasing power.\n- **Hyperinflation:** Out-of-control exponential price surge ($>50\\%$ per month or $>1000\\%$ per annum, e.g. Weimar Germany 1923, Zimbabwe 2008)."
+      "text": "⚡ 1. Speed Classification of Inflation"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Creeping Inflation:** Mild and predictable price rise ($1\\% \\text{ to } 3\\%$ per annum). Considered beneficial for economic growth as it encourages investment.",
+        "**Walking / Trotting Inflation:** Moderate price rise ($3\\% \\text{ to } 7\\%$ per annum). Warning signal for central bank intervention.",
+        "**Galloping Inflation:** Dual/triple-digit rapid price rise ($20\\% \\text{ to } 100\\%$ per annum). Severely erodes currency purchasing power.",
+        "**Hyperinflation:** Out-of-control exponential price surge ($>50\\%$ per month or $>1000\\%$ per annum, e.g. Weimar Germany 1923, Zimbabwe 2008)."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. Demand-Pull vs. Cost-Push Inflation Matrix\n| Feature | Demand-Pull Inflation | Cost-Push Inflation |\n|---|---|---|\n| **Primary Cause** | Surge in Aggregate Demand ($AD$ shifts right) | Supply disruption / Input cost surge ($AS$ shifts left) |\n| **Output Impact** | Real GDP increases initially above potential | Real GDP decreases (Stagflation risk!) |\n| **Triggers** | High Govt spending, low Repo rates, tax cuts | Crude oil shocks, crop failures, currency depreciation |\n| **Monetary Remedy** | Repo rate hikes, CRR hikes, OMO bond sales | Supply management, tariff cuts, strategic reserve releases |"
+      "text": "📖 2. Demand-Pull vs. Cost-Push Inflation Matrix"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Feature",
+        "Demand-Pull Inflation",
+        "Cost-Push Inflation"
+      ],
+      "rows": [
+        [
+          "**Primary Cause**",
+          "Surge in Aggregate Demand ($AD$ shifts right)",
+          "Supply disruption / Input cost surge ($AS$ shifts left)"
+        ],
+        [
+          "**Output Impact**",
+          "Real GDP increases initially above potential",
+          "Real GDP decreases (Stagflation risk!)"
+        ],
+        [
+          "**Triggers**",
+          "High Govt spending, low Repo rates, tax cuts",
+          "Crude oil shocks, crop failures, currency depreciation"
+        ],
+        [
+          "**Monetary Remedy**",
+          "Repo rate hikes, CRR hikes, OMO bond sales",
+          "Supply management, tariff cuts, strategic reserve releases"
+        ]
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "🧮 3. The Phillips Curve & NAIRU Analysis\nDeveloped by A.W. Phillips (1958) studying UK wage and unemployment data:"
+      "text": "🧮 3. The Phillips Curve & NAIRU Analysis"
     },
     {
       "type": "paragraph",
-      "content": "- **Short-Run Phillips Curve (SRPC):** Demonstrates an **inverse trade-off** between inflation rate and unemployment rate. To reduce unemployment, central bank allows higher inflation (monetary expansion).\n- **Stagflation Breakdown (1970s Oil Shocks):** High Inflation AND High Unemployment occurring simultaneously, causing SRPC to collapse!\n- **Long-Run Phillips Curve (LRPC):** Proposed by Milton Friedman & Edmund Phelps. In the long run, there is **no trade-off**. LRPC is a **vertical line** at the **NAIRU** (Non-Accelerating Inflation Rate of Unemployment / Natural Rate)."
+      "content": "Developed by A.W. Phillips (1958) studying UK wage and unemployment data:"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Short-Run Phillips Curve (SRPC):** Demonstrates an **inverse trade-off** between inflation rate and unemployment rate. To reduce unemployment, central bank allows higher inflation (monetary expansion).",
+        "**Stagflation Breakdown (1970s Oil Shocks):** High Inflation AND High Unemployment occurring simultaneously, causing SRPC to collapse!",
+        "**Long-Run Phillips Curve (LRPC):** Proposed by Milton Friedman & Edmund Phelps. In the long run, there is **no trade-off**. LRPC is a **vertical line** at the **NAIRU** (Non-Accelerating Inflation Rate of Unemployment / Natural Rate)."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "🏛️ 4. Related Inflationary Concepts\n- **Stagflation:** Stagnant growth (recession/low GDP) + High Inflation + High Unemployment.\n- **Reflation:** Deliberate policy actions to restore prices to normal levels after a period of deflation/recession.\n- **Disinflation:** A reduction in the *rate of inflation* (e.g., inflation falling from 7% to 4%; prices are still rising, but at a slower speed!).\n- **Deflation:** Sustained decrease in general price level (negative inflation rate, e.g., $-1\\%$)."
+      "text": "🏛️ 4. Related Inflationary Concepts"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Stagflation:** Stagnant growth (recession/low GDP) + High Inflation + High Unemployment.",
+        "**Reflation:** Deliberate policy actions to restore prices to normal levels after a period of deflation/recession.",
+        "**Disinflation:** A reduction in the *rate of inflation* (e.g., inflation falling from 7% to 4%; prices are still rising, but at a slower speed!).",
+        "**Deflation:** Sustained decrease in general price level (negative inflation rate, e.g., $-1\\%$)."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 5. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Disinflation is NOT Deflation! Under Disinflation, inflation rate is positive but declining ($6\\% \\rightarrow 4\\%$). Under Deflation, inflation rate is **negative** (prices absolute fall).\n- ⚠️ **Exam Trap 2:** Core Inflation is less volatile than Headline Inflation because it excludes Food and Fuel items. In India, RBI targets **Headline CPI inflation** ($4\\% \\pm 2\\%$) under the Flexible Inflation Targeting framework."
+      "text": "⚖️ 5. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** Disinflation is NOT Deflation! Under Disinflation, inflation rate is positive but declining ($6\\% \\rightarrow 4\\%$). Under Deflation, inflation rate is **negative** (prices absolute fall)."
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** Core Inflation is less volatile than Headline Inflation because it excludes Food and Fuel items. In India, RBI targets **Headline CPI inflation** ($4\\% \\pm 2\\%$) under the Flexible Inflation Targeting framework."
     },
     {
       "type": "heading",

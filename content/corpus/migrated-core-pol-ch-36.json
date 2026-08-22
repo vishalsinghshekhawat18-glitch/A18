@@ -38,12 +38,79 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Beginner Jargon Unpack\n- **Article 315:** Mandatory establishment of UPSC for Centre and SPSC (e.g. RPSC) for States.\n- **Satyanarayan Rao Committee (1956):** Reorganisation committee that recommended shifting RPSC headquarters from Jaipur to Ajmer and High Court principal bench to Jodhpur.\n- **Article 320:** Functions of PSC (Conduct examinations, consultation on recruitment rules, disciplinary matters, transfers)."
+      "text": "⚡ 1. Beginner Jargon Unpack"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Article 315:** Mandatory establishment of UPSC for Centre and SPSC (e.g. RPSC) for States.",
+        "**Satyanarayan Rao Committee (1956):** Reorganisation committee that recommended shifting RPSC headquarters from Jaipur to Ajmer and High Court principal bench to Jodhpur.",
+        "**Article 320:** Functions of PSC (Conduct examinations, consultation on recruitment rules, disciplinary matters, transfers)."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. Layer 1: RPSC vs UPSC Comparative Matrix\n| Feature / Parameter | UPSC (Union) | RPSC (Rajasthan SPSC) | Joint PSC (JPSC) |\n|---|---|---|---|\n| **Constitutional Provision** | Article 315 | Article 315 | Article 315(2) (Statutory Body!) |\n| **Appointment Authority** | President | **Governor** | President |\n| **Tenure & Age Limit** | 6 years or 65 years age | **6 years or 62 years age** | 6 years or 62 years age |\n| **Removal Authority** | President (Art 317) | **PRESIDENT ONLY (Not Governor!)** | President |\n| **Annual Report Submission** | President (Art 323) | **Governor (Art 323)** | Respective Governors |\n| **RPSC First Chairman** | — | **Sir S.K. Ghosh** (Chief Justice of Rajasthan HC in 1949) | — |\n| **RPSC Longest Serving Chair** | — | **Devendra Singh (D.S.) Tewari** | — |\n| **RPSC Shortest Tenure Chair** | — | **P.S. Yadav** (Only 37 days!) | — |"
+      "text": "📖 2. Layer 1: RPSC vs UPSC Comparative Matrix"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Feature / Parameter",
+        "UPSC (Union)",
+        "RPSC (Rajasthan SPSC)",
+        "Joint PSC (JPSC)"
+      ],
+      "rows": [
+        [
+          "**Constitutional Provision**",
+          "Article 315",
+          "Article 315",
+          "Article 315(2) (Statutory Body!)"
+        ],
+        [
+          "**Appointment Authority**",
+          "President",
+          "**Governor**",
+          "President"
+        ],
+        [
+          "**Tenure & Age Limit**",
+          "6 years or 65 years age",
+          "**6 years or 62 years age**",
+          "6 years or 62 years age"
+        ],
+        [
+          "**Removal Authority**",
+          "President (Art 317)",
+          "**PRESIDENT ONLY (Not Governor!)**",
+          "President"
+        ],
+        [
+          "**Annual Report Submission**",
+          "President (Art 323)",
+          "**Governor (Art 323)**",
+          "Respective Governors"
+        ],
+        [
+          "**RPSC First Chairman**",
+          "—",
+          "**Sir S.K. Ghosh** (Chief Justice of Rajasthan HC in 1949)",
+          "—"
+        ],
+        [
+          "**RPSC Longest Serving Chair**",
+          "—",
+          "**Devendra Singh (D.S.) Tewari**",
+          "—"
+        ],
+        [
+          "**RPSC Shortest Tenure Chair**",
+          "—",
+          "**P.S. Yadav** (Only 37 days!)",
+          "—"
+        ]
+      ]
     },
     {
       "type": "paragraph",
@@ -52,31 +119,78 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "🧠 3. Layer 2: Underlying Reasoning (\"The Why\")\nWhy can the **Governor appoint RPSC members**, but **ONLY the President remove them** under Article 317?\n1. To ensure complete institutional independence from state political interference and local executive pressure.\n2. Requiring a mandatory Supreme Court reference and Presidential removal order provides constitutional immunity against arbitrary dismissal by state ruling parties."
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "🧮 4. Layer 3: Worked Diagnostic Scenario (Removal Procedure)\n**Scenario:** A State Government attempts to dismiss an RPSC member by passing a cabinet resolution alleging misbehavior."
+      "text": "🧠 3. Layer 2: Underlying Reasoning (\"The Why\")"
     },
     {
       "type": "paragraph",
-      "content": "**Step-by-Step Resolution:**\n1. State Cabinet has **NO legal authority** to dismiss an RPSC member.\n2. The Governor must forward charges to the **President of India**.\n3. President refers matter to **Supreme Court under Article 317(1)**.\n4. If SC inquiry finds member guilty of misbehavior, SC recommends removal $\rightarrow$ President issues removal order."
+      "content": "Why can the **Governor appoint RPSC members**, but **ONLY the President remove them** under Article 317?"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "To ensure complete institutional independence from state political interference and local executive pressure.",
+        "Requiring a mandatory Supreme Court reference and Presidential removal order provides constitutional immunity against arbitrary dismissal by state ruling parties."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "🏛️ 5. Concrete Anchor (RPSC History Landmark)\n**Aug 20, 1949 Notification:** Published in Rajpatra under Ordinance 23 of 1949, establishing RPSC with 3 members initially (Sir S.K. Ghosh, Devi Shankar Tiwari, Chandradhar Sharma)."
+      "text": "🧮 4. Layer 3: Worked Diagnostic Scenario (Removal Procedure)"
+    },
+    {
+      "type": "paragraph",
+      "content": "**Scenario:** A State Government attempts to dismiss an RPSC member by passing a cabinet resolution alleging misbehavior."
+    },
+    {
+      "type": "paragraph",
+      "content": "**Step-by-Step Resolution:**"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "State Cabinet has **NO legal authority** to dismiss an RPSC member.",
+        "The Governor must forward charges to the **President of India**.",
+        "President refers matter to **Supreme Court under Article 317(1)**.",
+        "If SC inquiry finds member guilty of misbehavior, SC recommends removal $\rightarrow$ President issues removal order."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 6. Debates & Examination Reforms\n**RPSC Exam Reliability & Paper Leak Safeguards:**\n- *The Controversy:* Paper leak incidents and recruitment delays prompting demands for mandatory bio-metric identification, strict penal acts (Rajasthan Public Examination Act 2022), and fast-track IT auditing.\n- *Phase 2 Core Question:* \"Evaluate the constitutional safeguards for State PSCs and measures to restore institutional integrity in public examinations.\""
+      "text": "🏛️ 5. Concrete Anchor (RPSC History Landmark)"
+    },
+    {
+      "type": "paragraph",
+      "content": "**Aug 20, 1949 Notification:** Published in Rajpatra under Ordinance 23 of 1949, establishing RPSC with 3 members initially (Sir S.K. Ghosh, Devi Shankar Tiwari, Chandradhar Sharma)."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "❓ 7. 3-Tier Practice & Retention Section\n- **Tier 1 (Recall MCQ):** On whose recommendation was RPSC headquarters shifted from Jaipur to Ajmer in 1956? (A: Dhar Commission, **B: Satyanarayan Rao Committee**, C: Fazl Ali Commission, D: Mehta Committee) [Correct: B].\n- **Tier 2 (Applied Scenario):** Differentiate between appointment and removal procedures of RPSC Chairman.\n- **Tier 3 (Mains Prompt):** *'Examine the constitutional role and operational independence of the Rajasthan Public Service Commission under Articles 315 to 323.'*"
+      "text": "⚖️ 6. Debates & Examination Reforms"
+    },
+    {
+      "type": "paragraph",
+      "content": "**RPSC Exam Reliability & Paper Leak Safeguards:**"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "*The Controversy:* Paper leak incidents and recruitment delays prompting demands for mandatory bio-metric identification, strict penal acts (Rajasthan Public Examination Act 2022), and fast-track IT auditing.",
+        "*Phase 2 Core Question:* \"Evaluate the constitutional safeguards for State PSCs and measures to restore institutional integrity in public examinations.\""
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 7. 3-Tier Practice & Retention Section"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Tier 1 (Recall MCQ):** On whose recommendation was RPSC headquarters shifted from Jaipur to Ajmer in 1956? (A: Dhar Commission, **B: Satyanarayan Rao Committee**, C: Fazl Ali Commission, D: Mehta Committee) [Correct: B].",
+        "**Tier 2 (Applied Scenario):** Differentiate between appointment and removal procedures of RPSC Chairman.",
+        "**Tier 3 (Mains Prompt):** *'Examine the constitutional role and operational independence of the Rajasthan Public Service Commission under Articles 315 to 323.'*"
+      ]
     },
     {
       "id": "blk-migrated-core-pol-ch-36-exam-trap",

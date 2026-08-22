@@ -41,7 +41,23 @@
     },
     {
       "type": "paragraph",
-      "content": "**Dear Mr. Sharma,**\n\nI am writing to formally request a leave of absence for five working days, starting from June 10, 2026, to June 14, 2026.\n\nThe primary reason for this leave is to attend to an unforeseen family medical emergency that requires my immediate presence out of the city. Over the past week, I have diligently ensured that all my pending tasks, including the daily reconciliation and clearance reports, are fully updated and submitted. Furthermore, I have thoroughly briefed my colleague, Mr. Ankit Verma, regarding my ongoing loan processing assignments. He has kindly agreed to oversee my desk and attend to any critical customer inquiries during my absence to ensure uninterrupted branch operations.\n\nI will resume my duties on June 15, 2026. I will remain reachable on my mobile phone for any urgent branch-related queries. I kindly request you to consider and approve my leave application at your earliest convenience.\n\n**Sincerely,**  \nAmit Kumar  \nProbationary Officer (PO)  \nEmployee ID: SBI987654"
+      "content": "**Dear Mr. Sharma,**"
+    },
+    {
+      "type": "paragraph",
+      "content": "I am writing to formally request a leave of absence for five working days, starting from June 10, 2026, to June 14, 2026."
+    },
+    {
+      "type": "paragraph",
+      "content": "The primary reason for this leave is to attend to an unforeseen family medical emergency that requires my immediate presence out of the city. Over the past week, I have diligently ensured that all my pending tasks, including the daily reconciliation and clearance reports, are fully updated and submitted. Furthermore, I have thoroughly briefed my colleague, Mr. Ankit Verma, regarding my ongoing loan processing assignments. He has kindly agreed to oversee my desk and attend to any critical customer inquiries during my absence to ensure uninterrupted branch operations."
+    },
+    {
+      "type": "paragraph",
+      "content": "I will resume my duties on June 15, 2026. I will remain reachable on my mobile phone for any urgent branch-related queries. I kindly request you to consider and approve my leave application at your earliest convenience."
+    },
+    {
+      "type": "paragraph",
+      "content": "**Sincerely,**  \nAmit Kumar  \nProbationary Officer (PO)  \nEmployee ID: SBI987654"
     },
     {
       "type": "heading",
@@ -63,7 +79,15 @@
     },
     {
       "type": "paragraph",
-      "content": "Financial inclusion in India has witnessed an unprecedented transformation over the last decade, successfully bridging the deep-rooted gap between the unbanked rural population and the formal economy.\n\nSpearheaded by the Pradhan Mantri Jan Dhan Yojana (PMJDY), over 500 million new bank accounts have been opened, primarily targeting marginalized citizens. This massive enrollment, coupled with the JAM trinity (Jan Dhan, Aadhaar, Mobile), has revolutionized the direct benefit transfer (DBT) ecosystem. It effectively plugs financial leakages, ensuring that government subsidies reach the intended beneficiaries instantly. Furthermore, the rapid penetration of the Unified Payments Interface (UPI) has democratized digital transactions, making micro-payments accessible to street vendors and daily wage earners alike. Despite these massive strides, challenges such as digital illiteracy and limited credit penetration in remote areas persist.\n\nUltimately, achieving absolute financial inclusion requires continued investments in digital literacy and tailored micro-credit products, ensuring that equitable economic growth reaches every corner of the nation."
+      "content": "Financial inclusion in India has witnessed an unprecedented transformation over the last decade, successfully bridging the deep-rooted gap between the unbanked rural population and the formal economy."
+    },
+    {
+      "type": "paragraph",
+      "content": "Spearheaded by the Pradhan Mantri Jan Dhan Yojana (PMJDY), over 500 million new bank accounts have been opened, primarily targeting marginalized citizens. This massive enrollment, coupled with the JAM trinity (Jan Dhan, Aadhaar, Mobile), has revolutionized the direct benefit transfer (DBT) ecosystem. It effectively plugs financial leakages, ensuring that government subsidies reach the intended beneficiaries instantly. Furthermore, the rapid penetration of the Unified Payments Interface (UPI) has democratized digital transactions, making micro-payments accessible to street vendors and daily wage earners alike. Despite these massive strides, challenges such as digital illiteracy and limited credit penetration in remote areas persist."
+    },
+    {
+      "type": "paragraph",
+      "content": "Ultimately, achieving absolute financial inclusion requires continued investments in digital literacy and tailored micro-credit products, ensuring that equitable economic growth reaches every corner of the nation."
     },
     {
       "type": "heading",
@@ -84,7 +108,19 @@
     },
     {
       "type": "paragraph",
-      "content": "A panicked customer has approached the branch reporting a fraudulent, unauthorized deduction of ₹25,000 from their savings account. The customer is highly distressed, demanding an immediate reversal of the lost funds and aggressively questioning the bank's digital security infrastructure. This situation presents an immediate financial loss, a severe breach of customer trust, and potential compromise of banking credentials.\n\nIn the modern digital banking era, unauthorized transactions pose a critical operational risk. The bank must swiftly ascertain whether the breach occurred due to a system vulnerability or customer negligence, such as sharing OTPs or passwords. According to RBI guidelines, if the customer reports the fraud within three working days, they bear zero liability provided the fault lies with the bank or a third-party breach.\n\nTo address this, the branch must first immediately block the customer's account and debit cards to prevent further unauthorized debits. Subsequently, staff should register a formal complaint, provide an acknowledgment number, and initiate an internal IT investigation to trace the transaction's origin. The customer must also be guided to file a cyber-police report.\n\nA prompt, empathetic resolution combined with strict adherence to grievance redressal policies will not only facilitate the recovery of funds but also restore the customer's faith in the bank's security protocols."
+      "content": "A panicked customer has approached the branch reporting a fraudulent, unauthorized deduction of ₹25,000 from their savings account. The customer is highly distressed, demanding an immediate reversal of the lost funds and aggressively questioning the bank's digital security infrastructure. This situation presents an immediate financial loss, a severe breach of customer trust, and potential compromise of banking credentials."
+    },
+    {
+      "type": "paragraph",
+      "content": "In the modern digital banking era, unauthorized transactions pose a critical operational risk. The bank must swiftly ascertain whether the breach occurred due to a system vulnerability or customer negligence, such as sharing OTPs or passwords. According to RBI guidelines, if the customer reports the fraud within three working days, they bear zero liability provided the fault lies with the bank or a third-party breach."
+    },
+    {
+      "type": "paragraph",
+      "content": "To address this, the branch must first immediately block the customer's account and debit cards to prevent further unauthorized debits. Subsequently, staff should register a formal complaint, provide an acknowledgment number, and initiate an internal IT investigation to trace the transaction's origin. The customer must also be guided to file a cyber-police report."
+    },
+    {
+      "type": "paragraph",
+      "content": "A prompt, empathetic resolution combined with strict adherence to grievance redressal policies will not only facilitate the recovery of funds but also restore the customer's faith in the bank's security protocols."
     },
     {
       "type": "heading",
@@ -139,8 +175,18 @@
       ]
     },
     {
-      "type": "paragraph",
-      "content": "### 💡 Grammar Identification Highlights:\n- **Passive Voice Construction:** *\"...over 500 million new bank accounts have been opened...\"* (Used in formal reporting to emphasize the action over the doer). Source: Report Writing\n- **Gerund Phrase:** *\"...bridging the deep-rooted gap...\"* (A verb ending in -ing functioning as a noun phrase). Source: Report Writing\n- **Modal of Obligation:** *\"The bank must swiftly ascertain...\"* (Indicates strong necessity or duty). Source: Situation Analysis\n- **Infinitive of Purpose:** *\"...to prevent further unauthorized debits.\"* (Shows the reason for an action). Source: Situation Analysis"
+      "type": "heading",
+      "level": 3,
+      "text": "💡 Grammar Identification Highlights:"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Passive Voice Construction:** *\"...over 500 million new bank accounts have been opened...\"* (Used in formal reporting to emphasize the action over the doer). Source: Report Writing",
+        "**Gerund Phrase:** *\"...bridging the deep-rooted gap...\"* (A verb ending in -ing functioning as a noun phrase). Source: Report Writing",
+        "**Modal of Obligation:** *\"The bank must swiftly ascertain...\"* (Indicates strong necessity or duty). Source: Situation Analysis",
+        "**Infinitive of Purpose:** *\"...to prevent further unauthorized debits.\"* (Shows the reason for an action). Source: Situation Analysis"
+      ]
     },
     {
       "id": "blk-migrated-eng-ch-3-exam-trap",

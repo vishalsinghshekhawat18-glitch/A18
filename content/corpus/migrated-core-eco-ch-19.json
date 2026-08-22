@@ -38,16 +38,51 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Key Features of PM Jan Dhan Yojana (PMJDY)\n- **Universal Banking Access:** Unbanked households get a Basic Savings Bank Deposit Account (BSBDA).\n- **No Minimum Balance:** Zero-balance account restriction removed.\n- **RuPay Debit Card:** Comes with built-in ₹2 Lakh accidental insurance cover.\n- **Overdraft Facility:** Up to **₹10,000** available for eligible account holders after 6 months of satisfactory operation (age limit: 18 to 65 years).\n- **Direct Benefit Transfer (DBT):** Eliminates middlemen by transferring subsidies directly into Aadhaar-linked accounts."
+      "text": "⚡ 1. Key Features of PM Jan Dhan Yojana (PMJDY)"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Universal Banking Access:** Unbanked households get a Basic Savings Bank Deposit Account (BSBDA).",
+        "**No Minimum Balance:** Zero-balance account restriction removed.",
+        "**RuPay Debit Card:** Comes with built-in ₹2 Lakh accidental insurance cover.",
+        "**Overdraft Facility:** Up to **₹10,000** available for eligible account holders after 6 months of satisfactory operation (age limit: 18 to 65 years).",
+        "**Direct Benefit Transfer (DBT):** Eliminates middlemen by transferring subsidies directly into Aadhaar-linked accounts."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. RBI Financial Inclusion Index (FI-Index) Breakdown\nPublished annually by RBI in July (capturing data up to March):"
+      "text": "📖 2. RBI Financial Inclusion Index (FI-Index) Breakdown"
     },
     {
       "type": "paragraph",
-      "content": "| Sub-Index | Weightage | Key Indicators Covered |\n|---|---|---|\n| **Access** | **35%** | Banking outlets, ATMs, BCs per 100k population |\n| **Usage** | **45%** | Active accounts, digital transactions, credit off-take, insurance penetration |\n| **Quality** | **20%** | Financial literacy, consumer protection, grievance redressal, micro-credit delinquency |"
+      "content": "Published annually by RBI in July (capturing data up to March):"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Sub-Index",
+        "Weightage",
+        "Key Indicators Covered"
+      ],
+      "rows": [
+        [
+          "**Access**",
+          "**35%**",
+          "Banking outlets, ATMs, BCs per 100k population"
+        ],
+        [
+          "**Usage**",
+          "**45%**",
+          "Active accounts, digital transactions, credit off-take, insurance penetration"
+        ],
+        [
+          "**Quality**",
+          "**20%**",
+          "Financial literacy, consumer protection, grievance redressal, micro-credit delinquency"
+        ]
+      ]
     },
     {
       "type": "paragraph",
@@ -56,7 +91,15 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Overdraft under PMJDY is NOT available instantly upon account opening; it requires **6 months of satisfactory account operation**.\n- ⚠️ **Exam Trap 2:** RBI FI-Index has NO base year, unlike CPI or WPI."
+      "text": "⚖️ 3. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** Overdraft under PMJDY is NOT available instantly upon account opening; it requires **6 months of satisfactory account operation**."
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** RBI FI-Index has NO base year, unlike CPI or WPI."
     },
     {
       "type": "heading",

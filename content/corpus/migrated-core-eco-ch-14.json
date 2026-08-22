@@ -38,17 +38,68 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Formal vs. Informal & Gig Work Comparison Matrix\n| Parameter | Formal Sector | Informal Sector | Gig / Platform Work |\n|---|---|---|---|\n| **Employment Contract** | Written, legally binding contract | Verbal, informal agreement | Task-based algorithmic contract |\n| **Social Security** | Mandatory EPF, ESI, Gratuity | None / Voluntary Govt schemes | Aggregator contribution (Code 2020) |\n| **Working Hours** | Regulated (e.g. 8 hrs/day) | Unregulated | Flexible / Demand-driven hours |\n| **Primary Example** | Public sector, registered corporate firms | Daily wage construction, street vendors | Ride-sharing drivers, delivery partners |"
+      "text": "⚡ 1. Formal vs. Informal & Gig Work Comparison Matrix"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Parameter",
+        "Formal Sector",
+        "Informal Sector",
+        "Gig / Platform Work"
+      ],
+      "rows": [
+        [
+          "**Employment Contract**",
+          "Written, legally binding contract",
+          "Verbal, informal agreement",
+          "Task-based algorithmic contract"
+        ],
+        [
+          "**Social Security**",
+          "Mandatory EPF, ESI, Gratuity",
+          "None / Voluntary Govt schemes",
+          "Aggregator contribution (Code 2020)"
+        ],
+        [
+          "**Working Hours**",
+          "Regulated (e.g. 8 hrs/day)",
+          "Unregulated",
+          "Flexible / Demand-driven hours"
+        ],
+        [
+          "**Primary Example**",
+          "Public sector, registered corporate firms",
+          "Daily wage construction, street vendors",
+          "Ride-sharing drivers, delivery partners"
+        ]
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. Key Statutory Schemes & Social Security Code 2020\n1. **Code on Social Security 2020:** First labor law in India to legally define \"Gig Worker\" and \"Platform Worker\". Mandates setting up a **Social Security Board for Unorganised Workers**.\n2. **e-Shram Portal (Ministry of Labour):** Provides universal 12-digit Universal Account Number (UAN) for unorganized workers, offering free ₹2 Lakh accidental insurance cover under PMSBY.\n3. **NITI Aayog Report (2022) 'Booming Gig and Platform Economy':** Projected India's gig workforce to expand to **2.35 Crore workers by 2029-30** (up from 77 Lakh in 2020-21)."
+      "text": "📖 2. Key Statutory Schemes & Social Security Code 2020"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Code on Social Security 2020:** First labor law in India to legally define \"Gig Worker\" and \"Platform Worker\". Mandates setting up a **Social Security Board for Unorganised Workers**.",
+        "**e-Shram Portal (Ministry of Labour):** Provides universal 12-digit Universal Account Number (UAN) for unorganized workers, offering free ₹2 Lakh accidental insurance cover under PMSBY.",
+        "**NITI Aayog Report (2022) 'Booming Gig and Platform Economy':** Projected India's gig workforce to expand to **2.35 Crore workers by 2029-30** (up from 77 Lakh in 2020-21)."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** All platform workers are gig workers, but NOT all gig workers are platform workers (a freelance carpenter offline is a gig worker, but not a platform worker!).\n- ⚠️ **Exam Trap 2:** The Code on Social Security 2020 caps aggregator contributions at **5% of the total amount paid** to gig workers."
+      "text": "⚖️ 3. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** All platform workers are gig workers, but NOT all gig workers are platform workers (a freelance carpenter offline is a gig worker, but not a platform worker!)."
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** The Code on Social Security 2020 caps aggregator contributions at **5% of the total amount paid** to gig workers."
     },
     {
       "type": "heading",

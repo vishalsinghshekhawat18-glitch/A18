@@ -30,8 +30,11 @@
       "text": "1. Disintermediation"
     },
     {
-      "type": "paragraph",
-      "content": "- **Definition:** The reduction in the use of intermediaries (banks) between investors and borrowers, such as when citizens transact directly via Central Bank Digital Currency (CBDC).\n- **Usage:** *'Direct CBDC wallet holdings could lead to bank disintermediation during periods of financial stress.'*"
+      "type": "bullet_list",
+      "items": [
+        "**Definition:** The reduction in the use of intermediaries (banks) between investors and borrowers, such as when citizens transact directly via Central Bank Digital Currency (CBDC).",
+        "**Usage:** *'Direct CBDC wallet holdings could lead to bank disintermediation during periods of financial stress.'*"
+      ]
     },
     {
       "type": "heading",
@@ -39,8 +42,11 @@
       "text": "2. Insolvency vs. Bankruptcy"
     },
     {
-      "type": "paragraph",
-      "content": "- **Definition:** *Insolvency* is a state of financial distress where liabilities exceed assets. *Bankruptcy* is the legal declaration and court process of resolving insolvency under the IBC 2016.\n- **Usage:** *'The Insolvency and Bankruptcy Code (IBC) provides a time-bound 180-day resolution framework for corporate debtors.'*"
+      "type": "bullet_list",
+      "items": [
+        "**Definition:** *Insolvency* is a state of financial distress where liabilities exceed assets. *Bankruptcy* is the legal declaration and court process of resolving insolvency under the IBC 2016.",
+        "**Usage:** *'The Insolvency and Bankruptcy Code (IBC) provides a time-bound 180-day resolution framework for corporate debtors.'*"
+      ]
     },
     {
       "id": "blk-migrated-eng-ch-5-exam-trap",

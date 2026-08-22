@@ -38,17 +38,107 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Constitutional vs. Statutory Bodies Flash Table\n| Body Name | Category | Creation Source / Article | Removal Authority & Process |\n|---|---|---|---|\n| **CAG of India** | Constitutional | **Article 148** | Same manner and grounds as Supreme Court Judge (Parliamentary address) |\n| **Finance Commission** | Constitutional | **Article 280** | Constituted by President every 5 years |\n| **Attorney General** | Constitutional | **Article 76** | Holds office during **pleasure of the President** (No fixed tenure) |\n| **National Human Rights Comm (NHRC)**| **Statutory** | Protection of Human Rights Act 1993 | President (on SC inquiry report for misbehavior) |\n| **Central Vigilance Comm (CVC)** | **Statutory** | CVC Act 2003 | President (on SC inquiry report) |\n| **NITI Aayog** | **Executive Body**| Cabinet Resolution (Jan 1, 2015) | Executive discretion |"
+      "text": "⚡ 1. Constitutional vs. Statutory Bodies Flash Table"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Body Name",
+        "Category",
+        "Creation Source / Article",
+        "Removal Authority & Process"
+      ],
+      "rows": [
+        [
+          "**CAG of India**",
+          "Constitutional",
+          "**Article 148**",
+          "Same manner and grounds as Supreme Court Judge (Parliamentary address)"
+        ],
+        [
+          "**Finance Commission**",
+          "Constitutional",
+          "**Article 280**",
+          "Constituted by President every 5 years"
+        ],
+        [
+          "**Attorney General**",
+          "Constitutional",
+          "**Article 76**",
+          "Holds office during **pleasure of the President** (No fixed tenure)"
+        ],
+        [
+          "**National Human Rights Comm (NHRC)**",
+          "**Statutory**",
+          "Protection of Human Rights Act 1993",
+          "President (on SC inquiry report for misbehavior)"
+        ],
+        [
+          "**Central Vigilance Comm (CVC)**",
+          "**Statutory**",
+          "CVC Act 2003",
+          "President (on SC inquiry report)"
+        ],
+        [
+          "**NITI Aayog**",
+          "**Executive Body**",
+          "Cabinet Resolution (Jan 1, 2015)",
+          "Executive discretion"
+        ]
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. Three Emergency Provisions Comparison Matrix\n| Feature | National Emergency (Art 352) | President's Rule (Art 356) | Financial Emergency (Art 360) |\n|---|---|---|---|\n| **Grounds** | War, External Aggression, Armed Rebellion | Failure of constitutional machinery in State | Threat to financial stability / credit of India |\n| **Parliament Approval** | **1 Month** (Special Majority) | **2 Months** (Simple Majority) | **2 Months** (Simple Majority) |\n| **Max Tenure** | Indefinite (renewed 6-monthly) | **Max 3 Years** (renewed 6-monthly) | Indefinite (No max limit; no re-approval needed!) |\n| **FR Suspension** | Art 19 suspended (Art 358); Art 20 & 21 **NEVER suspended** | Fundamental Rights NOT affected | Fundamental Rights NOT affected |"
+      "text": "📖 2. Three Emergency Provisions Comparison Matrix"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Feature",
+        "National Emergency (Art 352)",
+        "President's Rule (Art 356)",
+        "Financial Emergency (Art 360)"
+      ],
+      "rows": [
+        [
+          "**Grounds**",
+          "War, External Aggression, Armed Rebellion",
+          "Failure of constitutional machinery in State",
+          "Threat to financial stability / credit of India"
+        ],
+        [
+          "**Parliament Approval**",
+          "**1 Month** (Special Majority)",
+          "**2 Months** (Simple Majority)",
+          "**2 Months** (Simple Majority)"
+        ],
+        [
+          "**Max Tenure**",
+          "Indefinite (renewed 6-monthly)",
+          "**Max 3 Years** (renewed 6-monthly)",
+          "Indefinite (No max limit; no re-approval needed!)"
+        ],
+        [
+          "**FR Suspension**",
+          "Art 19 suspended (Art 358); Art 20 & 21 **NEVER suspended**",
+          "Fundamental Rights NOT affected",
+          "Fundamental Rights NOT affected"
+        ]
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** The **Estimates Committee** consists of 30 members, and **ALL 30 members are drawn exclusively from LOK SABHA** (Rajya Sabha has zero representation!).\n- ⚠️ **Exam Trap 2:** **Articles 20 and 21** can NEVER be suspended during any Emergency (44th Amendment Act 1978)."
+      "text": "⚖️ 3. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** The **Estimates Committee** consists of 30 members, and **ALL 30 members are drawn exclusively from LOK SABHA** (Rajya Sabha has zero representation!)."
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** **Articles 20 and 21** can NEVER be suspended during any Emergency (44th Amendment Act 1978)."
     },
     {
       "type": "heading",

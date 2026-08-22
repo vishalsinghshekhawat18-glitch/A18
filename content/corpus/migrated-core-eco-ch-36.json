@@ -44,17 +44,62 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Basel Accords Evolution Matrix\n| Accord | Year | Key Regulatory Pillar Introduced |\n|---|---|---|\n| **Basel I** | 1988 | Focused strictly on **Credit Risk**. Fixed minimum CRAR at **8%** of Risk-Weighted Assets. |\n| **Basel II** | 2004 | Introduced **3 Pillars:** 1. Minimum Capital Requirements (Credit, Market, Operational Risk); 2. Supervisory Review; 3. Market Discipline (Disclosures). |\n| **Basel III** | 2010 (Post-2008 Crisis) | Strengthened Tier 1 capital quality, added **Capital Conservation Buffer (2.5%)**, **Counter-Cyclical Buffer (0-2.5%)**, Leverage Ratio, and Liquidity Ratios (LCR & NSFR). |"
+      "text": "⚡ 1. Basel Accords Evolution Matrix"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Accord",
+        "Year",
+        "Key Regulatory Pillar Introduced"
+      ],
+      "rows": [
+        [
+          "**Basel I**",
+          "1988",
+          "Focused strictly on **Credit Risk**. Fixed minimum CRAR at **8%** of Risk-Weighted Assets."
+        ],
+        [
+          "**Basel II**",
+          "2004",
+          "Introduced **3 Pillars:** 1. Minimum Capital Requirements (Credit, Market, Operational Risk); 2. Supervisory Review; 3. Market Discipline (Disclosures)."
+        ],
+        [
+          "**Basel III**",
+          "2010 (Post-2008 Crisis)",
+          "Strengthened Tier 1 capital quality, added **Capital Conservation Buffer (2.5%)**, **Counter-Cyclical Buffer (0-2.5%)**, Leverage Ratio, and Liquidity Ratios (LCR & NSFR)."
+        ]
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. Risk-Weighted Assets (RWA) Concept\nDifferent bank assets carry different risk weights:\n- **Cash & Government Securities:** **0% Risk Weight** (Zero risk).\n- **Home Loans (Secured):** 35% to 50% Risk Weight.\n- **Unsecured Personal Loans / Credit Cards:** **100% to 125% Risk Weight** (High risk)."
+      "text": "📖 2. Risk-Weighted Assets (RWA) Concept"
+    },
+    {
+      "type": "paragraph",
+      "content": "Different bank assets carry different risk weights:"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Cash & Government Securities:** **0% Risk Weight** (Zero risk).",
+        "**Home Loans (Secured):** 35% to 50% Risk Weight.",
+        "**Unsecured Personal Loans / Credit Cards:** **100% to 125% Risk Weight** (High risk)."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** RBI's minimum CRAR requirement for Indian commercial banks (**9%**) is **stricter than the global Basel III norm (8%)**!\n- ⚠️ **Exam Trap 2:** Tier 1 capital consists of high-quality loss-absorbing equity, whereas Tier 2 capital includes subordinated debt."
+      "text": "⚖️ 3. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** RBI's minimum CRAR requirement for Indian commercial banks (**9%**) is **stricter than the global Basel III norm (8%)**!"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** Tier 1 capital consists of high-quality loss-absorbing equity, whereas Tier 2 capital includes subordinated debt."
     },
     {
       "type": "heading",

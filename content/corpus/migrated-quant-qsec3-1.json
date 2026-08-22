@@ -6,9 +6,21 @@
   "summary": "Comprehensive methodology for High-Level SBI PO Mains Data Interpretation, percentage base-shifts, tabular extraction, and caselet venn diagrams...",
   "blocks": [
     {
-      "id": "blk-qsec3-1-theory",
-      "type": "paragraph",
-      "content": "### 📊 Data Interpretation Core Pedagogical Framework\n\n1. **Taxonomy of High-Level Banking DI Sets:**\n   • **Missing Value Tables:** Exploit horizontal/vertical arithmetic identities ((\text{Total} = \text{Male} + \text{Female}); (\text{Expenditure} = \text{Income} - \text{Savings})) to reconstruct missing cells before answering.\n   • **Radar / Spider Charts:** Data points represent radial distance from origin. Always verify whether polygonal grids represent absolute values or percentage shares.\n   • **Arithmetic DI Caselets:** Paragraph scenarios embedding Time-Work, TSD, or Profit-Loss equations into interconnected multi-variable tables.\n2. **Rapid Calculation & Approximation Filters:**\n   • **Fraction-to-Percentage Equivalents:** Master (\frac{1}{7} = 14.28%), (\frac{1}{8} = 12.5%), (\frac{1}{9} = 11.11%), (\frac{1}{11} = 9.09%), (\frac{1}{13} = 7.69%), (\frac{1}{17} = 5.88%), (\frac{1}{19} = 5.26%).\n   • **Percentage Base-Shift Formula:** If (A) is (x%) more than (B), then (B) is (left(\frac{x}{100+x} \times 100\right)%) less than (A)."
+      "type": "heading",
+      "level": 3,
+      "text": "📊 Data Interpretation Core Pedagogical Framework"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Taxonomy of High-Level Banking DI Sets:**",
+        "**Missing Value Tables:** Exploit horizontal/vertical arithmetic identities ((\text{Total} = \text{Male} + \text{Female}); (\text{Expenditure} = \text{Income} - \text{Savings})) to reconstruct missing cells before answering.",
+        "**Radar / Spider Charts:** Data points represent radial distance from origin. Always verify whether polygonal grids represent absolute values or percentage shares.",
+        "**Arithmetic DI Caselets:** Paragraph scenarios embedding Time-Work, TSD, or Profit-Loss equations into interconnected multi-variable tables.",
+        "**Rapid Calculation & Approximation Filters:**",
+        "**Fraction-to-Percentage Equivalents:** Master (\frac{1}{7} = 14.28%), (\frac{1}{8} = 12.5%), (\frac{1}{9} = 11.11%), (\frac{1}{11} = 9.09%), (\frac{1}{13} = 7.69%), (\frac{1}{17} = 5.88%), (\frac{1}{19} = 5.26%).",
+        "**Percentage Base-Shift Formula:** If (A) is (x%) more than (B), then (B) is (left(\frac{x}{100+x} \times 100\right)%) less than (A)."
+      ]
     },
     {
       "id": "blk-qsec3-1-trap",

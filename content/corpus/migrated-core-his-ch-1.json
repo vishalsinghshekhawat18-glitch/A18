@@ -46,12 +46,61 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Beginner Jargon Unpack\n- **Manuscripts:** Handwritten records on palm leaves (*Tala-patra*) or birch bark (*Bhurja-patra* grown in the Himalayas). Vulnerable to insects/decay.\n- **Inscriptions:** Writing carved onto hard surfaces (stone, metal plates, temple walls). Durable primary historical evidence (*Epigraphy*).\n- **Archaeology:** Scientific study of human history through material remains (*artifacts, bones, pottery, coins*)."
+      "text": "⚡ 1. Beginner Jargon Unpack"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Manuscripts:** Handwritten records on palm leaves (*Tala-patra*) or birch bark (*Bhurja-patra* grown in the Himalayas). Vulnerable to insects/decay.",
+        "**Inscriptions:** Writing carved onto hard surfaces (stone, metal plates, temple walls). Durable primary historical evidence (*Epigraphy*).",
+        "**Archaeology:** Scientific study of human history through material remains (*artifacts, bones, pottery, coins*)."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. Layer 1: Source Material & Geographical Settling Matrix\n| Historical Region | Timeline | Key Agricultural / Human Landmark | Archeological Evidence |\n|---|---|---|---|\n| **Narmada River** | ~100,000+ BP | Food gathering & hunting communities | Hathnora Skull fossil (*Narmada Man*) |\n| **Sulaiman & Kirthar (NW)** | ~8000 BP (~6000 BCE) | Wheat & Barley farming; Mud brick houses | Mehrgarh (Balochistan) |\n| **Garo Hills & Vindhyas** | ~7000–5000 BP | Earliest Rice Cultivation in India | Koldihwa & Mahagara (Belan Valley) |\n| **Indus & Tributaries** | ~4700 BP (2700 BCE) | Early urban civilization (Harappan cities) | Mohenjo-daro, Harappa, Lothal |\n| **Ganga Valley & Son** | ~2500 BP (500 BCE) | Second Urbanization; Rise of Magadha | Pataliputra, Rajgir fort walls |"
+      "text": "📖 2. Layer 1: Source Material & Geographical Settling Matrix"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Historical Region",
+        "Timeline",
+        "Key Agricultural / Human Landmark",
+        "Archeological Evidence"
+      ],
+      "rows": [
+        [
+          "**Narmada River**",
+          "~100,000+ BP",
+          "Food gathering & hunting communities",
+          "Hathnora Skull fossil (*Narmada Man*)"
+        ],
+        [
+          "**Sulaiman & Kirthar (NW)**",
+          "~8000 BP (~6000 BCE)",
+          "Wheat & Barley farming; Mud brick houses",
+          "Mehrgarh (Balochistan)"
+        ],
+        [
+          "**Garo Hills & Vindhyas**",
+          "~7000–5000 BP",
+          "Earliest Rice Cultivation in India",
+          "Koldihwa & Mahagara (Belan Valley)"
+        ],
+        [
+          "**Indus & Tributaries**",
+          "~4700 BP (2700 BCE)",
+          "Early urban civilization (Harappan cities)",
+          "Mohenjo-daro, Harappa, Lothal"
+        ],
+        [
+          "**Ganga Valley & Son**",
+          "~2500 BP (500 BCE)",
+          "Second Urbanization; Rise of Magadha",
+          "Pataliputra, Rajgir fort walls"
+        ]
+      ]
     },
     {
       "type": "paragraph",
@@ -60,31 +109,77 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "🧠 3. Layer 2: Underlying Reasoning (\"The Why\")\nWhy did early urban cities emerge along the **Indus River (2700 BCE)** first, but along the **Ganga Valley (500 BCE)** much later?\n1. **Indus Valley:** Arid/semi-arid floodplain required light clearing; alluvial soil was easily tilled with wooden plows.\n2. **Ganga Valley:** Dense, humid tropical forests required **Iron Axes and Iron Plowshares** (available only post-1000 BCE in Later Vedic Age) to clear the dense jungle and till heavy clay soil."
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "🧮 4. Layer 3: Worked Application (Chronological Diagnostic Scenario)\n**Scenario:** An archaeologist unearths a site with palm-leaf manuscripts and copper plate land grants (*Tamra-patra*). Determine the likely era."
+      "text": "🧠 3. Layer 2: Underlying Reasoning (\"The Why\")"
     },
     {
       "type": "paragraph",
-      "content": "**Step-by-Step Resolution:**\n1. Palm-leaf manuscripts survived mostly in South Indian temples or dry regions, dating from ~1st Millennium CE onward.\n2. Copper plate land grants (*Tamra-patra*) became widespread under the Guptas, Vakatakas, and Cholas (4th–12th Century CE).\n3. The site belongs to the **Early Medieval or Classical Period**, NOT the Harappan or Vedic Period (where writing was on seals or orally transmitted *Sruti*)."
+      "content": "Why did early urban cities emerge along the **Indus River (2700 BCE)** first, but along the **Ganga Valley (500 BCE)** much later?"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Indus Valley:** Arid/semi-arid floodplain required light clearing; alluvial soil was easily tilled with wooden plows.",
+        "**Ganga Valley:** Dense, humid tropical forests required **Iron Axes and Iron Plowshares** (available only post-1000 BCE in Later Vedic Age) to clear the dense jungle and till heavy clay soil."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "🏛️ 5. Concrete Anchor (Primary Historical Record)\n**Rosetta Stone & Asokan Pillar Inscriptions:** Asoka used Prakrit in Brahmi/Kharosthi scripts and Aramaic/Greek in NW frontiers (Kandahar inscription) to communicate royal edicts directly to citizens."
+      "text": "🧮 4. Layer 3: Worked Application (Chronological Diagnostic Scenario)"
+    },
+    {
+      "type": "paragraph",
+      "content": "**Scenario:** An archaeologist unearths a site with palm-leaf manuscripts and copper plate land grants (*Tamra-patra*). Determine the likely era."
+    },
+    {
+      "type": "paragraph",
+      "content": "**Step-by-Step Resolution:**"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Palm-leaf manuscripts survived mostly in South Indian temples or dry regions, dating from ~1st Millennium CE onward.",
+        "Copper plate land grants (*Tamra-patra*) became widespread under the Guptas, Vakatakas, and Cholas (4th–12th Century CE).",
+        "The site belongs to the **Early Medieval or Classical Period**, NOT the Harappan or Vedic Period (where writing was on seals or orally transmitted *Sruti*)."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 6. Debates & Controversies\n**Origin of the Name 'India' vs 'Bharat':**\n- *The Controversy:* 'India' comes from the Indus (*Sindhu* in Sanskrit; *Indos* in Greek; *Hind* in Iranian). 'Bharat' comes from the Rigvedic tribe *Bharatas* residing in the NW.\n- *Phase 2 Core Question:* \"Geography dictates the historical trajectory of subcontinent urbanization.\" Discuss."
+      "text": "🏛️ 5. Concrete Anchor (Primary Historical Record)"
+    },
+    {
+      "type": "paragraph",
+      "content": "**Rosetta Stone & Asokan Pillar Inscriptions:** Asoka used Prakrit in Brahmi/Kharosthi scripts and Aramaic/Greek in NW frontiers (Kandahar inscription) to communicate royal edicts directly to citizens."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "❓ 7. 3-Tier Practice & Retention Section\n- **Tier 1 (Recall MCQ):** Rice cultivation was first practiced in India north of which mountain range? (A: Western Ghats, **B: Vindhyas**, C: Aravallis, D: Himalayas) [Correct: B].\n- **Tier 2 (Applied Scenario):** Explain why birch bark manuscripts were predominantly produced in the Himalayan region.\n- **Tier 3 (Mains Prompt):** *'Reconstruct the relationship between geographical barriers and the rise of early riverine civilizations in India.'*"
+      "text": "⚖️ 6. Debates & Controversies"
+    },
+    {
+      "type": "paragraph",
+      "content": "**Origin of the Name 'India' vs 'Bharat':**"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "*The Controversy:* 'India' comes from the Indus (*Sindhu* in Sanskrit; *Indos* in Greek; *Hind* in Iranian). 'Bharat' comes from the Rigvedic tribe *Bharatas* residing in the NW.",
+        "*Phase 2 Core Question:* \"Geography dictates the historical trajectory of subcontinent urbanization.\" Discuss."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 7. 3-Tier Practice & Retention Section"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Tier 1 (Recall MCQ):** Rice cultivation was first practiced in India north of which mountain range? (A: Western Ghats, **B: Vindhyas**, C: Aravallis, D: Himalayas) [Correct: B].",
+        "**Tier 2 (Applied Scenario):** Explain why birch bark manuscripts were predominantly produced in the Himalayan region.",
+        "**Tier 3 (Mains Prompt):** *'Reconstruct the relationship between geographical barriers and the rise of early riverine civilizations in India.'*"
+      ]
     },
     {
       "id": "blk-migrated-core-his-ch-1-exam-trap",

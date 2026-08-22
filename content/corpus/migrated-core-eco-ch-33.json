@@ -38,17 +38,74 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Quantitative Instruments Comparison Matrix\n| Instrument | Legal Definition / Mechanism | Collateral Needed? | Interest Paid by RBI? |\n|---|---|---|---|\n| **Repo Rate** | Rate at which RBI lends short-term money to banks against Govt securities | **YES** (Approved G-Secs) | N/A (Bank pays Repo interest to RBI) |\n| **Standing Deposit Facility (SDF)** | Floor rate at which RBI absorbs excess liquidity from banks | **NO Collateral Needed!** | YES (RBI pays SDF interest to banks) |\n| **Marginal Standing Facility (MSF)** | Emergency overnight lending rate for banks dipping into SLR quota | **YES** (Dips into SLR portfolio) | N/A (Bank pays MSF interest to RBI) |\n| **Cash Reserve Ratio (CRR)** | Share of NDTL banks must deposit as cash with RBI | N/A (Cash reserve) | **ZERO Interest** paid by RBI! |\n| **Statutory Liquidity Ratio (SLR)** | Share of NDTL banks must maintain in gold, cash, or approved G-Secs | N/A (Self-maintained) | Banks earn yield on G-Sec holdings |"
+      "text": "⚡ 1. Quantitative Instruments Comparison Matrix"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Instrument",
+        "Legal Definition / Mechanism",
+        "Collateral Needed?",
+        "Interest Paid by RBI?"
+      ],
+      "rows": [
+        [
+          "**Repo Rate**",
+          "Rate at which RBI lends short-term money to banks against Govt securities",
+          "**YES** (Approved G-Secs)",
+          "N/A (Bank pays Repo interest to RBI)"
+        ],
+        [
+          "**Standing Deposit Facility (SDF)**",
+          "Floor rate at which RBI absorbs excess liquidity from banks",
+          "**NO Collateral Needed!**",
+          "YES (RBI pays SDF interest to banks)"
+        ],
+        [
+          "**Marginal Standing Facility (MSF)**",
+          "Emergency overnight lending rate for banks dipping into SLR quota",
+          "**YES** (Dips into SLR portfolio)",
+          "N/A (Bank pays MSF interest to RBI)"
+        ],
+        [
+          "**Cash Reserve Ratio (CRR)**",
+          "Share of NDTL banks must deposit as cash with RBI",
+          "N/A (Cash reserve)",
+          "**ZERO Interest** paid by RBI!"
+        ],
+        [
+          "**Statutory Liquidity Ratio (SLR)**",
+          "Share of NDTL banks must maintain in gold, cash, or approved G-Secs",
+          "N/A (Self-maintained)",
+          "Banks earn yield on G-Sec holdings"
+        ]
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. Monetary Policy Committee (MPC) Architecture\n- **Composition:** **6 Members** (3 from RBI: Governor + Deputy Governor + 1 RBI Officer; 3 external experts appointed by Central Govt).\n- **Chairmanship:** RBI Governor (holds casting vote in case of tie).\n- **Mandate:** Meets at least **4 times a year** to fix Policy Repo Rate for maintaining CPI inflation target ($4% pm 2%$)."
+      "text": "📖 2. Monetary Policy Committee (MPC) Architecture"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Composition:** **6 Members** (3 from RBI: Governor + Deputy Governor + 1 RBI Officer; 3 external experts appointed by Central Govt).",
+        "**Chairmanship:** RBI Governor (holds casting vote in case of tie).",
+        "**Mandate:** Meets at least **4 times a year** to fix Policy Repo Rate for maintaining CPI inflation target ($4% pm 2%$)."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** RBI pays **ZERO interest** to commercial banks on their mandatory Cash Reserve Ratio (CRR) deposits!\n- ⚠️ **Exam Trap 2:** Standing Deposit Facility (SDF) introduced in April 2022 allows RBI to absorb liquidity **without providing government securities as collateral**."
+      "text": "⚖️ 3. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** RBI pays **ZERO interest** to commercial banks on their mandatory Cash Reserve Ratio (CRR) deposits!"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** Standing Deposit Facility (SDF) introduced in April 2022 allows RBI to absorb liquidity **without providing government securities as collateral**."
     },
     {
       "type": "heading",

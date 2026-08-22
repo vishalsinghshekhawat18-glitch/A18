@@ -38,22 +38,75 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Historical Evolution of MSME Classification\n- **MSMED Act 2006:** Divided enterprises into Manufacturing and Services, relying *solely on investment in plant & machinery/equipment*. This created a growth disincentive (firms refused to expand investment to avoid losing MSME concessions!).\n- **Gazette Notification June 26, 2020 (Effective July 1, 2020):** Eliminated the distinction between Manufacturing and Services. Introduced **Composite Criteria** combining **Investment** AND **Turnover**."
+      "text": "⚡ 1. Historical Evolution of MSME Classification"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**MSMED Act 2006:** Divided enterprises into Manufacturing and Services, relying *solely on investment in plant & machinery/equipment*. This created a growth disincentive (firms refused to expand investment to avoid losing MSME concessions!).",
+        "**Gazette Notification June 26, 2020 (Effective July 1, 2020):** Eliminated the distinction between Manufacturing and Services. Introduced **Composite Criteria** combining **Investment** AND **Turnover**."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. Unified MSME Composite Classification Matrix (2020 Norms)\n| Enterprise Category | Investment Limit (Plant & Machinery / Equipment) | Annual Turnover Limit | Exclusion Benefit |\n|---|---|---|---|\n| **Micro Enterprise** | $\\le \\mathbf{\\text{₹}1\\text{ Crore}}$ | $\\le \\mathbf{\\text{₹}5\\text{ Crore}}$ | Export turnover is **EXCLUDED** from turnover calculation! |\n| **Small Enterprise** | $\\le \\mathbf{\\text{₹}10\\text{ Crore}}$ | $\\le \\mathbf{\\text{₹}50\\text{ Crore}}$ | Export turnover is **EXCLUDED** from turnover calculation! |\n| **Medium Enterprise** | $\\le \\mathbf{\\text{₹}50\\text{ Crore}}$ | $\\le \\mathbf{\\text{₹}250\\text{ Crore}}$ | Export turnover is **EXCLUDED** from turnover calculation! |"
+      "text": "📖 2. Unified MSME Composite Classification Matrix (2020 Norms)"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Enterprise Category",
+        "Investment Limit (Plant & Machinery / Equipment)",
+        "Annual Turnover Limit",
+        "Exclusion Benefit"
+      ],
+      "rows": [
+        [
+          "**Micro Enterprise**",
+          "$\\le \\mathbf{\\text{₹}1\\text{ Crore}}$",
+          "$\\le \\mathbf{\\text{₹}5\\text{ Crore}}$",
+          "Export turnover is **EXCLUDED** from turnover calculation!"
+        ],
+        [
+          "**Small Enterprise**",
+          "$\\le \\mathbf{\\text{₹}10\\text{ Crore}}$",
+          "$\\le \\mathbf{\\text{₹}50\\text{ Crore}}$",
+          "Export turnover is **EXCLUDED** from turnover calculation!"
+        ],
+        [
+          "**Medium Enterprise**",
+          "$\\le \\mathbf{\\text{₹}50\\text{ Crore}}$",
+          "$\\le \\mathbf{\\text{₹}250\\text{ Crore}}$",
+          "Export turnover is **EXCLUDED** from turnover calculation!"
+        ]
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "🧮 3. Key Policy Schemes & Digital Infrastructure\n1. **Udyam Registration Portal:** Zero-cost paperless portal linked with Income Tax (PAN) and GSTIN databases for automatic MSME verification.\n2. **TReDS (Trade Receivables Discounting System):** Institutional digital platform regulated by RBI under Factoring Regulation Act 2011 to facilitate discounting of trade receivables of MSMEs from corporate buyers (eliminates delayed payment bottlenecks!).\n3. **CGTMSE (Credit Guarantee Fund Trust for Micro and Small Enterprises):** Jointly set up by Ministry of MSME and SIDBI to provide **collateral-free credit guarantees** to lenders.\n4. **RAMP Scheme (Raising and Accelerating MSME Performance):** World Bank-assisted ₹6,062 Cr central sector scheme to strengthen MSME governance, technology, and market access."
+      "text": "🧮 3. Key Policy Schemes & Digital Infrastructure"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Udyam Registration Portal:** Zero-cost paperless portal linked with Income Tax (PAN) and GSTIN databases for automatic MSME verification.",
+        "**TReDS (Trade Receivables Discounting System):** Institutional digital platform regulated by RBI under Factoring Regulation Act 2011 to facilitate discounting of trade receivables of MSMEs from corporate buyers (eliminates delayed payment bottlenecks!).",
+        "**CGTMSE (Credit Guarantee Fund Trust for Micro and Small Enterprises):** Jointly set up by Ministry of MSME and SIDBI to provide **collateral-free credit guarantees** to lenders.",
+        "**RAMP Scheme (Raising and Accelerating MSME Performance):** World Bank-assisted ₹6,062 Cr central sector scheme to strengthen MSME governance, technology, and market access."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 4. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Under the 2020 rules, a firm MUST fulfill **BOTH** limits (Investment AND Turnover) to remain in a lower category. If it exceeds *either* limit, it is placed in the higher category!\n- ⚠️ **Exam Trap 2:** Exports turnover is **strictly excluded** when calculating the annual turnover limit for MSME classification. This encourages MSMEs to export aggressively without fear of losing MSME status!"
+      "text": "⚖️ 4. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** Under the 2020 rules, a firm MUST fulfill **BOTH** limits (Investment AND Turnover) to remain in a lower category. If it exceeds *either* limit, it is placed in the higher category!"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** Exports turnover is **strictly excluded** when calculating the annual turnover limit for MSME classification. This encourages MSMEs to export aggressively without fear of losing MSME status!"
     },
     {
       "type": "heading",
@@ -66,7 +119,15 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** Enterprise A has an investment of ₹8 Crore in plant & machinery. Its total domestic turnover is ₹40 Crore and export turnover is ₹20 Crore (Total turnover = ₹60 Crore). Classify Enterprise A under 2020 MSME rules.  \n**Resolution:**  \n1. Investment $= ₹8\\text{ Cr} \\le ₹10\\text{ Cr}$ (Small category).  \n2. Applicable turnover $= \\text{Total Turnover} - \\text{Export Turnover} = 60 - 20 = \\mathbf{₹40\\text{ Cr}} \\le ₹50\\text{ Cr}$ (Small category).  \n3. Enterprise A is classified as a **Small Enterprise**!"
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** Enterprise A has an investment of ₹8 Crore in plant & machinery. Its total domestic turnover is ₹40 Crore and export turnover is ₹20 Crore (Total turnover = ₹60 Crore). Classify Enterprise A under 2020 MSME rules.  \n**Resolution:**"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Investment $= ₹8\\text{ Cr} \\le ₹10\\text{ Cr}$ (Small category).",
+        "Applicable turnover $= \\text{Total Turnover} - \\text{Export Turnover} = 60 - 20 = \\mathbf{₹40\\text{ Cr}} \\le ₹50\\text{ Cr}$ (Small category).",
+        "Enterprise A is classified as a **Small Enterprise**!"
+      ]
     },
     {
       "type": "paragraph",

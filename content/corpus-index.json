@@ -10263,6 +10263,38 @@
     "relationships": []
   },
   {
+    "id": "iibf-ieifs-unit-1-overview-population-planning",
+    "type": "chapter",
+    "domain": "iibf-regulations",
+    "title": "IIBF IE&IFS Unit 1: Overview of Indian Economy, Demographic Transition & Economic Planning",
+    "summary": "Comprehensive IIBF JAIIB Paper 1 Masterclass covering India's macroeconomic evolution, UN/MoSPI population data, 4-Stage Demographic Transition, sectoral shift, and Planning history to NITI Aayog.",
+    "metadata": {
+      "exam": [
+        "IIBF JAIIB IE&IFS",
+        "RBI Grade B Phase 2 ESI",
+        "NABARD Grade A ESI",
+        "Bank Promotion Exams"
+      ],
+      "tags": [
+        "iibf",
+        "ieifs",
+        "unit1",
+        "demographics",
+        "planning-commission",
+        "niti-aayog",
+        "five-year-plans",
+        "sectoral-growth"
+      ],
+      "provenance": {
+        "sourceSystem": "IIBF-IEIFS",
+        "importedAt": "2026-08-22",
+        "verified": true
+      },
+      "category": "IIBF Paper 1: IE&IFS (Module A - Indian Economic Architecture)"
+    },
+    "relationships": []
+  },
+  {
     "id": "iibf-reg-mod1",
     "domain": "iibf-regulations",
     "title": "📌 Module 1: Deposit Operations, Customer Rights & Statutory Governance",

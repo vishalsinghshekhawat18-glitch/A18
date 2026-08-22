@@ -44,7 +44,37 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Production vs. Product Taxes & Subsidies\n| Tax / Subsidy Category | Definition & Characteristics | Examples |\n|---|---|---|\n| **Production Taxes** | Paid irrespective of actual volume of production | Land Revenue, Stamp Duty, Registration Fees, Factory License Fees |\n| **Production Subsidies** | Received irrespective of actual volume of production | Subsidies to Small Scale Industries, Farmers' Land Subsidies |\n| **Product Taxes** | Paid per unit of product produced / sold | Goods and Services Tax (GST), Excise Duty, Customs Duty, Sales Tax |\n| **Product Subsidies** | Granted per unit of product produced / sold | Food Subsidy (TPDS), Fertilizer Subsidy, LPG Subsidy |"
+      "text": "⚡ 1. Production vs. Product Taxes & Subsidies"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Tax / Subsidy Category",
+        "Definition & Characteristics",
+        "Examples"
+      ],
+      "rows": [
+        [
+          "**Production Taxes**",
+          "Paid irrespective of actual volume of production",
+          "Land Revenue, Stamp Duty, Registration Fees, Factory License Fees"
+        ],
+        [
+          "**Production Subsidies**",
+          "Received irrespective of actual volume of production",
+          "Subsidies to Small Scale Industries, Farmers' Land Subsidies"
+        ],
+        [
+          "**Product Taxes**",
+          "Paid per unit of product produced / sold",
+          "Goods and Services Tax (GST), Excise Duty, Customs Duty, Sales Tax"
+        ],
+        [
+          "**Product Subsidies**",
+          "Granted per unit of product produced / sold",
+          "Food Subsidy (TPDS), Fertilizer Subsidy, LPG Subsidy"
+        ]
+      ]
     },
     {
       "type": "heading",
@@ -62,12 +92,33 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "🏛️ 3. NSO Base Year 2011-12 Revision (Introduced Jan 2015)\nPrior to 2015, India reported headline GDP growth at **GDP at Factor Cost**. In 2015, CSO/NSO made 3 major changes:\n1. Shifted base year from **2004-05 to 2011-12**.\n2. Headline economic growth switched to **GDP at Market Price** (matching global practice).\n3. Sectoral performance switched to **GVA at Basic Prices**.\n4. Replaced manufacturing census data with **MCA-21 database** (Ministry of Corporate Affairs online filings) for corporate sector income estimation."
+      "text": "🏛️ 3. NSO Base Year 2011-12 Revision (Introduced Jan 2015)"
+    },
+    {
+      "type": "paragraph",
+      "content": "Prior to 2015, India reported headline GDP growth at **GDP at Factor Cost**. In 2015, CSO/NSO made 3 major changes:"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Shifted base year from **2004-05 to 2011-12**.",
+        "Headline economic growth switched to **GDP at Market Price** (matching global practice).",
+        "Sectoral performance switched to **GVA at Basic Prices**.",
+        "Replaced manufacturing census data with **MCA-21 database** (Ministry of Corporate Affairs online filings) for corporate sector income estimation."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 4. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** GST is a **Product Tax** (volume dependent), whereas Stamp Duty on factory land is a **Production Tax** (volume independent).\n- ⚠️ **Exam Trap 2:** If Product Subsidies exceed Product Taxes in a crisis year, $GDP_{MP}$ will be **LESS** than $GVA \text{ at Basic Prices}$!"
+      "text": "⚖️ 4. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** GST is a **Product Tax** (volume dependent), whereas Stamp Duty on factory land is a **Production Tax** (volume independent)."
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** If Product Subsidies exceed Product Taxes in a crisis year, $GDP_{MP}$ will be **LESS** than $GVA \text{ at Basic Prices}$!"
     },
     {
       "type": "heading",
@@ -80,7 +131,14 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** A manufacturing sector has GVA at Factor Cost $= ₹500\text{ Cr}$. Production Taxes $= ₹30\text{ Cr}$, Production Subsidies $= ₹10\text{ Cr}$, Product Taxes $= ₹80\text{ Cr}$, and Product Subsidies $= ₹40\text{ Cr}$. Calculate GVA at Basic Prices and GDP at Market Price.  \n**Resolution:**  \n1. $\text{GVA at Basic Prices} = 500 + 30 - 10 = mathbf{₹520\text{ Cr}}$.  \n2. $\text{GDP at Market Price} = 520 + 80 - 40 = mathbf{₹560\text{ Cr}}$."
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** A manufacturing sector has GVA at Factor Cost $= ₹500\text{ Cr}$. Production Taxes $= ₹30\text{ Cr}$, Production Subsidies $= ₹10\text{ Cr}$, Product Taxes $= ₹80\text{ Cr}$, and Product Subsidies $= ₹40\text{ Cr}$. Calculate GVA at Basic Prices and GDP at Market Price.  \n**Resolution:**"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "$\text{GVA at Basic Prices} = 500 + 30 - 10 = mathbf{₹520\text{ Cr}}$.",
+        "$\text{GDP at Market Price} = 520 + 80 - 40 = mathbf{₹560\text{ Cr}}$."
+      ]
     },
     {
       "type": "paragraph",

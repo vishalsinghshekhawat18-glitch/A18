@@ -38,17 +38,74 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Primary Specialized Institutions Matrix\n| Institution | Year & Act | Recommending Committee | Nodal Sector Focus |\n|---|---|---|---|\n| **NABARD** | **1982** (Act 61 of 1981) | B. Sivaraman Committee (CRAFICARD) | Agriculture, Rural Infrastructure (RIDF), Microfinance (SHG-BLP) |\n| **SIDBI** | **1990** (Act 39 of 1989) | Wholly owned subsidiary of IDBI initially | MSME credit, venture capital funds, CGTMSE trustee |\n| **EXIM Bank** | **1982** (Act 28 of 1981) | International Trade Policy Group | Export-Import lines of credit, foreign trade finance |\n| **NHB** | **1988** (Act 53 of 1987) | High-Level Group (C. Rangarajan) | Housing refinance (Regulatory powers transferred to RBI in 2019!) |\n| **NaBFID** | **2021** (Act 17 of 2021) | K.V. Kamath Task Force | Infrastructure long-term patient capital financing |"
+      "text": "⚡ 1. Primary Specialized Institutions Matrix"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Institution",
+        "Year & Act",
+        "Recommending Committee",
+        "Nodal Sector Focus"
+      ],
+      "rows": [
+        [
+          "**NABARD**",
+          "**1982** (Act 61 of 1981)",
+          "B. Sivaraman Committee (CRAFICARD)",
+          "Agriculture, Rural Infrastructure (RIDF), Microfinance (SHG-BLP)"
+        ],
+        [
+          "**SIDBI**",
+          "**1990** (Act 39 of 1989)",
+          "Wholly owned subsidiary of IDBI initially",
+          "MSME credit, venture capital funds, CGTMSE trustee"
+        ],
+        [
+          "**EXIM Bank**",
+          "**1982** (Act 28 of 1981)",
+          "International Trade Policy Group",
+          "Export-Import lines of credit, foreign trade finance"
+        ],
+        [
+          "**NHB**",
+          "**1988** (Act 53 of 1987)",
+          "High-Level Group (C. Rangarajan)",
+          "Housing refinance (Regulatory powers transferred to RBI in 2019!)"
+        ],
+        [
+          "**NaBFID**",
+          "**2021** (Act 17 of 2021)",
+          "K.V. Kamath Task Force",
+          "Infrastructure long-term patient capital financing"
+        ]
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. Rural Infrastructure Development Fund (RIDF)\n- Managed by **NABARD**.\n- Funded by commercial banks that **fail to achieve their Priority Sector Lending (PSL) targets**.\n- Funds low-cost loans to State Governments for rural roads, irrigation, and social infrastructure."
+      "text": "📖 2. Rural Infrastructure Development Fund (RIDF)"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Managed by **NABARD**.",
+        "Funded by commercial banks that **fail to achieve their Priority Sector Lending (PSL) targets**.",
+        "Funds low-cost loans to State Governments for rural roads, irrigation, and social infrastructure."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** NABARD was established based on the recommendations of the **B. Sivaraman Committee** (NOT Narasimham Committee!).\n- ⚠️ **Exam Trap 2:** Regulatory powers over National Housing Bank (NHB) were transferred from NHB to **RBI in 2019** under the Finance Act 2019."
+      "text": "⚖️ 3. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** NABARD was established based on the recommendations of the **B. Sivaraman Committee** (NOT Narasimham Committee!)."
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** Regulatory powers over National Housing Bank (NHB) were transferred from NHB to **RBI in 2019** under the Finance Act 2019."
     },
     {
       "type": "heading",

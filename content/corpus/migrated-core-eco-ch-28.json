@@ -38,17 +38,55 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Structure of Balance of Payments (BoP) Matrix\n| Account Classification | Sub-Component Categories | Net Status for India |\n|---|---|---|\n| **Current Account** | **A. Goods / Merchandise Trade:** Exports (-) Imports\n**B. Invisibles:** Services + Income + Transfers (Remittances) | Usually **Deficit** (Trade deficit exceeds invisibles surplus) |\n| **Capital Account** | **A. Investments:** FDI + FPI\n**B. Loans:** ECBs + Trade Credits\n**C. Banking Capital:** NRI Deposits | Consistently **Surplus** (Capital inflows cover current account deficit) |\n| **Overall BoP Balance** | $\\text{Current Account} + \\text{Capital Account}$ | Surplus added to RBI Forex Reserves; Deficit drawn from Reserves |"
+      "text": "⚡ 1. Structure of Balance of Payments (BoP) Matrix"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Account Classification",
+        "Sub-Component Categories",
+        "Net Status for India"
+      ],
+      "rows": []
+    },
+    {
+      "type": "paragraph",
+      "content": "| **Current Account** | **A. Goods / Merchandise Trade:** Exports (-) Imports\n**B. Invisibles:** Services + Income + Transfers (Remittances) | Usually **Deficit** (Trade deficit exceeds invisibles surplus) |\n| **Capital Account** | **A. Investments:** FDI + FPI\n**B. Loans:** ECBs + Trade Credits\n**C. Banking Capital:** NRI Deposits | Consistently **Surplus** (Capital inflows cover current account deficit) |"
+    },
+    {
+      "type": "paragraph",
+      "content": "| **Overall BoP Balance** | $\\text{Current Account} + \\text{Capital Account}$ | Surplus added to RBI Forex Reserves; Deficit drawn from Reserves |"
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. RBI Foreign Exchange Reserves Breakdown\nIndia's Forex Reserves held by RBI consist of **4 distinct assets**:\n1. **Foreign Currency Assets (FCA):** Multi-currency liquid holdings (US Dollars, Euros, Pounds, Yen). *Largest component ($>85%$)!*\n2. **Gold:** Physical monetary gold held in RBI vaults & Bank of England.\n3. **Special Drawing Rights (SDRs):** International reserve asset created by IMF based on a 5-currency basket (USD, EUR, RMB, JPY, GBP).\n4. **Reserve Tranche Position (RTP):** Mandatory reserve quotient maintained by India with IMF."
+      "text": "📖 2. RBI Foreign Exchange Reserves Breakdown"
+    },
+    {
+      "type": "paragraph",
+      "content": "India's Forex Reserves held by RBI consist of **4 distinct assets**:"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Foreign Currency Assets (FCA):** Multi-currency liquid holdings (US Dollars, Euros, Pounds, Yen). *Largest component ($>85%$)!*",
+        "**Gold:** Physical monetary gold held in RBI vaults & Bank of England.",
+        "**Special Drawing Rights (SDRs):** International reserve asset created by IMF based on a 5-currency basket (USD, EUR, RMB, JPY, GBP).",
+        "**Reserve Tranche Position (RTP):** Mandatory reserve quotient maintained by India with IMF."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Remittances sent home by Indian workers abroad are **Transfer Payments** recorded under **Current Account (Invisibles)**, NOT Capital Account!\n- ⚠️ **Exam Trap 2:** NRI Bank Deposits (FCNRB, NRE accounts) are recorded under **Capital Account (Banking Capital)** because they represent a debt liability to non-residents."
+      "text": "⚖️ 3. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** Remittances sent home by Indian workers abroad are **Transfer Payments** recorded under **Current Account (Invisibles)**, NOT Capital Account!"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** NRI Bank Deposits (FCNRB, NRE accounts) are recorded under **Capital Account (Banking Capital)** because they represent a debt liability to non-residents."
     },
     {
       "type": "heading",
@@ -61,7 +99,14 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** India records a Merchandise Trade Deficit of $180 Billion, an Invisibles Surplus of $110 Billion, and a Capital Account Net Inflow of $85 Billion. Calculate the overall BoP Balance.  \n**Resolution:**  \n1. $\text{Current Account Balance} = \text{Invisibles} - \text{Trade Deficit} = 110 - 180 = -mathbf{$70\text{ Billion}}$.  \n2. $\text{Overall BoP Balance} = \text{Current Account} + \text{Capital Account} = -70 + 85 = mathbf{+$15\text{ Billion}}$ (Surplus added to RBI Forex reserves!)."
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** India records a Merchandise Trade Deficit of $180 Billion, an Invisibles Surplus of $110 Billion, and a Capital Account Net Inflow of $85 Billion. Calculate the overall BoP Balance.  \n**Resolution:**"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "$\text{Current Account Balance} = \text{Invisibles} - \text{Trade Deficit} = 110 - 180 = -mathbf{$70\text{ Billion}}$.",
+        "$\text{Overall BoP Balance} = \text{Current Account} + \text{Capital Account} = -70 + 85 = mathbf{+$15\text{ Billion}}$ (Surplus added to RBI Forex reserves!)."
+      ]
     },
     {
       "type": "paragraph",

@@ -38,17 +38,70 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Planning Commission vs. NITI Aayog Comparison Matrix\n| Parameter | Planning Commission (1950–2014) | NITI Aayog (Jan 1, 2015 – Present) |\n|---|---|---|\n| **Nature of Body** | Extra-constitutional, non-statutory | Extra-constitutional, non-statutory policy Think Tank |\n| **Planning Direction** | **Top-Down** (Center dictated plans to States) | **Bottom-Up** (States equal partners in national growth) |\n| **Financial Power** | **Allocated central plan funds** to states (Art 282) | **ZERO financial allocation powers** (Ministry of Finance allocates funds) |\n| **State Representation** | States represented in NDC (National Development Council) | States integral part of **Governing Council** |\n| **Planning Horizon** | 5-Year Plans (12th FYP was last: 2012–17) | 15-Year Vision, 7-Year Strategy, 3-Year Action Agenda |"
+      "text": "⚡ 1. Planning Commission vs. NITI Aayog Comparison Matrix"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Parameter",
+        "Planning Commission (1950–2014)",
+        "NITI Aayog (Jan 1, 2015 – Present)"
+      ],
+      "rows": [
+        [
+          "**Nature of Body**",
+          "Extra-constitutional, non-statutory",
+          "Extra-constitutional, non-statutory policy Think Tank"
+        ],
+        [
+          "**Planning Direction**",
+          "**Top-Down** (Center dictated plans to States)",
+          "**Bottom-Up** (States equal partners in national growth)"
+        ],
+        [
+          "**Financial Power**",
+          "**Allocated central plan funds** to states (Art 282)",
+          "**ZERO financial allocation powers** (Ministry of Finance allocates funds)"
+        ],
+        [
+          "**State Representation**",
+          "States represented in NDC (National Development Council)",
+          "States integral part of **Governing Council**"
+        ],
+        [
+          "**Planning Horizon**",
+          "5-Year Plans (12th FYP was last: 2012–17)",
+          "15-Year Vision, 7-Year Strategy, 3-Year Action Agenda"
+        ]
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. Key Historical Five-Year Plans Summary\n- **1st Plan (1951–56):** Harrod-Domar Model (Focus on Agriculture & Irrigation - Bhakra Nangal Dam). Target: 2.1%, Achieved: 3.6%.\n- **2nd Plan (1956–61):** PC Mahalanobis Model (Focus on Rapid Industrialization & Heavy Basic Industries - Durgapur, Rourkela, Bhilai steel plants).\n- **3rd Plan (1961–66):** Gadgil Yojana (Agri + Industry). Interrupted by Indo-China War (1962), Indo-Pak War (1965), and drought $\rightarrow$ Led to **Plan Holiday (1966–69)**.\n- **5th Plan (1974–78):** Drafted by D.D. Dhar. Focus on *Garibi Hatao* (Poverty Alleviation) and Self-Reliance.\n- **12th Plan (2012–17):** Theme: *\"Faster, More Inclusive and Sustainable Growth\"*. Target growth: 8%."
+      "text": "📖 2. Key Historical Five-Year Plans Summary"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**1st Plan (1951–56):** Harrod-Domar Model (Focus on Agriculture & Irrigation - Bhakra Nangal Dam). Target: 2.1%, Achieved: 3.6%.",
+        "**2nd Plan (1956–61):** PC Mahalanobis Model (Focus on Rapid Industrialization & Heavy Basic Industries - Durgapur, Rourkela, Bhilai steel plants).",
+        "**3rd Plan (1961–66):** Gadgil Yojana (Agri + Industry). Interrupted by Indo-China War (1962), Indo-Pak War (1965), and drought $\rightarrow$ Led to **Plan Holiday (1966–69)**.",
+        "**5th Plan (1974–78):** Drafted by D.D. Dhar. Focus on *Garibi Hatao* (Poverty Alleviation) and Self-Reliance.",
+        "**12th Plan (2012–17):** Theme: *\"Faster, More Inclusive and Sustainable Growth\"*. Target growth: 8%."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** NITI Aayog does NOT allocate financial resources or development grants to states! That power rests entirely with the Ministry of Finance.\n- ⚠️ **Exam Trap 2:** Both Planning Commission and NITI Aayog are **non-statutory** (neither created by Constitution nor by Act of Parliament; created by Executive Resolution)."
+      "text": "⚖️ 3. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** NITI Aayog does NOT allocate financial resources or development grants to states! That power rests entirely with the Ministry of Finance."
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** Both Planning Commission and NITI Aayog are **non-statutory** (neither created by Constitution nor by Act of Parliament; created by Executive Resolution)."
     },
     {
       "type": "heading",

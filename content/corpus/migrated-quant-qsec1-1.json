@@ -6,9 +6,19 @@
   "summary": "Comprehensive 2D geometry masterclass covering perimeter, area, inradius, circumradius, concentric paths, and maximum area theorems with 3-tier solutions...",
   "blocks": [
     {
-      "id": "blk-qsec1-1-theory",
-      "type": "paragraph",
-      "content": "### 📐 Fundamental 2D Geometric Invariants & Optimization Principles\n\n1. **Isoperimetric Optimization Theorem:** For any fixed perimeter (P), the plane figure with the **maximum enclosed area is always a Circle**. Among regular polygons with fixed perimeter, area strictly increases as the number of sides (n \to infty). Among 4-sided figures of fixed perimeter, a **Square maximizes area**.\n2. **Inradius ((r)) & Circumradius ((R)) Invariants:**\n   • **Right-Angled Triangle ((a, b, c)):** Inradius (r = \frac{a + b - c}{2}); Circumradius (R = \frac{c}{2}) (midpoint of hypotenuse).\n   • **Equilateral Triangle (side (a)):** Inradius (r = \frac{a}{2sqrt{3}}); Circumradius (R = \frac{a}{sqrt{3}}); Ratio (\frac{R}{r} = 2:1); Area Ratio (\frac{\text{Circumcircle}}{\text{Incircle}} = 4:1).\n   • **General Triangle ((Delta, s)):** Inradius (r = \frac{Delta}{s}) where (s = \frac{a+b+c}{2}); Circumradius (R = \frac{abc}{4Delta})."
+      "type": "heading",
+      "level": 3,
+      "text": "📐 Fundamental 2D Geometric Invariants & Optimization Principles"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Isoperimetric Optimization Theorem:** For any fixed perimeter (P), the plane figure with the **maximum enclosed area is always a Circle**. Among regular polygons with fixed perimeter, area strictly increases as the number of sides (n \to infty). Among 4-sided figures of fixed perimeter, a **Square maximizes area**.",
+        "**Inradius ((r)) & Circumradius ((R)) Invariants:**",
+        "**Right-Angled Triangle ((a, b, c)):** Inradius (r = \frac{a + b - c}{2}); Circumradius (R = \frac{c}{2}) (midpoint of hypotenuse).",
+        "**Equilateral Triangle (side (a)):** Inradius (r = \frac{a}{2sqrt{3}}); Circumradius (R = \frac{a}{sqrt{3}}); Ratio (\frac{R}{r} = 2:1); Area Ratio (\frac{\text{Circumcircle}}{\text{Incircle}} = 4:1).",
+        "**General Triangle ((Delta, s)):** Inradius (r = \frac{Delta}{s}) where (s = \frac{a+b+c}{2}); Circumradius (R = \frac{abc}{4Delta})."
+      ]
     },
     {
       "id": "blk-qsec1-1-table",
@@ -65,9 +75,21 @@
       ]
     },
     {
-      "id": "blk-qsec1-1-tier3",
+      "type": "heading",
+      "level": 3,
+      "text": "⚡ 3-Tier Exam Problem Breakdown: Inscribed Circle in Right Triangle"
+    },
+    {
       "type": "paragraph",
-      "content": "### ⚡ 3-Tier Exam Problem Breakdown: Inscribed Circle in Right Triangle\n\n**Problem:** A right-angled triangle has perpendicular sides of length 15 cm and 20 cm. Find the radius and area of the inscribed circle.\n\n* **Tier 1 (First Principles):** Hypotenuse (c = sqrt{15^2 + 20^2} = 25\text{ cm}). Semi-perimeter (s = \frac{15 + 20 + 25}{2} = 30\text{ cm}). Area of triangle (Delta = \frac{1}{2} \times 15 \times 20 = 150\text{ cm}^2). Inradius (r = \frac{Delta}{s} = \frac{150}{30} = 5\text{ cm}).\n* **Tier 2 (Standard Banking PO Shortcut):** Directly apply the right-triangle inradius invariant: (r = \frac{a + b - c}{2} = \frac{15 + 20 - 25}{2} = \frac{10}{2} = 5\text{ cm}). Area (= pi r^2 = 25pi\text{ cm}^2 approx 78.57\text{ cm}^2).\n* **Tier 3 (10-Second Mental Elimination):** Recognize the fundamental 3-4-5 Pythagorean triple scaled by factor 5. For a 3-4-5 base triple, inradius (r_0 = \frac{3+4-5}{2} = 1). Therefore, scaled inradius (= 1 \times 5 = 5\text{ cm}) instantly."
+      "content": "**Problem:** A right-angled triangle has perpendicular sides of length 15 cm and 20 cm. Find the radius and area of the inscribed circle."
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Tier 1 (First Principles):** Hypotenuse (c = sqrt{15^2 + 20^2} = 25\text{ cm}). Semi-perimeter (s = \frac{15 + 20 + 25}{2} = 30\text{ cm}). Area of triangle (Delta = \frac{1}{2} \times 15 \times 20 = 150\text{ cm}^2). Inradius (r = \frac{Delta}{s} = \frac{150}{30} = 5\text{ cm}).",
+        "**Tier 2 (Standard Banking PO Shortcut):** Directly apply the right-triangle inradius invariant: (r = \frac{a + b - c}{2} = \frac{15 + 20 - 25}{2} = \frac{10}{2} = 5\text{ cm}). Area (= pi r^2 = 25pi\text{ cm}^2 approx 78.57\text{ cm}^2).",
+        "**Tier 3 (10-Second Mental Elimination):** Recognize the fundamental 3-4-5 Pythagorean triple scaled by factor 5. For a 3-4-5 base triple, inradius (r_0 = \frac{3+4-5}{2} = 1). Therefore, scaled inradius (= 1 \times 5 = 5\text{ cm}) instantly."
+      ]
     },
     {
       "id": "blk-qsec1-1-trap",

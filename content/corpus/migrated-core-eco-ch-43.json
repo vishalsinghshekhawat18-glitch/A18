@@ -44,17 +44,69 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Direct vs. Indirect Taxes Feature Comparison\n| Feature | Direct Taxes | Indirect Taxes (GST / Customs) |\n|---|---|---|\n| **Impact vs. Incidence** | Fall on the **same entity** (cannot be shifted) | Fall on different entities (tax shifted to final buyer) |\n| **Progressivity** | **Progressive** (higher income bracket $implies$ higher tax rate) | **Regressive** (rich and poor pay same tax rate per item) |\n| **Primary Examples** | Income Tax, Corporation Tax, STT, Capital Gains Tax | GST (CGST, SGST, IGST), Customs Duty, Central Excise |\n| **Administrative Body** | **CBDT** (Central Board of Direct Taxes) | **CBIC** (Central Board of Indirect Taxes & Customs) |"
+      "text": "⚡ 1. Direct vs. Indirect Taxes Feature Comparison"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Feature",
+        "Direct Taxes",
+        "Indirect Taxes (GST / Customs)"
+      ],
+      "rows": [
+        [
+          "**Impact vs. Incidence**",
+          "Fall on the **same entity** (cannot be shifted)",
+          "Fall on different entities (tax shifted to final buyer)"
+        ],
+        [
+          "**Progressivity**",
+          "**Progressive** (higher income bracket $implies$ higher tax rate)",
+          "**Regressive** (rich and poor pay same tax rate per item)"
+        ],
+        [
+          "**Primary Examples**",
+          "Income Tax, Corporation Tax, STT, Capital Gains Tax",
+          "GST (CGST, SGST, IGST), Customs Duty, Central Excise"
+        ],
+        [
+          "**Administrative Body**",
+          "**CBDT** (Central Board of Direct Taxes)",
+          "**CBIC** (Central Board of Indirect Taxes & Customs)"
+        ]
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. GST Architecture & GST Council Voting Mechanics\n- **3 Sub-Types:** CGST (Central GST), SGST (State GST), IGST (Integrated GST for inter-state trade & imports).\n- **Primary 4 Tax Slabs:** **5%, 12%, 18%, 28%** (Special 0.25% for rough diamonds, 3% for gold).\n- **Items Outside GST Scope:** Petroleum crude, High-speed diesel, Motor spirit (Petrol), Natural gas, Aviation turbine fuel (ATF), and **Alcohol for human consumption**!\n- **GST Council Voting Formula (Art 279A):**\n  $$\\text{Central Govt Weight} = \\frac{1}{3}, \\quad \\text{All State Govts Combined Weight} = \\frac{2}{3}$$\n  $$\\text{Decision Approval Threshold} = \\mathbf{\\ge 75\\% \\text{ of weighted votes cast}}$$"
+      "text": "📖 2. GST Architecture & GST Council Voting Mechanics"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**3 Sub-Types:** CGST (Central GST), SGST (State GST), IGST (Integrated GST for inter-state trade & imports).",
+        "**Primary 4 Tax Slabs:** **5%, 12%, 18%, 28%** (Special 0.25% for rough diamonds, 3% for gold).",
+        "**Items Outside GST Scope:** Petroleum crude, High-speed diesel, Motor spirit (Petrol), Natural gas, Aviation turbine fuel (ATF), and **Alcohol for human consumption**!",
+        "**GST Council Voting Formula (Art 279A):**"
+      ]
+    },
+    {
+      "type": "formula",
+      "latex": "\\text{Central Govt Weight} = \\frac{1}{3}, \\quad \\text{All State Govts Combined Weight} = \\frac{2}{3}$$\n  $$\\text{Decision Approval Threshold} = \\mathbf{\\ge 75\\% \\text{ of weighted votes cast}}",
+      "explanation": ""
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Neither Center nor States alone can pass a resolution in the GST Council! Center has $33.3%$ vote (can veto, but cannot pass alone without states); States combined have $66.6%$ vote (need Center to reach $75%$).\n- ⚠️ **Exam Trap 2:** Alcohol for human consumption is **constitutionally excluded** from GST (requires a Constitutional Amendment to include), whereas 5 petroleum products are statutorily deferred."
+      "text": "⚖️ 3. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** Neither Center nor States alone can pass a resolution in the GST Council! Center has $33.3%$ vote (can veto, but cannot pass alone without states); States combined have $66.6%$ vote (need Center to reach $75%$)."
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** Alcohol for human consumption is **constitutionally excluded** from GST (requires a Constitutional Amendment to include), whereas 5 petroleum products are statutorily deferred."
     },
     {
       "type": "heading",

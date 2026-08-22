@@ -2878,5 +2878,13 @@
     "period": "2026-Q4",
     "category": "Economy",
     "file": "content/corpus/ras-eco-ch-1-rajasthan-economic-review-schemes.json"
+  },
+  "555": {
+    "noteNumber": 555,
+    "id": "iibf-ieifs-unit-1-overview-population-planning",
+    "title": "IIBF IE&IFS Unit 1: Overview of Indian Economy, Demographic Transition & Economic Planning",
+    "domain": "iibf-regulations",
+    "category": "IIBF Paper 1: IE&IFS",
+    "file": "content/corpus/iibf-ieifs-unit-1-overview-population-planning.json"
   }
 }

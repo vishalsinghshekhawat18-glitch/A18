@@ -42,12 +42,79 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Beginner Jargon Unpack\n- **Citadel:** Raised western platform constructed on mud-brick foundations, housing public structures like granaries and assembly halls.\n- **Steatite Seals:** Soft stone carved with animal motifs (Unicorn, Pashupati Mahadeva, Humped Bull) and undeciphered logo-syllabic script (written right-to-left *Boustrophedon*).\n- **Chert Weights:** Binary weight system (1, 2, 4, 8, 16, 32 up to 640) for trade; decimal system for higher units."
+      "text": "⚡ 1. Beginner Jargon Unpack"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Citadel:** Raised western platform constructed on mud-brick foundations, housing public structures like granaries and assembly halls.",
+        "**Steatite Seals:** Soft stone carved with animal motifs (Unicorn, Pashupati Mahadeva, Humped Bull) and undeciphered logo-syllabic script (written right-to-left *Boustrophedon*).",
+        "**Chert Weights:** Binary weight system (1, 2, 4, 8, 16, 32 up to 640) for trade; decimal system for higher units."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. Layer 1: Major Harappan Sites & Findings Matrix\n| Site Name | Location | Key Archeological Discoveries | Unique Structural Feature |\n|---|---|---|---|\n| **Harappa** | Ravi River (Punjab, Pakistan) | 6 Granaries in a row, Coffin burial (H-Cemetery), Red sandstone torso | First excavated site (Dayaram Sahni 1921) |\n| **Mohenjo-daro** | Indus River (Sindh, Pakistan) | Great Bath, Great Granary, Bronze Dancing Girl, Steatite Priest King | Largest city; burnt brick covered drains |\n| **Lothal** | Bhogava River (Gujarat) | Tidal Brick Dockyard, Double burial, Ivory scale, Bead factory | Port city connecting Persian Gulf trade |\n| **Kalibangan** | Ghaggar River (Rajasthan) | Pre-Harappan & Harappan ploughed field, Fire Altars, Camel bones | Decorative paved bricks; no underground drains |\n| **Dholavira** | Luni River (Kutch, Gujarat) | 3-part layout (Citadel, Middle, Lower), Water Harvesting Reservoirs | Large stone signboard with 10 signs |\n| **Rakhigarhi** | Ghaggar-Hakra (Haryana) | Largest IVC site in India; DNA extraction from skeleton | Granary & terracotta wheel remains |\n| **Chanhudaro** | Indus River (Sindh) | Bead-making workshop, Inkpot, Lipstick, No Citadel! | Only city without a Citadel |\n| **Banawali** | Fatehabad (Haryana) | Terracotta model of plow, Barley grains | Radial street pattern |"
+      "text": "📖 2. Layer 1: Major Harappan Sites & Findings Matrix"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Site Name",
+        "Location",
+        "Key Archeological Discoveries",
+        "Unique Structural Feature"
+      ],
+      "rows": [
+        [
+          "**Harappa**",
+          "Ravi River (Punjab, Pakistan)",
+          "6 Granaries in a row, Coffin burial (H-Cemetery), Red sandstone torso",
+          "First excavated site (Dayaram Sahni 1921)"
+        ],
+        [
+          "**Mohenjo-daro**",
+          "Indus River (Sindh, Pakistan)",
+          "Great Bath, Great Granary, Bronze Dancing Girl, Steatite Priest King",
+          "Largest city; burnt brick covered drains"
+        ],
+        [
+          "**Lothal**",
+          "Bhogava River (Gujarat)",
+          "Tidal Brick Dockyard, Double burial, Ivory scale, Bead factory",
+          "Port city connecting Persian Gulf trade"
+        ],
+        [
+          "**Kalibangan**",
+          "Ghaggar River (Rajasthan)",
+          "Pre-Harappan & Harappan ploughed field, Fire Altars, Camel bones",
+          "Decorative paved bricks; no underground drains"
+        ],
+        [
+          "**Dholavira**",
+          "Luni River (Kutch, Gujarat)",
+          "3-part layout (Citadel, Middle, Lower), Water Harvesting Reservoirs",
+          "Large stone signboard with 10 signs"
+        ],
+        [
+          "**Rakhigarhi**",
+          "Ghaggar-Hakra (Haryana)",
+          "Largest IVC site in India; DNA extraction from skeleton",
+          "Granary & terracotta wheel remains"
+        ],
+        [
+          "**Chanhudaro**",
+          "Indus River (Sindh)",
+          "Bead-making workshop, Inkpot, Lipstick, No Citadel!",
+          "Only city without a Citadel"
+        ],
+        [
+          "**Banawali**",
+          "Fatehabad (Haryana)",
+          "Terracotta model of plow, Barley grains",
+          "Radial street pattern"
+        ]
+      ]
     },
     {
       "type": "paragraph",
@@ -56,31 +123,77 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "🧠 3. Layer 2: Underlying Reasoning (\"The Why\")\nWhy was the **Harappan Drainage System** superior to contemporary Mesopotamian and Egyptian civilizations?\n1. Every house was connected to street drains built with burnt bricks mortar-sealed with gypsum and bitumen.\n2. Drains had inspection manholes at regular intervals for cleaning—demonstrating civic hygiene and centralized municipal authority over 4500 years ago!"
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "🧮 4. Layer 3: Worked Application (Diagnostic Trade Scenario)\n**Scenario:** A merchant seal found at Susa (Mesopotamia) features a humped bull and Harappan script symbols alongside a text mentioning *Meluhha*."
+      "text": "🧠 3. Layer 2: Underlying Reasoning (\"The Why\")"
     },
     {
       "type": "paragraph",
-      "content": "**Step-by-Step Resolution:**\n1. Mesopotamian texts record trade with three intermediate lands: *Dilmun* (Bahrain), *Magan* (Oman coast), and *Meluhha* (Indus Valley).\n2. The presence of Harappan seals in Ur, Kish, and Susa proves long-distance maritime trade via the Persian Gulf.\n3. *Meluhha* was the Mesopotamian name for the Harappan civilization."
+      "content": "Why was the **Harappan Drainage System** superior to contemporary Mesopotamian and Egyptian civilizations?"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Every house was connected to street drains built with burnt bricks mortar-sealed with gypsum and bitumen.",
+        "Drains had inspection manholes at regular intervals for cleaning—demonstrating civic hygiene and centralized municipal authority over 4500 years ago!"
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "🏛️ 5. Concrete Anchor (Artifact Study)\n**Pashupati Seal (Mohenjo-daro):** Proto-Shiva seated in yogic posture surrounded by 4 animals: Elephant, Tiger, Rhinoceros, Buffalo, and two Deers at his feet."
+      "text": "🧮 4. Layer 3: Worked Application (Diagnostic Trade Scenario)"
+    },
+    {
+      "type": "paragraph",
+      "content": "**Scenario:** A merchant seal found at Susa (Mesopotamia) features a humped bull and Harappan script symbols alongside a text mentioning *Meluhha*."
+    },
+    {
+      "type": "paragraph",
+      "content": "**Step-by-Step Resolution:**"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Mesopotamian texts record trade with three intermediate lands: *Dilmun* (Bahrain), *Magan* (Oman coast), and *Meluhha* (Indus Valley).",
+        "The presence of Harappan seals in Ur, Kish, and Susa proves long-distance maritime trade via the Persian Gulf.",
+        "*Meluhha* was the Mesopotamian name for the Harappan civilization."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 6. Debates & Controversies\n**Decline of the Harappan Civilisation (~1900 BCE):**\n- *The Controversy:* Wheeler proposed 'Aryan Invasion' theory based on skeletons at Mohenjo-daro. Modern consensus rejects this, favoring **Climate Change, Tectonic River Course Shifts (Drying of Saraswati/Ghaggar)**, and monsoon weakening.\n- *Phase 2 Core Question:* \"The Harappan civilization was not destroyed by external conquest, but collapsed due to ecological desiccation.\" Evaluate."
+      "text": "🏛️ 5. Concrete Anchor (Artifact Study)"
+    },
+    {
+      "type": "paragraph",
+      "content": "**Pashupati Seal (Mohenjo-daro):** Proto-Shiva seated in yogic posture surrounded by 4 animals: Elephant, Tiger, Rhinoceros, Buffalo, and two Deers at his feet."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "❓ 7. 3-Tier Practice & Retention Section\n- **Tier 1 (Recall MCQ):** Which Harappan site is the ONLY one divided into THREE distinct administrative parts? (A: Lothal, B: Kalibangan, **C: Dholavira**, D: Chanhudaro) [Correct: C].\n- **Tier 2 (Applied Scenario):** Explain how standardized brick ratio (1:2:4) across 1500 km proves centralized Harappan governance.\n- **Tier 3 (Mains Prompt):** *'Evaluate the urban planning, water management, and civic architecture of the Harappan civilization and their relevance to modern smart cities.'*"
+      "text": "⚖️ 6. Debates & Controversies"
+    },
+    {
+      "type": "paragraph",
+      "content": "**Decline of the Harappan Civilisation (~1900 BCE):**"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "*The Controversy:* Wheeler proposed 'Aryan Invasion' theory based on skeletons at Mohenjo-daro. Modern consensus rejects this, favoring **Climate Change, Tectonic River Course Shifts (Drying of Saraswati/Ghaggar)**, and monsoon weakening.",
+        "*Phase 2 Core Question:* \"The Harappan civilization was not destroyed by external conquest, but collapsed due to ecological desiccation.\" Evaluate."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 7. 3-Tier Practice & Retention Section"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Tier 1 (Recall MCQ):** Which Harappan site is the ONLY one divided into THREE distinct administrative parts? (A: Lothal, B: Kalibangan, **C: Dholavira**, D: Chanhudaro) [Correct: C].",
+        "**Tier 2 (Applied Scenario):** Explain how standardized brick ratio (1:2:4) across 1500 km proves centralized Harappan governance.",
+        "**Tier 3 (Mains Prompt):** *'Evaluate the urban planning, water management, and civic architecture of the Harappan civilization and their relevance to modern smart cities.'*"
+      ]
     },
     {
       "id": "blk-migrated-core-his-ch-3-exam-trap",

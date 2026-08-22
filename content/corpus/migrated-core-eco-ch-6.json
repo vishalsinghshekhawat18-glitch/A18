@@ -52,26 +52,66 @@
     },
     {
       "type": "paragraph",
-      "content": "#### B. Income Method\n$$NDP_{FC} = \\text{Compensation of Employees (COE)} + \\text{Operating Surplus (OS)} + \\text{Mixed Income (MI)}$$\n- **Operating Surplus:** Rent + Royalty + Interest + Profit (Dividends, Corporate Tax, Undistributed Profit).\n- **Mixed Income:** Income of own-account workers (farmers, doctors, shopkeepers) where labor and capital income cannot be separated."
+      "content": "#### B. Income Method\n$$NDP_{FC} = \\text{Compensation of Employees (COE)} + \\text{Operating Surplus (OS)} + \\text{Mixed Income (MI)}$$"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Operating Surplus:** Rent + Royalty + Interest + Profit (Dividends, Corporate Tax, Undistributed Profit).",
+        "**Mixed Income:** Income of own-account workers (farmers, doctors, shopkeepers) where labor and capital income cannot be separated."
+      ]
     },
     {
       "type": "paragraph",
-      "content": "#### C. Expenditure Method\n$$GDP_{MP} = C + I + G + (X - M)$$\nWhere:\n- $C$ = Private Final Consumption Expenditure (PFCE)\n- $G$ = Government Final Consumption Expenditure (GFCE)\n- $I$ = Gross Domestic Capital Formation (GDCF = Gross Fixed Capital Formation + Change in Stocks)\n- $(X - M)$ = Net Exports"
+      "content": "#### C. Expenditure Method\n$$GDP_{MP} = C + I + G + (X - M)$$\nWhere:"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "$C$ = Private Final Consumption Expenditure (PFCE)",
+        "$G$ = Government Final Consumption Expenditure (GFCE)",
+        "$I$ = Gross Domestic Capital Formation (GDCF = Gross Fixed Capital Formation + Change in Stocks)",
+        "$(X - M)$ = Net Exports"
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. The Problem of Double Counting & Solutions\n- **Double Counting:** Counting the value of intermediate goods multiple times at successive stages of production (e.g. counting wheat $\rightarrow$ flour $\rightarrow$ bread).\n- **Solution 1:** Take ONLY the value of the **final good** (Bread price).\n- **Solution 2:** Take the **sum of Value Added** at each stage of production."
+      "text": "📖 2. The Problem of Double Counting & Solutions"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Double Counting:** Counting the value of intermediate goods multiple times at successive stages of production (e.g. counting wheat $\rightarrow$ flour $\rightarrow$ bread).",
+        "**Solution 1:** Take ONLY the value of the **final good** (Bread price).",
+        "**Solution 2:** Take the **sum of Value Added** at each stage of production."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "🏛️ 3. Data Sources & NSO Sectoral Scrutiny in India\n- **Primary Sector (Agri, Mining):** Uses Product Method (crop yield data from Ministry of Agriculture).\n- **Secondary Sector (Manufacturing, Construction):** Uses Product & Income Methods (MCA-21 corporate database + Annual Survey of Industries ASI).\n- **Tertiary Sector (Services):** Uses Income Method (RBI banking data, GST portal collections, PLFS employment data)."
+      "text": "🏛️ 3. Data Sources & NSO Sectoral Scrutiny in India"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Primary Sector (Agri, Mining):** Uses Product Method (crop yield data from Ministry of Agriculture).",
+        "**Secondary Sector (Manufacturing, Construction):** Uses Product & Income Methods (MCA-21 corporate database + Annual Survey of Industries ASI).",
+        "**Tertiary Sector (Services):** Uses Income Method (RBI banking data, GST portal collections, PLFS employment data)."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 4. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Intermediate consumption (raw materials) MUST be subtracted from output. If a bakery buys flour for ₹40 and sells bread for ₹60, its Value Added is **₹20** (not ₹60!).\n- ⚠️ **Exam Trap 2:** Transfer payments (scholarships, pensions) and sale of **second-hand goods** are EXCLUDED from expenditure method (second-hand goods were already counted in the year of original manufacture)."
+      "text": "⚖️ 4. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** Intermediate consumption (raw materials) MUST be subtracted from output. If a bakery buys flour for ₹40 and sells bread for ₹60, its Value Added is **₹20** (not ₹60!)."
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** Transfer payments (scholarships, pensions) and sale of **second-hand goods** are EXCLUDED from expenditure method (second-hand goods were already counted in the year of original manufacture)."
     },
     {
       "type": "heading",
@@ -84,7 +124,16 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** A farmer sells wheat to a miller for ₹100. The miller grinds it into flour and sells it to a baker for ₹150. The baker makes bread and sells it to consumers for ₹220. Calculate total Value Added.  \n**Resolution:**  \n1. Farmer Value Added $= 100 - 0 = ₹100$.  \n2. Miller Value Added $= 150 - 100 = ₹50$.  \n3. Baker Value Added $= 220 - 150 = ₹70$.  \n4. Total Value Added $= 100 + 50 + 70 = \\mathbf{₹220}$ (equals final bread price!)."
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** A farmer sells wheat to a miller for ₹100. The miller grinds it into flour and sells it to a baker for ₹150. The baker makes bread and sells it to consumers for ₹220. Calculate total Value Added.  \n**Resolution:**"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Farmer Value Added $= 100 - 0 = ₹100$.",
+        "Miller Value Added $= 150 - 100 = ₹50$.",
+        "Baker Value Added $= 220 - 150 = ₹70$.",
+        "Total Value Added $= 100 + 50 + 70 = \\mathbf{₹220}$ (equals final bread price!)."
+      ]
     },
     {
       "type": "paragraph",

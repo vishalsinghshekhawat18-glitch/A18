@@ -46,12 +46,61 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Beginner Jargon Unpack\n- **State (Political Unit):** Sovereign entity defined by 4 elements: Territory, Population, Government, and Sovereignty.\n- **Nation (Cultural Unit):** A group sharing common culture, language, historical memory, and emotional bond (*State is legal/political; Nation is socio-cultural*).\n- **Kautilya's Saptang Theory:** 7 essential elements of a state in *Arthashastra*: **Swami (King), Amatya (Ministers), Janapada (Territory & People), Durga (Fort), Kosa (Treasury), Danda/Bala (Army), Mitra (Ally)**.\n- **Matsya Nyaya (State of Nature):** Anarchy (\"big fish eats small fish\") described by Hobbes/Locke in Western thought and Kautilya in Indian philosophy."
+      "text": "⚡ 1. Beginner Jargon Unpack"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**State (Political Unit):** Sovereign entity defined by 4 elements: Territory, Population, Government, and Sovereignty.",
+        "**Nation (Cultural Unit):** A group sharing common culture, language, historical memory, and emotional bond (*State is legal/political; Nation is socio-cultural*).",
+        "**Kautilya's Saptang Theory:** 7 essential elements of a state in *Arthashastra*: **Swami (King), Amatya (Ministers), Janapada (Territory & People), Durga (Fort), Kosa (Treasury), Danda/Bala (Army), Mitra (Ally)**.",
+        "**Matsya Nyaya (State of Nature):** Anarchy (\"big fish eats small fish\") described by Hobbes/Locke in Western thought and Kautilya in Indian philosophy."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. Layer 1: Country vs State vs Nation Matrix & Comparative Governance\n| Entity / Concept | Country? | State? (Sovereign) | Nation? (Cultural) | Structural Feature |\n|---|---|---|---|---|\n| **India** | **Yes** | **Yes** | **Yes** | Parliamentary System + Constitutional Supremacy + Integrated Judiciary |\n| **Japan** | **Yes** | **Yes** | **Yes** | Homogeneous Nation-State |\n| **USA** | **Yes** | **Yes** | **No** | Multi-cultural immigrant mosaic + Presidential System (Strict Separation) |\n| **Arab Nation** | **No** | **No** | **Yes** | Shared language/culture across 22 separate sovereign states |"
+      "text": "📖 2. Layer 1: Country vs State vs Nation Matrix & Comparative Governance"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Entity / Concept",
+        "Country?",
+        "State? (Sovereign)",
+        "Nation? (Cultural)",
+        "Structural Feature"
+      ],
+      "rows": [
+        [
+          "**India**",
+          "**Yes**",
+          "**Yes**",
+          "**Yes**",
+          "Parliamentary System + Constitutional Supremacy + Integrated Judiciary"
+        ],
+        [
+          "**Japan**",
+          "**Yes**",
+          "**Yes**",
+          "**Yes**",
+          "Homogeneous Nation-State"
+        ],
+        [
+          "**USA**",
+          "**Yes**",
+          "**Yes**",
+          "**No**",
+          "Multi-cultural immigrant mosaic + Presidential System (Strict Separation)"
+        ],
+        [
+          "**Arab Nation**",
+          "**No**",
+          "**No**",
+          "**Yes**",
+          "Shared language/culture across 22 separate sovereign states"
+        ]
+      ]
     },
     {
       "type": "paragraph",
@@ -60,31 +109,77 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "🧠 3. Layer 2: Underlying Reasoning (\"The Why\")\nWhy does **India have Constitutional Supremacy**, while **Britain has Parliamentary Sovereignty**?\n1. **Britain:** Has an Unwritten Constitution. Parliament can pass or amend any law without judicial interference (*Dicey's Parliamentary Sovereignty*).\n2. **India:** Has a **Written Federal Constitution**. Article 13 empowers courts to strike down parliamentary acts that violate Fundamental Rights or alter the **Basic Structure**. Ultimate power rests in the **CONSTITUTION**."
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "🧮 4. Layer 3: Worked Application (Practical Governance Scenario)\n**Scenario:** A legislative dispute arises between the Centre and a State over an emergency defense measure conflicting with a provincial land law."
+      "text": "🧠 3. Layer 2: Underlying Reasoning (\"The Why\")"
     },
     {
       "type": "paragraph",
-      "content": "**Step-by-Step Resolution:**\n1. Identify the subject: Land = State List (List II), Defense = Union List (List I).\n2. Under Article 248, **Residual Powers** belong to the Union Parliament (unlike GOI Act 1935 where Residual Powers belonged to the Viceroy).\n3. The Union Law prevails under Article 254(1) due to Union List supremacy."
+      "content": "Why does **India have Constitutional Supremacy**, while **Britain has Parliamentary Sovereignty**?"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Britain:** Has an Unwritten Constitution. Parliament can pass or amend any law without judicial interference (*Dicey's Parliamentary Sovereignty*).",
+        "**India:** Has a **Written Federal Constitution**. Article 13 empowers courts to strike down parliamentary acts that violate Fundamental Rights or alter the **Basic Structure**. Ultimate power rests in the **CONSTITUTION**."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "🏛️ 5. Concrete Anchor (Case Study)\n**State of West Bengal v. Union of India (1963):** Supreme Court held that the Indian Constitution is not truly federal in the traditional American sense, as sovereignty is vested in the Union of India as a whole."
+      "text": "🧮 4. Layer 3: Worked Application (Practical Governance Scenario)"
+    },
+    {
+      "type": "paragraph",
+      "content": "**Scenario:** A legislative dispute arises between the Centre and a State over an emergency defense measure conflicting with a provincial land law."
+    },
+    {
+      "type": "paragraph",
+      "content": "**Step-by-Step Resolution:**"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Identify the subject: Land = State List (List II), Defense = Union List (List I).",
+        "Under Article 248, **Residual Powers** belong to the Union Parliament (unlike GOI Act 1935 where Residual Powers belonged to the Viceroy).",
+        "The Union Law prevails under Article 254(1) due to Union List supremacy."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 6. Debates & Controversies\n**Is India a Federal State or Quasi-Federal?**\n- *The Controversy:* K.C. Wheare described India as \"Quasi-Federal\". Dr. B.R. Ambedkar countered that India is \"Federal in normal times, but Unitary in times of emergency\".\n- *Phase 2 Core Question:* \"The Constitution of India is federal in form, but unitary in spirit.\" Critically evaluate."
+      "text": "🏛️ 5. Concrete Anchor (Case Study)"
+    },
+    {
+      "type": "paragraph",
+      "content": "**State of West Bengal v. Union of India (1963):** Supreme Court held that the Indian Constitution is not truly federal in the traditional American sense, as sovereignty is vested in the Union of India as a whole."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "❓ 7. 3-Tier Practice & Retention Section\n- **Tier 1 (Recall MCQ):** Which element is NOT part of Kautilya's Saptang Theory? (A: Swami, B: Amatya, **C: Samiti**, D: Kosa) [Correct: C].\n- **Tier 2 (Applied Scenario):** Explain how Article 13 enforces Constitutional Supremacy over Parliamentary Sovereignty in India.\n- **Tier 3 (Mains Prompt):** *'India adopted the British Parliamentary model, but rejected Parliamentary Sovereignty.'* Discuss."
+      "text": "⚖️ 6. Debates & Controversies"
+    },
+    {
+      "type": "paragraph",
+      "content": "**Is India a Federal State or Quasi-Federal?**"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "*The Controversy:* K.C. Wheare described India as \"Quasi-Federal\". Dr. B.R. Ambedkar countered that India is \"Federal in normal times, but Unitary in times of emergency\".",
+        "*Phase 2 Core Question:* \"The Constitution of India is federal in form, but unitary in spirit.\" Critically evaluate."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 7. 3-Tier Practice & Retention Section"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Tier 1 (Recall MCQ):** Which element is NOT part of Kautilya's Saptang Theory? (A: Swami, B: Amatya, **C: Samiti**, D: Kosa) [Correct: C].",
+        "**Tier 2 (Applied Scenario):** Explain how Article 13 enforces Constitutional Supremacy over Parliamentary Sovereignty in India.",
+        "**Tier 3 (Mains Prompt):** *'India adopted the British Parliamentary model, but rejected Parliamentary Sovereignty.'* Discuss."
+      ]
     },
     {
       "id": "blk-migrated-core-pol-ch-1-exam-trap",

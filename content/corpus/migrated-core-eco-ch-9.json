@@ -52,22 +52,73 @@
     },
     {
       "type": "paragraph",
-      "content": "Where:\n- **Area A:** Area bounded between the $45^circ$ Line of Perfect Equality and the actual Lorenz Curve.\n- **Area B:** Area beneath the Lorenz Curve down to the horizontal axis."
+      "content": "Where:"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Area A:** Area bounded between the $45^circ$ Line of Perfect Equality and the actual Lorenz Curve.",
+        "**Area B:** Area beneath the Lorenz Curve down to the horizontal axis."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. Inequality Indicators Comparison Matrix\n| Indicator | Mathematical Definition | Typical Range | Primary Limitation |\n|---|---|---|---|\n| **Gini Coefficient** | Ratio $A / (A+B)$ derived from Lorenz Curve | $0.0 \\text{ to } 1.0$ (or 0 to 100%) | Insensitive to shifts in extreme top vs bottom tail distributions |\n| **Palma Ratio** | Share of national income of top 10% divided by bottom 40% | $>1.0$ in unequal societies | Ignores middle 50% income bracket |\n| **20/20 Ratio** | Income of top 20% divided by bottom 20% | Ratio multiplier (e.g. 5x, 10x) | Ignores distribution within top and bottom quintiles |"
+      "text": "📖 2. Inequality Indicators Comparison Matrix"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Indicator",
+        "Mathematical Definition",
+        "Typical Range",
+        "Primary Limitation"
+      ],
+      "rows": [
+        [
+          "**Gini Coefficient**",
+          "Ratio $A / (A+B)$ derived from Lorenz Curve",
+          "$0.0 \\text{ to } 1.0$ (or 0 to 100%)",
+          "Insensitive to shifts in extreme top vs bottom tail distributions"
+        ],
+        [
+          "**Palma Ratio**",
+          "Share of national income of top 10% divided by bottom 40%",
+          "$>1.0$ in unequal societies",
+          "Ignores middle 50% income bracket"
+        ],
+        [
+          "**20/20 Ratio**",
+          "Income of top 20% divided by bottom 20%",
+          "Ratio multiplier (e.g. 5x, 10x)",
+          "Ignores distribution within top and bottom quintiles"
+        ]
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "🏛️ 3. Indian Context & NSO Inequality Data Trends\n- **World Inequality Report Data:** Top 1% in India holds over 22% of national income, while bottom 50% holds ~15%.\n- **Consumption vs. Income Gini:** India's Consumption Gini (derived from NSO MPCE data) is lower ($sim 0.35$) than its Income/Wealth Gini ($sim 0.75$), because consumption inequality is bounded by physical survival limits."
+      "text": "🏛️ 3. Indian Context & NSO Inequality Data Trends"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**World Inequality Report Data:** Top 1% in India holds over 22% of national income, while bottom 50% holds ~15%.",
+        "**Consumption vs. Income Gini:** India's Consumption Gini (derived from NSO MPCE data) is lower ($sim 0.35$) than its Income/Wealth Gini ($sim 0.75$), because consumption inequality is bounded by physical survival limits."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 4. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** The further the Lorenz Curve bows AWAY from the 45-degree diagonal line, the **HIGHER** the Gini Coefficient and the **GREATER** the inequality!\n- ⚠️ **Exam Trap 2:** A Gini Coefficient of $0$ means **Perfect Equality**, NOT zero income! A Gini of $1$ means **Absolute Inequality**."
+      "text": "⚖️ 4. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** The further the Lorenz Curve bows AWAY from the 45-degree diagonal line, the **HIGHER** the Gini Coefficient and the **GREATER** the inequality!"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** A Gini Coefficient of $0$ means **Perfect Equality**, NOT zero income! A Gini of $1$ means **Absolute Inequality**."
     },
     {
       "type": "heading",

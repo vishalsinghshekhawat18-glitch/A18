@@ -33,7 +33,13 @@
     },
     {
       "type": "paragraph",
-      "content": "Statutory Service Rights in Rajasthan: \n      1. Rajasthan Guaranteed Delivery of Public Services Act 2011 (Imposes financial penalty on defaulting officers!)."
+      "content": "Statutory Service Rights in Rajasthan:"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Rajasthan Guaranteed Delivery of Public Services Act 2011 (Imposes financial penalty on defaulting officers!)."
+      ]
     },
     {
       "type": "paragraph",
@@ -42,12 +48,61 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Beginner Jargon Unpack\n- **Citizen Charter:** Written declaration by a public department outlining service standards, timelines, contact details, and grievance redressal mechanisms (*First introduced by John Major in UK 1991; India adopted in 1997 Chief Ministers Conference*).\n- **Sevottam Model (IS 15700:2005):** Quality management framework for public service delivery consisting of 3 pillars: Citizen Charter, Public Grievance Redressal, and Service Delivery Capability.\n- **Patwari:** Lowest level revenue official responsible for maintaining *Khatauni* (land ownership register), *Khasra* (field map book), and crop inspection (*Girdawari*)."
+      "text": "⚡ 1. Beginner Jargon Unpack"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Citizen Charter:** Written declaration by a public department outlining service standards, timelines, contact details, and grievance redressal mechanisms (*First introduced by John Major in UK 1991; India adopted in 1997 Chief Ministers Conference*).",
+        "**Sevottam Model (IS 15700:2005):** Quality management framework for public service delivery consisting of 3 pillars: Citizen Charter, Public Grievance Redressal, and Service Delivery Capability.",
+        "**Patwari:** Lowest level revenue official responsible for maintaining *Khatauni* (land ownership register), *Khasra* (field map book), and crop inspection (*Girdawari*)."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. Layer 1: Rajasthan Administrative Infrastructure & Legislation Matrix\n| Institution / Statute | Established / Enacted | Key Statutory Function / Role | Head / Appellate Authority |\n|---|---|---|---|\n| **Board of Revenue for Rajasthan** | Nov 1, 1949 (Ajmer) | Highest Revenue Court; Controls Patwari/Tehsildar cadre | Chairman (Senior IAS officer) |\n| **Rajasthan Guaranteed Delivery of Public Services Act** | Nov 14, 2011 (1st state in India!) | 153 services across 18 departments with fixed timelines | Penalty of ₹500 to ₹5000 on negligent officers |\n| **Rajasthan Right to Hearing Act** | Aug 1, 2012 | Enforces mandatory hearing & disposal within 15 days | Public Hearing Officer (Gram Panchayat to District) |\n| **District Collector Post** | Created 1772 by Warren Hastings | Head of District Administration, Elections, Disaster & Revenue | District Collector & District Magistrate |\n| **Chief Secretary of Rajasthan** | Post created 1949 | Head of State Civil Services & Secretariat | 1st CS: **K. Radhakrishnan**; Longest: **B.S. Mehta** |"
+      "text": "📖 2. Layer 1: Rajasthan Administrative Infrastructure & Legislation Matrix"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Institution / Statute",
+        "Established / Enacted",
+        "Key Statutory Function / Role",
+        "Head / Appellate Authority"
+      ],
+      "rows": [
+        [
+          "**Board of Revenue for Rajasthan**",
+          "Nov 1, 1949 (Ajmer)",
+          "Highest Revenue Court; Controls Patwari/Tehsildar cadre",
+          "Chairman (Senior IAS officer)"
+        ],
+        [
+          "**Rajasthan Guaranteed Delivery of Public Services Act**",
+          "Nov 14, 2011 (1st state in India!)",
+          "153 services across 18 departments with fixed timelines",
+          "Penalty of ₹500 to ₹5000 on negligent officers"
+        ],
+        [
+          "**Rajasthan Right to Hearing Act**",
+          "Aug 1, 2012",
+          "Enforces mandatory hearing & disposal within 15 days",
+          "Public Hearing Officer (Gram Panchayat to District)"
+        ],
+        [
+          "**District Collector Post**",
+          "Created 1772 by Warren Hastings",
+          "Head of District Administration, Elections, Disaster & Revenue",
+          "District Collector & District Magistrate"
+        ],
+        [
+          "**Chief Secretary of Rajasthan**",
+          "Post created 1949",
+          "Head of State Civil Services & Secretariat",
+          "1st CS: **K. Radhakrishnan**; Longest: **B.S. Mehta**"
+        ]
+      ]
     },
     {
       "type": "paragraph",
@@ -56,31 +111,77 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "🧠 3. Layer 2: Underlying Reasoning (\"The Why\")\nWhy did Rajasthan become the **FIRST State in India to pass the Guaranteed Delivery of Public Services Act (2011)** with penalty clauses?\n1. Voluntary Citizen Charters lacked legal teeth—citizens had no judicial remedy if timelines were violated.\n2. Enacting a statutory penalty ($\text{₹}250\text{/day}$) deducted directly from the defaulting officer's salary transformed administrative promises into **enforceable legal rights**!"
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "🧮 4. Layer 3: Worked Application (Grievance Redressal Scenario)\n**Scenario:** A citizen applies for a caste certificate in Rajasthan under the 2011 Act (stipulated timeline: 7 days). The designated officer fails to issue it within 15 days without valid reason."
+      "text": "🧠 3. Layer 2: Underlying Reasoning (\"The Why\")"
     },
     {
       "type": "paragraph",
-      "content": "**Step-by-Step Resolution:**\n1. Citizen files 1st Appeal to First Appellate Authority (SDO) within 30 days.\n2. If unresolved, 2nd Appeal goes to Second Appellate Authority.\n3. Second Appellate Authority imposes a **fine up to ₹5000 on the designated officer** and orders immediate issuance of the certificate!"
+      "content": "Why did Rajasthan become the **FIRST State in India to pass the Guaranteed Delivery of Public Services Act (2011)** with penalty clauses?"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Voluntary Citizen Charters lacked legal teeth—citizens had no judicial remedy if timelines were violated.",
+        "Enacting a statutory penalty ($\text{₹}250\text{/day}$) deducted directly from the defaulting officer's salary transformed administrative promises into **enforceable legal rights**!"
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "🏛️ 5. Concrete Anchor (Administrative Benchmark)\n**Sevottam Certification (IS 15700):** Standard benchmarking framework adopted by Bureau of Indian Standards (BIS) to audit Citizen Charters across government departments."
+      "text": "🧮 4. Layer 3: Worked Application (Grievance Redressal Scenario)"
+    },
+    {
+      "type": "paragraph",
+      "content": "**Scenario:** A citizen applies for a caste certificate in Rajasthan under the 2011 Act (stipulated timeline: 7 days). The designated officer fails to issue it within 15 days without valid reason."
+    },
+    {
+      "type": "paragraph",
+      "content": "**Step-by-Step Resolution:**"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Citizen files 1st Appeal to First Appellate Authority (SDO) within 30 days.",
+        "If unresolved, 2nd Appeal goes to Second Appellate Authority.",
+        "Second Appellate Authority imposes a **fine up to ₹5000 on the designated officer** and orders immediate issuance of the certificate!"
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 6. Debates & Administrative Reforms\n**District Collector Role: Generalist vs Specialist Coordinator:**\n- *The Controversy:* Balancing traditional revenue/magisterial authority with modern developmental management & e-governance (*Jan Soochna Portal 2019*).\n- *Phase 2 Core Question:* \"The Rajasthan Guaranteed Delivery of Public Services Act 2011 represents a paradigm shift from administrative discretion to citizen empowerment.\" Discuss."
+      "text": "🏛️ 5. Concrete Anchor (Administrative Benchmark)"
+    },
+    {
+      "type": "paragraph",
+      "content": "**Sevottam Certification (IS 15700):** Standard benchmarking framework adopted by Bureau of Indian Standards (BIS) to audit Citizen Charters across government departments."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "❓ 7. 3-Tier Practice & Retention Section\n- **Tier 1 (Recall MCQ):** Where is the head office of the Board of Revenue for Rajasthan located? (A: Jaipur, B: Jodhpur, **C: Ajmer**, D: Udaipur) [Correct: C].\n- **Tier 2 (Applied Scenario):** Explain the 3 pillars of the Sevottam Model of public service delivery.\n- **Tier 3 (Mains Prompt):** *'Evaluate the role of the District Collector as District Magistrate, Revenue Collector, and Development Coordinator in state administration.'*"
+      "text": "⚖️ 6. Debates & Administrative Reforms"
+    },
+    {
+      "type": "paragraph",
+      "content": "**District Collector Role: Generalist vs Specialist Coordinator:**"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "*The Controversy:* Balancing traditional revenue/magisterial authority with modern developmental management & e-governance (*Jan Soochna Portal 2019*).",
+        "*Phase 2 Core Question:* \"The Rajasthan Guaranteed Delivery of Public Services Act 2011 represents a paradigm shift from administrative discretion to citizen empowerment.\" Discuss."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "❓ 7. 3-Tier Practice & Retention Section"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Tier 1 (Recall MCQ):** Where is the head office of the Board of Revenue for Rajasthan located? (A: Jaipur, B: Jodhpur, **C: Ajmer**, D: Udaipur) [Correct: C].",
+        "**Tier 2 (Applied Scenario):** Explain the 3 pillars of the Sevottam Model of public service delivery.",
+        "**Tier 3 (Mains Prompt):** *'Evaluate the role of the District Collector as District Magistrate, Revenue Collector, and Development Coordinator in state administration.'*"
+      ]
     },
     {
       "id": "blk-migrated-core-pol-ch-46-exam-trap",

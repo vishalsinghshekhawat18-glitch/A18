@@ -38,22 +38,58 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Key Concepts in Sen's Framework\n- **Functionings:** The achievements of a person—what they manage to do or be (e.g., being healthy, taking part in community life, being literate).\n- **Capability Set:** The alternative combinations of functionings a person can realistically achieve given their social, physical, and economic environment.\n- **Development as Freedom (1999):** Development is the process of expanding real human freedoms (eliminating un-freedoms like illiteracy, preventable disease, and tyranny)."
+      "text": "⚡ 1. Key Concepts in Sen's Framework"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Functionings:** The achievements of a person—what they manage to do or be (e.g., being healthy, taking part in community life, being literate).",
+        "**Capability Set:** The alternative combinations of functionings a person can realistically achieve given their social, physical, and economic environment.",
+        "**Development as Freedom (1999):** Development is the process of expanding real human freedoms (eliminating un-freedoms like illiteracy, preventable disease, and tyranny)."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. Entitlement Categories (Poverty & Famines, 1981)\nSen classified economic access into **4 Legal Entitlements**:\n1. **Trade-based Entitlement:** What one can buy by trading owned commodities.\n2. **Production-based Entitlement:** What one can produce using personal or hired resources.\n3. **Own-Labor Entitlement:** What one can earn by selling personal labor power.\n4. **Inheritance & Transfer Entitlement:** What is given freely by state or relatives (pensions, food rations, gifts)."
+      "text": "📖 2. Entitlement Categories (Poverty & Famines, 1981)"
+    },
+    {
+      "type": "paragraph",
+      "content": "Sen classified economic access into **4 Legal Entitlements**:"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Trade-based Entitlement:** What one can buy by trading owned commodities.",
+        "**Production-based Entitlement:** What one can produce using personal or hired resources.",
+        "**Own-Labor Entitlement:** What one can earn by selling personal labor power.",
+        "**Inheritance & Transfer Entitlement:** What is given freely by state or relatives (pensions, food rations, gifts)."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "🏛️ 3. FAD Theory vs. Sen's Entitlement Failure\n- **Food Availability Decline (FAD) Theory (Traditional View):** Premised that famines are caused strictly by physical drop in food crop output (droughts/floods).\n- **Sen's Entitlement Failure (Bengal Famine 1943 Study):** Showed that food output in 1943 Bengal was adequate, but hyperinflation and speculative hoarding caused agricultural laborers' **own-labor entitlement to collapse** (wages could no longer buy rice!), leading to mass starvation amidst food availability."
+      "text": "🏛️ 3. FAD Theory vs. Sen's Entitlement Failure"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Food Availability Decline (FAD) Theory (Traditional View):** Premised that famines are caused strictly by physical drop in food crop output (droughts/floods).",
+        "**Sen's Entitlement Failure (Bengal Famine 1943 Study):** Showed that food output in 1943 Bengal was adequate, but hyperinflation and speculative hoarding caused agricultural laborers' **own-labor entitlement to collapse** (wages could no longer buy rice!), leading to mass starvation amidst food availability."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 4. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** In Sen's framework, two individuals with identical incomes can have **different capability levels** if one suffers from a physical disability or lacks local healthcare infrastructure.\n- ⚠️ **Exam Trap 2:** Famine, according to Sen, is primarily a failure of **distribution and economic access (entitlement)**, NOT purely a failure of agricultural production."
+      "text": "⚖️ 4. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** In Sen's framework, two individuals with identical incomes can have **different capability levels** if one suffers from a physical disability or lacks local healthcare infrastructure."
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** Famine, according to Sen, is primarily a failure of **distribution and economic access (entitlement)**, NOT purely a failure of agricultural production."
     },
     {
       "type": "heading",

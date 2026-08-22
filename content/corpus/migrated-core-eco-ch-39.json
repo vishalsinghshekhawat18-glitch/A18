@@ -38,17 +38,69 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Money Market vs. Capital Market Feature Matrix\n| Parameter | Money Market | Capital Market |\n|---|---|---|\n| **Instrument Maturity** | **Short-term** ($ 1 \text{ Year}$, multi-year / equity perpetual) |\n| **Primary Regulator** | **Reserve Bank of India (RBI)** | **Securities and Exchange Board of India (SEBI)** |\n| **Primary Function** | Liquidity adjustment & working capital funding | Fixed capital formation & long-term investment |\n| **Key Instruments** | Call Money, Treasury Bills, CPs, CDs, TREPS | Equity Shares, Preference Shares, Bonds, Debentures |\n| **Risk & Return** | Low risk, low return, highly liquid | Higher risk, higher return, variable liquidity |"
+      "text": "⚡ 1. Money Market vs. Capital Market Feature Matrix"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Parameter",
+        "Money Market",
+        "Capital Market"
+      ],
+      "rows": [
+        [
+          "**Instrument Maturity**",
+          "**Short-term** ($ 1 \text{ Year}$, multi-year / equity perpetual)",
+          ""
+        ],
+        [
+          "**Primary Regulator**",
+          "**Reserve Bank of India (RBI)**",
+          "**Securities and Exchange Board of India (SEBI)**"
+        ],
+        [
+          "**Primary Function**",
+          "Liquidity adjustment & working capital funding",
+          "Fixed capital formation & long-term investment"
+        ],
+        [
+          "**Key Instruments**",
+          "Call Money, Treasury Bills, CPs, CDs, TREPS",
+          "Equity Shares, Preference Shares, Bonds, Debentures"
+        ],
+        [
+          "**Risk & Return**",
+          "Low risk, low return, highly liquid",
+          "Higher risk, higher return, variable liquidity"
+        ]
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. Key Money Market Instruments Detailed\n1. **Treasury Bills (T-Bills):** Issued ONLY by Central Government (not State Govts!) in 3 tenors: **91-day, 182-day, 364-day**. Issued at a discount and redeemed at par (Zero Coupon).\n2. **Commercial Paper (CP):** Unsecured promissory note issued by highly-rated **corporates** to raise short-term working capital (maturity: 7 days to 1 year). Min denomination: ₹5 Lakh.\n3. **Certificate of Deposit (CD):** Negotiable money market instrument issued by **Scheduled Commercial Banks** against deposits (maturity: 7 days to 1 year for banks).\n4. **Call Money / Notice Money:** Inter-bank uncollateralized lending (Call Money = 1 day / overnight; Notice Money = 2 to 14 days; Term Money = $>14$ days)."
+      "text": "📖 2. Key Money Market Instruments Detailed"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Treasury Bills (T-Bills):** Issued ONLY by Central Government (not State Govts!) in 3 tenors: **91-day, 182-day, 364-day**. Issued at a discount and redeemed at par (Zero Coupon).",
+        "**Commercial Paper (CP):** Unsecured promissory note issued by highly-rated **corporates** to raise short-term working capital (maturity: 7 days to 1 year). Min denomination: ₹5 Lakh.",
+        "**Certificate of Deposit (CD):** Negotiable money market instrument issued by **Scheduled Commercial Banks** against deposits (maturity: 7 days to 1 year for banks).",
+        "**Call Money / Notice Money:** Inter-bank uncollateralized lending (Call Money = 1 day / overnight; Notice Money = 2 to 14 days; Term Money = $>14$ days)."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Treasury Bills (T-Bills) are issued **ONLY by the Central Government**. State Governments do NOT issue T-Bills; they issue **State Development Loans (SDLs)**!\n- ⚠️ **Exam Trap 2:** Commercial Paper (CP) is issued by **corporates**, whereas Certificate of Deposit (CD) is issued by **banks**."
+      "text": "⚖️ 3. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** Treasury Bills (T-Bills) are issued **ONLY by the Central Government**. State Governments do NOT issue T-Bills; they issue **State Development Loans (SDLs)**!"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** Commercial Paper (CP) is issued by **corporates**, whereas Certificate of Deposit (CD) is issued by **banks**."
     },
     {
       "type": "heading",

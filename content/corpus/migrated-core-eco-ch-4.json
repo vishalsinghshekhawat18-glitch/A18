@@ -38,21 +38,98 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. The 3 Fundamental Conversion Rules\n1. **Gross vs. Net:** $\\text{Gross} - \\text{Depreciation} = \\text{Net}$\n2. **Domestic vs. National:** $\\text{Domestic} + \\text{NFIA} = \\text{National}$\n3. **Factor Cost vs. Market Price:** $\\text{Factor Cost} + \\text{Net Indirect Taxes (NIT)} = \\text{Market Price}$"
+      "text": "⚡ 1. The 3 Fundamental Conversion Rules"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Gross vs. Net:** $\\text{Gross} - \\text{Depreciation} = \\text{Net}$",
+        "**Domestic vs. National:** $\\text{Domestic} + \\text{NFIA} = \\text{National}$",
+        "**Factor Cost vs. Market Price:** $\\text{Factor Cost} + \\text{Net Indirect Taxes (NIT)} = \\text{Market Price}$"
+      ]
     },
     {
       "type": "paragraph",
-      "content": "Where:\n- $\\text{NFIA} = \\text{Factor Income earned by domestic residents abroad} - \\text{Factor Income earned by foreign residents in domestic territory}$.\n- $\\text{NIT} = \\text{Indirect Taxes} - \\text{Subsidies}$."
+      "content": "Where:"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "$\\text{NFIA} = \\text{Factor Income earned by domestic residents abroad} - \\text{Factor Income earned by foreign residents in domestic territory}$.",
+        "$\\text{NIT} = \\text{Indirect Taxes} - \\text{Subsidies}$."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. Master 8 Aggregates Derivation Matrix\n| Aggregate Abbreviation | Full Name | Derivation Formula from $GDP_{MP}$ |\n|---|---|---|\n| **$GDP_{MP}$** | Gross Domestic Product at Market Price | Baseline total market value of final goods/services within domestic territory |\n| **$NDP_{MP}$** | Net Domestic Product at Market Price | $GDP_{MP} - \\text{Depreciation}$ |\n| **$GNP_{MP}$** | Gross National Product at Market Price | $GDP_{MP} + \\text{NFIA}$ |\n| **$NNP_{MP}$** | Net National Product at Market Price | $GDP_{MP} + \\text{NFIA} - \\text{Depreciation}$ |\n| **$GDP_{FC}$** | Gross Domestic Product at Factor Cost | $GDP_{MP} - \\text{NIT}$ |\n| **$NDP_{FC}$** | Net Domestic Product at Factor Cost | $GDP_{MP} - \\text{Depreciation} - \\text{NIT}$ |\n| **$GNP_{FC}$** | Gross National Product at Factor Cost | $GDP_{MP} + \\text{NFIA} - \\text{NIT}$ |\n| **$NNP_{FC}$** | **Net National Product at Factor Cost (National Income)** | $\\mathbf{GDP_{MP} + NFIA - Depreciation - NIT}$ |"
+      "text": "📖 2. Master 8 Aggregates Derivation Matrix"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Aggregate Abbreviation",
+        "Full Name",
+        "Derivation Formula from $GDP_{MP}$"
+      ],
+      "rows": [
+        [
+          "**$GDP_{MP}$**",
+          "Gross Domestic Product at Market Price",
+          "Baseline total market value of final goods/services within domestic territory"
+        ],
+        [
+          "**$NDP_{MP}$**",
+          "Net Domestic Product at Market Price",
+          "$GDP_{MP} - \\text{Depreciation}$"
+        ],
+        [
+          "**$GNP_{MP}$**",
+          "Gross National Product at Market Price",
+          "$GDP_{MP} + \\text{NFIA}$"
+        ],
+        [
+          "**$NNP_{MP}$**",
+          "Net National Product at Market Price",
+          "$GDP_{MP} + \\text{NFIA} - \\text{Depreciation}$"
+        ],
+        [
+          "**$GDP_{FC}$**",
+          "Gross Domestic Product at Factor Cost",
+          "$GDP_{MP} - \\text{NIT}$"
+        ],
+        [
+          "**$NDP_{FC}$**",
+          "Net Domestic Product at Factor Cost",
+          "$GDP_{MP} - \\text{Depreciation} - \\text{NIT}$"
+        ],
+        [
+          "**$GNP_{FC}$**",
+          "Gross National Product at Factor Cost",
+          "$GDP_{MP} + \\text{NFIA} - \\text{NIT}$"
+        ],
+        [
+          "**$NNP_{FC}$**",
+          "**Net National Product at Factor Cost (National Income)**",
+          "$\\mathbf{GDP_{MP} + NFIA - Depreciation - NIT}$"
+        ]
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "🧮 3. Net Factor Income from Abroad (NFIA) Components\nNFIA consists of **3 sub-components**:\n1. Net compensation of employees.\n2. Net property and entrepreneurial income (interest, dividend, rent).\n3. Net retained earnings of resident companies abroad."
+      "text": "🧮 3. Net Factor Income from Abroad (NFIA) Components"
+    },
+    {
+      "type": "paragraph",
+      "content": "NFIA consists of **3 sub-components**:"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Net compensation of employees.",
+        "Net property and entrepreneurial income (interest, dividend, rent).",
+        "Net retained earnings of resident companies abroad."
+      ]
     },
     {
       "type": "paragraph",
@@ -61,7 +138,15 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 4. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** $GDP_{MP}$ includes output produced by foreign citizens residing *inside* India's geographic borders, but EXCLUDES output by Indian citizens living abroad.\n- ⚠️ **Exam Trap 2:** $GNP_{MP}$ can be less than $GDP_{MP}$ if NFIA is **negative** (as is typically the case for developing nations with net foreign debt payments)."
+      "text": "⚖️ 4. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** $GDP_{MP}$ includes output produced by foreign citizens residing *inside* India's geographic borders, but EXCLUDES output by Indian citizens living abroad."
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** $GNP_{MP}$ can be less than $GDP_{MP}$ if NFIA is **negative** (as is typically the case for developing nations with net foreign debt payments)."
     },
     {
       "type": "heading",
@@ -74,7 +159,14 @@
     },
     {
       "type": "paragraph",
-      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** An economy has $GDP_{MP} = ₹1,200\text{ Cr}$, Depreciation $= ₹150\text{ Cr}$, NFIA $= -₹30\text{ Cr}$, Indirect Taxes $= ₹180\text{ Cr}$, and Subsidies $= ₹60\text{ Cr}$. Calculate National Income ($NNP_{FC}$).  \n**Resolution:**  \n1. $\text{NIT} = 180 - 60 = mathbf{₹120\text{ Cr}}$.  \n2. $NNP_{FC} = GDP_{MP} + \text{NFIA} - \text{Depreciation} - \text{NIT} = 1200 + (-30) - 150 - 120 = mathbf{₹900\text{ Cr}}$."
+      "content": "#### Tier 2 — Applied Scenario\n**Scenario:** An economy has $GDP_{MP} = ₹1,200\text{ Cr}$, Depreciation $= ₹150\text{ Cr}$, NFIA $= -₹30\text{ Cr}$, Indirect Taxes $= ₹180\text{ Cr}$, and Subsidies $= ₹60\text{ Cr}$. Calculate National Income ($NNP_{FC}$).  \n**Resolution:**"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "$\text{NIT} = 180 - 60 = mathbf{₹120\text{ Cr}}$.",
+        "$NNP_{FC} = GDP_{MP} + \text{NFIA} - \text{Depreciation} - \text{NIT} = 1200 + (-30) - 150 - 120 = mathbf{₹900\text{ Cr}}$."
+      ]
     },
     {
       "type": "paragraph",

@@ -44,7 +44,11 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. The Liquidity vs. Broadness Trade-off Spectrum\nMonetary aggregates trade off **Liquidity** (ease of immediate transaction) against **Broadness** (inclusion of interest-bearing savings):"
+      "text": "⚡ 1. The Liquidity vs. Broadness Trade-off Spectrum"
+    },
+    {
+      "type": "paragraph",
+      "content": "Monetary aggregates trade off **Liquidity** (ease of immediate transaction) against **Broadness** (inclusion of interest-bearing savings):"
     },
     {
       "type": "paragraph",
@@ -57,21 +61,71 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. RBI Monetary Aggregates Formula Matrix (1977 Framework)\n| Aggregate Name | Formula / Composition | Primary Economic Characteristics |\n|---|---|---|\n| **$M0$ (Reserve / Base Money)** | $\\text{Currency in Circulation} + \\text{Bankers' Deposits with RBI} + \\text{'Other' Deposits with RBI}$ | Base created directly by Central Bank (High-Powered Money) |\n| **$M1$ (Narrow Money)** | $\\text{Currency with Public} + \\text{Demand Deposits} + \\text{'Other' Deposits with RBI}$ | Highly liquid; used for day-to-day medium of exchange |\n| **$M2$** | $M1 + \\text{Savings Deposits with Post Office Savings Banks}$ | Includes small non-chequable postal savings |\n| **$M3$ (Broad Money)** | $M1 + \\text{Net Time Deposits with Commercial Banking System}$ | **Headline Money Supply measure** used by RBI |\n| **$M4$** | $M3 + \\text{Total Post Office Deposits (Excluding National Savings Certificates)}$ | Broadest measure, least liquid |"
+      "text": "📖 2. RBI Monetary Aggregates Formula Matrix (1977 Framework)"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Aggregate Name",
+        "Formula / Composition",
+        "Primary Economic Characteristics"
+      ],
+      "rows": [
+        [
+          "**$M0$ (Reserve / Base Money)**",
+          "$\\text{Currency in Circulation} + \\text{Bankers' Deposits with RBI} + \\text{'Other' Deposits with RBI}$",
+          "Base created directly by Central Bank (High-Powered Money)"
+        ],
+        [
+          "**$M1$ (Narrow Money)**",
+          "$\\text{Currency with Public} + \\text{Demand Deposits} + \\text{'Other' Deposits with RBI}$",
+          "Highly liquid; used for day-to-day medium of exchange"
+        ],
+        [
+          "**$M2$**",
+          "$M1 + \\text{Savings Deposits with Post Office Savings Banks}$",
+          "Includes small non-chequable postal savings"
+        ],
+        [
+          "**$M3$ (Broad Money)**",
+          "$M1 + \\text{Net Time Deposits with Commercial Banking System}$",
+          "**Headline Money Supply measure** used by RBI"
+        ],
+        [
+          "**$M4$**",
+          "$M3 + \\text{Total Post Office Deposits (Excluding National Savings Certificates)}$",
+          "Broadest measure, least liquid"
+        ]
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "🧮 3. New Monetary Aggregates (Y.V. Reddy Working Group, 1998)\nThe 1998 RBI Working Group introduced revised Liquidity Aggregates ($L1, L2, L3$) and Monetary Aggregates ($NM0, NM1, NM2, NM3$):"
+      "text": "🧮 3. New Monetary Aggregates (Y.V. Reddy Working Group, 1998)"
     },
     {
       "type": "paragraph",
-      "content": "- **$NM1$:** Currency with Public + Demand Deposits + 'Other' Deposits with RBI.\n- **$NM2$:** $NM1 + \\text{Short-Term Time Deposits (up to 1 year maturity)}$.\n- **$NM3$:** $NM2 + \\text{Long-Term Time Deposits (above 1 year maturity)} + \\text{Call/Term Borrowings of Banking System}$.\n- **$L1$:** $NM3 + \\text{Post Office Deposits (excl. NSC)}$.\n- **$L2$:** $L1 + \\text{Term Deposits/CDs with Financial Institutions (NABARD, NHB, SIDBI, EXIM Bank)}$.\n- **$L3$:** $L2 + \\text{NBFC Public Deposits}$."
+      "content": "The 1998 RBI Working Group introduced revised Liquidity Aggregates ($L1, L2, L3$) and Monetary Aggregates ($NM0, NM1, NM2, NM3$):"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**$NM1$:** Currency with Public + Demand Deposits + 'Other' Deposits with RBI.",
+        "**$NM2$:** $NM1 + \\text{Short-Term Time Deposits (up to 1 year maturity)}$.",
+        "**$NM3$:** $NM2 + \\text{Long-Term Time Deposits (above 1 year maturity)} + \\text{Call/Term Borrowings of Banking System}$.",
+        "**$L1$:** $NM3 + \\text{Post Office Deposits (excl. NSC)}$.",
+        "**$L2$:** $L1 + \\text{Term Deposits/CDs with Financial Institutions (NABARD, NHB, SIDBI, EXIM Bank)}$.",
+        "**$L3$:** $L2 + \\text{NBFC Public Deposits}$."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "🏛️ 4. Money Multiplier ($m$) Calculation\nThe relationship between Reserve Money ($M0$) and Broad Money ($M3$) is mediated by the **Money Multiplier ($m$)**:"
+      "text": "🏛️ 4. Money Multiplier ($m$) Calculation"
+    },
+    {
+      "type": "paragraph",
+      "content": "The relationship between Reserve Money ($M0$) and Broad Money ($M3$) is mediated by the **Money Multiplier ($m$)**:"
     },
     {
       "type": "paragraph",
@@ -79,12 +133,28 @@
     },
     {
       "type": "paragraph",
-      "content": "Where $m$ depends on:\n1. **Cash Reserve Ratio ($CRR$):** Inverse relationship ($CRR \\uparrow \\implies m \\downarrow$).\n2. **Currency-Deposit Ratio ($c = C/D$):** If public holds more cash, less money is available for bank credit creation ($c \\uparrow \\implies m \\downarrow$).\n3. **Excess Reserve Ratio ($e = ER/D$):** If banks hold excess reserves, credit creation falls ($e \\uparrow \\implies m \\downarrow$)."
+      "content": "Where $m$ depends on:"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**Cash Reserve Ratio ($CRR$):** Inverse relationship ($CRR \\uparrow \\implies m \\downarrow$).",
+        "**Currency-Deposit Ratio ($c = C/D$):** If public holds more cash, less money is available for bank credit creation ($c \\uparrow \\implies m \\downarrow$).",
+        "**Excess Reserve Ratio ($e = ER/D$):** If banks hold excess reserves, credit creation falls ($e \\uparrow \\implies m \\downarrow$)."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 5. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** $M1$ includes ONLY Demand Deposits (Current Account & Savings Account CASA demand portion). It does NOT include Fixed Deposits (Time Deposits). Fixed Deposits belong to $M3$!\n- ⚠️ **Exam Trap 2:** $M4$ excludes National Savings Certificates (NSC). It includes all other post office deposits."
+      "text": "⚖️ 5. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** $M1$ includes ONLY Demand Deposits (Current Account & Savings Account CASA demand portion). It does NOT include Fixed Deposits (Time Deposits). Fixed Deposits belong to $M3$!"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** $M4$ excludes National Savings Certificates (NSC). It includes all other post office deposits."
     },
     {
       "type": "heading",

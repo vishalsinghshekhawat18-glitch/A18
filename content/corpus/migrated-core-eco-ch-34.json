@@ -44,12 +44,42 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚡ 1. Commercial Bank Balance Sheet Structure\n| Bank Liabilities (What Bank OWES) | Bank Assets (What Bank OWNS / Claims) |\n|---|---|\n| Current Account Deposits | Cash in Vault & Cash with RBI (CRR) |\n| Savings Account Deposits | Balances with other Banks |\n| Fixed / Term Deposits | Investments in G-Secs (SLR) & Bonds |\n| Borrowings from RBI (Repo/MSF) | Loans and Advances extended to borrowers |"
+      "text": "⚡ 1. Commercial Bank Balance Sheet Structure"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Bank Liabilities (What Bank OWES)",
+        "Bank Assets (What Bank OWNS / Claims)"
+      ],
+      "rows": [
+        [
+          "Current Account Deposits",
+          "Cash in Vault & Cash with RBI (CRR)"
+        ],
+        [
+          "Savings Account Deposits",
+          "Balances with other Banks"
+        ],
+        [
+          "Fixed / Term Deposits",
+          "Investments in G-Secs (SLR) & Bonds"
+        ],
+        [
+          "Borrowings from RBI (Repo/MSF)",
+          "Loans and Advances extended to borrowers"
+        ]
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📖 2. Credit Multiplier Worked Example\n$$\\text{Total Deposit Expansion} = \\text{Initial Primary Deposit} \\times \\left( \\frac{1}{LRR} \\right)$$"
+      "text": "📖 2. Credit Multiplier Worked Example"
+    },
+    {
+      "type": "formula",
+      "latex": "\\text{Total Deposit Expansion} = \\text{Initial Primary Deposit} \\times \\left( \\frac{1}{LRR} \\right)",
+      "explanation": ""
     },
     {
       "type": "paragraph",
@@ -58,7 +88,15 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "⚖️ 3. Common Prelims & Mains Traps\n- ⚠️ **Exam Trap 1:** Deposits are **Liabilities** for commercial banks (because banks must return money to depositors), whereas Loans given out are **Assets**!\n- ⚠️ **Exam Trap 2:** High CASA ratio reduces a bank's cost of capital, increasing its **Net Interest Margin (NIM)**."
+      "text": "⚖️ 3. Common Prelims & Mains Traps"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 1:** Deposits are **Liabilities** for commercial banks (because banks must return money to depositors), whereas Loans given out are **Assets**!"
+    },
+    {
+      "type": "exam_trap",
+      "content": "⚠️ **Exam Trap 2:** High CASA ratio reduces a bank's cost of capital, increasing its **Net Interest Margin (NIM)**."
     },
     {
       "type": "heading",

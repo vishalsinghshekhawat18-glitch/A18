@@ -209,7 +209,15 @@
     },
     {
       "type": "paragraph",
-      "content": "Three types, based on the tense in the \"if\" part:\n- Real/possible: If + simple present → will/can/may/must + base verb\n- Unreal present: If + simple past → would/could/might + base verb\n- Unreal past (too late): If + past perfect → would have + past participle"
+      "content": "Three types, based on the tense in the \"if\" part:"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Real/possible: If + simple present → will/can/may/must + base verb",
+        "Unreal present: If + simple past → would/could/might + base verb",
+        "Unreal past (too late): If + past perfect → would have + past participle"
+      ]
     },
     {
       "type": "bullet_list",
@@ -940,8 +948,12 @@
       "text": "11. Verb Forms That Trip People Up [99, 100]"
     },
     {
-      "type": "paragraph",
-      "content": "- Found (establish) → Founded, Founded — vs Find → Found, Found.\n- Hang (a person) → Hanged, Hanged. Hang (an object) → Hung, Hung.\n- Lie (tell untruth) → Lied, Lied. Lay (put something down) → Laid, Laid. Lie (recline) → Lay, Lain."
+      "type": "bullet_list",
+      "items": [
+        "Found (establish) → Founded, Founded — vs Find → Found, Found.",
+        "Hang (a person) → Hanged, Hanged. Hang (an object) → Hung, Hung.",
+        "Lie (tell untruth) → Lied, Lied. Lay (put something down) → Laid, Laid. Lie (recline) → Lay, Lain."
+      ]
     },
     {
       "type": "bullet_list",
