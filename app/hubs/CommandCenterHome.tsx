@@ -322,46 +322,104 @@ export const CommandCenterHome: React.FC<Props> = ({
               </button>
             </div>
 
-            {/* 2026 Month Grid */}
+            {/* 2026 Periods / Months Grid */}
             <div className="ca-box-year-group">
-              <div className="ca-box-year-label">2026 MONTHS</div>
-              <div className="ca-box-month-grid">
-                {[
-                  { label: 'JAN', key: '2026-01', active: true },
-                  { label: 'FEB', key: '2026-02', active: true },
-                  { label: 'MAR', key: '2026-03', active: true },
-                  { label: 'APR', key: '2026-04', active: true },
-                  { label: 'MAY', key: '2026-05', active: true },
-                  { label: 'JUN', key: '2026-06', active: true },
-                  { label: 'JUL', key: '2026-07', active: true },
-                  { label: 'AUG', key: '2026-08', active: true },
-                  { label: 'SEPT', key: '2026-09', active: false },
-                  { label: 'OCT', key: '2026-10', active: false },
-                  { label: 'NOV', key: '2026-11', active: false },
-                  { label: 'DEC', key: '2026-12', active: false }
-                ].map(m => (
-                  <button
-                    key={m.key}
-                    className={`ca-box-month-btn ${m.active ? 'is-active' : 'is-upcoming'}`}
-                    disabled={!m.active}
-                    onClick={() => {
-                      if (m.active) {
-                        const targetItem = items.find(i =>
-                          isItemInSubject(i, 'current-affairs') &&
-                          i.metadata?.date?.startsWith(m.key)
-                        );
-                        if (targetItem) {
-                          onSelectItem(targetItem.id);
-                        } else {
-                          onSelectSubject('current-affairs');
-                        }
-                      }
-                    }}
-                    title={m.active ? `View ${m.label} 2026 Briefings` : `${m.label} 2026 Upcoming`}
-                  >
-                    {m.label}
-                  </button>
-                ))}
+              <div className="ca-box-year-label">2026 COVERAGE PERIODS</div>
+              <div className="ca-box-periods-container">
+                {/* Active Period 1: January - March (Q4 FY26 Consolidated Master Feed) */}
+                <button
+                  className="ca-box-period-card is-active"
+                  onClick={() => {
+                    const targetItem = items.find(i =>
+                      isItemInSubject(i, 'current-affairs') &&
+                      (i.metadata?.period === '2026-Q4' || i.id.includes('2026-q4') || i.metadata?.monthGroup === '2026-01-03')
+                    );
+                    if (targetItem) {
+                      onSelectItem(targetItem.id);
+                    } else {
+                      onSelectSubject('current-affairs');
+                    }
+                  }}
+                  title="Open January – March 2026 Consolidated Master Briefings"
+                >
+                  <div className="period-card-header">
+                    <span className="period-card-badge">Q4 MASTER FEED</span>
+                    <span className="period-card-count">
+                      {items.filter(i => isItemInSubject(i, 'current-affairs') && (i.metadata?.period === '2026-Q4' || i.id.includes('2026-q4') || i.metadata?.monthGroup === '2026-01-03')).length || 196} Notes
+                    </span>
+                  </div>
+                  <div className="period-card-title">JANUARY – MARCH</div>
+                  <div className="period-card-sub">All Sections (SEC 1 to 11) Covered</div>
+                </button>
+
+                {/* Active Period 2: July 2026 */}
+                <button
+                  className="ca-box-period-card is-active"
+                  onClick={() => {
+                    const targetItem = items.find(i =>
+                      isItemInSubject(i, 'current-affairs') &&
+                      i.metadata?.date?.startsWith('2026-07')
+                    );
+                    if (targetItem) {
+                      onSelectItem(targetItem.id);
+                    } else {
+                      onSelectSubject('current-affairs');
+                    }
+                  }}
+                  title="Open July 2026 Monthly Briefings"
+                >
+                  <div className="period-card-header">
+                    <span className="period-card-badge">MONTHLY FEED</span>
+                    <span className="period-card-count">
+                      {items.filter(i => isItemInSubject(i, 'current-affairs') && i.metadata?.date?.startsWith('2026-07')).length || 58} Notes
+                    </span>
+                  </div>
+                  <div className="period-card-title">JULY 2026</div>
+                  <div className="period-card-sub">Daily Briefings & Master Tables</div>
+                </button>
+
+                {/* Active Period 3: August 2026 */}
+                <button
+                  className="ca-box-period-card is-active"
+                  onClick={() => {
+                    const targetItem = items.find(i =>
+                      isItemInSubject(i, 'current-affairs') &&
+                      i.metadata?.date?.startsWith('2026-08')
+                    );
+                    if (targetItem) {
+                      onSelectItem(targetItem.id);
+                    } else {
+                      onSelectSubject('current-affairs');
+                    }
+                  }}
+                  title="Open August 2026 Monthly Briefings"
+                >
+                  <div className="period-card-header">
+                    <span className="period-card-badge">MONTHLY FEED</span>
+                    <span className="period-card-count">
+                      {items.filter(i => isItemInSubject(i, 'current-affairs') && i.metadata?.date?.startsWith('2026-08')).length || 21} Notes
+                    </span>
+                  </div>
+                  <div className="period-card-title">AUGUST 2026</div>
+                  <div className="period-card-sub">Daily Briefings & Master Tables</div>
+                </button>
+
+                {/* Upcoming / Ingestion Placeholders */}
+                <div className="ca-box-period-card is-upcoming" title="April to June Ingestion Pipeline">
+                  <div className="period-card-header">
+                    <span className="period-card-badge upcoming">UPCOMING</span>
+                  </div>
+                  <div className="period-card-title">APRIL – JUNE</div>
+                  <div className="period-card-sub">Q1 Ingestion Pipeline</div>
+                </div>
+
+                <div className="ca-box-period-card is-upcoming" title="September to December Ingestion Pipeline">
+                  <div className="period-card-header">
+                    <span className="period-card-badge upcoming">UPCOMING</span>
+                  </div>
+                  <div className="period-card-title">SEPT – DEC</div>
+                  <div className="period-card-sub">H2 Ingestion Pipeline</div>
+                </div>
               </div>
             </div>
 

@@ -488,39 +488,92 @@ body {
   letter-spacing: 0.05em;
 }
 
-.ca-box-month-grid {
+.ca-box-periods-container {
   display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  gap: 0.35rem;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 0.75rem;
   width: 100%;
+  margin-top: 0.3rem;
 }
 
-.ca-box-month-btn {
-  padding: 0.45rem 0.2rem;
+.ca-box-period-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 0.8rem 0.9rem;
   background-color: var(--bg-subcard);
   border: 1px solid var(--border-subtle);
-  color: var(--text-accent);
-  font-family: var(--font-ui);
-  font-size: 0.78rem;
-  font-weight: 800;
-  letter-spacing: 0.04em;
-  border-radius: 3px;
+  border-radius: 6px;
   cursor: pointer;
-  text-align: center;
-  transition: all 0.15s ease;
+  text-align: left;
+  transition: all 0.18s ease;
+  min-height: 84px;
 }
 
-.ca-box-month-btn.is-active:hover {
+.ca-box-period-card.is-active {
+  background-color: var(--bg-card);
+  border-color: var(--border-subtle);
+}
+
+.ca-box-period-card.is-active:hover {
   background-color: var(--bg-accent-subtle);
-  border-color: var(--text-accent);
-  transform: translateY(-1px);
+  border-color: #9e3b24;
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-sm);
 }
 
-.ca-box-month-btn.is-upcoming {
-  opacity: 0.5;
-  cursor: not-allowed;
-  background-color: var(--bg-sidebar);
+.ca-box-period-card.is-upcoming {
+  opacity: 0.55;
+  cursor: default;
+  background-color: var(--bg-subcard);
+  border-style: dashed;
+}
+
+.period-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.35rem;
+}
+
+.period-card-badge {
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  font-weight: 800;
+  color: #1e40af;
+  background: #dbeafe;
+  padding: 0.1rem 0.4rem;
+  border-radius: 4px;
+  letter-spacing: 0.04em;
+}
+
+.period-card-badge.upcoming {
   color: var(--text-muted);
+  background: var(--bg-sidebar);
+}
+
+.period-card-count {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  font-weight: 700;
+  color: var(--text-secondary);
+}
+
+.period-card-title {
+  font-family: var(--font-ui);
+  font-size: 0.88rem;
+  font-weight: 800;
+  color: var(--text-accent);
+  letter-spacing: 0.03em;
+  line-height: 1.25;
+}
+
+.period-card-sub {
+  font-family: var(--font-ui);
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  margin-top: 0.25rem;
+  line-height: 1.2;
 }
 
 /* Header Age Counter Display (29.10) */
