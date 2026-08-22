@@ -1,0 +1,17 @@
+const a="ras-pol-ch-1-rajasthan-governor-cm-assembly",e="chapter",t="polity",i="RAS Polity Chapter 1: Governor of Rajasthan, Chief Minister & State Legislative Assembly",s="Exhaustive administrative guide for RPSC RAS Pre & Mains on the Governor of Rajasthan, CM Secretariat, Vidhan Sabha rules, and key historical milestones...",n=[{id:"blk-ras-pol-1",type:"paragraph",content:`### 🏛️ State Executive & Legislature of Rajasthan
+
+1. **Governor of Rajasthan (Articles 153–161):**
+   • **Historical Evolution:** The post of Governor in Rajasthan was created on **1 November 1956** (following the 7th Constitutional Amendment Act and the State Reorganisation Act, replacing the post of *Rajpramukh* held by Maharaja Sawai Man Singh II of Jaipur).
+   • **First Governor:** **Gurumukh Nihal Singh** (1 Nov 1956 – 16 Apr 1962, longest serving Governor of Rajasthan).
+   • **First Woman Governor:** **Pratibha Patil** (8 Nov 2004 – 21 Jun 2007; later 1st woman President of India).
+   • **Four Governors who died in office:** Darbara Singh (1998), Nirmal Chandra Jain (2003), S.K. Singh (2009), and Prabha Rau (2010).
+2. **Chief Minister & State Council of Ministers (Articles 163–167):**
+   • **First Nominated CM:** Hiralal Shastri (7 Apr 1949 – 5 Jan 1951).
+   • **First Democratically Elected CM:** Tikaram Paliwal (3 Mar 1952 – 31 Oct 1952).
+   • **Modern Rajasthan Builder:** Mohan Lal Sukhadia (served for ~17 years across 4 terms: 1954–1971).
+3. **Rajasthan Legislative Assembly (Vidhan Sabha):**
+   • **Seat Strength:** Initially 160 seats in 1st Assembly (1952) (	o) expanded to **200 seats** in the 6th Assembly (1977 onwards).
+   • **Seat Reservation:** SC: **34 seats**; ST: **25 seats**; General: 141 seats (Unicameral Legislature; zero Legislative Council).
+   • **First Speaker:** Narottam Lal Joshi; **First Deputy Speaker:** Lal Singh Shaktawat.`},{id:"blk-ras-pol-1-table",type:"table",headers:["Constitutional Office","First Incumbent","Key Historical Milestone / Landmark Fact"],rows:[["Governor of Rajasthan","Gurumukh Nihal Singh (1956)","Replaced the office of Rajpramukh on 1 Nov 1956"],["First Woman Governor","Pratibha Patil (2004)","Resigned in 2007 to become President of India"],["First Elected CM","Tikaram Paliwal (1952)","First general elections held in Jan 1952"],["First Woman CM","Vasundhara Raje (2003)","Elected in 12th Rajasthan Legislative Assembly"],["First Assembly Speaker","Narottam Lal Joshi","Elected from Jhunjhunu constituency"]]},{id:"blk-ras-pol-1-trap",type:"exam_trap",content:`🎯 Exam Angle → 🔥 HIGH — RPSC RAS Recurring Traps:
+1. **First CM Distinction:** First *Nominated* CM = Hiralal Shastri (1949); First *Elected* CM = Tikaram Paliwal (1952); First person to be both Nominated and Elected CM = Jai Narayan Vyas.
+2. **Assembly Seats Evolution:** 1st Assembly = 160 seats; 200 seats reached in the 6th Assembly (1977).`}],r={exam:["RPSC RAS Prelims 2026","RPSC RAS Mains 2026","Rajasthan Police SI"],tags:["polity","rpsc-ras","rajasthan-polity","governor","vidhan-sabha"],category:"Polity",sectionCode:"POL",difficulty:"advanced",relevanceTier:"TIER_A",noteTier:"TIER_A",date:"2026-08-20",period:"2026-Q4",provenance:{sourceSystem:"DF-EIC",sourceFile:"Phase 3 RAS Suite",sourceTitle:"RAS Polity Chapter 1"},noteNumber:547},o=[],l={id:a,type:e,domain:t,title:i,summary:s,blocks:n,metadata:r,relationships:o};export{n as blocks,l as default,t as domain,a as id,r as metadata,o as relationships,s as summary,i as title,e as type};

@@ -1,0 +1,6 @@
+const e="ca-2026-07-sec1-small-savings-pf-interest-rates-julsep-2026",a="ca_note",t="current-affairs",n="Small Savings & PF Interest Rates (Jul–Sep 2026)",s="Small Savings & PF Interest Rates (Jul–Sep 2026)",r=[{id:"blk-3-table",type:"paragraph",content:`| Scheme | Rate | Key limits |
+|---|---|---|
+| PPF | 7.10% | Min ₹500, Max ₹1.5L; loan 3rd–6th FY |
+| Sukanya Samriddhi | 8.20% | Min ₹250, Max ₹1.5L/FY; girl ≤10 yrs |
+| GPF | 7.1% (unchanged) | Govt employees only |
+| EPF (comparison) | 8.25% (FY26) | — |`},{id:"blk-3-trap",type:"exam_trap",content:"🎯 Exam Angle → 🔥 HIGH — Rate-matching trap (7.10 vs 7.1 vs 8.20 vs 8.25)."}],i={exam:["SBI PO Mains 2026","IBPS PO Mains 2026","RBI Grade B 2026"],tags:["current-affairs","2026-07","sec1","claude-core-v3"],category:"SEC1",sectionCode:"SEC1",difficulty:"advanced",relevanceTier:"TIER_A",noteTier:"TIER_A",date:"2026-07-04",period:"2026-07",monthLabel:"JULY 2026",monthGroup:"2026-07",provenance:{sourceSystem:"Claude",sourceFile:"current_affairs_July2026_core.md",sourceTitle:"Small Savings & PF Interest Rates (Jul–Sep 2026)"},noteNumber:104},o=[],l={id:e,type:a,domain:t,title:n,summary:s,blocks:r,metadata:i,relationships:o};export{r as blocks,l as default,t as domain,e as id,i as metadata,o as relationships,s as summary,n as title,a as type};

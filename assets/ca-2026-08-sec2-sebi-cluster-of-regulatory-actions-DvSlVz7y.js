@@ -1,0 +1,33 @@
+const e="ca-2026-08-sec2-sebi-cluster-of-regulatory-actions",t="ca_note",r="current-affairs",a="SEBI — Cluster of Regulatory Actions",n="HQ SEBI: Mumbai | Chairman: Tuhin Kanta Pandey | Estd: 1992.",i=[{id:"blk-24-p",type:"paragraph",content:`**A) GARUDA framework for AIFs** — Green-Channel: AIF Rollout Upon Document Acknowledgement; regular AIF schemes can commence ops **10 working days** after PPM filing via merchant banker (unless SEBI objects); AI-only funds/LVFs/Angel Funds exempted from PPM filing.
+
+**B) New CAS (Closing Auction Session) — effective 3 Aug 2026** — For F&O-eligible (Category I) stocks: Regular trading till 3:15 PM → Transition 3:15–3:20 → Order Entry I 3:20–3:25 → Order Entry II 3:25–3:30 (no modification) → Matching 3:30–3:35 PM; CAS price = official closing price. Non-F&O stocks unchanged (close 3:30 PM). Revised pre-open: 9:00–9:07 order entry → 9:07–9:15 matching → 9:15 market opens.
+
+**C) Digital accessibility audit deadline extended** to Oct 31, 2026 (from Apr 30/Jul 31, 2026), under RPwD Act 2016.
+
+**D) Off-market sale of unlisted shares clarified** — sale to ≤200 buyers/FY via private negotiated deal ≠ public issue (informal guidance to IDBI Bank); QIB placements excluded from 200-count; ROFR rights honoured.
+
+**E) ESG anti-"purpose-washing" safeguards** — issuers of ESG debt must track/disclose fund usage; BRSR mandatory for top 1,000 listed cos by market cap since FY2022-23 (9 NGRBC principles); new mandatory registration framework for ESG Rating Providers — 19 ERPs currently registered.
+
+**F) DRs against REITs/InvITs** — proposed, to attract foreign capital; excludes privately-listed InvITs.
+
+**G) Municipal debt timeline relaxation** — Half-yearly unaudited: 45→60 days; Annual audited: 60→90 days; new 2-step escrow mechanism for pooled-finance SPVs (must maintain ≥1 yr's interest obligation).
+
+**H) FPI access to physically-settled non-agri commodity derivatives proposed** — currently only cash-settled (permitted since 2022); safeguards: voluntary square-off + automatic TM/TCM transfer backstop; "Proprietary Risk Absorption Charge."
+
+**I) Commodity-derivatives stress-testing Z-score cut: 10 → 5** — Core SGF standardised framework (mean/sigma of returns over MPOR, 15-yr window).
+
+**J) Retail F&O losses fell in FY26** — aggregate retail net losses in equity derivatives: **₹1,11,788 cr → ₹91,685 cr**; unique individual investors down to 78.60 lakh. Measures: rationalised index derivatives, higher contract size, higher tail-risk cover, upfront premium collection, intraday position monitoring.
+
+**K) Colour-coded Credit Risk-o-Meter for debt securities proposed** — mandatory for issuers + OBPPs; **6 levels**: Irish Green (lowest) → Chartreuse → Neon Yellow → Caramel → Dark Orange → Red (highest); based on lowest rating if multi-rated; unsecured debt flagged in bold red text.
+
+**L) Wider Accredited Investor eligibility proposed** — new asset thresholds: Individuals ≥₹5 cr securities-market assets; Body corporates ≥₹20 cr; manager-led accreditation added; validity 3 years.
+
+**M) Fully digital KYC for NRIs/OCIs/foreign nationals proposed** — via e-signature/Video KYC; FATF non-compliant countries excluded from relaxation.
+
+**N) Incident Reporting Portal + Cyber Suraksha Portal launched** — at Symposium on Cyber Defence (17–21 Aug 2026, Mumbai); Incident Reporting Portal aligned with FSB format; Cyber Suraksha = knowledge-sharing hub.
+
+**O) Single-form MF registration proposed** — merges Form A + C + D into one; Route 1 (avg net profit ≥₹10 cr, 5-yr track record) vs Route 2 (₹150 cr AMC net worth, 30-yr combined key-official experience).
+
+**P) Settlement-framework overhaul proposed** — settlement-to-penalty ratio 8×→4×; fast-track route for cases up to ₹10 lakh (skips HPAC); disgorgement interest 9% p.a. → 12% p.a. post-final-order.
+
+**Q) SEBI Annual Report 2025-26** — India ranked **1st globally by number of IPOs**, **3rd by funds raised** (FY26); MPS timeline extended to 10 yrs for largest listcos; founders can retain pre-IPO ESOPs; corporate bond mobilisation fell 8.4% to ₹9.1 lakh Cr (1st fall in 4 yrs); ₹87,124 cr flagged as difficult-to-recover dues (+12%); MF AUM: ₹31.43 lakh cr (Mar 2021) → **₹73.7 lakh cr** (Mar 2026); unique MF investors 6.1 cr (+13.2% YoY); Real GDP growth estimated 7.7% (2025-26).`},{id:"blk-24-bullets",type:"bullet_list",items:["HQ SEBI: Mumbai | Chairman: Tuhin Kanta Pandey | Estd: 1992."]},{id:"blk-24-status",type:"paragraph",content:"⏰ Status: Items C, F, G, H, K, L, M, O, P are still at proposal/draft/consultation stage — not yet notified as final regulations. B and I are already in effect."},{id:"blk-24-trap",type:"exam_trap",content:"🎯 Exam Angle → 🔥 HIGH — India's global IPO rank (1st by number, 3rd by funds raised) is a recurring MCQ; CAS effective date (3 Aug 2026) and its timing sequence; MF AUM growth (₹31.43→₹73.7 lakh cr)."}],s={exam:["SBI PO Mains 2026","IBPS PO Mains 2026","RBI Grade B 2026"],tags:["current-affairs","2026-08","sec2","claude-core-v3"],category:"SEC2",sectionCode:"SEC2",difficulty:"advanced",relevanceTier:"TIER_A",noteTier:"TIER_A",date:"2026-08-17",period:"2026-08",monthLabel:"AUGUST 2026",monthGroup:"2026-08",provenance:{sourceSystem:"Claude",sourceFile:"current_affairs_Aug1-17_2026_CORE.md",sourceTitle:"SEBI — Cluster of Regulatory Actions"},noteNumber:25},o=[],l={id:e,type:t,domain:r,title:a,summary:n,blocks:i,metadata:s,relationships:o};export{i as blocks,l as default,r as domain,e as id,s as metadata,o as relationships,n as summary,a as title,t as type};

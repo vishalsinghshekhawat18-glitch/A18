@@ -1,0 +1,11 @@
+const n="ca-2026-q4-sec7-indices-rankings",a="ca_note",e="current-affairs",t="Consolidated Global Indices & India’s International Rankings (Q4 FY26)",i=`📊 **Macro & Economic Governance Indices:**
+• **Global Innovation Index 2025-26:** India advanced significantly to **Rank 38** (up from 81st).
+• **Network Readi...`,o=[{id:"blk-ca-2026-q4-sec7-indices-rankings-bullets",type:"bullet_list",items:[`📊 **Macro & Economic Governance Indices:**
+• **Global Innovation Index 2025-26:** India advanced significantly to **Rank 38** (up from 81st).
+• **Network Readiness Index 2025:** Ranked **45th** (Score: 54.43.`,`#1 globally in telecom investment and AI publications).
+• **Corruption Perceptions Index 2025 (Transparency Intl):** Ranked **91st / 182 countries** (Score: 39.`,`Denmark #1 for 8th year).
+• **Global Terrorism Index 2026 (13th edn, IEP):** Ranked **13th** (Score: 6.428.`,"worst affected: Pakistan, Burkina Faso, Niger).",`✈️ **Mobility & Brand Finance Rankings:**
+• **Henley Passport Index 2026:** India ranked **75th** with visa-free access to **56 countries** (moved up from 80th in Jan).
+• **Global Soft Power Index 2026 (Brand Finance):** Ranked **32nd** (Score: 48.0).
+• **Brand Finance Banking 500 (2026):** HDFC Bank ranked **31st ($12.4Bn)** and SBI ranked **56th ($8.1Bn, AAA+ rating)**.
+• **Skytrax World Airport Awards 2026:** Delhi IGI Airport ranked **28th globally** (Singapore Changi #1 for 13th time).`]},{id:"blk-ca-2026-q4-sec7-indices-rankings-trap",type:"exam_trap",content:"🎯 Exam Angle → 🔥 HIGH — Henley Passport rank is 75th (56 visa-free destinations); GII rank is 38th; CPI rank is 91st; HDFC Bank 31st vs SBI 56th in Banking 500."}],s={exam:["SBI PO Mains 2026","IBPS PO Mains 2026","RBI Grade B 2026"],tags:["current-affairs","2026-q4","jan-mar-2026","sec7","claude-consolidated"],category:"SEC7",sectionCode:"SEC7",difficulty:"advanced",relevanceTier:"TIER_A",noteTier:"TIER_A",date:"2026-03-31",period:"2026-Q4",monthLabel:"JANUARY – MARCH 2026",monthGroup:"2026-01-03",provenance:{sourceSystem:"Claude",sourceFile:"Q4 FY26_Jan to March.md",sourceTitle:"Indices & Rankings"},noteNumber:309},r=[],c={id:n,type:a,domain:e,title:t,summary:i,blocks:o,metadata:s,relationships:r};export{o as blocks,c as default,e as domain,n as id,s as metadata,r as relationships,i as summary,t as title,a as type};

@@ -1,0 +1,26 @@
+const a="ca-2026-08-sec5-appointments-cluster",e="ca_note",n="current-affairs",r="Appointments Cluster",t="Appointments Cluster",s=[{id:"blk-58-table",type:"paragraph",content:`| Name | Position |
+|---|---|
+| **Varsha Ashok Aglawe** | 54th DG, Geological Survey of India — **1st woman to head GSI** in its 176-year history |
+| Air Marshal Sandeep Thareja | DGAFMS, w.e.f. Aug 31, 2026 (succeeds Surg VAdm Arti Sarin) |
+| K. Rajaraman | IFSCA Chairperson — extended (see Sec 2) |
+| Air Marshal Tejpal Singh | Deputy Chief of Air Staff (succeeds Air Marshal Awadhesh Kumar Bharti) |
+| VAdm A.N. Pramod | Deputy Chief of Naval Staff (succeeds VAdm Tarun Sobti) |
+| VAdm Manish Chadha | Director General Naval Operations (succeeds VAdm A.N. Pramod, who moved DGNO→DCNS) |
+| A.S. Rajeev | Acting CVC (succeeds Praveen Kumar Srivastava) |
+| Prasanta Mahapatra | Executive Director, SEBI |
+| Monisha Chakraborty | Executive Director, RBI |
+| Alka Nangia Arora | CGDA (succeeds Anugraha Narayana Das) |
+| Satya Pal Kumar | Director, FIU-IND (5-yr tenure, succeeds Pankaj Kumar Mishra) |
+| Dr. T.V. Somanathan | Cabinet Secretary — 1-yr extension |
+| Govind Mohan | Home Secretary — 1-yr extension |
+| Tewolde Gebremariam | MD & CEO, Air India (succeeds Campbell Wilson) |
+| Willie Walsh (ex-IATA chief) | CEO, IndiGo |
+| Rahul Navin | ED Director — 1-yr extension till Aug 13, 2027 |
+| Vishwesh Negi | Ambassador of India to Iran |
+| Ajay Kumar | Ambassador of India to Iraq (next) |
+| Bimal N Patel | Judge, ITLOS (HQ Hamburg) |
+| Ashish Singh | MD & CEO, Manappuram Finance (w.e.f. Jan 1, 2027; Bain Capital acquiring 18% stake, ₹4,385 Cr) |
+| Anurag Jain | CEO, NITI Aayog |
+| Shabnam Sinha | Non-executive Chairperson, Airtel Payments Bank |
+| ACC overseas appointments | 10 fresh + 1 extension (ADB, IMF, SAARC, Tokyo, Rome, ICAO, World Bank posts) — incl. Rahul Jain (Sr Adviser to ED-India, IMF), Baldeo Purushartha (Sr Adviser to ED, ADB), Satyajit Mohanty (India's Rep, ICAO Council) |
+| International | Todd Blanche (US AG) · Abelardo de la Espriella (Colombia President) · András Baka (Hungary President) · N. Chandrasekaran (stepping down as Tata Sons Chairman on term end) |`},{id:"blk-58-trap",type:"exam_trap",content:"🎯 Exam Angle → 🔥 HIGH — Varsha Aglawe = 1st woman DG of GSI (176-yr-old org); note the DGNO/DCNS sequence (Pramod moved DGNO→DCNS, Chadha became new DGNO) as a cross-week trap."}],i={exam:["SBI PO Mains 2026","IBPS PO Mains 2026","RBI Grade B 2026"],tags:["current-affairs","2026-08","sec5","claude-core-v3"],category:"SEC5",sectionCode:"SEC5",difficulty:"advanced",relevanceTier:"TIER_A",noteTier:"TIER_A",date:"2026-08-17",period:"2026-08",monthLabel:"AUGUST 2026",monthGroup:"2026-08",provenance:{sourceSystem:"Claude",sourceFile:"current_affairs_Aug1-17_2026_CORE.md",sourceTitle:"Appointments Cluster"},noteNumber:59},o=[],c={id:a,type:e,domain:n,title:r,summary:t,blocks:s,metadata:i,relationships:o};export{s as blocks,c as default,n as domain,a as id,i as metadata,o as relationships,t as summary,r as title,e as type};

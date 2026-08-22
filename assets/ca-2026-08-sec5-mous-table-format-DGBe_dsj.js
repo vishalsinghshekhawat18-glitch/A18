@@ -1,0 +1,28 @@
+const a="ca-2026-08-sec5-mous-table-format",e="ca_note",n="current-affairs",t="MoUs (table format)",r="MoUs (table format)",o=[{id:"blk-55-table",type:"paragraph",content:`| MoU Between | Purpose |
+|---|---|
+| IIT Gandhinagar + IAIRO | AI research (IAIRO at GIFT City) |
+| FSID + C-DOT | New CoE at IISc Bengaluru — C-DOT's 5th CoE (after IIT Kanpur, Gandhinagar, Roorkee, Hyderabad) |
+| Ministry of Ayush + IndiaAI | AI-driven innovation across Ayush sector; AIKosh = India's national sovereign AI repository |
+| MoTA + CSIR-NBRI | Tribal bioresource conservation, 3-year partnership |
+| DAY-NRLM (MoRD) + PCI India | Women-led enterprise MoU (DAY-NRLM: 100.5 mn women, 9 mn SHGs) |
+| NSDC + AVPL International | Drone Technology skilling — 350 ASCs over 3 yrs (75 in Yr 1) |
+| C-DAC + Geological Survey of India | Geoscience/mineral exploration/disaster mgmt via AI+HPC |
+| Pawan Hans + Noemi Aerospace (Norway) | Electric seaplane tech |
+| Ministry of Culture+Tourism + Netflix | 'As Seen on Netflix' section on Incredible India Portal |
+| Bajaj General Insurance + Swiss Re Corporate Solutions | Commercial insurance partnership |
+| DigiLocker (NeGD) + AAERI | Launch 'AAERI Verify' |
+| MoSPI + IDEAS Foundation + ISI Kolkata | GDP Nowcasting tool |
+| Lohia Aerospace + Massivit 3D (Israel) | India's 1st large-format 3D-printing composite tooling installation, Kanpur |
+| BEL + Esri India | GIS/GeoAI defence collaboration |
+| ASSOCHAM + Business France / IACCIA | Trade & investment MoUs |
+| GVMC + Government of Moscow | Smart city/urban transport MoC |
+| Jupiter Wagons + Lucchini RS (Italy) | India's 1st fully integrated private railwheel mfg platform — Odisha, ₹2,500 Cr |
+| DPIIT — 5 MoUs | Startup ecosystem: Cashfree, Darwin Dynamics, Vultr India, Cars24, Council for Startup India |
+| CCRAS + BIS | Ayush quality standards — BIS's 100th MoU overall, 1st with any Ayush body |
+| PMS Bazaar + NSDL Database Mgmt | SEBI Accredited Investor certification |
+| MSME Ministry + DPIIT | GI commercialisation/global access; strengthen ODOP |
+| DIBD + NITI Aayog | Multilingual voice-first AI (BHASHINI for Seva/Sanchalan) — 36 Indian text, 23 Indian voice, 35 international languages |
+| MakeMyTrip + Ministry of Tourism | Guided tours (heritage/culture/spirituality/cuisine) |
+| Paramotor Digital Technology + NSDL Payments Bank | Co-branded prepaid cards |
+| PNB + GYFTR Ltd | 3-year rewards platform for PNB credit-card customers |
+| BSE + PHDCCI | MSME equity financing/capital-market access |`},{id:"blk-55-trap",type:"exam_trap",content:"🎯 Exam Angle → 🔥 HIGH — India's 1st fully integrated private railwheel platform (Jupiter Wagons); BHASHINI's language trio (36/23/35); 'As Seen on Netflix' — frequent MCQ material."}],i={exam:["SBI PO Mains 2026","IBPS PO Mains 2026","RBI Grade B 2026"],tags:["current-affairs","2026-08","sec5","claude-core-v3"],category:"SEC5",sectionCode:"SEC5",difficulty:"advanced",relevanceTier:"TIER_A",noteTier:"TIER_A",date:"2026-08-17",period:"2026-08",monthLabel:"AUGUST 2026",monthGroup:"2026-08",provenance:{sourceSystem:"Claude",sourceFile:"current_affairs_Aug1-17_2026_CORE.md",sourceTitle:"MoUs (table format)"},noteNumber:56},s=[],c={id:a,type:e,domain:n,title:t,summary:r,blocks:o,metadata:i,relationships:s};export{o as blocks,c as default,n as domain,a as id,i as metadata,s as relationships,r as summary,t as title,e as type};

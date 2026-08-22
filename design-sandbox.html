@@ -1,0 +1,719 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Scheme Button & Deep-Dive Sandbox | Banking Command Center</title>
+  
+  <!-- Locked Font: Lexend -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      /* Kindle Sepia Tokens */
+      --bg-canvas: #fbf0d9;
+      --bg-card: #f5ebce;
+      --bg-subcard: #dfcfb2;
+      --text-main: #2b2216;
+      --text-secondary: #5a4c3e;
+      --text-muted: #857259;
+      --text-accent: #6b4d24;
+      --border-subtle: #e5d6b3;
+      --border-line: #dfcca0;
+      --border-strong: #bfae8e;
+      --border-warning: #c28928;
+      --bullet-color: #9c8466;
+      --track-line: #dfcca0;
+    }
+
+    body.theme-warm {
+      --bg-canvas: #f8f5ed;
+      --bg-card: #eee9dc;
+      --bg-subcard: #e4d4b8;
+      --text-main: #26211a;
+      --text-secondary: #555555;
+      --text-muted: #786b5b;
+      --text-accent: #6b5b45;
+      --border-subtle: #ded5c2;
+      --border-line: #d4c7ad;
+      --border-strong: #c2b69d;
+      --bullet-color: #8c7e6c;
+      --track-line: #d4c7ad;
+    }
+
+    body.theme-night {
+      --bg-canvas: #0f1318;
+      --bg-card: #171c24;
+      --bg-subcard: #1f2631;
+      --text-main: #e2e8f0;
+      --text-secondary: #cbd5e1;
+      --text-muted: #8292a6;
+      --text-accent: #38bdf8;
+      --border-subtle: #27313f;
+      --border-line: #2d3848;
+      --border-strong: #3b485a;
+      --bullet-color: #55667d;
+      --track-line: #2d3848;
+    }
+
+    body.theme-white {
+      --bg-canvas: #f8fafc;
+      --bg-card: #ffffff;
+      --bg-subcard: #f1f5f9;
+      --text-main: #0f172a;
+      --text-secondary: #334155;
+      --text-muted: #64748b;
+      --text-accent: #0284c7;
+      --border-subtle: #e2e8f0;
+      --border-line: #e2e8f0;
+      --border-strong: #cbd5e1;
+      --bullet-color: #94a3b8;
+      --track-line: #e2e8f0;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: var(--bg-canvas);
+      color: var(--text-main);
+      font-family: 'Lexend', -apple-system, BlinkMacSystemFont, sans-serif;
+      font-size: 15px; /* Locked default */
+      line-height: 1.68;
+      padding: 2.5rem 1.5rem;
+      transition: background-color 0.2s ease, color 0.2s ease;
+    }
+
+    .sandbox-container {
+      max-width: 860px;
+      margin: 0 auto;
+    }
+
+    /* Sticky Controller */
+    .sandbox-controls {
+      position: sticky;
+      top: 1rem;
+      z-index: 100;
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-radius: 10px;
+      padding: 0.75rem 1.15rem;
+      margin-bottom: 2.5rem;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+    }
+
+    .controls-title {
+      font-size: 0.88rem;
+      font-weight: 700;
+    }
+
+    .btn-group {
+      display: flex;
+      gap: 0.35rem;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    .ctrl-btn {
+      font-family: inherit;
+      font-size: 0.76rem;
+      font-weight: 600;
+      padding: 0.28rem 0.65rem;
+      border-radius: 5px;
+      border: 1px solid var(--border-subtle);
+      background: var(--bg-canvas);
+      color: var(--text-main);
+      cursor: pointer;
+      transition: all 0.15s ease;
+    }
+
+    .ctrl-btn:hover, .ctrl-btn.active {
+      background: var(--text-main);
+      color: var(--bg-canvas);
+    }
+
+    .demo-section {
+      margin-bottom: 4rem;
+    }
+
+    .demo-badge-row {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      margin-bottom: 0.6rem;
+    }
+
+    .badge-test {
+      font-size: 0.7rem;
+      font-weight: 800;
+      padding: 0.15rem 0.5rem;
+      border-radius: 3px;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+
+    .badge-has-scheme {
+      background: #166534;
+      color: #ffffff;
+    }
+
+    .badge-no-scheme {
+      background: #475569;
+      color: #ffffff;
+    }
+
+    .demo-heading {
+      font-size: 1.05rem;
+      font-weight: 700;
+    }
+
+    .demo-desc {
+      font-size: 0.84rem;
+      color: var(--text-muted);
+      margin-bottom: 1.1rem;
+    }
+
+    /* Locked Study Card: Density 2 Compact */
+    .study-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-radius: 10px;
+      padding: 1.35rem 1.65rem;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.02);
+    }
+
+    /* Locked Header Byline */
+    .card-header-locked {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding-bottom: 0.45rem;
+      margin-bottom: 0.75rem;
+      border-bottom: 1px solid var(--border-line);
+      font-size: 0.7rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--text-muted);
+    }
+
+    .header-actions-right {
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+    }
+
+    /* Dynamic Scheme Button */
+    .btn-scheme-badge {
+      font-family: inherit;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.28rem;
+      background: transparent;
+      border: 1px solid var(--border-strong);
+      border-radius: 16px;
+      padding: 0.12rem 0.52rem;
+      font-size: 0.7rem;
+      font-weight: 700;
+      color: var(--text-accent);
+      cursor: pointer;
+      text-transform: none;
+      letter-spacing: normal;
+      transition: all 0.15s ease;
+    }
+
+    .btn-scheme-badge:hover {
+      background: var(--text-accent);
+      color: var(--bg-card);
+      border-color: var(--text-accent);
+    }
+
+    .btn-scheme-badge.active {
+      background: var(--text-accent);
+      color: var(--bg-canvas);
+      border-color: var(--text-accent);
+    }
+
+    /* Quiet Bulb Button */
+    .btn-quiet-bulb {
+      font-family: inherit;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.28rem;
+      background: transparent;
+      border: 1px solid var(--border-subtle);
+      border-radius: 16px;
+      padding: 0.12rem 0.48rem;
+      font-size: 0.7rem;
+      font-weight: 600;
+      color: var(--text-muted);
+      cursor: pointer;
+      text-transform: none;
+      letter-spacing: normal;
+      transition: all 0.15s ease;
+    }
+
+    .btn-quiet-bulb:hover {
+      border-color: var(--text-muted);
+      color: var(--text-main);
+      background: rgba(0, 0, 0, 0.03);
+    }
+
+    .btn-quiet-bulb.active {
+      background: var(--text-main);
+      color: var(--bg-card);
+    }
+
+    /* Locked Dashed Title */
+    .news-title-locked {
+      font-size: 1.25rem;
+      font-weight: 700;
+      line-height: 1.28;
+      padding-bottom: 0.65rem;
+      margin-bottom: 0.85rem;
+      border-bottom: 1px dashed var(--border-line);
+      color: var(--text-main);
+    }
+
+    /* Style 1: Vertical Track Bullets */
+    .bullets-track {
+      position: relative;
+      list-style-type: none;
+      padding-left: 1.35rem;
+      margin-bottom: 0.85rem;
+    }
+
+    .bullets-track::before {
+      content: "";
+      position: absolute;
+      left: 0.35rem;
+      top: 0.4rem;
+      bottom: 0.4rem;
+      width: 1.5px;
+      background: var(--track-line);
+    }
+
+    .bullets-track li {
+      position: relative;
+      margin-bottom: 0.65rem;
+      line-height: 1.55;
+      font-size: 0.95rem;
+    }
+
+    .bullets-track li::before {
+      content: "";
+      position: absolute;
+      left: -1.2rem;
+      top: 0.48rem;
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: var(--bullet-color);
+    }
+
+    /* Unboxed Small Italic Exam Trap Footnote */
+    .exam-trap-subtext {
+      margin-top: 0.85rem;
+      padding-top: 0.55rem;
+      border-top: 1px dashed var(--border-subtle);
+      font-size: 0.82rem;
+      font-style: italic;
+      color: var(--text-muted);
+      line-height: 1.48;
+    }
+
+    .exam-trap-subtext .trap-prefix {
+      font-style: normal;
+      font-weight: 700;
+      font-size: 0.75rem;
+      color: var(--text-main);
+      margin-right: 0.35rem;
+    }
+
+    /* =========================================================
+       SCHEME DEEP-DIVE DRAWER (Calm, Structured, Exam-Grade)
+       ========================================================= */
+    .scheme-deepdive-drawer {
+      margin: 0.85rem 0 1rem 0;
+      padding: 1.15rem 1.25rem;
+      background: var(--bg-subcard);
+      border: 1px solid var(--border-strong);
+      border-radius: 8px;
+      box-shadow: 0 3px 10px rgba(0, 0, 0, 0.05);
+      animation: fadeInDown 0.2s ease-out;
+      text-transform: none;
+    }
+
+    @keyframes fadeInDown {
+      from { opacity: 0; transform: translateY(-5px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .scheme-drawer-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      margin-bottom: 0.85rem;
+      border-bottom: 1px solid var(--border-subtle);
+      padding-bottom: 0.5rem;
+    }
+
+    .scheme-drawer-title-group {
+      display: flex;
+      align-items: baseline;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+    }
+
+    .scheme-drawer-name {
+      font-size: 1.05rem;
+      font-weight: 700;
+      color: var(--text-main);
+    }
+
+    .scheme-type-tag {
+      font-size: 0.65rem;
+      font-weight: 700;
+      padding: 0.1rem 0.4rem;
+      border-radius: 3px;
+      background: var(--bg-card);
+      color: var(--text-accent);
+      border: 1px solid var(--border-strong);
+    }
+
+    .btn-close-drawer {
+      background: transparent;
+      border: 1px solid var(--border-subtle);
+      border-radius: 4px;
+      padding: 0.1rem 0.35rem;
+      font-size: 0.72rem;
+      color: var(--text-muted);
+      cursor: pointer;
+    }
+
+    .btn-close-drawer:hover {
+      background: var(--bg-card);
+      color: var(--text-main);
+    }
+
+    /* Scheme 2-Column Parameter Grid */
+    .scheme-params-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 0.65rem 1rem;
+      margin-bottom: 0.85rem;
+    }
+
+    .scheme-param-box {
+      font-size: 0.84rem;
+      line-height: 1.45;
+    }
+
+    .scheme-param-label {
+      font-size: 0.68rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: var(--text-muted);
+      display: block;
+      margin-bottom: 0.1rem;
+    }
+
+    .scheme-param-value {
+      font-weight: 600;
+      color: var(--text-main);
+    }
+
+    /* Scheme Evolution & Past/Present Block */
+    .scheme-lineage-box {
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-radius: 6px;
+      padding: 0.75rem 0.9rem;
+      margin-bottom: 0.8rem;
+      font-size: 0.84rem;
+      line-height: 1.48;
+    }
+
+    .lineage-title {
+      font-size: 0.75rem;
+      font-weight: 700;
+      color: var(--text-accent);
+      margin-bottom: 0.3rem;
+      display: flex;
+      align-items: center;
+      gap: 0.3rem;
+    }
+
+    /* Scheme Exam Trap in Drawer */
+    .scheme-trap-box {
+      background: rgba(185, 28, 28, 0.07);
+      border-left: 3px solid #b91c1c;
+      border-radius: 4px;
+      padding: 0.45rem 0.65rem;
+      font-size: 0.8rem;
+      line-height: 1.38;
+      color: #991b1b;
+    }
+  </style>
+</head>
+<body class="theme-sepia">
+
+  <div class="sandbox-container">
+
+    <!-- Sticky Controller -->
+    <div class="sandbox-controls">
+      <div class="controls-title">📜 Scheme Button &amp; Lineage Drawer Prototype</div>
+      
+      <div class="btn-group">
+        <span style="font-size:0.76rem; color:var(--text-muted);">Theme:</span>
+        <button class="ctrl-btn active" onclick="setTheme('theme-sepia', this)">Kindle Sepia</button>
+        <button class="ctrl-btn" onclick="setTheme('theme-warm', this)">Warm Paper</button>
+        <button class="ctrl-btn" onclick="setTheme('theme-night', this)">Night Dark</button>
+        <button class="ctrl-btn" onclick="setTheme('theme-white', this)">Clean White</button>
+      </div>
+    </div>
+
+    <!-- =========================================================
+         DEMO 1: NOTE WITH SCHEME (PM E-DRIVE)
+         ========================================================= -->
+    <div class="demo-section">
+      <div class="demo-badge-row">
+        <div style="display:flex; align-items:baseline; gap:0.5rem;">
+          <span class="badge-test badge-has-scheme">SCHEME DETECTED</span>
+          <h2 class="demo-heading">1. Note #12: PM E-DRIVE (Electric Mobility)</h2>
+        </div>
+        <span style="font-size:0.78rem; color:var(--text-muted);">Section 1 · Automatic Detection</span>
+      </div>
+      <p class="demo-desc">
+        The detection engine spots <code>PM E-DRIVE</code> in the note. The header dynamically adds the <strong><code>[📜 Scheme: PM E-DRIVE]</code></strong> button next to <code>[💡 Explain]</code>.
+      </p>
+
+      <article class="study-card">
+        <header class="card-header-locked">
+          <div>NOTE 12 &nbsp;·&nbsp; 12 AUG 2026 &nbsp;·&nbsp; SECTION 1 (ESI &amp; FINANCE)</div>
+          <div class="header-actions-right">
+            <!-- Dynamic Scheme Button -->
+            <button class="btn-scheme-badge" id="btn-scheme-12" onclick="toggleSchemeDrawer('drawer-12', 'btn-scheme-12')">
+              <span>📜</span> <span>Scheme: PM E-DRIVE</span>
+            </button>
+            <button class="btn-quiet-bulb">
+              <span>💡</span> <span>Explain</span>
+            </button>
+          </div>
+        </header>
+
+        <!-- The Expanded Scheme Deep-Dive Drawer -->
+        <div id="drawer-12" class="scheme-deepdive-drawer" style="display:none;">
+          <div class="scheme-drawer-header">
+            <div class="scheme-drawer-title-group">
+              <span class="scheme-drawer-name">PM Electric Drive Revolution in Innovative Vehicle Enhancement (PM E-DRIVE)</span>
+              <span class="scheme-type-tag">Central Sector Scheme</span>
+            </div>
+            <button class="btn-close-drawer" onclick="toggleSchemeDrawer('drawer-12', 'btn-scheme-12')">✕ Close</button>
+          </div>
+
+          <div class="scheme-params-grid">
+            <div class="scheme-param-box">
+              <span class="scheme-param-label">🏛️ Nodal Ministry</span>
+              <span class="scheme-param-value">Ministry of Heavy Industries (MHI)</span>
+            </div>
+            <div class="scheme-param-box">
+              <span class="scheme-param-label">📅 Launch Year &amp; Duration</span>
+              <span class="scheme-param-value">Launched Oct 2024 · Extended to 31 Mar 2028</span>
+            </div>
+            <div class="scheme-param-box">
+              <span class="scheme-param-label">💰 Total Budget Outlay</span>
+              <span class="scheme-param-value">₹11,900 Crore (100% Central Funding)</span>
+            </div>
+            <div class="scheme-param-box">
+              <span class="scheme-param-label">🎯 Target &amp; Segments</span>
+              <span class="scheme-param-value">24.79 Lakh e2Ws · 3.16 Lakh e3Ws · 14,028 e-Buses · 88,500 EV Fast Chargers</span>
+            </div>
+          </div>
+
+          <div class="scheme-lineage-box">
+            <div class="lineage-title">📜 Past Lineage &amp; Predecessor:</div>
+            Replaced the older <strong>FAME-II Scheme</strong> (Faster Adoption and Manufacturing of Electric Vehicles, ₹11,500 Cr, ended March 2024). Unlike FAME-II, PM E-DRIVE introduced Aadhaar-authenticated e-vouchers for buyers and shifted focus heavily toward commercial e-buses and public charging stations.
+          </div>
+
+          <div class="scheme-lineage-box">
+            <div class="lineage-title">📈 Current 2026 Milestone in News:</div>
+            The government extended the scheme tenure by 1 year to <strong>March 31, 2028</strong> while tapering down the e2W subsidy from ₹5,000/kWh to <strong>₹2,500/kWh</strong> (max ₹5,000 per vehicle) for electric 2-wheelers with ex-factory price ≤ ₹1.5 lakh.
+          </div>
+
+          <div class="scheme-trap-box">
+            <strong>🎯 Exam Trap (SBI PO / RBI Grade B):</strong> Total outlay remains fixed at <strong>₹11,900 Cr</strong> (not increased); hybrid cars are <strong>excluded</strong> (only pure EVs eligible); subsidy per e2W was halved from ₹10,000 (FY25) to ₹5,000 (FY26).
+          </div>
+        </div>
+
+        <h1 class="news-title-locked">Govt halves e2W subsidy, extends PM E-DRIVE to March 2028</h1>
+
+        <ul class="bullets-track">
+          <li>PM E-DRIVE extended 1 yr to <strong>31 Mar 2028</strong>; e2W incentive cut ₹5,000/kWh → ₹2,500/kWh; max incentive per e2W now ₹5,000 (was ₹10,000 FY25); eligible e2Ws: ex-factory price up to ₹1.5 lakh; total outlay unchanged: ₹11,900 cr</li>
+        </ul>
+
+        <div class="exam-trap-subtext">
+          <span class="trap-prefix">🎯 Exam Angle:</span> Extension date (Mar 2028) + subsidy halved — before/after trap.
+        </div>
+      </article>
+    </div>
+
+    <!-- =========================================================
+         DEMO 2: NOTE WITH SCHEME (PM SURYA GHAR)
+         ========================================================= -->
+    <div class="demo-section">
+      <div class="demo-badge-row">
+        <div style="display:flex; align-items:baseline; gap:0.5rem;">
+          <span class="badge-test badge-has-scheme">SCHEME DETECTED</span>
+          <h2 class="demo-heading">2. Note #96: PM Surya Ghar Muft Bijli Yojana</h2>
+        </div>
+        <span style="font-size:0.78rem; color:var(--text-muted);">Section 10 · National Rooftop Solar</span>
+      </div>
+      <p class="demo-desc">
+        Clicking <strong><code>[📜 Scheme: PM Surya Ghar]</code></strong> opens the complete breakdown showing origin (Rooftop Phase-II), ₹75,021 Cr outlay, 300 units free electricity, and $850M ADB loan.
+      </p>
+
+      <article class="study-card">
+        <header class="card-header-locked">
+          <div>NOTE 96 &nbsp;·&nbsp; 05 AUG 2026 &nbsp;·&nbsp; SECTION 10 (SCHEMES)</div>
+          <div class="header-actions-right">
+            <!-- Dynamic Scheme Button -->
+            <button class="btn-scheme-badge" id="btn-scheme-96" onclick="toggleSchemeDrawer('drawer-96', 'btn-scheme-96')">
+              <span>📜</span> <span>Scheme: PM Surya Ghar</span>
+            </button>
+            <button class="btn-quiet-bulb">
+              <span>💡</span> <span>Explain</span>
+            </button>
+          </div>
+        </header>
+
+        <!-- The Expanded Scheme Deep-Dive Drawer -->
+        <div id="drawer-96" class="scheme-deepdive-drawer" style="display:none;">
+          <div class="scheme-drawer-header">
+            <div class="scheme-drawer-title-group">
+              <span class="scheme-drawer-name">PM Surya Ghar: Muft Bijli Yojana</span>
+              <span class="scheme-type-tag">Central Sector Scheme</span>
+            </div>
+            <button class="btn-close-drawer" onclick="toggleSchemeDrawer('drawer-96', 'btn-scheme-96')">✕ Close</button>
+          </div>
+
+          <div class="scheme-params-grid">
+            <div class="scheme-param-box">
+              <span class="scheme-param-label">🏛️ Nodal Ministry</span>
+              <span class="scheme-param-value">Ministry of New and Renewable Energy (MNRE)</span>
+            </div>
+            <div class="scheme-param-box">
+              <span class="scheme-param-label">📅 Launch Date</span>
+              <span class="scheme-param-value">Launched 13 February 2024 by PM Modi</span>
+            </div>
+            <div class="scheme-param-box">
+              <span class="scheme-param-label">💰 Total Outlay &amp; Multilateral Co-funding</span>
+              <span class="scheme-param-value">₹75,021 Crore (Co-funded by $850 mn ADB loan)</span>
+            </div>
+            <div class="scheme-param-box">
+              <span class="scheme-param-label">🎯 Core Target</span>
+              <span class="scheme-param-value">1 Crore (10 Million) households · Up to 300 units free monthly solar power</span>
+            </div>
+          </div>
+
+          <div class="scheme-lineage-box">
+            <div class="lineage-title">📜 Past Lineage &amp; Predecessor:</div>
+            Replaced the earlier <strong>Grid-Connected Rooftop Solar Programme Phase-II</strong> (which had a modest 4 GW target). PM Surya Ghar overhauled the subsidy delivery mechanism by providing direct DBT cash subsidies into bank accounts (₹30,000 for 1kW, ₹60,000 for 2kW, max ₹78,000 for 3kW+) plus collateral-free loans at ~7% interest from public sector banks.
+          </div>
+
+          <div class="scheme-lineage-box">
+            <div class="lineage-title">📈 Current 2026 Milestone in News:</div>
+            Scheme crossed <strong>50.06 lakh (5.0+ million) residential installations</strong> — reaching 50% of the national 1 crore target ahead of schedule.
+          </div>
+
+          <div class="scheme-trap-box">
+            <strong>🎯 Exam Trap (SBI PO / RBI Grade B):</strong> Maximum central financial assistance (subsidy) caps at <strong>₹78,000 for 3 kW</strong> systems (no extra subsidy beyond 3 kW for individual residential homes); nodal financing agency is REC Limited.
+          </div>
+        </div>
+
+        <h1 class="news-title-locked">PM Surya Ghar: Muft Bijli Yojana crosses 50.06 lakh households</h1>
+
+        <ul class="bullets-track">
+          <li>Outlay ₹75,021 Cr (also the scheme referenced by an $850 mn ADB loan, cross-referenced under ADB item below)</li>
+        </ul>
+
+        <div class="exam-trap-subtext">
+          <span class="trap-prefix">🎯 Exam Angle:</span> Crossed 50 lakh milestone; total outlay ₹75,021 Cr + $850 mn ADB loan.
+        </div>
+      </article>
+    </div>
+
+    <!-- =========================================================
+         DEMO 3: NOTE WITHOUT SCHEME (BROOKFIELD LUMARA)
+         ========================================================= -->
+    <div class="demo-section">
+      <div class="demo-badge-row">
+        <div style="display:flex; align-items:baseline; gap:0.5rem;">
+          <span class="badge-test badge-no-scheme">NO SCHEME</span>
+          <h2 class="demo-heading">3. Note #1: India 300 GW / Brookfield "Lumara"</h2>
+        </div>
+        <span style="font-size:0.78rem; color:var(--text-muted);">Section 1 · Private Investment News</span>
+      </div>
+      <p class="demo-desc">
+        Because this note covers national capacity statistics and private asset management investment (no government welfare scheme), the header shows <strong>ONLY</strong> the quiet <code>[💡 Explain]</code> bulb. Zero extra buttons or visual noise.
+      </p>
+
+      <article class="study-card">
+        <header class="card-header-locked">
+          <div>NOTE 01 &nbsp;·&nbsp; 01 AUG 2026 &nbsp;·&nbsp; SECTION 1 (ESI &amp; FINANCE)</div>
+          <div class="header-actions-right">
+            <!-- No Scheme Button here! Only Explain bulb -->
+            <button class="btn-quiet-bulb">
+              <span>💡</span> <span>Explain</span>
+            </button>
+          </div>
+        </header>
+
+        <h1 class="news-title-locked">India crosses 300 GW non-fossil fuel capacity; renewables push continues</h1>
+
+        <ul class="bullets-track">
+          <li>India hit <strong>300.50 GW</strong> of installed non-fossil fuel electricity capacity (as of Jul 31, 2026) — 60%+ of its 500 GW-by-2030 target, already 54%+ of total installed capacity (552 GW).</li>
+          <li><strong>Break-up:</strong> Solar 164.59 GW | Wind 58.14 GW | Hydro 57.24 GW | Bio-power 11.75 GW | Nuclear 8.78 GW</li>
+          <li><strong>Brookfield launches "Lumara"</strong> — dedicated India renewable platform, <strong>~$600 mn</strong> deployment (solar/wind/BESS, 6+ GW initial); funded via Brookfield's Catalytic Transition Fund (anchor: UAE's ALTÉRRA, up to $5 bn corpus).</li>
+        </ul>
+
+        <div class="exam-trap-subtext">
+          <span class="trap-prefix">🎯 Exam Angle:</span> Don't confuse: 300.50 GW (national non-fossil capacity) vs Brookfield's $600 mn Lumara deployment vs Brookfield's $32 bn total India investment.
+        </div>
+      </article>
+    </div>
+
+  </div>
+
+  <script>
+    function setTheme(themeClass, btn) {
+      document.body.className = themeClass;
+      document.querySelectorAll('.sandbox-controls .btn-group .ctrl-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+    }
+
+    function toggleSchemeDrawer(drawerId, btnId) {
+      const drawer = document.getElementById(drawerId);
+      const btn = document.getElementById(btnId);
+      if (drawer.style.display === 'none' || drawer.style.display === '') {
+        drawer.style.display = 'block';
+        if (btn) btn.classList.add('active');
+      } else {
+        drawer.style.display = 'none';
+        if (btn) btn.classList.remove('active');
+      }
+    }
+  </script>
+</body>
+</html>

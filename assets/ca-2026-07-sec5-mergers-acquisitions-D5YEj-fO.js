@@ -1,0 +1,8 @@
+const e="ca-2026-07-sec5-mergers-acquisitions",a="ca_note",n="current-affairs",i="Mergers & Acquisitions",t="Mergers & Acquisitions",s=[{id:"blk-41-table",type:"paragraph",content:`| Deal | Detail |
+|---|---|
+| Kotak Mahindra Bank + Deutsche Bank | Acquired India retail/private banking/wealth business, ₹281.7cr |
+| TPG + ICICI Bank + GIC → Aseem Infra Finance | 100% stake acquisition from NIIF (via TPG Rise Climate) |
+| Aviva (UK) + Dabur Invest Corp | Aviva took 100% of Aviva Life Insurance India (from 74%) — first fully foreign-owned Indian life insurer |
+| Tata Capital + Yogloans | 88.6% stake — Tata Capital enters gold-loan business |
+| SBI Funds Management | SBI sold 1.42% stake via Pre-IPO placement, ₹1,655cr raised |
+| Dixon + Vivo Mobile India JV | 51:49 ownership; smartphone production |`},{id:"blk-41-trap",type:"exam_trap",content:"🎯 Exam Angle → 🔥 HIGH — Aviva 100% ownership = first fully foreign-owned Indian life insurer (post 100% FDI policy)."}],r={exam:["SBI PO Mains 2026","IBPS PO Mains 2026","RBI Grade B 2026"],tags:["current-affairs","2026-07","sec5","claude-core-v3"],category:"SEC5",sectionCode:"SEC5",difficulty:"advanced",relevanceTier:"TIER_A",noteTier:"TIER_A",date:"2026-07-31",period:"2026-07",monthLabel:"JULY 2026",monthGroup:"2026-07",provenance:{sourceSystem:"Claude",sourceFile:"current_affairs_July2026_core.md",sourceTitle:"Mergers & Acquisitions"},noteNumber:142},o=[],c={id:e,type:a,domain:n,title:i,summary:t,blocks:s,metadata:r,relationships:o};export{s as blocks,c as default,n as domain,e as id,r as metadata,o as relationships,t as summary,i as title,a as type};

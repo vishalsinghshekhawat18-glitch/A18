@@ -1,0 +1,19 @@
+const e="ca-2026-08-sec2-rbi-regulatory-cluster-merged",a="ca_note",r="current-affairs",t="RBI — Regulatory Cluster",n="HQ RBI: Mumbai | Governor: Sanjay Malhotra (26th) | Estd: Apr 1, 1935 | Deputy Governors (4): Swaminathan Janakiraman, Rohit Jain, Shirish Chandra Murmu, Poonam...",o=[{id:"blk-23-p",type:"paragraph",content:`**A) SPF 101st round** — RBI's Survey of Professional Forecasters (Jul 2026) pegged FY27 real GDP at **6.6%** (up from 6.5% in 100th round) — distinct from MPC's own 6.7% projection above.
+
+**B) Bulk deposits circular** — Effective Oct 1, 2026: banks must disclose bulk deposit rates by 10 am daily (10-min grace); rates must stay uniform across branches.
+
+**C) Loan recovery agents directions deferred** — Pushed from Oct 1, 2026 to **Jan 1, 2027**; agents need IIBF certification within 1-yr window; can contact borrowers only 8 AM–7 PM; no harassment during bereavement/medical emergencies.
+
+**D) India's first phone-lock regulation for loan-financed mobiles** — No restriction till 30 days overdue; full restriction only after 60 days unpaid; cannot disable calls/SMS/emergency SOS; device must be restored within 1 hour of dues payment, delay penalty ₹250/hour (capped at loan amount).
+
+**E) Draft Interest Rate Directions, 2026** — Harmonised benchmark+spread framework; effective 1 April 2027; comments due Sep 11, 2026. Floating-rate reset ≤ once every 3 months; agri-loan reset capped at 12 months; banks with deposits >₹1,000 cr continue MCLR-based benchmark; external benchmark mandatory for floating-rate personal & MSME loans (not RRBs/co-op/NBFCs).
+
+**F) Draft CVA Framework** — Credit Valuation Adjustment framework replacing 2011 norm; effective 1 Apr 2027; BA-CVA approach; new risk weights (sovereigns 0.5%/2%, financial sector 5%/12%).
+
+**G) Draft leverage buffer for G-SIB branches** — Min leverage ratio: 4% (D-SIBs), 3.5% (other banks); G-SIB branches: 3.5% + G-SIB buffer; effective 1 Apr 2027. **D-SIB list 2026: SBI (Bucket 4, 0.80% CET1 add-on) · HDFC Bank (Bucket 2, 0.40%) · ICICI Bank (Bucket 1, 0.20%)**; D-SIB framework introduced 22 Jul 2014, updated 28 Dec 2023.
+
+**H) RBI mandates fake-currency detection machines** at border-district branches; counterfeit notes must be impounded, never returned to tenderer.
+
+**I) RBI approves 1 billion polymer banknotes of ₹10 & ₹20** for field trials — proposal under Section 25, RBI Act 1934.
+
+**J) Monisha Chakraborty appointed Executive Director** — w.e.f. Aug 3, 2026; will head Forex Dept & Financial Markets Regulation Dept.`},{id:"blk-23-bullets",type:"bullet_list",items:["HQ RBI: Mumbai | Governor: Sanjay Malhotra (26th) | Estd: Apr 1, 1935 | Deputy Governors (4): Swaminathan Janakiraman, Rohit Jain, Shirish Chandra Murmu, Poonam Gupta."]},{id:"blk-23-trap",type:"exam_trap",content:"🎯 Exam Angle → 🔥 HIGH — D-SIB CET1 add-on table (SBI 0.80/HDFC 0.40/ICICI 0.20) is a recurring mains favourite; mobile-lock 30/60-day thresholds + ₹250/hr penalty are prime trap numbers; SPF's 6.6% ≠ MPC's 6.7% GDP forecast."}],s={exam:["SBI PO Mains 2026","IBPS PO Mains 2026","RBI Grade B 2026"],tags:["current-affairs","2026-08","sec2","claude-core-v3"],category:"SEC2",sectionCode:"SEC2",difficulty:"advanced",relevanceTier:"TIER_A",noteTier:"TIER_A",date:"2026-08-17",period:"2026-08",monthLabel:"AUGUST 2026",monthGroup:"2026-08",provenance:{sourceSystem:"Claude",sourceFile:"current_affairs_Aug1-17_2026_CORE.md",sourceTitle:"RBI — Regulatory Cluster (merged)"},noteNumber:24},i=[],c={id:e,type:a,domain:r,title:t,summary:n,blocks:o,metadata:s,relationships:i};export{o as blocks,c as default,r as domain,e as id,s as metadata,i as relationships,n as summary,t as title,a as type};
